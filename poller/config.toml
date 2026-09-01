@@ -1,0 +1,183 @@
+# Job watcher configuration. Edit this file, not the code.
+#
+# STATUS OF THE SLUG LISTS BELOW: UNVERIFIED.
+# They are candidates, not a tested seed list. Run the verify workflow
+# (Actions -> "verify sources" -> Run workflow) and delete every slug it
+# reports as dead. Nothing here has been confirmed to return real data.
+
+[match]
+max_level = 1
+
+# Gate 1: the title has to name a role worth waking up for.
+role_keywords = [
+  "software engineer",
+  "software engineering",
+  "software developer",
+  "software development engineer",
+  "sde",
+  "swe",
+  "programmer",
+  "data engineer",
+  "machine learning engineer",
+  "ml engineer",
+  "backend engineer",
+  "back end engineer",
+  "frontend engineer",
+  "front end engineer",
+  "fullstack engineer",
+  "full stack engineer",
+  "systems engineer",
+  "platform engineer",
+  "infrastructure engineer",
+  "security engineer",
+  "site reliability engineer",
+  "embedded engineer",
+  "firmware engineer",
+  "qa engineer",
+  "test engineer",
+  "engineer software",
+  "developer",
+  # Bare "engineer" is deliberate: titles like "New Grad Engineer" are common.
+  # The non-software disciplines it drags in are removed by the two-word
+  # exclusions below, which are phrases rather than bare words so that
+  # "Software Engineer, Sales Platform" survives.
+  "engineer",
+]
+
+# Gate 4: an explicit early career signal. A level-I suffix also counts,
+# which is what lets a bare "Software Engineer I" through.
+new_grad_phrases = [
+  "new grad",
+  "new graduate",
+  "new grads",
+  "recent grad",
+  "recent graduate",
+  "university grad",
+  "university graduate",
+  "university hire",
+  "college grad",
+  "college graduate",
+  "campus",
+  "campus hire",
+  "early career",
+  "early in career",
+  "entry level",
+  "entry-level",
+  "graduate program",
+  "graduate rotational",
+  "grad program",
+  "junior",
+  "associate software engineer",
+  "associate engineer",
+  "associate developer",
+  "class of",
+  "emerging talent",
+  "rotational program",
+]
+
+# Gate 2. All matched on word boundaries, so "intern" never fires inside
+# "internal" and "ii" never fires inside "hawaii".
+exclude_keywords = [
+  "intern",
+  "interns",
+  "internship",
+  "co op",
+  "coop",
+  "senior",
+  "sr",
+  "staff",
+  "principal",
+  "lead",
+  "manager",
+  "director",
+  "head of",
+  "vp",
+  "president",
+  "architect",
+  "fellow",
+  "phd",
+  "postdoc",
+  "apprentice",
+  "contractor",
+  "consultant",
+  "ii",
+  "iii",
+  "iv",
+  "mts",
+  "distinguished",
+  "expert",
+  # Non-software engineering disciplines, and customer-facing "engineer"
+  # titles that are really sales roles. Two-word phrases on purpose.
+  "sales engineer",
+  "solutions engineer",
+  "solution engineer",
+  "customer engineer",
+  "support engineer",
+  "field engineer",
+  "mechanical engineer",
+  "civil engineer",
+  "electrical engineer",
+  "chemical engineer",
+  "industrial engineer",
+  "biomedical engineer",
+  "structural engineer",
+  "environmental engineer",
+  "process engineer",
+  "manufacturing engineer",
+]
+
+[locations]
+# US + Canada + Remote, other countries dropped.
+countries = ["US", "CA"]
+allow_remote = true
+allow_unknown = true  # keep postings with no parseable location, and tag them
+
+[notify]
+priority = "urgent"
+tags = "briefcase"
+# The ntfy topic is read from the NTFY_TOPIC Actions secret. Never put it here:
+# this file is committed and the docs/ site is public.
+
+# ---------------------------------------------------------------------------
+# Sources. Every slug below is a CANDIDATE pending the verify run.
+# ---------------------------------------------------------------------------
+
+[sources.greenhouse]
+enabled = true
+slugs = [
+  "stripe", "databricks", "airbnb", "robinhood", "doordash", "coinbase",
+  "cloudflare", "gitlab", "figma", "asana", "affirm", "flexport", "plaid",
+  "brex", "instacart", "reddit", "discord", "twitch", "pinterest", "lyft",
+  "samsara", "benchling", "scaleai", "anduril", "applieddintuition",
+  "sofi", "chime", "wealthsimple", "shopify", "faire", "verkada",
+  "rippling", "gusto", "vercel", "sentry", "datadog", "mongodb",
+]
+
+[sources.lever]
+enabled = true
+slugs = [
+  "palantir", "netflix", "spotify", "nvidia", "attentive", "ramp",
+  "kaseya", "voleon", "hudsonrivertrading", "jumptrading", "citadel",
+  "matchgroup", "leapyear", "gopuff", "clearcover", "clari",
+]
+
+[sources.ashby]
+enabled = true
+slugs = [
+  "openai", "anthropic", "ramp", "linear", "notion", "mistral",
+  "cohere", "perplexity", "sierra", "cursor", "modal", "runway",
+  "supabase", "replit", "deel", "clickhouse",
+]
+
+[sources.amazon]
+# Brittle and unofficial. Isolated so a failure here cannot take down a sweep.
+enabled = true
+queries = ["software development engineer", "new grad software"]
+
+[sources.simplify]
+# Coverage net for companies not on the three ATSs above.
+# Path confirmed by reading the repo, not guessed.
+enabled = true
+repo = "SimplifyJobs/New-Grad-Positions"
+ref = "dev"
+path = ".github/scripts/listings.json"

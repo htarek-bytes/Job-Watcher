@@ -1,0 +1,79 @@
+name: poll
+
+on:
+  schedule:
+    # Every 5 minutes is the floor GitHub allows. Actual firing is routinely
+    # 10-20 minutes late under load; the dashboard reports observed latency
+    # rather than this number.
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "run = normal sweep, seed = mark everything seen without notifying"
+        type: choice
+        options: [run, seed]
+        default: run
+      dry_run:
+        description: "print notifications instead of sending them"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+# Never let two sweeps race on the state commit. Queue instead of cancelling,
+# so a slow sweep does not silently drop the postings it already fetched.
+concurrency:
+  group: poll
+  cancel-in-progress: false
+
+jobs:
+  sweep:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      # No pip install step on purpose: the poller is standard library only,
+      # so a sweep never waits on dependency resolution or a flaky index.
+
+      - name: Unit tests
+        run: python -m unittest discover -s poller/tests
+
+      - name: Sweep
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          if [ "${{ inputs.mode }}" = "seed" ]; then
+            python poller/cli.py seed
+          elif [ "${{ inputs.dry_run }}" = "true" ]; then
+            python poller/cli.py run --dry-run
+          else
+            python poller/cli.py run
+          fi
+
+      - name: Commit state
+        run: |
+          git config user.name  "job-watcher"
+          git config user.email "job-watcher@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "no state change"
+            exit 0
+          fi
+          git commit -m "state: sweep $(date -u +%Y-%m-%dT%H:%MZ) [skip ci]"
+          # Another sweep may have landed while this one was fetching.
+          for attempt in 1 2 3 4; do
+            if git push; then exit 0; fi
+            echo "push failed, rebasing (attempt $attempt)"
+            git pull --rebase --autostash origin "${GITHUB_REF_NAME}" || true
+            sleep $((attempt * 2))
+          done
+          echo "could not push state after 4 attempts" >&2
+          exit 1

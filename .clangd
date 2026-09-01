@@ -1,9 +1,0 @@
-CompileFlags:
-  Add: 
-    - --target=xtensa-esp32s3-elf
-    - --query-driver=/home/trkbytes/.espressif/tools/**/bin/xtensa-esp32s3-elf-gcc*
-  Remove: 
-    - -mlongcalls
-    - -fno-tree-switch-conversion
-    - -fstrict-volatile-bitfields
-    - -fno-shrink-wrap
