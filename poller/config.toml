@@ -210,6 +210,64 @@ slugs = []
 enabled = true
 slugs = []
 
+# ---------------------------------------------------------------------------
+# Canada. Everything above is an applicant tracking system keyed by a company
+# slug, and the slug registry is mined from SimplifyJobs, a US new grad
+# aggregator. The result was a feed of 496 US roles to 24 Canadian ones. These
+# are national aggregators instead: one endpoint, thousands of employers, and
+# no need to know a company exists before it can be found.
+#
+# All start disabled. None of these publish an API contract, the parsers were
+# written against remembered markup rather than a live response, and shipping
+# an untested source as working is the exact thing this project does not do.
+# Run the probe workflow, then enable what it shows returning real postings.
+# ---------------------------------------------------------------------------
+
+[sources.jobbank]
+# Job Bank, run by the federal government. The widest Canadian coverage there
+# is: small firms that are on no aggregator post here, and every LMIA backed
+# role is required to be here. It is also the only one with no commercial
+# reason to block a reader. Its results link to the employer's own careers
+# page, so they feed slug discovery as well as the feed itself.
+enabled = false
+queries = [
+  "software developer",
+  "software engineer",
+  "junior developer",
+  "developpeur logiciel",
+]
+
+[sources.jobillico]
+# Quebec's largest board and effectively invisible from outside the province.
+enabled = false
+queries = ["software developer", "developpeur logiciel"]
+
+[sources.talentegg]
+# Canadian, and new grad and campus only, so almost everything on it already
+# passes the matcher's early career gate. Small but the highest signal here.
+enabled = false
+queries = ["software", "developer", "engineering"]
+
+[sources.eluta]
+# Indexes Canadian employers' own careers pages rather than reselling
+# postings, so its links point straight at Greenhouse, Lever and Workable
+# boards. Worth more as a discovery feed than as a source of rows.
+enabled = false
+queries = ["software developer", "software engineer"]
+
+[sources.getro]
+# Powers the talent networks venture funds run for their portfolios. The
+# Canadian ones (Inovia, Real, Golden, BDC, Georgian, OMERS, Radical, Panache)
+# are a directory of exactly the employer that is invisible everywhere else:
+# a hundred to three hundred people, real engineering, no aggregator presence.
+#
+# A network is addressed by a numeric id that only appears in its own board's
+# page source, so there is nothing to guess and nothing is listed here yet.
+# To add one: open the fund's jobs page, view source, search for
+# "collection" or "network_id", and paste the number below.
+enabled = false
+collections = []
+
 [sources.amazon]
 # Brittle and unofficial. Isolated so a failure here cannot take down a sweep.
 enabled = true

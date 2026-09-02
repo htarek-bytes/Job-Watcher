@@ -11,13 +11,17 @@ so the dead ones can be pruned. It never writes state.
 
 import argparse
 import concurrent.futures
+import json
 import os
+import re
 import sys
 import time
 import tomllib
+import urllib.parse
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
+import canada
 import discover
 import locations
 import rank
@@ -136,7 +140,13 @@ def sweep(cfg, health, registry, quiet=False, previous=None):
         fetched = list(pool.map(fetch_one, targets))
 
     now = int(time.time())
-    raw_simplify = None
+    # URLs to mine ATS slugs out of. The aggregator was the only contributor
+    # for a long time, and it is a US new grad feed, which is precisely why the
+    # registry knew ~900 American boards and almost no Canadian ones. Job Bank,
+    # Eluta and the Getro networks link to the employer's own ATS, so feeding
+    # their results in here is what makes Canadian coverage compound: a board
+    # learned once is polled directly forever after.
+    discovery_urls = []
 
     for (source, key), result in fetched:
         results.append(result)
@@ -160,8 +170,8 @@ def sweep(cfg, health, registry, quiet=False, previous=None):
                       % (source, key, len(kept_before)))
             continue
 
-        if source == sources.SIMPLIFY:
-            raw_simplify = result.jobs
+        if source == sources.SIMPLIFY or source in canada.DISCOVERY_SOURCES:
+            discovery_urls.extend(j.get("url") for j in result.jobs)
 
         kept = 0
         for job in result.jobs:
@@ -195,11 +205,9 @@ def sweep(cfg, health, registry, quiet=False, previous=None):
         if not quiet and result.count:
             print("  ok %s/%s: %d postings, %d kept" % (source, key, result.count, kept))
 
-    # Discovery runs off the aggregator payload we already fetched.
-    if raw_simplify is not None and cfg.get("discovery", {}).get("enabled", True):
-        found = discover.discover(
-            [{"url": j.get("url")} for j in raw_simplify]
-        )
+    # Discovery runs off payloads already fetched, so it costs no extra request.
+    if discovery_urls and cfg.get("discovery", {}).get("enabled", True):
+        found = discover.discover([{"url": url} for url in discovery_urls])
         before = sum(len(v) for v in registry.values())
         registry.update(discover.merge(registry, found, now))
         after = sum(len(v) for v in registry.values())
@@ -343,6 +351,108 @@ def cmd_verify(cfg, args):
 
 
 # --------------------------------------------------------------------------
+# probe
+#
+# The Canadian sources are HTML pages and undocumented JSON, not published
+# APIs, and this sandbox has no egress to any of them, so their parsers cannot
+# be written by looking at a response. `probe` is the substitute: it runs where
+# egress is real, reports exactly what each endpoint answered, and on --dump
+# prints enough of the raw body to repair a parser from the log.
+#
+# Nothing here writes state, and a source stays disabled in config.toml until
+# a probe run has shown it returning real postings.
+# --------------------------------------------------------------------------
+
+PROBE_QUERY = "software developer"
+
+
+def cmd_probe(cfg, args):
+    import canada as ca
+
+    targets = []
+    for name in ca.SOURCES:
+        block = cfg.get("sources", {}).get(name, {})
+        keys = block.get("queries") or block.get("collections") or [PROBE_QUERY]
+        targets.append((name, str(keys[0])))
+
+    print("Probing %d Canadian sources. Nothing is written.\n" % len(targets))
+    rows = []
+
+    for name, key in targets:
+        result = ca.fetch(name, key)
+        body = getattr(result, "_body", None)
+        titles = [j["title"] for j in result.jobs if j.get("title")][:5]
+        if not result.ok:
+            verdict, detail = "DEAD", result.error or "no data"
+        elif not result.jobs:
+            verdict = "NOPARSE"
+            detail = "HTTP %s answered but the parser found nothing" % result.status
+        else:
+            verdict = "OK"
+            detail = "%d postings: %s" % (result.count, "; ".join(titles))
+        rows.append((verdict, name, key, result.status,
+                     int(result.seconds * 1000), detail))
+        print("  %-8s %-12s %-24s %s" % (verdict, name, key[:24], detail[:110]))
+
+    if args.dump:
+        print("\n" + "=" * 72)
+        print("Raw bodies. This is here so a parser can be fixed from the log.")
+        print("=" * 72)
+        for name, key in targets:
+            print("\n--- %s / %s ---" % (name, key))
+            _dump_body(ca, name, key, args.dump)
+
+    summary = os.environ.get("GITHUB_STEP_SUMMARY")
+    if summary:
+        with open(summary, "a", encoding="utf-8") as fh:
+            fh.write("## Canadian source probe\n\n")
+            fh.write("| verdict | source | key | status | ms | detail |\n"
+                     "|---|---|---|---|---|---|\n")
+            for verdict, name, key, status, ms, detail in rows:
+                fh.write("| %s | %s | `%s` | %s | %d | %s |\n"
+                         % (verdict, name, key, status, ms,
+                            detail.replace("|", "\\|")[:300]))
+    return 0 if any(r[0] == "OK" for r in rows) else 1
+
+
+def _dump_body(ca, name, key, limit):
+    """Refetch one endpoint raw, so the log shows what the parser had to work
+    with: the markup around a result, and any schema.org block on the page."""
+    import net
+
+    urls = {
+        ca.JOBBANK: ca.JOBBANK_SEARCH % urllib.parse.quote_plus(key),
+        ca.JOBILLICO: ca.JOBILLICO_SEARCH % urllib.parse.quote_plus(key),
+        ca.TALENTEGG: ca.TALENTEGG_SEARCH % urllib.parse.quote_plus(key),
+        ca.ELUTA: ca.ELUTA_SEARCH % urllib.parse.quote_plus(key),
+    }
+    if name == ca.GETRO:
+        resp = net.post(ca.GETRO_API % key,
+                        json.dumps({"hitsPerPage": 5, "page": 0}).encode("utf-8"),
+                        headers={"Content-Type": "application/json"})
+    else:
+        resp = net.get(urls[name], headers=ca._BROWSER)
+
+    print("HTTP %s, %d bytes" % (resp.status, len(resp.body or "")))
+    if not resp.body:
+        print("(empty body: %s)" % resp.error)
+        return
+
+    blocks = ca._LD_BLOCK.findall(resp.body)
+    print("schema.org script blocks on page: %d" % len(blocks))
+    for block in blocks[:2]:
+        print("  LD: " + block.strip()[:600])
+
+    # The first result element, which is what a site specific parser reads.
+    found = re.search(r"<article\b.*?</article>", resp.body, re.S | re.I)
+    if found:
+        print("\nfirst <article>:\n" + found.group(0)[:limit])
+    else:
+        print("\nno <article> element. First %d bytes:\n%s"
+              % (limit, resp.body[:limit]))
+
+
+# --------------------------------------------------------------------------
 # seed
 # --------------------------------------------------------------------------
 
@@ -466,6 +576,12 @@ def main(argv=None):
     ver.add_argument("--include-discovered", action="store_true",
                      help="also verify the ~360 auto-discovered boards")
     sub.add_parser("discover", help="mine ATS slugs from the SimplifyJobs feed")
+
+    pro = sub.add_parser("probe", help="check the Canadian sources answer, and how")
+    pro.add_argument("--dump", type=int, nargs="?", const=3000, default=0,
+                     metavar="BYTES",
+                     help="print raw response bodies, to fix a parser from the log")
+
     sub.add_parser("seed", help="mark everything currently open as seen")
     sub.add_parser("notify-test", help="send one push to prove ntfy is wired up")
 
@@ -479,6 +595,7 @@ def main(argv=None):
     return {
         "verify": cmd_verify,
         "discover": cmd_discover,
+        "probe": cmd_probe,
         "notify-test": cmd_notify_test,
         "seed": cmd_seed,
         "run": cmd_run,
