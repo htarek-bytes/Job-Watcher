@@ -175,24 +175,28 @@ slugs = [
 # "tenant.datacentre/site", taken from a company's careers URL:
 #   https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite
 #                 ^tenant ^dc          ^site
-# UNVERIFIED candidates; run verify.
+# Boards come from discovery, which finds ~371 of them from real posting URLs.
+# The eight hand-guessed entries that used to live here were removed: a config
+# entry is pinned "hot" and polled every sweep, so guessing wrong meant paying
+# for a dead board forever. Add here only boards you have confirmed.
 enabled = true
-boards = [
-  "nvidia.wd5/NVIDIAExternalCareerSite",
-  "salesforce.wd12/External_Career_Site",
-  "adobe.wd5/external_experienced",
-  "cisco.wd1/exec",
-  "workday.wd5/Workday",
-  "intuit.wd12/IntuitExternalCareerSite",
-  "autodesk.wd1/Ext",
-  "dell.wd1/ExternalCareerSite",
-]
+boards = []
 
 [sources.smartrecruiters]
-# 6.9% of the feed and the cleanest public API of the lot.
-# UNVERIFIED candidates; run verify.
+# 6.9% of the feed and the cleanest public API of the lot. ~110 boards come
+# from discovery; the same "do not guess" rule as Workday applies here.
 enabled = true
-slugs = ["Visa", "Square", "Bosch", "McDonalds", "Ubisoft"]
+slugs = []
+
+[sources.bamboohr]
+# Small, but a plain public JSON endpoint and discoverable from posting URLs.
+# Boards come from discovery; this list only exists for manual additions.
+enabled = true
+slugs = []
+
+[sources.rippling]
+enabled = true
+slugs = []
 
 [sources.amazon]
 # Brittle and unofficial. Isolated so a failure here cannot take down a sweep.
@@ -210,7 +214,13 @@ enabled = true
 # get the tool blocked. Each sweep polls every "hot" board plus a rotating
 # slice of the rest, so the full set is covered every few minutes while the
 # per-sweep request count stays bounded.
-cold_slice = 40
+# Discovery finds roughly 900 boards across seven platforms. At 80 per sweep
+# and about one sweep a minute, every board is checked roughly every 11
+# minutes, and a board that has produced a match is checked every sweep.
+# These are conditional requests, so an unchanged board costs a 304 and no
+# payload. That works out to about 128 requests per board per day, which is
+# polite for a public job board.
+cold_slice = 80
 # A board that produced a match in this many days stays hot.
 hot_days = 21
 

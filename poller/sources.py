@@ -305,21 +305,23 @@ def iter_configured(cfg, registry=None):
     src = cfg.get("sources", {})
     import discover as _discover
 
-    for name in (GREENHOUSE, LEVER, ASHBY):
+    # Every ATS whose board key can be recovered from a posting URL. The
+    # configured entries and the discovered ones are unioned; discovery is
+    # where almost all of them come from.
+    for name in _discover.SOURCES:
         block = src.get(name, {})
         if not block.get("enabled", True):
             continue
-        slugs = {s.lower() for s in block.get("slugs", [])}
+        key = "boards" if name == WORKDAY else "slugs"
+        configured = block.get(key, [])
+        if name in (WORKDAY, SMARTRECRUITERS):
+            boards = set(configured)
+        else:
+            boards = {b.lower() for b in configured}
         if registry:
-            slugs |= set(_discover.all_slugs(registry, name))
-        for slug in sorted(slugs):
-            yield name, slug
-
-    for name, key in ((WORKDAY, "boards"), (SMARTRECRUITERS, "slugs")):
-        block = src.get(name, {})
-        if block.get("enabled", True):
-            for value in block.get(key, []):
-                yield name, value
+            boards |= set(_discover.all_slugs(registry, name))
+        for board in sorted(boards):
+            yield name, board
 
     if src.get(AMAZON, {}).get("enabled", True):
         for query in src.get(AMAZON, {}).get("queries", []):
@@ -341,6 +343,10 @@ def fetch(source, key, cfg, etag=None):
         return fetch_workday(key, etag)
     if source == SMARTRECRUITERS:
         return fetch_smartrecruiters(key, etag)
+    if source == BAMBOOHR:
+        return fetch_bamboohr(key, etag)
+    if source == RIPPLING:
+        return fetch_rippling(key, etag)
     if source == SIMPLIFY:
         return fetch_simplify(cfg.get("sources", {}).get(SIMPLIFY, {}), etag)
     raise ValueError("unknown source %r" % source)
@@ -454,6 +460,81 @@ def fetch_smartrecruiters(slug, etag=None):
                 url=item.get("applyUrl") or item.get("ref", ""),
                 locations=[city, "Remote" if loc.get("remote") else ""],
                 posted_at=_epoch(item.get("releasedDate")),
+                description="",
+            ))
+        res.ok = True
+    except Exception as exc:  # noqa: BLE001
+        res.error = "parse: %s" % exc
+    return res
+
+
+# --------------------------------------------------------------------------
+# BambooHR and Rippling. Small platforms, but both expose a plain public JSON
+# endpoint and both are discoverable from posting URLs, so they cost little.
+# Neither has been exercised against a live board yet.
+# --------------------------------------------------------------------------
+
+BAMBOOHR = "bamboohr"
+RIPPLING = "rippling"
+
+
+def fetch_bamboohr(slug, etag=None):
+    res = SourceResult(BAMBOOHR, slug)
+    url = "https://%s.bamboohr.com/careers/list" % urllib.parse.quote(slug)
+    resp = _http.get(url, etag=etag)
+    res.status, res.seconds = resp.status, resp.seconds
+    if not resp.ok:
+        res.error = resp.error
+        return res
+    if resp.not_modified:
+        res.ok, res.not_modified = True, True
+        return res
+    try:
+        for item in (resp.json() or {}).get("result", []):
+            loc = item.get("location") or {}
+            where = ", ".join(
+                str(p) for p in (loc.get("city"), loc.get("state"), loc.get("country"))
+                if p
+            )
+            res.jobs.append(_job(
+                BAMBOOHR, slug, item.get("id"),
+                company=slug,
+                title=item.get("jobOpeningName", ""),
+                url="https://%s.bamboohr.com/careers/%s" % (slug, item.get("id")),
+                locations=[where, "Remote" if item.get("isRemote") else ""],
+                posted_at=_epoch(item.get("datePosted")),
+                description="",
+            ))
+        res.ok = True
+    except Exception as exc:  # noqa: BLE001
+        res.error = "parse: %s" % exc
+    return res
+
+
+def fetch_rippling(slug, etag=None):
+    res = SourceResult(RIPPLING, slug)
+    url = ("https://api.rippling.com/platform/api/ats/v1/board/%s/jobs"
+           % urllib.parse.quote(slug))
+    resp = _http.get(url, etag=etag)
+    res.status, res.seconds = resp.status, resp.seconds
+    if not resp.ok:
+        res.error = resp.error
+        return res
+    if resp.not_modified:
+        res.ok, res.not_modified = True, True
+        return res
+    try:
+        payload = resp.json() or []
+        items = payload if isinstance(payload, list) else payload.get("items", [])
+        for item in items:
+            res.jobs.append(_job(
+                RIPPLING, slug, item.get("uuid") or item.get("id"),
+                company=slug,
+                title=item.get("name") or item.get("title", ""),
+                url=item.get("url") or ("https://ats.rippling.com/%s/jobs/%s"
+                                        % (slug, item.get("uuid"))),
+                locations=[(item.get("workLocation") or {}).get("label")],
+                posted_at=_epoch(item.get("createdAt") or item.get("publishedAt")),
                 description="",
             ))
         res.ok = True

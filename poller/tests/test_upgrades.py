@@ -29,7 +29,8 @@ class SlugDiscovery(unittest.TestCase):
             ("https://job-boards.greenhouse.io/databricks/jobs/7", ("greenhouse", "databricks")),
             ("https://jobs.lever.co/palantir/abc-def", ("lever", "palantir")),
             ("https://jobs.ashbyhq.com/mechanize/1ef2/application", ("ashby", "mechanize")),
-            ("https://gdit.wd5.myworkdayjobs.com/x/job/y", None),
+            # Workday is supported now; see MultiPlatformDiscovery.
+            ("https://gdit.wd5.myworkdayjobs.com/x/job/y", ("workday", "gdit.wd5/x")),
             ("https://fa-evmr.fa.ocs.oraclecloud.com/job/27744", None),
             ("", None),
             (None, None),
@@ -279,3 +280,95 @@ class NotModifiedCarryForward(unittest.TestCase):
             srcmod.fetch = original
         self.assertEqual(len(jobs), 1, "aggregator jobs must survive a 304")
         self.assertEqual(jobs[0]["uid"], "a")
+
+
+class MultiPlatformDiscovery(unittest.TestCase):
+    """Board keys recovered from posting URLs, per platform.
+
+    Measured against the live feed: workday 371 boards over 927 postings,
+    smartrecruiters 110 over 231, bamboohr 21 over 39, rippling 18 over 21.
+    Workday was previously running on 8 hand-guessed boards.
+    """
+
+    def test_workday_key_is_tenant_dc_and_site(self):
+        self.assertEqual(
+            discover.slug_from_url(
+                "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA/Dev_RQ1"),
+            ("workday", "gdit.wd5/external_career_site"))
+
+    def test_workday_tolerates_a_locale_segment(self):
+        self.assertEqual(
+            discover.slug_from_url(
+                "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/x"),
+            ("workday", "nvidia.wd5/NVIDIAExternalCareerSite"))
+
+    def test_smartrecruiters_keeps_its_case(self):
+        # SmartRecruiters company identifiers are case sensitive in its API,
+        # so lowercasing them the way the other slugs are lowercased breaks it.
+        self.assertEqual(
+            discover.slug_from_url("https://jobs.smartrecruiters.com/ServiceNow/744000"),
+            ("smartrecruiters", "ServiceNow"))
+
+    def test_bamboohr_and_rippling(self):
+        self.assertEqual(discover.slug_from_url("https://lexical.bamboohr.com/careers/42"),
+                         ("bamboohr", "lexical"))
+        self.assertEqual(discover.slug_from_url("https://ats.rippling.com/flexai/jobs/a"),
+                         ("rippling", "flexai"))
+
+    def test_every_discoverable_source_has_a_fetcher(self):
+        import sources as srcmod
+        for name in discover.SOURCES:
+            with self.subTest(source=name):
+                srcmod.fetch(name, "x", {"sources": {}}) if False else None
+                self.assertTrue(hasattr(srcmod, "fetch_" + name.replace(".", "")),
+                                "no fetch_%s" % name)
+
+    @unittest.skipUnless(FIXTURE and os.path.exists(FIXTURE or ""),
+                         "set SIMPLIFY_FIXTURE to the real listings.json")
+    def test_discovery_scale_against_the_real_feed(self):
+        with open(FIXTURE, "r", encoding="utf-8") as fh:
+            records = [r for r in json.load(fh)
+                       if r.get("active") and r.get("is_visible", True)]
+        found = discover.discover(records)
+        self.assertGreater(len(found["workday"]), 200, "workday discovery regressed")
+        self.assertGreater(len(found["smartrecruiters"]), 50)
+        self.assertGreater(sum(len(v) for v in found.values()), 700)
+
+
+class AggregatorLag(unittest.TestCase):
+    """The aggregator's date is when it noticed a posting, not when the
+    company published it. The gap is measured from roles that arrive both
+    ways, never assumed."""
+
+    def _pair(self, ats_at, agg_at):
+        return [
+            _job(uid="g", source="greenhouse", posted_at=ats_at,
+                 url="https://boards.greenhouse.io/acme/1"),
+            _job(uid="s", source="simplify", posted_at=agg_at,
+                 url="https://simplify/x"),
+        ]
+
+    def test_lag_is_measured_from_a_matched_pair(self):
+        samples = []
+        rank.dedupe(self._pair(1_000_000, 1_000_000 + 3 * 86400), samples)
+        self.assertEqual(samples, [3 * 86400])
+
+    def test_survivor_keeps_the_earliest_date_and_says_where_it_came_from(self):
+        [kept] = rank.dedupe(self._pair(1_000_000, 1_000_000 + 3 * 86400))
+        self.assertEqual(kept["posted_at"], 1_000_000)
+        self.assertEqual(kept["posted_from"], "greenhouse")
+
+    def test_negative_gaps_are_not_lag(self):
+        # The ATS re-dating a req is not the aggregator being slow.
+        samples = []
+        rank.dedupe(self._pair(1_000_000 + 5000, 1_000_000), samples)
+        self.assertEqual(samples, [])
+
+    def test_absurd_gaps_are_rejected(self):
+        samples = []
+        rank.dedupe(self._pair(1_000_000, 1_000_000 + 200 * 86400), samples)
+        self.assertEqual(samples, [])
+
+    def test_single_source_roles_still_record_their_origin(self):
+        [kept] = rank.dedupe([_job(uid="a", source="simplify", posted_at=1)])
+        self.assertEqual(kept["posted_from"], "simplify")

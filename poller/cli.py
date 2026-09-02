@@ -65,9 +65,11 @@ def select_targets(cfg, registry, health):
     hot, cold = [], []
     for target in all_targets:
         source, key = target
-        # Non-slug sources (the aggregator, Amazon, explicitly configured
-        # boards) are always hot; they are few and they are the backbone.
-        if source not in (sources.GREENHOUSE, sources.LEVER, sources.ASHBY):
+        # The aggregator and Amazon are always hot: they are few and they are
+        # the backbone. Every discoverable ATS board goes through rotation,
+        # which now matters a great deal more: discovery finds ~370 Workday
+        # boards on its own, and polling those every sweep would be abuse.
+        if source not in discover.SOURCES:
             hot.append(target)
             continue
         entry = registry.get(source, {}).get(key, {})
@@ -187,7 +189,7 @@ def sweep(cfg, health, registry, quiet=False, previous=None):
             jobs.append(job)
             kept += 1
 
-        if kept and source in (sources.GREENHOUSE, sources.LEVER, sources.ASHBY):
+        if kept and source in discover.SOURCES:
             registry.setdefault(source, {}).setdefault(key, {})["last_match"] = now
 
         if not quiet and result.count:
@@ -204,8 +206,21 @@ def sweep(cfg, health, registry, quiet=False, previous=None):
         if not quiet:
             print("  discovery: %d boards known (+%d new)" % (after, after - before))
 
-    jobs = rank.dedupe(jobs)
+    lag_samples = []
+    jobs = rank.dedupe(jobs, lag_samples)
     rank.apply_ranking(jobs, now)
+
+    # The aggregator's indexing lag, measured from roles that arrived both
+    # ways. The dashboard adds it to the age of aggregator-only roles so the
+    # number on screen is time since the company posted, not time since the
+    # aggregator noticed.
+    if lag_samples:
+        lag_samples.sort()
+        health.setdefault("source_lag_seconds", {})["simplify"] = int(
+            lag_samples[len(lag_samples) // 2]
+        )
+        health["source_lag_samples"] = len(lag_samples)
+
     return jobs, results
 
 
@@ -233,8 +248,8 @@ def cmd_discover(cfg, args):
     registry = discover.seed_from_config(registry, cfg, now)
     state.save_slugs(registry)
 
-    for source in (discover.GREENHOUSE, discover.LEVER, discover.ASHBY):
-        print("  %-11s %3d discovered | %3d known (was %d)"
+    for source in discover.SOURCES:
+        print("  %-16s %4d discovered | %4d known (was %d)"
               % (source, len(found.get(source, {})), len(registry.get(source, {})),
                  before.get(source, 0)))
     print("\n%d boards in data/slugs.json." % sum(len(v) for v in registry.values()))

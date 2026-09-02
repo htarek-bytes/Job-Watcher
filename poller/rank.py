@@ -46,11 +46,18 @@ def dedupe_key(job):
     return (_WS.sub(" ", company).strip(), normalize_title(job.get("title")))
 
 
-def dedupe(jobs):
+def dedupe(jobs, lag_samples=None):
     """Collapse duplicates, keeping the best-sourced copy.
 
     The survivor records what it absorbed, so the dashboard can say a role was
     seen in three places rather than silently hiding two of them.
+
+    Where a role arrives from both a direct ATS and the aggregator, the gap
+    between their two timestamps is the aggregator's indexing lag, measured
+    rather than assumed. Those samples go into `lag_samples` and are used to
+    correct the age of roles that only ever arrive from the aggregator, whose
+    date is when the aggregator noticed the posting and not when the company
+    published it.
     """
     groups = {}
     for job in jobs:
@@ -65,14 +72,30 @@ def dedupe(jobs):
             )
         )
         best = dict(members[0])
+        best["posted_from"] = best.get("source")
+
         if len(members) > 1:
             best["duplicate_count"] = len(members)
             best["duplicate_sources"] = sorted({m.get("source") for m in members})
+
             # Keep the earliest known posting time across the copies: the
-            # aggregator often carries a date the ATS omits.
-            times = [m.get("posted_at") for m in members if m.get("posted_at")]
-            if times:
-                best["posted_at"] = min(times)
+            # aggregator often carries a date the ATS omits, and vice versa.
+            dated = [m for m in members if m.get("posted_at")]
+            if dated:
+                earliest = min(dated, key=lambda m: m["posted_at"])
+                best["posted_at"] = earliest["posted_at"]
+                best["posted_from"] = earliest.get("source")
+
+            if lag_samples is not None:
+                direct = [m for m in dated if SOURCE_RANK.get(m.get("source"), 9) == 0]
+                aggregated = [m for m in dated if m.get("source") == "simplify"]
+                if direct and aggregated:
+                    gap = aggregated[0]["posted_at"] - min(m["posted_at"] for m in direct)
+                    # Only forward gaps are lag. A negative one means the ATS
+                    # re-dated the req, which is not what is being measured.
+                    if 0 < gap < 90 * 86400:
+                        lag_samples.append(gap)
+
         collapsed.append(best)
     return collapsed
 
