@@ -116,11 +116,11 @@ jobs:
           git clone --depth 1 \
             "https://x-access-token:${DATA_REPO_TOKEN}@github.com/htarek-bytes/job-watcher-data.git" \
             /tmp/feed
-          cp data/jobs.json data/health.json data/skills.json /tmp/feed/
+          cp data/jobs.json data/health.json /tmp/feed/
           cd /tmp/feed
           git config user.name  "job-watcher"
           git config user.email "job-watcher@users.noreply.github.com"
-          git add jobs.json health.json skills.json
+          git add jobs.json health.json
           if git diff --cached --quiet; then
             echo "feed unchanged"
             exit 0

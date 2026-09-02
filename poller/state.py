@@ -153,27 +153,3 @@ def closure_summary(closed):
         "p10_hours": round(lifetimes[len(lifetimes) // 10], 1),
         "p90_hours": round(lifetimes[9 * len(lifetimes) // 10], 1),
     }
-
-
-SKILLS = os.path.join(DATA, "skills.json")
-
-
-def save_skills(rows, scanned_roles, described_roles, total_roles):
-    """What the matched roles keep asking for, and whether the CV says it.
-
-    `scanned_roles` is the number of roles that yielded any skill at all, and
-    it is the denominator for every percentage. Using the whole feed instead
-    would understate every skill, because most roles arrive from the
-    aggregator with a title and nothing else.
-
-    `described_roles` is how many of those had a real job description. When it
-    is 0 the whole table was read off titles, which is thin enough that the
-    dashboard has to say so rather than present it as demand data.
-    """
-    _write(SKILLS, {
-        "updated_at": int(time.time()),
-        "roles_scanned": scanned_roles,
-        "roles_with_descriptions": described_roles,
-        "roles_total": total_roles,
-        "skills": rows,
-    })

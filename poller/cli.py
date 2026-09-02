@@ -21,7 +21,6 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import discover
 import locations
 import rank
-import resume
 import sources
 import state
 import workauth
@@ -29,15 +28,6 @@ from matcher import Matcher
 from notify import Notifier
 
 CONFIG = os.path.join(os.path.dirname(os.path.abspath(__file__)), "config.toml")
-PROFILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "profile.toml")
-
-
-def load_profile(path=PROFILE):
-    try:
-        with open(path, "rb") as fh:
-            return tomllib.load(fh)
-    except FileNotFoundError:
-        return {}
 
 # More than this many new matches in one sweep means something changed
 # structurally (new slugs, a reset state file). Send one summary instead of
@@ -118,8 +108,6 @@ def sweep(cfg, health, registry, quiet=False, previous=None):
     matcher = Matcher(cfg)
     jobs = []
     results = []
-    have = resume.profile_skills(load_profile().get("profile", {}))
-    skill_counts = {}
 
     # Indexed source -> slug -> jobs. The lookup key is not always the job's
     # slug: the aggregator is configured as "SimplifyJobs/New-Grad-Positions"
@@ -147,7 +135,6 @@ def sweep(cfg, health, registry, quiet=False, previous=None):
 
     now = int(time.time())
     raw_simplify = None
-    described = 0
 
     for (source, key), result in fetched:
         results.append(result)
@@ -165,9 +152,6 @@ def sweep(cfg, health, registry, quiet=False, previous=None):
                 kept_before = [j for group in by_slug.values() for j in group]
             else:
                 kept_before = by_slug.get(key, [])
-            for job in kept_before:
-                for skill in job.get("requested_skills") or []:
-                    skill_counts[skill] = skill_counts.get(skill, 0) + 1
             jobs.extend(kept_before)
             if not quiet and kept_before:
                 print("  == %s/%s unchanged (304), %d carried forward"
@@ -197,22 +181,8 @@ def sweep(cfg, health, registry, quiet=False, previous=None):
             job["work_auth"] = status
             job["work_auth_evidence"] = auth_evidence
 
-            # Skills come from the title as well as the description. The
-            # description is far richer, but only the direct ATS sources send
-            # one, and reading titles too means the panel still says something
-            # when the feed is aggregator-only instead of sitting empty.
-            description = job.get("description", "")
-            if description:
-                described += 1
-            requested = resume.extract(
-                "%s\n%s" % (job.get("title", ""), description)
-            )
-            if requested:
-                for skill in requested:
-                    skill_counts[skill] = skill_counts.get(skill, 0) + 1
-                job["requested_skills"] = sorted(requested)
-                job["missing_keywords"] = resume.gap(requested, have)[:8]
-            # The description is never committed: everything in data/ is public.
+            # The description is scanned for work authorization above and then
+            # dropped. It is never committed: everything in data/ is public.
             job.pop("description", None)
             jobs.append(job)
             kept += 1
@@ -236,10 +206,6 @@ def sweep(cfg, health, registry, quiet=False, previous=None):
 
     jobs = rank.dedupe(jobs)
     rank.apply_ranking(jobs, now)
-
-    scanned = sum(1 for j in jobs if j.get("requested_skills"))
-    state.save_skills(resume.demand(skill_counts, have, scanned),
-                      scanned, described, len(jobs))
     return jobs, results
 
 
@@ -273,58 +239,6 @@ def cmd_discover(cfg, args):
                  before.get(source, 0)))
     print("\n%d boards in data/slugs.json." % sum(len(v) for v in registry.values()))
     print("Run `verify` to find out which of them actually answer.")
-    return 0
-
-
-# --------------------------------------------------------------------------
-# resume-lint
-# --------------------------------------------------------------------------
-
-def cmd_resume_lint(cfg, args):
-    path = args.path
-    try:
-        if path.lower().endswith(".pdf"):
-            try:
-                from pdfminer.high_level import extract_text
-            except ImportError:
-                print("Reading a PDF needs pdfminer.six, which the poller does "
-                      "not depend on (it is standard library only).\n"
-                      "Either `pip install pdfminer.six`, or export your CV to "
-                      "text and pass that instead.")
-                return 2
-            text = extract_text(path)
-        else:
-            with open(path, "r", encoding="utf-8") as fh:
-                text = fh.read()
-    except OSError as exc:
-        print("could not read %s: %s" % (path, exc))
-        return 2
-
-    bullets = resume.parse_bullets(text)
-    if not bullets:
-        print("No bullets found. Lines should start with a bullet character or a dash.")
-        return 1
-
-    clean = 0
-    for bullet in bullets:
-        findings = resume.lint_bullet(bullet)
-        if not findings:
-            clean += 1
-            if args.verbose:
-                print("  OK   [%2dw] %s" % (len(bullet.split()), bullet[:88]))
-            continue
-        print("\n  FIX  [%2dw] %s" % (len(bullet.split()), bullet[:110]))
-        for finding in findings:
-            print("         - %s" % finding)
-
-    words = sorted(len(b.split()) for b in bullets)
-    numbered = sum(1 for b in bullets if any(ch.isdigit() for ch in b))
-    print("\n" + "=" * 72)
-    print("%d bullets | %d clean | median %d words | %d%% carry a number"
-          % (len(bullets), clean, words[len(words) // 2],
-             round(100 * numbered / len(bullets))))
-    print("reference CV: median 28 words, max 30, 100%% carry a number")
-    print("=" * 72)
     return 0
 
 
@@ -509,10 +423,6 @@ def main(argv=None):
     ver.add_argument("--include-discovered", action="store_true",
                      help="also verify the ~360 auto-discovered boards")
     sub.add_parser("discover", help="mine ATS slugs from the SimplifyJobs feed")
-
-    lint = sub.add_parser("resume-lint", help="check CV bullets against the measured pattern")
-    lint.add_argument("path", help="a .txt/.md file, or a .pdf if pdfminer.six is installed")
-    lint.add_argument("-v", "--verbose", action="store_true", help="also show passing bullets")
     sub.add_parser("seed", help="mark everything currently open as seen")
 
     run = sub.add_parser("run", help="one sweep")
@@ -525,7 +435,6 @@ def main(argv=None):
     return {
         "verify": cmd_verify,
         "discover": cmd_discover,
-        "resume-lint": cmd_resume_lint,
         "seed": cmd_seed,
         "run": cmd_run,
     }[args.command](cfg, args)
