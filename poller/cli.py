@@ -368,19 +368,25 @@ PROBE_QUERY = "software developer"
 
 def cmd_probe(cfg, args):
     import canada as ca
+    import net
 
     targets = []
     for name in ca.SOURCES:
         block = cfg.get("sources", {}).get(name, {})
-        keys = block.get("queries") or block.get("collections") or [PROBE_QUERY]
-        targets.append((name, str(keys[0])))
+        keys = block.get("queries") or block.get("collections")
+        if name == ca.GETRO and not keys:
+            # Getro is addressed by network id, and a search term is not one.
+            # Probing it with the default query only produced a confusing 404
+            # about a URL containing a space.
+            print("  SKIP     getro        no network ids configured\n")
+            continue
+        targets.append((name, str((keys or [PROBE_QUERY])[0])))
 
     print("Probing %d Canadian sources. Nothing is written.\n" % len(targets))
     rows = []
 
     for name, key in targets:
         result = ca.fetch(name, key)
-        body = getattr(result, "_body", None)
         titles = [j["title"] for j in result.jobs if j.get("title")][:5]
         if not result.ok:
             verdict, detail = "DEAD", result.error or "no data"
@@ -393,6 +399,22 @@ def cmd_probe(cfg, args):
         rows.append((verdict, name, key, result.status,
                      int(result.seconds * 1000), detail))
         print("  %-8s %-12s %-24s %s" % (verdict, name, key[:24], detail[:110]))
+
+        # Finding the right path one workflow run at a time is slow, so try
+        # every candidate shape in the same run. Done for a working source too,
+        # not only a failing one: for Job Bank the open question is not whether
+        # the URL answers but which sort parameter orders by date, and that is
+        # only visible by comparing what each one returns.
+        if args.candidates:
+            for url in ca.probe_urls(name, key)[1:]:
+                probe = net.get(url, headers=ca._BROWSER)
+                # Path and query only. These candidates differ in their last
+                # few characters, so a left truncated full URL printed four
+                # identical looking lines.
+                shown = url.split("//", 1)[-1].split("/", 1)[-1]
+                print("      try %-58s HTTP %-4s %7d bytes  %s"
+                      % (shown[-58:], probe.status, len(probe.body or ""),
+                         _probe_parse(ca, name, key, probe.body)))
 
     if args.dump:
         print("\n" + "=" * 72)
@@ -413,6 +435,38 @@ def cmd_probe(cfg, args):
                          % (verdict, name, key, status, ms,
                             detail.replace("|", "\\|")[:300]))
     return 0 if any(r[0] == "OK" for r in rows) else 1
+
+
+def _probe_parse(ca, name, key, body):
+    """What this source's parser makes of a candidate page.
+
+    A status code alone does not separate the right URL from a soft 200 error
+    page, and for Job Bank it does not answer the other open question either:
+    which sort parameter actually orders by date. Printing the newest posting
+    the parser finds answers both from one run.
+    """
+    if not body:
+        return ""
+    parser = {
+        ca.JOBBANK: ca._parse_jobbank,
+        ca.JOBILLICO: ca._parse_jobillico,
+        ca.TALENTEGG: ca._parse_talentegg,
+        ca.ELUTA: ca._parse_eluta,
+    }.get(name)
+    if not parser:
+        return ""
+    try:
+        jobs = parser(key, body)
+    except Exception as exc:  # noqa: BLE001
+        return "parser raised %s" % type(exc).__name__
+    if not jobs:
+        return "0 parsed"
+    newest = max((j.get("posted_at") or 0) for j in jobs)
+    return "%d parsed, newest %s, first %r" % (
+        len(jobs),
+        time.strftime("%Y-%m-%d", time.gmtime(newest)) if newest else "unknown",
+        jobs[0]["title"][:40],
+    )
 
 
 def _dump_body(ca, name, key, limit):
@@ -581,6 +635,8 @@ def main(argv=None):
     pro.add_argument("--dump", type=int, nargs="?", const=3000, default=0,
                      metavar="BYTES",
                      help="print raw response bodies, to fix a parser from the log")
+    pro.add_argument("--candidates", action="store_true",
+                     help="for a source that failed, try every known URL shape")
 
     sub.add_parser("seed", help="mark everything currently open as seen")
     sub.add_parser("notify-test", help="send one push to prove ntfy is wired up")

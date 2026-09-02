@@ -174,14 +174,34 @@ JOBBANK_BASE = "https://www.jobbank.gc.ca"
 # only tell one guess from another if there is one of them.
 JOBBANK_SEARCH = JOBBANK_BASE + "/jobsearch/jobsearch?searchstring=%s&sort=M"
 
+# Pinned to the markup a probe run actually returned, not to remembered
+# markup. The first attempt guessed `noc-title` and a `<span>` wrapped date and
+# found nothing in a 284 KB page of real results, which is the whole reason the
+# probe command exists.
 _JB_ARTICLE = re.compile(r"<article\b.*?</article>", re.S | re.I)
 _JB_ID = re.compile(r'id=["\']article-(\d+)', re.I)
-_JB_HREF = re.compile(r'href=["\'](/jobsearch/jobposting/[^"\'?#]+)', re.I)
-_JB_TITLE = re.compile(r'class=["\'][^"\']*noc-title[^"\']*["\'][^>]*>(.*?)<', re.S | re.I)
-_JB_BUSINESS = re.compile(r'class=["\'][^"\']*business[^"\']*["\'][^>]*>(.*?)<', re.S | re.I)
-_JB_LOCATION = re.compile(r'class=["\'][^"\']*location[^"\']*["\'][^>]*>(.*?)<', re.S | re.I)
-_JB_DATE = re.compile(
-    r'class=["\'][^"\']*date[^"\']*["\'][^>]*>(?:\s*<[^>]+>)*\s*([^<]+)', re.S | re.I)
+# The posting id, not the href. Job Bank appends `;jsessionid=...` to every
+# link, so taking the path verbatim would give the same job a different URL on
+# every fetch, and a job whose URL changes is a job the diff reports as new.
+_JB_POSTING = re.compile(r"/jobsearch/jobposting/(\d+)", re.I)
+_JB_TITLE = re.compile(r'class=["\']noctitle["\'][^>]*>(.*?)</span>', re.S | re.I)
+# Screen reader labels. They sit inside the location and source items and read
+# as "Location" and "Job number:", which would end up in the location string.
+_JB_INVISIBLE = re.compile(
+    r'<span[^>]*class=["\'][^"\']*\bwb-inv\b[^"\']*["\'][^>]*>.*?</span>', re.S | re.I)
+
+
+def _jb_item(block, name):
+    """The text of the <li class="name"> in a result, tags and all stripped.
+
+    Read to the closing tag rather than to the next `<`: the location item
+    opens with two icon spans before any text, so stopping at the first tag
+    returned an empty string.
+    """
+    found = re.search(
+        r'<li[^>]*class=["\'][^"\']*\b%s\b[^"\']*["\'][^>]*>(.*?)</li>' % name,
+        block, re.S | re.I)
+    return _clean(found.group(1)) if found else ""
 
 
 def _clean(text):
@@ -218,22 +238,26 @@ def _parse_jobbank(query, body):
         return _dedupe_by_url(jobs)
 
     for block in _JB_ARTICLE.findall(body or ""):
-        href = _JB_HREF.search(block)
+        block = _JB_INVISIBLE.sub(" ", block)
+        posting = _JB_POSTING.search(block)
         title = _JB_TITLE.search(block)
-        if not href or not title:
+        if not posting or not title:
+            continue
+        title_text = _clean(title.group(1))
+        if not title_text:
             continue
         ident = _JB_ID.search(block)
-        date = _JB_DATE.search(block)
+        where = _jb_item(block, "location")
         jobs.append(sources._job(
             JOBBANK, query,
-            ident.group(1) if ident else href.group(1).rsplit("/", 1)[-1],
-            company=_clean(_JB_BUSINESS.search(block).group(1))
-            if _JB_BUSINESS.search(block) else "",
-            title=_clean(title.group(1)),
-            url=urllib.parse.urljoin(JOBBANK_BASE, href.group(1)),
-            locations=[_clean(_JB_LOCATION.search(block).group(1))]
-            if _JB_LOCATION.search(block) else ["Canada"],
-            posted_at=_jobbank_date(date.group(1) if date else None),
+            ident.group(1) if ident else posting.group(1),
+            company=_jb_item(block, "business"),
+            title=title_text,
+            url="%s/jobsearch/jobposting/%s" % (JOBBANK_BASE, posting.group(1)),
+            # Everything on Job Bank is in Canada, so an unreadable location is
+            # still worth keeping rather than dropping the row.
+            locations=[where or "Canada"],
+            posted_at=_jobbank_date(_jb_item(block, "date")),
             description="",
         ))
     return _dedupe_by_url(jobs)
@@ -494,6 +518,61 @@ def _parse_getro(collection, payload):
 
 
 # --------------------------------------------------------------------------
+
+# Alternative URL shapes, tried by `cli.py probe --candidates` when the primary
+# one fails. A probe run measured Jobillico answering 404 to /en/job-search and
+# TalentEgg answering 500 to /search/jobs/, so the path each of them actually
+# uses is still unknown and guessing one at a time costs a workflow run each.
+CANDIDATE_URLS = {
+    # Not a broken path: Job Bank answers 200 with real results. The open
+    # question is the sort. A `sort=M` run returned a two week old posting
+    # first, so it is not ordering by date, and at a one minute cadence a feed
+    # sorted by relevance is close to useless.
+    JOBBANK: [
+        JOBBANK_BASE + "/jobsearch/jobsearch?searchstring=%s&sort=D",
+        JOBBANK_BASE + "/jobsearch/jobsearch?searchstring=%s&sort=RD",
+        JOBBANK_BASE + "/jobsearch/jobsearch?searchstring=%s&sort=date",
+        JOBBANK_BASE + "/jobsearch/jobsearch?searchstring=%s",
+    ],
+    JOBILLICO: [
+        JOBILLICO_BASE + "/en/search-jobs?skwd=%s",
+        JOBILLICO_BASE + "/en/jobs-search?skwd=%s",
+        JOBILLICO_BASE + "/en/search?skwd=%s",
+        JOBILLICO_BASE + "/en/job-offers?skwd=%s",
+        JOBILLICO_BASE + "/fr/recherche-emploi?skwd=%s",
+        JOBILLICO_BASE + "/en/job-search",
+        JOBILLICO_BASE + "/",
+    ],
+    TALENTEGG: [
+        TALENTEGG_BASE + "/search?q=%s",
+        TALENTEGG_BASE + "/jobs?q=%s",
+        TALENTEGG_BASE + "/search/jobs?q=%s",
+        TALENTEGG_BASE + "/browse/jobs?q=%s",
+        TALENTEGG_BASE + "/jobs",
+        TALENTEGG_BASE + "/",
+    ],
+    # Eluta refused the TLS handshake outright ("SSLV3_ALERT_HANDSHAKE_FAILURE")
+    # against Python's default client, which is a server side rejection of a non
+    # browser client rather than a wrong path. There is no URL that fixes that,
+    # so there is nothing to try.
+    ELUTA: [],
+}
+
+
+def probe_urls(source, query):
+    """Every URL worth trying for a source, primary first."""
+    primary = {
+        JOBBANK: JOBBANK_SEARCH,
+        JOBILLICO: JOBILLICO_SEARCH,
+        TALENTEGG: TALENTEGG_SEARCH,
+        ELUTA: ELUTA_SEARCH,
+    }.get(source)
+    quoted = urllib.parse.quote_plus(query)
+    out = [primary % quoted] if primary else []
+    for template in CANDIDATE_URLS.get(source, []):
+        out.append(template % quoted if "%s" in template else template)
+    return out
+
 
 _FETCHERS = {
     JOBBANK: fetch_jobbank,

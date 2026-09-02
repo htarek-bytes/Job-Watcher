@@ -45,30 +45,41 @@ JSON_LD_PAGE = """
 </head><body></body></html>
 """
 
-# Job Bank's results list, for when the page carries no JSON-LD.
+# Job Bank's results list, copied from what a probe run actually returned
+# rather than from memory. The first version of this fixture was invented, the
+# parser passed against it, and it then found nothing in 284 KB of real page:
+# the class is `noctitle` not `noc-title`, the date is a bare text node, the
+# location opens with two icon spans, and every href carries a jsessionid.
 JOBBANK_HTML = """
 <html><body>
-<article id="article-41888001" class="resultJobItem">
-  <a href="/jobsearch/jobposting/41888001?source=searchresults">
-    <span class="noc-title">software developer</span>
+<article id="article-50112716" class="action-buttons"><a href="/jobsearch/jobposting/50112716;jsessionid=58AEF7931F9F1FC410F9B6542FF4617F.jobsearch76?source=searchresults" class="resultJobItem">
+    <h3 class="title">
+      <span class="flag"><span class="telework">On site</span><span class="appmethod">Direct Apply</span></span>
+      <span class="job-source job-source-icon-16"><span class="wb-inv">Job Bank</span></span>
+      <span class="noctitle"> junior software developer
+      </span>
+    </h3>
     <ul class="list-unstyled">
-      <li class="business">SHOPIFY INC.</li>
-      <li class="location">Ottawa (ON)</li>
-      <li class="date"><span>September 2, 2026</span></li>
-    </ul>
-  </a>
+      <li class="date">August 19, 2026
+      </li>
+      <li class="business">Toronto Sun Wah Trading Ltd</li>
+      <li class="location"><span class="fas fa-map-marker-alt" aria-hidden="true"></span> <span class="wb-inv">Location</span>
+             Etobicoke (ON)
+      </li>
+      <li class="salary"><span class="fa fa-dollar" aria-hidden="true"></span> $50.00 hourly</li>
+      <li class="source"><span class="wb-inv">Job number:</span> 3651548</li>
+    </ul></a>
 </article>
-<article id="article-41888002" class="resultJobItem">
-  <a href="/jobsearch/jobposting/41888002">
-    <span class="noc-title">junior programmer analyst</span>
+<article id="article-50112717" class="action-buttons"><a href="/jobsearch/jobposting/50112717;jsessionid=ABC.jobsearch76">
+    <h3 class="title"><span class="noctitle">programmeur junior</span></h3>
     <ul class="list-unstyled">
+      <li class="date">2 septembre 2026</li>
       <li class="business">Lightspeed Commerce</li>
-      <li class="location">Montr&eacute;al (QC)</li>
-      <li class="date"><span>2 septembre 2026</span></li>
-    </ul>
-  </a>
+      <li class="location"><span class="wb-inv">Location</span> Montr&eacute;al (QC)</li>
+    </ul></a>
 </article>
-<article id="article-41888003"><a href="/jobsearch/jobposting/41888003"></a></article>
+<article id="article-50112718"><a href="/jobsearch/jobposting/50112718"><h3 class="title"><span class="noctitle">
+</span></h3></a></article>
 </body></html>
 """
 
@@ -112,20 +123,44 @@ class TestJobBankMarkup(unittest.TestCase):
         jobs = canada._parse_jobbank("software developer", JOBBANK_HTML)
         self.assertEqual(len(jobs), 2)
 
-    def test_reads_employer_and_location(self):
+    def test_reads_employer(self):
         jobs = canada._parse_jobbank("q", JOBBANK_HTML)
-        self.assertEqual(jobs[0]["company"], "SHOPIFY INC.")
-        self.assertEqual(jobs[0]["locations"], ["Ottawa (ON)"])
+        self.assertEqual(jobs[0]["company"], "Toronto Sun Wah Trading Ltd")
+
+    def test_title_is_trimmed(self):
+        jobs = canada._parse_jobbank("q", JOBBANK_HTML)
+        self.assertEqual(jobs[0]["title"], "junior software developer")
+
+    def test_location_skips_the_icon_spans(self):
+        jobs = canada._parse_jobbank("q", JOBBANK_HTML)
+        self.assertEqual(jobs[0]["locations"], ["Etobicoke (ON)"])
+
+    def test_screen_reader_labels_are_not_the_location(self):
+        # <span class="wb-inv">Location</span> is there for screen readers. Left
+        # in, every Canadian role reads as being in a city called "Location".
+        for job in canada._parse_jobbank("q", JOBBANK_HTML):
+            self.assertNotIn("Location", job["locations"][0])
 
     def test_entities_are_decoded(self):
         jobs = canada._parse_jobbank("q", JOBBANK_HTML)
         self.assertEqual(jobs[1]["locations"], ["Montréal (QC)"])
 
-    def test_url_is_absolute_and_query_free(self):
+    def test_url_drops_the_session_id(self):
+        # Job Bank stamps a jsessionid into every href. Kept, the same posting
+        # gets a different URL on every fetch, which makes dedupe fail and the
+        # diff report an old job as new, over and over.
         jobs = canada._parse_jobbank("q", JOBBANK_HTML)
         self.assertEqual(
             jobs[0]["url"],
-            "https://www.jobbank.gc.ca/jobsearch/jobposting/41888001")
+            "https://www.jobbank.gc.ca/jobsearch/jobposting/50112716")
+        self.assertFalse(any("jsessionid" in j["url"] for j in jobs))
+
+    def test_url_is_stable_across_fetches(self):
+        first = canada._parse_jobbank("q", JOBBANK_HTML)
+        second = canada._parse_jobbank(
+            "q", JOBBANK_HTML.replace("58AEF7931F9F1FC410F9B6542FF4617F", "DEADBEEF"))
+        self.assertEqual([j["url"] for j in first], [j["url"] for j in second])
+        self.assertEqual([j["uid"] for j in first], [j["uid"] for j in second])
 
     def test_a_result_with_no_title_is_dropped_not_blank(self):
         # The third article has no noc-title. A blank row in the feed is worse

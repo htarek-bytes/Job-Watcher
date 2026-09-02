@@ -229,12 +229,20 @@ slugs = []
 # role is required to be here. It is also the only one with no commercial
 # reason to block a reader. Its results link to the employer's own careers
 # page, so they feed slug discovery as well as the feed itself.
+#
+# The queries carry the early career words on purpose. Job Bank shows the NOC
+# title, which is a bare "software developer", and the matcher's fourth gate
+# wants a new grad signal in the title, so a plain role search returns hundreds
+# of rows that are all filtered out again. Searching for the signal itself is
+# what turns a wide net into a useful one.
 enabled = false
 queries = [
-  "software developer",
-  "software engineer",
-  "junior developer",
-  "developpeur logiciel",
+  "junior software developer",
+  "junior programmer",
+  "entry level software developer",
+  "graduate software developer",
+  "developpeur junior",
+  "programmeur junior",
 ]
 
 [sources.jobillico]
