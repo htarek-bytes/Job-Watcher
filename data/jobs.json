@@ -1,6 +1,6 @@
 {
- "count": 535,
- "generated_at": 1788368024,
+ "count": 569,
+ "generated_at": 1788377607,
  "jobs": [
   {
    "company": "retell-ai",
@@ -27,6 +27,54 @@
    "work_auth_evidence": "…rization for qualified candidates, including H1B/H-1B, TN, L-1, E-3, F-1 (OPT/CPT), and O-1 v…"
   },
   {
+   "company": "applied",
+   "group_key": "21d05a348b5f",
+   "location_evidence": "Sunnyvale",
+   "locations": [
+    "Sunnyvale"
+   ],
+   "match_reason": "new grad phrase 'new grad'",
+   "posted_at": 1788374810,
+   "posted_from": "ashby",
+   "region": "US",
+   "score": 78,
+   "score_reasons": [
+    "+20 posted in the last 6h",
+    "+8 direct from the ATS"
+   ],
+   "slug": "applied",
+   "source": "ashby",
+   "title": "Cybersecurity Software Engineer - New Grad (December 2027)",
+   "uid": "ashby:applied:a561fff8-aa38-4a5d-8b29-66c191f7328e",
+   "url": "https://jobs.ashbyhq.com/applied/a561fff8-aa38-4a5d-8b29-66c191f7328e",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "applied",
+   "group_key": "6b53bd4791fe",
+   "location_evidence": "Sunnyvale",
+   "locations": [
+    "Sunnyvale"
+   ],
+   "match_reason": "new grad phrase 'new grad'",
+   "posted_at": 1788374738,
+   "posted_from": "ashby",
+   "region": "US",
+   "score": 78,
+   "score_reasons": [
+    "+20 posted in the last 6h",
+    "+8 direct from the ATS"
+   ],
+   "slug": "applied",
+   "source": "ashby",
+   "title": "Forward Deployed Engineer - New Grad (December 2026)",
+   "uid": "ashby:applied:31140958-d768-452c-8498-0b1c7f403943",
+   "url": "https://jobs.ashbyhq.com/applied/31140958-d768-452c-8498-0b1c7f403943",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
    "company": "bb",
    "duplicate_count": 2,
    "duplicate_sources": [
@@ -38,7 +86,7 @@
     "Ottawa, Ontario"
    ],
    "match_reason": "new grad phrase 'new graduate'",
-   "posted_at": 1788368002,
+   "posted_at": 1788377573,
    "posted_from": "workday",
    "region": "CA",
    "score": 73,
@@ -46,11 +94,11 @@
     "+20 posted in the last 6h",
     "+3 Canadian, no status needed"
    ],
-   "slug": "bb.wd3/blackberry",
+   "slug": "bb.wd3/QNX",
    "source": "workday",
    "title": "QNX Open Source Software Developer (New Graduate/Graduate)",
-   "uid": "workday:bb.wd3/blackberry:QNX-Open-Source-Software-Developer--New-Graduate-Graduate-_20260289-1",
-   "url": "https://bb.wd3.myworkdayjobs.com/blackberry/job/Ottawa-Ontario/QNX-Open-Source-Software-Developer--New-Graduate-Graduate-_20260289-1",
+   "uid": "workday:bb.wd3/QNX:QNX-Open-Source-Software-Developer--New-Graduate-Graduate-_20260289",
+   "url": "https://bb.wd3.myworkdayjobs.com/QNX/job/Ottawa-Ontario/QNX-Open-Source-Software-Developer--New-Graduate-Graduate-_20260289",
    "work_auth": "unknown",
    "work_auth_evidence": ""
   },
@@ -78,6 +126,52 @@
    "url": "https://jobs.ashbyhq.com/retell-ai/ea775189-0496-43d8-a386-df8148265463",
    "work_auth": "open",
    "work_auth_evidence": "…rization for qualified candidates, including H-1B, TN, L-1, E-3, F-1 (OPT/CPT) OTHER BENEFITS…"
+  },
+  {
+   "company": "jainglobal",
+   "group_key": "6bdc0f2b543e",
+   "location_evidence": "2 Locations",
+   "locations": [
+    "2 Locations"
+   ],
+   "match_reason": "new grad phrase 'junior'",
+   "posted_at": 1788377583,
+   "posted_from": "workday",
+   "region": "UNKNOWN",
+   "score": 70,
+   "score_reasons": [
+    "+20 posted in the last 6h"
+   ],
+   "slug": "jainglobal.wd5/ExternalSite",
+   "source": "workday",
+   "title": "Junior Developer, Compliance",
+   "uid": "workday:jainglobal.wd5/ExternalSite:Junior-Compliance-Developer_JR100329",
+   "url": "https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/London-United-Kingdom/Junior-Compliance-Developer_JR100329",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "globalhr",
+   "group_key": "e4da869f884c",
+   "location_evidence": "CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG",
+   "locations": [
+    "CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG"
+   ],
+   "match_reason": "new grad phrase 'new graduate'",
+   "posted_at": 1788377579,
+   "posted_from": "workday",
+   "region": "UNKNOWN",
+   "score": 70,
+   "score_reasons": [
+    "+20 posted in the last 6h"
+   ],
+   "slug": "globalhr.wd5/rec_rtx_ext_gateway",
+   "source": "workday",
+   "title": "Ingénieur - Programme de rotation de nouveaux gradues 2027 / Engineer - New Graduate Rotation Program 2027",
+   "uid": "workday:globalhr.wd5/rec_rtx_ext_gateway:Ingnieur---Programme-de-rotation-de-nouveaux-gradues-2027---Engineer---New-Graduate-Rotation-Program-2027_01870776-1",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Ingnieur---Programme-de-rotation-de-nouveaux-gradues-2027---Engineer---New-Graduate-Rotation-Program-2027_01870776-1",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
   },
   {
    "company": "Blackberry",
@@ -4960,6 +5054,75 @@
    "work_auth_evidence": ""
   },
   {
+   "company": "harriscomputer",
+   "group_key": "c25393c89b25",
+   "location_evidence": "Tennessee, United States",
+   "locations": [
+    "Tennessee, United States"
+   ],
+   "match_reason": "new grad phrase 'associate software engineer'",
+   "posted_at": 1788204782,
+   "posted_from": "workday",
+   "region": "US",
+   "score": 57,
+   "score_reasons": [
+    "+7 posted in the last 3 days"
+   ],
+   "slug": "harriscomputer.wd3/1",
+   "source": "workday",
+   "title": "Associate Software Engineer, RPG",
+   "uid": "workday:harriscomputer.wd3/1:Associate-Software-Engineer--RPG_R0045601-1",
+   "url": "https://harriscomputer.wd3.myworkdayjobs.com/1/job/Tennessee-United-States/Associate-Software-Engineer--RPG_R0045601-1",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "generac",
+   "group_key": "9f7689fb57d0",
+   "location_evidence": "USA - IL East Peoria",
+   "locations": [
+    "USA - IL East Peoria"
+   ],
+   "match_reason": "new grad phrase 'entry level'",
+   "posted_at": 1788204779,
+   "posted_from": "workday",
+   "region": "US",
+   "score": 57,
+   "score_reasons": [
+    "+7 posted in the last 3 days"
+   ],
+   "slug": "generac.wd5/external",
+   "source": "workday",
+   "title": "Entry Level Electrical Design Engineer – Switchgear & Generator Control Systems",
+   "uid": "workday:generac.wd5/external:Entry-Level-Electrical-Design-Engineer---Switchgear---Generator-Control-Systems_JR15958",
+   "url": "https://generac.wd5.myworkdayjobs.com/external/job/USA---IL-East-Peoria/Entry-Level-Electrical-Design-Engineer---Switchgear---Generator-Control-Systems_JR15958",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "flsmidth",
+   "group_key": "e9317ad150cd",
+   "location_evidence": "2 Locations",
+   "locations": [
+    "2 Locations"
+   ],
+   "match_reason": "level 1 suffix on 'engineer'",
+   "posted_at": 1788204778,
+   "posted_from": "workday",
+   "region": "UNKNOWN",
+   "score": 57,
+   "score_reasons": [
+    "+7 posted in the last 3 days"
+   ],
+   "slug": "flsmidth.wd3/FLS_Global",
+   "source": "workday",
+   "title": "Technical Product Development Engineer I",
+   "uid": "workday:flsmidth.wd3/FLS_Global:Technical-Product-Development-Engineer-I_R30971",
+   "url": "https://flsmidth.wd3.myworkdayjobs.com/FLS_Global/job/Tucson/Technical-Product-Development-Engineer-I_R30971",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
    "company": "cdk",
    "group_key": "7431c72026b5",
    "location_evidence": "2 Locations",
@@ -4967,7 +5130,7 @@
     "2 Locations"
    ],
    "match_reason": "new grad phrase 'associate software engineer'",
-   "posted_at": 1788195206,
+   "posted_at": 1788204775,
    "posted_from": "workday",
    "region": "UNKNOWN",
    "score": 57,
@@ -5727,86 +5890,65 @@
    "work_auth_evidence": ""
   },
   {
-   "company": "barrywehmiller",
-   "group_key": "f54a7912a065",
-   "location_evidence": "4 Locations",
+   "company": "intel",
+   "group_key": "ef67fbe6a5ad",
+   "location_evidence": "US, New Mexico, Albuquerque",
    "locations": [
-    "4 Locations"
+    "US, New Mexico, Albuquerque"
    ],
    "match_reason": "new grad phrase 'entry level'",
-   "posted_at": 1787936002,
+   "posted_at": 1787945583,
    "posted_from": "workday",
-   "region": "UNKNOWN",
+   "region": "US",
    "score": 50,
    "score_reasons": [],
-   "slug": "barrywehmiller.wd1/BWConfidential",
+   "slug": "intel.wd1/external",
    "source": "workday",
-   "title": "Entry Level Instrumentation & Controls Engineer",
-   "uid": "workday:barrywehmiller.wd1/BWConfidential:Entry-Level-Instrumentation---Controls-Engineer_R022650",
-   "url": "https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Dallas-TX/Entry-Level-Instrumentation---Controls-Engineer_R022650",
+   "title": "NMSI Module Engineer- Entry Level",
+   "uid": "workday:intel.wd1/external:NMSI-Module-Engineer--Entry-Level_JR0286667-1",
+   "url": "https://intel.wd1.myworkdayjobs.com/external/job/US-New-Mexico-Albuquerque/NMSI-Module-Engineer--Entry-Level_JR0286667-1",
    "work_auth": "unknown",
    "work_auth_evidence": ""
   },
   {
-   "company": "barrywehmiller",
-   "group_key": "c266d8fbbb55",
-   "location_evidence": "5 Locations",
+   "company": "greenheckgroup",
+   "group_key": "e5b39f51594e",
+   "location_evidence": "Schofield, WI",
    "locations": [
-    "5 Locations"
+    "Schofield, WI"
    ],
-   "match_reason": "new grad phrase 'entry level'",
-   "posted_at": 1787936002,
+   "match_reason": "level 1 suffix on 'engineer'",
+   "posted_at": 1787945580,
    "posted_from": "workday",
-   "region": "UNKNOWN",
+   "region": "US",
    "score": 50,
    "score_reasons": [],
-   "slug": "barrywehmiller.wd1/BWConfidential",
+   "slug": "greenheckgroup.wd5/external",
    "source": "workday",
-   "title": "Entry Level Software Engineer",
-   "uid": "workday:barrywehmiller.wd1/BWConfidential:Entry-Level-Software-Engineer_R022649",
-   "url": "https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Dallas-TX/Entry-Level-Software-Engineer_R022649",
+   "title": "Automation Engineer I",
+   "uid": "workday:greenheckgroup.wd5/external:Automation-Engineer-I_JR104420-1",
+   "url": "https://greenheckgroup.wd5.myworkdayjobs.com/external/job/Schofield-WI/Automation-Engineer-I_JR104420-1",
    "work_auth": "unknown",
    "work_auth_evidence": ""
   },
   {
-   "company": "barrywehmiller",
-   "group_key": "ee10d8b62ffd",
-   "location_evidence": "3 Locations",
+   "company": "gentex",
+   "group_key": "119b7308762c",
+   "location_evidence": "Zeeland, MI",
    "locations": [
-    "3 Locations"
+    "Zeeland, MI"
    ],
-   "match_reason": "new grad phrase 'entry level'",
-   "posted_at": 1787936002,
+   "match_reason": "level 1 suffix on 'engineer'",
+   "posted_at": 1787945579,
    "posted_from": "workday",
-   "region": "UNKNOWN",
+   "region": "US",
    "score": 50,
    "score_reasons": [],
-   "slug": "barrywehmiller.wd1/BWConfidential",
+   "slug": "gentex.wd5/Gentex",
    "source": "workday",
-   "title": "Entry Level Project Engineer, Project Management",
-   "uid": "workday:barrywehmiller.wd1/BWConfidential:Entry-Level-Project-Engineer--Project-Management_R022647",
-   "url": "https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Fort-Worth-TX/Entry-Level-Project-Engineer--Project-Management_R022647",
-   "work_auth": "unknown",
-   "work_auth_evidence": ""
-  },
-  {
-   "company": "barrywehmiller",
-   "group_key": "ef24aebb5f49",
-   "location_evidence": "2 Locations",
-   "locations": [
-    "2 Locations"
-   ],
-   "match_reason": "new grad phrase 'entry level'",
-   "posted_at": 1787936002,
-   "posted_from": "workday",
-   "region": "UNKNOWN",
-   "score": 50,
-   "score_reasons": [],
-   "slug": "barrywehmiller.wd1/BWConfidential",
-   "source": "workday",
-   "title": "Entry Level PreConstruction Engineer",
-   "uid": "workday:barrywehmiller.wd1/BWConfidential:Entry-Level-PreConstruction-Engineer_R022646",
-   "url": "https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Fort-Worth-TX/Entry-Level-PreConstruction-Engineer_R022646",
+   "title": "Machine Vision Development Engineer I",
+   "uid": "workday:gentex.wd5/Gentex:Machine-Vision-Development-Engineer-I_REQ026227",
+   "url": "https://gentex.wd5.myworkdayjobs.com/Gentex/job/Zeeland-MI/Machine-Vision-Development-Engineer-I_REQ026227",
    "work_auth": "unknown",
    "work_auth_evidence": ""
   },
@@ -5818,7 +5960,7 @@
     "Chicago, IL"
    ],
    "match_reason": "new grad phrase 'associate software engineer'",
-   "posted_at": 1787936002,
+   "posted_at": 1787945573,
    "posted_from": "workday",
    "region": "US",
    "score": 50,
@@ -5839,7 +5981,7 @@
     "2 Locations"
    ],
    "match_reason": "new grad phrase 'entry level'",
-   "posted_at": 1787936001,
+   "posted_at": 1787945572,
    "posted_from": "workday",
    "region": "UNKNOWN",
    "score": 50,
@@ -5849,6 +5991,90 @@
    "title": "Air Quality Scientist/Engineer – Emissions Monitoring Focus – Entry Level (Hybrid)",
    "uid": "workday:barr.wd1/barrcareers:Air-Quality-Scientist-Engineer---Emissions-Monitoring-Focus---Entry-Level--Hybrid-_R-102288-1",
    "url": "https://barr.wd1.myworkdayjobs.com/barrcareers/job/Edina-MN/Air-Quality-Scientist-Engineer---Emissions-Monitoring-Focus---Entry-Level--Hybrid-_R-102288-1",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "barrywehmiller",
+   "group_key": "f54a7912a065",
+   "location_evidence": "4 Locations",
+   "locations": [
+    "4 Locations"
+   ],
+   "match_reason": "new grad phrase 'entry level'",
+   "posted_at": 1787945572,
+   "posted_from": "workday",
+   "region": "UNKNOWN",
+   "score": 50,
+   "score_reasons": [],
+   "slug": "barrywehmiller.wd1/BWConfidential",
+   "source": "workday",
+   "title": "Entry Level Instrumentation & Controls Engineer",
+   "uid": "workday:barrywehmiller.wd1/BWConfidential:Entry-Level-Instrumentation---Controls-Engineer_R022650",
+   "url": "https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Dallas-TX/Entry-Level-Instrumentation---Controls-Engineer_R022650",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "barrywehmiller",
+   "group_key": "c266d8fbbb55",
+   "location_evidence": "5 Locations",
+   "locations": [
+    "5 Locations"
+   ],
+   "match_reason": "new grad phrase 'entry level'",
+   "posted_at": 1787945572,
+   "posted_from": "workday",
+   "region": "UNKNOWN",
+   "score": 50,
+   "score_reasons": [],
+   "slug": "barrywehmiller.wd1/BWConfidential",
+   "source": "workday",
+   "title": "Entry Level Software Engineer",
+   "uid": "workday:barrywehmiller.wd1/BWConfidential:Entry-Level-Software-Engineer_R022649",
+   "url": "https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Dallas-TX/Entry-Level-Software-Engineer_R022649",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "barrywehmiller",
+   "group_key": "ee10d8b62ffd",
+   "location_evidence": "3 Locations",
+   "locations": [
+    "3 Locations"
+   ],
+   "match_reason": "new grad phrase 'entry level'",
+   "posted_at": 1787945572,
+   "posted_from": "workday",
+   "region": "UNKNOWN",
+   "score": 50,
+   "score_reasons": [],
+   "slug": "barrywehmiller.wd1/BWConfidential",
+   "source": "workday",
+   "title": "Entry Level Project Engineer, Project Management",
+   "uid": "workday:barrywehmiller.wd1/BWConfidential:Entry-Level-Project-Engineer--Project-Management_R022647",
+   "url": "https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Fort-Worth-TX/Entry-Level-Project-Engineer--Project-Management_R022647",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "barrywehmiller",
+   "group_key": "ef24aebb5f49",
+   "location_evidence": "2 Locations",
+   "locations": [
+    "2 Locations"
+   ],
+   "match_reason": "new grad phrase 'entry level'",
+   "posted_at": 1787945572,
+   "posted_from": "workday",
+   "region": "UNKNOWN",
+   "score": 50,
+   "score_reasons": [],
+   "slug": "barrywehmiller.wd1/BWConfidential",
+   "source": "workday",
+   "title": "Entry Level PreConstruction Engineer",
+   "uid": "workday:barrywehmiller.wd1/BWConfidential:Entry-Level-PreConstruction-Engineer_R022646",
+   "url": "https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Fort-Worth-TX/Entry-Level-PreConstruction-Engineer_R022646",
    "work_auth": "unknown",
    "work_auth_evidence": ""
   },
@@ -6041,7 +6267,7 @@
     "Bayport, MN"
    ],
    "match_reason": "new grad phrase 'associate engineer'",
-   "posted_at": 1787849599,
+   "posted_at": 1787859172,
    "posted_from": "workday",
    "region": "US",
    "score": 50,
@@ -6146,6 +6372,77 @@
    "work_auth_evidence": ""
   },
   {
+   "company": "gdit",
+   "duplicate_count": 2,
+   "duplicate_sources": [
+    "workday"
+   ],
+   "group_key": "8f63782addd4",
+   "location_evidence": "USA MD Annapolis Junction",
+   "locations": [
+    "USA MD Annapolis Junction"
+   ],
+   "match_reason": "level 1 suffix on 'software engineer'",
+   "posted_at": 1787772780,
+   "posted_from": "workday",
+   "region": "US",
+   "score": 50,
+   "score_reasons": [],
+   "slug": "gdit.wd5/external_career_site",
+   "source": "workday",
+   "title": "Software Engineer 1",
+   "uid": "workday:gdit.wd5/external_career_site:Software-Engineer-1_RQ222853-1",
+   "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Software-Engineer-1_RQ222853-1",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "gevernova",
+   "duplicate_count": 2,
+   "duplicate_sources": [
+    "workday"
+   ],
+   "group_key": "b1a3dcd56f13",
+   "location_evidence": "Al Khobar",
+   "locations": [
+    "Al Khobar"
+   ],
+   "match_reason": "new grad phrase 'early career'",
+   "posted_at": 1787772778,
+   "posted_from": "workday",
+   "region": "UNKNOWN",
+   "score": 50,
+   "score_reasons": [],
+   "slug": "gevernova.wd5/only_confidential_executive_recruiting",
+   "source": "workday",
+   "title": "Field Services Engineer - Early Career Trainee",
+   "uid": "workday:gevernova.wd5/only_confidential_executive_recruiting:Field-Services-Engineer---Early-Career-Trainee_R5049070-2",
+   "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Al-Khobar/Field-Services-Engineer---Early-Career-Trainee_R5049070-2",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "boydcorp",
+   "group_key": "837fea59208c",
+   "location_evidence": "Fredericksburg",
+   "locations": [
+    "Fredericksburg"
+   ],
+   "match_reason": "new grad phrase 'junior'",
+   "posted_at": 1787772773,
+   "posted_from": "workday",
+   "region": "UNKNOWN",
+   "score": 50,
+   "score_reasons": [],
+   "slug": "boydcorp.wd12/Boyd_Careers",
+   "source": "workday",
+   "title": "Junior Thermal Research Engineer",
+   "uid": "workday:boydcorp.wd12/Boyd_Careers:Junior-Thermal-Research-Engineer_R-103193",
+   "url": "https://boydcorp.wd12.myworkdayjobs.com/Boyd_Careers/job/Fredericksburg/Junior-Thermal-Research-Engineer_R-103193",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
    "company": "Embedding VC",
    "group_key": "5c8b8fec2072",
    "location_evidence": "SF",
@@ -6163,27 +6460,6 @@
    "title": "AI Engineer - Early Career",
    "uid": "simplify:listings:b556adb1-8adc-4b0f-9230-3a2067a6428d",
    "url": "https://jobs.ashbyhq.com/embedding-vc/5c8433ea-c7e6-4350-bbd5-2889e7fdb2b1/application?embed=true",
-   "work_auth": "unknown",
-   "work_auth_evidence": ""
-  },
-  {
-   "company": "boydcorp",
-   "group_key": "837fea59208c",
-   "location_evidence": "Fredericksburg",
-   "locations": [
-    "Fredericksburg"
-   ],
-   "match_reason": "new grad phrase 'junior'",
-   "posted_at": 1787763203,
-   "posted_from": "workday",
-   "region": "UNKNOWN",
-   "score": 50,
-   "score_reasons": [],
-   "slug": "boydcorp.wd12/Boyd_Careers",
-   "source": "workday",
-   "title": "Junior Thermal Research Engineer",
-   "uid": "workday:boydcorp.wd12/Boyd_Careers:Junior-Thermal-Research-Engineer_R-103193",
-   "url": "https://boydcorp.wd12.myworkdayjobs.com/Boyd_Careers/job/Fredericksburg/Junior-Thermal-Research-Engineer_R-103193",
    "work_auth": "unknown",
    "work_auth_evidence": ""
   },
@@ -6424,6 +6700,52 @@
    "work_auth_evidence": ""
   },
   {
+   "company": "gevernova",
+   "duplicate_count": 2,
+   "duplicate_sources": [
+    "workday"
+   ],
+   "group_key": "b5282b8a6bbb",
+   "location_evidence": "Manama",
+   "locations": [
+    "Manama"
+   ],
+   "match_reason": "new grad phrase 'early career'",
+   "posted_at": 1787686378,
+   "posted_from": "workday",
+   "region": "UNKNOWN",
+   "score": 50,
+   "score_reasons": [],
+   "slug": "gevernova.wd5/only_confidential_executive_recruiting",
+   "source": "workday",
+   "title": "Early Career Traininship- Technical Applications Engineer",
+   "uid": "workday:gevernova.wd5/only_confidential_executive_recruiting:Early-Career-Traininship--Technical-Applications-Engineer_R5050516-3",
+   "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Manama/Early-Career-Traininship--Technical-Applications-Engineer_R5050516-3",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "att",
+   "group_key": "372191d52e6a",
+   "location_evidence": "2 Locations",
+   "locations": [
+    "2 Locations"
+   ],
+   "match_reason": "level 1 suffix on 'software engineering'",
+   "posted_at": 1787686373,
+   "posted_from": "workday",
+   "region": "UNKNOWN",
+   "score": 50,
+   "score_reasons": [],
+   "slug": "att.wd1/ATTGeneral",
+   "source": "workday",
+   "title": "Specialist Software Engineering- Service Now support role - Tier 1",
+   "uid": "workday:att.wd1/ATTGeneral:Specialist-App-Prod-Support--Service-Now-Production-Support--Tier-1_R-114244",
+   "url": "https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Bengaluru-India/Specialist-App-Prod-Support--Service-Now-Production-Support--Tier-1_R-114244",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
    "company": "Alarm.com",
    "group_key": "d238d874cc6d",
    "location_evidence": "Tysons, VA",
@@ -6441,27 +6763,6 @@
    "title": "Embedded Software Engineer 1",
    "uid": "simplify:listings:bb5b9ae6-1aba-4fe3-87a2-2a7855b9a86e",
    "url": "https://job-boards.greenhouse.io/alarmcom/jobs/8622530002",
-   "work_auth": "unknown",
-   "work_auth_evidence": ""
-  },
-  {
-   "company": "att",
-   "group_key": "372191d52e6a",
-   "location_evidence": "2 Locations",
-   "locations": [
-    "2 Locations"
-   ],
-   "match_reason": "level 1 suffix on 'software engineering'",
-   "posted_at": 1787676801,
-   "posted_from": "workday",
-   "region": "UNKNOWN",
-   "score": 50,
-   "score_reasons": [],
-   "slug": "att.wd1/ATTGeneral",
-   "source": "workday",
-   "title": "Specialist Software Engineering- Service Now support role - Tier 1",
-   "uid": "workday:att.wd1/ATTGeneral:Specialist-App-Prod-Support--Service-Now-Production-Support--Tier-1_R-114244",
-   "url": "https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Bengaluru-India/Specialist-App-Prod-Support--Service-Now-Production-Support--Tier-1_R-114244",
    "work_auth": "unknown",
    "work_auth_evidence": ""
   },
@@ -6571,6 +6872,27 @@
    "work_auth_evidence": ""
   },
   {
+   "company": "kyndryl",
+   "group_key": "424f17ba960c",
+   "location_evidence": "USDALFRI - Dallas Frisco AI HUB (FRI)",
+   "locations": [
+    "USDALFRI - Dallas Frisco AI HUB (FRI)"
+   ],
+   "match_reason": "new grad phrase 'early career'",
+   "posted_at": 1787599985,
+   "posted_from": "workday",
+   "region": "US",
+   "score": 50,
+   "score_reasons": [],
+   "slug": "kyndryl.wd5/KyndrylEarlyCareers",
+   "source": "workday",
+   "title": "Early Career Consult Program – Cybersecurity Engineer",
+   "uid": "workday:kyndryl.wd5/KyndrylEarlyCareers:Early-Career-Consult-Program---Cybersecurity-Engineer_R-67304-1",
+   "url": "https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/USDALFRI---Dallas-Frisco-AI-HUB-FRI/Early-Career-Consult-Program---Cybersecurity-Engineer_R-67304-1",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
    "company": "btisolutions",
    "group_key": "912c09287f9e",
    "location_evidence": "Richardson, TX",
@@ -6578,7 +6900,7 @@
     "Richardson, TX"
    ],
    "match_reason": "new grad phrase 'entry level'",
-   "posted_at": 1787590404,
+   "posted_at": 1787599974,
    "posted_from": "workday",
    "region": "US",
    "score": 50,
@@ -6907,7 +7229,7 @@
     "Laconia"
    ],
    "match_reason": "new grad phrase 'junior'",
-   "posted_at": 1787158403,
+   "posted_at": 1787167973,
    "posted_from": "workday",
    "region": "UNKNOWN",
    "score": 50,
@@ -7066,6 +7388,27 @@
    "title": "Field Application Engineer Graduate Rotational Program",
    "uid": "simplify:listings:e388f3ae-1f83-414c-aa91-7073a448bb2e",
    "url": "https://careers.amd.com/jobs/89552?icims=1",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "globalhr",
+   "group_key": "a6ea5bf50c53",
+   "location_evidence": "US-CT-EAST HARTFORD-J ~ 400 Main St ~ BLDG J",
+   "locations": [
+    "US-CT-EAST HARTFORD-J ~ 400 Main St ~ BLDG J"
+   ],
+   "match_reason": "level 1 suffix on 'systems engineer'",
+   "posted_at": 1787081579,
+   "posted_from": "workday",
+   "region": "US",
+   "score": 50,
+   "score_reasons": [],
+   "slug": "globalhr.wd5/Private_Posting_No_TMP",
+   "source": "workday",
+   "title": "Conversion: EDP, Test Equipment Design Engineer, Test Systems Engineer I",
+   "uid": "workday:globalhr.wd5/Private_Posting_No_TMP:Conversion--EDP--Test-Equipment-Design-Engineer--Test-Systems-Engineer-I_01866217",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-CT-EAST-HARTFORD-J--400-Main-St--BLDG-J/Conversion--EDP--Test-Equipment-Design-Engineer--Test-Systems-Engineer-I_01866217",
    "work_auth": "unknown",
    "work_auth_evidence": ""
   },
@@ -7255,6 +7598,69 @@
    "title": "Junior Android Engineer - RFID",
    "uid": "simplify:listings:8c7fce06-656d-49d9-bf64-703e487b5cac",
    "url": "https://careers-lmi.icims.com/jobs/14418/job?mobile=true&needsRedirect=false",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "insperity",
+   "group_key": "dc15ad60dda1",
+   "location_evidence": "Kingwood, TX",
+   "locations": [
+    "Kingwood, TX"
+   ],
+   "match_reason": "level 1 suffix on 'engineer'",
+   "posted_at": 1786995182,
+   "posted_from": "workday",
+   "region": "US",
+   "score": 50,
+   "score_reasons": [],
+   "slug": "insperity.wd12/NSP",
+   "source": "workday",
+   "title": "Artificial Intelligence Engineer I",
+   "uid": "workday:insperity.wd12/NSP:Artificial-Intelligence-Engineer-I_JR103100",
+   "url": "https://insperity.wd12.myworkdayjobs.com/NSP/job/Kingwood-TX/Artificial-Intelligence-Engineer-I_JR103100",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "globalfoundries",
+   "group_key": "5b533e85651d",
+   "location_evidence": "USA - Vermont - Essex Junction",
+   "locations": [
+    "USA - Vermont - Essex Junction"
+   ],
+   "match_reason": "new grad phrase 'college graduate'",
+   "posted_at": 1786995179,
+   "posted_from": "workday",
+   "region": "US",
+   "score": 50,
+   "score_reasons": [],
+   "slug": "globalfoundries.wd1/External",
+   "source": "workday",
+   "title": "Fab Automation Engineer (2027 New College Graduate)",
+   "uid": "workday:globalfoundries.wd1/External:Fab-Automation-Engineer--2027-New-College-Graduate-_JR-2604700",
+   "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Fab-Automation-Engineer--2027-New-College-Graduate-_JR-2604700",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "globalfoundries",
+   "group_key": "2f137f9cc2ec",
+   "location_evidence": "USA - Vermont - Essex Junction",
+   "locations": [
+    "USA - Vermont - Essex Junction"
+   ],
+   "match_reason": "new grad phrase 'college graduate'",
+   "posted_at": 1786995179,
+   "posted_from": "workday",
+   "region": "US",
+   "score": 50,
+   "score_reasons": [],
+   "slug": "globalfoundries.wd1/External",
+   "source": "workday",
+   "title": "Electrical Test Engineer, Wafer Test (2027 New College Graduate)",
+   "uid": "workday:globalfoundries.wd1/External:Electrical-Test-Engineer--Wafer-Test--2027-New-College-Graduate-_JR-2604747",
+   "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Electrical-Test-Engineer--Wafer-Test--2027-New-College-Graduate-_JR-2604747",
    "work_auth": "unknown",
    "work_auth_evidence": ""
   },
@@ -7481,7 +7887,7 @@
     "Pennington, NJ"
    ],
    "match_reason": "level 1 suffix on 'engineer'",
-   "posted_at": 1786726406,
+   "posted_at": 1786735975,
    "posted_from": "workday",
    "region": "US",
    "score": 50,
@@ -7663,6 +8069,52 @@
    "work_auth_evidence": ""
   },
   {
+   "company": "kyndryl",
+   "group_key": "ce591946b743",
+   "location_evidence": "USDALFRI - Dallas Frisco AI HUB (FRI)",
+   "locations": [
+    "USDALFRI - Dallas Frisco AI HUB (FRI)"
+   ],
+   "match_reason": "new grad phrase 'early career'",
+   "posted_at": 1786649586,
+   "posted_from": "workday",
+   "region": "US",
+   "score": 50,
+   "score_reasons": [],
+   "slug": "kyndryl.wd5/KyndrylEarlyCareers",
+   "source": "workday",
+   "title": "Early Career Consult Program - Associate AI Engineer",
+   "uid": "workday:kyndryl.wd5/KyndrylEarlyCareers:Early-Career-Consult-Program---Associate-AI-Engineer_R-66739",
+   "url": "https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/USDALFRI---Dallas-Frisco-AI-HUB-FRI/Early-Career-Consult-Program---Associate-AI-Engineer_R-66739",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "flir",
+   "duplicate_count": 2,
+   "duplicate_sources": [
+    "workday"
+   ],
+   "group_key": "9faa7aefce9c",
+   "location_evidence": "US - Huntsville, AL",
+   "locations": [
+    "US - Huntsville, AL"
+   ],
+   "match_reason": "new grad phrase 'associate software engineer'",
+   "posted_at": 1786649578,
+   "posted_from": "workday",
+   "region": "US",
+   "score": 50,
+   "score_reasons": [],
+   "slug": "flir.wd1/flircareers",
+   "source": "workday",
+   "title": "Associate Software Engineer",
+   "uid": "workday:flir.wd1/flircareers:Associate-Software-Engineer_REQ36189",
+   "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/Associate-Software-Engineer_REQ36189",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
    "company": "barr",
    "group_key": "0a99488be128",
    "location_evidence": "Minneapolis, MN",
@@ -7670,7 +8122,7 @@
     "Minneapolis, MN"
    ],
    "match_reason": "new grad phrase 'entry level'",
-   "posted_at": 1786640001,
+   "posted_at": 1786649572,
    "posted_from": "workday",
    "region": "US",
    "score": 50,
@@ -7903,7 +8355,12 @@
    "work_auth_evidence": ""
   },
   {
-   "company": "Exelixis",
+   "company": "exelixis",
+   "duplicate_count": 2,
+   "duplicate_sources": [
+    "simplify",
+    "workday"
+   ],
    "group_key": "7efda21252b6",
    "location_evidence": "Alameda, CA",
    "locations": [
@@ -7915,10 +8372,10 @@
    "region": "US",
    "score": 50,
    "score_reasons": [],
-   "slug": "listings",
-   "source": "simplify",
+   "slug": "exelixis.wd1/exel",
+   "source": "workday",
    "title": "Associate Engineer - AI and Agentic",
-   "uid": "simplify:listings:36649be5-6fcf-46db-86bb-69e8d9c6ce71",
+   "uid": "workday:exelixis.wd1/exel:Associate-Engineer---AI-and-Agentic_JR7031",
    "url": "https://exelixis.wd1.myworkdayjobs.com/exel/job/Alameda-CA/Associate-Engineer---AI-and-Agentic_JR7031",
    "work_auth": "unknown",
    "work_auth_evidence": ""
@@ -8038,7 +8495,7 @@
     "San Diego, California"
    ],
    "match_reason": "new grad phrase 'entry level'",
-   "posted_at": 1786467207,
+   "posted_at": 1786476776,
    "posted_from": "workday",
    "region": "US",
    "score": 50,
@@ -8338,6 +8795,48 @@
    "title": "AI Engineer 1",
    "uid": "simplify:listings:58d9d263-e25e-491b-9e3e-42e08454509c",
    "url": "https://job-boards.greenhouse.io/welbehealth/jobs/8599687002",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "globalfoundries",
+   "group_key": "5d4f597b26e2",
+   "location_evidence": "Essex Junction",
+   "locations": [
+    "Essex Junction"
+   ],
+   "match_reason": "new grad phrase 'college graduate'",
+   "posted_at": 1786131179,
+   "posted_from": "workday",
+   "region": "UNKNOWN",
+   "score": 50,
+   "score_reasons": [],
+   "slug": "globalfoundries.wd1/External",
+   "source": "workday",
+   "title": "Packaging Design Integration Engineer (2026 New College Graduate)",
+   "uid": "workday:globalfoundries.wd1/External:Packaging-Design-Integration-Engineer--2026-New-College-Graduate-_JR-2603919",
+   "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/Essex-Junction/Packaging-Design-Integration-Engineer--2026-New-College-Graduate-_JR-2603919",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "exelixis",
+   "group_key": "f046fd230da4",
+   "location_evidence": "Alameda, CA",
+   "locations": [
+    "Alameda, CA"
+   ],
+   "match_reason": "level 1 suffix on 'engineer'",
+   "posted_at": 1786131177,
+   "posted_from": "workday",
+   "region": "US",
+   "score": 50,
+   "score_reasons": [],
+   "slug": "exelixis.wd1/exel",
+   "source": "workday",
+   "title": "AI and Agentic Engineer I",
+   "uid": "workday:exelixis.wd1/exel:AI-and-Agentic-Engineer-I_JR7022-1",
+   "url": "https://exelixis.wd1.myworkdayjobs.com/exel/job/Alameda-CA/AI-and-Agentic-Engineer-I_JR7022-1",
    "work_auth": "unknown",
    "work_auth_evidence": ""
   },
@@ -8704,6 +9203,27 @@
    "work_auth_evidence": ""
   },
   {
+   "company": "globalfoundries",
+   "group_key": "ce30b55583be",
+   "location_evidence": "Essex Junction",
+   "locations": [
+    "Essex Junction"
+   ],
+   "match_reason": "new grad phrase 'college graduate'",
+   "posted_at": 1785871979,
+   "posted_from": "workday",
+   "region": "UNKNOWN",
+   "score": 50,
+   "score_reasons": [],
+   "slug": "globalfoundries.wd1/External",
+   "source": "workday",
+   "title": "Packaging Integration Engineer (2026 New College Graduate)",
+   "uid": "workday:globalfoundries.wd1/External:Packaging-Integration-Engineer--2026-New-College-Graduate-_JR-2603869",
+   "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/Essex-Junction/Packaging-Integration-Engineer--2026-New-College-Graduate-_JR-2603869",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
    "company": "avav",
    "group_key": "ef5c23ce589b",
    "location_evidence": "420 National Business Parkway, Jessup, MD",
@@ -8711,7 +9231,7 @@
     "420 National Business Parkway, Jessup, MD"
    ],
    "match_reason": "new grad phrase 'junior'",
-   "posted_at": 1785862401,
+   "posted_at": 1785871973,
    "posted_from": "workday",
    "region": "US",
    "score": 50,
@@ -8964,6 +9484,48 @@
    "title": "EHS Safety Engineer New College Grad (Bachelors - Santa Clara, CA)",
    "uid": "workday:amat.wd1/External:EHS-Safety-Engineer-New-College-Grad--Bachelors---Santa-Clara--CA-_R2626244",
    "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/EHS-Safety-Engineer-New-College-Grad--Bachelors---Santa-Clara--CA-_R2626244",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "expedia",
+   "group_key": "04b4aeec6ad0",
+   "location_evidence": "Washington - Seattle Campus",
+   "locations": [
+    "Washington - Seattle Campus"
+   ],
+   "match_reason": "level 1 suffix on 'software development engineer'",
+   "posted_at": null,
+   "posted_from": "workday",
+   "region": "US",
+   "score": 50,
+   "score_reasons": [],
+   "slug": "expedia.wd108/private",
+   "source": "workday",
+   "title": "Software Development Engineer I",
+   "uid": "workday:expedia.wd108/private:Software-Development-Engineer-I_R-108739-2",
+   "url": "https://expedia.wd108.myworkdayjobs.com/private/job/Washington---Seattle-Campus/Software-Development-Engineer-I_R-108739-2",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "jci",
+   "group_key": "90884802173b",
+   "location_evidence": "Largo-Florida-United States of America",
+   "locations": [
+    "Largo-Florida-United States of America"
+   ],
+   "match_reason": "level 1 suffix on 'engineer'",
+   "posted_at": null,
+   "posted_from": "workday",
+   "region": "US",
+   "score": 50,
+   "score_reasons": [],
+   "slug": "jci.wd5/JCI",
+   "source": "workday",
+   "title": "Quality Engineer I",
+   "uid": "workday:jci.wd5/JCI:Quality-Engineer-I_WD30278664",
+   "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Largo-Florida-United-States-of-America/Quality-Engineer-I_WD30278664",
    "work_auth": "unknown",
    "work_auth_evidence": ""
   },
@@ -16709,7 +17271,7 @@
     "USA - Berkeley, MO"
    ],
    "match_reason": "new grad phrase 'associate software engineer'",
-   "posted_at": 1787244803,
+   "posted_at": 1787254373,
    "posted_from": "workday",
    "region": "US",
    "score": 42,
@@ -16725,6 +17287,213 @@
    "work_auth_evidence": ""
   },
   {
+   "company": "integritymarketing",
+   "group_key": "be4cebde29fe",
+   "location_evidence": "Urbandale, IA",
+   "locations": [
+    "Urbandale, IA"
+   ],
+   "match_reason": "level 1 suffix on 'software engineer'",
+   "posted_at": 1785785583,
+   "posted_from": "workday",
+   "region": "US",
+   "score": 40,
+   "score_reasons": [
+    "-10 posted over a month ago"
+   ],
+   "slug": "integritymarketing.wd1/Integrity",
+   "source": "workday",
+   "title": "Software Engineer I",
+   "uid": "workday:integritymarketing.wd1/Integrity:Software-Engineer-I_JR4072",
+   "url": "https://integritymarketing.wd1.myworkdayjobs.com/Integrity/job/Urbandale-IA/Software-Engineer-I_JR4072",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "globusmedical",
+   "group_key": "8afa3c43c8d9",
+   "location_evidence": "Audubon, PA",
+   "locations": [
+    "Audubon, PA"
+   ],
+   "match_reason": "new grad phrase 'associate software engineer'",
+   "posted_at": 1785785580,
+   "posted_from": "workday",
+   "region": "US",
+   "score": 40,
+   "score_reasons": [
+    "-10 posted over a month ago"
+   ],
+   "slug": "globusmedical.wd5/GMED_Careers",
+   "source": "workday",
+   "title": "Associate Software Engineer",
+   "uid": "workday:globusmedical.wd5/GMED_Careers:Associate-Software-Engineer_JR106980-1",
+   "url": "https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Audubon-PA/Associate-Software-Engineer_JR106980-1",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "generac",
+   "group_key": "0241b0e4a008",
+   "location_evidence": "USA - CO Fort Collins",
+   "locations": [
+    "USA - CO Fort Collins"
+   ],
+   "match_reason": "level 1 suffix on 'engineer'",
+   "posted_at": 1785785579,
+   "posted_from": "workday",
+   "region": "US",
+   "score": 40,
+   "score_reasons": [
+    "-10 posted over a month ago"
+   ],
+   "slug": "generac.wd5/external",
+   "source": "workday",
+   "title": "Application Engineer I",
+   "uid": "workday:generac.wd5/external:Application-Engineer-I_JR15688",
+   "url": "https://generac.wd5.myworkdayjobs.com/external/job/USA---CO-Fort-Collins/Application-Engineer-I_JR15688",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "globalfoundries",
+   "group_key": "6812f5e7df41",
+   "location_evidence": "Penang",
+   "locations": [
+    "Penang"
+   ],
+   "match_reason": "new grad phrase 'college graduate'",
+   "posted_at": 1785785579,
+   "posted_from": "workday",
+   "region": "UNKNOWN",
+   "score": 40,
+   "score_reasons": [
+    "-10 posted over a month ago"
+   ],
+   "slug": "globalfoundries.wd1/External",
+   "source": "workday",
+   "title": "Associate Engineer (AE) Process Engineering  – New College Graduate (Diploma Graduate)",
+   "uid": "workday:globalfoundries.wd1/External:Associate-Engineer---Engineer---Penang_JR-2501592",
+   "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/Penang/Associate-Engineer---Engineer---Penang_JR-2501592",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "globalfoundries",
+   "group_key": "e86979fb6fe2",
+   "location_evidence": "USA - Texas - Austin",
+   "locations": [
+    "USA - Texas - Austin"
+   ],
+   "match_reason": "new grad phrase 'college graduate'",
+   "posted_at": 1785785579,
+   "posted_from": "workday",
+   "region": "US",
+   "score": 40,
+   "score_reasons": [
+    "-10 posted over a month ago"
+   ],
+   "slug": "globalfoundries.wd1/External",
+   "source": "workday",
+   "title": "Tapeout Engineer, 2026 New College Graduate",
+   "uid": "workday:globalfoundries.wd1/External:Tapeout-Engineer--2026-New-College-Graduate_JR-2602561",
+   "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Tapeout-Engineer--2026-New-College-Graduate_JR-2602561",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "globalfoundries",
+   "group_key": "44aa3f01ae59",
+   "location_evidence": "TWN - T'ai-wan - Hsinchu",
+   "locations": [
+    "TWN - T'ai-wan - Hsinchu"
+   ],
+   "match_reason": "new grad phrase 'college graduate'",
+   "posted_at": 1785785579,
+   "posted_from": "workday",
+   "region": "UNKNOWN",
+   "score": 40,
+   "score_reasons": [
+    "-10 posted over a month ago"
+   ],
+   "slug": "globalfoundries.wd1/External",
+   "source": "workday",
+   "title": "Field Application Engineer (2026 New College Graduate)",
+   "uid": "workday:globalfoundries.wd1/External:Engineer-Field-Application-Engineering_JR-2502404",
+   "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/TWN---Tai-wan---Hsinchu/Engineer-Field-Application-Engineering_JR-2502404",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "globalfoundries",
+   "group_key": "234c6ee8b638",
+   "location_evidence": "Richardson",
+   "locations": [
+    "Richardson"
+   ],
+   "match_reason": "new grad phrase 'college graduate'",
+   "posted_at": 1785785579,
+   "posted_from": "workday",
+   "region": "UNKNOWN",
+   "score": 40,
+   "score_reasons": [
+    "-10 posted over a month ago"
+   ],
+   "slug": "globalfoundries.wd1/External",
+   "source": "workday",
+   "title": "SoC Design Verification Engineer (2026 New College Graduate)",
+   "uid": "workday:globalfoundries.wd1/External:SoC-Design-Verification-Engineer--2026-New-College-Graduate-_JR-2601515",
+   "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/Richardson/SoC-Design-Verification-Engineer--2026-New-College-Graduate-_JR-2601515",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "globalfoundries",
+   "group_key": "8153215e960a",
+   "location_evidence": "USA - New York - Malta",
+   "locations": [
+    "USA - New York - Malta"
+   ],
+   "match_reason": "new grad phrase 'college graduate'",
+   "posted_at": 1785785579,
+   "posted_from": "workday",
+   "region": "US",
+   "score": 40,
+   "score_reasons": [
+    "-10 posted over a month ago"
+   ],
+   "slug": "globalfoundries.wd1/External",
+   "source": "workday",
+   "title": "3D Heterogeneous Integration Design Enablement Engineer (2026 New College Graduate)",
+   "uid": "workday:globalfoundries.wd1/External:XMLNAME-3D-Heterogeneous-Integration-Design-Enablement-Engineer--2025-New-College-Graduate-_JR-2501678",
+   "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/XMLNAME-3D-Heterogeneous-Integration-Design-Enablement-Engineer--2025-New-College-Graduate-_JR-2501678",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "globalfoundries",
+   "group_key": "6ca541fc4078",
+   "location_evidence": "USA - Texas - Austin",
+   "locations": [
+    "USA - Texas - Austin"
+   ],
+   "match_reason": "new grad phrase 'college graduate'",
+   "posted_at": 1785785579,
+   "posted_from": "workday",
+   "region": "US",
+   "score": 40,
+   "score_reasons": [
+    "-10 posted over a month ago"
+   ],
+   "slug": "globalfoundries.wd1/External",
+   "source": "workday",
+   "title": "Global Tapeout and Mask Operations, Biz App and Data Engineer (2026 New College Graduate)",
+   "uid": "workday:globalfoundries.wd1/External:Global-Tapeout-and-Mask-Operations--Biz-App-and-Data-Engineer--2026-New-College-Graduate-_JR-2502471-1",
+   "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Global-Tapeout-and-Mask-Operations--Biz-App-and-Data-Engineer--2026-New-College-Graduate-_JR-2502471-1",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
    "company": "cat",
    "group_key": "10a30f365874",
    "location_evidence": "San Diego, California",
@@ -16732,7 +17501,7 @@
     "San Diego, California"
    ],
    "match_reason": "new grad phrase 'entry level'",
-   "posted_at": 1785776006,
+   "posted_at": 1785785575,
    "posted_from": "workday",
    "region": "US",
    "score": 40,
@@ -16759,7 +17528,7 @@
     "LIVONIA 01"
    ],
    "match_reason": "new grad phrase 'recent grad'",
-   "posted_at": 1785776005,
+   "posted_at": 1785785574,
    "posted_from": "workday",
    "region": "UNKNOWN",
    "score": 40,
@@ -16775,33 +17544,6 @@
    "work_auth_evidence": ""
   },
   {
-   "company": "cadence",
-   "duplicate_count": 3,
-   "duplicate_sources": [
-    "workday"
-   ],
-   "group_key": "3b1f2bcf4000",
-   "location_evidence": "LIVONIA 01",
-   "locations": [
-    "LIVONIA 01"
-   ],
-   "match_reason": "new grad phrase 'recent grad'",
-   "posted_at": 1785776004,
-   "posted_from": "workday",
-   "region": "UNKNOWN",
-   "score": 40,
-   "score_reasons": [
-    "-10 posted over a month ago"
-   ],
-   "slug": "cadence.wd1/External_Careers",
-   "source": "workday",
-   "title": "Adams MultiBody Dynamics Application Software Developer (Recent Grad 2026)",
-   "uid": "workday:cadence.wd1/External_Careers:Adams-MultiBody-Dynamics-Application-Software-Developer--Recent-Grad-2026-_R55788",
-   "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/LIVONIA-01/Adams-MultiBody-Dynamics-Application-Software-Developer--Recent-Grad-2026-_R55788",
-   "work_auth": "unknown",
-   "work_auth_evidence": ""
-  },
-  {
    "company": "avav",
    "group_key": "591a6cba2a38",
    "location_evidence": "Dayton, OH",
@@ -16809,7 +17551,7 @@
     "Dayton, OH"
    ],
    "match_reason": "new grad phrase 'entry level'",
-   "posted_at": 1785776001,
+   "posted_at": 1785785573,
    "posted_from": "workday",
    "region": "US",
    "score": 40,
@@ -16825,6 +17567,33 @@
    "work_auth_evidence": ""
   },
   {
+   "company": "cadence",
+   "duplicate_count": 3,
+   "duplicate_sources": [
+    "workday"
+   ],
+   "group_key": "3b1f2bcf4000",
+   "location_evidence": "LIVONIA 01",
+   "locations": [
+    "LIVONIA 01"
+   ],
+   "match_reason": "new grad phrase 'recent grad'",
+   "posted_at": 1785785573,
+   "posted_from": "workday",
+   "region": "UNKNOWN",
+   "score": 40,
+   "score_reasons": [
+    "-10 posted over a month ago"
+   ],
+   "slug": "cadence.wd1/External_Careers",
+   "source": "workday",
+   "title": "Adams MultiBody Dynamics Application Software Developer (Recent Grad 2026)",
+   "uid": "workday:cadence.wd1/External_Careers:Adams-MultiBody-Dynamics-Application-Software-Developer--Recent-Grad-2026-_R55788",
+   "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/LIVONIA-01/Adams-MultiBody-Dynamics-Application-Software-Developer--Recent-Grad-2026-_R55788",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
    "company": "analogdevices",
    "group_key": "03a118655c32",
    "location_evidence": "US, CA, San Jose, Rio Robles",
@@ -16832,7 +17601,7 @@
     "US, CA, San Jose, Rio Robles"
    ],
    "match_reason": "new grad phrase 'associate engineer'",
-   "posted_at": 1785775999,
+   "posted_at": 1785785572,
    "posted_from": "workday",
    "region": "US",
    "score": 40,
@@ -16855,7 +17624,7 @@
     "Cottage Grove, MN"
    ],
    "match_reason": "level 1 suffix on 'engineer'",
-   "posted_at": 1785775999,
+   "posted_at": 1785785572,
    "posted_from": "workday",
    "region": "US",
    "score": 40,
@@ -20275,39 +21044,6 @@
    "title": "Junior Software Developer",
    "uid": "simplify:listings:0129aefa-6830-42c7-97c4-bfaada409ad1",
    "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22744",
-   "work_auth": "unknown",
-   "work_auth_evidence": ""
-  },
-  {
-   "company": "KBR",
-   "duplicate_count": 2,
-   "duplicate_sources": [
-    "simplify"
-   ],
-   "group_key": "8a29a944f6ab",
-   "location_evidence": "King of Prussia, PA",
-   "locations": [
-    "King of Prussia, PA",
-    "Chantilly, VA",
-    "San Antonio, TX",
-    "Clearfield, UT",
-    "Columbia, MD",
-    "Beavercreek, OH",
-    "El Segundo, CA"
-   ],
-   "match_reason": "new grad phrase 'junior'",
-   "posted_at": 1776723456,
-   "posted_from": "simplify",
-   "region": "US",
-   "score": 40,
-   "score_reasons": [
-    "-10 posted over a month ago"
-   ],
-   "slug": "listings",
-   "source": "simplify",
-   "title": "Junior Software Engineer",
-   "uid": "simplify:listings:8d357db3-4bed-433c-8281-3e0775e1be25",
-   "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/JR-Software-Engineer_R2128745",
    "work_auth": "unknown",
    "work_auth_evidence": ""
   },
@@ -25284,6 +26020,35 @@
    "work_auth_evidence": ""
   },
   {
+   "company": "kbr",
+   "duplicate_count": 4,
+   "duplicate_sources": [
+    "simplify",
+    "workday"
+   ],
+   "group_key": "8a29a944f6ab",
+   "location_evidence": "Beavercreek, Ohio",
+   "locations": [
+    "Beavercreek, Ohio"
+   ],
+   "match_reason": "new grad phrase 'junior'",
+   "posted_at": 1776723456,
+   "posted_from": "simplify",
+   "region": "US",
+   "score": 32,
+   "score_reasons": [
+    "-10 posted over a month ago",
+    "-8 reposted 4 times"
+   ],
+   "slug": "kbr.wd5/KBR_Careers",
+   "source": "workday",
+   "title": "Junior Software Engineer",
+   "uid": "workday:kbr.wd5/KBR_Careers:Junior-Software-Engineer_R2122294",
+   "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Ohio/Junior-Software-Engineer_R2122294",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
    "company": "Accenture",
    "group_key": "5b83a022164b",
    "location_evidence": "San Antonio, TX",
@@ -27708,7 +28473,7 @@
   },
   {
    "company": "RTX",
-   "duplicate_count": 4,
+   "duplicate_count": 3,
    "duplicate_sources": [
     "simplify"
    ],
