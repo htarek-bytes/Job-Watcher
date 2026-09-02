@@ -1,6 +1,6 @@
 {
- "count": 508,
- "generated_at": 1788364508,
+ "count": 535,
+ "generated_at": 1788368024,
  "jobs": [
   {
    "company": "retell-ai",
@@ -25,6 +25,34 @@
    "url": "https://jobs.ashbyhq.com/retell-ai/7a23a933-cc70-43c9-a0d8-9f0c08ea4fd9",
    "work_auth": "open",
    "work_auth_evidence": "…rization for qualified candidates, including H1B/H-1B, TN, L-1, E-3, F-1 (OPT/CPT), and O-1 v…"
+  },
+  {
+   "company": "bb",
+   "duplicate_count": 2,
+   "duplicate_sources": [
+    "workday"
+   ],
+   "group_key": "a3357d74cc80",
+   "location_evidence": "Ottawa, Ontario",
+   "locations": [
+    "Ottawa, Ontario"
+   ],
+   "match_reason": "new grad phrase 'new graduate'",
+   "posted_at": 1788368002,
+   "posted_from": "workday",
+   "region": "CA",
+   "score": 73,
+   "score_reasons": [
+    "+20 posted in the last 6h",
+    "+3 Canadian, no status needed"
+   ],
+   "slug": "bb.wd3/blackberry",
+   "source": "workday",
+   "title": "QNX Open Source Software Developer (New Graduate/Graduate)",
+   "uid": "workday:bb.wd3/blackberry:QNX-Open-Source-Software-Developer--New-Graduate-Graduate-_20260289-1",
+   "url": "https://bb.wd3.myworkdayjobs.com/blackberry/job/Ottawa-Ontario/QNX-Open-Source-Software-Developer--New-Graduate-Graduate-_20260289-1",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
   },
   {
    "company": "retell-ai",
@@ -330,29 +358,6 @@
    "title": "Associate Software Engineer - Full Stack",
    "uid": "ashby:ontic:d50b6bea-876f-43fc-afb9-716efe9eca02",
    "url": "https://jobs.ashbyhq.com/ontic/d50b6bea-876f-43fc-afb9-716efe9eca02",
-   "work_auth": "unknown",
-   "work_auth_evidence": ""
-  },
-  {
-   "company": "abridge",
-   "group_key": "9460c2f2dc6c",
-   "location_evidence": "SF Office",
-   "locations": [
-    "SF Office"
-   ],
-   "match_reason": "new grad phrase 'early career'",
-   "posted_at": 1787765519,
-   "posted_from": "ashby",
-   "region": "US",
-   "score": 58,
-   "score_reasons": [
-    "+8 direct from the ATS"
-   ],
-   "slug": "abridge",
-   "source": "ashby",
-   "title": "Software Engineer, Early Career",
-   "uid": "ashby:abridge:7d6ae2be-cd53-466c-8151-2dae2e87aace",
-   "url": "https://jobs.ashbyhq.com/abridge/7d6ae2be-cd53-466c-8151-2dae2e87aace",
    "work_auth": "unknown",
    "work_auth_evidence": ""
   },
@@ -4548,37 +4553,6 @@
    "work_auth_evidence": ""
   },
   {
-   "company": "pariveda",
-   "group_key": "1c17fee9e048",
-   "location_evidence": "Dallas",
-   "locations": [
-    "Dallas",
-    "Seattle",
-    "Houston",
-    "San Francisco",
-    "Chicago",
-    "Philadelphia",
-    "Los Angeles",
-    "Atlanta",
-    "New York"
-   ],
-   "match_reason": "new grad phrase 'entry level'",
-   "posted_at": 1785774758,
-   "posted_from": "ashby",
-   "region": "US",
-   "score": 58,
-   "score_reasons": [
-    "+8 direct from the ATS"
-   ],
-   "slug": "pariveda",
-   "source": "ashby",
-   "title": "Entry-Level Software Engineer",
-   "uid": "ashby:pariveda:cc4fc0be-c414-4aba-a15d-64daa03476a0",
-   "url": "https://jobs.ashbyhq.com/pariveda/cc4fc0be-c414-4aba-a15d-64daa03476a0",
-   "work_auth": "unknown",
-   "work_auth_evidence": ""
-  },
-  {
    "company": "Siemens",
    "group_key": "adcaee770a44",
    "location_evidence": "Grand Prairie, TX",
@@ -4982,6 +4956,29 @@
    "title": "Software Development Engineer 1",
    "uid": "simplify:listings:b31a94f8-6785-4fba-b769-152531ae31f2",
    "url": "https://expedia.wd108.myworkdayjobs.com/private/job/Washington---Seattle-Campus/Software-Development-Engineer-I_R-108739-2",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "cdk",
+   "group_key": "7431c72026b5",
+   "location_evidence": "2 Locations",
+   "locations": [
+    "2 Locations"
+   ],
+   "match_reason": "new grad phrase 'associate software engineer'",
+   "posted_at": 1788195206,
+   "posted_from": "workday",
+   "region": "UNKNOWN",
+   "score": 57,
+   "score_reasons": [
+    "+7 posted in the last 3 days"
+   ],
+   "slug": "cdk.wd1/CDK",
+   "source": "workday",
+   "title": "Associate Software Engineer",
+   "uid": "workday:cdk.wd1/CDK:Associate-Software-Engineer_JR9201-1",
+   "url": "https://cdk.wd1.myworkdayjobs.com/CDK/job/Austin-TX-USA/Associate-Software-Engineer_JR9201-1",
    "work_auth": "unknown",
    "work_auth_evidence": ""
   },
@@ -5567,6 +5564,29 @@
    "work_auth_evidence": ""
   },
   {
+   "company": "capitalone",
+   "group_key": "e3d6679b81f6",
+   "location_evidence": "Toronto, ON",
+   "locations": [
+    "Toronto, ON"
+   ],
+   "match_reason": "new grad phrase 'new grad'",
+   "posted_at": null,
+   "posted_from": "workday",
+   "region": "CA",
+   "score": 53,
+   "score_reasons": [
+    "+3 Canadian, no status needed"
+   ],
+   "slug": "capitalone.wd12/Capital_One",
+   "source": "workday",
+   "title": "Associate, Software Engineer, New Grad Card Expansion",
+   "uid": "workday:capitalone.wd12/Capital_One:Associate--Software-Engineer--New-Grad-Card-Expansion_R247320",
+   "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R247320",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
    "company": "cerebras",
    "group_key": "5ff6643f049c",
    "location_evidence": "Toronto, CAN",
@@ -5703,6 +5723,132 @@
    "title": "Junior Product Engineer - Software Engineer 1",
    "uid": "simplify:listings:50e60fbf-697c-49e1-88be-1f24e17fa22d",
    "url": "https://defensestorm.applytojob.com/apply/VI1cWuBKQ3/Junior-Product-Engineer-Software-Engineer-I",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "barrywehmiller",
+   "group_key": "f54a7912a065",
+   "location_evidence": "4 Locations",
+   "locations": [
+    "4 Locations"
+   ],
+   "match_reason": "new grad phrase 'entry level'",
+   "posted_at": 1787936002,
+   "posted_from": "workday",
+   "region": "UNKNOWN",
+   "score": 50,
+   "score_reasons": [],
+   "slug": "barrywehmiller.wd1/BWConfidential",
+   "source": "workday",
+   "title": "Entry Level Instrumentation & Controls Engineer",
+   "uid": "workday:barrywehmiller.wd1/BWConfidential:Entry-Level-Instrumentation---Controls-Engineer_R022650",
+   "url": "https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Dallas-TX/Entry-Level-Instrumentation---Controls-Engineer_R022650",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "barrywehmiller",
+   "group_key": "c266d8fbbb55",
+   "location_evidence": "5 Locations",
+   "locations": [
+    "5 Locations"
+   ],
+   "match_reason": "new grad phrase 'entry level'",
+   "posted_at": 1787936002,
+   "posted_from": "workday",
+   "region": "UNKNOWN",
+   "score": 50,
+   "score_reasons": [],
+   "slug": "barrywehmiller.wd1/BWConfidential",
+   "source": "workday",
+   "title": "Entry Level Software Engineer",
+   "uid": "workday:barrywehmiller.wd1/BWConfidential:Entry-Level-Software-Engineer_R022649",
+   "url": "https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Dallas-TX/Entry-Level-Software-Engineer_R022649",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "barrywehmiller",
+   "group_key": "ee10d8b62ffd",
+   "location_evidence": "3 Locations",
+   "locations": [
+    "3 Locations"
+   ],
+   "match_reason": "new grad phrase 'entry level'",
+   "posted_at": 1787936002,
+   "posted_from": "workday",
+   "region": "UNKNOWN",
+   "score": 50,
+   "score_reasons": [],
+   "slug": "barrywehmiller.wd1/BWConfidential",
+   "source": "workday",
+   "title": "Entry Level Project Engineer, Project Management",
+   "uid": "workday:barrywehmiller.wd1/BWConfidential:Entry-Level-Project-Engineer--Project-Management_R022647",
+   "url": "https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Fort-Worth-TX/Entry-Level-Project-Engineer--Project-Management_R022647",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "barrywehmiller",
+   "group_key": "ef24aebb5f49",
+   "location_evidence": "2 Locations",
+   "locations": [
+    "2 Locations"
+   ],
+   "match_reason": "new grad phrase 'entry level'",
+   "posted_at": 1787936002,
+   "posted_from": "workday",
+   "region": "UNKNOWN",
+   "score": 50,
+   "score_reasons": [],
+   "slug": "barrywehmiller.wd1/BWConfidential",
+   "source": "workday",
+   "title": "Entry Level PreConstruction Engineer",
+   "uid": "workday:barrywehmiller.wd1/BWConfidential:Entry-Level-PreConstruction-Engineer_R022646",
+   "url": "https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Fort-Worth-TX/Entry-Level-PreConstruction-Engineer_R022646",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "blackrock",
+   "group_key": "2729fc55ee37",
+   "location_evidence": "Chicago, IL",
+   "locations": [
+    "Chicago, IL"
+   ],
+   "match_reason": "new grad phrase 'associate software engineer'",
+   "posted_at": 1787936002,
+   "posted_from": "workday",
+   "region": "US",
+   "score": 50,
+   "score_reasons": [],
+   "slug": "blackrock.wd1/BlackRock_Professional",
+   "source": "workday",
+   "title": "Associate, Software Engineer - SMA Solutions",
+   "uid": "workday:blackrock.wd1/BlackRock_Professional:Associate--Software-Engineer---SMA-Solutions_R266216",
+   "url": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/Chicago-IL/Associate--Software-Engineer---SMA-Solutions_R266216",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "barr",
+   "group_key": "9d0dee5b891b",
+   "location_evidence": "2 Locations",
+   "locations": [
+    "2 Locations"
+   ],
+   "match_reason": "new grad phrase 'entry level'",
+   "posted_at": 1787936001,
+   "posted_from": "workday",
+   "region": "UNKNOWN",
+   "score": 50,
+   "score_reasons": [],
+   "slug": "barr.wd1/barrcareers",
+   "source": "workday",
+   "title": "Air Quality Scientist/Engineer – Emissions Monitoring Focus – Entry Level (Hybrid)",
+   "uid": "workday:barr.wd1/barrcareers:Air-Quality-Scientist-Engineer---Emissions-Monitoring-Focus---Entry-Level--Hybrid-_R-102288-1",
+   "url": "https://barr.wd1.myworkdayjobs.com/barrcareers/job/Edina-MN/Air-Quality-Scientist-Engineer---Emissions-Monitoring-Focus---Entry-Level--Hybrid-_R-102288-1",
    "work_auth": "unknown",
    "work_auth_evidence": ""
   },
@@ -5888,6 +6034,27 @@
    "work_auth_evidence": ""
   },
   {
+   "company": "andersen",
+   "group_key": "62dd75051a10",
+   "location_evidence": "Bayport, MN",
+   "locations": [
+    "Bayport, MN"
+   ],
+   "match_reason": "new grad phrase 'associate engineer'",
+   "posted_at": 1787849599,
+   "posted_from": "workday",
+   "region": "US",
+   "score": 50,
+   "score_reasons": [],
+   "slug": "andersen.wd12/Andersen_External_Career_Site",
+   "source": "workday",
+   "title": "RDI Materials Associate Engineer",
+   "uid": "workday:andersen.wd12/Andersen_External_Career_Site:RDI-Materials-Associate-Engineer_R-8110",
+   "url": "https://andersen.wd12.myworkdayjobs.com/Andersen_External_Career_Site/job/Bayport-MN/RDI-Materials-Associate-Engineer_R-8110",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
    "company": "ASM International",
    "group_key": "87cb2ffe7a53",
    "location_evidence": "Phoenix, AZ",
@@ -5996,6 +6163,27 @@
    "title": "AI Engineer - Early Career",
    "uid": "simplify:listings:b556adb1-8adc-4b0f-9230-3a2067a6428d",
    "url": "https://jobs.ashbyhq.com/embedding-vc/5c8433ea-c7e6-4350-bbd5-2889e7fdb2b1/application?embed=true",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "boydcorp",
+   "group_key": "837fea59208c",
+   "location_evidence": "Fredericksburg",
+   "locations": [
+    "Fredericksburg"
+   ],
+   "match_reason": "new grad phrase 'junior'",
+   "posted_at": 1787763203,
+   "posted_from": "workday",
+   "region": "UNKNOWN",
+   "score": 50,
+   "score_reasons": [],
+   "slug": "boydcorp.wd12/Boyd_Careers",
+   "source": "workday",
+   "title": "Junior Thermal Research Engineer",
+   "uid": "workday:boydcorp.wd12/Boyd_Careers:Junior-Thermal-Research-Engineer_R-103193",
+   "url": "https://boydcorp.wd12.myworkdayjobs.com/Boyd_Careers/job/Fredericksburg/Junior-Thermal-Research-Engineer_R-103193",
    "work_auth": "unknown",
    "work_auth_evidence": ""
   },
@@ -6257,6 +6445,27 @@
    "work_auth_evidence": ""
   },
   {
+   "company": "att",
+   "group_key": "372191d52e6a",
+   "location_evidence": "2 Locations",
+   "locations": [
+    "2 Locations"
+   ],
+   "match_reason": "level 1 suffix on 'software engineering'",
+   "posted_at": 1787676801,
+   "posted_from": "workday",
+   "region": "UNKNOWN",
+   "score": 50,
+   "score_reasons": [],
+   "slug": "att.wd1/ATTGeneral",
+   "source": "workday",
+   "title": "Specialist Software Engineering- Service Now support role - Tier 1",
+   "uid": "workday:att.wd1/ATTGeneral:Specialist-App-Prod-Support--Service-Now-Production-Support--Tier-1_R-114244",
+   "url": "https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Bengaluru-India/Specialist-App-Prod-Support--Service-Now-Production-Support--Tier-1_R-114244",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
    "company": "Micron Technology",
    "group_key": "7f950336baeb",
    "location_evidence": "Boise, ID",
@@ -6358,6 +6567,27 @@
    "title": "Platform Software Engineer 1",
    "uid": "simplify:listings:703508c4-1188-4176-8539-4f1fbaeb8839",
    "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/343770",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "btisolutions",
+   "group_key": "912c09287f9e",
+   "location_evidence": "Richardson, TX",
+   "locations": [
+    "Richardson, TX"
+   ],
+   "match_reason": "new grad phrase 'entry level'",
+   "posted_at": 1787590404,
+   "posted_from": "workday",
+   "region": "US",
+   "score": 50,
+   "score_reasons": [],
+   "slug": "btisolutions.wd12/External",
+   "source": "workday",
+   "title": "Chinese Bilingual Field Test Engineer (Entry Level)",
+   "uid": "workday:btisolutions.wd12/External:Chinese-Bilingual-Field-Test-Engineer--Entry-Level-_JR101996-1",
+   "url": "https://btisolutions.wd12.myworkdayjobs.com/External/job/Richardson-TX/Chinese-Bilingual-Field-Test-Engineer--Entry-Level-_JR101996-1",
    "work_auth": "unknown",
    "work_auth_evidence": ""
   },
@@ -6666,6 +6896,27 @@
    "title": "Quantitative Strategy Developer New Grad",
    "uid": "simplify:listings:03168c7d-a3ff-4da7-9e0a-378b83a7de04",
    "url": "https://careers-sig.icims.com/jobs/11321/job?mobile=true&needsRedirect=false",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "boydcorp",
+   "group_key": "3fb6ff32d4da",
+   "location_evidence": "Laconia",
+   "locations": [
+    "Laconia"
+   ],
+   "match_reason": "new grad phrase 'junior'",
+   "posted_at": 1787158403,
+   "posted_from": "workday",
+   "region": "UNKNOWN",
+   "score": 50,
+   "score_reasons": [],
+   "slug": "boydcorp.wd12/Boyd_Careers",
+   "source": "workday",
+   "title": "Boyd Thermal by Eaton Junior Thermal Research Engineer",
+   "uid": "workday:boydcorp.wd12/Boyd_Careers:Boyd-Thermal-by-Eaton-Junior-Thermal-Research-Engineer_R-103022-2",
+   "url": "https://boydcorp.wd12.myworkdayjobs.com/Boyd_Careers/job/Laconia/Boyd-Thermal-by-Eaton-Junior-Thermal-Research-Engineer_R-103022-2",
    "work_auth": "unknown",
    "work_auth_evidence": ""
   },
@@ -7223,6 +7474,27 @@
    "work_auth_evidence": ""
   },
   {
+   "company": "capitalhealth",
+   "group_key": "e0578b557b6d",
+   "location_evidence": "Pennington, NJ",
+   "locations": [
+    "Pennington, NJ"
+   ],
+   "match_reason": "level 1 suffix on 'engineer'",
+   "posted_at": 1786726406,
+   "posted_from": "workday",
+   "region": "US",
+   "score": 50,
+   "score_reasons": [],
+   "slug": "capitalhealth.wd1/CapitalHealthCareers",
+   "source": "workday",
+   "title": "IT Product Engineer I",
+   "uid": "workday:capitalhealth.wd1/CapitalHealthCareers:IT-Product-Engineer-I_JR110768",
+   "url": "https://capitalhealth.wd1.myworkdayjobs.com/CapitalHealthCareers/job/Pennington-NJ/IT-Product-Engineer-I_JR110768",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
    "company": "M.C. Dean",
    "group_key": "9fdd177d90a5",
    "location_evidence": "Richmond, VA",
@@ -7387,6 +7659,27 @@
    "title": "Product Engineer 1",
    "uid": "simplify:listings:2ddddf54-3c3b-4af6-b8c2-5b755d594dc1",
    "url": "https://capitalhealth.wd1.myworkdayjobs.com/CapitalHealthCareers/job/Pennington-NJ/IT-Product-Engineer-I_JR110768",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "barr",
+   "group_key": "0a99488be128",
+   "location_evidence": "Minneapolis, MN",
+   "locations": [
+    "Minneapolis, MN"
+   ],
+   "match_reason": "new grad phrase 'entry level'",
+   "posted_at": 1786640001,
+   "posted_from": "workday",
+   "region": "US",
+   "score": 50,
+   "score_reasons": [],
+   "slug": "barr.wd1/barrcareers",
+   "source": "workday",
+   "title": "Structural Transmission Engineer – Entry Level (Hybrid)",
+   "uid": "workday:barr.wd1/barrcareers:Structural-Transmission-Engineer---Entry-Level--Hybrid-_R-102242-1",
+   "url": "https://barr.wd1.myworkdayjobs.com/barrcareers/job/Minneapolis-MN/Structural-Transmission-Engineer---Entry-Level--Hybrid-_R-102242-1",
    "work_auth": "unknown",
    "work_auth_evidence": ""
   },
@@ -7734,6 +8027,27 @@
    "title": "Product Engineer 1",
    "uid": "simplify:listings:7285a57f-86ed-4201-82a9-a80f0306e1a3",
    "url": "https://assaabloy.jobs2web.com/job/Mason-City-Product-Engineer-I-IA-50401/1425404233/?ats=successfactors",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "cat",
+   "group_key": "829d8dfece5f",
+   "location_evidence": "San Diego, California",
+   "locations": [
+    "San Diego, California"
+   ],
+   "match_reason": "new grad phrase 'entry level'",
+   "posted_at": 1786467207,
+   "posted_from": "workday",
+   "region": "US",
+   "score": 50,
+   "score_reasons": [],
+   "slug": "cat.wd5/solarturbines",
+   "source": "workday",
+   "title": "2027 Entry Level Gas Turbine Product Engineer (GTPE)",
+   "uid": "workday:cat.wd5/solarturbines:XMLNAME-2027-Entry-Level-Gas-Turbine-Product-Engineer--GTPE-_R0000382291",
+   "url": "https://cat.wd5.myworkdayjobs.com/solarturbines/job/San-Diego-California/XMLNAME-2027-Entry-Level-Gas-Turbine-Product-Engineer--GTPE-_R0000382291",
    "work_auth": "unknown",
    "work_auth_evidence": ""
   },
@@ -8390,6 +8704,27 @@
    "work_auth_evidence": ""
   },
   {
+   "company": "avav",
+   "group_key": "ef5c23ce589b",
+   "location_evidence": "420 National Business Parkway, Jessup, MD",
+   "locations": [
+    "420 National Business Parkway, Jessup, MD"
+   ],
+   "match_reason": "new grad phrase 'junior'",
+   "posted_at": 1785862401,
+   "posted_from": "workday",
+   "region": "US",
+   "score": 50,
+   "score_reasons": [],
+   "slug": "avav.wd1/avav",
+   "source": "workday",
+   "title": "Junior Software Engineer",
+   "uid": "workday:avav.wd1/avav:Junior-Software-Engineer_8322",
+   "url": "https://avav.wd1.myworkdayjobs.com/avav/job/420-National-Business-Parkway-Jessup-MD/Junior-Software-Engineer_8322",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
    "company": "TikTok",
    "group_key": "6dfacfa07257",
    "location_evidence": "San Jose, CA",
@@ -8566,6 +8901,101 @@
    "title": "Junior Software Engineer",
    "uid": "simplify:listings:0cd03db8-9364-4a6d-803e-c1c724f5f289",
    "url": "https://jobs.smartrecruiters.com/Socotec/744000141326319",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "ag",
+   "group_key": "0ec0e1169c5c",
+   "location_evidence": "Mobile Area, AL",
+   "locations": [
+    "Mobile Area, AL"
+   ],
+   "match_reason": "level 1 suffix on 'engineer'",
+   "posted_at": null,
+   "posted_from": "workday",
+   "region": "US",
+   "score": 50,
+   "score_reasons": [],
+   "slug": "ag.wd3/Airbus",
+   "source": "workday",
+   "title": "AGGP2027 - Graduate Certification Engineer I",
+   "uid": "workday:ag.wd3/Airbus:AGGP2027---Graduate-Certification-Engineer-I_JR10430293",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Mobile-Area-AL/AGGP2027---Graduate-Certification-Engineer-I_JR10430293",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "amat",
+   "group_key": "f734ad95983d",
+   "location_evidence": "Santa Clara,CA",
+   "locations": [
+    "Santa Clara,CA"
+   ],
+   "match_reason": "new grad phrase 'college grad'",
+   "posted_at": null,
+   "posted_from": "workday",
+   "region": "US",
+   "score": 50,
+   "score_reasons": [],
+   "slug": "amat.wd1/External",
+   "source": "workday",
+   "title": "Algorithm Developer I New College Grad- Bachelor's (Santa Clara, CA)",
+   "uid": "workday:amat.wd1/External:Algorithm-Developer-I-New-College-Grad--Bachelor-s--Santa-Clara--CA-_R2626605",
+   "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Algorithm-Developer-I-New-College-Grad--Bachelor-s--Santa-Clara--CA-_R2626605",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "amat",
+   "group_key": "cd6ad7753ed5",
+   "location_evidence": "Santa Clara,CA",
+   "locations": [
+    "Santa Clara,CA"
+   ],
+   "match_reason": "new grad phrase 'college grad'",
+   "posted_at": null,
+   "posted_from": "workday",
+   "region": "US",
+   "score": 50,
+   "score_reasons": [],
+   "slug": "amat.wd1/External",
+   "source": "workday",
+   "title": "EHS Safety Engineer New College Grad (Bachelors - Santa Clara, CA)",
+   "uid": "workday:amat.wd1/External:EHS-Safety-Engineer-New-College-Grad--Bachelors---Santa-Clara--CA-_R2626244",
+   "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/EHS-Safety-Engineer-New-College-Grad--Bachelors---Santa-Clara--CA-_R2626244",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "pariveda",
+   "group_key": "1c17fee9e048",
+   "location_evidence": "Dallas",
+   "locations": [
+    "Dallas",
+    "Seattle",
+    "Houston",
+    "San Francisco",
+    "Chicago",
+    "Philadelphia",
+    "Los Angeles",
+    "Atlanta",
+    "New York"
+   ],
+   "match_reason": "new grad phrase 'entry level'",
+   "posted_at": 1785774758,
+   "posted_from": "ashby",
+   "region": "US",
+   "score": 48,
+   "score_reasons": [
+    "-10 posted over a month ago",
+    "+8 direct from the ATS"
+   ],
+   "slug": "pariveda",
+   "source": "ashby",
+   "title": "Entry-Level Software Engineer",
+   "uid": "ashby:pariveda:cc4fc0be-c414-4aba-a15d-64daa03476a0",
+   "url": "https://jobs.ashbyhq.com/pariveda/cc4fc0be-c414-4aba-a15d-64daa03476a0",
    "work_auth": "unknown",
    "work_auth_evidence": ""
   },
@@ -16264,6 +16694,179 @@
    "title": "Associate Software Engineer - 2027 Start Dates",
    "uid": "lever:veeva:54f473e7-f225-44b3-beb7-b5d50403fe02",
    "url": "https://jobs.lever.co/veeva/54f473e7-f225-44b3-beb7-b5d50403fe02",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "boeing",
+   "duplicate_count": 4,
+   "duplicate_sources": [
+    "workday"
+   ],
+   "group_key": "02e81373dbf4",
+   "location_evidence": "USA - Berkeley, MO",
+   "locations": [
+    "USA - Berkeley, MO"
+   ],
+   "match_reason": "new grad phrase 'associate software engineer'",
+   "posted_at": 1787244803,
+   "posted_from": "workday",
+   "region": "US",
+   "score": 42,
+   "score_reasons": [
+    "-8 reposted 4 times"
+   ],
+   "slug": "boeing.wd1/EXTERNAL_CAREERS",
+   "source": "workday",
+   "title": "Associate Software Engineer",
+   "uid": "workday:boeing.wd1/EXTERNAL_CAREERS:Associate-Software-Engineer_JR2026522810-1",
+   "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Associate-Software-Engineer_JR2026522810-1",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "cat",
+   "group_key": "10a30f365874",
+   "location_evidence": "San Diego, California",
+   "locations": [
+    "San Diego, California"
+   ],
+   "match_reason": "new grad phrase 'entry level'",
+   "posted_at": 1785776006,
+   "posted_from": "workday",
+   "region": "US",
+   "score": 40,
+   "score_reasons": [
+    "-10 posted over a month ago"
+   ],
+   "slug": "cat.wd5/solarturbines",
+   "source": "workday",
+   "title": "2027 Entry Level Suppler Technical Engineer ",
+   "uid": "workday:cat.wd5/solarturbines:XMLNAME-2027-Entry-Level-Suppler-Technical-Engineer-_R0000383122",
+   "url": "https://cat.wd5.myworkdayjobs.com/solarturbines/job/San-Diego-California/XMLNAME-2027-Entry-Level-Suppler-Technical-Engineer-_R0000383122",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "cadence",
+   "duplicate_count": 3,
+   "duplicate_sources": [
+    "workday"
+   ],
+   "group_key": "1bf83ecd2bd0",
+   "location_evidence": "LIVONIA 01",
+   "locations": [
+    "LIVONIA 01"
+   ],
+   "match_reason": "new grad phrase 'recent grad'",
+   "posted_at": 1785776005,
+   "posted_from": "workday",
+   "region": "UNKNOWN",
+   "score": 40,
+   "score_reasons": [
+    "-10 posted over a month ago"
+   ],
+   "slug": "cadence.wd1/Univ_Careers",
+   "source": "workday",
+   "title": "Adams Application Software Developer  (Recent Grad 2026)",
+   "uid": "workday:cadence.wd1/Univ_Careers:Adams-Application-Software-Developer---Recent-Grad-2026-_R55736-2",
+   "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/LIVONIA-01/Adams-Application-Software-Developer---Recent-Grad-2026-_R55736-2",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "cadence",
+   "duplicate_count": 3,
+   "duplicate_sources": [
+    "workday"
+   ],
+   "group_key": "3b1f2bcf4000",
+   "location_evidence": "LIVONIA 01",
+   "locations": [
+    "LIVONIA 01"
+   ],
+   "match_reason": "new grad phrase 'recent grad'",
+   "posted_at": 1785776004,
+   "posted_from": "workday",
+   "region": "UNKNOWN",
+   "score": 40,
+   "score_reasons": [
+    "-10 posted over a month ago"
+   ],
+   "slug": "cadence.wd1/External_Careers",
+   "source": "workday",
+   "title": "Adams MultiBody Dynamics Application Software Developer (Recent Grad 2026)",
+   "uid": "workday:cadence.wd1/External_Careers:Adams-MultiBody-Dynamics-Application-Software-Developer--Recent-Grad-2026-_R55788",
+   "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/LIVONIA-01/Adams-MultiBody-Dynamics-Application-Software-Developer--Recent-Grad-2026-_R55788",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "avav",
+   "group_key": "591a6cba2a38",
+   "location_evidence": "Dayton, OH",
+   "locations": [
+    "Dayton, OH"
+   ],
+   "match_reason": "new grad phrase 'entry level'",
+   "posted_at": 1785776001,
+   "posted_from": "workday",
+   "region": "US",
+   "score": 40,
+   "score_reasons": [
+    "-10 posted over a month ago"
+   ],
+   "slug": "avav.wd1/avav",
+   "source": "workday",
+   "title": "Entry-Level Software Engineer",
+   "uid": "workday:avav.wd1/avav:Entry-Level-Software-Engineer_8010",
+   "url": "https://avav.wd1.myworkdayjobs.com/avav/job/Dayton-OH/Entry-Level-Software-Engineer_8010",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "analogdevices",
+   "group_key": "03a118655c32",
+   "location_evidence": "US, CA, San Jose, Rio Robles",
+   "locations": [
+    "US, CA, San Jose, Rio Robles"
+   ],
+   "match_reason": "new grad phrase 'associate engineer'",
+   "posted_at": 1785775999,
+   "posted_from": "workday",
+   "region": "US",
+   "score": 40,
+   "score_reasons": [
+    "-10 posted over a month ago"
+   ],
+   "slug": "analogdevices.wd1/External",
+   "source": "workday",
+   "title": "Associate Engineer: Embedded Audio Software",
+   "uid": "workday:analogdevices.wd1/External:Associate-Engineer--Embedded-Audio-Software_R263781",
+   "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-CA-San-Jose-Rio-Robles/Associate-Engineer--Embedded-Audio-Software_R263781",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "andersen",
+   "group_key": "c54f56520180",
+   "location_evidence": "Cottage Grove, MN",
+   "locations": [
+    "Cottage Grove, MN"
+   ],
+   "match_reason": "level 1 suffix on 'engineer'",
+   "posted_at": 1785775999,
+   "posted_from": "workday",
+   "region": "US",
+   "score": 40,
+   "score_reasons": [
+    "-10 posted over a month ago"
+   ],
+   "slug": "andersen.wd12/Andersen_External_Career_Site",
+   "source": "workday",
+   "title": "Manufacturing Project Engineer 1",
+   "uid": "workday:andersen.wd12/Andersen_External_Career_Site:Engineer-I_R-4416",
+   "url": "https://andersen.wd12.myworkdayjobs.com/Andersen_External_Career_Site/job/Cottage-Grove-MN/Engineer-I_R-4416",
    "work_auth": "unknown",
    "work_auth_evidence": ""
   },
