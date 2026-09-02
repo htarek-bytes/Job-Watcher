@@ -179,7 +179,11 @@ slugs = [
 # The eight hand-guessed entries that used to live here were removed: a config
 # entry is pinned "hot" and polled every sweep, so guessing wrong meant paying
 # for a dead board forever. Add here only boards you have confirmed.
+# Workday caps a page at 20 and returns them unsorted, so each board is queried
+# with these search terms to make those twenty relevant rather than arbitrary.
+# More terms means better recall and more requests per board.
 enabled = true
+search = ["new grad", "software engineer"]
 boards = []
 
 [sources.smartrecruiters]

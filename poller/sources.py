@@ -340,7 +340,10 @@ def fetch(source, key, cfg, etag=None):
     if source == AMAZON:
         return fetch_amazon(key, etag)
     if source == WORKDAY:
-        return fetch_workday(key, etag)
+        return fetch_workday(
+            key, etag,
+            cfg.get("sources", {}).get(WORKDAY, {}).get("search"),
+        )
     if source == SMARTRECRUITERS:
         return fetch_smartrecruiters(key, etag)
     if source == BAMBOOHR:
@@ -366,9 +369,21 @@ WORKDAY = "workday"
 SMARTRECRUITERS = "smartrecruiters"
 
 
-def fetch_workday(spec, etag=None):
-    """`spec` is "tenant/site" or "tenant.dc/site" from config."""
+def fetch_workday(spec, etag=None, searches=None):
+    """`spec` is "tenant/site" or "tenant.dc/site" from config.
+
+    Workday caps a page at 20 postings and returns them unsorted, so a bare
+    request to a board with thousands of reqs hands back an arbitrary twenty.
+    The first verify run showed exactly that: "20 postings, 0 match filters"
+    on nearly every Workday board. Paging through is not an option at this
+    board count, so each board is queried with a couple of search terms
+    instead, which makes the twenty relevant rather than arbitrary.
+
+    This is still a cap, not full coverage. A board with more than 20 matching
+    new grad reqs will have some invisible to this tool.
+    """
     res = SourceResult(WORKDAY, spec)
+    searches = searches or ["new grad", "software engineer"]
     try:
         host, _, site = spec.partition("/")
         tenant = host.split(".")[0]
@@ -380,27 +395,40 @@ def fetch_workday(spec, etag=None):
         url = "https://%s.%s.myworkdayjobs.com/wday/cxs/%s/%s/jobs" % (
             tenant, dc, tenant, site,
         )
-        body = json.dumps({"appliedFacets": {}, "limit": 20, "offset": 0,
-                           "searchText": ""}).encode("utf-8")
-        resp = _http.post(url, body, headers={"Content-Type": "application/json"})
-        res.status, res.seconds = resp.status, resp.seconds
-        if not resp.ok:
-            res.error = resp.error
-            return res
+        seen = set()
+        failures = []
+        for term in searches:
+            body = json.dumps({"appliedFacets": {}, "limit": 20, "offset": 0,
+                               "searchText": term}).encode("utf-8")
+            resp = _http.post(url, body, headers={"Content-Type": "application/json"})
+            res.status, res.seconds = resp.status, res.seconds + resp.seconds
+            if not resp.ok:
+                failures.append(resp.error)
+                continue
 
-        payload = resp.json() or {}
-        for item in payload.get("jobPostings", []):
-            path = item.get("externalPath") or ""
-            res.jobs.append(_job(
-                WORKDAY, spec, path.rsplit("/", 1)[-1] or item.get("bulletFields", [""])[0],
-                company=tenant,
-                title=item.get("title", ""),
-                url="https://%s.%s.myworkdayjobs.com/%s%s" % (tenant, dc, site, path),
-                locations=[item.get("locationsText")],
-                # postedOn is relative prose ("Posted 3 Days Ago"), not a date.
-                posted_at=_workday_posted(item.get("postedOn")),
-                description="",
-            ))
+            payload = resp.json() or {}
+            for item in payload.get("jobPostings", []):
+                path = item.get("externalPath") or ""
+                key = path or item.get("title")
+                if key in seen:
+                    continue
+                seen.add(key)
+                res.jobs.append(_job(
+                    WORKDAY, spec,
+                    path.rsplit("/", 1)[-1] or item.get("bulletFields", [""])[0],
+                    company=tenant,
+                    title=item.get("title", ""),
+                    url="https://%s.%s.myworkdayjobs.com/%s%s" % (tenant, dc, site, path),
+                    locations=[item.get("locationsText")],
+                    # postedOn is relative prose ("Posted 3 Days Ago"), not a date.
+                    posted_at=_workday_posted(item.get("postedOn")),
+                    description="",
+                ))
+
+        # Only a board where every search failed counts as failed.
+        if failures and len(failures) == len(searches):
+            res.error = failures[0]
+            return res
         res.ok = True
     except Exception as exc:  # noqa: BLE001
         res.error = "isolated failure: %s: %s" % (type(exc).__name__, exc)

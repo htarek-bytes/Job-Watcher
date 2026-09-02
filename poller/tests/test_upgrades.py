@@ -372,3 +372,30 @@ class AggregatorLag(unittest.TestCase):
     def test_single_source_roles_still_record_their_origin(self):
         [kept] = rank.dedupe([_job(uid="a", source="simplify", posted_at=1)])
         self.assertEqual(kept["posted_from"], "simplify")
+
+
+class StableGroupKey(unittest.TestCase):
+    """Application state hangs off this, so it must survive a source change."""
+
+    def test_same_role_from_two_sources_shares_a_key(self):
+        a = _job(uid="simplify:listings:abc", source="simplify")
+        b = _job(uid="greenhouse:acme:7", source="greenhouse")
+        self.assertEqual(rank.group_key(a), rank.group_key(b))
+
+    def test_year_and_punctuation_variants_share_a_key(self):
+        a = _job(title="Software Engineer, New Grad 2027")
+        b = _job(title="Software Engineer New Grad 2026")
+        self.assertEqual(rank.group_key(a), rank.group_key(b))
+
+    def test_different_roles_differ(self):
+        self.assertNotEqual(rank.group_key(_job(title="New Grad Software Engineer")),
+                            rank.group_key(_job(title="New Grad Data Engineer")))
+        self.assertNotEqual(rank.group_key(_job(company="Acme")),
+                            rank.group_key(_job(company="Globex")))
+
+    def test_dedupe_stamps_it(self):
+        [kept] = rank.dedupe([_job(uid="a")])
+        self.assertEqual(len(kept["group_key"]), 12)
+
+    def test_key_is_stable_across_runs(self):
+        self.assertEqual(rank.group_key(_job()), rank.group_key(_job()))

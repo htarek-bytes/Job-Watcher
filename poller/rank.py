@@ -7,6 +7,7 @@ Measured on the live feed: 79 duplicate rows across 49 groups, one staffing
 firm posting an identical role twenty times.
 """
 
+import hashlib
 import re
 import time
 
@@ -46,6 +47,19 @@ def dedupe_key(job):
     return (_WS.sub(" ", company).strip(), normalize_title(job.get("title")))
 
 
+def group_key(job):
+    """A stable identity for a role, independent of which source supplied it.
+
+    `uid` carries the source, so the same role switches uid the moment a direct
+    ATS starts covering what the aggregator used to supply. Anything the user
+    attaches to a role, like having applied to it, has to hang off this instead
+    or it silently detaches when coverage improves.
+    """
+    company, title = dedupe_key(job)
+    digest = hashlib.sha1(("%s\x00%s" % (company, title)).encode("utf-8"))
+    return digest.hexdigest()[:12]
+
+
 def dedupe(jobs, lag_samples=None):
     """Collapse duplicates, keeping the best-sourced copy.
 
@@ -73,6 +87,7 @@ def dedupe(jobs, lag_samples=None):
         )
         best = dict(members[0])
         best["posted_from"] = best.get("source")
+        best["group_key"] = group_key(best)
 
         if len(members) > 1:
             best["duplicate_count"] = len(members)
