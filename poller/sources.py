@@ -350,6 +350,10 @@ def fetch(source, key, cfg, etag=None):
         return fetch_bamboohr(key, etag)
     if source == RIPPLING:
         return fetch_rippling(key, etag)
+    if source == WORKABLE:
+        return fetch_workable(key, etag)
+    if source == RECRUITEE:
+        return fetch_recruitee(key, etag)
     if source == SIMPLIFY:
         return fetch_simplify(cfg.get("sources", {}).get(SIMPLIFY, {}), etag)
     raise ValueError("unknown source %r" % source)
@@ -564,6 +568,86 @@ def fetch_rippling(slug, etag=None):
                 locations=[(item.get("workLocation") or {}).get("label")],
                 posted_at=_epoch(item.get("createdAt") or item.get("publishedAt")),
                 description="",
+            ))
+        res.ok = True
+    except Exception as exc:  # noqa: BLE001
+        res.error = "parse: %s" % exc
+    return res
+
+
+# --------------------------------------------------------------------------
+# Workable and Recruitee. These matter for Canadian coverage specifically:
+# a company of 100 to 300 people is far more likely to be on one of these than
+# on Greenhouse, and they are exactly the employers a US-centric aggregator
+# never mentions. Both expose a documented public JSON endpoint.
+# Neither has been exercised against a live board yet.
+# --------------------------------------------------------------------------
+
+WORKABLE = "workable"
+RECRUITEE = "recruitee"
+
+
+def fetch_workable(slug, etag=None):
+    res = SourceResult(WORKABLE, slug)
+    url = ("https://apply.workable.com/api/v1/widget/accounts/%s?details=true"
+           % urllib.parse.quote(slug))
+    resp = _http.get(url, etag=etag)
+    res.status, res.seconds = resp.status, resp.seconds
+    if not resp.ok:
+        res.error = resp.error
+        return res
+    if resp.not_modified:
+        res.ok, res.not_modified = True, True
+        return res
+    try:
+        payload = resp.json() or {}
+        for item in payload.get("jobs", []):
+            loc = item.get("location") or {}
+            where = ", ".join(
+                str(p) for p in (loc.get("city"), loc.get("region"), loc.get("country"))
+                if p
+            )
+            res.jobs.append(_job(
+                WORKABLE, slug, item.get("shortcode") or item.get("id"),
+                company=payload.get("name") or slug,
+                title=item.get("title", ""),
+                url=item.get("url") or item.get("application_url", ""),
+                locations=[where, "Remote" if loc.get("telecommuting") else ""],
+                posted_at=_epoch(item.get("published_on") or item.get("created_at")),
+                description=strip_html(item.get("description", "")),
+            ))
+        res.ok = True
+    except Exception as exc:  # noqa: BLE001
+        res.error = "parse: %s" % exc
+    return res
+
+
+def fetch_recruitee(slug, etag=None):
+    res = SourceResult(RECRUITEE, slug)
+    url = "https://%s.recruitee.com/api/offers/" % urllib.parse.quote(slug)
+    resp = _http.get(url, etag=etag)
+    res.status, res.seconds = resp.status, resp.seconds
+    if not resp.ok:
+        res.error = resp.error
+        return res
+    if resp.not_modified:
+        res.ok, res.not_modified = True, True
+        return res
+    try:
+        payload = resp.json() or {}
+        for item in payload.get("offers", []):
+            where = ", ".join(
+                str(p) for p in (item.get("city"), item.get("state_name"),
+                                 item.get("country_code")) if p
+            )
+            res.jobs.append(_job(
+                RECRUITEE, slug, item.get("id"),
+                company=item.get("company_name") or slug,
+                title=item.get("title", ""),
+                url=item.get("careers_url") or item.get("careers_apply_url", ""),
+                locations=[where, "Remote" if item.get("remote") else ""],
+                posted_at=_epoch(item.get("published_at") or item.get("created_at")),
+                description=strip_html(item.get("description", "")),
             ))
         res.ok = True
     except Exception as exc:  # noqa: BLE001

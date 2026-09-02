@@ -200,6 +200,16 @@ slugs = []
 enabled = true
 slugs = []
 
+[sources.workable]
+# Small and mid sized employers, which is where Canadian coverage is thinnest.
+# Boards come from discovery; add confirmed ones here by hand.
+enabled = true
+slugs = []
+
+[sources.recruitee]
+enabled = true
+slugs = []
+
 [sources.amazon]
 # Brittle and unofficial. Isolated so a failure here cannot take down a sweep.
 enabled = true

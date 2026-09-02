@@ -18,11 +18,14 @@ WORKDAY = "workday"
 SMARTRECRUITERS = "smartrecruiters"
 BAMBOOHR = "bamboohr"
 RIPPLING = "rippling"
+WORKABLE = "workable"
+RECRUITEE = "recruitee"
 
 # Every ATS whose board key can be recovered from a posting URL. Measured
 # against the live feed: workday 371 boards over 927 postings, smartrecruiters
 # 110 over 231, bamboohr 21 over 39, rippling 18 over 21.
-SOURCES = (GREENHOUSE, LEVER, ASHBY, WORKDAY, SMARTRECRUITERS, BAMBOOHR, RIPPLING)
+SOURCES = (GREENHOUSE, LEVER, ASHBY, WORKDAY, SMARTRECRUITERS, BAMBOOHR,
+           RIPPLING, WORKABLE, RECRUITEE)
 
 # Ordered: the first pattern that matches a URL wins.
 PATTERNS = [
@@ -41,6 +44,10 @@ PATTERNS = [
     (SMARTRECRUITERS, re.compile(r"jobs\.smartrecruiters\.com/([A-Za-z0-9_-]+)", re.I)),
     (BAMBOOHR, re.compile(r"https?://([a-z0-9-]+)\.bamboohr\.com", re.I)),
     (RIPPLING, re.compile(r"ats\.rippling\.com/([a-z0-9-]+)", re.I)),
+    # Workable posting URLs come in two shapes; only the first carries a slug.
+    (WORKABLE, re.compile(r"apply\.workable\.com/([a-z0-9-]+)/j/", re.I)),
+    (WORKABLE, re.compile(r"https?://([a-z0-9-]+)\.workable\.com", re.I)),
+    (RECRUITEE, re.compile(r"https?://([a-z0-9-]+)\.recruitee\.com", re.I)),
 ]
 
 # Path segments that are never a company slug.
