@@ -22,9 +22,9 @@ on:
   workflow_dispatch:
     inputs:
       mode:
-        description: "run = normal sweep, seed = mark everything seen without notifying"
+        description: "run = normal sweep, seed = mark everything seen without notifying, probe = check the Canadian sources"
         type: choice
-        options: [run, seed, notify-test]
+        options: [run, seed, notify-test, probe]
         default: run
       dry_run:
         description: "print notifications instead of sending them"
@@ -72,7 +72,13 @@ jobs:
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          if [ "${{ inputs.mode }}" = "notify-test" ]; then
+          if [ "${{ inputs.mode }}" = "probe" ]; then
+            # Reads the Canadian endpoints and writes nothing. It lives on this
+            # workflow rather than its own because workflow_dispatch only lists
+            # workflows that exist on the default branch, and this one has to be
+            # runnable from a feature branch to be any use before merging.
+            python poller/cli.py probe --dump 6000
+          elif [ "${{ inputs.mode }}" = "notify-test" ]; then
             python poller/cli.py notify-test
           elif [ "${{ inputs.mode }}" = "seed" ]; then
             python poller/cli.py seed
@@ -83,6 +89,7 @@ jobs:
           fi
 
       - name: Commit state
+        if: ${{ inputs.mode != 'probe' }}
         run: |
           git config user.name  "job-watcher"
           git config user.email "job-watcher@users.noreply.github.com"
