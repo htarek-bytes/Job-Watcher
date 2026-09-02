@@ -45,7 +45,10 @@ concurrency:
 jobs:
   sweep:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    # A sweep finishes in well under a minute. `hunt` is the outlier: it tries
+    # ~1700 guessed slugs and needs room, so the limit is set for it rather
+    # than for the common case, which is bounded by the cron cadence anyway.
+    timeout-minutes: 25
 
     steps:
       - uses: actions/checkout@v4

@@ -70,13 +70,21 @@ def post(url, body, headers=None, timeout=TIMEOUT, retries=1):
     return last
 
 
-def get(url, headers=None, etag=None, timeout=TIMEOUT, retries=RETRIES):
+def get(url, headers=None, etag=None, timeout=TIMEOUT, retries=None):
     """GET a URL. Returns a Response, never raises.
 
     Passing `etag` sends If-None-Match, which is what keeps the 13 MB
     SimplifyJobs listing from being re-downloaded on every one of the ~288
     sweeps a day.
+
+    `retries` defaults to the module setting rather than binding it at import,
+    so a caller that is testing whether something exists at all can turn
+    retries off globally. `hunt` does: it tries ~1700 guessed slugs, almost all
+    of which do not exist, and retrying each miss three times with backoff took
+    it past the workflow timeout.
     """
+    if retries is None:
+        retries = RETRIES
     hdrs = {
         "User-Agent": USER_AGENT,
         "Accept-Encoding": "gzip",

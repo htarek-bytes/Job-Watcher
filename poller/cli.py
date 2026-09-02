@@ -575,6 +575,10 @@ HUNT_SOURCES = (sources.GREENHOUSE, sources.LEVER, sources.ASHBY,
 SEED_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)),
                          "canada_seed.txt")
 
+# Higher than a sweep's, because these are one round trip each against eight
+# different hosts rather than a sustained load on any one of them.
+HUNT_WORKERS = 32
+
 
 def load_names(path):
     names = []
@@ -589,13 +593,24 @@ def load_names(path):
 
 
 def cmd_hunt(cfg, args):
+    import net
+
     names = load_names(args.names)
+    if args.offset or args.limit:
+        names = names[args.offset:args.offset + (args.limit or len(names))]
     matcher = Matcher(cfg)
     targets = [(source, name) for name in names for source in HUNT_SOURCES]
+
+    # Almost every one of these is a slug that does not exist, and a miss is a
+    # verdict rather than a transient failure. Retrying each one three times
+    # with backoff pushed the first run past the workflow timeout without
+    # learning anything, so retries are off and the pool is wider: nearly all
+    # of these requests end in a 404 that costs one round trip.
+    net.RETRIES = 0
     print("Testing %d names across %d platforms: %d boards to try.\n"
           % (len(names), len(HUNT_SOURCES), len(targets)))
 
-    with concurrent.futures.ThreadPoolExecutor(max_workers=FETCH_WORKERS) as pool:
+    with concurrent.futures.ThreadPoolExecutor(max_workers=HUNT_WORKERS) as pool:
         fetched = list(pool.map(
             lambda t: (t, sources.fetch(t[0], t[1], cfg)), targets))
 
@@ -792,6 +807,10 @@ def main(argv=None):
     hunt.add_argument("--names", default=SEED_FILE)
     hunt.add_argument("--write", action="store_true",
                       help="add the boards that answered to data/slugs.json")
+    hunt.add_argument("--offset", type=int, default=0)
+    hunt.add_argument("--limit", type=int, default=0,
+                      help="only test this many names, so a long list can be "
+                           "split across runs")
 
     sub.add_parser("seed", help="mark everything currently open as seen")
     sub.add_parser("notify-test", help="send one push to prove ntfy is wired up")
