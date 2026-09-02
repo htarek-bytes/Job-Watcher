@@ -187,6 +187,84 @@ class TestJobBankMarkup(unittest.TestCase):
         self.assertIsNone(canada._jobbank_date(None))
 
 
+# Copied from a probe run against /recherche-emploi?skwd=developpeur+logiciel,
+# which answered 200 with 456 KB. The path form, /recherche-emploi/<keyword>,
+# 404s: those segments are canned category pages, not a search.
+JOBILLICO_HTML = """
+<html><body>
+<article ref="firstJob" class="card card--clickable"
+         data-job-url="exfo-inc/developpeur-logiciel-linux/17341496?&amp;upg=12"
+         data-company-id="4842">
+  <div class="card__content">
+    <a href="/ajouter-aux-emplois-favoris/17341496/L3JlY2g=" class="icon icon--favorite"> Ajouter aux favoris </a>
+    <span class="image-container"><a target="_blank" href="/voir-entreprise/exfo-inc?&amp;upg=14" title="EXFO inc"></a></span>
+    <header class="relative font-0">
+      <h2 class="h3 my0 pr5 word-break"><a href="/fr/offre-d-emploi/exfo-inc/developpeur-logiciel-linux/17341496?&amp;upg=12" id="0" rel='nofollow'>D&eacute;veloppeur Logiciel Junior</a></h2>
+      <h3 class="h4"><a class="link companyLink js--stopPropagationEvent" target="_blank" href="/voir-entreprise/exfo-inc?&amp;upg=18">EXFO inc</a></h3>
+    </header>
+    <p class="xs word-break">Job Description: Titre du poste [...]</p>
+    <ul class="list list--has-no-bullets">
+      <li class="list__item mb1"><span class="icon icon--information icon--information--position"></span>
+        <p class="inline xs valign-middle">Qu&eacute;bec - QC                    </p>
+      </li>
+      <li class="list__item mb0">
+        <span class="icon icon--information icon--information--calendar"></span>
+        <p class="inline valign-middle"><time class="xs" datetime="2026-09-01">1 jour(s)</time></p>
+      </li>
+    </ul>
+  </div>
+</article>
+<article data-job-url="siga-informatique-inc/developpeur-logiciel-junior/17450649?&amp;upg=12">
+  <header><h2 class="h3"><a href="/fr/offre-d-emploi/siga/x/17450649">Programmeur junior</a></h2>
+  <h3 class="h4"><a class="link companyLink" href="/voir-entreprise/siga">SIGA Informatique</a></h3></header>
+</article>
+<article data-job-url="x/y/17000000"><header><h2><a href="/fr/offre-d-emploi/x/y/17000000">
+</a></h2></header></article>
+</body></html>
+"""
+
+
+class TestJobillico(unittest.TestCase):
+    def test_reads_the_result_cards(self):
+        jobs = canada._parse_jobillico("q", JOBILLICO_HTML)
+        self.assertEqual(len(jobs), 2)
+
+    def test_keeps_the_employer(self):
+        # The JSON-LD on this page is an ItemList of ListItem, which carries
+        # only a title and a link. A posting with no company name is far less
+        # useful to act on, which is why the cards are read first.
+        jobs = canada._parse_jobillico("q", JOBILLICO_HTML)
+        self.assertEqual(jobs[0]["company"], "EXFO inc")
+
+    def test_reads_the_machine_readable_date(self):
+        jobs = canada._parse_jobillico("q", JOBILLICO_HTML)
+        self.assertEqual(jobs[0]["posted_at"], sources._epoch("2026-09-01"))
+
+    def test_location_skips_the_icon_span(self):
+        jobs = canada._parse_jobillico("q", JOBILLICO_HTML)
+        self.assertEqual(jobs[0]["locations"], ["Québec - QC"])
+
+    def test_url_drops_the_tracking_parameters(self):
+        jobs = canada._parse_jobillico("q", JOBILLICO_HTML)
+        self.assertEqual(
+            jobs[0]["url"],
+            "https://www.jobillico.com/fr/offre-d-emploi/"
+            "exfo-inc/developpeur-logiciel-linux/17341496")
+        self.assertFalse(any("upg=" in j["url"] for j in jobs))
+
+    def test_a_card_missing_a_location_still_counts(self):
+        jobs = canada._parse_jobillico("q", JOBILLICO_HTML)
+        self.assertEqual(jobs[1]["locations"], ["Quebec, Canada"])
+
+    def test_a_card_with_no_title_is_dropped(self):
+        self.assertTrue(all(j["title"] for j in canada._parse_jobillico("q", JOBILLICO_HTML)))
+
+    def test_search_url_uses_the_query_string_form(self):
+        self.assertEqual(
+            canada.search_url(canada.JOBILLICO, "developpeur logiciel"),
+            "https://www.jobillico.com/recherche-emploi?skwd=developpeur+logiciel")
+
+
 class TestEluta(unittest.TestCase):
     PAGE = """<html><body>
       <a href="https://boards.greenhouse.io/wealthsimple/jobs/123">SWE</a>
@@ -294,10 +372,13 @@ class TestSearchUrls(unittest.TestCase):
     search path returned 404 and six at TalentEgg's returned 500, so these
     tests exist to stop the wrong shapes coming back."""
 
-    def test_jobillico_puts_the_term_in_the_path(self):
+    def test_jobillico_uses_a_query_string_not_a_path(self):
+        # /recherche-emploi/<keyword> looks right, and the front page links to
+        # it, but those segments are canned category pages and a keyword there
+        # 404s. Only the query string form searches.
         self.assertEqual(
             canada.search_url(canada.JOBILLICO, "software developer"),
-            "https://www.jobillico.com/recherche-emploi/software+developer")
+            "https://www.jobillico.com/recherche-emploi?skwd=software+developer")
 
     def test_talentegg_uses_find_a_job(self):
         self.assertEqual(

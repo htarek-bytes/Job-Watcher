@@ -324,15 +324,26 @@ def _jobbank_date(text):
 # --------------------------------------------------------------------------
 
 JOBILLICO_BASE = "https://www.jobillico.com"
-# Read off Jobillico's own navigation, not guessed. Seven guesses at an
-# /en/job-search style path all returned 404 while the front page returned
-# 322 KB, and that page links to /recherche-emploi/<keyword>: the search term
-# is a path segment, and there is no English variant of it.
-JOBILLICO_SEARCH = JOBILLICO_BASE + "/recherche-emploi/%s"
+# Measured, in three rounds. Seven /en/job-search style guesses returned 404.
+# The front page links to /recherche-emploi/<keyword>, so that looked like the
+# answer, and it 404s too: those path segments are its canned category pages,
+# not a search. The query string form is the one that works, and it answers
+# with 456 KB carrying nine real Quebec postings.
+JOBILLICO_SEARCH = JOBILLICO_BASE + "/recherche-emploi?skwd=%s"
 
-_JI_LINK = re.compile(
-    r'href=["\'](/(?:en/)?(?:job-offer|offre-emploi)/[^"\'?#]+)["\']'
-    r'[^>]*>(?:\s*<[^>]+>)*\s*([^<]{3,120})', re.I)
+# Pinned to that response. A posting's own path is /fr/offre-d-emploi/<company>
+# /<title>/<id>, and each result card repeats the same triple in a data-job-url
+# attribute, which is the one place it appears without tracking parameters
+# glued on.
+_JI_ARTICLE = re.compile(r"<article\b.*?</article>", re.S | re.I)
+_JI_URL = re.compile(r'data-job-url=["\']([^"\'?]+)', re.I)
+_JI_TITLE = re.compile(r"<h2\b[^>]*>\s*<a\b[^>]*>(.*?)</a>", re.S | re.I)
+_JI_COMPANY = re.compile(
+    r'class=["\'][^"\']*companyLink[^"\']*["\'][^>]*>(.*?)</a>', re.S | re.I)
+_JI_LOCATION = re.compile(
+    r'icon--information--position["\'][^>]*>\s*</span>\s*<p[^>]*>(.*?)</p>',
+    re.S | re.I)
+_JI_DATE = re.compile(r'<time\b[^>]*datetime=["\']([^"\']+)', re.I)
 
 
 def fetch_jobillico(query, etag=None):
@@ -354,22 +365,42 @@ def fetch_jobillico(query, etag=None):
 
 
 def _parse_jobillico(query, body):
-    jobs = _from_json_ld(JOBILLICO, query, body, base=JOBILLICO_BASE)
+    """Jobillico's result cards.
+
+    Its JSON-LD is an ItemList of ListItem, not JobPosting, so it carries only
+    a title and a link. The cards carry the employer, the city and a machine
+    readable date as well, and a posting with no company name is much less
+    useful to act on, so the markup is read first here rather than second.
+    """
+    jobs = []
+    for block in _JI_ARTICLE.findall(body or ""):
+        path = _JI_URL.search(block)
+        title = _JI_TITLE.search(block)
+        if not path or not title:
+            continue
+        title_text = _clean(title.group(1))
+        if not title_text:
+            continue
+        company = _JI_COMPANY.search(block)
+        where = _JI_LOCATION.search(block)
+        date = _JI_DATE.search(block)
+        jobs.append(sources._job(
+            JOBILLICO, query, path.group(1).rsplit("/", 1)[-1],
+            company=_clean(company.group(1)) if company else "",
+            title=title_text,
+            url="%s/fr/offre-d-emploi/%s" % (JOBILLICO_BASE, path.group(1)),
+            # Jobillico is Quebec first, so an unreadable city is still Canada
+            # and still worth keeping.
+            locations=[_clean(where.group(1)) if where else "Quebec, Canada"],
+            posted_at=sources._epoch(date.group(1)) if date else None,
+            description="",
+        ))
     if jobs:
         return _dedupe_by_url(jobs)
-    for path, title in _JI_LINK.findall(body or ""):
-        title = _clean(title)
-        if not title:
-            continue
-        jobs.append(sources._job(
-            JOBILLICO, query, path.rsplit("/", 1)[-1],
-            company="", title=title,
-            url=urllib.parse.urljoin(JOBILLICO_BASE, path),
-            # Jobillico is Quebec only, so an unparsed location is still CA.
-            locations=["Quebec, Canada"],
-            posted_at=None, description="",
-        ))
-    return _dedupe_by_url(jobs)
+    # Last resort. Loses the employer and the date, but a title and a link
+    # still beats an empty result.
+    return _dedupe_by_url(
+        _from_json_ld(JOBILLICO, query, body, base=JOBILLICO_BASE))
 
 
 # --------------------------------------------------------------------------
@@ -569,7 +600,7 @@ CANDIDATE_URLS = {
         JOBBANK_BASE + "/jobsearch/jobsearch?searchstring=%s",
     ],
     JOBILLICO: [
-        JOBILLICO_BASE + "/recherche-emploi?skwd=%s",
+        JOBILLICO_BASE + "/recherche-emploi/%s",
         JOBILLICO_BASE + "/recherche-emploi",
         JOBILLICO_BASE + "/",
     ],

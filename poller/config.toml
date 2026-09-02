@@ -252,10 +252,14 @@ queries = [
 # Quebec's largest board and effectively invisible from outside the province.
 # The search term is a path segment on /recherche-emploi, and the site has no
 # English search route, so French terms are as useful as English ones here.
-enabled = false
+#
+# VERIFIED 2026-09-02: HTTP 200, 456 KB, 9 Quebec postings parsed with the
+# employer, the city and a real date on each.
+enabled = true
 queries = [
   "developpeur logiciel",
   "developpeur junior",
+  "programmeur junior",
   "software developer",
   "junior developer",
 ]
@@ -263,8 +267,12 @@ queries = [
 [sources.talentegg]
 # Canadian, and new grad and campus only, so almost everything on it already
 # passes the matcher's early career gate. Small but the highest signal here.
-enabled = false
-queries = ["software", "developer", "software engineer"]
+#
+# VERIFIED 2026-09-02: HTTP 200, real postings parsed. It is genuinely small,
+# a couple of software hits per query, and it publishes no dates, so a role
+# from here shows an unknown age rather than a fake one.
+enabled = true
+queries = ["software", "developer", "software engineer", "engineering"]
 
 [sources.eluta]
 # Indexes Canadian employers' own careers pages rather than reselling
