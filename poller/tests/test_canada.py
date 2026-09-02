@@ -289,6 +289,43 @@ class TestWiring(unittest.TestCase):
             self.assertIn(name, canada._FETCHERS)
 
 
+class TestSearchUrls(unittest.TestCase):
+    """These paths were measured, not remembered. Seven guesses at Jobillico's
+    search path returned 404 and six at TalentEgg's returned 500, so these
+    tests exist to stop the wrong shapes coming back."""
+
+    def test_jobillico_puts_the_term_in_the_path(self):
+        self.assertEqual(
+            canada.search_url(canada.JOBILLICO, "software developer"),
+            "https://www.jobillico.com/recherche-emploi/software+developer")
+
+    def test_talentegg_uses_find_a_job(self):
+        self.assertEqual(
+            canada.search_url(canada.TALENTEGG, "software developer"),
+            "https://talentegg.ca/find-a-job/keyword/software%20developer")
+
+    def test_the_two_sites_encode_a_space_differently(self):
+        # Jobillico writes emploi+etudiant, TalentEgg writes Entry%20Level.
+        # One encoding for both would be wrong for one of them.
+        self.assertIn("+", canada.search_url(canada.JOBILLICO, "a b"))
+        self.assertIn("%20", canada.search_url(canada.TALENTEGG, "a b"))
+
+    def test_no_candidate_url_has_a_stray_format_token(self):
+        # A template without %s is used verbatim, so a %%20 written for
+        # substitution would reach the network as a literal %%20.
+        for source in canada.SOURCES + canada.UNREACHABLE:
+            if source == canada.GETRO:
+                continue
+            for url in canada.probe_urls(source, "software developer"):
+                self.assertNotIn("%s", url, url)
+                self.assertNotIn("%%", url, url)
+
+    def test_the_primary_url_is_probed_first(self):
+        for source in canada.SEARCH_URLS:
+            self.assertEqual(canada.probe_urls(source, "x")[0],
+                             canada.search_url(source, "x"))
+
+
 class TestHuntSeed(unittest.TestCase):
     """The seed list is candidates, not confirmed boards. These tests guard the
     reading of it; `cli.py hunt` is what decides which names are real."""

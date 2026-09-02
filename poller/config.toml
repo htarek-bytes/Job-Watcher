@@ -217,10 +217,11 @@ slugs = []
 # are national aggregators instead: one endpoint, thousands of employers, and
 # no need to know a company exists before it can be found.
 #
-# All start disabled. None of these publish an API contract, the parsers were
-# written against remembered markup rather than a live response, and shipping
-# an untested source as working is the exact thing this project does not do.
-# Run the probe workflow, then enable what it shows returning real postings.
+# A source is enabled here only after the probe workflow has shown it fetching
+# and parsing real postings. Job Bank has: a run on 2026-09-02 returned HTTP
+# 200 and the parser read 25 live postings out of it, so it is on. The rest
+# stay off until a probe says the same about them, because shipping an
+# untested source as working is the exact thing this project does not do.
 # ---------------------------------------------------------------------------
 
 [sources.jobbank]
@@ -235,7 +236,9 @@ slugs = []
 # wants a new grad signal in the title, so a plain role search returns hundreds
 # of rows that are all filtered out again. Searching for the signal itself is
 # what turns a wide net into a useful one.
-enabled = false
+#
+# VERIFIED 2026-09-02: HTTP 200, 25 postings parsed, newest dated that day.
+enabled = true
 queries = [
   "junior software developer",
   "junior programmer",
@@ -247,14 +250,21 @@ queries = [
 
 [sources.jobillico]
 # Quebec's largest board and effectively invisible from outside the province.
+# The search term is a path segment on /recherche-emploi, and the site has no
+# English search route, so French terms are as useful as English ones here.
 enabled = false
-queries = ["software developer", "developpeur logiciel"]
+queries = [
+  "developpeur logiciel",
+  "developpeur junior",
+  "software developer",
+  "junior developer",
+]
 
 [sources.talentegg]
 # Canadian, and new grad and campus only, so almost everything on it already
 # passes the matcher's early career gate. Small but the highest signal here.
 enabled = false
-queries = ["software", "developer", "engineering"]
+queries = ["software", "developer", "software engineer"]
 
 [sources.eluta]
 # Indexes Canadian employers' own careers pages rather than reselling

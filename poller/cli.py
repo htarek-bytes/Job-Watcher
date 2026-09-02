@@ -188,6 +188,10 @@ def sweep(cfg, health, registry, quiet=False, previous=None):
                 company=job.get("company", ""),
             )
             job["region"] = region
+            # Every region the posting covers, so the dashboard's Canada filter
+            # also finds a role open in Toronto and New York. `region` alone
+            # calls that one US and hides it.
+            job["regions"] = locations.classify_all(job.get("locations"))
             job["location_evidence"] = evidence
             job["match_reason"] = reason
             job["work_auth"] = status

@@ -10,16 +10,20 @@ The sources here are national aggregators instead of per company boards: one
 endpoint covering thousands of employers. That is the only shape that closes a
 coverage gap rather than adding one more company to it.
 
-Two of them are also discovery feeds. Job Bank and Eluta link out to the
-employer's own careers page, so their results feed discover.slug_from_url and
-turn into Greenhouse, Lever and Workable boards the US aggregator never
-mentions. Canadian coverage then compounds instead of staying flat.
+One of them, Getro, is also a discovery feed: its records link straight to the
+portfolio company's own board, so they feed discover.slug_from_url and turn
+into Greenhouse and Lever boards the US aggregator never mentions.
 
-None of these publish an API contract. Every endpoint below is a CANDIDATE
-until `python poller/cli.py probe` has run it from a machine with real egress.
-Each fetcher therefore tries several shapes and reports which one answered,
-and every parser falls back to schema.org JSON-LD, which these sites emit for
-search engines and which changes far less often than their markup.
+None of these publish an API contract, and none of these URLs were written
+from memory. `python poller/cli.py probe` runs them from a machine with real
+egress and reports what came back, and the paths here are the ones that
+answered: three probe runs found that Jobillico 404s on every /en/job-search
+shape and uses /recherche-emploi/<keyword>, and that TalentEgg 500s on every
+/search shape and uses /find-a-job/keyword/<kw>. Both were read off the site's
+own navigation after the guesses failed.
+
+Every parser tries schema.org JSON-LD first, which these sites emit for search
+engines and which changes far less often than the markup around it.
 """
 
 import json
@@ -46,7 +50,15 @@ SOURCES = (JOBBANK, JOBILLICO, TALENTEGG, GETRO)
 
 # Sources whose results carry a link to the employer's own ATS, so their
 # postings are worth running discovery over.
-DISCOVERY_SOURCES = (JOBBANK, GETRO)
+#
+# Job Bank is not one of them, despite an earlier comment here saying it was.
+# Its result links point at its own posting pages, jobbank.gc.ca/jobsearch/
+# jobposting/<id>, and the employer's application URL only appears on the
+# posting page itself. Running discovery over those links finds nothing, and
+# fetching 25 detail pages per query to reach the real ones is not worth it at
+# this cadence. Getro is the genuine case: its records link straight to the
+# portfolio company's Greenhouse or Lever board.
+DISCOVERY_SOURCES = (GETRO,)
 
 # Probed, but never polled. Kept separate so a dead source cannot quietly cost
 # a request on every sweep.
@@ -227,8 +239,8 @@ JOBBANK_TIMEOUT = 60
 
 def fetch_jobbank(query, etag=None):
     res = sources.SourceResult(JOBBANK, query)
-    url = JOBBANK_SEARCH % urllib.parse.quote_plus(query)
-    resp = _http.get(url, headers=_BROWSER, etag=etag, timeout=JOBBANK_TIMEOUT)
+    resp = _http.get(search_url(JOBBANK, query), headers=_BROWSER, etag=etag,
+                     timeout=JOBBANK_TIMEOUT)
     res.status, res.seconds = resp.status, resp.seconds
     if not resp.ok:
         res.error = resp.error
@@ -312,17 +324,20 @@ def _jobbank_date(text):
 # --------------------------------------------------------------------------
 
 JOBILLICO_BASE = "https://www.jobillico.com"
-JOBILLICO_SEARCH = JOBILLICO_BASE + "/en/job-search?skwd=%s&page=1"
+# Read off Jobillico's own navigation, not guessed. Seven guesses at an
+# /en/job-search style path all returned 404 while the front page returned
+# 322 KB, and that page links to /recherche-emploi/<keyword>: the search term
+# is a path segment, and there is no English variant of it.
+JOBILLICO_SEARCH = JOBILLICO_BASE + "/recherche-emploi/%s"
 
 _JI_LINK = re.compile(
-    r'href=["\'](/en/job-offer/[^"\'?#]+)["\'][^>]*>(?:\s*<[^>]+>)*\s*([^<]{3,120})',
-    re.I)
+    r'href=["\'](/(?:en/)?(?:job-offer|offre-emploi)/[^"\'?#]+)["\']'
+    r'[^>]*>(?:\s*<[^>]+>)*\s*([^<]{3,120})', re.I)
 
 
 def fetch_jobillico(query, etag=None):
     res = sources.SourceResult(JOBILLICO, query)
-    resp = _http.get(JOBILLICO_SEARCH % urllib.parse.quote_plus(query),
-                     headers=_BROWSER, etag=etag)
+    resp = _http.get(search_url(JOBILLICO, query), headers=_BROWSER, etag=etag)
     res.status, res.seconds = resp.status, resp.seconds
     if not resp.ok:
         res.error = resp.error
@@ -364,17 +379,20 @@ def _parse_jobillico(query, body):
 # --------------------------------------------------------------------------
 
 TALENTEGG_BASE = "https://talentegg.ca"
-TALENTEGG_SEARCH = TALENTEGG_BASE + "/search/jobs/?q=%s"
+# Also read off the site rather than guessed: six /search and /jobs style
+# guesses returned 500 while the front page returned 185 KB and links to
+# /find-a-job/keyword/<kw>. It also has /find-a-job/role/entry-level/ and
+# /role/early-career/, which is the matcher's fourth gate served by the site.
+TALENTEGG_SEARCH = TALENTEGG_BASE + "/find-a-job/keyword/%s"
 
 _TE_LINK = re.compile(
-    r'href=["\']((?:https://talentegg\.ca)?/(?:job|internship)/[^"\'?#]+)["\']'
+    r'href=["\']((?:https://talentegg\.ca)?/employer/[^"\'?#]+/jobs/[^"\'?#]+)["\']'
     r'[^>]*>(?:\s*<[^>]+>)*\s*([^<]{3,120})', re.I)
 
 
 def fetch_talentegg(query, etag=None):
     res = sources.SourceResult(TALENTEGG, query)
-    resp = _http.get(TALENTEGG_SEARCH % urllib.parse.quote_plus(query),
-                     headers=_BROWSER, etag=etag)
+    resp = _http.get(search_url(TALENTEGG, query), headers=_BROWSER, etag=etag)
     res.status, res.seconds = resp.status, resp.seconds
     if not resp.ok:
         res.error = resp.error
@@ -424,8 +442,7 @@ _EL_SELF = re.compile(r"eluta\.ca|google|facebook|twitter|linkedin", re.I)
 
 def fetch_eluta(query, etag=None):
     res = sources.SourceResult(ELUTA, query)
-    resp = _http.get(ELUTA_SEARCH % urllib.parse.quote_plus(query),
-                     headers=_BROWSER, etag=etag)
+    resp = _http.get(search_url(ELUTA, query), headers=_BROWSER, etag=etag)
     res.status, res.seconds = resp.status, resp.seconds
     if not resp.ok:
         res.error = resp.error
@@ -552,20 +569,18 @@ CANDIDATE_URLS = {
         JOBBANK_BASE + "/jobsearch/jobsearch?searchstring=%s",
     ],
     JOBILLICO: [
-        JOBILLICO_BASE + "/en/search-jobs?skwd=%s",
-        JOBILLICO_BASE + "/en/jobs-search?skwd=%s",
-        JOBILLICO_BASE + "/en/search?skwd=%s",
-        JOBILLICO_BASE + "/en/job-offers?skwd=%s",
-        JOBILLICO_BASE + "/fr/recherche-emploi?skwd=%s",
-        JOBILLICO_BASE + "/en/job-search",
+        JOBILLICO_BASE + "/recherche-emploi?skwd=%s",
+        JOBILLICO_BASE + "/recherche-emploi",
         JOBILLICO_BASE + "/",
     ],
+    # The role segments are the site doing the matcher's fourth gate for us:
+    # everything under entry-level or early-career already carries a new grad
+    # signal, whatever the title happens to say.
     TALENTEGG: [
-        TALENTEGG_BASE + "/search?q=%s",
-        TALENTEGG_BASE + "/jobs?q=%s",
-        TALENTEGG_BASE + "/search/jobs?q=%s",
-        TALENTEGG_BASE + "/browse/jobs?q=%s",
-        TALENTEGG_BASE + "/jobs",
+        TALENTEGG_BASE + "/find-a-job/role/entry-level/keyword/%s",
+        TALENTEGG_BASE + "/find-a-job/role/early-career/keyword/%s",
+        TALENTEGG_BASE + "/find-a-job/role/entry-level/keyword/Entry%20Level/",
+        TALENTEGG_BASE + "/find-a-job/keyword/%s/",
         TALENTEGG_BASE + "/",
     ],
     # Eluta refused the TLS handshake outright ("SSLV3_ALERT_HANDSHAKE_FAILURE")
@@ -576,16 +591,31 @@ CANDIDATE_URLS = {
 }
 
 
+SEARCH_URLS = {
+    JOBBANK: JOBBANK_SEARCH,
+    JOBILLICO: JOBILLICO_SEARCH,
+    TALENTEGG: TALENTEGG_SEARCH,
+    ELUTA: ELUTA_SEARCH,
+}
+
+
+def search_url(source, query):
+    """The search URL for a query, encoded the way the site encodes its own.
+
+    Jobillico writes /recherche-emploi/emploi+etudiant and TalentEgg writes
+    /find-a-job/role/entry-level/keyword/Entry%20Level. Both put the term in
+    the path, and they disagree about the space, so this follows each one
+    rather than picking a single encoding and being wrong for one of them.
+    """
+    quote = urllib.parse.quote if source == TALENTEGG else urllib.parse.quote_plus
+    return SEARCH_URLS[source] % quote(query)
+
+
 def probe_urls(source, query):
     """Every URL worth trying for a source, primary first."""
-    primary = {
-        JOBBANK: JOBBANK_SEARCH,
-        JOBILLICO: JOBILLICO_SEARCH,
-        TALENTEGG: TALENTEGG_SEARCH,
-        ELUTA: ELUTA_SEARCH,
-    }.get(source)
-    quoted = urllib.parse.quote_plus(query)
-    out = [primary % quoted] if primary else []
+    quote = urllib.parse.quote if source == TALENTEGG else urllib.parse.quote_plus
+    quoted = quote(query)
+    out = [search_url(source, query)] if source in SEARCH_URLS else []
     for template in CANDIDATE_URLS.get(source, []):
         out.append(template % quoted if "%s" in template else template)
     return out
