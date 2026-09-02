@@ -1,6 +1,6 @@
 {
- "count": 448,
- "generated_at": 1788323785,
+ "count": 442,
+ "generated_at": 1788350664,
  "jobs": [
   {
    "company": "Enercon Services",
@@ -12,9 +12,9 @@
    "match_reason": "new grad phrase 'new grad'",
    "posted_at": 1788302862,
    "region": "US",
-   "score": 70,
+   "score": 64,
    "score_reasons": [
-    "+20 posted in the last 6h"
+    "+14 posted today"
    ],
    "slug": "listings",
    "source": "simplify",
@@ -33,63 +33,15 @@
    "match_reason": "new grad phrase 'early career'",
    "posted_at": 1788302861,
    "region": "US",
-   "score": 70,
+   "score": 64,
    "score_reasons": [
-    "+20 posted in the last 6h"
+    "+14 posted today"
    ],
    "slug": "listings",
    "source": "simplify",
    "title": "Safety Analysis Engineer - Early Career",
    "uid": "simplify:listings:c1d4dc63-07f0-4311-aa1c-e9e89586839f",
    "url": "https://explore.enercon.com/jobs/4283?icims=1",
-   "work_auth": "unknown",
-   "work_auth_evidence": ""
-  },
-  {
-   "company": "Stripe",
-   "duplicate_count": 2,
-   "duplicate_sources": [
-    "simplify"
-   ],
-   "location_evidence": "Toronto, ON, Canada",
-   "locations": [
-    "Toronto, ON, Canada"
-   ],
-   "match_reason": "new grad phrase 'new grad'",
-   "posted_at": 1788254091,
-   "region": "CA",
-   "score": 67,
-   "score_reasons": [
-    "+14 posted today",
-    "+3 Canadian, no status needed"
-   ],
-   "slug": "listings",
-   "source": "simplify",
-   "title": "Software Engineer New Grad",
-   "uid": "simplify:listings:076b67e3-3500-43b8-9900-446ce4075cec",
-   "url": "https://stripe.com/jobs/search?gh_jid=8157838",
-   "work_auth": "unknown",
-   "work_auth_evidence": ""
-  },
-  {
-   "company": "IXL Learning",
-   "location_evidence": "Toronto, ON, Canada",
-   "locations": [
-    "Toronto, ON, Canada"
-   ],
-   "match_reason": "new grad phrase 'new grad'",
-   "posted_at": 1788238176,
-   "region": "CA",
-   "score": 67,
-   "score_reasons": [
-    "+14 posted today",
-    "+3 Canadian, no status needed"
-   ],
-   "slug": "listings",
-   "source": "simplify",
-   "title": "Software Developer New Grad - Integrations",
-   "uid": "simplify:listings:c58e3a3d-ab52-4b49-a119-97d65df470fb",
-   "url": "https://www.ixl.com/company/jobs?gh_jid=8765751002",
    "work_auth": "unknown",
    "work_auth_evidence": ""
   },
@@ -137,6 +89,54 @@
    "work_auth_evidence": ""
   },
   {
+   "company": "Stripe",
+   "duplicate_count": 2,
+   "duplicate_sources": [
+    "simplify"
+   ],
+   "location_evidence": "Toronto, ON, Canada",
+   "locations": [
+    "Toronto, ON, Canada"
+   ],
+   "match_reason": "new grad phrase 'new grad'",
+   "posted_at": 1788254091,
+   "region": "CA",
+   "score": 60,
+   "score_reasons": [
+    "+7 posted in the last 3 days",
+    "+3 Canadian, no status needed"
+   ],
+   "slug": "listings",
+   "source": "simplify",
+   "title": "Software Engineer New Grad",
+   "uid": "simplify:listings:076b67e3-3500-43b8-9900-446ce4075cec",
+   "url": "https://stripe.com/jobs/search?gh_jid=8157838",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "IXL Learning",
+   "location_evidence": "Toronto, ON, Canada",
+   "locations": [
+    "Toronto, ON, Canada"
+   ],
+   "match_reason": "new grad phrase 'new grad'",
+   "posted_at": 1788238176,
+   "region": "CA",
+   "score": 60,
+   "score_reasons": [
+    "+7 posted in the last 3 days",
+    "+3 Canadian, no status needed"
+   ],
+   "slug": "listings",
+   "source": "simplify",
+   "title": "Software Developer New Grad - Integrations",
+   "uid": "simplify:listings:c58e3a3d-ab52-4b49-a119-97d65df470fb",
+   "url": "https://www.ixl.com/company/jobs?gh_jid=8765751002",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
    "company": "Siemens",
    "location_evidence": "Grand Prairie, TX",
    "locations": [
@@ -145,9 +145,9 @@
    "match_reason": "new grad phrase 'junior'",
    "posted_at": 1788254658,
    "region": "US",
-   "score": 64,
+   "score": 57,
    "score_reasons": [
-    "+14 posted today"
+    "+7 posted in the last 3 days"
    ],
    "slug": "listings",
    "source": "simplify",
@@ -166,9 +166,9 @@
    "match_reason": "new grad phrase 'new grad'",
    "posted_at": 1788246494,
    "region": "US",
-   "score": 64,
+   "score": 57,
    "score_reasons": [
-    "+14 posted today"
+    "+7 posted in the last 3 days"
    ],
    "slug": "listings",
    "source": "simplify",
@@ -188,9 +188,9 @@
    "match_reason": "new grad phrase 'new grad'",
    "posted_at": 1788238456,
    "region": "US",
-   "score": 64,
+   "score": 57,
    "score_reasons": [
-    "+14 posted today"
+    "+7 posted in the last 3 days"
    ],
    "slug": "listings",
    "source": "simplify",
@@ -213,9 +213,9 @@
    "match_reason": "new grad phrase 'new grad'",
    "posted_at": 1788238176,
    "region": "US",
-   "score": 64,
+   "score": 57,
    "score_reasons": [
-    "+14 posted today"
+    "+7 posted in the last 3 days"
    ],
    "slug": "listings",
    "source": "simplify",
@@ -453,8 +453,12 @@
     "Santa Clara, CA"
    ],
    "match_reason": "new grad phrase 'college grad'",
+   "missing_keywords": [],
    "posted_at": 1788220800,
    "region": "US",
+   "requested_skills": [
+    "Data structures & algorithms"
+   ],
    "score": 57,
    "score_reasons": [
     "+7 posted in the last 3 days"
@@ -1420,25 +1424,6 @@
    "work_auth_evidence": ""
   },
   {
-   "company": "United Launch Alliance",
-   "location_evidence": "Centennial, CO",
-   "locations": [
-    "Centennial, CO"
-   ],
-   "match_reason": "level 1 suffix on 'software engineer'",
-   "posted_at": 1787764994,
-   "region": "US",
-   "score": 50,
-   "score_reasons": [],
-   "slug": "listings",
-   "source": "simplify",
-   "title": "Embedded Flight Software Engineer 1",
-   "uid": "simplify:listings:242a72e5-306f-4aee-83bf-394d30551f34",
-   "url": "https://jobs.ulalaunch.com/job/Centennial-Embedded-Flight-Software-Engineer-1-CO-80112/1423541600/?ats=successfactors",
-   "work_auth": "unknown",
-   "work_auth_evidence": ""
-  },
-  {
    "company": "True Anomaly",
    "location_evidence": "Long Beach, CA",
    "locations": [
@@ -1455,29 +1440,6 @@
    "title": "Software Engineer 1 New Grad - Perception",
    "uid": "simplify:listings:f5899221-db12-4026-a976-4ea6742899cc",
    "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221970007",
-   "work_auth": "unknown",
-   "work_auth_evidence": ""
-  },
-  {
-   "company": "Boeing",
-   "duplicate_count": 2,
-   "duplicate_sources": [
-    "simplify"
-   ],
-   "location_evidence": "Mountain View, CA",
-   "locations": [
-    "Mountain View, CA"
-   ],
-   "match_reason": "new grad phrase 'entry level'",
-   "posted_at": 1787702400,
-   "region": "US",
-   "score": 50,
-   "score_reasons": [],
-   "slug": "listings",
-   "source": "simplify",
-   "title": "Entry Level ASIC/FPGA Design Engineer - Space Electronics",
-   "uid": "simplify:listings:ee871fc2-a48b-4f6f-8b78-4f13099021ca",
-   "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Mountain-View-CA/Entry-Level-ASIC-FPGA-Design-Engineer---Space-Electronics---MTV_JR2026520433-1",
    "work_auth": "unknown",
    "work_auth_evidence": ""
   },
@@ -1691,25 +1653,6 @@
    "title": "Embedded Software Engineer 1",
    "uid": "simplify:listings:bb5b9ae6-1aba-4fe3-87a2-2a7855b9a86e",
    "url": "https://job-boards.greenhouse.io/alarmcom/jobs/8622530002",
-   "work_auth": "unknown",
-   "work_auth_evidence": ""
-  },
-  {
-   "company": "The Walt Disney Company",
-   "location_evidence": "Orlando, FL",
-   "locations": [
-    "Orlando, FL"
-   ],
-   "match_reason": "new grad phrase 'associate software engineer'",
-   "posted_at": 1787616000,
-   "region": "US",
-   "score": 50,
-   "score_reasons": [],
-   "slug": "listings",
-   "source": "simplify",
-   "title": "Associate Software Engineer",
-   "uid": "simplify:listings:5ea2c9a9-5fc0-47a9-9ae2-f5f63daa4272",
-   "url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Orlando-FL-USA/Associate-Software-Engineer_10157526-1",
    "work_auth": "unknown",
    "work_auth_evidence": ""
   },
@@ -1988,26 +1931,6 @@
    "title": "Trading System Engineer New Grad",
    "uid": "simplify:listings:eb3814c7-6fd3-4e58-852c-6cc00005cf9a",
    "url": "https://careers-sig.icims.com/jobs/11349/job?mobile=true&needsRedirect=false",
-   "work_auth": "unknown",
-   "work_auth_evidence": ""
-  },
-  {
-   "company": "Altice USA",
-   "location_evidence": "Plano, TX",
-   "locations": [
-    "Plano, TX",
-    "Bethpage, NY"
-   ],
-   "match_reason": "level 1 suffix on 'software development engineer'",
-   "posted_at": 1787304182,
-   "region": "US",
-   "score": 50,
-   "score_reasons": [],
-   "slug": "listings",
-   "source": "simplify",
-   "title": "Software Development Engineer 1",
-   "uid": "simplify:listings:ed1c1803-cea0-4778-8d48-8ba69bc0716a",
-   "url": "https://www.optimumcareers.com/job/Bethpage-Software-Dev-Engineer-I-NY-11714/1420351500/?ats=successfactors",
    "work_auth": "unknown",
    "work_auth_evidence": ""
   },
@@ -2459,8 +2382,12 @@
     "Sterling, VA"
    ],
    "match_reason": "new grad phrase 'junior'",
+   "missing_keywords": [],
    "posted_at": 1786972846,
    "region": "US",
+   "requested_skills": [
+    "C#"
+   ],
    "score": 50,
    "score_reasons": [],
    "slug": "listings",
@@ -2540,8 +2467,12 @@
     "Chicago, IL"
    ],
    "match_reason": "new grad phrase 'entry level'",
+   "missing_keywords": [],
    "posted_at": 1786754507,
    "region": "US",
+   "requested_skills": [
+    "C++"
+   ],
    "score": 50,
    "score_reasons": [],
    "slug": "listings",
@@ -2636,8 +2567,12 @@
     "San Jose, CA"
    ],
    "match_reason": "new grad phrase 'new grad'",
+   "missing_keywords": [],
    "posted_at": 1786745733,
    "region": "US",
+   "requested_skills": [
+    "Data structures & algorithms"
+   ],
    "score": 50,
    "score_reasons": [],
    "slug": "listings",
@@ -2979,8 +2914,12 @@
     "Louisville, CO"
    ],
    "match_reason": "new grad phrase 'entry level'",
+   "missing_keywords": [],
    "posted_at": 1786496810,
    "region": "US",
+   "requested_skills": [
+    "C#"
+   ],
    "score": 50,
    "score_reasons": [],
    "slug": "listings",
@@ -3025,8 +2964,12 @@
     "Silver Creek, NY"
    ],
    "match_reason": "new grad phrase 'entry level'",
+   "missing_keywords": [],
    "posted_at": 1786496808,
    "region": "US",
+   "requested_skills": [
+    "Java"
+   ],
    "score": 50,
    "score_reasons": [],
    "slug": "listings",
@@ -3424,8 +3367,12 @@
     "San Jose, CA"
    ],
    "match_reason": "new grad phrase 'new grad'",
+   "missing_keywords": [],
    "posted_at": 1786094696,
    "region": "US",
+   "requested_skills": [
+    "Machine learning"
+   ],
    "score": 50,
    "score_reasons": [],
    "slug": "listings",
@@ -3730,13 +3677,9 @@
   },
   {
    "company": "Asure",
-   "duplicate_count": 2,
-   "duplicate_sources": [
-    "simplify"
-   ],
-   "location_evidence": "Addison, TX",
+   "location_evidence": "Atlanta, GA",
    "locations": [
-    "Addison, TX"
+    "Atlanta, GA"
    ],
    "match_reason": "new grad phrase 'associate software engineer'",
    "posted_at": 1785881799,
@@ -3746,8 +3689,8 @@
    "slug": "listings",
    "source": "simplify",
    "title": "Associate Software Engineer",
-   "uid": "simplify:listings:432f2a98-6083-457b-915b-52b50828742d",
-   "url": "https://asuresoftware.bamboohr.com/careers/1052/",
+   "uid": "simplify:listings:1d1eaea3-018d-4904-b3fe-43da7bb43faa",
+   "url": "https://asuresoftware.bamboohr.com/careers/1053/",
    "work_auth": "unknown",
    "work_auth_evidence": ""
   },
@@ -3758,8 +3701,12 @@
     "San Jose, CA"
    ],
    "match_reason": "new grad phrase 'new grad'",
+   "missing_keywords": [],
    "posted_at": 1785835209,
    "region": "US",
+   "requested_skills": [
+    "Machine learning"
+   ],
    "score": 50,
    "score_reasons": [],
    "slug": "listings",
@@ -3815,8 +3762,12 @@
     "San Jose, CA"
    ],
    "match_reason": "new grad phrase 'new grad'",
+   "missing_keywords": [],
    "posted_at": 1785824409,
    "region": "US",
+   "requested_skills": [
+    "Machine learning"
+   ],
    "score": 50,
    "score_reasons": [],
    "slug": "listings",
@@ -3922,8 +3873,12 @@
     "San Jose, CA"
    ],
    "match_reason": "new grad phrase 'new grad'",
+   "missing_keywords": [],
    "posted_at": 1785766821,
    "region": "US",
+   "requested_skills": [
+    "Machine learning"
+   ],
    "score": 50,
    "score_reasons": [],
    "slug": "listings",
@@ -3941,8 +3896,12 @@
     "San Jose, CA"
    ],
    "match_reason": "new grad phrase 'new grad'",
+   "missing_keywords": [],
    "posted_at": 1785766819,
    "region": "US",
+   "requested_skills": [
+    "Machine learning"
+   ],
    "score": 50,
    "score_reasons": [],
    "slug": "listings",
@@ -4007,490 +3966,6 @@
    "title": "Associate Software Engineer - FSI",
    "uid": "simplify:listings:9dd271a3-9548-43cb-aa06-75e9947c1623",
    "url": "https://jobs.uhsinc.com/jobs/362176?icims=1",
-   "work_auth": "unknown",
-   "work_auth_evidence": ""
-  },
-  {
-   "company": "ByteDance",
-   "location_evidence": "Seattle, WA",
-   "locations": [
-    "Seattle, WA"
-   ],
-   "match_reason": "new grad phrase 'new grad'",
-   "posted_at": 1785748605,
-   "region": "US",
-   "score": 50,
-   "score_reasons": [],
-   "slug": "listings",
-   "source": "simplify",
-   "title": "Software Engineer New Grad - AI Infrastructure-Compute Efficiency & Scheduling",
-   "uid": "simplify:listings:8cad0fcf-e891-4637-91ed-259c291121f3",
-   "url": "https://jobs.bytedance.com/en/position/7668799020705679669/detail",
-   "work_auth": "unknown",
-   "work_auth_evidence": ""
-  },
-  {
-   "company": "ByteDance",
-   "location_evidence": "San Jose, CA",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "match_reason": "new grad phrase 'new grad'",
-   "posted_at": 1785748599,
-   "region": "US",
-   "score": 50,
-   "score_reasons": [],
-   "slug": "listings",
-   "source": "simplify",
-   "title": "Software Engineer New Grad - Traffic Infrastructure",
-   "uid": "simplify:listings:d7b7af97-f9b0-4faf-84d3-6c33874a3f86",
-   "url": "https://jobs.bytedance.com/en/position/7665849950984194309/detail",
-   "work_auth": "unknown",
-   "work_auth_evidence": ""
-  },
-  {
-   "company": "ByteDance",
-   "location_evidence": "San Jose, CA",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "match_reason": "new grad phrase 'new grad'",
-   "posted_at": 1785748598,
-   "region": "US",
-   "score": 50,
-   "score_reasons": [],
-   "slug": "listings",
-   "source": "simplify",
-   "title": "Security Engineer New Grad - Threat Detection and Response",
-   "uid": "simplify:listings:53efd4af-54a6-411e-a939-031cead7e3c1",
-   "url": "https://jobs.bytedance.com/en/position/7668614787018393909/detail",
-   "work_auth": "unknown",
-   "work_auth_evidence": ""
-  },
-  {
-   "company": "ByteDance",
-   "location_evidence": "Seattle, WA",
-   "locations": [
-    "Seattle, WA"
-   ],
-   "match_reason": "new grad phrase 'new grad'",
-   "posted_at": 1785748598,
-   "region": "US",
-   "score": 50,
-   "score_reasons": [],
-   "slug": "listings",
-   "source": "simplify",
-   "title": "Software Engineer New Grad - AI Infra Compute",
-   "uid": "simplify:listings:4ae93ef5-d293-43c9-8bb7-53f4c2e97749",
-   "url": "https://jobs.bytedance.com/en/position/7667303429264115973/detail",
-   "work_auth": "unknown",
-   "work_auth_evidence": ""
-  },
-  {
-   "company": "ByteDance",
-   "location_evidence": "San Jose, CA",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "match_reason": "new grad phrase 'new grad'",
-   "posted_at": 1785748596,
-   "region": "US",
-   "score": 50,
-   "score_reasons": [],
-   "slug": "listings",
-   "source": "simplify",
-   "title": "Backend and Infrastructure Software Engineer New Grad - Dev Infra",
-   "uid": "simplify:listings:89cf07d7-dea8-45c0-bd63-f03870bf2088",
-   "url": "https://jobs.bytedance.com/en/position/7667894766036322565/detail",
-   "work_auth": "unknown",
-   "work_auth_evidence": ""
-  },
-  {
-   "company": "Retell AI",
-   "location_evidence": "SF",
-   "locations": [
-    "SF",
-    "Redwood City, CA"
-   ],
-   "match_reason": "new grad phrase 'new grad'",
-   "posted_at": 1785738227,
-   "region": "US",
-   "score": 50,
-   "score_reasons": [],
-   "slug": "listings",
-   "source": "simplify",
-   "title": "Software Engineer New Grad - Founders Initiatives",
-   "uid": "simplify:listings:77e7783f-e6da-4352-a869-b3840c8dbfb9",
-   "url": "https://jobs.ashbyhq.com/retell-ai/ea775189-0496-43d8-a386-df8148265463/application?embed=true",
-   "work_auth": "unknown",
-   "work_auth_evidence": ""
-  },
-  {
-   "company": "HarmonyTech",
-   "location_evidence": "Herndon, VA",
-   "locations": [
-    "Herndon, VA"
-   ],
-   "match_reason": "new grad phrase 'junior'",
-   "posted_at": 1785737885,
-   "region": "US",
-   "score": 50,
-   "score_reasons": [],
-   "slug": "listings",
-   "source": "simplify",
-   "title": "Junior Software Developer - .NET",
-   "uid": "simplify:listings:c8522e95-f6e1-419a-b503-80a942a4ce72",
-   "url": "https://harmonytech.applytojob.com/apply/uhDb8hMR9P/Junior-Software-Developer-NET",
-   "work_auth": "unknown",
-   "work_auth_evidence": ""
-  },
-  {
-   "company": "EAi Technologies",
-   "location_evidence": "Vienna, VA",
-   "locations": [
-    "Vienna, VA"
-   ],
-   "match_reason": "new grad phrase 'entry level'",
-   "posted_at": 1785737816,
-   "region": "US",
-   "score": 50,
-   "score_reasons": [],
-   "slug": "listings",
-   "source": "simplify",
-   "title": "Entry Level Software Developer",
-   "uid": "simplify:listings:682f9b47-5081-4f77-85e3-da6ba3076369",
-   "url": "https://eaiti.applytojob.com/apply/Y16NUsHVnd/Entry-Level-Software-Developer",
-   "work_auth": "unknown",
-   "work_auth_evidence": ""
-  },
-  {
-   "company": "EAi Technologies",
-   "location_evidence": "Vienna, VA",
-   "locations": [
-    "Vienna, VA"
-   ],
-   "match_reason": "new grad phrase 'entry level'",
-   "posted_at": 1785737816,
-   "region": "US",
-   "score": 50,
-   "score_reasons": [],
-   "slug": "listings",
-   "source": "simplify",
-   "title": "Entry Level .NET Software Developer",
-   "uid": "simplify:listings:165def57-d2b8-4820-944f-203575dd7b00",
-   "url": "https://eaiti.applytojob.com/apply/9RStfnAuq4/Entry-Level-NET-Software-Developer",
-   "work_auth": "unknown",
-   "work_auth_evidence": ""
-  },
-  {
-   "company": "TikTok",
-   "location_evidence": "Seattle, WA",
-   "locations": [
-    "Seattle, WA"
-   ],
-   "match_reason": "new grad phrase 'new grad'",
-   "posted_at": 1785737711,
-   "region": "US",
-   "score": 50,
-   "score_reasons": [],
-   "slug": "listings",
-   "source": "simplify",
-   "title": "Backend Software Engineer New Grad - Feed Safety",
-   "uid": "simplify:listings:50d9a250-7c25-4fe5-861d-0c8ad7f9299a",
-   "url": "https://lifeattiktok.com/search/7663028952600807733",
-   "work_auth": "unknown",
-   "work_auth_evidence": ""
-  },
-  {
-   "company": "TikTok",
-   "duplicate_count": 2,
-   "duplicate_sources": [
-    "simplify"
-   ],
-   "location_evidence": "San Jose, CA",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "match_reason": "new grad phrase 'new grad'",
-   "posted_at": 1785737710,
-   "region": "US",
-   "score": 50,
-   "score_reasons": [],
-   "slug": "listings",
-   "source": "simplify",
-   "title": "Backend Software Engineer New Grad - Trust & Safety",
-   "uid": "simplify:listings:de1b7df6-c4f8-41ea-bdff-5598ed16df6d",
-   "url": "https://lifeattiktok.com/search/7665994926887291189",
-   "work_auth": "unknown",
-   "work_auth_evidence": ""
-  },
-  {
-   "company": "TikTok",
-   "location_evidence": "San Jose, CA",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "match_reason": "new grad phrase 'new grad'",
-   "posted_at": 1785737710,
-   "region": "US",
-   "score": 50,
-   "score_reasons": [],
-   "slug": "listings",
-   "source": "simplify",
-   "title": "Backend Software Engineer New Grad - Emerging Products & AI Safety",
-   "uid": "simplify:listings:5ae7b62f-063f-4d13-b197-9798beafa475",
-   "url": "https://lifeattiktok.com/search/7663036952090347829",
-   "work_auth": "unknown",
-   "work_auth_evidence": ""
-  },
-  {
-   "company": "TikTok",
-   "location_evidence": "San Jose, CA",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "match_reason": "new grad phrase 'new grad'",
-   "posted_at": 1785737709,
-   "region": "US",
-   "score": 50,
-   "score_reasons": [],
-   "slug": "listings",
-   "source": "simplify",
-   "title": "Machine Learning Engineer New Grad - Search Quality",
-   "uid": "simplify:listings:d8f41f3f-586c-4f20-8868-e9832e690e61",
-   "url": "https://lifeattiktok.com/search/7665793152026740997",
-   "work_auth": "unknown",
-   "work_auth_evidence": ""
-  },
-  {
-   "company": "TikTok",
-   "duplicate_count": 2,
-   "duplicate_sources": [
-    "simplify"
-   ],
-   "location_evidence": "San Jose, CA",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "match_reason": "new grad phrase 'new grad'",
-   "posted_at": 1785737707,
-   "region": "US",
-   "score": 50,
-   "score_reasons": [],
-   "slug": "listings",
-   "source": "simplify",
-   "title": "Machine Learning Engineer New Grad - Data Search Visual Search",
-   "uid": "simplify:listings:78f040d4-9950-46c8-93de-a0a189144450",
-   "url": "https://lifeattiktok.com/search/7667349591747758341",
-   "work_auth": "unknown",
-   "work_auth_evidence": ""
-  },
-  {
-   "company": "TikTok",
-   "location_evidence": "Seattle, WA",
-   "locations": [
-    "Seattle, WA"
-   ],
-   "match_reason": "new grad phrase 'new grad'",
-   "posted_at": 1785737702,
-   "region": "US",
-   "score": 50,
-   "score_reasons": [],
-   "slug": "listings",
-   "source": "simplify",
-   "title": "Machine Learning Engineer New Grad - Data-Global E-Commerce-Search",
-   "uid": "simplify:listings:db70cc78-6903-4f3e-98df-d5eef1dabd84",
-   "url": "https://lifeattiktok.com/search/7668389759463393589",
-   "work_auth": "unknown",
-   "work_auth_evidence": ""
-  },
-  {
-   "company": "TikTok",
-   "location_evidence": "Seattle, WA",
-   "locations": [
-    "Seattle, WA"
-   ],
-   "match_reason": "new grad phrase 'new grad'",
-   "posted_at": 1785737702,
-   "region": "US",
-   "score": 50,
-   "score_reasons": [],
-   "slug": "listings",
-   "source": "simplify",
-   "title": "Machine Learning Engineer New Grad",
-   "uid": "simplify:listings:b027e384-ef72-4db9-8ff3-c63ea36f4583",
-   "url": "https://lifeattiktok.com/search/7668376903708281141",
-   "work_auth": "unknown",
-   "work_auth_evidence": ""
-  },
-  {
-   "company": "TikTok",
-   "location_evidence": "Seattle, WA",
-   "locations": [
-    "Seattle, WA"
-   ],
-   "match_reason": "new grad phrase 'new grad'",
-   "posted_at": 1785737701,
-   "region": "US",
-   "score": 50,
-   "score_reasons": [],
-   "slug": "listings",
-   "source": "simplify",
-   "title": "Machine Learning Engineer New Grad - E-Commerce Search",
-   "uid": "simplify:listings:5352619a-3d75-4bd9-b7af-098751f77cad",
-   "url": "https://lifeattiktok.com/search/7668390999147776309",
-   "work_auth": "unknown",
-   "work_auth_evidence": ""
-  },
-  {
-   "company": "TikTok",
-   "location_evidence": "San Jose, CA",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "match_reason": "new grad phrase 'new grad'",
-   "posted_at": 1785737700,
-   "region": "US",
-   "score": 50,
-   "score_reasons": [],
-   "slug": "listings",
-   "source": "simplify",
-   "title": "Software Engineer New Grad - Business Integrity",
-   "uid": "simplify:listings:0327292f-07c4-467b-83c8-867fbee19266",
-   "url": "https://lifeattiktok.com/search/7668592494649690421",
-   "work_auth": "unknown",
-   "work_auth_evidence": ""
-  },
-  {
-   "company": "TikTok",
-   "location_evidence": "San Jose, CA",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "match_reason": "new grad phrase 'new grad'",
-   "posted_at": 1785737699,
-   "region": "US",
-   "score": 50,
-   "score_reasons": [],
-   "slug": "listings",
-   "source": "simplify",
-   "title": "Software Engineer/Mobile Engineer New Grad - Ads Core Demonstration",
-   "uid": "simplify:listings:492953a8-9863-41ff-b149-9e8fa3081af9",
-   "url": "https://lifeattiktok.com/search/7668701834807101749",
-   "work_auth": "unknown",
-   "work_auth_evidence": ""
-  },
-  {
-   "company": "TikTok",
-   "location_evidence": "San Jose, CA",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "match_reason": "new grad phrase 'new grad'",
-   "posted_at": 1785737699,
-   "region": "US",
-   "score": 50,
-   "score_reasons": [],
-   "slug": "listings",
-   "source": "simplify",
-   "title": "Software Engineer New Grad - Quality and Efficiency Technology",
-   "uid": "simplify:listings:dfb14959-39c2-4aaa-8ea0-a7f75c6dd02e",
-   "url": "https://lifeattiktok.com/search/7668680253677504821",
-   "work_auth": "unknown",
-   "work_auth_evidence": ""
-  },
-  {
-   "company": "TikTok",
-   "location_evidence": "San Jose, CA",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "match_reason": "new grad phrase 'new grad'",
-   "posted_at": 1785737698,
-   "region": "US",
-   "score": 50,
-   "score_reasons": [],
-   "slug": "listings",
-   "source": "simplify",
-   "title": "Software Engineer New Grad - Ads Measurement Signal Technology",
-   "uid": "simplify:listings:d6849abb-e865-4cce-a9b9-a23021fc49f7",
-   "url": "https://lifeattiktok.com/search/7668717356843977013",
-   "work_auth": "unknown",
-   "work_auth_evidence": ""
-  },
-  {
-   "company": "TikTok",
-   "location_evidence": "San Jose, CA",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "match_reason": "new grad phrase 'new grad'",
-   "posted_at": 1785737698,
-   "region": "US",
-   "score": 50,
-   "score_reasons": [],
-   "slug": "listings",
-   "source": "simplify",
-   "title": "Software Engineer New Grad - Ads Signal & Measurement",
-   "uid": "simplify:listings:7656aad8-a423-4e16-bb7e-5b487532457f",
-   "url": "https://lifeattiktok.com/search/7668724383120804149",
-   "work_auth": "unknown",
-   "work_auth_evidence": ""
-  },
-  {
-   "company": "Peterson Technologies",
-   "location_evidence": "Annapolis Junction, MD",
-   "locations": [
-    "Annapolis Junction, MD"
-   ],
-   "match_reason": "new grad phrase 'junior'",
-   "posted_at": 1785737523,
-   "region": "US",
-   "score": 50,
-   "score_reasons": [],
-   "slug": "listings",
-   "source": "simplify",
-   "title": "Junior Software Engineer",
-   "uid": "simplify:listings:4f002917-8cdb-4ef9-a66c-02d05d0d220e",
-   "url": "https://petersontechnologies.applytojob.com/apply/ma86Yof82u/Junior-Software-Engineer",
-   "work_auth": "unknown",
-   "work_auth_evidence": ""
-  },
-  {
-   "company": "GliaCell Technologies",
-   "location_evidence": "Annapolis Junction, MD",
-   "locations": [
-    "Annapolis Junction, MD"
-   ],
-   "match_reason": "new grad phrase 'junior'",
-   "posted_at": 1785737497,
-   "region": "US",
-   "score": 50,
-   "score_reasons": [],
-   "slug": "listings",
-   "source": "simplify",
-   "title": "Junior Java Software Engineer",
-   "uid": "simplify:listings:d7bc6b7e-6c64-4de0-ba0c-fbcda2ebeb79",
-   "url": "https://gliacelltechnologies.applytojob.com/apply/5LJjRwD5B9/Junior-Java-Software-Engineer",
-   "work_auth": "unknown",
-   "work_auth_evidence": ""
-  },
-  {
-   "company": "GliaCell Technologies",
-   "location_evidence": "Annapolis Junction, MD",
-   "locations": [
-    "Annapolis Junction, MD"
-   ],
-   "match_reason": "new grad phrase 'junior'",
-   "posted_at": 1785737493,
-   "region": "US",
-   "score": 50,
-   "score_reasons": [],
-   "slug": "listings",
-   "source": "simplify",
-   "title": "Junior Software Engineer",
-   "uid": "simplify:listings:2885ff59-1385-48a3-8b0d-ae0a20235b78",
-   "url": "https://gliacelltechnologies.applytojob.com/apply/Zet89PpNoU/Junior-Software-Engineer",
    "work_auth": "unknown",
    "work_auth_evidence": ""
   },
@@ -4602,6 +4077,572 @@
    "title": "Applied AI Junior Web Developer",
    "uid": "simplify:listings:3a03824d-8ebc-44b6-b813-e2e73ec7a444",
    "url": "https://trendmicro.wd3.myworkdayjobs.com/External/job/Ottawa/Applied-AI-Junior-Web-Developer---Ottawa--ON_R0009513",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "ByteDance",
+   "location_evidence": "Seattle, WA",
+   "locations": [
+    "Seattle, WA"
+   ],
+   "match_reason": "new grad phrase 'new grad'",
+   "posted_at": 1785748605,
+   "region": "US",
+   "score": 40,
+   "score_reasons": [
+    "-10 posted over a month ago"
+   ],
+   "slug": "listings",
+   "source": "simplify",
+   "title": "Software Engineer New Grad - AI Infrastructure-Compute Efficiency & Scheduling",
+   "uid": "simplify:listings:8cad0fcf-e891-4637-91ed-259c291121f3",
+   "url": "https://jobs.bytedance.com/en/position/7668799020705679669/detail",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "ByteDance",
+   "location_evidence": "San Jose, CA",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "match_reason": "new grad phrase 'new grad'",
+   "posted_at": 1785748599,
+   "region": "US",
+   "score": 40,
+   "score_reasons": [
+    "-10 posted over a month ago"
+   ],
+   "slug": "listings",
+   "source": "simplify",
+   "title": "Software Engineer New Grad - Traffic Infrastructure",
+   "uid": "simplify:listings:d7b7af97-f9b0-4faf-84d3-6c33874a3f86",
+   "url": "https://jobs.bytedance.com/en/position/7665849950984194309/detail",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "ByteDance",
+   "location_evidence": "San Jose, CA",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "match_reason": "new grad phrase 'new grad'",
+   "posted_at": 1785748598,
+   "region": "US",
+   "score": 40,
+   "score_reasons": [
+    "-10 posted over a month ago"
+   ],
+   "slug": "listings",
+   "source": "simplify",
+   "title": "Security Engineer New Grad - Threat Detection and Response",
+   "uid": "simplify:listings:53efd4af-54a6-411e-a939-031cead7e3c1",
+   "url": "https://jobs.bytedance.com/en/position/7668614787018393909/detail",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "ByteDance",
+   "location_evidence": "Seattle, WA",
+   "locations": [
+    "Seattle, WA"
+   ],
+   "match_reason": "new grad phrase 'new grad'",
+   "posted_at": 1785748598,
+   "region": "US",
+   "score": 40,
+   "score_reasons": [
+    "-10 posted over a month ago"
+   ],
+   "slug": "listings",
+   "source": "simplify",
+   "title": "Software Engineer New Grad - AI Infra Compute",
+   "uid": "simplify:listings:4ae93ef5-d293-43c9-8bb7-53f4c2e97749",
+   "url": "https://jobs.bytedance.com/en/position/7667303429264115973/detail",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "ByteDance",
+   "location_evidence": "San Jose, CA",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "match_reason": "new grad phrase 'new grad'",
+   "posted_at": 1785748596,
+   "region": "US",
+   "score": 40,
+   "score_reasons": [
+    "-10 posted over a month ago"
+   ],
+   "slug": "listings",
+   "source": "simplify",
+   "title": "Backend and Infrastructure Software Engineer New Grad - Dev Infra",
+   "uid": "simplify:listings:89cf07d7-dea8-45c0-bd63-f03870bf2088",
+   "url": "https://jobs.bytedance.com/en/position/7667894766036322565/detail",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "Retell AI",
+   "location_evidence": "SF",
+   "locations": [
+    "SF",
+    "Redwood City, CA"
+   ],
+   "match_reason": "new grad phrase 'new grad'",
+   "posted_at": 1785738227,
+   "region": "US",
+   "score": 40,
+   "score_reasons": [
+    "-10 posted over a month ago"
+   ],
+   "slug": "listings",
+   "source": "simplify",
+   "title": "Software Engineer New Grad - Founders Initiatives",
+   "uid": "simplify:listings:77e7783f-e6da-4352-a869-b3840c8dbfb9",
+   "url": "https://jobs.ashbyhq.com/retell-ai/ea775189-0496-43d8-a386-df8148265463/application?embed=true",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "HarmonyTech",
+   "location_evidence": "Herndon, VA",
+   "locations": [
+    "Herndon, VA"
+   ],
+   "match_reason": "new grad phrase 'junior'",
+   "missing_keywords": [],
+   "posted_at": 1785737885,
+   "region": "US",
+   "requested_skills": [
+    "C#"
+   ],
+   "score": 40,
+   "score_reasons": [
+    "-10 posted over a month ago"
+   ],
+   "slug": "listings",
+   "source": "simplify",
+   "title": "Junior Software Developer - .NET",
+   "uid": "simplify:listings:c8522e95-f6e1-419a-b503-80a942a4ce72",
+   "url": "https://harmonytech.applytojob.com/apply/uhDb8hMR9P/Junior-Software-Developer-NET",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "EAi Technologies",
+   "location_evidence": "Vienna, VA",
+   "locations": [
+    "Vienna, VA"
+   ],
+   "match_reason": "new grad phrase 'entry level'",
+   "posted_at": 1785737816,
+   "region": "US",
+   "score": 40,
+   "score_reasons": [
+    "-10 posted over a month ago"
+   ],
+   "slug": "listings",
+   "source": "simplify",
+   "title": "Entry Level Software Developer",
+   "uid": "simplify:listings:682f9b47-5081-4f77-85e3-da6ba3076369",
+   "url": "https://eaiti.applytojob.com/apply/Y16NUsHVnd/Entry-Level-Software-Developer",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "EAi Technologies",
+   "location_evidence": "Vienna, VA",
+   "locations": [
+    "Vienna, VA"
+   ],
+   "match_reason": "new grad phrase 'entry level'",
+   "missing_keywords": [],
+   "posted_at": 1785737816,
+   "region": "US",
+   "requested_skills": [
+    "C#"
+   ],
+   "score": 40,
+   "score_reasons": [
+    "-10 posted over a month ago"
+   ],
+   "slug": "listings",
+   "source": "simplify",
+   "title": "Entry Level .NET Software Developer",
+   "uid": "simplify:listings:165def57-d2b8-4820-944f-203575dd7b00",
+   "url": "https://eaiti.applytojob.com/apply/9RStfnAuq4/Entry-Level-NET-Software-Developer",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "TikTok",
+   "location_evidence": "Seattle, WA",
+   "locations": [
+    "Seattle, WA"
+   ],
+   "match_reason": "new grad phrase 'new grad'",
+   "posted_at": 1785737711,
+   "region": "US",
+   "score": 40,
+   "score_reasons": [
+    "-10 posted over a month ago"
+   ],
+   "slug": "listings",
+   "source": "simplify",
+   "title": "Backend Software Engineer New Grad - Feed Safety",
+   "uid": "simplify:listings:50d9a250-7c25-4fe5-861d-0c8ad7f9299a",
+   "url": "https://lifeattiktok.com/search/7663028952600807733",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "TikTok",
+   "duplicate_count": 2,
+   "duplicate_sources": [
+    "simplify"
+   ],
+   "location_evidence": "San Jose, CA",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "match_reason": "new grad phrase 'new grad'",
+   "posted_at": 1785737710,
+   "region": "US",
+   "score": 40,
+   "score_reasons": [
+    "-10 posted over a month ago"
+   ],
+   "slug": "listings",
+   "source": "simplify",
+   "title": "Backend Software Engineer New Grad - Trust & Safety",
+   "uid": "simplify:listings:de1b7df6-c4f8-41ea-bdff-5598ed16df6d",
+   "url": "https://lifeattiktok.com/search/7665994926887291189",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "TikTok",
+   "location_evidence": "San Jose, CA",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "match_reason": "new grad phrase 'new grad'",
+   "posted_at": 1785737710,
+   "region": "US",
+   "score": 40,
+   "score_reasons": [
+    "-10 posted over a month ago"
+   ],
+   "slug": "listings",
+   "source": "simplify",
+   "title": "Backend Software Engineer New Grad - Emerging Products & AI Safety",
+   "uid": "simplify:listings:5ae7b62f-063f-4d13-b197-9798beafa475",
+   "url": "https://lifeattiktok.com/search/7663036952090347829",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "TikTok",
+   "location_evidence": "San Jose, CA",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "match_reason": "new grad phrase 'new grad'",
+   "missing_keywords": [],
+   "posted_at": 1785737709,
+   "region": "US",
+   "requested_skills": [
+    "Machine learning"
+   ],
+   "score": 40,
+   "score_reasons": [
+    "-10 posted over a month ago"
+   ],
+   "slug": "listings",
+   "source": "simplify",
+   "title": "Machine Learning Engineer New Grad - Search Quality",
+   "uid": "simplify:listings:d8f41f3f-586c-4f20-8868-e9832e690e61",
+   "url": "https://lifeattiktok.com/search/7665793152026740997",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "TikTok",
+   "duplicate_count": 2,
+   "duplicate_sources": [
+    "simplify"
+   ],
+   "location_evidence": "San Jose, CA",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "match_reason": "new grad phrase 'new grad'",
+   "missing_keywords": [],
+   "posted_at": 1785737707,
+   "region": "US",
+   "requested_skills": [
+    "Machine learning"
+   ],
+   "score": 40,
+   "score_reasons": [
+    "-10 posted over a month ago"
+   ],
+   "slug": "listings",
+   "source": "simplify",
+   "title": "Machine Learning Engineer New Grad - Data Search Visual Search",
+   "uid": "simplify:listings:78f040d4-9950-46c8-93de-a0a189144450",
+   "url": "https://lifeattiktok.com/search/7667349591747758341",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "TikTok",
+   "location_evidence": "Seattle, WA",
+   "locations": [
+    "Seattle, WA"
+   ],
+   "match_reason": "new grad phrase 'new grad'",
+   "missing_keywords": [],
+   "posted_at": 1785737702,
+   "region": "US",
+   "requested_skills": [
+    "Machine learning"
+   ],
+   "score": 40,
+   "score_reasons": [
+    "-10 posted over a month ago"
+   ],
+   "slug": "listings",
+   "source": "simplify",
+   "title": "Machine Learning Engineer New Grad - Data-Global E-Commerce-Search",
+   "uid": "simplify:listings:db70cc78-6903-4f3e-98df-d5eef1dabd84",
+   "url": "https://lifeattiktok.com/search/7668389759463393589",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "TikTok",
+   "location_evidence": "Seattle, WA",
+   "locations": [
+    "Seattle, WA"
+   ],
+   "match_reason": "new grad phrase 'new grad'",
+   "missing_keywords": [],
+   "posted_at": 1785737702,
+   "region": "US",
+   "requested_skills": [
+    "Machine learning"
+   ],
+   "score": 40,
+   "score_reasons": [
+    "-10 posted over a month ago"
+   ],
+   "slug": "listings",
+   "source": "simplify",
+   "title": "Machine Learning Engineer New Grad",
+   "uid": "simplify:listings:b027e384-ef72-4db9-8ff3-c63ea36f4583",
+   "url": "https://lifeattiktok.com/search/7668376903708281141",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "TikTok",
+   "location_evidence": "Seattle, WA",
+   "locations": [
+    "Seattle, WA"
+   ],
+   "match_reason": "new grad phrase 'new grad'",
+   "missing_keywords": [],
+   "posted_at": 1785737701,
+   "region": "US",
+   "requested_skills": [
+    "Machine learning"
+   ],
+   "score": 40,
+   "score_reasons": [
+    "-10 posted over a month ago"
+   ],
+   "slug": "listings",
+   "source": "simplify",
+   "title": "Machine Learning Engineer New Grad - E-Commerce Search",
+   "uid": "simplify:listings:5352619a-3d75-4bd9-b7af-098751f77cad",
+   "url": "https://lifeattiktok.com/search/7668390999147776309",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "TikTok",
+   "location_evidence": "San Jose, CA",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "match_reason": "new grad phrase 'new grad'",
+   "posted_at": 1785737700,
+   "region": "US",
+   "score": 40,
+   "score_reasons": [
+    "-10 posted over a month ago"
+   ],
+   "slug": "listings",
+   "source": "simplify",
+   "title": "Software Engineer New Grad - Business Integrity",
+   "uid": "simplify:listings:0327292f-07c4-467b-83c8-867fbee19266",
+   "url": "https://lifeattiktok.com/search/7668592494649690421",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "TikTok",
+   "location_evidence": "San Jose, CA",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "match_reason": "new grad phrase 'new grad'",
+   "posted_at": 1785737699,
+   "region": "US",
+   "score": 40,
+   "score_reasons": [
+    "-10 posted over a month ago"
+   ],
+   "slug": "listings",
+   "source": "simplify",
+   "title": "Software Engineer/Mobile Engineer New Grad - Ads Core Demonstration",
+   "uid": "simplify:listings:492953a8-9863-41ff-b149-9e8fa3081af9",
+   "url": "https://lifeattiktok.com/search/7668701834807101749",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "TikTok",
+   "location_evidence": "San Jose, CA",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "match_reason": "new grad phrase 'new grad'",
+   "posted_at": 1785737699,
+   "region": "US",
+   "score": 40,
+   "score_reasons": [
+    "-10 posted over a month ago"
+   ],
+   "slug": "listings",
+   "source": "simplify",
+   "title": "Software Engineer New Grad - Quality and Efficiency Technology",
+   "uid": "simplify:listings:dfb14959-39c2-4aaa-8ea0-a7f75c6dd02e",
+   "url": "https://lifeattiktok.com/search/7668680253677504821",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "TikTok",
+   "location_evidence": "San Jose, CA",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "match_reason": "new grad phrase 'new grad'",
+   "posted_at": 1785737698,
+   "region": "US",
+   "score": 40,
+   "score_reasons": [
+    "-10 posted over a month ago"
+   ],
+   "slug": "listings",
+   "source": "simplify",
+   "title": "Software Engineer New Grad - Ads Measurement Signal Technology",
+   "uid": "simplify:listings:d6849abb-e865-4cce-a9b9-a23021fc49f7",
+   "url": "https://lifeattiktok.com/search/7668717356843977013",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "TikTok",
+   "location_evidence": "San Jose, CA",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "match_reason": "new grad phrase 'new grad'",
+   "posted_at": 1785737698,
+   "region": "US",
+   "score": 40,
+   "score_reasons": [
+    "-10 posted over a month ago"
+   ],
+   "slug": "listings",
+   "source": "simplify",
+   "title": "Software Engineer New Grad - Ads Signal & Measurement",
+   "uid": "simplify:listings:7656aad8-a423-4e16-bb7e-5b487532457f",
+   "url": "https://lifeattiktok.com/search/7668724383120804149",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "Peterson Technologies",
+   "location_evidence": "Annapolis Junction, MD",
+   "locations": [
+    "Annapolis Junction, MD"
+   ],
+   "match_reason": "new grad phrase 'junior'",
+   "posted_at": 1785737523,
+   "region": "US",
+   "score": 40,
+   "score_reasons": [
+    "-10 posted over a month ago"
+   ],
+   "slug": "listings",
+   "source": "simplify",
+   "title": "Junior Software Engineer",
+   "uid": "simplify:listings:4f002917-8cdb-4ef9-a66c-02d05d0d220e",
+   "url": "https://petersontechnologies.applytojob.com/apply/ma86Yof82u/Junior-Software-Engineer",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "GliaCell Technologies",
+   "location_evidence": "Annapolis Junction, MD",
+   "locations": [
+    "Annapolis Junction, MD"
+   ],
+   "match_reason": "new grad phrase 'junior'",
+   "missing_keywords": [],
+   "posted_at": 1785737497,
+   "region": "US",
+   "requested_skills": [
+    "Java"
+   ],
+   "score": 40,
+   "score_reasons": [
+    "-10 posted over a month ago"
+   ],
+   "slug": "listings",
+   "source": "simplify",
+   "title": "Junior Java Software Engineer",
+   "uid": "simplify:listings:d7bc6b7e-6c64-4de0-ba0c-fbcda2ebeb79",
+   "url": "https://gliacelltechnologies.applytojob.com/apply/5LJjRwD5B9/Junior-Java-Software-Engineer",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "GliaCell Technologies",
+   "location_evidence": "Annapolis Junction, MD",
+   "locations": [
+    "Annapolis Junction, MD"
+   ],
+   "match_reason": "new grad phrase 'junior'",
+   "posted_at": 1785737493,
+   "region": "US",
+   "score": 40,
+   "score_reasons": [
+    "-10 posted over a month ago"
+   ],
+   "slug": "listings",
+   "source": "simplify",
+   "title": "Junior Software Engineer",
+   "uid": "simplify:listings:2885ff59-1385-48a3-8b0d-ae0a20235b78",
+   "url": "https://gliacelltechnologies.applytojob.com/apply/Zet89PpNoU/Junior-Software-Engineer",
    "work_auth": "unknown",
    "work_auth_evidence": ""
   },
@@ -4748,8 +4789,12 @@
     "Remote in Canada"
    ],
    "match_reason": "new grad phrase 'new grad'",
+   "missing_keywords": [],
    "posted_at": 1785547469,
    "region": "US",
+   "requested_skills": [
+    "Machine learning"
+   ],
    "score": 40,
    "score_reasons": [
     "-10 posted over a month ago"
@@ -5030,8 +5075,12 @@
     "Atlanta, GA"
    ],
    "match_reason": "new grad phrase 'entry level'",
+   "missing_keywords": [],
    "posted_at": 1785334144,
    "region": "US",
+   "requested_skills": [
+    "Java"
+   ],
    "score": 40,
    "score_reasons": [
     "-10 posted over a month ago"
@@ -5093,8 +5142,12 @@
     "Irvine, CA"
    ],
    "match_reason": "new grad phrase 'junior'",
+   "missing_keywords": [],
    "posted_at": 1785190849,
    "region": "US",
+   "requested_skills": [
+    "Machine learning"
+   ],
    "score": 40,
    "score_reasons": [
     "-10 posted over a month ago"
@@ -5115,8 +5168,13 @@
     "SF"
    ],
    "match_reason": "new grad phrase 'new grad'",
+   "missing_keywords": [],
    "posted_at": 1785190812,
    "region": "US",
+   "requested_skills": [
+    "Data structures & algorithms",
+    "Machine learning"
+   ],
    "score": 40,
    "score_reasons": [
     "-10 posted over a month ago"
@@ -5879,27 +5937,6 @@
    "work_auth_evidence": ""
   },
   {
-   "company": "Ignite Digital Services",
-   "location_evidence": "Chesapeake, VA",
-   "locations": [
-    "Chesapeake, VA"
-   ],
-   "match_reason": "level 1 suffix on 'engineer'",
-   "posted_at": 1784068483,
-   "region": "US",
-   "score": 40,
-   "score_reasons": [
-    "-10 posted over a month ago"
-   ],
-   "slug": "listings",
-   "source": "simplify",
-   "title": "Engineer/Scientist 1",
-   "uid": "simplify:listings:cec7ea72-fd1c-4f5e-94e4-3d0650cf934b",
-   "url": "https://ignite-digital.com/careers/job-listings/?gh_jid=5343803008",
-   "work_auth": "unknown",
-   "work_auth_evidence": ""
-  },
-  {
    "company": "Five Rings Capital",
    "location_evidence": "NYC",
    "locations": [
@@ -5949,8 +5986,12 @@
     "NYC"
    ],
    "match_reason": "new grad phrase 'new grad'",
+   "missing_keywords": [],
    "posted_at": 1783981845,
    "region": "US",
+   "requested_skills": [
+    "Data structures & algorithms"
+   ],
    "score": 40,
    "score_reasons": [
     "-10 posted over a month ago"
@@ -6806,8 +6847,12 @@
     "Germantown, MD"
    ],
    "match_reason": "new grad phrase 'entry level'",
+   "missing_keywords": [],
    "posted_at": 1781734055,
    "region": "US",
+   "requested_skills": [
+    "SQL"
+   ],
    "score": 40,
    "score_reasons": [
     "-10 posted over a month ago"
@@ -7106,8 +7151,12 @@
     "Austin, TX"
    ],
    "match_reason": "new grad phrase 'junior'",
+   "missing_keywords": [],
    "posted_at": 1779152965,
    "region": "US",
+   "requested_skills": [
+    "Machine learning"
+   ],
    "score": 40,
    "score_reasons": [
     "-10 posted over a month ago"
@@ -7190,8 +7239,12 @@
     "Ardmore, PA"
    ],
    "match_reason": "new grad phrase 'new grad'",
+   "missing_keywords": [],
    "posted_at": 1778709943,
    "region": "US",
+   "requested_skills": [
+    "Linux"
+   ],
    "score": 40,
    "score_reasons": [
     "-10 posted over a month ago"
@@ -7348,27 +7401,6 @@
    "title": "Data Engineer - Junior",
    "uid": "simplify:listings:2d6875ea-83f7-4be7-b4c7-e6677cd3d295",
    "url": "https://careers-americansystems.icims.com/jobs/4391/job?mobile=true&needsRedirect=false",
-   "work_auth": "unknown",
-   "work_auth_evidence": ""
-  },
-  {
-   "company": "NVIDIA",
-   "location_evidence": "Santa Clara, CA",
-   "locations": [
-    "Santa Clara, CA"
-   ],
-   "match_reason": "new grad phrase 'college grad'",
-   "posted_at": 1777500504,
-   "region": "US",
-   "score": 40,
-   "score_reasons": [
-    "-10 posted over a month ago"
-   ],
-   "slug": "listings",
-   "source": "simplify",
-   "title": "Compiler Engineer – Backend-New College Grad",
-   "uid": "simplify:listings:1de13b97-34aa-4238-8e96-9b36b4e9d623",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Compiler-Engineer--Backend--New-College-Grad-2026_JR2017290",
    "work_auth": "unknown",
    "work_auth_evidence": ""
   },
@@ -7891,8 +7923,14 @@
     "NYC"
    ],
    "match_reason": "new grad phrase 'new grad'",
+   "missing_keywords": [
+    "Rust"
+   ],
    "posted_at": 1773900706,
    "region": "US",
+   "requested_skills": [
+    "Rust"
+   ],
    "score": 40,
    "score_reasons": [
     "-10 posted over a month ago"
@@ -8065,8 +8103,12 @@
     "Chicago, IL"
    ],
    "match_reason": "new grad phrase 'entry level'",
+   "missing_keywords": [],
    "posted_at": 1771485250,
    "region": "US",
+   "requested_skills": [
+    "C#"
+   ],
    "score": 40,
    "score_reasons": [
     "-10 posted over a month ago"
@@ -8192,8 +8234,12 @@
     "Santa Clara, CA"
    ],
    "match_reason": "new grad phrase 'college grad'",
+   "missing_keywords": [],
    "posted_at": 1769212230,
    "region": "US",
+   "requested_skills": [
+    "Machine learning"
+   ],
    "score": 40,
    "score_reasons": [
     "-10 posted over a month ago"
@@ -8282,8 +8328,12 @@
     "San Antonio, TX"
    ],
    "match_reason": "new grad phrase 'entry level'",
+   "missing_keywords": [],
    "posted_at": 1786601623,
    "region": "US",
+   "requested_skills": [
+    "Java"
+   ],
    "score": 25,
    "score_reasons": [
     "-25 looks like a staffing firm"
@@ -8329,8 +8379,12 @@
     "Arkansas"
    ],
    "match_reason": "new grad phrase 'entry level'",
+   "missing_keywords": [],
    "posted_at": 1771600387,
    "region": "US",
+   "requested_skills": [
+    "Java"
+   ],
    "score": 15,
    "score_reasons": [
     "-10 posted over a month ago",
@@ -8351,8 +8405,12 @@
     "Houston, TX"
    ],
    "match_reason": "new grad phrase 'entry level'",
+   "missing_keywords": [],
    "posted_at": 1771600377,
    "region": "US",
+   "requested_skills": [
+    "Java"
+   ],
    "score": 15,
    "score_reasons": [
     "-10 posted over a month ago",
@@ -8377,8 +8435,12 @@
     "SF"
    ],
    "match_reason": "new grad phrase 'entry level'",
+   "missing_keywords": [],
    "posted_at": 1771600365,
    "region": "US",
+   "requested_skills": [
+    "C#"
+   ],
    "score": 7,
    "score_reasons": [
     "-10 posted over a month ago",
@@ -8614,8 +8676,12 @@
     "Huntsville, AL"
    ],
    "match_reason": "new grad phrase 'junior'",
+   "missing_keywords": [],
    "posted_at": 1787702400,
    "region": "US",
+   "requested_skills": [
+    "Data structures & algorithms"
+   ],
    "score": 0,
    "score_reasons": [
     "cannot be applied to: employer is US-person gated in practice: Leidos"
@@ -8698,8 +8764,14 @@
     "Hawthorne, CA"
    ],
    "match_reason": "new grad phrase 'new grad'",
+   "missing_keywords": [
+    "Security"
+   ],
    "posted_at": 1787608786,
    "region": "US",
+   "requested_skills": [
+    "Security"
+   ],
    "score": 0,
    "score_reasons": [
     "cannot be applied to: employer is US-person gated in practice: SpaceX"
@@ -8714,13 +8786,13 @@
   },
   {
    "company": "L3Harris Technologies",
-   "duplicate_count": 3,
+   "duplicate_count": 2,
    "duplicate_sources": [
     "simplify"
    ],
-   "location_evidence": "Salt Lake City, UT",
+   "location_evidence": "Colorado Springs, CO",
    "locations": [
-    "Salt Lake City, UT"
+    "Colorado Springs, CO"
    ],
    "match_reason": "new grad phrase 'associate software engineer'",
    "posted_at": 1787191363,
@@ -8732,8 +8804,8 @@
    "slug": "listings",
    "source": "simplify",
    "title": "Associate Software Engineer",
-   "uid": "simplify:listings:6b149eb1-5558-42e3-9a54-998d7c4e8a3c",
-   "url": "https://jobs.l3harris.com/job/Salt-Lake-City-Associate,-Software-Engineer-UT-84116/1423952700/?ats=successfactors",
+   "uid": "simplify:listings:18c2c157-bced-43b1-9b2e-b9718a794559",
+   "url": "https://jobs.l3harris.com/job/Colorado-Springs-Associate,-Software-Engineer-CO-80916/1423789000/?ats=successfactors",
    "work_auth": "blocked",
    "work_auth_evidence": "employer is US-person gated in practice: L3Harris Technologies"
   },
@@ -8930,8 +9002,12 @@
     "Laurel, MD"
    ],
    "match_reason": "new grad phrase 'new grad'",
+   "missing_keywords": [],
    "posted_at": 1786679950,
    "region": "US",
+   "requested_skills": [
+    "Data structures & algorithms"
+   ],
    "score": 0,
    "score_reasons": [
     "cannot be applied to: employer is US-person gated in practice: Johns Hopkins Applied Physics Laboratory"
@@ -9278,8 +9354,12 @@
     "Bethesda, MD"
    ],
    "match_reason": "new grad phrase 'junior'",
+   "missing_keywords": [],
    "posted_at": 1776073041,
    "region": "US",
+   "requested_skills": [
+    "C#"
+   ],
    "score": 0,
    "score_reasons": [
     "cannot be applied to: employer is US-person gated in practice: CACI"
@@ -9341,8 +9421,13 @@
     "Dedham, MA"
    ],
    "match_reason": "new grad phrase 'junior'",
+   "missing_keywords": [],
    "posted_at": 1774935112,
    "region": "US",
+   "requested_skills": [
+    "Java",
+    "React"
+   ],
    "score": 0,
    "score_reasons": [
     "cannot be applied to: employer is US-person gated in practice: General Dynamics Mission Systems"

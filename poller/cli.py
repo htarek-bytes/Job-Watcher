@@ -147,6 +147,7 @@ def sweep(cfg, health, registry, quiet=False, previous=None):
 
     now = int(time.time())
     raw_simplify = None
+    described = 0
 
     for (source, key), result in fetched:
         results.append(result)
@@ -196,15 +197,22 @@ def sweep(cfg, health, registry, quiet=False, previous=None):
             job["work_auth"] = status
             job["work_auth_evidence"] = auth_evidence
 
-            # The description is read once, for two questions, then dropped.
-            # It is never committed: everything in data/ is published.
+            # Skills come from the title as well as the description. The
+            # description is far richer, but only the direct ATS sources send
+            # one, and reading titles too means the panel still says something
+            # when the feed is aggregator-only instead of sitting empty.
             description = job.get("description", "")
             if description:
-                requested = resume.extract(description)
+                described += 1
+            requested = resume.extract(
+                "%s\n%s" % (job.get("title", ""), description)
+            )
+            if requested:
                 for skill in requested:
                     skill_counts[skill] = skill_counts.get(skill, 0) + 1
                 job["requested_skills"] = sorted(requested)
                 job["missing_keywords"] = resume.gap(requested, have)[:8]
+            # The description is never committed: everything in data/ is public.
             job.pop("description", None)
             jobs.append(job)
             kept += 1
@@ -229,8 +237,9 @@ def sweep(cfg, health, registry, quiet=False, previous=None):
     jobs = rank.dedupe(jobs)
     rank.apply_ranking(jobs, now)
 
-    described = sum(1 for j in jobs if j.get("requested_skills"))
-    state.save_skills(resume.demand(skill_counts, have, described), described, len(jobs))
+    scanned = sum(1 for j in jobs if j.get("requested_skills"))
+    state.save_skills(resume.demand(skill_counts, have, scanned),
+                      scanned, described, len(jobs))
     return jobs, results
 
 

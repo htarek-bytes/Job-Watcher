@@ -158,15 +158,21 @@ def closure_summary(closed):
 SKILLS = os.path.join(DATA, "skills.json")
 
 
-def save_skills(rows, described_roles, total_roles):
+def save_skills(rows, scanned_roles, described_roles, total_roles):
     """What the matched roles keep asking for, and whether the CV says it.
 
-    `described_roles` matters: SimplifyJobs ships no description text, so the
-    percentages are over the roles that actually had one, not the whole feed.
-    Reporting it any other way would understate every skill.
+    `scanned_roles` is the number of roles that yielded any skill at all, and
+    it is the denominator for every percentage. Using the whole feed instead
+    would understate every skill, because most roles arrive from the
+    aggregator with a title and nothing else.
+
+    `described_roles` is how many of those had a real job description. When it
+    is 0 the whole table was read off titles, which is thin enough that the
+    dashboard has to say so rather than present it as demand data.
     """
     _write(SKILLS, {
         "updated_at": int(time.time()),
+        "roles_scanned": scanned_roles,
         "roles_with_descriptions": described_roles,
         "roles_total": total_roles,
         "skills": rows,
