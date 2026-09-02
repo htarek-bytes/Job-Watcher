@@ -195,17 +195,86 @@ Job descriptions are deliberately **not** committed. They are fetched for the
 Phase 2 work authorization scan and dropped before writing, because everything
 in `data/` is served publicly by Pages.
 
+## Coverage, and how it is maintained
+
+The hand-written slug lists were guesswork: of 70, **5** appeared in the live
+feed. `discover` mines ATS slugs out of the SimplifyJobs posting URLs instead,
+which yields **~420 boards that are correct by construction** and keeps finding
+new ones on every sweep. Slugs are never auto-dropped — a company with no new
+grad req today still has a working board — so pruning stays a `verify`
+decision.
+
+Discovery also cuts latency: hitting Greenhouse directly sees a req the moment
+it is live, hours before the same role reaches an aggregator.
+
+**Rotation.** ~420 boards at a one-minute cadence would be roughly half a
+million requests a day and would get the tool blocked. Each sweep polls every
+*hot* board (hand-configured, or one that produced a match in the last 21 days)
+plus a rotating slice of the rest, so the whole set is covered every few
+minutes while per-sweep request count stays bounded. Tune under `[rotation]`.
+
+Measured platform share of the feed, which is what drove the two new fetchers:
+
+| platform | share of active postings | supported |
+|---|---|---|
+| Workday | 27.8% | yes (new) |
+| Greenhouse | 10.6% | yes |
+| SmartRecruiters | 6.9% | yes (new) |
+| Oracle | 6.3% | not yet |
+| Ashby | 6.1% | yes |
+| iCIMS | 4.5% | not yet |
+| Lever | 4.0% | yes |
+
+## Work authorization
+
+Four outcomes, most severe first: `blocked`, `closed`, `open`, `unknown`.
+
+`blocked` is the addition that matters. A security clearance, an explicit US
+citizenship requirement, or an ITAR-gated employer is not a sponsorship
+question — it cannot be applied to at all. **11% of matching roles (47 of 448
+in the seed sweep)** fall here: RTX, SpaceX, Johns Hopkins APL, L3Harris,
+Peraton, Leidos, CACI. They are scored 0, never notified, and hidden by default
+on the dashboard.
+
+Every call carries the phrase that produced it. This is a keyword guess on
+someone else's prose and is never presented as a decision.
+
+Note that SimplifyJobs carries **no job descriptions**, so roles arriving only
+from there can be classified by employer name but not by posting text. Direct
+ATS sources return full descriptions and classify properly — another reason
+discovery matters.
+
+## Dedupe and ranking
+
+Duplicates are collapsed on `(company, normalized title)`, keeping the
+direct-ATS copy and the earliest posting time, and recording what was absorbed.
+The seed sweep collapsed **527 raw matches to 448** — one staffing firm was
+posting the same role twenty times.
+
+Ranking is a 0-100 score, sorted best-first by default, with every adjustment
+listed in `score_reasons` so a bad ordering can be diagnosed rather than
+guessed at. Sponsorship signal, freshness, direct-ATS sourcing, and Canadian
+location push a role up; staffing firms, no-sponsorship statements, heavy
+reposting, and age push it down.
+
+## Does speed actually matter?
+
+`closures.json` records how long each role stayed open, and `health.json`
+carries the median. This is the number that tests the premise the tool was
+built on. If reqs really do close inside 48 hours, minute-level polling earns
+its keep. If the median turns out to be two weeks, the effort belongs in
+targeting instead, and the dashboard will say so.
+
 ## Not built yet
 
-Phase 2 (work authorization classifier, time-to-alert median, application
-tracker, source-health alerting, cross-source dedupe) and Phase 3 (the
-dashboard) are not implemented. `docs/index.html` is a placeholder.
+`health.json` records zero-result streaks per source, but nothing alerts on
+them yet — that is the "the tool is broken" notification.
 
-`health.json` already records zero-result streaks per source, but nothing
-alerts on them yet — that is the Phase 2 "the tool is broken" notification.
+Oracle Recruiting (6.3%) and iCIMS (4.5%) have no fetcher yet; together they
+are the next ~11% of coverage.
 
-Cross-source dedupe is also Phase 2, so until then the same role arriving from
-both an ATS and SimplifyJobs will alert twice.
+`docs/index.html` is a placeholder — the real dashboard is the Next.js page in
+the portfolio repo.
 
 ## Non goals
 

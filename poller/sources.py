@@ -296,14 +296,31 @@ def fetch_simplify(cfg_source, etag=None):
     return res
 
 
-def iter_configured(cfg):
-    """Yield (source, key) pairs for everything enabled in config."""
+def iter_configured(cfg, registry=None):
+    """Yield (source, key) for everything enabled.
+
+    `registry` is the discovered-slug store. Discovered slugs are unioned with
+    the hand-written ones, which is how the 70 guesses became ~360 real boards.
+    """
     src = cfg.get("sources", {})
-    for name, fetch_key in ((GREENHOUSE, "slugs"), (LEVER, "slugs"), (ASHBY, "slugs")):
+    import discover as _discover
+
+    for name in (GREENHOUSE, LEVER, ASHBY):
+        block = src.get(name, {})
+        if not block.get("enabled", True):
+            continue
+        slugs = {s.lower() for s in block.get("slugs", [])}
+        if registry:
+            slugs |= set(_discover.all_slugs(registry, name))
+        for slug in sorted(slugs):
+            yield name, slug
+
+    for name, key in ((WORKDAY, "boards"), (SMARTRECRUITERS, "slugs")):
         block = src.get(name, {})
         if block.get("enabled", True):
-            for slug in block.get(fetch_key, []):
-                yield name, slug
+            for value in block.get(key, []):
+                yield name, value
+
     if src.get(AMAZON, {}).get("enabled", True):
         for query in src.get(AMAZON, {}).get("queries", []):
             yield AMAZON, query
@@ -320,6 +337,126 @@ def fetch(source, key, cfg, etag=None):
         return fetch_ashby(key, etag)
     if source == AMAZON:
         return fetch_amazon(key, etag)
+    if source == WORKDAY:
+        return fetch_workday(key, etag)
+    if source == SMARTRECRUITERS:
+        return fetch_smartrecruiters(key, etag)
     if source == SIMPLIFY:
         return fetch_simplify(cfg.get("sources", {}).get(SIMPLIFY, {}), etag)
     raise ValueError("unknown source %r" % source)
+
+
+# --------------------------------------------------------------------------
+# Workday. The single largest platform in the feed (27.8% of active postings)
+# and previously unsupported, which is where most of the missing coverage was.
+#
+# Every Workday careers site exposes the same JSON endpoint behind the UI:
+#   POST https://{tenant}.{dc}.myworkdayjobs.com/wday/cxs/{tenant}/{site}/jobs
+# It wants a JSON body and answers with a page of postings. There is no public
+# documentation for it, so it is treated like Amazon: expected to break.
+# --------------------------------------------------------------------------
+
+WORKDAY = "workday"
+SMARTRECRUITERS = "smartrecruiters"
+
+
+def fetch_workday(spec, etag=None):
+    """`spec` is "tenant/site" or "tenant.dc/site" from config."""
+    res = SourceResult(WORKDAY, spec)
+    try:
+        host, _, site = spec.partition("/")
+        tenant = host.split(".")[0]
+        dc = host.split(".")[1] if "." in host else "wd1"
+        if not tenant or not site:
+            res.error = "bad workday spec %r, want tenant[.dc]/site" % spec
+            return res
+
+        url = "https://%s.%s.myworkdayjobs.com/wday/cxs/%s/%s/jobs" % (
+            tenant, dc, tenant, site,
+        )
+        body = json.dumps({"appliedFacets": {}, "limit": 20, "offset": 0,
+                           "searchText": ""}).encode("utf-8")
+        resp = _http.post(url, body, headers={"Content-Type": "application/json"})
+        res.status, res.seconds = resp.status, resp.seconds
+        if not resp.ok:
+            res.error = resp.error
+            return res
+
+        payload = resp.json() or {}
+        for item in payload.get("jobPostings", []):
+            path = item.get("externalPath") or ""
+            res.jobs.append(_job(
+                WORKDAY, spec, path.rsplit("/", 1)[-1] or item.get("bulletFields", [""])[0],
+                company=tenant,
+                title=item.get("title", ""),
+                url="https://%s.%s.myworkdayjobs.com/%s%s" % (tenant, dc, site, path),
+                locations=[item.get("locationsText")],
+                # postedOn is relative prose ("Posted 3 Days Ago"), not a date.
+                posted_at=_workday_posted(item.get("postedOn")),
+                description="",
+            ))
+        res.ok = True
+    except Exception as exc:  # noqa: BLE001
+        res.error = "isolated failure: %s: %s" % (type(exc).__name__, exc)
+    return res
+
+
+_WD_AGE = re.compile(r"(\d+)\+?\s+(day|hour|minute|month)", re.I)
+
+
+def _workday_posted(text):
+    """Workday reports "Posted 3 Days Ago", never a timestamp.
+
+    Converting prose to an epoch is lossy, so the result is deliberately coarse
+    and "Posted Today" resolves to now rather than pretending to a minute.
+    """
+    if not text:
+        return None
+    if re.search(r"today|just posted", text, re.I):
+        return int(time.time())
+    found = _WD_AGE.search(text)
+    if not found:
+        return None
+    amount = int(found.group(1))
+    unit = found.group(2).lower()
+    seconds = {"minute": 60, "hour": 3600, "day": 86400, "month": 2592000}[unit]
+    return int(time.time() - amount * seconds)
+
+
+# --------------------------------------------------------------------------
+# SmartRecruiters. 6.9% of the feed, and the cleanest public API of the lot.
+# --------------------------------------------------------------------------
+
+def fetch_smartrecruiters(slug, etag=None):
+    res = SourceResult(SMARTRECRUITERS, slug)
+    url = ("https://api.smartrecruiters.com/v1/companies/%s/postings?limit=100"
+           % urllib.parse.quote(slug))
+    resp = _http.get(url, etag=etag)
+    res.status, res.seconds = resp.status, resp.seconds
+    if not resp.ok:
+        res.error = resp.error
+        return res
+    if resp.not_modified:
+        res.ok, res.not_modified = True, True
+        return res
+    try:
+        payload = resp.json() or {}
+        for item in payload.get("content", []):
+            loc = item.get("location") or {}
+            city = ", ".join(
+                str(part) for part in (loc.get("city"), loc.get("region"), loc.get("country"))
+                if part
+            )
+            res.jobs.append(_job(
+                SMARTRECRUITERS, slug, item.get("id"),
+                company=(item.get("company") or {}).get("name") or slug,
+                title=item.get("name", ""),
+                url=item.get("applyUrl") or item.get("ref", ""),
+                locations=[city, "Remote" if loc.get("remote") else ""],
+                posted_at=_epoch(item.get("releasedDate")),
+                description="",
+            ))
+        res.ok = True
+    except Exception as exc:  # noqa: BLE001
+        res.error = "parse: %s" % exc
+    return res

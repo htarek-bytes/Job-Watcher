@@ -35,6 +35,41 @@ class Response:
         return json.loads(self.body)
 
 
+def post(url, body, headers=None, timeout=TIMEOUT, retries=1):
+    """POST a body. Same contract as get: returns a Response, never raises.
+
+    Workday's job endpoint is a POST, so this exists for it. Retries are lower
+    because a POST that got through once should not be replayed eagerly.
+    """
+    hdrs = {"User-Agent": USER_AGENT, "Accept": "application/json"}
+    if headers:
+        hdrs.update(headers)
+
+    last = None
+    for attempt in range(retries + 1):
+        started = time.time()
+        try:
+            req = urllib.request.Request(url, data=body, headers=hdrs, method="POST")
+            with urllib.request.urlopen(req, timeout=timeout) as resp:
+                raw = resp.read()
+                if resp.headers.get("Content-Encoding") == "gzip":
+                    raw = gzip.decompress(raw)
+                return Response(ok=True, status=resp.status,
+                                body=raw.decode("utf-8", "replace"),
+                                seconds=time.time() - started)
+        except urllib.error.HTTPError as exc:
+            last = Response(ok=False, status=exc.code, error="HTTP %d" % exc.code,
+                            seconds=time.time() - started)
+            if exc.code in (404, 410, 401, 403, 400):
+                return last
+        except Exception as exc:  # noqa: BLE001
+            last = Response(ok=False, error="%s: %s" % (type(exc).__name__, exc),
+                            seconds=time.time() - started)
+        if attempt < retries:
+            time.sleep(BACKOFF * (attempt + 1))
+    return last
+
+
 def get(url, headers=None, etag=None, timeout=TIMEOUT, retries=RETRIES):
     """GET a URL. Returns a Response, never raises.
 

@@ -5,6 +5,11 @@ name: verify sources
 # It writes no state and sends no notifications.
 on:
   workflow_dispatch:
+    inputs:
+      include_discovered:
+        description: "also verify the ~420 auto-discovered boards (slow)"
+        type: boolean
+        default: true
 
 permissions:
   contents: read
@@ -12,7 +17,7 @@ permissions:
 jobs:
   verify:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 30
 
     steps:
       - uses: actions/checkout@v4
@@ -27,7 +32,12 @@ jobs:
       - name: Verify every configured slug
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python poller/cli.py verify | tee verify-report.txt
+        run: |
+          if [ "${{ inputs.include_discovered }}" = "false" ]; then
+            python poller/cli.py verify | tee verify-report.txt
+          else
+            python poller/cli.py verify --include-discovered | tee verify-report.txt
+          fi
 
       - uses: actions/upload-artifact@v4
         if: always()

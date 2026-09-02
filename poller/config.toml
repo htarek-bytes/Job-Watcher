@@ -169,10 +169,50 @@ slugs = [
   "supabase", "replit", "deel", "clickhouse",
 ]
 
+[sources.workday]
+# Workday is 27.8% of all active postings in the feed and was previously
+# unsupported -- the single largest coverage gap. Entries are "tenant/site" or
+# "tenant.datacentre/site", taken from a company's careers URL:
+#   https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite
+#                 ^tenant ^dc          ^site
+# UNVERIFIED candidates; run verify.
+enabled = true
+boards = [
+  "nvidia.wd5/NVIDIAExternalCareerSite",
+  "salesforce.wd12/External_Career_Site",
+  "adobe.wd5/external_experienced",
+  "cisco.wd1/exec",
+  "workday.wd5/Workday",
+  "intuit.wd12/IntuitExternalCareerSite",
+  "autodesk.wd1/Ext",
+  "dell.wd1/ExternalCareerSite",
+]
+
+[sources.smartrecruiters]
+# 6.9% of the feed and the cleanest public API of the lot.
+# UNVERIFIED candidates; run verify.
+enabled = true
+slugs = ["Visa", "Square", "Bosch", "McDonalds", "Ubisoft"]
+
 [sources.amazon]
 # Brittle and unofficial. Isolated so a failure here cannot take down a sweep.
 enabled = true
 queries = ["software development engineer", "new grad software"]
+
+[discovery]
+# Mine ATS slugs out of the SimplifyJobs posting URLs instead of guessing them.
+# Of 70 hand-written slugs, 5 appeared in the live feed; the feed's own URLs
+# yielded 359 that are correct by construction.
+enabled = true
+
+[rotation]
+# ~360 boards at a one-minute cadence would be ~500k requests a day and would
+# get the tool blocked. Each sweep polls every "hot" board plus a rotating
+# slice of the rest, so the full set is covered every few minutes while the
+# per-sweep request count stays bounded.
+cold_slice = 40
+# A board that produced a match in this many days stays hot.
+hot_days = 21
 
 [sources.simplify]
 # Coverage net for companies not on the three ATSs above.

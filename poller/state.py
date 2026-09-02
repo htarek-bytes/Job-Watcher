@@ -105,3 +105,51 @@ def record_source(health, source, key, result):
 
 def etag_for(health, source, key):
     return health.get("sources", {}).get(source_key(source, key), {}).get("etag")
+
+
+SLUGS = os.path.join(DATA, "slugs.json")
+CLOSURES = os.path.join(DATA, "closures.json")
+
+# Enough closures to make a median meaningful without growing the repo forever.
+CLOSURE_CAP = 800
+
+
+def load_slugs():
+    return _read(SLUGS, {}).get("sources", {})
+
+
+def save_slugs(registry):
+    total = sum(len(v) for v in registry.values())
+    _write(SLUGS, {"updated_at": int(time.time()), "count": total,
+                   "sources": registry})
+
+
+def load_closures():
+    return _read(CLOSURES, {"closed": []}).get("closed", [])
+
+
+def save_closures(closed):
+    _write(CLOSURES, {"updated_at": int(time.time()),
+                      "count": len(closed), "closed": closed[-CLOSURE_CAP:]})
+
+
+def closure_summary(closed):
+    """Median hours a posting stayed open.
+
+    This is the number that tests the premise the whole tool rests on. If reqs
+    really do close inside 48 hours, minute-level polling earns its keep; if
+    the median is two weeks, the effort belongs in targeting instead.
+    """
+    lifetimes = sorted(c["hours_open"] for c in closed if c.get("hours_open"))
+    if not lifetimes:
+        return {"samples": 0}
+    mid = len(lifetimes) // 2
+    median = (lifetimes[mid] if len(lifetimes) % 2
+              else (lifetimes[mid - 1] + lifetimes[mid]) / 2)
+    return {
+        "samples": len(lifetimes),
+        "median_hours_open": round(median, 1),
+        "under_48h": sum(1 for h in lifetimes if h <= 48),
+        "p10_hours": round(lifetimes[len(lifetimes) // 10], 1),
+        "p90_hours": round(lifetimes[9 * len(lifetimes) // 10], 1),
+    }

@@ -60,6 +60,13 @@ jobs:
       - name: Unit tests
         run: python -m unittest discover -s poller/tests
 
+      # Discovery also runs inside every sweep off the payload already fetched;
+      # this step exists so a fresh checkout starts with a full board list
+      # rather than learning it one sweep at a time.
+      - name: Refresh discovered boards
+        if: ${{ inputs.mode == 'seed' }}
+        run: python poller/cli.py discover
+
       - name: Sweep
         env:
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
