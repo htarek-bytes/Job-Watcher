@@ -2,10 +2,23 @@ name: poll
 
 on:
   schedule:
-    # Every 5 minutes is the floor GitHub allows. Actual firing is routinely
-    # 10-20 minutes late under load; the dashboard reports observed latency
-    # rather than this number.
-    - cron: "*/5 * * * *"
+    # Five minutes is the floor GitHub allows for ONE cron entry, but a
+    # workflow may carry several, and each is scheduled independently. Five
+    # entries offset by a minute each fire this workflow roughly every minute.
+    #
+    # Be clear about what this does and does not buy. It shortens the GAP
+    # between sweeps from five minutes to about one. It does NOT remove the
+    # 10-20 minute scheduler jitter, and it does not stop GitHub dropping
+    # scheduled runs under load -- it only means a dropped fire is followed by
+    # another one a minute later instead of five. The jitter floor is why a
+    # genuinely fast lane still has to live outside Actions.
+    #
+    # Offsets avoid :00 and :05, where every cron on GitHub fires at once.
+    - cron: "1-59/5 * * * *"
+    - cron: "2-59/5 * * * *"
+    - cron: "3-59/5 * * * *"
+    - cron: "4-59/5 * * * *"
+    - cron: "0-59/5 * * * *"
   workflow_dispatch:
     inputs:
       mode:
@@ -23,6 +36,8 @@ permissions:
 
 # Never let two sweeps race on the state commit. Queue instead of cancelling,
 # so a slow sweep does not silently drop the postings it already fetched.
+# At most one run is pending at a time, so a minute-by-minute schedule cannot
+# build a backlog: a newer fire replaces the waiting one rather than stacking.
 concurrency:
   group: poll
   cancel-in-progress: false
@@ -77,3 +92,31 @@ jobs:
           done
           echo "could not push state after 4 attempts" >&2
           exit 1
+
+      # The dashboard on htarek.systems is a public static page and cannot read
+      # a private repo. Only the resulting feed is published; the company slugs
+      # this watcher targets and its sweep history stay in here.
+      - name: Publish feed to the public data repo
+        if: ${{ inputs.dry_run != 'true' }}
+        env:
+          DATA_REPO_TOKEN: ${{ secrets.DATA_REPO_TOKEN }}
+        run: |
+          if [ -z "$DATA_REPO_TOKEN" ]; then
+            echo "DATA_REPO_TOKEN not set; skipping publish (dashboard will go stale)"
+            exit 0
+          fi
+          rm -rf /tmp/feed
+          git clone --depth 1 \
+            "https://x-access-token:${DATA_REPO_TOKEN}@github.com/htarek-bytes/job-watcher-data.git" \
+            /tmp/feed
+          cp data/jobs.json data/health.json /tmp/feed/
+          cd /tmp/feed
+          git config user.name  "job-watcher"
+          git config user.email "job-watcher@users.noreply.github.com"
+          git add jobs.json health.json
+          if git diff --cached --quiet; then
+            echo "feed unchanged"
+            exit 0
+          fi
+          git commit -m "feed: $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push

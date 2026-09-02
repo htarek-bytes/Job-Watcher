@@ -19,6 +19,26 @@ GitHub Actions (cron */5)          the only thing that runs code
 GitHub Pages (docs/)  fetches data/jobs.json and renders it. Display only.
 ```
 
+**The live dashboard is <https://htarek.systems/jobs>**, served from the
+portfolio repo. That page is public and this repo is private, so the sweep
+publishes only `jobs.json` and `health.json` to the public
+[`job-watcher-data`](https://github.com/htarek-bytes/job-watcher-data) repo and
+the page fetches from there. The slugs this watcher targets and its sweep
+history are never published.
+
+That publish step needs a `DATA_REPO_TOKEN` secret: a fine-grained PAT with
+**Contents: read and write** scoped to `job-watcher-data` only. Without it the
+sweep still runs and still notifies, but the dashboard goes stale.
+
+## Cadence
+
+The workflow carries five cron entries offset by a minute each, so it fires
+roughly every minute rather than every five. That shortens the gap between
+sweeps. It does **not** remove the 10-20 minute scheduler jitter, and does not
+stop GitHub dropping scheduled runs under load — it only means a dropped fire is
+followed by another a minute later instead of five. Getting under the jitter
+floor needs a scheduler outside Actions.
+
 There is no server. The repo is the database: Actions can write to it, Pages
 serves it, so a committed JSON file is both the poller's memory and the
 dashboard's API.
