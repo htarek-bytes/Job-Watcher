@@ -1,6 +1,6 @@
 {
- "count": 679,
- "generated_at": 1788386318,
+ "count": 745,
+ "generated_at": 1788386454,
  "jobs": [
   {
    "company": "retell-ai",
@@ -136,7 +136,7 @@
     "Ottawa, Ontario"
    ],
    "match_reason": "new grad phrase 'new graduate'",
-   "posted_at": 1788386291,
+   "posted_at": 1788386398,
    "posted_from": "workday",
    "region": "CA",
    "score": 73,
@@ -185,7 +185,7 @@
     "US-VA-Dahlgren"
    ],
    "match_reason": "new grad phrase 'junior'",
-   "posted_at": 1788386296,
+   "posted_at": 1788386403,
    "posted_from": "workday",
    "region": "US",
    "score": 70,
@@ -208,7 +208,7 @@
     "2 Locations"
    ],
    "match_reason": "new grad phrase 'junior'",
-   "posted_at": 1788386294,
+   "posted_at": 1788386401,
    "posted_from": "workday",
    "region": "UNKNOWN",
    "score": 70,
@@ -231,7 +231,7 @@
     "CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG"
    ],
    "match_reason": "new grad phrase 'new graduate'",
-   "posted_at": 1788386293,
+   "posted_at": 1788386400,
    "posted_from": "workday",
    "region": "UNKNOWN",
    "score": 70,
@@ -254,7 +254,7 @@
     "USA - El Segundo, CA"
    ],
    "match_reason": "new grad phrase 'early career'",
-   "posted_at": 1788386291,
+   "posted_at": 1788386398,
    "posted_from": "workday",
    "region": "US",
    "score": 70,
@@ -351,6 +351,56 @@
    "title": "Open Source Software Developer New Grad - QNX Everywhere",
    "uid": "simplify:listings:bda74332-82e5-439b-b4b6-2816798a9366",
    "url": "https://bb.wd3.myworkdayjobs.com/blackberry/job/Ottawa-Ontario/QNX-Open-Source-Software-Developer--New-Graduate-Graduate-_20260289-1",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "generalmatter",
+   "group_key": "90ee0a0803c7",
+   "location_evidence": "Los Angeles, CA",
+   "locations": [
+    "Los Angeles, CA",
+    "Los Angeles, CA"
+   ],
+   "match_reason": "new grad phrase 'new grad'",
+   "posted_at": 1788282561,
+   "posted_from": "greenhouse",
+   "region": "US",
+   "score": 65,
+   "score_reasons": [
+    "+7 posted in the last 3 days",
+    "+8 direct from the ATS"
+   ],
+   "slug": "generalmatter",
+   "source": "greenhouse",
+   "title": "Nuclear Engineer (New Grad)",
+   "uid": "greenhouse:generalmatter:5375961008",
+   "url": "https://job-boards.greenhouse.io/generalmatter/jobs/5375961008",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "everlaw",
+   "group_key": "b9c8ca1929d4",
+   "location_evidence": "Oakland, California, United States",
+   "locations": [
+    "Oakland, California, United States",
+    "Oakland, CA"
+   ],
+   "match_reason": "level 1 suffix on 'software engineer'",
+   "posted_at": 1788203526,
+   "posted_from": "greenhouse",
+   "region": "US",
+   "score": 65,
+   "score_reasons": [
+    "+7 posted in the last 3 days",
+    "+8 direct from the ATS"
+   ],
+   "slug": "everlaw",
+   "source": "greenhouse",
+   "title": "Software Engineer I",
+   "uid": "greenhouse:everlaw:4705236006",
+   "url": "https://job-boards.greenhouse.io/everlaw/jobs/4705236006",
    "work_auth": "unknown",
    "work_auth_evidence": ""
   },
@@ -563,6 +613,30 @@
    "title": "Associate Software Engineer - Full Stack",
    "uid": "ashby:ontic:d50b6bea-876f-43fc-afb9-716efe9eca02",
    "url": "https://jobs.ashbyhq.com/ontic/d50b6bea-876f-43fc-afb9-716efe9eca02",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "relativity",
+   "group_key": "8d02b9c4f4a6",
+   "location_evidence": "Long Beach, California, United States",
+   "locations": [
+    "Long Beach, California, United States",
+    "LB - Wormhole HQ (CA)"
+   ],
+   "match_reason": "level 1 suffix on 'engineer'",
+   "posted_at": 1787778310,
+   "posted_from": "greenhouse",
+   "region": "US",
+   "score": 58,
+   "score_reasons": [
+    "+8 direct from the ATS"
+   ],
+   "slug": "relativity",
+   "source": "greenhouse",
+   "title": "Vehicle Fluids Hardware Development Engineer I",
+   "uid": "greenhouse:relativity:8748447002",
+   "url": "https://boards.greenhouse.io/relativity/jobs/8748447002?gh_jid=8748447002",
    "work_auth": "unknown",
    "work_auth_evidence": ""
   },
@@ -2193,6 +2267,78 @@
    "work_auth_evidence": ""
   },
   {
+   "company": "kikoff",
+   "group_key": "df33cf0bc9a2",
+   "location_evidence": "San Francisco",
+   "locations": [
+    "San Francisco",
+    "San Francisco Office"
+   ],
+   "match_reason": "new grad phrase 'recent grad'",
+   "posted_at": 1787188441,
+   "posted_from": "greenhouse",
+   "region": "US",
+   "score": 58,
+   "score_reasons": [
+    "+8 direct from the ATS"
+   ],
+   "slug": "kikoff",
+   "source": "greenhouse",
+   "title": "Software Engineer - Recent Grad",
+   "uid": "greenhouse:kikoff:4376677009",
+   "url": "https://job-boards.greenhouse.io/kikoff/jobs/4376677009",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "freeformfuturecorp",
+   "group_key": "006f442208ec",
+   "location_evidence": "Los Angeles, CA (On-site)",
+   "locations": [
+    "Los Angeles, CA (On-site)",
+    "Headquarters"
+   ],
+   "match_reason": "new grad phrase 'new grad'",
+   "posted_at": 1787180314,
+   "posted_from": "greenhouse",
+   "region": "US",
+   "score": 58,
+   "score_reasons": [
+    "+8 direct from the ATS"
+   ],
+   "slug": "freeformfuturecorp",
+   "source": "greenhouse",
+   "title": "Materials Engineer (New Grad Summer 2027)",
+   "uid": "greenhouse:freeformfuturecorp:7895783003",
+   "url": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895783003",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "freeformfuturecorp",
+   "group_key": "9b157dd377d0",
+   "location_evidence": "Los Angeles, CA (On-site)",
+   "locations": [
+    "Los Angeles, CA (On-site)",
+    "Headquarters"
+   ],
+   "match_reason": "new grad phrase 'new grad'",
+   "posted_at": 1787180298,
+   "posted_from": "greenhouse",
+   "region": "US",
+   "score": 58,
+   "score_reasons": [
+    "+8 direct from the ATS"
+   ],
+   "slug": "freeformfuturecorp",
+   "source": "greenhouse",
+   "title": "Software Engineer (New Grad Summer 2027)",
+   "uid": "greenhouse:freeformfuturecorp:7895902003",
+   "url": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895902003",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
    "company": "applied",
    "group_key": "9d49a2d9daa6",
    "location_evidence": "Sunnyvale",
@@ -2235,6 +2381,54 @@
    "title": "Software Engineer, Early Career",
    "uid": "ashby:koahlabs:197c931d-3cda-44b3-b26b-470976730808",
    "url": "https://jobs.ashbyhq.com/koahlabs/197c931d-3cda-44b3-b26b-470976730808",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "freeformfuturecorp",
+   "group_key": "cd810c877fc0",
+   "location_evidence": "Los Angeles, CA (On-site)",
+   "locations": [
+    "Los Angeles, CA (On-site)",
+    "Headquarters"
+   ],
+   "match_reason": "new grad phrase 'new grad'",
+   "posted_at": 1787075532,
+   "posted_from": "greenhouse",
+   "region": "US",
+   "score": 58,
+   "score_reasons": [
+    "+8 direct from the ATS"
+   ],
+   "slug": "freeformfuturecorp",
+   "source": "greenhouse",
+   "title": "Additive Engineer (New Grad Summer 2027)",
+   "uid": "greenhouse:freeformfuturecorp:7894104003",
+   "url": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7894104003",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "relativity",
+   "group_key": "0c8704541613",
+   "location_evidence": "Cape Canaveral, Florida, United States",
+   "locations": [
+    "Cape Canaveral, Florida, United States",
+    "Launch Complex 16 (FL)"
+   ],
+   "match_reason": "level 1 suffix on 'engineer'",
+   "posted_at": 1787058989,
+   "posted_from": "greenhouse",
+   "region": "US",
+   "score": 58,
+   "score_reasons": [
+    "+8 direct from the ATS"
+   ],
+   "slug": "relativity",
+   "source": "greenhouse",
+   "title": "Launch Fluids Engineer I",
+   "uid": "greenhouse:relativity:8693679002",
+   "url": "https://boards.greenhouse.io/relativity/jobs/8693679002?gh_jid=8693679002",
    "work_auth": "unknown",
    "work_auth_evidence": ""
   },
@@ -2466,6 +2660,78 @@
    "title": "Forward Deployed Engineer (New Grad)",
    "uid": "ashby:composio:f83a19a0-8188-4100-9dd5-b259efb342e6",
    "url": "https://jobs.ashbyhq.com/composio/f83a19a0-8188-4100-9dd5-b259efb342e6",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "generalmatter",
+   "group_key": "81c0e4e3e51a",
+   "location_evidence": "Los Angeles, CA",
+   "locations": [
+    "Los Angeles, CA",
+    "Los Angeles, CA"
+   ],
+   "match_reason": "new grad phrase 'new grad'",
+   "posted_at": 1786572850,
+   "posted_from": "greenhouse",
+   "region": "US",
+   "score": 58,
+   "score_reasons": [
+    "+8 direct from the ATS"
+   ],
+   "slug": "generalmatter",
+   "source": "greenhouse",
+   "title": "Test Engineer (New Grad)",
+   "uid": "greenhouse:generalmatter:5375985008",
+   "url": "https://job-boards.greenhouse.io/generalmatter/jobs/5375985008",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "generalmatter",
+   "group_key": "36eedaa248d7",
+   "location_evidence": "Los Angeles, CA",
+   "locations": [
+    "Los Angeles, CA",
+    "Los Angeles, CA"
+   ],
+   "match_reason": "new grad phrase 'new grad'",
+   "posted_at": 1786572512,
+   "posted_from": "greenhouse",
+   "region": "US",
+   "score": 58,
+   "score_reasons": [
+    "+8 direct from the ATS"
+   ],
+   "slug": "generalmatter",
+   "source": "greenhouse",
+   "title": "Software Engineer, New Grad",
+   "uid": "greenhouse:generalmatter:5375987008",
+   "url": "https://job-boards.greenhouse.io/generalmatter/jobs/5375987008",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "generalmatter",
+   "group_key": "5054e10d1d70",
+   "location_evidence": "Los Angeles, CA",
+   "locations": [
+    "Los Angeles, CA",
+    "Los Angeles, CA"
+   ],
+   "match_reason": "new grad phrase 'new grad'",
+   "posted_at": 1786554720,
+   "posted_from": "greenhouse",
+   "region": "US",
+   "score": 58,
+   "score_reasons": [
+    "+8 direct from the ATS"
+   ],
+   "slug": "generalmatter",
+   "source": "greenhouse",
+   "title": "Electrical I&C Engineer (New Grad) ",
+   "uid": "greenhouse:generalmatter:5375939008",
+   "url": "https://job-boards.greenhouse.io/generalmatter/jobs/5375939008",
    "work_auth": "unknown",
    "work_auth_evidence": ""
   },
@@ -4772,6 +5038,125 @@
    "work_auth_evidence": ""
   },
   {
+   "company": "freeformfuturecorp",
+   "group_key": "088eefd8516d",
+   "location_evidence": "Los Angeles, CA (On-site)",
+   "locations": [
+    "Los Angeles, CA (On-site)",
+    "Headquarters"
+   ],
+   "match_reason": "new grad phrase 'new grad'",
+   "posted_at": 1786137581,
+   "posted_from": "greenhouse",
+   "region": "US",
+   "score": 58,
+   "score_reasons": [
+    "+8 direct from the ATS"
+   ],
+   "slug": "freeformfuturecorp",
+   "source": "greenhouse",
+   "title": "Materials Engineer (New Grad December 2026)",
+   "uid": "greenhouse:freeformfuturecorp:7827091003",
+   "url": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7827091003",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "freeformfuturecorp",
+   "group_key": "75bb2d03654c",
+   "location_evidence": "Los Angeles, CA (On-site)",
+   "locations": [
+    "Los Angeles, CA (On-site)",
+    "Headquarters"
+   ],
+   "match_reason": "new grad phrase 'new grad'",
+   "posted_at": 1786137398,
+   "posted_from": "greenhouse",
+   "region": "US",
+   "score": 58,
+   "score_reasons": [
+    "+8 direct from the ATS"
+   ],
+   "slug": "freeformfuturecorp",
+   "source": "greenhouse",
+   "title": "Software Engineer (New Grad December 2026)",
+   "uid": "greenhouse:freeformfuturecorp:7826634003",
+   "url": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7826634003",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "freeformfuturecorp",
+   "group_key": "dea81a653f76",
+   "location_evidence": "Los Angeles, CA (On-site)",
+   "locations": [
+    "Los Angeles, CA (On-site)",
+    "Headquarters"
+   ],
+   "match_reason": "new grad phrase 'new grad'",
+   "posted_at": 1786137341,
+   "posted_from": "greenhouse",
+   "region": "US",
+   "score": 58,
+   "score_reasons": [
+    "+8 direct from the ATS"
+   ],
+   "slug": "freeformfuturecorp",
+   "source": "greenhouse",
+   "title": "Additive Engineer (New Grad December 2026)",
+   "uid": "greenhouse:freeformfuturecorp:7826912003",
+   "url": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7826912003",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "cssmerge",
+   "group_key": "3539f7de67e2",
+   "location_evidence": "Multiple Locations Available",
+   "locations": [
+    "Multiple Locations Available"
+   ],
+   "match_reason": "new grad phrase 'new grad'",
+   "posted_at": 1786049636,
+   "posted_from": "greenhouse",
+   "region": "UNKNOWN",
+   "score": 58,
+   "score_reasons": [
+    "+8 direct from the ATS"
+   ],
+   "slug": "cssmerge",
+   "source": "greenhouse",
+   "title": "Software Engineer - New Grad",
+   "uid": "greenhouse:cssmerge:8687930002",
+   "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687930002",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "impact",
+   "group_key": "905241bed743",
+   "location_evidence": "Santa Barbara, CA",
+   "locations": [
+    "Santa Barbara, CA",
+    "Santa Barbara"
+   ],
+   "match_reason": "new grad phrase 'associate software engineer'",
+   "posted_at": 1786021336,
+   "posted_from": "greenhouse",
+   "region": "US",
+   "score": 58,
+   "score_reasons": [
+    "+8 direct from the ATS"
+   ],
+   "slug": "impact",
+   "source": "greenhouse",
+   "title": "Associate Software Engineer ",
+   "uid": "greenhouse:impact:8645964002",
+   "url": "https://job-boards.greenhouse.io/impact/jobs/8645964002",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
    "company": "nooks",
    "group_key": "44de8e5ad1b5",
    "location_evidence": "San Francisco",
@@ -5232,7 +5617,7 @@
     "Overland Park, KS"
    ],
    "match_reason": "new grad phrase 'associate software engineer'",
-   "posted_at": 1788213498,
+   "posted_at": 1788213605,
    "posted_from": "workday",
    "region": "US",
    "score": 57,
@@ -5259,7 +5644,7 @@
     "Kennesaw, Georgia"
    ],
    "match_reason": "level 1 suffix on 'software engineer'",
-   "posted_at": 1788213498,
+   "posted_at": 1788213605,
    "posted_from": "workday",
    "region": "US",
    "score": 57,
@@ -5282,7 +5667,7 @@
     "2 Locations"
    ],
    "match_reason": "level 1 suffix on 'engineer'",
-   "posted_at": 1788213498,
+   "posted_at": 1788213605,
    "posted_from": "workday",
    "region": "UNKNOWN",
    "score": 57,
@@ -5309,7 +5694,7 @@
     "Alpharetta, GA"
    ],
    "match_reason": "new grad phrase 'graduate program'",
-   "posted_at": 1788213497,
+   "posted_at": 1788213604,
    "posted_from": "workday",
    "region": "US",
    "score": 57,
@@ -5336,7 +5721,7 @@
     "Alpharetta, GA"
    ],
    "match_reason": "new grad phrase 'graduate program'",
-   "posted_at": 1788213497,
+   "posted_at": 1788213604,
    "posted_from": "workday",
    "region": "US",
    "score": 57,
@@ -5363,7 +5748,7 @@
     "Boca Raton, FL"
    ],
    "match_reason": "new grad phrase 'graduate program'",
-   "posted_at": 1788213497,
+   "posted_at": 1788213604,
    "posted_from": "workday",
    "region": "US",
    "score": 57,
@@ -5386,7 +5771,7 @@
     "Tennessee, United States"
    ],
    "match_reason": "new grad phrase 'associate software engineer'",
-   "posted_at": 1788213496,
+   "posted_at": 1788213602,
    "posted_from": "workday",
    "region": "US",
    "score": 57,
@@ -5409,7 +5794,7 @@
     "North America/USA/Missouri/St. Louis - WPE, MO"
    ],
    "match_reason": "level 1 suffix on 'engineer'",
-   "posted_at": 1788213495,
+   "posted_at": 1788213602,
    "posted_from": "workday",
    "region": "US",
    "score": 57,
@@ -5432,7 +5817,7 @@
     "2 Locations"
    ],
    "match_reason": "level 1 suffix on 'engineer'",
-   "posted_at": 1788213494,
+   "posted_at": 1788213601,
    "posted_from": "workday",
    "region": "UNKNOWN",
    "score": 57,
@@ -5455,7 +5840,7 @@
     "USA - IL East Peoria"
    ],
    "match_reason": "new grad phrase 'entry level'",
-   "posted_at": 1788213493,
+   "posted_at": 1788213600,
    "posted_from": "workday",
    "region": "US",
    "score": 57,
@@ -5478,7 +5863,7 @@
     "2 Locations"
    ],
    "match_reason": "new grad phrase 'associate software engineer'",
-   "posted_at": 1788213492,
+   "posted_at": 1788213599,
    "posted_from": "workday",
    "region": "UNKNOWN",
    "score": 57,
@@ -5913,7 +6298,7 @@
     "Montreal"
    ],
    "match_reason": "level 1 suffix on 'software engineer'",
-   "posted_at": 1787349498,
+   "posted_at": 1787349605,
    "posted_from": "workday",
    "region": "CA",
    "score": 53,
@@ -5936,7 +6321,7 @@
     "Ottawa"
    ],
    "match_reason": "new grad phrase 'entry level'",
-   "posted_at": 1787176695,
+   "posted_at": 1787176802,
    "posted_from": "workday",
    "region": "CA",
    "score": 53,
@@ -6242,7 +6627,7 @@
     "Sterling, VA"
    ],
    "match_reason": "level 1 suffix on 'software engineer'",
-   "posted_at": 1787954296,
+   "posted_at": 1787954403,
    "posted_from": "workday",
    "region": "US",
    "score": 50,
@@ -6263,7 +6648,7 @@
     "Schofield, WI"
    ],
    "match_reason": "level 1 suffix on 'engineer'",
-   "posted_at": 1787954295,
+   "posted_at": 1787954402,
    "posted_from": "workday",
    "region": "US",
    "score": 50,
@@ -6284,7 +6669,7 @@
     "US, New Mexico, Albuquerque"
    ],
    "match_reason": "new grad phrase 'entry level'",
-   "posted_at": 1787954295,
+   "posted_at": 1787954401,
    "posted_from": "workday",
    "region": "US",
    "score": 50,
@@ -6305,7 +6690,7 @@
     "Zeeland, MI"
    ],
    "match_reason": "level 1 suffix on 'engineer'",
-   "posted_at": 1787954294,
+   "posted_at": 1787954400,
    "posted_from": "workday",
    "region": "US",
    "score": 50,
@@ -6326,7 +6711,7 @@
     "2 Locations"
    ],
    "match_reason": "new grad phrase 'entry level'",
-   "posted_at": 1787954291,
+   "posted_at": 1787954397,
    "posted_from": "workday",
    "region": "UNKNOWN",
    "score": 50,
@@ -6340,27 +6725,6 @@
    "work_auth_evidence": ""
   },
   {
-   "company": "blackrock",
-   "group_key": "2729fc55ee37",
-   "location_evidence": "Chicago, IL",
-   "locations": [
-    "Chicago, IL"
-   ],
-   "match_reason": "new grad phrase 'associate software engineer'",
-   "posted_at": 1787954291,
-   "posted_from": "workday",
-   "region": "US",
-   "score": 50,
-   "score_reasons": [],
-   "slug": "blackrock.wd1/BlackRock_Professional",
-   "source": "workday",
-   "title": "Associate, Software Engineer - SMA Solutions",
-   "uid": "workday:blackrock.wd1/BlackRock_Professional:Associate--Software-Engineer---SMA-Solutions_R266216",
-   "url": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/Chicago-IL/Associate--Software-Engineer---SMA-Solutions_R266216",
-   "work_auth": "unknown",
-   "work_auth_evidence": ""
-  },
-  {
    "company": "barrywehmiller",
    "group_key": "f54a7912a065",
    "location_evidence": "4 Locations",
@@ -6368,7 +6732,7 @@
     "4 Locations"
    ],
    "match_reason": "new grad phrase 'entry level'",
-   "posted_at": 1787954290,
+   "posted_at": 1787954397,
    "posted_from": "workday",
    "region": "UNKNOWN",
    "score": 50,
@@ -6389,7 +6753,7 @@
     "5 Locations"
    ],
    "match_reason": "new grad phrase 'entry level'",
-   "posted_at": 1787954290,
+   "posted_at": 1787954397,
    "posted_from": "workday",
    "region": "UNKNOWN",
    "score": 50,
@@ -6410,7 +6774,7 @@
     "3 Locations"
    ],
    "match_reason": "new grad phrase 'entry level'",
-   "posted_at": 1787954290,
+   "posted_at": 1787954397,
    "posted_from": "workday",
    "region": "UNKNOWN",
    "score": 50,
@@ -6431,7 +6795,7 @@
     "2 Locations"
    ],
    "match_reason": "new grad phrase 'entry level'",
-   "posted_at": 1787954290,
+   "posted_at": 1787954397,
    "posted_from": "workday",
    "region": "UNKNOWN",
    "score": 50,
@@ -6441,6 +6805,27 @@
    "title": "Entry Level PreConstruction Engineer",
    "uid": "workday:barrywehmiller.wd1/BWConfidential:Entry-Level-PreConstruction-Engineer_R022646",
    "url": "https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Fort-Worth-TX/Entry-Level-PreConstruction-Engineer_R022646",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "blackrock",
+   "group_key": "2729fc55ee37",
+   "location_evidence": "Chicago, IL",
+   "locations": [
+    "Chicago, IL"
+   ],
+   "match_reason": "new grad phrase 'associate software engineer'",
+   "posted_at": 1787954397,
+   "posted_from": "workday",
+   "region": "US",
+   "score": 50,
+   "score_reasons": [],
+   "slug": "blackrock.wd1/BlackRock_Professional",
+   "source": "workday",
+   "title": "Associate, Software Engineer - SMA Solutions",
+   "uid": "workday:blackrock.wd1/BlackRock_Professional:Associate--Software-Engineer---SMA-Solutions_R266216",
+   "url": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/Chicago-IL/Associate--Software-Engineer---SMA-Solutions_R266216",
    "work_auth": "unknown",
    "work_auth_evidence": ""
   },
@@ -6633,7 +7018,7 @@
     "Bayport, MN"
    ],
    "match_reason": "new grad phrase 'associate engineer'",
-   "posted_at": 1787867890,
+   "posted_at": 1787867996,
    "posted_from": "workday",
    "region": "US",
    "score": 50,
@@ -6717,27 +7102,6 @@
    "work_auth_evidence": ""
   },
   {
-   "company": "pwc",
-   "group_key": "c9d800609dc1",
-   "location_evidence": "Lviv",
-   "locations": [
-    "Lviv"
-   ],
-   "match_reason": "new grad phrase 'junior'",
-   "posted_at": 1787781498,
-   "posted_from": "workday",
-   "region": "UNKNOWN",
-   "score": 50,
-   "score_reasons": [],
-   "slug": "pwc.wd3/Global_Campus_Careers",
-   "source": "workday",
-   "title": "Power Automate Developer (Junior/Middle)",
-   "uid": "workday:pwc.wd3/Global_Campus_Careers:Power-Automate-Developer--Junior-Middle-_755171WD",
-   "url": "https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Lviv/Power-Automate-Developer--Junior-Middle-_755171WD",
-   "work_auth": "unknown",
-   "work_auth_evidence": ""
-  },
-  {
    "company": "wellsky",
    "group_key": "61615838f4b5",
    "location_evidence": "Overland Park, KS",
@@ -6745,7 +7109,7 @@
     "Overland Park, KS"
    ],
    "match_reason": "new grad phrase 'associate software engineer'",
-   "posted_at": 1787781498,
+   "posted_at": 1787781605,
    "posted_from": "workday",
    "region": "US",
    "score": 50,
@@ -6755,6 +7119,27 @@
    "title": "Associate Software Engineer - DevOps Engineer",
    "uid": "workday:wellsky.wd1/WellSkyCareers:Associate-Software-Engineer---DevOps-Engineer_JR5080",
    "url": "https://wellsky.wd1.myworkdayjobs.com/WellSkyCareers/job/Overland-Park-KS/Associate-Software-Engineer---DevOps-Engineer_JR5080",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "pwc",
+   "group_key": "c9d800609dc1",
+   "location_evidence": "Lviv",
+   "locations": [
+    "Lviv"
+   ],
+   "match_reason": "new grad phrase 'junior'",
+   "posted_at": 1787781604,
+   "posted_from": "workday",
+   "region": "UNKNOWN",
+   "score": 50,
+   "score_reasons": [],
+   "slug": "pwc.wd3/Global_Campus_Careers",
+   "source": "workday",
+   "title": "Power Automate Developer (Junior/Middle)",
+   "uid": "workday:pwc.wd3/Global_Campus_Careers:Power-Automate-Developer--Junior-Middle-_755171WD",
+   "url": "https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Lviv/Power-Automate-Developer--Junior-Middle-_755171WD",
    "work_auth": "unknown",
    "work_auth_evidence": ""
   },
@@ -6770,7 +7155,7 @@
     "USA MD Annapolis Junction"
    ],
    "match_reason": "level 1 suffix on 'software engineer'",
-   "posted_at": 1787781495,
+   "posted_at": 1787781601,
    "posted_from": "workday",
    "region": "US",
    "score": 50,
@@ -6795,7 +7180,7 @@
     "Al Khobar"
    ],
    "match_reason": "new grad phrase 'early career'",
-   "posted_at": 1787781493,
+   "posted_at": 1787781599,
    "posted_from": "workday",
    "region": "UNKNOWN",
    "score": 50,
@@ -6816,7 +7201,7 @@
     "Fredericksburg"
    ],
    "match_reason": "new grad phrase 'junior'",
-   "posted_at": 1787781491,
+   "posted_at": 1787781597,
    "posted_from": "workday",
    "region": "UNKNOWN",
    "score": 50,
@@ -6986,7 +7371,7 @@
     "2 Locations"
    ],
    "match_reason": "level 1 suffix on 'software engineering'",
-   "posted_at": 1787695091,
+   "posted_at": 1787695197,
    "posted_from": "workday",
    "region": "UNKNOWN",
    "score": 50,
@@ -7242,7 +7627,7 @@
     "USDALFRI - Dallas Frisco AI HUB (FRI)"
    ],
    "match_reason": "new grad phrase 'early career'",
-   "posted_at": 1787608695,
+   "posted_at": 1787608802,
    "posted_from": "workday",
    "region": "US",
    "score": 50,
@@ -7263,7 +7648,7 @@
     "Richardson, TX"
    ],
    "match_reason": "new grad phrase 'entry level'",
-   "posted_at": 1787608691,
+   "posted_at": 1787608798,
    "posted_from": "workday",
    "region": "US",
    "score": 50,
@@ -7548,7 +7933,7 @@
     "2 Locations"
    ],
    "match_reason": "level 1 suffix on 'engineer'",
-   "posted_at": 1787263095,
+   "posted_at": 1787263202,
    "posted_from": "workday",
    "region": "UNKNOWN",
    "score": 50,
@@ -7573,7 +7958,7 @@
     "USA - Berkeley, MO"
    ],
    "match_reason": "new grad phrase 'associate software engineer'",
-   "posted_at": 1787263091,
+   "posted_at": 1787263197,
    "posted_from": "workday",
    "region": "US",
    "score": 50,
@@ -7701,7 +8086,7 @@
     "Tampa, FL"
    ],
    "match_reason": "new grad phrase 'associate software engineer'",
-   "posted_at": 1787176696,
+   "posted_at": 1787176803,
    "posted_from": "workday",
    "region": "US",
    "score": 50,
@@ -7722,7 +8107,7 @@
     "Laconia"
    ],
    "match_reason": "new grad phrase 'junior'",
-   "posted_at": 1787176691,
+   "posted_at": 1787176797,
    "posted_from": "workday",
    "region": "UNKNOWN",
    "score": 50,
@@ -7892,7 +8277,7 @@
     "US-CT-EAST HARTFORD-J ~ 400 Main St ~ BLDG J"
    ],
    "match_reason": "level 1 suffix on 'systems engineer'",
-   "posted_at": 1787090293,
+   "posted_at": 1787090400,
    "posted_from": "workday",
    "region": "US",
    "score": 50,
@@ -8102,7 +8487,7 @@
     "HYV-TW-NT-6753-Xinzhuang Dist."
    ],
    "match_reason": "new grad phrase 'college grad'",
-   "posted_at": 1787003897,
+   "posted_at": 1787004005,
    "posted_from": "workday",
    "region": "UNKNOWN",
    "score": 50,
@@ -8123,7 +8508,7 @@
     "HYV-TW-NT-6753-Xinzhuang Dist."
    ],
    "match_reason": "new grad phrase 'college grad'",
-   "posted_at": 1787003897,
+   "posted_at": 1787004005,
    "posted_from": "workday",
    "region": "UNKNOWN",
    "score": 50,
@@ -8144,7 +8529,7 @@
     "HYV-TW-NT-6753-Xinzhuang Dist."
    ],
    "match_reason": "new grad phrase 'college grad'",
-   "posted_at": 1787003897,
+   "posted_at": 1787004005,
    "posted_from": "workday",
    "region": "UNKNOWN",
    "score": 50,
@@ -8165,7 +8550,7 @@
     "HYV-TW-NT-6753-Xinzhuang Dist."
    ],
    "match_reason": "new grad phrase 'college grad'",
-   "posted_at": 1787003897,
+   "posted_at": 1787004005,
    "posted_from": "workday",
    "region": "UNKNOWN",
    "score": 50,
@@ -8186,7 +8571,7 @@
     "HYV-TW-NT-6753-Xinzhuang Dist."
    ],
    "match_reason": "new grad phrase 'college grad'",
-   "posted_at": 1787003897,
+   "posted_at": 1787004005,
    "posted_from": "workday",
    "region": "UNKNOWN",
    "score": 50,
@@ -8200,27 +8585,6 @@
    "work_auth_evidence": ""
   },
   {
-   "company": "insperity",
-   "group_key": "dc15ad60dda1",
-   "location_evidence": "Kingwood, TX",
-   "locations": [
-    "Kingwood, TX"
-   ],
-   "match_reason": "level 1 suffix on 'engineer'",
-   "posted_at": 1787003894,
-   "posted_from": "workday",
-   "region": "US",
-   "score": 50,
-   "score_reasons": [],
-   "slug": "insperity.wd12/NSP",
-   "source": "workday",
-   "title": "Artificial Intelligence Engineer I",
-   "uid": "workday:insperity.wd12/NSP:Artificial-Intelligence-Engineer-I_JR103100",
-   "url": "https://insperity.wd12.myworkdayjobs.com/NSP/job/Kingwood-TX/Artificial-Intelligence-Engineer-I_JR103100",
-   "work_auth": "unknown",
-   "work_auth_evidence": ""
-  },
-  {
    "company": "globalfoundries",
    "group_key": "5b533e85651d",
    "location_evidence": "USA - Vermont - Essex Junction",
@@ -8228,7 +8592,7 @@
     "USA - Vermont - Essex Junction"
    ],
    "match_reason": "new grad phrase 'college graduate'",
-   "posted_at": 1787003893,
+   "posted_at": 1787004000,
    "posted_from": "workday",
    "region": "US",
    "score": 50,
@@ -8249,7 +8613,7 @@
     "USA - Vermont - Essex Junction"
    ],
    "match_reason": "new grad phrase 'college graduate'",
-   "posted_at": 1787003893,
+   "posted_at": 1787004000,
    "posted_from": "workday",
    "region": "US",
    "score": 50,
@@ -8259,6 +8623,27 @@
    "title": "Electrical Test Engineer, Wafer Test (2027 New College Graduate)",
    "uid": "workday:globalfoundries.wd1/External:Electrical-Test-Engineer--Wafer-Test--2027-New-College-Graduate-_JR-2604747",
    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Electrical-Test-Engineer--Wafer-Test--2027-New-College-Graduate-_JR-2604747",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "insperity",
+   "group_key": "dc15ad60dda1",
+   "location_evidence": "Kingwood, TX",
+   "locations": [
+    "Kingwood, TX"
+   ],
+   "match_reason": "level 1 suffix on 'engineer'",
+   "posted_at": 1787004000,
+   "posted_from": "workday",
+   "region": "US",
+   "score": 50,
+   "score_reasons": [],
+   "slug": "insperity.wd12/NSP",
+   "source": "workday",
+   "title": "Artificial Intelligence Engineer I",
+   "uid": "workday:insperity.wd12/NSP:Artificial-Intelligence-Engineer-I_JR103100",
+   "url": "https://insperity.wd12.myworkdayjobs.com/NSP/job/Kingwood-TX/Artificial-Intelligence-Engineer-I_JR103100",
    "work_auth": "unknown",
    "work_auth_evidence": ""
   },
@@ -8485,7 +8870,7 @@
     "Pennington, NJ"
    ],
    "match_reason": "level 1 suffix on 'engineer'",
-   "posted_at": 1786744693,
+   "posted_at": 1786744799,
    "posted_from": "workday",
    "region": "US",
    "score": 50,
@@ -8695,7 +9080,7 @@
     "USDALFRI - Dallas Frisco AI HUB (FRI)"
    ],
    "match_reason": "new grad phrase 'early career'",
-   "posted_at": 1786658296,
+   "posted_at": 1786658404,
    "posted_from": "workday",
    "region": "US",
    "score": 50,
@@ -8720,7 +9105,7 @@
     "US - Huntsville, AL"
    ],
    "match_reason": "new grad phrase 'associate software engineer'",
-   "posted_at": 1786658293,
+   "posted_at": 1786658400,
    "posted_from": "workday",
    "region": "US",
    "score": 50,
@@ -8741,7 +9126,7 @@
     "Minneapolis, MN"
    ],
    "match_reason": "new grad phrase 'entry level'",
-   "posted_at": 1786658291,
+   "posted_at": 1786658397,
    "posted_from": "workday",
    "region": "US",
    "score": 50,
@@ -8910,7 +9295,7 @@
     "San Diego, CA, United States"
    ],
    "match_reason": "new grad phrase 'associate software engineer'",
-   "posted_at": 1786571898,
+   "posted_at": 1786572005,
    "posted_from": "workday",
    "region": "US",
    "score": 50,
@@ -8931,7 +9316,7 @@
     "Alameda, CA"
    ],
    "match_reason": "new grad phrase 'associate engineer'",
-   "posted_at": 1786571893,
+   "posted_at": 1786571999,
    "posted_from": "workday",
    "region": "US",
    "score": 50,
@@ -9016,6 +9401,25 @@
    "work_auth_evidence": ""
   },
   {
+   "company": "Vector Atomic",
+   "group_key": "8c31e84c327b",
+   "location_evidence": "",
+   "locations": [],
+   "match_reason": "new grad phrase 'associate engineer'",
+   "posted_at": 1786492800,
+   "posted_from": "workable",
+   "region": "UNKNOWN",
+   "score": 50,
+   "score_reasons": [],
+   "slug": "vectoratomic",
+   "source": "workable",
+   "title": "Associate Engineer - Firmware",
+   "uid": "workable:vectoratomic:00C9C6A8E4",
+   "url": "https://apply.workable.com/j/00C9C6A8E4",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
    "company": "Resmed",
    "group_key": "28b6f39eb0f3",
    "location_evidence": "San Diego, CA",
@@ -9054,25 +9458,6 @@
    "title": "Software Engineer 1",
    "uid": "simplify:listings:54a06b84-67eb-4568-8969-1e478d303342",
    "url": "https://lennar.wd1.myworkdayjobs.com/Lennar_Jobs/job/Miami-FL-Job-Posting-Location/Software-Engineer-I_R26_0000003523",
-   "work_auth": "unknown",
-   "work_auth_evidence": ""
-  },
-  {
-   "company": "Vector Atomic",
-   "group_key": "8c31e84c327b",
-   "location_evidence": "",
-   "locations": [],
-   "match_reason": "new grad phrase 'associate engineer'",
-   "posted_at": 1786492800,
-   "posted_from": "workable",
-   "region": "UNKNOWN",
-   "score": 50,
-   "score_reasons": [],
-   "slug": "vectoratomic",
-   "source": "workable",
-   "title": "Associate Engineer - Firmware",
-   "uid": "workable:vectoratomic:00C9C6A8E4",
-   "url": "https://apply.workable.com/j/00C9C6A8E4",
    "work_auth": "unknown",
    "work_auth_evidence": ""
   },
@@ -9149,7 +9534,7 @@
     "San Diego, California"
    ],
    "match_reason": "new grad phrase 'entry level'",
-   "posted_at": 1786485494,
+   "posted_at": 1786485600,
    "posted_from": "workday",
    "region": "US",
    "score": 50,
@@ -9474,27 +9859,6 @@
    "work_auth_evidence": ""
   },
   {
-   "company": "exelixis",
-   "group_key": "f046fd230da4",
-   "location_evidence": "Alameda, CA",
-   "locations": [
-    "Alameda, CA"
-   ],
-   "match_reason": "level 1 suffix on 'engineer'",
-   "posted_at": 1786139893,
-   "posted_from": "workday",
-   "region": "US",
-   "score": 50,
-   "score_reasons": [],
-   "slug": "exelixis.wd1/exel",
-   "source": "workday",
-   "title": "AI and Agentic Engineer I",
-   "uid": "workday:exelixis.wd1/exel:AI-and-Agentic-Engineer-I_JR7022-1",
-   "url": "https://exelixis.wd1.myworkdayjobs.com/exel/job/Alameda-CA/AI-and-Agentic-Engineer-I_JR7022-1",
-   "work_auth": "unknown",
-   "work_auth_evidence": ""
-  },
-  {
    "company": "globalfoundries",
    "group_key": "5d4f597b26e2",
    "location_evidence": "Essex Junction",
@@ -9502,7 +9866,7 @@
     "Essex Junction"
    ],
    "match_reason": "new grad phrase 'college graduate'",
-   "posted_at": 1786139893,
+   "posted_at": 1786140000,
    "posted_from": "workday",
    "region": "UNKNOWN",
    "score": 50,
@@ -9512,6 +9876,27 @@
    "title": "Packaging Design Integration Engineer (2026 New College Graduate)",
    "uid": "workday:globalfoundries.wd1/External:Packaging-Design-Integration-Engineer--2026-New-College-Graduate-_JR-2603919",
    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/Essex-Junction/Packaging-Design-Integration-Engineer--2026-New-College-Graduate-_JR-2603919",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "exelixis",
+   "group_key": "f046fd230da4",
+   "location_evidence": "Alameda, CA",
+   "locations": [
+    "Alameda, CA"
+   ],
+   "match_reason": "level 1 suffix on 'engineer'",
+   "posted_at": 1786139999,
+   "posted_from": "workday",
+   "region": "US",
+   "score": 50,
+   "score_reasons": [],
+   "slug": "exelixis.wd1/exel",
+   "source": "workday",
+   "title": "AI and Agentic Engineer I",
+   "uid": "workday:exelixis.wd1/exel:AI-and-Agentic-Engineer-I_JR7022-1",
+   "url": "https://exelixis.wd1.myworkdayjobs.com/exel/job/Alameda-CA/AI-and-Agentic-Engineer-I_JR7022-1",
    "work_auth": "unknown",
    "work_auth_evidence": ""
   },
@@ -9687,7 +10072,7 @@
     "6 Locations"
    ],
    "match_reason": "new grad phrase 'college grad'",
-   "posted_at": 1786053497,
+   "posted_at": 1786053604,
    "posted_from": "workday",
    "region": "UNKNOWN",
    "score": 50,
@@ -9906,7 +10291,7 @@
     "1530 FM 973 Taylor, TX, USA"
    ],
    "match_reason": "new grad phrase 'new grad'",
-   "posted_at": 1785880698,
+   "posted_at": 1785880804,
    "posted_from": "workday",
    "region": "US",
    "score": 50,
@@ -9927,7 +10312,7 @@
     "Bridgewater, NJ"
    ],
    "match_reason": "level 1 suffix on 'software developer'",
-   "posted_at": 1785880696,
+   "posted_at": 1785880803,
    "posted_from": "workday",
    "region": "US",
    "score": 50,
@@ -9948,7 +10333,7 @@
     "Essex Junction"
    ],
    "match_reason": "new grad phrase 'college graduate'",
-   "posted_at": 1785880693,
+   "posted_at": 1785880800,
    "posted_from": "workday",
    "region": "UNKNOWN",
    "score": 50,
@@ -9969,7 +10354,7 @@
     "420 National Business Parkway, Jessup, MD"
    ],
    "match_reason": "new grad phrase 'junior'",
-   "posted_at": 1785880691,
+   "posted_at": 1785880797,
    "posted_from": "workday",
    "region": "US",
    "score": 50,
@@ -10581,6 +10966,32 @@
    "work_auth_evidence": ""
   },
   {
+   "company": "ctccampusboard",
+   "group_key": "b1310254ed27",
+   "location_evidence": "Chicago, IL; New York, NY",
+   "locations": [
+    "Chicago, IL; New York, NY",
+    "Chicago",
+    "New York"
+   ],
+   "match_reason": "new grad phrase 'associate engineer'",
+   "posted_at": 1785523979,
+   "posted_from": "greenhouse",
+   "region": "US",
+   "score": 48,
+   "score_reasons": [
+    "-10 posted over a month ago",
+    "+8 direct from the ATS"
+   ],
+   "slug": "ctccampusboard",
+   "source": "greenhouse",
+   "title": "Associate Engineer - 2027 Start",
+   "uid": "greenhouse:ctccampusboard:4709991005",
+   "url": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4709991005",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
    "company": "confido",
    "group_key": "3b0bd404a4df",
    "location_evidence": "NYC Office",
@@ -11038,6 +11449,56 @@
    "work_auth_evidence": ""
   },
   {
+   "company": "newsbreak",
+   "group_key": "29a8c43b65b8",
+   "location_evidence": "Mountain View, California, United States",
+   "locations": [
+    "Mountain View, California, United States",
+    "Mountain View Office"
+   ],
+   "match_reason": "new grad phrase 'new grad'",
+   "posted_at": 1785189907,
+   "posted_from": "greenhouse",
+   "region": "US",
+   "score": 48,
+   "score_reasons": [
+    "-10 posted over a month ago",
+    "+8 direct from the ATS"
+   ],
+   "slug": "newsbreak",
+   "source": "greenhouse",
+   "title": "Applied AI Engineer, Advertising Agents (New Grad)",
+   "uid": "greenhouse:newsbreak:4700278006",
+   "url": "https://job-boards.greenhouse.io/newsbreak/jobs/4700278006",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "relativity",
+   "group_key": "2b61f4b97be4",
+   "location_evidence": "Long Beach, California",
+   "locations": [
+    "Long Beach, California",
+    "LB - Wormhole HQ (CA)"
+   ],
+   "match_reason": "level 1 suffix on 'engineer'",
+   "posted_at": 1785187287,
+   "posted_from": "greenhouse",
+   "region": "US",
+   "score": 48,
+   "score_reasons": [
+    "-10 posted over a month ago",
+    "+8 direct from the ATS"
+   ],
+   "slug": "relativity",
+   "source": "greenhouse",
+   "title": "Stage Development Engineer I",
+   "uid": "greenhouse:relativity:8652743002",
+   "url": "https://boards.greenhouse.io/relativity/jobs/8652743002?gh_jid=8652743002",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
    "company": "botauto",
    "group_key": "58c366cb3f48",
    "location_evidence": "Houston, TX or San Francisco Bay Area",
@@ -11155,6 +11616,31 @@
    "title": "Early Career Product Engineer",
    "uid": "ashby:bridger:5a4a77e4-31a0-40c6-8e3d-9b5c6205943f",
    "url": "https://jobs.ashbyhq.com/bridger/5a4a77e4-31a0-40c6-8e3d-9b5c6205943f",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "relativity",
+   "group_key": "49bdb403f83f",
+   "location_evidence": "Long Beach, California",
+   "locations": [
+    "Long Beach, California",
+    "LB - Wormhole HQ (CA)"
+   ],
+   "match_reason": "level 1 suffix on 'engineer'",
+   "posted_at": 1784664346,
+   "posted_from": "greenhouse",
+   "region": "US",
+   "score": 48,
+   "score_reasons": [
+    "-10 posted over a month ago",
+    "+8 direct from the ATS"
+   ],
+   "slug": "relativity",
+   "source": "greenhouse",
+   "title": "Weld Engineer I",
+   "uid": "greenhouse:relativity:8643520002",
+   "url": "https://boards.greenhouse.io/relativity/jobs/8643520002?gh_jid=8643520002",
    "work_auth": "unknown",
    "work_auth_evidence": ""
   },
@@ -11283,6 +11769,31 @@
    "work_auth_evidence": ""
   },
   {
+   "company": "fiveringsllc",
+   "group_key": "b9cf6d382019",
+   "location_evidence": "New York",
+   "locations": [
+    "New York",
+    "New York City"
+   ],
+   "match_reason": "new grad phrase 'campus'",
+   "posted_at": 1784051520,
+   "posted_from": "greenhouse",
+   "region": "US",
+   "score": 48,
+   "score_reasons": [
+    "-10 posted over a month ago",
+    "+8 direct from the ATS"
+   ],
+   "slug": "fiveringsllc",
+   "source": "greenhouse",
+   "title": "Campus Full Time 2027 - Software Developer",
+   "uid": "greenhouse:fiveringsllc:5349839008",
+   "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5349839008",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
    "company": "pylon-labs",
    "group_key": "3b1ce73be5f1",
    "location_evidence": "San Francisco",
@@ -11303,6 +11814,31 @@
    "title": "Software Engineer, New Grad",
    "uid": "ashby:pylon-labs:38814ce7-217b-40f2-9ba5-8a7733a5691d",
    "url": "https://jobs.ashbyhq.com/pylon-labs/38814ce7-217b-40f2-9ba5-8a7733a5691d",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "newsbreak",
+   "group_key": "d099177cfc2b",
+   "location_evidence": "Mountain View, California, United States",
+   "locations": [
+    "Mountain View, California, United States",
+    "Mountain View Office"
+   ],
+   "match_reason": "new grad phrase 'new grad'",
+   "posted_at": 1783382236,
+   "posted_from": "greenhouse",
+   "region": "US",
+   "score": 48,
+   "score_reasons": [
+    "-10 posted over a month ago",
+    "+8 direct from the ATS"
+   ],
+   "slug": "newsbreak",
+   "source": "greenhouse",
+   "title": "NewsBreak Venture, AI Growth Intelligence Engineer (New Grad）",
+   "uid": "greenhouse:newsbreak:4694899006",
+   "url": "https://job-boards.greenhouse.io/newsbreak/jobs/4694899006",
    "work_auth": "unknown",
    "work_auth_evidence": ""
   },
@@ -11376,6 +11912,56 @@
    "title": "Automation Engineer I",
    "uid": "greenhouse:flexport:8015840",
    "url": "https://job-boards.greenhouse.io/flexport/jobs/8015840",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "relativity",
+   "group_key": "e65a0620ad0d",
+   "location_evidence": "Mississippi, United States",
+   "locations": [
+    "Mississippi, United States",
+    "Stennis (MS)"
+   ],
+   "match_reason": "level 1 suffix on 'engineer'",
+   "posted_at": 1782918252,
+   "posted_from": "greenhouse",
+   "region": "US",
+   "score": 48,
+   "score_reasons": [
+    "-10 posted over a month ago",
+    "+8 direct from the ATS"
+   ],
+   "slug": "relativity",
+   "source": "greenhouse",
+   "title": "Facilities Engineer I",
+   "uid": "greenhouse:relativity:8614326002",
+   "url": "https://boards.greenhouse.io/relativity/jobs/8614326002?gh_jid=8614326002",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "gotion",
+   "group_key": "95f885ed756a",
+   "location_evidence": "Manteno, Illinois",
+   "locations": [
+    "Manteno, Illinois",
+    "Manteno, IL"
+   ],
+   "match_reason": "new grad phrase 'junior'",
+   "posted_at": 1782754118,
+   "posted_from": "greenhouse",
+   "region": "US",
+   "score": 48,
+   "score_reasons": [
+    "-10 posted over a month ago",
+    "+8 direct from the ATS"
+   ],
+   "slug": "gotion",
+   "source": "greenhouse",
+   "title": "Junior Controls Engineer",
+   "uid": "greenhouse:gotion:8612261002",
+   "url": "https://job-boards.greenhouse.io/gotion/jobs/8612261002",
    "work_auth": "unknown",
    "work_auth_evidence": ""
   },
@@ -15726,6 +16312,31 @@
    "work_auth_evidence": ""
   },
   {
+   "company": "relativity",
+   "group_key": "63951b7e8d83",
+   "location_evidence": "Long Beach, California, United States",
+   "locations": [
+    "Long Beach, California, United States",
+    "LB - Wormhole HQ (CA)"
+   ],
+   "match_reason": "level 1 suffix on 'engineer'",
+   "posted_at": 1781839012,
+   "posted_from": "greenhouse",
+   "region": "US",
+   "score": 48,
+   "score_reasons": [
+    "-10 posted over a month ago",
+    "+8 direct from the ATS"
+   ],
+   "slug": "relativity",
+   "source": "greenhouse",
+   "title": "Vehicle Structures Engineer I",
+   "uid": "greenhouse:relativity:8600166002",
+   "url": "https://boards.greenhouse.io/relativity/jobs/8600166002?gh_jid=8600166002",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
    "company": "hipp",
    "group_key": "7bafd32b765a",
    "location_evidence": "United States",
@@ -15774,6 +16385,56 @@
    "work_auth_evidence": ""
   },
   {
+   "company": "relaypro",
+   "group_key": "2bf69f6b6aec",
+   "location_evidence": "Raleigh, NC",
+   "locations": [
+    "Raleigh, NC",
+    "Relay, Inc"
+   ],
+   "match_reason": "new grad phrase 'associate software engineer'",
+   "posted_at": 1780094413,
+   "posted_from": "greenhouse",
+   "region": "US",
+   "score": 48,
+   "score_reasons": [
+    "-10 posted over a month ago",
+    "+8 direct from the ATS"
+   ],
+   "slug": "relaypro",
+   "source": "greenhouse",
+   "title": "Associate Software Engineer, Embedded Development",
+   "uid": "greenhouse:relaypro:7968124",
+   "url": "https://job-boards.greenhouse.io/relaypro/jobs/7968124",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "relativity",
+   "group_key": "91828ce213aa",
+   "location_evidence": "Long Beach, California",
+   "locations": [
+    "Long Beach, California",
+    "LB - Wormhole HQ (CA)"
+   ],
+   "match_reason": "level 1 suffix on 'engineer'",
+   "posted_at": 1779386047,
+   "posted_from": "greenhouse",
+   "region": "US",
+   "score": 48,
+   "score_reasons": [
+    "-10 posted over a month ago",
+    "+8 direct from the ATS"
+   ],
+   "slug": "relativity",
+   "source": "greenhouse",
+   "title": "Hardware Development Engineer I",
+   "uid": "greenhouse:relativity:8560326002",
+   "url": "https://boards.greenhouse.io/relativity/jobs/8560326002?gh_jid=8560326002",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
    "company": "julius",
    "group_key": "44aa7298dba8",
    "location_evidence": "San Francisco, CA",
@@ -15794,6 +16455,31 @@
    "title": "Software Engineer - Product (New Grad)",
    "uid": "ashby:julius:5e0b677a-f677-44de-93c6-f7848ab5a8e6",
    "url": "https://jobs.ashbyhq.com/julius/5e0b677a-f677-44de-93c6-f7848ab5a8e6",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "relativity",
+   "group_key": "a55b79bcd529",
+   "location_evidence": "Stennis Space Center, Mississippi",
+   "locations": [
+    "Stennis Space Center, Mississippi",
+    "Stennis (MS)"
+   ],
+   "match_reason": "level 1 suffix on 'test engineer'",
+   "posted_at": 1776970715,
+   "posted_from": "greenhouse",
+   "region": "US",
+   "score": 48,
+   "score_reasons": [
+    "-10 posted over a month ago",
+    "+8 direct from the ATS"
+   ],
+   "slug": "relativity",
+   "source": "greenhouse",
+   "title": "Propulsion Test Engineer I",
+   "uid": "greenhouse:relativity:8519337002",
+   "url": "https://boards.greenhouse.io/relativity/jobs/8519337002?gh_jid=8519337002",
    "work_auth": "unknown",
    "work_auth_evidence": ""
   },
@@ -15869,6 +16555,31 @@
    "title": "Software Engineer, Early Career",
    "uid": "greenhouse:aquaticcapitalmanagement:8489226002",
    "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489226002",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "gotion",
+   "group_key": "6edb23f6af15",
+   "location_evidence": "Manteno, Illinois",
+   "locations": [
+    "Manteno, Illinois",
+    "Manteno, IL"
+   ],
+   "match_reason": "new grad phrase 'junior'",
+   "posted_at": 1774646752,
+   "posted_from": "greenhouse",
+   "region": "US",
+   "score": 48,
+   "score_reasons": [
+    "-10 posted over a month ago",
+    "+8 direct from the ATS"
+   ],
+   "slug": "gotion",
+   "source": "greenhouse",
+   "title": "Junior Equipment Engineer",
+   "uid": "greenhouse:gotion:8483954002",
+   "url": "https://job-boards.greenhouse.io/gotion/jobs/8483954002",
    "work_auth": "unknown",
    "work_auth_evidence": ""
   },
@@ -16042,6 +16753,56 @@
    "work_auth_evidence": ""
   },
   {
+   "company": "newsbreak",
+   "group_key": "54fe0c18f77c",
+   "location_evidence": "Mountain View, California, United States",
+   "locations": [
+    "Mountain View, California, United States",
+    "Mountain View Office"
+   ],
+   "match_reason": "new grad phrase 'new grad'",
+   "posted_at": 1762370969,
+   "posted_from": "greenhouse",
+   "region": "US",
+   "score": 48,
+   "score_reasons": [
+    "-10 posted over a month ago",
+    "+8 direct from the ATS"
+   ],
+   "slug": "newsbreak",
+   "source": "greenhouse",
+   "title": "Software Engineer, ML Infra (Junior & New Grad)",
+   "uid": "greenhouse:newsbreak:4615879006",
+   "url": "https://job-boards.greenhouse.io/newsbreak/jobs/4615879006",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "gingerlabsinc",
+   "group_key": "5bf312551aba",
+   "location_evidence": "San Francisco",
+   "locations": [
+    "San Francisco",
+    "San Francisco HQ"
+   ],
+   "match_reason": "new grad phrase 'junior'",
+   "posted_at": 1758529206,
+   "posted_from": "greenhouse",
+   "region": "US",
+   "score": 48,
+   "score_reasons": [
+    "-10 posted over a month ago",
+    "+8 direct from the ATS"
+   ],
+   "slug": "gingerlabsinc",
+   "source": "greenhouse",
+   "title": "Junior Engineer, Web Apps",
+   "uid": "greenhouse:gingerlabsinc:4928821008",
+   "url": "https://job-boards.greenhouse.io/gingerlabsinc/jobs/4928821008",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
    "company": "andurilindustries",
    "duplicate_count": 2,
    "duplicate_sources": [
@@ -16075,6 +16836,31 @@
    "title": "2027 Early Career Software Engineer ",
    "uid": "greenhouse:andurilindustries:5162263007",
    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5162263007?gh_jid=5162263007",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "relativity",
+   "group_key": "e20b7c9b8b84",
+   "location_evidence": "Long Beach, California",
+   "locations": [
+    "Long Beach, California",
+    "LB - Wormhole HQ (CA)"
+   ],
+   "match_reason": "level 1 suffix on 'engineer'",
+   "posted_at": 1751402095,
+   "posted_from": "greenhouse",
+   "region": "US",
+   "score": 48,
+   "score_reasons": [
+    "-10 posted over a month ago",
+    "+8 direct from the ATS"
+   ],
+   "slug": "relativity",
+   "source": "greenhouse",
+   "title": "Propulsion Test Responsible Engineer I",
+   "uid": "greenhouse:relativity:8059060002",
+   "url": "https://boards.greenhouse.io/relativity/jobs/8059060002?gh_jid=8059060002",
    "work_auth": "unknown",
    "work_auth_evidence": ""
   },
@@ -20267,6 +21053,31 @@
    "work_auth_evidence": ""
   },
   {
+   "company": "fiveringsllc",
+   "group_key": "29d2923bfa8b",
+   "location_evidence": "New York",
+   "locations": [
+    "New York",
+    "New York City"
+   ],
+   "match_reason": "new grad phrase 'campus'",
+   "posted_at": 1712863251,
+   "posted_from": "greenhouse",
+   "region": "US",
+   "score": 48,
+   "score_reasons": [
+    "-10 posted over a month ago",
+    "+8 direct from the ATS"
+   ],
+   "slug": "fiveringsllc",
+   "source": "greenhouse",
+   "title": "Campus Full Time 2027 - Trading Operations Engineer",
+   "uid": "greenhouse:fiveringsllc:4017982008",
+   "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/4017982008",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
    "company": "omnidesigntech",
    "group_key": "386c16c811f9",
    "location_evidence": "Milpitas",
@@ -22475,7 +23286,7 @@
     "Boadilla del Monte"
    ],
    "match_reason": "level 1 suffix on 'software engineering'",
-   "posted_at": 1785794299,
+   "posted_at": 1785794406,
    "posted_from": "workday",
    "region": "UNKNOWN",
    "score": 40,
@@ -22498,7 +23309,7 @@
     "IL Caesarea"
    ],
    "match_reason": "new grad phrase 'junior'",
-   "posted_at": 1785794299,
+   "posted_at": 1785794406,
    "posted_from": "workday",
    "region": "UNKNOWN",
    "score": 40,
@@ -22521,7 +23332,7 @@
     "Nevada, NV"
    ],
    "match_reason": "level 1 suffix on 'test engineer'",
-   "posted_at": 1785794298,
+   "posted_at": 1785794405,
    "posted_from": "workday",
    "region": "US",
    "score": 40,
@@ -22537,6 +23348,56 @@
    "work_auth_evidence": ""
   },
   {
+   "company": "kbr",
+   "duplicate_count": 2,
+   "duplicate_sources": [
+    "workday"
+   ],
+   "group_key": "8a29a944f6ab",
+   "location_evidence": "Beavercreek, Ohio",
+   "locations": [
+    "Beavercreek, Ohio"
+   ],
+   "match_reason": "new grad phrase 'junior'",
+   "posted_at": 1785794403,
+   "posted_from": "workday",
+   "region": "US",
+   "score": 40,
+   "score_reasons": [
+    "-10 posted over a month ago"
+   ],
+   "slug": "kbr.wd5/kbr_careers",
+   "source": "workday",
+   "title": "Junior Software Engineer",
+   "uid": "workday:kbr.wd5/kbr_careers:Junior-Software-Engineer_R2122294",
+   "url": "https://kbr.wd5.myworkdayjobs.com/kbr_careers/job/Beavercreek-Ohio/Junior-Software-Engineer_R2122294",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "ncr",
+   "group_key": "c07bd0bcfa08",
+   "location_evidence": "ATLANTA, GA, USA",
+   "locations": [
+    "ATLANTA, GA, USA"
+   ],
+   "match_reason": "level 1 suffix on 'engineer'",
+   "posted_at": 1785794403,
+   "posted_from": "workday",
+   "region": "US",
+   "score": 40,
+   "score_reasons": [
+    "-10 posted over a month ago"
+   ],
+   "slug": "ncr.wd1/ext_us",
+   "source": "workday",
+   "title": "SW Engineer I",
+   "uid": "workday:ncr.wd1/ext_us:SW-Engineer-I_R0157595",
+   "url": "https://ncr.wd1.myworkdayjobs.com/ext_us/job/ATLANTA-GA-USA/SW-Engineer-I_R0157595",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
    "company": "nvidia",
    "group_key": "e6a410f3de17",
    "location_evidence": "US, CA, Santa Clara",
@@ -22544,7 +23405,7 @@
     "US, CA, Santa Clara"
    ],
    "match_reason": "new grad phrase 'college grad'",
-   "posted_at": 1785794297,
+   "posted_at": 1785794403,
    "posted_from": "workday",
    "region": "US",
    "score": 40,
@@ -22571,7 +23432,7 @@
     "US, CA, Santa Clara"
    ],
    "match_reason": "new grad phrase 'college grad'",
-   "posted_at": 1785794297,
+   "posted_at": 1785794403,
    "posted_from": "workday",
    "region": "US",
    "score": 40,
@@ -22598,7 +23459,7 @@
     "US, CA, Santa Clara"
    ],
    "match_reason": "new grad phrase 'college grad'",
-   "posted_at": 1785794297,
+   "posted_at": 1785794403,
    "posted_from": "workday",
    "region": "US",
    "score": 40,
@@ -22625,7 +23486,7 @@
     "US, CA, Santa Clara"
    ],
    "match_reason": "new grad phrase 'college grad'",
-   "posted_at": 1785794297,
+   "posted_at": 1785794403,
    "posted_from": "workday",
    "region": "US",
    "score": 40,
@@ -22648,7 +23509,7 @@
     "US, CA, Santa Clara"
    ],
    "match_reason": "new grad phrase 'college grad'",
-   "posted_at": 1785794297,
+   "posted_at": 1785794403,
    "posted_from": "workday",
    "region": "US",
    "score": 40,
@@ -22671,7 +23532,7 @@
     "US, CA, Santa Clara"
    ],
    "match_reason": "new grad phrase 'college grad'",
-   "posted_at": 1785794297,
+   "posted_at": 1785794403,
    "posted_from": "workday",
    "region": "US",
    "score": 40,
@@ -22694,7 +23555,7 @@
     "3 Locations"
    ],
    "match_reason": "new grad phrase 'college grad'",
-   "posted_at": 1785794297,
+   "posted_at": 1785794403,
    "posted_from": "workday",
    "region": "UNKNOWN",
    "score": 40,
@@ -22721,7 +23582,7 @@
     "2 Locations"
    ],
    "match_reason": "new grad phrase 'college grad'",
-   "posted_at": 1785794297,
+   "posted_at": 1785794403,
    "posted_from": "workday",
    "region": "UNKNOWN",
    "score": 40,
@@ -22744,7 +23605,7 @@
     "US, CA, Santa Clara"
    ],
    "match_reason": "new grad phrase 'college grad'",
-   "posted_at": 1785794297,
+   "posted_at": 1785794403,
    "posted_from": "workday",
    "region": "US",
    "score": 40,
@@ -22767,7 +23628,7 @@
     "US, CA, Santa Clara"
    ],
    "match_reason": "new grad phrase 'college grad'",
-   "posted_at": 1785794297,
+   "posted_at": 1785794403,
    "posted_from": "workday",
    "region": "US",
    "score": 40,
@@ -22790,7 +23651,7 @@
     "US, CA, Santa Clara"
    ],
    "match_reason": "new grad phrase 'college grad'",
-   "posted_at": 1785794297,
+   "posted_at": 1785794403,
    "posted_from": "workday",
    "region": "US",
    "score": 40,
@@ -22813,7 +23674,7 @@
     "US, CA, Santa Clara"
    ],
    "match_reason": "new grad phrase 'college grad'",
-   "posted_at": 1785794297,
+   "posted_at": 1785794403,
    "posted_from": "workday",
    "region": "US",
    "score": 40,
@@ -22829,56 +23690,6 @@
    "work_auth_evidence": ""
   },
   {
-   "company": "kbr",
-   "duplicate_count": 2,
-   "duplicate_sources": [
-    "workday"
-   ],
-   "group_key": "8a29a944f6ab",
-   "location_evidence": "Beavercreek, Ohio",
-   "locations": [
-    "Beavercreek, Ohio"
-   ],
-   "match_reason": "new grad phrase 'junior'",
-   "posted_at": 1785794296,
-   "posted_from": "workday",
-   "region": "US",
-   "score": 40,
-   "score_reasons": [
-    "-10 posted over a month ago"
-   ],
-   "slug": "kbr.wd5/KBR_Careers",
-   "source": "workday",
-   "title": "Junior Software Engineer",
-   "uid": "workday:kbr.wd5/KBR_Careers:Junior-Software-Engineer_R2122294",
-   "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Ohio/Junior-Software-Engineer_R2122294",
-   "work_auth": "unknown",
-   "work_auth_evidence": ""
-  },
-  {
-   "company": "ncr",
-   "group_key": "c07bd0bcfa08",
-   "location_evidence": "ATLANTA, GA, USA",
-   "locations": [
-    "ATLANTA, GA, USA"
-   ],
-   "match_reason": "level 1 suffix on 'engineer'",
-   "posted_at": 1785794296,
-   "posted_from": "workday",
-   "region": "US",
-   "score": 40,
-   "score_reasons": [
-    "-10 posted over a month ago"
-   ],
-   "slug": "ncr.wd1/ext_us",
-   "source": "workday",
-   "title": "SW Engineer I",
-   "uid": "workday:ncr.wd1/ext_us:SW-Engineer-I_R0157595",
-   "url": "https://ncr.wd1.myworkdayjobs.com/ext_us/job/ATLANTA-GA-USA/SW-Engineer-I_R0157595",
-   "work_auth": "unknown",
-   "work_auth_evidence": ""
-  },
-  {
    "company": "nwis",
    "group_key": "1f95a2b01673",
    "location_evidence": "Annapolis Junction, MD",
@@ -22886,7 +23697,7 @@
     "Annapolis Junction, MD"
    ],
    "match_reason": "level 1 suffix on 'software engineer'",
-   "posted_at": 1785794296,
+   "posted_at": 1785794403,
    "posted_from": "workday",
    "region": "US",
    "score": 40,
@@ -22902,6 +23713,29 @@
    "work_auth_evidence": ""
   },
   {
+   "company": "globusmedical",
+   "group_key": "8afa3c43c8d9",
+   "location_evidence": "Audubon, PA",
+   "locations": [
+    "Audubon, PA"
+   ],
+   "match_reason": "new grad phrase 'associate software engineer'",
+   "posted_at": 1785794401,
+   "posted_from": "workday",
+   "region": "US",
+   "score": 40,
+   "score_reasons": [
+    "-10 posted over a month ago"
+   ],
+   "slug": "globusmedical.wd5/GMED_Careers",
+   "source": "workday",
+   "title": "Associate Software Engineer",
+   "uid": "workday:globusmedical.wd5/GMED_Careers:Associate-Software-Engineer_JR106980-1",
+   "url": "https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Audubon-PA/Associate-Software-Engineer_JR106980-1",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
    "company": "integritymarketing",
    "group_key": "be4cebde29fe",
    "location_evidence": "Urbandale, IA",
@@ -22909,7 +23743,7 @@
     "Urbandale, IA"
    ],
    "match_reason": "level 1 suffix on 'software engineer'",
-   "posted_at": 1785794295,
+   "posted_at": 1785794401,
    "posted_from": "workday",
    "region": "US",
    "score": 40,
@@ -22932,7 +23766,7 @@
     "USA - CO Fort Collins"
    ],
    "match_reason": "level 1 suffix on 'engineer'",
-   "posted_at": 1785794294,
+   "posted_at": 1785794400,
    "posted_from": "workday",
    "region": "US",
    "score": 40,
@@ -22948,52 +23782,6 @@
    "work_auth_evidence": ""
   },
   {
-   "company": "globusmedical",
-   "group_key": "8afa3c43c8d9",
-   "location_evidence": "Audubon, PA",
-   "locations": [
-    "Audubon, PA"
-   ],
-   "match_reason": "new grad phrase 'associate software engineer'",
-   "posted_at": 1785794294,
-   "posted_from": "workday",
-   "region": "US",
-   "score": 40,
-   "score_reasons": [
-    "-10 posted over a month ago"
-   ],
-   "slug": "globusmedical.wd5/GMED_Careers",
-   "source": "workday",
-   "title": "Associate Software Engineer",
-   "uid": "workday:globusmedical.wd5/GMED_Careers:Associate-Software-Engineer_JR106980-1",
-   "url": "https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Audubon-PA/Associate-Software-Engineer_JR106980-1",
-   "work_auth": "unknown",
-   "work_auth_evidence": ""
-  },
-  {
-   "company": "cat",
-   "group_key": "10a30f365874",
-   "location_evidence": "San Diego, California",
-   "locations": [
-    "San Diego, California"
-   ],
-   "match_reason": "new grad phrase 'entry level'",
-   "posted_at": 1785794293,
-   "posted_from": "workday",
-   "region": "US",
-   "score": 40,
-   "score_reasons": [
-    "-10 posted over a month ago"
-   ],
-   "slug": "cat.wd5/solarturbines",
-   "source": "workday",
-   "title": "2027 Entry Level Suppler Technical Engineer ",
-   "uid": "workday:cat.wd5/solarturbines:XMLNAME-2027-Entry-Level-Suppler-Technical-Engineer-_R0000383122",
-   "url": "https://cat.wd5.myworkdayjobs.com/solarturbines/job/San-Diego-California/XMLNAME-2027-Entry-Level-Suppler-Technical-Engineer-_R0000383122",
-   "work_auth": "unknown",
-   "work_auth_evidence": ""
-  },
-  {
    "company": "globalfoundries",
    "group_key": "6812f5e7df41",
    "location_evidence": "Penang",
@@ -23001,7 +23789,7 @@
     "Penang"
    ],
    "match_reason": "new grad phrase 'college graduate'",
-   "posted_at": 1785794293,
+   "posted_at": 1785794400,
    "posted_from": "workday",
    "region": "UNKNOWN",
    "score": 40,
@@ -23024,7 +23812,7 @@
     "USA - Texas - Austin"
    ],
    "match_reason": "new grad phrase 'college graduate'",
-   "posted_at": 1785794293,
+   "posted_at": 1785794400,
    "posted_from": "workday",
    "region": "US",
    "score": 40,
@@ -23047,7 +23835,7 @@
     "TWN - T'ai-wan - Hsinchu"
    ],
    "match_reason": "new grad phrase 'college graduate'",
-   "posted_at": 1785794293,
+   "posted_at": 1785794400,
    "posted_from": "workday",
    "region": "UNKNOWN",
    "score": 40,
@@ -23070,7 +23858,7 @@
     "Richardson"
    ],
    "match_reason": "new grad phrase 'college graduate'",
-   "posted_at": 1785794293,
+   "posted_at": 1785794400,
    "posted_from": "workday",
    "region": "UNKNOWN",
    "score": 40,
@@ -23093,7 +23881,7 @@
     "USA - New York - Malta"
    ],
    "match_reason": "new grad phrase 'college graduate'",
-   "posted_at": 1785794293,
+   "posted_at": 1785794400,
    "posted_from": "workday",
    "region": "US",
    "score": 40,
@@ -23109,6 +23897,29 @@
    "work_auth_evidence": ""
   },
   {
+   "company": "cat",
+   "group_key": "10a30f365874",
+   "location_evidence": "San Diego, California",
+   "locations": [
+    "San Diego, California"
+   ],
+   "match_reason": "new grad phrase 'entry level'",
+   "posted_at": 1785794399,
+   "posted_from": "workday",
+   "region": "US",
+   "score": 40,
+   "score_reasons": [
+    "-10 posted over a month ago"
+   ],
+   "slug": "cat.wd5/solarturbines",
+   "source": "workday",
+   "title": "2027 Entry Level Suppler Technical Engineer ",
+   "uid": "workday:cat.wd5/solarturbines:XMLNAME-2027-Entry-Level-Suppler-Technical-Engineer-_R0000383122",
+   "url": "https://cat.wd5.myworkdayjobs.com/solarturbines/job/San-Diego-California/XMLNAME-2027-Entry-Level-Suppler-Technical-Engineer-_R0000383122",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
    "company": "cadence",
    "duplicate_count": 3,
    "duplicate_sources": [
@@ -23120,7 +23931,7 @@
     "LIVONIA 01"
    ],
    "match_reason": "new grad phrase 'recent grad'",
-   "posted_at": 1785794292,
+   "posted_at": 1785794398,
    "posted_from": "workday",
    "region": "UNKNOWN",
    "score": 40,
@@ -23147,7 +23958,7 @@
     "LIVONIA 01"
    ],
    "match_reason": "new grad phrase 'recent grad'",
-   "posted_at": 1785794292,
+   "posted_at": 1785794398,
    "posted_from": "workday",
    "region": "UNKNOWN",
    "score": 40,
@@ -23170,7 +23981,7 @@
     "Dayton, OH"
    ],
    "match_reason": "new grad phrase 'entry level'",
-   "posted_at": 1785794291,
+   "posted_at": 1785794397,
    "posted_from": "workday",
    "region": "US",
    "score": 40,
@@ -23193,7 +24004,7 @@
     "US, CA, San Jose, Rio Robles"
    ],
    "match_reason": "new grad phrase 'associate engineer'",
-   "posted_at": 1785794290,
+   "posted_at": 1785794396,
    "posted_from": "workday",
    "region": "US",
    "score": 40,
@@ -23216,7 +24027,7 @@
     "Cottage Grove, MN"
    ],
    "match_reason": "level 1 suffix on 'engineer'",
-   "posted_at": 1785794290,
+   "posted_at": 1785794396,
    "posted_from": "workday",
    "region": "US",
    "score": 40,
@@ -23931,6 +24742,27 @@
    "work_auth_evidence": ""
   },
   {
+   "company": "Texas Sports Academy Main",
+   "group_key": "807b4756ee83",
+   "location_evidence": "",
+   "locations": [],
+   "match_reason": "new grad phrase 'junior'",
+   "posted_at": 1785715200,
+   "posted_from": "workable",
+   "region": "UNKNOWN",
+   "score": 40,
+   "score_reasons": [
+    "-10 posted over a month ago"
+   ],
+   "slug": "texas-sports-academy-main",
+   "source": "workable",
+   "title": "Junior AI Software Engineer (Austin, TX)",
+   "uid": "workable:texas-sports-academy-main:CC2A1186D4",
+   "url": "https://apply.workable.com/j/CC2A1186D4",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
    "company": "Micron Technology",
    "duplicate_count": 2,
    "duplicate_sources": [
@@ -23954,27 +24786,6 @@
    "title": "Digital Design Engineer New Grad - Mixed Signal Design Engineer - HBM",
    "uid": "simplify:listings:b670db2d-c732-42ce-9b3c-0ba2e7ebe208",
    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/New-College-Grad---Mixed-Signal-Design-Engineer--HBM_JR110753",
-   "work_auth": "unknown",
-   "work_auth_evidence": ""
-  },
-  {
-   "company": "Texas Sports Academy Main",
-   "group_key": "807b4756ee83",
-   "location_evidence": "",
-   "locations": [],
-   "match_reason": "new grad phrase 'junior'",
-   "posted_at": 1785715200,
-   "posted_from": "workable",
-   "region": "UNKNOWN",
-   "score": 40,
-   "score_reasons": [
-    "-10 posted over a month ago"
-   ],
-   "slug": "texas-sports-academy-main",
-   "source": "workable",
-   "title": "Junior AI Software Engineer (Austin, TX)",
-   "uid": "workable:texas-sports-academy-main:CC2A1186D4",
-   "url": "https://apply.workable.com/j/CC2A1186D4",
    "work_auth": "unknown",
    "work_auth_evidence": ""
   },
@@ -28192,6 +29003,32 @@
    "work_auth_evidence": ""
   },
   {
+   "company": "sigmacomputing",
+   "group_key": "288493870b50",
+   "location_evidence": "San Francisco, CA and New York City, NY",
+   "locations": [
+    "San Francisco, CA and New York City, NY",
+    "San Francisco"
+   ],
+   "match_reason": "new grad phrase 'new grad'",
+   "posted_at": 1775453865,
+   "posted_from": "greenhouse",
+   "region": "US",
+   "score": 13,
+   "score_reasons": [
+    "-35 states it does not sponsor",
+    "-10 posted over a month ago",
+    "+8 direct from the ATS"
+   ],
+   "slug": "sigmacomputing",
+   "source": "greenhouse",
+   "title": "Software Engineer (New Grad Program)",
+   "uid": "greenhouse:sigmacomputing:7690411003",
+   "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7690411003",
+   "work_auth": "closed",
+   "work_auth_evidence": "…be legally authorized to work in the US Visa sponsorship is not available for our new grad positions Location: &nbsp;…"
+  },
+  {
    "company": "DellFor Technologies",
    "duplicate_count": 20,
    "duplicate_sources": [
@@ -28473,6 +29310,78 @@
    "work_auth_evidence": "employer is US-person gated in practice: L3Harris Technologies"
   },
   {
+   "company": "katalyst",
+   "group_key": "a5f2361e5fc2",
+   "location_evidence": "Broomfield, Colorado, United States",
+   "locations": [
+    "Broomfield, Colorado, United States",
+    "Greater Denver Area"
+   ],
+   "match_reason": "new grad phrase 'recent graduate'",
+   "posted_at": 1788217906,
+   "posted_from": "greenhouse",
+   "region": "US",
+   "score": 0,
+   "score_reasons": [
+    "cannot be applied to: citizenship: …o International Traffic in Arms Regulations (ITAR), 22 C.F.R. Parts 120-130, which requires co…"
+   ],
+   "slug": "katalyst",
+   "source": "greenhouse",
+   "title": "Recent Graduate - Software Engineer I",
+   "uid": "greenhouse:katalyst:6176710004",
+   "url": "https://job-boards.greenhouse.io/katalyst/jobs/6176710004",
+   "work_auth": "blocked",
+   "work_auth_evidence": "citizenship: …o International Traffic in Arms Regulations (ITAR), 22 C.F.R. Parts 120-130, which requires co…"
+  },
+  {
+   "company": "katalyst",
+   "group_key": "f27c7d871085",
+   "location_evidence": "Broomfield, Colorado, United States",
+   "locations": [
+    "Broomfield, Colorado, United States",
+    "Greater Denver Area"
+   ],
+   "match_reason": "new grad phrase 'recent graduate'",
+   "posted_at": 1788217281,
+   "posted_from": "greenhouse",
+   "region": "US",
+   "score": 0,
+   "score_reasons": [
+    "cannot be applied to: citizenship: …o International Traffic in Arms Regulations (ITAR), 22 C.F.R. Parts 120-130, which requires co…"
+   ],
+   "slug": "katalyst",
+   "source": "greenhouse",
+   "title": "Recent Graduate - Guidance, Navigation, and Control Engineer ",
+   "uid": "greenhouse:katalyst:6176600004",
+   "url": "https://job-boards.greenhouse.io/katalyst/jobs/6176600004",
+   "work_auth": "blocked",
+   "work_auth_evidence": "citizenship: …o International Traffic in Arms Regulations (ITAR), 22 C.F.R. Parts 120-130, which requires co…"
+  },
+  {
+   "company": "spacex",
+   "group_key": "410af0a715eb",
+   "location_evidence": "Hawthorne, CA",
+   "locations": [
+    "Hawthorne, CA",
+    "Hawthorne, CA"
+   ],
+   "match_reason": "new grad phrase 'new graduate'",
+   "posted_at": 1787932022,
+   "posted_from": "greenhouse",
+   "region": "US",
+   "score": 0,
+   "score_reasons": [
+    "cannot be applied to: employer is US-person gated in practice: spacex"
+   ],
+   "slug": "spacex",
+   "source": "greenhouse",
+   "title": "New Graduate Engineer, Manufacturing (Starshield)",
+   "uid": "greenhouse:spacex:8752547002",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8752547002?gh_jid=8752547002",
+   "work_auth": "blocked",
+   "work_auth_evidence": "employer is US-person gated in practice: spacex"
+  },
+  {
    "company": "L3Harris Technologies",
    "group_key": "9706a7c254f6",
    "location_evidence": "Salt Lake City, UT",
@@ -28636,6 +29545,30 @@
    "url": "https://careers.jhuapl.edu/jobs/59654?icims=1",
    "work_auth": "blocked",
    "work_auth_evidence": "employer is US-person gated in practice: Johns Hopkins Applied Physics Laboratory"
+  },
+  {
+   "company": "freedomconsulting",
+   "group_key": "9a3931a9e0e5",
+   "location_evidence": "Annapolis Junction, MD",
+   "locations": [
+    "Annapolis Junction, MD",
+    "Headquarters  - MD"
+   ],
+   "match_reason": "new grad phrase 'junior'",
+   "posted_at": 1787686055,
+   "posted_from": "greenhouse",
+   "region": "US",
+   "score": 0,
+   "score_reasons": [
+    "cannot be applied to: clearance: …p; UX Design &nbsp; Required Qualifications: TS/SCI with Full Scope Polygraph &nbsp; &nbsp; A ba…"
+   ],
+   "slug": "freedomconsulting",
+   "source": "greenhouse",
+   "title": "Junior Software Engineer 760",
+   "uid": "greenhouse:freedomconsulting:5221705007",
+   "url": "https://job-boards.greenhouse.io/freedomconsulting/jobs/5221705007",
+   "work_auth": "blocked",
+   "work_auth_evidence": "clearance: …p; UX Design &nbsp; Required Qualifications: TS/SCI with Full Scope Polygraph &nbsp; &nbsp; A ba…"
   },
   {
    "company": "General Dynamics Mission Systems",
@@ -29359,6 +30292,30 @@
    "work_auth_evidence": "employer is US-person gated in practice: L3Harris Technologies"
   },
   {
+   "company": "spacex",
+   "group_key": "7258b6d7e204",
+   "location_evidence": "Starbase, TX",
+   "locations": [
+    "Starbase, TX",
+    "Starbase, TX"
+   ],
+   "match_reason": "new grad phrase 'new graduate'",
+   "posted_at": 1787187209,
+   "posted_from": "greenhouse",
+   "region": "US",
+   "score": 0,
+   "score_reasons": [
+    "cannot be applied to: employer is US-person gated in practice: spacex"
+   ],
+   "slug": "spacex",
+   "source": "greenhouse",
+   "title": "New Graduate Engineer, Civil/Structural (Starship)",
+   "uid": "greenhouse:spacex:8731991002",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8731991002?gh_jid=8731991002",
+   "work_auth": "blocked",
+   "work_auth_evidence": "employer is US-person gated in practice: spacex"
+  },
+  {
    "company": "SpaceX",
    "group_key": "62778797c10b",
    "location_evidence": "Hawthorne, CA",
@@ -29380,6 +30337,222 @@
    "url": "https://boards.greenhouse.io/spacex/jobs/8730567002",
    "work_auth": "blocked",
    "work_auth_evidence": "employer is US-person gated in practice: SpaceX"
+  },
+  {
+   "company": "spacex",
+   "group_key": "2bd1d9a189fa",
+   "location_evidence": "Hawthorne, CA",
+   "locations": [
+    "Hawthorne, CA",
+    "Hawthorne, CA"
+   ],
+   "match_reason": "new grad phrase 'new graduate'",
+   "posted_at": 1787167200,
+   "posted_from": "greenhouse",
+   "region": "US",
+   "score": 0,
+   "score_reasons": [
+    "cannot be applied to: employer is US-person gated in practice: spacex"
+   ],
+   "slug": "spacex",
+   "source": "greenhouse",
+   "title": "New Graduate Engineer, Software (Application Software)",
+   "uid": "greenhouse:spacex:8730567002",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8730567002?gh_jid=8730567002",
+   "work_auth": "blocked",
+   "work_auth_evidence": "employer is US-person gated in practice: spacex"
+  },
+  {
+   "company": "spacex",
+   "group_key": "ae40117fdf1b",
+   "location_evidence": "Starbase, TX",
+   "locations": [
+    "Starbase, TX",
+    "Starbase, TX"
+   ],
+   "match_reason": "new grad phrase 'new graduate'",
+   "posted_at": 1787118903,
+   "posted_from": "greenhouse",
+   "region": "US",
+   "score": 0,
+   "score_reasons": [
+    "cannot be applied to: employer is US-person gated in practice: spacex"
+   ],
+   "slug": "spacex",
+   "source": "greenhouse",
+   "title": "New Graduate Engineer, Electrical (Starship)",
+   "uid": "greenhouse:spacex:8729124002",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8729124002?gh_jid=8729124002",
+   "work_auth": "blocked",
+   "work_auth_evidence": "employer is US-person gated in practice: spacex"
+  },
+  {
+   "company": "spacex",
+   "group_key": "726c1f369d4b",
+   "location_evidence": "Starbase, TX",
+   "locations": [
+    "Starbase, TX",
+    "Starbase, TX"
+   ],
+   "match_reason": "new grad phrase 'new graduate'",
+   "posted_at": 1787114894,
+   "posted_from": "greenhouse",
+   "region": "US",
+   "score": 0,
+   "score_reasons": [
+    "cannot be applied to: employer is US-person gated in practice: spacex"
+   ],
+   "slug": "spacex",
+   "source": "greenhouse",
+   "title": "New Graduate Engineer, Software (Starship)",
+   "uid": "greenhouse:spacex:8729121002",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8729121002?gh_jid=8729121002",
+   "work_auth": "blocked",
+   "work_auth_evidence": "employer is US-person gated in practice: spacex"
+  },
+  {
+   "company": "spacex",
+   "group_key": "1ddba9b33e3f",
+   "location_evidence": "Starbase, TX",
+   "locations": [
+    "Starbase, TX",
+    "Starbase, TX"
+   ],
+   "match_reason": "new grad phrase 'new graduate'",
+   "posted_at": 1787114030,
+   "posted_from": "greenhouse",
+   "region": "US",
+   "score": 0,
+   "score_reasons": [
+    "cannot be applied to: employer is US-person gated in practice: spacex"
+   ],
+   "slug": "spacex",
+   "source": "greenhouse",
+   "title": "New Graduate Engineer, Mechanical (Starship)",
+   "uid": "greenhouse:spacex:8729117002",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8729117002?gh_jid=8729117002",
+   "work_auth": "blocked",
+   "work_auth_evidence": "employer is US-person gated in practice: spacex"
+  },
+  {
+   "company": "spacex",
+   "group_key": "a8cf47c99a88",
+   "location_evidence": "Starbase, TX",
+   "locations": [
+    "Starbase, TX",
+    "Starbase, TX"
+   ],
+   "match_reason": "new grad phrase 'new graduate'",
+   "posted_at": 1787114029,
+   "posted_from": "greenhouse",
+   "region": "US",
+   "score": 0,
+   "score_reasons": [
+    "cannot be applied to: employer is US-person gated in practice: spacex"
+   ],
+   "slug": "spacex",
+   "source": "greenhouse",
+   "title": "New Graduate Engineer, Manufacturing (Starship)",
+   "uid": "greenhouse:spacex:8729120002",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8729120002?gh_jid=8729120002",
+   "work_auth": "blocked",
+   "work_auth_evidence": "employer is US-person gated in practice: spacex"
+  },
+  {
+   "company": "spacex",
+   "group_key": "eeb23945d2a9",
+   "location_evidence": "Starbase, TX",
+   "locations": [
+    "Starbase, TX",
+    "Starbase, TX"
+   ],
+   "match_reason": "new grad phrase 'new graduate'",
+   "posted_at": 1787112410,
+   "posted_from": "greenhouse",
+   "region": "US",
+   "score": 0,
+   "score_reasons": [
+    "cannot be applied to: employer is US-person gated in practice: spacex"
+   ],
+   "slug": "spacex",
+   "source": "greenhouse",
+   "title": "New Graduate Engineer, Propulsion (Starship)",
+   "uid": "greenhouse:spacex:8729085002",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8729085002?gh_jid=8729085002",
+   "work_auth": "blocked",
+   "work_auth_evidence": "employer is US-person gated in practice: spacex"
+  },
+  {
+   "company": "darkwolfsolutions",
+   "group_key": "591dee3b599f",
+   "location_evidence": "Chantilly/Herndon, VA",
+   "locations": [
+    "Chantilly/Herndon, VA",
+    "Chantilly, VA"
+   ],
+   "match_reason": "new grad phrase 'junior'",
+   "posted_at": 1787072163,
+   "posted_from": "greenhouse",
+   "region": "US",
+   "score": 0,
+   "score_reasons": [
+    "cannot be applied to: clearance: …ance: Must be a US Citizen holding an active TS/SCI security clearance with an active Full-Scope…"
+   ],
+   "slug": "darkwolfsolutions",
+   "source": "greenhouse",
+   "title": "Junior AI Software Engineer",
+   "uid": "greenhouse:darkwolfsolutions:7886153003",
+   "url": "https://job-boards.greenhouse.io/darkwolfsolutions/jobs/7886153003",
+   "work_auth": "blocked",
+   "work_auth_evidence": "clearance: …ance: Must be a US Citizen holding an active TS/SCI security clearance with an active Full-Scope…"
+  },
+  {
+   "company": "darkwolfsolutions",
+   "group_key": "187580e4a103",
+   "location_evidence": "Chantilly/Herndon, VA",
+   "locations": [
+    "Chantilly/Herndon, VA",
+    "Chantilly, VA"
+   ],
+   "match_reason": "new grad phrase 'junior'",
+   "posted_at": 1787072128,
+   "posted_from": "greenhouse",
+   "region": "US",
+   "score": 0,
+   "score_reasons": [
+    "cannot be applied to: clearance: …ance: Must be a US Citizen holding an active TS/SCI security clearance with an active Full-Scope…"
+   ],
+   "slug": "darkwolfsolutions",
+   "source": "greenhouse",
+   "title": "Junior Data Engineer",
+   "uid": "greenhouse:darkwolfsolutions:7886212003",
+   "url": "https://job-boards.greenhouse.io/darkwolfsolutions/jobs/7886212003",
+   "work_auth": "blocked",
+   "work_auth_evidence": "clearance: …ance: Must be a US Citizen holding an active TS/SCI security clearance with an active Full-Scope…"
+  },
+  {
+   "company": "darkwolfsolutions",
+   "group_key": "6d20a47a61a2",
+   "location_evidence": "Chantilly/Herndon, VA",
+   "locations": [
+    "Chantilly/Herndon, VA",
+    "Chantilly, VA"
+   ],
+   "match_reason": "new grad phrase 'junior'",
+   "posted_at": 1787072100,
+   "posted_from": "greenhouse",
+   "region": "US",
+   "score": 0,
+   "score_reasons": [
+    "cannot be applied to: clearance: …ance: Must be a US Citizen holding an active TS/SCI security clearance with an active Full-Scope…"
+   ],
+   "slug": "darkwolfsolutions",
+   "source": "greenhouse",
+   "title": "Junior DevSecOps Engineer ",
+   "uid": "greenhouse:darkwolfsolutions:7886257003",
+   "url": "https://job-boards.greenhouse.io/darkwolfsolutions/jobs/7886257003",
+   "work_auth": "blocked",
+   "work_auth_evidence": "clearance: …ance: Must be a US Citizen holding an active TS/SCI security clearance with an active Full-Scope…"
   },
   {
    "company": "CACI",
@@ -29579,29 +30752,6 @@
   },
   {
    "company": "SpaceX",
-   "group_key": "8a55d836bc25",
-   "location_evidence": "Redmond, WA",
-   "locations": [
-    "Redmond, WA"
-   ],
-   "match_reason": "new grad phrase 'new graduate'",
-   "posted_at": 1786745896,
-   "posted_from": "simplify",
-   "region": "US",
-   "score": 0,
-   "score_reasons": [
-    "cannot be applied to: employer is US-person gated in practice: SpaceX"
-   ],
-   "slug": "listings",
-   "source": "simplify",
-   "title": "New Graduate Engineer - Silicon Engineering",
-   "uid": "simplify:listings:1e5443b7-9106-40cd-ace8-a45d3bfe8afe",
-   "url": "https://boards.greenhouse.io/spacex/jobs/8706885002",
-   "work_auth": "blocked",
-   "work_auth_evidence": "employer is US-person gated in practice: SpaceX"
-  },
-  {
-   "company": "SpaceX",
    "duplicate_count": 2,
    "duplicate_sources": [
     "simplify"
@@ -29628,6 +30778,177 @@
    "url": "https://boards.greenhouse.io/spacex/jobs/8703552002",
    "work_auth": "blocked",
    "work_auth_evidence": "employer is US-person gated in practice: SpaceX"
+  },
+  {
+   "company": "spacex",
+   "duplicate_count": 3,
+   "duplicate_sources": [
+    "greenhouse"
+   ],
+   "group_key": "f7cf79de7ee1",
+   "location_evidence": "Bastrop, TX",
+   "locations": [
+    "Bastrop, TX",
+    "Bastrop, TX"
+   ],
+   "match_reason": "new grad phrase 'new graduate'",
+   "posted_at": 1786724524,
+   "posted_from": "greenhouse",
+   "region": "US",
+   "score": 0,
+   "score_reasons": [
+    "cannot be applied to: employer is US-person gated in practice: spacex"
+   ],
+   "slug": "spacex",
+   "source": "greenhouse",
+   "title": "New Graduate Engineer, Software  - '26/'27  (Starlink)",
+   "uid": "greenhouse:spacex:8696097002",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8696097002?gh_jid=8696097002",
+   "work_auth": "blocked",
+   "work_auth_evidence": "employer is US-person gated in practice: spacex"
+  },
+  {
+   "company": "spacex",
+   "duplicate_count": 4,
+   "duplicate_sources": [
+    "greenhouse"
+   ],
+   "group_key": "b3e05cdaf4b9",
+   "location_evidence": "Hawthorne, CA",
+   "locations": [
+    "Hawthorne, CA",
+    "Redmond, WA"
+   ],
+   "match_reason": "new grad phrase 'new graduate'",
+   "posted_at": 1786724483,
+   "posted_from": "greenhouse",
+   "region": "US",
+   "score": 0,
+   "score_reasons": [
+    "cannot be applied to: employer is US-person gated in practice: spacex"
+   ],
+   "slug": "spacex",
+   "source": "greenhouse",
+   "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
+   "uid": "greenhouse:spacex:8724316002",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8724316002?gh_jid=8724316002",
+   "work_auth": "blocked",
+   "work_auth_evidence": "employer is US-person gated in practice: spacex"
+  },
+  {
+   "company": "spacex",
+   "duplicate_count": 2,
+   "duplicate_sources": [
+    "greenhouse"
+   ],
+   "group_key": "3dad98077027",
+   "location_evidence": "Redmond, WA",
+   "locations": [
+    "Redmond, WA",
+    "Redmond, WA"
+   ],
+   "match_reason": "new grad phrase 'new graduate'",
+   "posted_at": 1786724439,
+   "posted_from": "greenhouse",
+   "region": "US",
+   "score": 0,
+   "score_reasons": [
+    "cannot be applied to: employer is US-person gated in practice: spacex"
+   ],
+   "slug": "spacex",
+   "source": "greenhouse",
+   "title": "New Graduate Engineer, Mechanical - '26/'27 (Starlink)",
+   "uid": "greenhouse:spacex:8696986002",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8696986002?gh_jid=8696986002",
+   "work_auth": "blocked",
+   "work_auth_evidence": "employer is US-person gated in practice: spacex"
+  },
+  {
+   "company": "spacex",
+   "duplicate_count": 2,
+   "duplicate_sources": [
+    "greenhouse"
+   ],
+   "group_key": "670b556feb6a",
+   "location_evidence": "Bastrop, TX",
+   "locations": [
+    "Bastrop, TX",
+    "Bastrop, TX"
+   ],
+   "match_reason": "new grad phrase 'new graduate'",
+   "posted_at": 1786724372,
+   "posted_from": "greenhouse",
+   "region": "US",
+   "score": 0,
+   "score_reasons": [
+    "cannot be applied to: employer is US-person gated in practice: spacex"
+   ],
+   "slug": "spacex",
+   "source": "greenhouse",
+   "title": "New Graduate Engineer, GNC- '26/'27 (Starlink)",
+   "uid": "greenhouse:spacex:8696124002",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8696124002?gh_jid=8696124002",
+   "work_auth": "blocked",
+   "work_auth_evidence": "employer is US-person gated in practice: spacex"
+  },
+  {
+   "company": "spacex",
+   "duplicate_count": 4,
+   "duplicate_sources": [
+    "greenhouse",
+    "simplify"
+   ],
+   "group_key": "8a55d836bc25",
+   "location_evidence": "Redmond, WA",
+   "locations": [
+    "Redmond, WA",
+    "Irvine, CA",
+    "Palo Alto - 1200",
+    "Redmond, WA"
+   ],
+   "match_reason": "new grad phrase 'new graduate'",
+   "posted_at": 1786724334,
+   "posted_from": "greenhouse",
+   "region": "US",
+   "score": 0,
+   "score_reasons": [
+    "cannot be applied to: employer is US-person gated in practice: spacex"
+   ],
+   "slug": "spacex",
+   "source": "greenhouse",
+   "title": "New Graduate Engineer, Silicon Engineering",
+   "uid": "greenhouse:spacex:8706885002",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8706885002?gh_jid=8706885002",
+   "work_auth": "blocked",
+   "work_auth_evidence": "employer is US-person gated in practice: spacex"
+  },
+  {
+   "company": "spacex",
+   "duplicate_count": 2,
+   "duplicate_sources": [
+    "greenhouse"
+   ],
+   "group_key": "50b1b3d0ab09",
+   "location_evidence": "Redmond, WA",
+   "locations": [
+    "Redmond, WA",
+    "Redmond, WA"
+   ],
+   "match_reason": "new grad phrase 'new graduate'",
+   "posted_at": 1786724281,
+   "posted_from": "greenhouse",
+   "region": "US",
+   "score": 0,
+   "score_reasons": [
+    "cannot be applied to: employer is US-person gated in practice: spacex"
+   ],
+   "slug": "spacex",
+   "source": "greenhouse",
+   "title": "New Graduate Engineer, Electrical - '26/'27 (Starlink)",
+   "uid": "greenhouse:spacex:8696490002",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8696490002?gh_jid=8696490002",
+   "work_auth": "blocked",
+   "work_auth_evidence": "employer is US-person gated in practice: spacex"
   },
   {
    "company": "Johns Hopkins Applied Physics Laboratory",
@@ -29796,6 +31117,30 @@
    "work_auth_evidence": "citizenship: …. Unlimited PTO for all full-time employees. ITAR Requirements To conform to U.S. Government e…"
   },
   {
+   "company": "muonspace",
+   "group_key": "30a7339d07cb",
+   "location_evidence": "San Jose, CA",
+   "locations": [
+    "San Jose, CA",
+    "Muon San Jose"
+   ],
+   "match_reason": "new grad phrase 'entry level'",
+   "posted_at": 1785947550,
+   "posted_from": "greenhouse",
+   "region": "US",
+   "score": 0,
+   "score_reasons": [
+    "cannot be applied to: citizenship: …t or interviews with us, please let us know. ITAR/EAR Requirements This position requires acce…"
+   ],
+   "slug": "muonspace",
+   "source": "greenhouse",
+   "title": "Software Engineer, Entry-Level",
+   "uid": "greenhouse:muonspace:5204498007",
+   "url": "https://job-boards.greenhouse.io/muonspace/jobs/5204498007",
+   "work_auth": "blocked",
+   "work_auth_evidence": "citizenship: …t or interviews with us, please let us know. ITAR/EAR Requirements This position requires acce…"
+  },
+  {
    "company": "Northrop Grumman",
    "group_key": "ed2332469d13",
    "location_evidence": "Melbourne, FL",
@@ -29840,6 +31185,30 @@
    "url": "https://careers-peraton.icims.com/jobs/169377/job?mobile=true&needsRedirect=false",
    "work_auth": "blocked",
    "work_auth_evidence": "employer is US-person gated in practice: Peraton"
+  },
+  {
+   "company": "freedomconsulting",
+   "group_key": "1ffb94335dcd",
+   "location_evidence": "Annapolis Junction, MD",
+   "locations": [
+    "Annapolis Junction, MD",
+    "Headquarters  - MD"
+   ],
+   "match_reason": "new grad phrase 'associate software engineer'",
+   "posted_at": 1785852019,
+   "posted_from": "greenhouse",
+   "region": "US",
+   "score": 0,
+   "score_reasons": [
+    "cannot be applied to: clearance: …nbsp; Docker &nbsp; Required Qualifications: TS/SCI with Polygraph &nbsp; Seven&nbsp;(7)&nbsp;ye…"
+   ],
+   "slug": "freedomconsulting",
+   "source": "greenhouse",
+   "title": "Associate Software Engineer 750",
+   "uid": "greenhouse:freedomconsulting:5203005007",
+   "url": "https://job-boards.greenhouse.io/freedomconsulting/jobs/5203005007",
+   "work_auth": "blocked",
+   "work_auth_evidence": "clearance: …nbsp; Docker &nbsp; Required Qualifications: TS/SCI with Polygraph &nbsp; Seven&nbsp;(7)&nbsp;ye…"
   },
   {
    "company": "Peraton",
@@ -29909,6 +31278,30 @@
    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-315--315-Bob-Heath-Dr--BOB-HEATH/FPGA-Engineer-I_01863350-1",
    "work_auth": "blocked",
    "work_auth_evidence": "employer is US-person gated in practice: RTX"
+  },
+  {
+   "company": "freedomconsulting",
+   "group_key": "811915c8d1ab",
+   "location_evidence": "Annapolis Junction, MD ",
+   "locations": [
+    "Annapolis Junction, MD ",
+    "Headquarters  - MD"
+   ],
+   "match_reason": "new grad phrase 'junior'",
+   "posted_at": 1785426611,
+   "posted_from": "greenhouse",
+   "region": "US",
+   "score": 0,
+   "score_reasons": [
+    "cannot be applied to: clearance: …pment. &nbsp; Required Qualifications:&nbsp; TS/SCI with Polygraph &nbsp; Bachelor's or higher d…"
+   ],
+   "slug": "freedomconsulting",
+   "source": "greenhouse",
+   "title": "Junior Software Engineer 744",
+   "uid": "greenhouse:freedomconsulting:5199607007",
+   "url": "https://job-boards.greenhouse.io/freedomconsulting/jobs/5199607007",
+   "work_auth": "blocked",
+   "work_auth_evidence": "clearance: …pment. &nbsp; Required Qualifications:&nbsp; TS/SCI with Polygraph &nbsp; Bachelor's or higher d…"
   },
   {
    "company": "Northrop Grumman",
@@ -30796,6 +32189,30 @@
    "work_auth_evidence": "employer is US-person gated in practice: RTX"
   },
   {
+   "company": "freedomconsulting",
+   "group_key": "f7640d1237ec",
+   "location_evidence": "Annapolis Junction, MD ",
+   "locations": [
+    "Annapolis Junction, MD ",
+    "Headquarters  - MD"
+   ],
+   "match_reason": "new grad phrase 'junior'",
+   "posted_at": 1784554093,
+   "posted_from": "greenhouse",
+   "region": "US",
+   "score": 0,
+   "score_reasons": [
+    "cannot be applied to: clearance: …aries to build capabilities &nbsp; Required: TS/SCI with Polygraph &nbsp; No&nbsp;demonstratable…"
+   ],
+   "slug": "freedomconsulting",
+   "source": "greenhouse",
+   "title": "Junior Software Engineer 730",
+   "uid": "greenhouse:freedomconsulting:5190737007",
+   "url": "https://job-boards.greenhouse.io/freedomconsulting/jobs/5190737007",
+   "work_auth": "blocked",
+   "work_auth_evidence": "clearance: …aries to build capabilities &nbsp; Required: TS/SCI with Polygraph &nbsp; No&nbsp;demonstratable…"
+  },
+  {
    "company": "CACI",
    "group_key": "f2cbf8a6e902",
    "location_evidence": "Springfield, VA",
@@ -30962,6 +32379,30 @@
    "url": "https://job-boards.greenhouse.io/atek/jobs/5316064008",
    "work_auth": "blocked",
    "work_auth_evidence": "clearance: …environments. Ability to obtain and retain a public trust level clearance is required for consideratio…"
+  },
+  {
+   "company": "spacex",
+   "group_key": "59f8b98ad3a3",
+   "location_evidence": "Cape Canaveral, FL",
+   "locations": [
+    "Cape Canaveral, FL",
+    "Cape Canaveral, FL"
+   ],
+   "match_reason": "new grad phrase 'new graduate'",
+   "posted_at": 1783439464,
+   "posted_from": "greenhouse",
+   "region": "US",
+   "score": 0,
+   "score_reasons": [
+    "cannot be applied to: employer is US-person gated in practice: spacex"
+   ],
+   "slug": "spacex",
+   "source": "greenhouse",
+   "title": "New Graduate Engineer, Mechanical (Cape Canaveral)",
+   "uid": "greenhouse:spacex:8622574002",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8622574002?gh_jid=8622574002",
+   "work_auth": "blocked",
+   "work_auth_evidence": "employer is US-person gated in practice: spacex"
   },
   {
    "company": "astranis",
@@ -35186,6 +36627,54 @@
    "work_auth_evidence": "clearance: …nd location. Active Full Scope Poly level US security clearance. Engineering background, preferred in fields…"
   },
   {
+   "company": "freedomconsulting",
+   "group_key": "5e29e129cb1f",
+   "location_evidence": "Annapolis Junction, MD",
+   "locations": [
+    "Annapolis Junction, MD",
+    "Headquarters  - MD"
+   ],
+   "match_reason": "new grad phrase 'junior'",
+   "posted_at": 1781028185,
+   "posted_from": "greenhouse",
+   "region": "US",
+   "score": 0,
+   "score_reasons": [
+    "cannot be applied to: clearance: …systems. Required Qualifications: An active security clearance with polygraph. A bachelor's degree in a tec…"
+   ],
+   "slug": "freedomconsulting",
+   "source": "greenhouse",
+   "title": "Junior Software Developer 682",
+   "uid": "greenhouse:freedomconsulting:5160107007",
+   "url": "https://job-boards.greenhouse.io/freedomconsulting/jobs/5160107007",
+   "work_auth": "blocked",
+   "work_auth_evidence": "clearance: …systems. Required Qualifications: An active security clearance with polygraph. A bachelor's degree in a tec…"
+  },
+  {
+   "company": "spacex",
+   "group_key": "3184171347ec",
+   "location_evidence": "Starbase, TX",
+   "locations": [
+    "Starbase, TX",
+    "Starbase, TX"
+   ],
+   "match_reason": "new grad phrase 'new graduate'",
+   "posted_at": 1781016701,
+   "posted_from": "greenhouse",
+   "region": "US",
+   "score": 0,
+   "score_reasons": [
+    "cannot be applied to: employer is US-person gated in practice: spacex"
+   ],
+   "slug": "spacex",
+   "source": "greenhouse",
+   "title": "New Graduate Engineer, Launch & Test (Starship)",
+   "uid": "greenhouse:spacex:8578087002",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8578087002?gh_jid=8578087002",
+   "work_auth": "blocked",
+   "work_auth_evidence": "employer is US-person gated in practice: spacex"
+  },
+  {
    "company": "General Dynamics Mission Systems",
    "group_key": "2f60d12d5b50",
    "location_evidence": "Pittsfield, MA",
@@ -35207,6 +36696,30 @@
    "url": "https://careers-gdms.icims.com/jobs/72936/job?mobile=true&needsRedirect=false",
    "work_auth": "blocked",
    "work_auth_evidence": "employer is US-person gated in practice: General Dynamics Mission Systems"
+  },
+  {
+   "company": "freedomconsulting",
+   "group_key": "211407f0a056",
+   "location_evidence": "Annapolis Junction, MD",
+   "locations": [
+    "Annapolis Junction, MD",
+    "Headquarters  - MD"
+   ],
+   "match_reason": "new grad phrase 'junior'",
+   "posted_at": 1780353957,
+   "posted_from": "greenhouse",
+   "region": "US",
+   "score": 0,
+   "score_reasons": [
+    "cannot be applied to: clearance: …environment. Required Qualifications Active TS/SCI clearance with Polygraph required. Bachelor’…"
+   ],
+   "slug": "freedomconsulting",
+   "source": "greenhouse",
+   "title": "Junior Application Developer 675",
+   "uid": "greenhouse:freedomconsulting:5152289007",
+   "url": "https://job-boards.greenhouse.io/freedomconsulting/jobs/5152289007",
+   "work_auth": "blocked",
+   "work_auth_evidence": "clearance: …environment. Required Qualifications Active TS/SCI clearance with Polygraph required. Bachelor’…"
   },
   {
    "company": "RTX",
@@ -35281,6 +36794,30 @@
    "url": "https://jobs.baesystems.com/global/en/job/BAE1US124432BREXTERNAL/Entry-Level-Software-Engineer",
    "work_auth": "blocked",
    "work_auth_evidence": "employer is US-person gated in practice: BAE Systems"
+  },
+  {
+   "company": "spacex",
+   "group_key": "c211e90c499a",
+   "location_evidence": "Hawthorne, CA",
+   "locations": [
+    "Hawthorne, CA",
+    "Hawthorne, CA"
+   ],
+   "match_reason": "new grad phrase 'new graduate'",
+   "posted_at": 1777422548,
+   "posted_from": "greenhouse",
+   "region": "US",
+   "score": 0,
+   "score_reasons": [
+    "cannot be applied to: employer is US-person gated in practice: spacex"
+   ],
+   "slug": "spacex",
+   "source": "greenhouse",
+   "title": "New Graduate Engineer, Propulsion (Raptor)",
+   "uid": "greenhouse:spacex:8517361002",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8517361002?gh_jid=8517361002",
+   "work_auth": "blocked",
+   "work_auth_evidence": "employer is US-person gated in practice: spacex"
   },
   {
    "company": "Anduril",
@@ -35373,27 +36910,105 @@
    "work_auth_evidence": "employer is US-person gated in practice: Leidos"
   },
   {
-   "company": "SpaceX",
-   "group_key": "4a449318e999",
-   "location_evidence": "West Athens, CA",
+   "company": "spacex",
+   "group_key": "bc41a5756dfd",
+   "location_evidence": "McGregor, TX",
    "locations": [
-    "West Athens, CA"
+    "McGregor, TX",
+    "McGregor, TX"
    ],
    "match_reason": "new grad phrase 'new graduate'",
-   "posted_at": 1775254214,
-   "posted_from": "simplify",
+   "posted_at": 1775600126,
+   "posted_from": "greenhouse",
    "region": "US",
    "score": 0,
    "score_reasons": [
-    "cannot be applied to: employer is US-person gated in practice: SpaceX"
+    "cannot be applied to: employer is US-person gated in practice: spacex"
    ],
-   "slug": "listings",
-   "source": "simplify",
-   "title": "New Graduate Engineer - Software",
-   "uid": "simplify:listings:0fefbf48-517f-4009-b5b3-67f2c2eaaf8f",
-   "url": "https://boards.greenhouse.io/spacex/jobs/8493079002",
+   "slug": "spacex",
+   "source": "greenhouse",
+   "title": "New Graduate Engineer, Mechanical",
+   "uid": "greenhouse:spacex:8497524002",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8497524002?gh_jid=8497524002",
    "work_auth": "blocked",
-   "work_auth_evidence": "employer is US-person gated in practice: SpaceX"
+   "work_auth_evidence": "employer is US-person gated in practice: spacex"
+  },
+  {
+   "company": "spacex",
+   "group_key": "f1f624fa437c",
+   "location_evidence": "Hawthorne, CA",
+   "locations": [
+    "Hawthorne, CA",
+    "Hawthorne, CA"
+   ],
+   "match_reason": "new grad phrase 'new graduate'",
+   "posted_at": 1775227785,
+   "posted_from": "greenhouse",
+   "region": "US",
+   "score": 0,
+   "score_reasons": [
+    "cannot be applied to: employer is US-person gated in practice: spacex"
+   ],
+   "slug": "spacex",
+   "source": "greenhouse",
+   "title": "New Graduate Engineer, Mechanical (Starshield)",
+   "uid": "greenhouse:spacex:8493166002",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8493166002?gh_jid=8493166002",
+   "work_auth": "blocked",
+   "work_auth_evidence": "employer is US-person gated in practice: spacex"
+  },
+  {
+   "company": "spacex",
+   "duplicate_count": 2,
+   "duplicate_sources": [
+    "greenhouse",
+    "simplify"
+   ],
+   "group_key": "4a449318e999",
+   "location_evidence": "Hawthorne, CA",
+   "locations": [
+    "Hawthorne, CA",
+    "Hawthorne, CA"
+   ],
+   "match_reason": "new grad phrase 'new graduate'",
+   "posted_at": 1775225236,
+   "posted_from": "greenhouse",
+   "region": "US",
+   "score": 0,
+   "score_reasons": [
+    "cannot be applied to: employer is US-person gated in practice: spacex"
+   ],
+   "slug": "spacex",
+   "source": "greenhouse",
+   "title": "New Graduate Engineer, Software",
+   "uid": "greenhouse:spacex:8493079002",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8493079002?gh_jid=8493079002",
+   "work_auth": "blocked",
+   "work_auth_evidence": "employer is US-person gated in practice: spacex"
+  },
+  {
+   "company": "spacex",
+   "group_key": "e3e5117a8f98",
+   "location_evidence": "Hawthorne, CA",
+   "locations": [
+    "Hawthorne, CA",
+    "Hawthorne, CA"
+   ],
+   "match_reason": "new grad phrase 'new graduate'",
+   "posted_at": 1775061799,
+   "posted_from": "greenhouse",
+   "region": "US",
+   "score": 0,
+   "score_reasons": [
+    "cannot be applied to: employer is US-person gated in practice: spacex"
+   ],
+   "slug": "spacex",
+   "source": "greenhouse",
+   "title": "New Graduate Engineer, Electrical (Starshield)",
+   "uid": "greenhouse:spacex:8483305002",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8483305002?gh_jid=8483305002",
+   "work_auth": "blocked",
+   "work_auth_evidence": "employer is US-person gated in practice: spacex"
   },
   {
    "company": "General Dynamics Mission Systems",
@@ -36274,6 +37889,30 @@
    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-GOLETA-B01--6825-Cortona-Dr--BLDG-B01/XMLNAME-2026-Fulltime---Electronics-Design-Engineer-I---Onsite_01826209",
    "work_auth": "blocked",
    "work_auth_evidence": "employer is US-person gated in practice: RTX"
+  },
+  {
+   "company": "freedomconsulting",
+   "group_key": "cc1551139eff",
+   "location_evidence": "Annapolis Junction, MD",
+   "locations": [
+    "Annapolis Junction, MD",
+    "Headquarters  - MD"
+   ],
+   "match_reason": "new grad phrase 'junior'",
+   "posted_at": 1772543365,
+   "posted_from": "greenhouse",
+   "region": "US",
+   "score": 0,
+   "score_reasons": [
+    "cannot be applied to: clearance: …egree and 0-3 years of experience. An active security clearance. &nbsp; What’s in It for You? Flexible work…"
+   ],
+   "slug": "freedomconsulting",
+   "source": "greenhouse",
+   "title": "Junior Systems Engineer 609",
+   "uid": "greenhouse:freedomconsulting:5067514007",
+   "url": "https://job-boards.greenhouse.io/freedomconsulting/jobs/5067514007",
+   "work_auth": "blocked",
+   "work_auth_evidence": "clearance: …egree and 0-3 years of experience. An active security clearance. &nbsp; What’s in It for You? Flexible work…"
   },
   {
    "company": "Peraton",
