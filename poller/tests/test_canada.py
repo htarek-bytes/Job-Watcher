@@ -276,6 +276,50 @@ class TestWiring(unittest.TestCase):
         for name in canada.DISCOVERY_SOURCES:
             self.assertIn(name, canada.SOURCES)
 
+    def test_a_source_measured_unreachable_is_never_polled(self):
+        # Eluta refuses the TLS handshake. Leaving it in the poll list would
+        # spend a request and three retries on it every single sweep.
+        for name in canada.UNREACHABLE:
+            self.assertNotIn(name, canada.SOURCES)
+            self.assertNotIn(name, canada.DISCOVERY_SOURCES)
+
+    def test_an_unreachable_source_still_has_a_fetcher(self):
+        # It is still probed, so it has to be callable.
+        for name in canada.UNREACHABLE:
+            self.assertIn(name, canada._FETCHERS)
+
+
+class TestHuntSeed(unittest.TestCase):
+    """The seed list is candidates, not confirmed boards. These tests guard the
+    reading of it; `cli.py hunt` is what decides which names are real."""
+
+    def setUp(self):
+        import cli
+        self.cli = cli
+        self.names = cli.load_names(cli.SEED_FILE)
+
+    def test_comments_and_blanks_are_dropped(self):
+        self.assertTrue(all(n and not n.startswith("#") for n in self.names))
+
+    def test_names_are_deduplicated(self):
+        # The same company appears under two regional headings often enough
+        # that duplicates would quietly double the request count.
+        self.assertEqual(len(self.names), len(set(self.names)))
+
+    def test_no_whitespace_in_a_slug(self):
+        self.assertTrue(all(" " not in n for n in self.names))
+
+    def test_workday_is_not_hunted(self):
+        # A Workday key is tenant, data centre and site. None of the three
+        # follow from a company name, so guessing one is guaranteed waste.
+        import sources
+        self.assertNotIn(sources.WORKDAY, self.cli.HUNT_SOURCES)
+
+    def test_every_hunted_source_can_be_fetched_by_name(self):
+        import discover
+        for source in self.cli.HUNT_SOURCES:
+            self.assertIn(source, discover.SOURCES)
+
 
 if __name__ == "__main__":
     unittest.main()

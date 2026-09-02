@@ -371,7 +371,9 @@ def cmd_probe(cfg, args):
     import net
 
     targets = []
-    for name in ca.SOURCES:
+    # Probed includes the ones measured unreachable: the point of a probe is to
+    # find out whether that is still true.
+    for name in ca.SOURCES + ca.UNREACHABLE:
         block = cfg.get("sources", {}).get(name, {})
         keys = block.get("queries") or block.get("collections")
         if name == ca.GETRO and not keys:
@@ -407,7 +409,11 @@ def cmd_probe(cfg, args):
         # only visible by comparing what each one returns.
         if args.candidates:
             for url in ca.probe_urls(name, key)[1:]:
-                probe = net.get(url, headers=ca._BROWSER)
+                # No retries. A candidate is being tested for whether it is the
+                # right path, and repeating a wrong one three times with
+                # backoff is how one probe run took nearly nine minutes.
+                probe = net.get(url, headers=ca._BROWSER, retries=0,
+                                timeout=ca.JOBBANK_TIMEOUT)
                 # Path and query only. These candidates differ in their last
                 # few characters, so a left truncated full URL printed four
                 # identical looking lines.
@@ -469,41 +475,171 @@ def _probe_parse(ca, name, key, body):
     )
 
 
+_LINKISH = re.compile(
+    r"job|emploi|search|recherche|poste|career|carriere|carrière|offre|opening",
+    re.I)
+
+
 def _dump_body(ca, name, key, limit):
-    """Refetch one endpoint raw, so the log shows what the parser had to work
-    with: the markup around a result, and any schema.org block on the page."""
+    """Dump the first URL for this source that returns anything.
+
+    Deliberately not the primary URL. A probe run showed Jobillico and
+    TalentEgg answering 404 and 500 to every search path guessed for them while
+    their front pages returned 322 KB and 185 KB, so dumping the primary just
+    reprinted "0 bytes" and taught nothing. The front page is the thing that
+    names the real search path, in its own navigation.
+    """
     import net
 
-    urls = {
-        ca.JOBBANK: ca.JOBBANK_SEARCH % urllib.parse.quote_plus(key),
-        ca.JOBILLICO: ca.JOBILLICO_SEARCH % urllib.parse.quote_plus(key),
-        ca.TALENTEGG: ca.TALENTEGG_SEARCH % urllib.parse.quote_plus(key),
-        ca.ELUTA: ca.ELUTA_SEARCH % urllib.parse.quote_plus(key),
-    }
     if name == ca.GETRO:
         resp = net.post(ca.GETRO_API % key,
                         json.dumps({"hitsPerPage": 5, "page": 0}).encode("utf-8"),
                         headers={"Content-Type": "application/json"})
     else:
-        resp = net.get(urls[name], headers=ca._BROWSER)
+        resp = None
+        for url in ca.probe_urls(name, key):
+            resp = net.get(url, headers=ca._BROWSER, retries=0)
+            if resp.body:
+                print("dumping %s" % url)
+                break
 
-    print("HTTP %s, %d bytes" % (resp.status, len(resp.body or "")))
-    if not resp.body:
-        print("(empty body: %s)" % resp.error)
+    if not resp or not resp.body:
+        print("HTTP %s, nothing to dump (%s)"
+              % (resp.status if resp else 0, resp.error if resp else "no url"))
         return
+    print("HTTP %s, %d bytes" % (resp.status, len(resp.body or "")))
 
     blocks = ca._LD_BLOCK.findall(resp.body)
     print("schema.org script blocks on page: %d" % len(blocks))
     for block in blocks[:2]:
         print("  LD: " + block.strip()[:600])
 
-    # The first result element, which is what a site specific parser reads.
+    # The paths this site uses for jobs, which is what the search URL has to be
+    # built from. Reading them off the page beats another round of guessing:
+    # six guesses at Jobillico's search path all 404'd.
+    paths = []
+    for href in re.findall(r'href=["\']([^"\'#]+)["\']', resp.body):
+        if not _LINKISH.search(href) or href.startswith(("mailto:", "tel:")):
+            continue
+        path = href.split("?")[0]
+        if path not in paths:
+            paths.append(path)
+    print("\njob-ish link paths on the page (%d):" % len(paths))
+    for path in paths[:40]:
+        print("   " + path[:120])
+
     found = re.search(r"<article\b.*?</article>", resp.body, re.S | re.I)
     if found:
         print("\nfirst <article>:\n" + found.group(0)[:limit])
     else:
         print("\nno <article> element. First %d bytes:\n%s"
               % (limit, resp.body[:limit]))
+
+
+# --------------------------------------------------------------------------
+# hunt
+#
+# The other half of the Canadian gap. Discovery reads slugs out of SimplifyJobs
+# posting URLs, and SimplifyJobs is a US new grad aggregator, so the registry
+# ended up knowing ~900 American boards and almost none here. A Canadian
+# company can be on Greenhouse with an obvious slug and still be invisible,
+# because nothing ever mentioned it.
+#
+# So: take a list of Canadian employers, try each name as a slug on every
+# platform whose board key is a company name, and keep only the ones that
+# answer with real postings. That is guessing, but it is guessing that gets
+# checked before anything is written, which is the difference between this and
+# the 24 hand written slugs that were all dead.
+#
+# Workday is excluded. Its key is tenant plus data centre plus site, and none
+# of those three follow from a company name.
+# --------------------------------------------------------------------------
+
+HUNT_SOURCES = (sources.GREENHOUSE, sources.LEVER, sources.ASHBY,
+                sources.SMARTRECRUITERS, sources.BAMBOOHR, sources.RIPPLING,
+                sources.WORKABLE, sources.RECRUITEE)
+
+SEED_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)),
+                         "canada_seed.txt")
+
+
+def load_names(path):
+    names = []
+    with open(path, encoding="utf-8") as fh:
+        for line in fh:
+            line = line.split("#", 1)[0].strip()
+            if line:
+                names.append(line)
+    # Preserve order but drop repeats, so the same name in two regional
+    # sections does not cost a second round of requests.
+    return list(dict.fromkeys(names))
+
+
+def cmd_hunt(cfg, args):
+    names = load_names(args.names)
+    matcher = Matcher(cfg)
+    targets = [(source, name) for name in names for source in HUNT_SOURCES]
+    print("Testing %d names across %d platforms: %d boards to try.\n"
+          % (len(names), len(HUNT_SOURCES), len(targets)))
+
+    with concurrent.futures.ThreadPoolExecutor(max_workers=FETCH_WORKERS) as pool:
+        fetched = list(pool.map(
+            lambda t: (t, sources.fetch(t[0], t[1], cfg)), targets))
+
+    found = []
+    for (source, name), result in fetched:
+        if not result.ok or not result.jobs:
+            continue
+        matched = sum(1 for j in result.jobs if matcher.matches(j.get("title", "")))
+        # A board's location mix is the thing worth knowing here: a slug that
+        # answers but only ever posts in the US adds nothing this registry did
+        # not already have.
+        canadian = 0
+        for job in result.jobs:
+            region, _ = locations.classify(job.get("locations"))
+            if region == locations.CA:
+                canadian += 1
+        found.append((source, name, result.count, canadian, matched))
+
+    found.sort(key=lambda r: (-r[3], -r[4], r[0], r[1]))
+    for source, name, count, canadian, matched in found:
+        print("  LIVE  %-16s %-24s %4d postings, %3d in Canada, %2d match"
+              % (source, name, count, canadian, matched))
+
+    live_ca = [r for r in found if r[3] > 0]
+    print("\n" + "=" * 72)
+    print("%d of %d tried boards answered with postings." % (len(found), len(targets)))
+    print("%d of those post in Canada." % len(live_ca))
+    print("=" * 72)
+
+    if args.write and found:
+        registry = state.load_slugs()
+        now = int(time.time())
+        added = 0
+        for source, name, _c, _ca, _m in found:
+            block = registry.setdefault(source, {})
+            if name in block:
+                continue
+            block[name] = {"first_seen": now, "last_seen": now,
+                           "origin": "hunted-ca"}
+            added += 1
+        state.save_slugs(registry)
+        print("\nAdded %d newly confirmed boards to data/slugs.json." % added)
+    elif found:
+        print("\nNothing written. Re-run with --write to add these to the registry.")
+
+    summary = os.environ.get("GITHUB_STEP_SUMMARY")
+    if summary:
+        with open(summary, "a", encoding="utf-8") as fh:
+            fh.write("## Canadian board hunt\n\n")
+            fh.write("**%d live boards, %d of them posting in Canada, from %d tried.**\n\n"
+                     % (len(found), len(live_ca), len(targets)))
+            fh.write("| source | slug | postings | in Canada | match filters |\n"
+                     "|---|---|---|---|---|\n")
+            for source, name, count, canadian, matched in found:
+                fh.write("| %s | `%s` | %d | %d | %d |\n"
+                         % (source, name, count, canadian, matched))
+    return 0
 
 
 # --------------------------------------------------------------------------
@@ -638,6 +774,12 @@ def main(argv=None):
     pro.add_argument("--candidates", action="store_true",
                      help="for a source that failed, try every known URL shape")
 
+    hunt = sub.add_parser(
+        "hunt", help="test Canadian company names as slugs on every platform")
+    hunt.add_argument("--names", default=SEED_FILE)
+    hunt.add_argument("--write", action="store_true",
+                      help="add the boards that answered to data/slugs.json")
+
     sub.add_parser("seed", help="mark everything currently open as seen")
     sub.add_parser("notify-test", help="send one push to prove ntfy is wired up")
 
@@ -652,6 +794,7 @@ def main(argv=None):
         "verify": cmd_verify,
         "discover": cmd_discover,
         "probe": cmd_probe,
+        "hunt": cmd_hunt,
         "notify-test": cmd_notify_test,
         "seed": cmd_seed,
         "run": cmd_run,

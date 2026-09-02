@@ -36,11 +36,21 @@ ELUTA = "eluta"
 GETRO = "getro"
 
 # Sources that answer a national query rather than a single company board.
-SOURCES = (JOBBANK, JOBILLICO, TALENTEGG, ELUTA, GETRO)
+#
+# Eluta is not in this list and is not polled. Two probe runs both got
+# SSLV3_ALERT_HANDSHAKE_FAILURE from it, which is its server refusing the TLS
+# handshake of a non browser client, not a wrong path, so no URL fixes it. The
+# fetcher and its parser stay because the failure is in the transport and may
+# not be permanent, but nothing calls them until a probe says otherwise.
+SOURCES = (JOBBANK, JOBILLICO, TALENTEGG, GETRO)
 
 # Sources whose results carry a link to the employer's own ATS, so their
 # postings are worth running discovery over.
-DISCOVERY_SOURCES = (JOBBANK, ELUTA, GETRO)
+DISCOVERY_SOURCES = (JOBBANK, GETRO)
+
+# Probed, but never polled. Kept separate so a dead source cannot quietly cost
+# a request on every sweep.
+UNREACHABLE = (ELUTA,)
 
 _BROWSER = {
     # These are HTML pages meant for a browser. Asking for application/json,
@@ -208,10 +218,17 @@ def _clean(text):
     return sources.strip_html(text or "").strip(" \t\r\n-|")
 
 
+# Job Bank is slow. A measured run returned 284 KB in a shade under the default
+# 25 second timeout, and the next run timed out on all five requests, so the
+# default was not a margin, it was a coin toss. Every source is fetched on its
+# own thread, so one slow board costs nothing but its own thread.
+JOBBANK_TIMEOUT = 60
+
+
 def fetch_jobbank(query, etag=None):
     res = sources.SourceResult(JOBBANK, query)
     url = JOBBANK_SEARCH % urllib.parse.quote_plus(query)
-    resp = _http.get(url, headers=_BROWSER, etag=etag)
+    resp = _http.get(url, headers=_BROWSER, etag=etag, timeout=JOBBANK_TIMEOUT)
     res.status, res.seconds = resp.status, resp.seconds
     if not resp.ok:
         res.error = resp.error
