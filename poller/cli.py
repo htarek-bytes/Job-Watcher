@@ -77,7 +77,13 @@ def select_targets(cfg, registry, health):
             hot.append(target)
             continue
         entry = registry.get(source, {}).get(key, {})
-        if entry.get("origin") == "config" or (
+        # "hunted-ca" boards are hot for the same reason config ones are: they
+        # were put there deliberately. They are the 75 Canadian employers the
+        # hunt confirmed, and leaving them in a rotation that takes about
+        # twelve minutes to come round would mean the roles this tool was
+        # widened to catch are the ones it sees last. They are conditional
+        # requests, so an unchanged board costs a 304 and no payload.
+        if entry.get("origin") in ("config", "hunted-ca") or (
             entry.get("last_match") and now - entry["last_match"] < hot_seconds
         ):
             hot.append(target)

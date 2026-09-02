@@ -474,6 +474,52 @@ class TestSourceSuppliedSignal(unittest.TestCase):
             self.assertIsNotNone(self.m.early_career_query(query), query)
 
 
+class TestRotation(unittest.TestCase):
+    """A hunted Canadian board must not sit in the cold rotation."""
+
+    def setUp(self):
+        import os
+        import tomllib
+        import cli
+        self.cli = cli
+        here = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+        with open(os.path.join(here, "config.toml"), "rb") as fh:
+            self.cfg = tomllib.load(fh)
+
+    def _polled(self, registry):
+        _, targets = self.cli.select_targets(self.cfg, registry, {})
+        return set(targets)
+
+    def test_a_hunted_board_is_polled_every_sweep(self):
+        registry = {"greenhouse": {"poka": {"origin": "hunted-ca"}}}
+        self.assertIn(("greenhouse", "poka"), self._polled(registry))
+
+    def test_a_discovered_board_still_rotates(self):
+        # 900 discovered boards polled every sweep would be abuse, which is
+        # what the rotation exists to prevent. Only the deliberate ones are
+        # exempt.
+        registry = {"greenhouse": {"x%d" % i: {"origin": "discovered"}
+                                   for i in range(400)}}
+        polled = self._polled(registry)
+        greenhouse = [t for t in polled if t[0] == "greenhouse"]
+        self.assertLess(len(greenhouse), 400)
+
+    def test_a_hunted_board_is_hot_even_with_many_cold_ones(self):
+        registry = {"greenhouse": dict(
+            {"x%d" % i: {"origin": "discovered"} for i in range(400)},
+            poka={"origin": "hunted-ca"})}
+        self.assertIn(("greenhouse", "poka"), self._polled(registry))
+
+    def test_the_canadian_aggregators_are_never_rotated(self):
+        polled = self._polled({})
+        for source in canada.SOURCES:
+            block = self.cfg.get("sources", {}).get(source, {})
+            if not block.get("enabled"):
+                continue
+            for key in block.get("queries", []):
+                self.assertIn((source, str(key)), polled)
+
+
 class TestHuntSeed(unittest.TestCase):
     """The seed list is candidates, not confirmed boards. These tests guard the
     reading of it; `cli.py hunt` is what decides which names are real."""
