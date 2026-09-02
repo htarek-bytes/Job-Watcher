@@ -1,6 +1,6 @@
 {
  "count": 448,
- "generated_at": 1788322770,
+ "generated_at": 1788323785,
  "jobs": [
   {
    "company": "Enercon Services",
@@ -42,28 +42,6 @@
    "title": "Safety Analysis Engineer - Early Career",
    "uid": "simplify:listings:c1d4dc63-07f0-4311-aa1c-e9e89586839f",
    "url": "https://explore.enercon.com/jobs/4283?icims=1",
-   "work_auth": "unknown",
-   "work_auth_evidence": ""
-  },
-  {
-   "company": "Valon",
-   "location_evidence": "SF",
-   "locations": [
-    "SF",
-    "NYC"
-   ],
-   "match_reason": "new grad phrase 'new grad'",
-   "posted_at": 1788302094,
-   "region": "US",
-   "score": 70,
-   "score_reasons": [
-    "+20 posted in the last 6h"
-   ],
-   "slug": "listings",
-   "source": "simplify",
-   "title": "Software Engineer New Grad",
-   "uid": "simplify:listings:99404c39-7108-4b92-89ba-eb3166763456",
-   "url": "https://jobs.ashbyhq.com/Valon/e08ad09a-4408-4210-8c1b-da6510f83324/application?embed=true",
    "work_auth": "unknown",
    "work_auth_evidence": ""
   },
@@ -112,6 +90,28 @@
    "title": "Software Developer New Grad - Integrations",
    "uid": "simplify:listings:c58e3a3d-ab52-4b49-a119-97d65df470fb",
    "url": "https://www.ixl.com/company/jobs?gh_jid=8765751002",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "Valon",
+   "location_evidence": "SF",
+   "locations": [
+    "SF",
+    "NYC"
+   ],
+   "match_reason": "new grad phrase 'new grad'",
+   "posted_at": 1788302094,
+   "region": "US",
+   "score": 64,
+   "score_reasons": [
+    "+14 posted today"
+   ],
+   "slug": "listings",
+   "source": "simplify",
+   "title": "Software Engineer New Grad",
+   "uid": "simplify:listings:99404c39-7108-4b92-89ba-eb3166763456",
+   "url": "https://jobs.ashbyhq.com/Valon/e08ad09a-4408-4210-8c1b-da6510f83324/application?embed=true",
    "work_auth": "unknown",
    "work_auth_evidence": ""
   },
@@ -1696,10 +1696,6 @@
   },
   {
    "company": "The Walt Disney Company",
-   "duplicate_count": 2,
-   "duplicate_sources": [
-    "simplify"
-   ],
    "location_evidence": "Orlando, FL",
    "locations": [
     "Orlando, FL"

@@ -1,0 +1,33 @@
+# What your CV already claims. Used to work out the gap between what you say
+# and what the roles you match actually ask for.
+#
+# Prefilled from Tarik_Hireche_SWE_NewGrad. Keep it honest: only list what you
+# would defend in an interview. A skill added here disappears from the "missing"
+# report, so padding it makes the tool lie to you.
+
+[profile]
+target = "Software Engineer, New Grad — backend, systems"
+graduating = "2026-12"
+
+technical = [
+  "Java", "JavaScript", "Python", "C", "C++", "C#", "SQL",
+  "Spring", "Node.js", "React", "Next.js", "REST",
+  "PostgreSQL", "Docker", "Git", "CI/CD", "Linux",
+  "Testing", "Observability", "Machine learning",
+]
+
+# Things on your CV that a job description phrases differently, so the matcher
+# does not report them as missing.
+also_known = [
+  "Bash", "Nginx", "Prometheus", "Grafana", "JUnit", "Mockito", "PyTorch",
+  "GitHub Actions", "Docker Compose", "Spring Data JPA", "GDB", "strace",
+  "Concurrency", "Operating systems", "Networking",
+  "Data structures & algorithms",
+]
+
+[lint]
+# Measured from a reference CV that earned interviews at Amazon, Microsoft and
+# IBM: 9 bullets, median 28 words, max 30, every one containing a number and
+# ending on the outcome.
+min_words = 20
+max_words = 32

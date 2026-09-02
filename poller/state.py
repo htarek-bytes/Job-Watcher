@@ -153,3 +153,21 @@ def closure_summary(closed):
         "p10_hours": round(lifetimes[len(lifetimes) // 10], 1),
         "p90_hours": round(lifetimes[9 * len(lifetimes) // 10], 1),
     }
+
+
+SKILLS = os.path.join(DATA, "skills.json")
+
+
+def save_skills(rows, described_roles, total_roles):
+    """What the matched roles keep asking for, and whether the CV says it.
+
+    `described_roles` matters: SimplifyJobs ships no description text, so the
+    percentages are over the roles that actually had one, not the whole feed.
+    Reporting it any other way would understate every skill.
+    """
+    _write(SKILLS, {
+        "updated_at": int(time.time()),
+        "roles_with_descriptions": described_roles,
+        "roles_total": total_roles,
+        "skills": rows,
+    })

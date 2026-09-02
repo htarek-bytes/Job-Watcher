@@ -257,6 +257,39 @@ guessed at. Sponsorship signal, freshness, direct-ATS sourcing, and Canadian
 location push a role up; staffing firms, no-sponsorship statements, heavy
 reposting, and age push it down.
 
+## Resume support
+
+Greenhouse, Lever and Ashby return full job descriptions. The sweep already
+read them for work authorization and then threw them away; it now also answers
+"what do these roles keep asking for that my CV does not say?"
+
+```bash
+python poller/cli.py resume-lint cv.txt   # or cv.pdf, if pdfminer.six is installed
+```
+
+- `data/skills.json` — every skill ranked by how many matched roles ask for it,
+  flagged against `poller/profile.toml`. This is the "what to put on my CV"
+  answer, and the dashboard renders it as a panel.
+- `missing_keywords` per role — what to tailor before applying to that one.
+- `resume-lint` — checks bullets against a measured pattern: 20-32 words, a
+  number present, the number at the end, a strong past-tense opener, no first
+  person.
+
+The lint thresholds are measured, not invented. A reference CV that earned
+interviews at Amazon, Microsoft and IBM ran 9 bullets: **median 28 words, max
+30, 100% containing a number, 100% ending on the outcome.**
+
+**Keep `profile.toml` honest.** A skill listed there disappears from the
+"missing" report, so padding it makes the tool lie to you.
+
+This deliberately does not write bullets for you. A generated bullet is either
+generic or a claim you cannot defend in an interview, and both are worse than
+the blank line already there.
+
+Percentages are over roles that actually carried a description, not the whole
+feed. SimplifyJobs ships none, so this stays empty until the ATS boards are
+verified and polling.
+
 ## Does speed actually matter?
 
 `closures.json` records how long each role stayed open, and `health.json`

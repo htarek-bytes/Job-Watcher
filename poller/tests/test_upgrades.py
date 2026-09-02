@@ -237,3 +237,45 @@ class AgainstRealFeed(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main(verbosity=2)
+
+
+class NotModifiedCarryForward(unittest.TestCase):
+    """A 304 means unchanged, not empty.
+
+    Treating them the same wiped the committed feed on the second sweep: the
+    first run stored an ETag, the second got 304, and jobs.json was rewritten
+    with zero roles.
+    """
+
+    def test_aggregator_carries_forward_despite_a_slug_mismatch(self):
+        """The bug inside the fix.
+
+        The aggregator is configured as "SimplifyJobs/New-Grad-Positions" but
+        stamps its jobs with slug "listings". Keying the carry map on the job
+        slug and looking it up by the config key silently found nothing, so the
+        304 path still emptied the feed.
+        """
+        import cli
+        previous = [{"uid": "a", "source": "simplify", "slug": "listings"},
+                    {"uid": "b", "source": "greenhouse", "slug": "stripe"}]
+        cfg = dict(CFG)
+        cfg["sources"] = {"simplify": {"enabled": True,
+                                       "repo": "SimplifyJobs/New-Grad-Positions"}}
+        health = {"sources": {"simplify:SimplifyJobs/New-Grad-Positions":
+                              {"etag": "x"}}}
+
+        import sources as srcmod
+        original = srcmod.fetch
+
+        def unchanged(source, key, config, etag=None):
+            res = srcmod.SourceResult(source, key)
+            res.ok, res.not_modified, res.status = True, True, 304
+            return res
+
+        srcmod.fetch = unchanged
+        try:
+            jobs, _ = cli.sweep(cfg, health, {}, quiet=True, previous=previous)
+        finally:
+            srcmod.fetch = original
+        self.assertEqual(len(jobs), 1, "aggregator jobs must survive a 304")
+        self.assertEqual(jobs[0]["uid"], "a")
