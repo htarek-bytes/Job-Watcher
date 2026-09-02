@@ -258,6 +258,34 @@ def cmd_discover(cfg, args):
 
 
 # --------------------------------------------------------------------------
+# notify-test
+# --------------------------------------------------------------------------
+
+def cmd_notify_test(cfg, args):
+    """Send one push, so the ntfy setup can be proved without waiting for a
+    genuinely new role to appear."""
+    notifier = Notifier(cfg)
+    if not notifier.topic:
+        print("NTFY_TOPIC is not set. Add it as an Actions secret.")
+        return 2
+
+    ok = notifier.job({
+        "company": "Job watcher",
+        "title": "Notifications are working",
+        "locations": ["this is a test push, not a real role"],
+        "region": "TEST",
+        "source": "notify-test",
+        "url": "https://htarek.systems/jobs",
+    })
+    if ok:
+        print("Sent. If nothing arrives, the topic in the secret does not match "
+              "the one the phone is subscribed to.")
+        return 0
+    print("Send failed. See the error above.")
+    return 1
+
+
+# --------------------------------------------------------------------------
 # verify
 # --------------------------------------------------------------------------
 
@@ -439,6 +467,7 @@ def main(argv=None):
                      help="also verify the ~360 auto-discovered boards")
     sub.add_parser("discover", help="mine ATS slugs from the SimplifyJobs feed")
     sub.add_parser("seed", help="mark everything currently open as seen")
+    sub.add_parser("notify-test", help="send one push to prove ntfy is wired up")
 
     run = sub.add_parser("run", help="one sweep")
     run.add_argument("--dry-run", action="store_true")
@@ -450,6 +479,7 @@ def main(argv=None):
     return {
         "verify": cmd_verify,
         "discover": cmd_discover,
+        "notify-test": cmd_notify_test,
         "seed": cmd_seed,
         "run": cmd_run,
     }[args.command](cfg, args)

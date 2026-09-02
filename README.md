@@ -19,16 +19,22 @@ GitHub Actions (cron */5)          the only thing that runs code
 GitHub Pages (docs/)  fetches data/jobs.json and renders it. Display only.
 ```
 
-**The live dashboard is <https://htarek.systems/jobs>**, served from the
-portfolio repo. That page is public and this repo is private, so the sweep
-publishes only `jobs.json` and `health.json` to the public
-[`job-watcher-data`](https://github.com/htarek-bytes/job-watcher-data) repo and
-the page fetches from there. The slugs this watcher targets and its sweep
-history are never published.
+**The live dashboard is <https://htarek.systems/jobs>.** This repo is public, so
+the dashboard reads `data/jobs.json` and `data/health.json` straight from it
+over raw.githubusercontent, which sends `Access-Control-Allow-Origin: *`. There
+is no separate data repo and no write token: one less secret, and one less
+thing to expire silently.
 
-That publish step needs a `DATA_REPO_TOKEN` secret: a fine-grained PAT with
-**Contents: read and write** scoped to `job-watcher-data` only. Without it the
-sweep still runs and still notifies, but the dashboard goes stale.
+Public also matters for cost. On a private repo GitHub Free gives 2,000 Actions
+minutes a month, and this workflow's cadence burns roughly 1,440 minutes a day,
+so the quota would be gone in under two days. Public repos are unlimited.
+
+## Secrets
+
+One, `NTFY_TOPIC`: the ntfy.sh topic your phone subscribes to. Anyone who knows
+it can read your alerts, so treat it as a password. Prove it works with
+Actions -> poll -> Run workflow -> mode `notify-test`, which sends a single
+push and reports what happened.
 
 ## Cadence
 

@@ -24,7 +24,7 @@ on:
       mode:
         description: "run = normal sweep, seed = mark everything seen without notifying"
         type: choice
-        options: [run, seed]
+        options: [run, seed, notify-test]
         default: run
       dry_run:
         description: "print notifications instead of sending them"
@@ -72,7 +72,9 @@ jobs:
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          if [ "${{ inputs.mode }}" = "seed" ]; then
+          if [ "${{ inputs.mode }}" = "notify-test" ]; then
+            python poller/cli.py notify-test
+          elif [ "${{ inputs.mode }}" = "seed" ]; then
             python poller/cli.py seed
           elif [ "${{ inputs.dry_run }}" = "true" ]; then
             python poller/cli.py run --dry-run
@@ -99,31 +101,3 @@ jobs:
           done
           echo "could not push state after 4 attempts" >&2
           exit 1
-
-      # The dashboard on htarek.systems is a public static page and cannot read
-      # a private repo. Only the resulting feed is published; the company slugs
-      # this watcher targets and its sweep history stay in here.
-      - name: Publish feed to the public data repo
-        if: ${{ inputs.dry_run != 'true' }}
-        env:
-          DATA_REPO_TOKEN: ${{ secrets.DATA_REPO_TOKEN }}
-        run: |
-          if [ -z "$DATA_REPO_TOKEN" ]; then
-            echo "DATA_REPO_TOKEN not set; skipping publish (dashboard will go stale)"
-            exit 0
-          fi
-          rm -rf /tmp/feed
-          git clone --depth 1 \
-            "https://x-access-token:${DATA_REPO_TOKEN}@github.com/htarek-bytes/job-watcher-data.git" \
-            /tmp/feed
-          cp data/jobs.json data/health.json /tmp/feed/
-          cd /tmp/feed
-          git config user.name  "job-watcher"
-          git config user.email "job-watcher@users.noreply.github.com"
-          git add jobs.json health.json
-          if git diff --cached --quiet; then
-            echo "feed unchanged"
-            exit 0
-          fi
-          git commit -m "feed: $(date -u +%Y-%m-%dT%H:%MZ)"
-          git push
