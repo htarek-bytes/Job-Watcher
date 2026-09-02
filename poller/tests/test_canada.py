@@ -407,6 +407,73 @@ class TestSearchUrls(unittest.TestCase):
                              canada.search_url(source, "x"))
 
 
+class TestSourceSuppliedSignal(unittest.TestCase):
+    """Job Bank shows the NOC title, so a req the employer called "Junior
+    Software Developer" is listed as plain "software developer". A measured run
+    searched "junior software developer" and got 25 postings, not one of which
+    had a title that could clear the fourth gate. The search term is the
+    evidence in that case, and these tests pin how far it is trusted."""
+
+    def setUp(self):
+        import os
+        import tomllib
+        from matcher import Matcher
+        here = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+        with open(os.path.join(here, "config.toml"), "rb") as fh:
+            self.m = Matcher(tomllib.load(fh))
+
+    def test_a_bare_noc_title_fails_on_its_own(self):
+        self.assertFalse(self.m.matches("software developer"))
+
+    def test_the_search_term_can_stand_in(self):
+        self.assertTrue(self.m.matches("software developer", "junior software developer"))
+
+    def test_the_reason_says_it_came_from_the_search(self):
+        _, reason = self.m.evaluate("software developer", "junior developer")
+        self.assertIn("early career search", reason)
+
+    def test_a_signal_does_not_bypass_the_exclusions(self):
+        # A senior req can surface from a keyword search because its
+        # description mentions junior developers. The title still decides.
+        self.assertFalse(self.m.matches("senior software developer", "junior developer"))
+        self.assertFalse(self.m.matches("software development manager", "junior developer"))
+
+    def test_a_signal_does_not_bypass_the_seniority_suffix(self):
+        self.assertFalse(self.m.matches("software developer iii", "junior developer"))
+
+    def test_a_signal_does_not_bypass_the_role_gate(self):
+        self.assertFalse(self.m.matches("registered nurse", "junior developer"))
+
+    def test_only_a_query_carrying_a_signal_counts(self):
+        self.assertIsNone(self.m.early_career_query("software developer"))
+        self.assertEqual(self.m.early_career_query("junior programmer"), "junior")
+
+    def test_an_early_career_source_still_loses_internships(self):
+        # TalentEgg lists internships and summer roles alongside new grad ones.
+        # The source signal replaces the fourth gate, never the exclusions.
+        signal = canada.EARLY_CAREER_SOURCES[canada.TALENTEGG]
+        self.assertTrue(self.m.matches("Software Developer", signal))
+        self.assertFalse(self.m.matches("Software Developer Intern", signal))
+        self.assertFalse(self.m.matches("Software Developer Co-op", signal))
+
+    def test_only_talentegg_vouches_for_every_posting(self):
+        # Job Bank carries every kind of role, so it gets a signal per query,
+        # not a blanket one.
+        self.assertNotIn(canada.JOBBANK, canada.EARLY_CAREER_SOURCES)
+        self.assertNotIn(canada.JOBILLICO, canada.EARLY_CAREER_SOURCES)
+
+    def test_every_jobbank_query_in_config_carries_a_signal(self):
+        # A query without one contributes nothing but requests, because no NOC
+        # title will ever clear the gate on its own.
+        import os
+        import tomllib
+        here = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+        with open(os.path.join(here, "config.toml"), "rb") as fh:
+            cfg = tomllib.load(fh)
+        for query in cfg["sources"]["jobbank"]["queries"]:
+            self.assertIsNotNone(self.m.early_career_query(query), query)
+
+
 class TestHuntSeed(unittest.TestCase):
     """The seed list is candidates, not confirmed boards. These tests guard the
     reading of it; `cli.py hunt` is what decides which names are real."""

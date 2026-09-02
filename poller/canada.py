@@ -64,6 +64,17 @@ DISCOVERY_SOURCES = (GETRO,)
 # a request on every sweep.
 UNREACHABLE = (ELUTA,)
 
+# Sources where every posting is early career by construction, so the matcher's
+# fourth gate is already satisfied before it reads the title. TalentEgg
+# describes itself as a site "for Canadian students and new graduates seeking
+# internships, entry level jobs and summer jobs", and carries nothing else.
+# Its titles are ordinary job titles, so without this it would be fetched on
+# every sweep and matched on almost never.
+#
+# This only stands in for the fourth gate. The exclusions still run on the real
+# title, which is what removes the internships and summer roles it also lists.
+EARLY_CAREER_SOURCES = {TALENTEGG: "TalentEgg lists new grad roles only"}
+
 _BROWSER = {
     # These are HTML pages meant for a browser. Asking for application/json,
     # which net.get does by default, gets a 406 from some of them.

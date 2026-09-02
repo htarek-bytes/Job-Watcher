@@ -91,9 +91,28 @@ class Matcher:
         self.exclude_keywords = [normalize(k) for k in m["exclude_keywords"]]
         self.max_level = m.get("max_level", ENTRY_LEVEL)
 
-    def evaluate(self, title):
+    def early_career_query(self, text):
+        """Whether a search term itself carries an early career signal."""
+        norm = strip_years(normalize(text))
+        return next((k for k in self.new_grad_phrases
+                     if contains_phrase(norm, k)), None)
+
+    def evaluate(self, title, signal=None):
         """Return (matched, reason). The reason is kept for the dashboard and
-        for debugging a miss without re-running the poller."""
+        for debugging a miss without re-running the poller.
+
+        `signal` is an early career signal the SOURCE vouches for rather than
+        one in the title. Job Bank is why it exists: it displays the NOC title,
+        so a req the employer called "Junior Software Developer" is listed as
+        plain "software developer" and fails the fourth gate every time. A
+        measured run searched "junior software developer" and got back 25
+        postings not one of which had a qualifying title.
+
+        It only ever substitutes for the fourth gate. The exclusions and the
+        seniority suffix are still read off the real title, so a senior req
+        that surfaced because its description mentions junior developers is
+        still thrown out.
+        """
         text = strip_years(normalize(title))
         if not text:
             return False, "empty title"
@@ -117,8 +136,12 @@ class Matcher:
             return True, "new grad phrase %r" % phrase
         if level is not None:
             return True, "level %d suffix on %r" % (level, role)
+        if signal:
+            # Weaker evidence than a title, and labelled as such so the reason
+            # shown in the dashboard does not read like the other three.
+            return True, "matched the early career search %r" % signal
 
         return False, "no new grad signal"
 
-    def matches(self, title):
-        return self.evaluate(title)[0]
+    def matches(self, title, signal=None):
+        return self.evaluate(title, signal)[0]

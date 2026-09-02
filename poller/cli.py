@@ -173,9 +173,18 @@ def sweep(cfg, health, registry, quiet=False, previous=None):
         if source == sources.SIMPLIFY or source in canada.DISCOVERY_SOURCES:
             discovery_urls.extend(j.get("url") for j in result.jobs)
 
+        # The Canadian aggregators are searched by keyword, and Job Bank shows
+        # the NOC title rather than the employer's, so an early career signal
+        # that was in the search never reaches the title. Where the query
+        # itself carried one, the source vouches for it.
+        signal = None
+        if source in canada.SOURCES:
+            signal = (canada.EARLY_CAREER_SOURCES.get(source)
+                      or matcher.early_career_query(key))
+
         kept = 0
         for job in result.jobs:
-            matched, reason = matcher.evaluate(job.get("title", ""))
+            matched, reason = matcher.evaluate(job.get("title", ""), signal)
             if not matched:
                 continue
             region, evidence = locations.classify(job.get("locations"))

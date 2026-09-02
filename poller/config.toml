@@ -243,7 +243,10 @@ queries = [
   "junior software developer",
   "junior programmer",
   "entry level software developer",
-  "graduate software developer",
+  # "graduate software developer" was here and carried no signal the matcher
+  # knows: the phrase list has "new graduate" and "recent graduate", not a bare
+  # "graduate". It would have spent six requests a sweep and matched nothing.
+  "new graduate software developer",
   "developpeur junior",
   "programmeur junior",
 ]
