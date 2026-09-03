@@ -83,6 +83,10 @@ def trailing_level(text):
     return _LEVELS.get(tokens[-1])
 
 
+NEW_GRAD = "new grad"
+INTERNSHIP = "internship"
+
+
 class Matcher:
     def __init__(self, cfg):
         m = cfg["match"]
@@ -91,6 +95,24 @@ class Matcher:
         self.exclude_keywords = [normalize(k) for k in m["exclude_keywords"]]
         self.max_level = m.get("max_level", ENTRY_LEVEL)
 
+        # Internships were an exclusion, full stop. They are now a second kind
+        # of match, kept apart from new grad roles rather than mixed into them:
+        # the two have different deadlines and different value, and a list that
+        # silently blends them is worse than either list alone.
+        self.internship_phrases = [
+            normalize(k) for k in m.get("internship_phrases", [])
+        ]
+        self.include_internships = bool(m.get("include_internships", False))
+        # When internships are wanted, the internship words in the exclusion
+        # list would reject them before they could be classified, so they are
+        # dropped from the list that runs. Everything else still applies: a
+        # senior or staff internship is still not this.
+        internship_set = set(self.internship_phrases)
+        self.active_excludes = (
+            [k for k in self.exclude_keywords if k not in internship_set]
+            if self.include_internships else self.exclude_keywords
+        )
+
     def early_career_query(self, text):
         """Whether a search term itself carries an early career signal."""
         norm = strip_years(normalize(text))
@@ -98,7 +120,12 @@ class Matcher:
                      if contains_phrase(norm, k)), None)
 
     def evaluate(self, title, signal=None):
-        """Return (matched, reason). The reason is kept for the dashboard and
+        """Return (matched, reason). See evaluate_full for the kind as well."""
+        matched, reason, _ = self.evaluate_full(title, signal)
+        return matched, reason
+
+    def evaluate_full(self, title, signal=None):
+        """Return (matched, reason, kind). The reason is kept for the dashboard and
         for debugging a miss without re-running the poller.
 
         `signal` is an early career signal the SOURCE vouches for rather than
@@ -115,33 +142,43 @@ class Matcher:
         """
         text = strip_years(normalize(title))
         if not text:
-            return False, "empty title"
+            return False, "empty title", None
 
         role = next((k for k in self.role_keywords if contains_phrase(text, k)), None)
         if role is None:
-            return False, "no role keyword"
+            return False, "no role keyword", None
 
-        bad = next((k for k in self.exclude_keywords if contains_phrase(text, k)), None)
+        bad = next((k for k in self.active_excludes if contains_phrase(text, k)), None)
         if bad is not None:
-            return False, "excluded by %r" % bad
+            return False, "excluded by %r" % bad, None
 
         level = trailing_level(text)
         if level is not None and level > self.max_level:
-            return False, "seniority level %d suffix" % level
+            return False, "seniority level %d suffix" % level, None
+
+        # Checked before the new grad gate, because an internship rarely says
+        # "new grad" as well and would otherwise fall through to "no signal".
+        intern = next(
+            (k for k in self.internship_phrases if contains_phrase(text, k)), None
+        )
+        if intern is not None:
+            if not self.include_internships:
+                return False, "excluded by %r" % intern, None
+            return True, "internship phrase %r" % intern, INTERNSHIP
 
         phrase = next(
             (k for k in self.new_grad_phrases if contains_phrase(text, k)), None
         )
         if phrase is not None:
-            return True, "new grad phrase %r" % phrase
+            return True, "new grad phrase %r" % phrase, NEW_GRAD
         if level is not None:
-            return True, "level %d suffix on %r" % (level, role)
+            return True, "level %d suffix on %r" % (level, role), NEW_GRAD
         if signal:
             # Weaker evidence than a title, and labelled as such so the reason
             # shown in the dashboard does not read like the other three.
-            return True, "matched the early career search %r" % signal
+            return True, "matched the early career search %r" % signal, NEW_GRAD
 
-        return False, "no new grad signal"
+        return False, "no new grad signal", None
 
     def matches(self, title, signal=None):
         return self.evaluate(title, signal)[0]

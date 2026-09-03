@@ -230,7 +230,7 @@ def sweep(cfg, health, registry, quiet=False, previous=None):
 
         kept = 0
         for job in result.jobs:
-            matched, reason = matcher.evaluate(job.get("title", ""), signal)
+            matched, reason, kind = matcher.evaluate_full(job.get("title", ""), signal)
             if not matched:
                 continue
             region, evidence = locations.classify(job.get("locations"))
@@ -247,6 +247,13 @@ def sweep(cfg, health, registry, quiet=False, previous=None):
             # also finds a role open in Toronto and New York. `region` alone
             # calls that one US and hides it.
             job["regions"] = locations.classify_all(job.get("locations"))
+            # Remote is a property of the role, not a place. The region tag
+            # prefers a country, so "Remote - US" is tagged US and a Remote
+            # filter built on the region found 1 posting where 18 said remote.
+            job["remote"] = locations.is_remote(job.get("locations"))
+            # "new grad" or "internship". Kept apart rather than blended: the
+            # two have different deadlines and different value.
+            job["kind"] = kind
             job["location_evidence"] = evidence
             job["match_reason"] = reason
             job["work_auth"] = status

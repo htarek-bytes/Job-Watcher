@@ -448,13 +448,20 @@ class TestSourceSuppliedSignal(unittest.TestCase):
         self.assertIsNone(self.m.early_career_query("software developer"))
         self.assertEqual(self.m.early_career_query("junior programmer"), "junior")
 
-    def test_an_early_career_source_still_loses_internships(self):
-        # TalentEgg lists internships and summer roles alongside new grad ones.
+    def test_an_early_career_source_still_obeys_the_exclusions(self):
         # The source signal replaces the fourth gate, never the exclusions.
+        # Internships used to be one of those exclusions and are now a kind of
+        # their own, so what this guards is that a senior or lead role from an
+        # early career source is still thrown out.
         signal = canada.EARLY_CAREER_SOURCES[canada.TALENTEGG]
         self.assertTrue(self.m.matches("Software Developer", signal))
-        self.assertFalse(self.m.matches("Software Developer Intern", signal))
-        self.assertFalse(self.m.matches("Software Developer Co-op", signal))
+        self.assertFalse(self.m.matches("Senior Software Developer", signal))
+        self.assertFalse(self.m.matches("Lead Software Developer", signal))
+
+    def test_an_internship_from_such_a_source_is_tagged_as_one(self):
+        signal = canada.EARLY_CAREER_SOURCES[canada.TALENTEGG]
+        _, _, kind = self.m.evaluate_full("Software Developer Intern", signal)
+        self.assertEqual(kind, "internship")
 
     def test_only_talentegg_vouches_for_every_posting(self):
         # Job Bank carries every kind of role, so it gets a signal per query,

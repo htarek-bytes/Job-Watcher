@@ -9,6 +9,22 @@
 [match]
 max_level = 1
 
+# Internships are matched as a second KIND rather than mixed into the new grad
+# list, so the dashboard can show them separately or hide them. They used to be
+# a flat exclusion. Turning this off puts every phrase below back to being an
+# exclusion, which is the old behaviour exactly.
+include_internships = true
+internship_phrases = [
+  "intern",
+  "interns",
+  "internship",
+  "co op",
+  "coop",
+  "summer intern",
+  "student",
+  "industrial placement",
+]
+
 # Gate 1: the title has to name a role worth waking up for.
 role_keywords = [
   "software engineer",
