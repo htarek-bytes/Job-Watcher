@@ -1,5 +1,5 @@
 {
- "count": 823,
+ "count": 835,
  "uids": {
   "ashby:abridge:7d6ae2be-cd53-466c-8151-2dae2e87aace": 1788353785,
   "ashby:applied:0695a5b7-6823-4da5-b918-3b580d49662c": 1788353785,
@@ -742,6 +742,7 @@
   "workday:clearwateranalytics.wd1/Clearwater_Analytics_Careers:Software-Development-Engineer-I_R12047": 1788393810,
   "workday:cox.wd1/Cox_External_Career_Site_1:Entry-Level-Software-Engineer--Draper--UT-_R202681804": 1788393810,
   "workday:crowdstrike.wd5/crowdstrikecareers:Engineer-I--Data-Scientist---New-Grad--Hybrid-_R29382-1": 1788393810,
+  "workday:dexcom.wd1/Dexcom:Software-Development-Engineer-1_JR120540": 1788393936,
   "workday:exelixis.wd1/exel:AI-and-Agentic-Engineer-I_JR7022-1": 1788377607,
   "workday:exelixis.wd1/exel:Associate-Engineer---AI-and-Agentic_JR7031": 1788377607,
   "workday:expedia.wd108/private:Software-Development-Engineer-I_R-108739-2": 1788377607,
@@ -779,6 +780,17 @@
   "workday:kbr.wd5/kbr_careers:Junior-Software-Engineer_R2122294": 1788377835,
   "workday:kyndryl.wd5/KyndrylEarlyCareers:Early-Career-Consult-Program---Associate-AI-Engineer_R-66739": 1788377607,
   "workday:kyndryl.wd5/KyndrylEarlyCareers:Early-Career-Consult-Program---Cybersecurity-Engineer_R-67304-1": 1788377607,
+  "workday:lplfinancial.wd1/university:New-Grad---2027---Data-Engineering_R-052493-1": 1788393936,
+  "workday:lplfinancial.wd1/university:New-Grad---2027---Platform-Engineering_R-052500-1": 1788393936,
+  "workday:lplfinancial.wd1/university:New-Grad-2027---Software-Engineering_R-052475": 1788393936,
+  "workday:massgeneralbrigham.wd1/mgbexternal:Systems-Engineer-I_RQ4061864-1": 1788393936,
+  "workday:micron.wd1/External:DRAM-Device---Cell-Technology-Engineer_JR102424": 1788393936,
+  "workday:micron.wd1/External:Legacy-DRAM-Product-Yield-Enhancement-Engineer_JR110017": 1788393936,
+  "workday:micron.wd1/External:New-College-Grad---Engineer--DPG-Compute-PE-Y-Q_JR106445": 1788393936,
+  "workday:micron.wd1/External:New-College-Grad---Mixed-Signal-Design-Engineer--HBM_JR110753": 1788393936,
+  "workday:micron.wd1/External:New-College-Grad---RDA-Engineer--APTD_JR108462": 1788393936,
+  "workday:mii.wd5/MiTek:Design-Engineer-I_R06601": 1788393936,
+  "workday:mmc.wd1/mmc:Junior-Python-Engineer--MarshTech_R_362442-1": 1788393936,
   "workday:navcanada.wd10/NAV_Careers:Developer---Entry-Level_JR-8291": 1788377835,
   "workday:ncr.wd1/ext_us:SW-Engineer-I_R0157595": 1788377835,
   "workday:nidec.wd1/nidec:Hardware-Electronics-Engineer-I_R0014784": 1788377835,
@@ -825,5 +837,5 @@
   "workday:zebra.wd501/Zebra_careers:Software-Engineer--I_JR102997-1": 1788377927,
   "workday:zoll.wd5/ZOLLMedicalCorp:Junior-Algorithm-Engineer_R19377": 1788377927
  },
- "updated_at": 1788393811
+ "updated_at": 1788393936
 }
