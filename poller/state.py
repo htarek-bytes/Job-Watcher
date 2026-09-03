@@ -107,6 +107,48 @@ def etag_for(health, source, key):
     return health.get("sources", {}).get(source_key(source, key), {}).get("etag")
 
 
+def match_fingerprint(cfg):
+    """A stable hash of every setting that decides whether a role is kept.
+
+    Both sections count: [match] holds the keywords and the level rules, and
+    [locations] decides which regions and remote scopes are allowed.
+    """
+    import hashlib
+    import json as _json
+
+    relevant = {
+        "match": cfg.get("match", {}),
+        "locations": cfg.get("locations", {}),
+    }
+    blob = _json.dumps(relevant, sort_keys=True, default=str).encode("utf-8")
+    return hashlib.sha1(blob).hexdigest()[:12]
+
+
+def drop_etags(health):
+    """Forget every stored ETag, so the next poll of each board returns a full
+    payload instead of a 304.
+
+    A board answering 304 has its roles carried forward exactly as they were,
+    keeping the classification they were given under the OLD rules, so
+    widening the matcher otherwise only reaches that board on the day it
+    happens to change its listings.
+
+    Scope, measured rather than assumed: 1 board out of 1072 stores an ETag,
+    because 1000 of them answer 200 every time and are reclassified anyway.
+    That one is the SimplifyJobs aggregator, which is also the largest single
+    source in the feed at roughly 400 of 1071 roles, and the only one where a
+    304 is worth having at all: its payload is 13 MB. So this is narrow and
+    still worth doing, rather than the broad problem it first looked like.
+
+    Costs one full fetch of that file, once.
+    """
+    dropped = 0
+    for entry in (health.get("sources") or {}).values():
+        if entry.pop("etag", None):
+            dropped += 1
+    return dropped
+
+
 SLUGS = os.path.join(DATA, "slugs.json")
 CLOSURES = os.path.join(DATA, "closures.json")
 
