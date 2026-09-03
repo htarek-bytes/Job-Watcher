@@ -1,5 +1,5 @@
 {
- "count": 3132,
+ "count": 3145,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -1126,6 +1126,7 @@
   "greenhouse:neuralink:7741688003": 1788460756,
   "greenhouse:neuralink:7823342003": 1788460756,
   "greenhouse:neuralink:7931610003": 1788460756,
+  "greenhouse:neuralink:7984011003": 1788472811,
   "greenhouse:newsbreak:4409616006": 1788460756,
   "greenhouse:newsbreak:4615879006": 1788386454,
   "greenhouse:newsbreak:4690262006": 1788460756,
@@ -2870,6 +2871,7 @@
   "workday:ag.wd3/Airbus:XMLNAME--CORE-DIGITAL-CAMPUS---SAP-Developer--f-m-d-_JR10428591-1": 1788425964,
   "workday:amat.wd1/External:Algorithm-Developer-I-New-College-Grad--Bachelor-s--Santa-Clara--CA-_R2626605": 1788368024,
   "workday:amat.wd1/External:EHS-Safety-Engineer-New-College-Grad--Bachelors---Santa-Clara--CA-_R2626244": 1788368024,
+  "workday:amat.wd1/External:Software-Engineer--New-College-Grad--Master-s--Chandler--AZ-_R2627911": 1788472811,
   "workday:analogdevices.wd1/External:Associate-Engineer--Embedded-Audio-Software_R263781": 1788368024,
   "workday:andersen.wd12/Andersen_External_Career_Site:Engineer-I_R-4416": 1788368024,
   "workday:andersen.wd12/Andersen_External_Career_Site:RDI-Materials-Associate-Engineer_R-8110": 1788368024,
@@ -2899,6 +2901,7 @@
   "workday:bmo.wd3/External:Machine-Learning-Developer--New-or-Recent-Graduate-_R260024265": 1788470575,
   "workday:boeing.wd1/EXTERNAL_CAREERS:Associate-Software-Engineer_JR2026522810-1": 1788368024,
   "workday:boeing.wd1/EXTERNAL_CAREERS:Software-Engineer_JR2026517990-1": 1788425964,
+  "workday:boeing.wd1/external_subsidiary:Payload-Mechanical-Design-Engineer---Entry-Level_JR2026519663": 1788472811,
   "workday:boeing.wd1/external_subsidiary:Software-Engineer_JR2026517990": 1788455648,
   "workday:boeing.wd1/external_subsidiary:Spacecraft-Systems-Engineer--Early-Career----Millennium-Space-Systems_JR2026523814": 1788386269,
   "workday:boydcorp.wd12/Boyd_Careers:Boyd-Thermal-by-Eaton-Junior-Thermal-Research-Engineer_R-103022-2": 1788368024,
@@ -2995,8 +2998,13 @@
   "workday:homedepot.wd5/careerdepot:XMLNAME-2027-Summer-Internship---Software-Engineering_Req191937": 1788470575,
   "workday:insperity.wd12/NSP:Artificial-Intelligence-Engineer-I_JR103100": 1788377607,
   "workday:integritymarketing.wd1/Integrity:Software-Engineer-I_JR4072": 1788377607,
+  "workday:intel.wd1/external:AI-Software-Engineering-Intern_JR0282641": 1788472811,
   "workday:intel.wd1/external:NMSI-Module-Engineer--Entry-Level_JR0286667-1": 1788377607,
+  "workday:intel.wd1/external:Software-Development-Graduate-Intern_JR0285451-1": 1788472811,
+  "workday:intel.wd1/external:Software-Engineering---Intern--Bachelor-s_JR0286834": 1788472811,
+  "workday:intel.wd1/external:Software-Engineering---Intern--Graduate_JR0286836": 1788472811,
   "workday:jainglobal.wd5/ExternalSite:Junior-Compliance-Developer_JR100329": 1788377607,
+  "workday:jci.wd5/JCI:HVAC-Controls-Systems-Engineer-1_WD30278990": 1788472811,
   "workday:jci.wd5/JCI:Quality-Engineer-I_WD30278664": 1788377607,
   "workday:kbr.wd5/KBR_Careers:Junior-Software-Engineer_R2122294": 1788377607,
   "workday:kbr.wd5/KBR_Careers:Project-Engineer-I_R2129322": 1788442554,
@@ -3070,6 +3078,11 @@
   "workday:pae.wd1/amentum_careers:Software-Engineering-Intern_R0169322": 1788442554,
   "workday:pg.wd5/1000:Northeastern-University-R-D-Engineer-Co-op--Northeastern-Students-Graduating-in-2028-2029-ONLY_R000155302": 1788442554,
   "workday:pg.wd5/1000:Purdue-University-R-D-Engineer-Co-op--Purdue-Students-Graduating-in-2028-2029-ONLY_R000155305": 1788442554,
+  "workday:philips.wd3/jobs-and-careers:Co-op---Design-Release-Engineer---Cambridge--MA---Jan---Aug-2027_590093": 1788472811,
+  "workday:philips.wd3/jobs-and-careers:Co-op---Software-Engineer--R-D----Cambridge--MA---January---August-2027_588891": 1788472811,
+  "workday:philips.wd3/jobs-and-careers:Co-op---Software-Engineering--APM----Cambridge--MA---Jan---Aug-2027_590097": 1788472811,
+  "workday:philips.wd3/jobs-and-careers:Co-op---Software-Test-Automation-Engineer---Orange--OH---January-2027_581888": 1788472811,
+  "workday:philips.wd3/jobs-and-careers:Software-Engineer-Intern_588645-1": 1788472811,
   "workday:pimco.wd1/pimco-careers:XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering_R106745": 1788442554,
   "workday:psu.wd1/PSU_Staff:Cybersecurity-Assurance-Intern_REQ_0000081843-1": 1788442554,
   "workday:psu.wd1/PSU_Staff:Research-and-Development-Engineer-Intern_REQ_0000082128": 1788442554,
@@ -3134,5 +3147,5 @@
   "workday:zebra.wd501/Zebra_careers:XMLNAME-2026-6-months--Internship-Sri-Lanka---Software-Engineering_JR102701": 1788410216,
   "workday:zoll.wd5/ZOLLMedicalCorp:Junior-Algorithm-Engineer_R19377": 1788377927
  },
- "updated_at": 1788470577
+ "updated_at": 1788472811
 }
