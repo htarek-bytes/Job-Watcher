@@ -1,5 +1,5 @@
 {
- "count": 1072,
+ "count": 1077,
  "uids": {
   "amazon:amazon:10517149": 1788410216,
   "amazon:amazon:10517535": 1788410216,
@@ -32,11 +32,13 @@
   "ashby:composio:f83a19a0-8188-4100-9dd5-b259efb342e6": 1788353785,
   "ashby:confido:69c0e572-b2f4-442f-beb8-1240155c629e": 1788353785,
   "ashby:cylake-inc:1d1ac42e-299c-42af-bd7c-b8c5fb07f735": 1788353785,
+  "ashby:ellipsislabs:02136b22-35b1-4b3d-8bef-567c3380a849": 1788426389,
   "ashby:ellipsislabs:256c2ec2-01c8-4ff6-9ad0-b926fe40472d": 1788409504,
   "ashby:embedding-vc:5c8433ea-c7e6-4350-bbd5-2889e7fdb2b1": 1788409504,
   "ashby:endeavorai:e397ddef-2102-40e5-82e8-cd1e126f9da8": 1788393691,
   "ashby:faros-ai:622e1f1e-4a39-4e7c-8526-1189ca588066": 1788393691,
   "ashby:feathery:0814d62d-2742-454a-b8f4-7e302fdf5a24": 1788393691,
+  "ashby:firetiger:7acf0768-f10d-4650-bcfc-12ed6e5d7cfc": 1788426389,
   "ashby:firetiger:a65c30a8-6bdb-4258-9d6a-5e6e90ff86e6": 1788393691,
   "ashby:focal:f83af2f4-3d80-42fc-b1b5-8e65342ce152": 1788393691,
   "ashby:fsh:71b6506a-10c2-4498-9cff-1009e0582bda": 1788393691,
@@ -45,6 +47,8 @@
   "ashby:julius:5e0b677a-f677-44de-93c6-f7848ab5a8e6": 1788364508,
   "ashby:kayak:8333e351-7a08-4767-9966-f75411b78d80": 1788364508,
   "ashby:koahlabs:197c931d-3cda-44b3-b26b-470976730808": 1788364508,
+  "ashby:kognitos:a3c5bd4c-f6fb-4eb0-b943-e0e1a1d878c5": 1788426389,
+  "ashby:kognitos:a4bc3ebf-b619-4c1b-9c9e-784d16c8b148": 1788426389,
   "ashby:lightfield:9a7ef2f9-577a-4242-b884-719e3cdf4420": 1788364508,
   "ashby:lightfield:fc93a467-773d-4805-b342-bf470950732d": 1788364508,
   "ashby:litellm:769df1b5-70bb-40fe-b2e2-ef052eb3afa3": 1788364508,
@@ -88,6 +92,7 @@
   "ashby:revel:014c6445-bf8c-4213-ad97-faa83d129199": 1788364508,
   "ashby:revel:444b5704-3840-4b0a-ba34-f82eab8c430f": 1788364508,
   "ashby:revel:49e46e96-e266-4ef6-8b62-e056d695dc52": 1788364508,
+  "ashby:rivet:4e02461a-9f6c-4d3c-a511-6d54f31999bc": 1788426389,
   "ashby:runsybil-jobs:fd733ce7-7892-4019-9f6d-b6a75ba2aa59": 1788364508,
   "ashby:sierra:149f368c-52d5-408f-ba26-ad888f318a00": 1788364508,
   "ashby:solace:7deb5d7e-9960-4407-9600-aa8e84d9edba": 1788364508,
@@ -1074,5 +1079,5 @@
   "workday:zebra.wd501/Zebra_careers:XMLNAME-2026-6-months--Internship-Sri-Lanka---Software-Engineering_JR102701": 1788410216,
   "workday:zoll.wd5/ZOLLMedicalCorp:Junior-Algorithm-Engineer_R19377": 1788377927
  },
- "updated_at": 1788426258
+ "updated_at": 1788426390
 }
