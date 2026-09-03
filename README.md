@@ -121,6 +121,9 @@ time.
 
 ```bash
 python poller/cli.py verify              # ping every slug, report reality
+python poller/cli.py probe --candidates  # check the Canadian sources, and how
+python poller/cli.py hunt                # test Canadian names as slugs everywhere
+python poller/cli.py hunt --write        # and keep the ones that answered
 python poller/cli.py seed                # mark everything open as seen, no pushes
 python poller/cli.py run --dry-run       # full sweep, print alerts instead of sending
 python poller/cli.py run                 # the real thing
@@ -169,8 +172,57 @@ expensive mistake. Configured under `[locations]`.
 | Greenhouse | `boards-api.greenhouse.io/v1/boards/{slug}/jobs?content=true` | includes full description |
 | Lever | `api.lever.co/v0/postings/{slug}?mode=json` | includes full description |
 | Ashby | `api.ashbyhq.com/posting-api/job-board/{slug}` | includes full description |
+| Workday | `POST {tenant}.{dc}.myworkdayjobs.com/wday/cxs/{tenant}/{site}/jobs` | 20 per page, unsorted, so queried by search term |
+| SmartRecruiters | `api.smartrecruiters.com/v1/companies/{slug}/postings` | cleanest public API here |
+| BambooHR | `{slug}.bamboohr.com/careers/list` | small, plain JSON |
+| Rippling | `api.rippling.com/platform/api/ats/v1/board/{slug}/jobs` | small |
+| Workable | `apply.workable.com/api/v1/widget/accounts/{slug}` | small and mid sized employers |
+| Recruitee | `{slug}.recruitee.com/api/offers/` | same |
 | Amazon | `www.amazon.jobs/en/search.json` | unofficial and brittle, isolated |
 | SimplifyJobs | `.github/scripts/listings.json` on branch `dev` | coverage net |
+
+### Canada
+
+Everything above is keyed by a company slug, and the slug registry is mined
+from SimplifyJobs, which is a US new grad aggregator. The result was a feed of
+496 US roles against 24 Canadian ones. That is structural: the pipeline had no
+way to learn that a 150 person company in Waterloo exists.
+
+These are national aggregators instead, one endpoint covering many employers.
+
+| source | endpoint | notes |
+|---|---|---|
+| Job Bank | `www.jobbank.gc.ca/jobsearch/jobsearch?searchstring={q}&sort=M` | the federal board, the widest Canadian coverage there is |
+| Jobillico | `www.jobillico.com/recherche-emploi?skwd={q}` | Quebec's largest, invisible from outside the province |
+| TalentEgg | `talentegg.ca/find-a-job/keyword/{q}` | Canadian, new grad and campus only |
+
+None of the three publishes an API contract, and none of these URLs were
+written from memory. `cli.py probe` runs them from a machine with real egress
+and reports what came back; a source is only enabled in `config.toml` once it
+has shown real postings parsing. Getting there took several rounds:
+
+* Job Bank shows the **NOC title**, so a req the employer called "Junior
+  Software Developer" is listed as plain "software developer" and fails the
+  matcher's fourth gate. Where the search term itself carried an early career
+  signal, the source vouches for it. That substitutes for the fourth gate and
+  nothing else: the exclusions and the seniority suffix are still read off the
+  real title.
+* Job Bank puts a `jsessionid` in every result link. Taken verbatim, the same
+  posting gets a different URL on every fetch, which defeats dedupe and makes
+  the diff report old roles as new forever. The posting id is read out of the
+  path and the URL rebuilt.
+* Jobillico 404s on `/recherche-emploi/{keyword}` even though its own front
+  page links to that shape; those segments are canned category pages. Only the
+  query string form searches.
+* Eluta refuses the TLS handshake to a non browser client, on every attempt.
+  It is listed as unreachable and never polled.
+
+Canadian company boards come from `cli.py hunt`, which takes the employers in
+`poller/canada_seed.txt`, tries each name as a slug on all eight platforms
+whose key is a company name, and writes only the ones that answered with real
+postings. A run on 2026-09-02 confirmed **75 boards** this way. Those are
+polled every sweep rather than rotated, for the same reason config boards are:
+they were added deliberately.
 
 Amazon is wrapped in its own exception boundary: it is an undocumented
 endpoint that can change shape without warning, and it must not be able to
