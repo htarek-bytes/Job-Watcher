@@ -497,6 +497,24 @@ class TestRotation(unittest.TestCase):
         _, targets = self.cli.select_targets(self.cfg, registry, {})
         return set(targets)
 
+    def _hot(self, registry):
+        health = {}
+        self.cli.select_targets(self.cfg, registry, health)
+        return health["hot_boards"]
+
+    def test_a_hunted_board_with_no_canadian_postings_is_not_hot(self):
+        # "hunted-ca" means polled every sweep AND unlabelled software roles
+        # accepted. Both are for boards that post in Canada, so a board that
+        # answered with nothing Canadian is recorded as a plain "hunted" find.
+        #
+        # Asserted on the hot count rather than on whether it was polled: a
+        # cold board can still turn up in any one rotation window, so "not
+        # polled this sweep" is not the same claim.
+        cold = {"x%d" % i: {"origin": "discovered"} for i in range(400)}
+        with_ca = {"greenhouse": dict(cold, board={"origin": "hunted-ca"})}
+        without = {"greenhouse": dict(cold, board={"origin": "hunted"})}
+        self.assertEqual(self._hot(with_ca), self._hot(without) + 1)
+
     def test_a_hunted_board_is_polled_every_sweep(self):
         registry = {"greenhouse": {"poka": {"origin": "hunted-ca"}}}
         self.assertIn(("greenhouse", "poka"), self._polled(registry))
