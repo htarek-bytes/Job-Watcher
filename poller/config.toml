@@ -207,6 +207,21 @@ exclude_keywords = [
   "environmental engineer",
   "process engineer",
   "manufacturing engineer",
+  # More of the same, from a measured sample once the 0 to 3 years tier
+  # widened the feed to 2405 roles: 197 of them were non software engineering
+  # arriving through the bare "engineer" keyword. Two word phrases, so the
+  # software variants survive: "avionics engineer" is excluded while "Avionics
+  # Software Engineer" is not, because the two words are not adjacent there.
+  "materials engineer",
+  "propulsion engineer",
+  "avionics engineer",
+  "thermal engineer",
+  "optical engineer",
+  "fluids engineer",
+  "welding engineer",
+  "composites engineer",
+  "supplier quality",
+  "continuous improvement",
 ]
 
 [locations]

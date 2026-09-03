@@ -232,6 +232,50 @@ class BroaderRoleWording(unittest.TestCase):
                 self.assertFalse(self.m.matches(title), title)
 
 
+class NonSoftwareEngineering(unittest.TestCase):
+    """The cost of a bare "engineer" role keyword, trimmed on measurement.
+
+    Once the 0 to 3 years tier widened the feed to 2405 roles, a sample found
+    197 of them were non software engineering arriving through that keyword.
+    These are all real titles from that sample.
+    """
+
+    def setUp(self):
+        self.m = Matcher(CFG)
+        self.years = matcher_min("2+ years of experience")
+
+    def test_the_measured_noise_is_excluded(self):
+        for title in ("Materials Engineer (New Grad Summer 2027)",
+                      "Launch Fluids Engineer I",
+                      "Supplier Quality Engineer - 2142",
+                      "Quality & Continuous Improvement Engineer",
+                      "Propulsion Engineer", "Avionics Engineer",
+                      "Thermal Engineer", "Optical Engineer",
+                      "Welding Engineer", "Composites Engineer"):
+            with self.subTest(title=title):
+                self.assertFalse(self.m.evaluate_full(
+                    title, None, False, self.years)[0], title)
+
+    def test_the_software_variant_of_each_survives(self):
+        # The whole reason these are two word phrases. "avionics engineer" is
+        # not adjacent in "Avionics Software Engineer", so it does not fire.
+        for title in ("2027 Early Career Flight Software Engineer",
+                      "Avionics Software Engineer",
+                      "Materials Software Engineer",
+                      "Propulsion Software Engineer"):
+            with self.subTest(title=title):
+                matched, reason, _ = self.m.evaluate_full(
+                    title, None, False, self.years)
+                self.assertTrue(matched, "%s (%s)" % (title, reason))
+
+    def test_ordinary_software_titles_are_untouched(self):
+        for title in ("Software Engineer, New Grad", "Firmware Engineer",
+                      "New Grad Software Engineer", "Data Engineer"):
+            with self.subTest(title=title):
+                self.assertTrue(self.m.evaluate_full(
+                    title, None, False, self.years)[0], title)
+
+
 class RemoteScope(unittest.TestCase):
     """Where a remote role will actually hire, which is a different question
     from where it is listed."""
