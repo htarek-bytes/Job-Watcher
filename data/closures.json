@@ -1371,8 +1371,323 @@
    "hours_open": 1.8,
    "title": "Junior Email Engineer",
    "uid": "workday:caci.wd1/external:Junior-Email-Engineer_331379"
+  },
+  {
+   "closed_at": 1788455648,
+   "company": "freeformfuturecorp",
+   "hours_open": 19.2,
+   "title": "Materials Engineer (New Grad Summer 2027)",
+   "uid": "greenhouse:freeformfuturecorp:7895783003"
+  },
+  {
+   "closed_at": 1788455648,
+   "company": "freeformfuturecorp",
+   "hours_open": 19.2,
+   "title": "Materials Engineer (New Grad December 2026)",
+   "uid": "greenhouse:freeformfuturecorp:7827091003"
+  },
+  {
+   "closed_at": 1788455648,
+   "company": "Williams Racing",
+   "hours_open": 10.7,
+   "title": "Quality & Continuous Improvement Engineer Industrial Placement",
+   "uid": "smartrecruiters:WilliamsRacing:744000146955095"
+  },
+  {
+   "closed_at": 1788455648,
+   "company": "Thorlabs",
+   "hours_open": 0.3,
+   "title": "Supplier Quality Engineer - 2142",
+   "uid": "workable:thorlabs:B507C4DF87"
+  },
+  {
+   "closed_at": 1788455648,
+   "company": "micron",
+   "hours_open": 12.6,
+   "title": "Intern - Systems Performance Engineer",
+   "uid": "workday:micron.wd1/External:Intern---Systems-Performance-Engineer_JR109583"
+  },
+  {
+   "closed_at": 1788455648,
+   "company": "ranovus",
+   "hours_open": 0.3,
+   "title": "Optical Engineer ",
+   "uid": "bamboohr:ranovus:74"
+  },
+  {
+   "closed_at": 1788455648,
+   "company": "boeing",
+   "hours_open": 8.2,
+   "title": "Associate Software Engineer",
+   "uid": "workday:boeing.wd1/EXTERNAL_CAREERS:Software-Engineer_JR2026517990-1"
+  },
+  {
+   "closed_at": 1788455648,
+   "company": "gotion",
+   "hours_open": 0.3,
+   "title": "Thermal Engineer - Battery Systems",
+   "uid": "greenhouse:gotion:8244388002"
+  },
+  {
+   "closed_at": 1788455648,
+   "company": "gotion",
+   "hours_open": 0.3,
+   "title": "Laser Welding Engineer, Cell Line",
+   "uid": "greenhouse:gotion:7924140002"
+  },
+  {
+   "closed_at": 1788455648,
+   "company": "gotion",
+   "hours_open": 0.3,
+   "title": "Supplier Quality Engineer ",
+   "uid": "greenhouse:gotion:7171103002"
+  },
+  {
+   "closed_at": 1788455648,
+   "company": "kbr",
+   "hours_open": 21.7,
+   "title": "Junior Software Engineer",
+   "uid": "workday:kbr.wd5/KBR_Careers:Junior-Software-Engineer_R2122294"
+  },
+  {
+   "closed_at": 1788455648,
+   "company": "spacex",
+   "hours_open": 0.3,
+   "title": "Propulsion Engineer, Combustion Devices Manufacturing (Raptor)",
+   "uid": "greenhouse:spacex:8766418002"
+  },
+  {
+   "closed_at": 1788455648,
+   "company": "spacex",
+   "hours_open": 0.3,
+   "title": "Propulsion Engineer (Starship)",
+   "uid": "greenhouse:spacex:8756340002"
+  },
+  {
+   "closed_at": 1788455648,
+   "company": "spacex",
+   "hours_open": 0.3,
+   "title": "Materials Engineer, Solar Cell Characterization ",
+   "uid": "greenhouse:spacex:8753733002"
+  },
+  {
+   "closed_at": 1788455648,
+   "company": "spacex",
+   "hours_open": 0.3,
+   "title": "Propulsion Engineer, Stage Systems (Starship)",
+   "uid": "greenhouse:spacex:8756692002"
+  },
+  {
+   "closed_at": 1788455648,
+   "company": "spacex",
+   "hours_open": 0.3,
+   "title": "Optical Engineer (Starfall)",
+   "uid": "greenhouse:spacex:8748856002"
+  },
+  {
+   "closed_at": 1788455648,
+   "company": "spacex",
+   "hours_open": 0.3,
+   "title": "Materials Engineer, Polymer Development ",
+   "uid": "greenhouse:spacex:8727431002"
+  },
+  {
+   "closed_at": 1788455648,
+   "company": "spacex",
+   "hours_open": 0.3,
+   "title": "Thermal Engineer, AI Satellites (Starmind)",
+   "uid": "greenhouse:spacex:8728358002"
+  },
+  {
+   "closed_at": 1788455648,
+   "company": "spacex",
+   "hours_open": 0.3,
+   "title": "Propulsion Engineer, Propulsion Simulation & Data Analysis ",
+   "uid": "greenhouse:spacex:8696839002"
+  },
+  {
+   "closed_at": 1788455648,
+   "company": "spacex",
+   "hours_open": 0.3,
+   "title": "Optical Engineer (Starshield) ",
+   "uid": "greenhouse:spacex:8696622002"
+  },
+  {
+   "closed_at": 1788455648,
+   "company": "spacex",
+   "hours_open": 0.3,
+   "title": "Materials Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8675226002"
+  },
+  {
+   "closed_at": 1788455648,
+   "company": "spacex",
+   "hours_open": 0.3,
+   "title": "Thermal Engineer (Falcon, Dragon, & Starfall)",
+   "uid": "greenhouse:spacex:8665783002"
+  },
+  {
+   "closed_at": 1788455648,
+   "company": "spacex",
+   "hours_open": 0.3,
+   "title": "Propulsion Engineer (Raptor Flight)",
+   "uid": "greenhouse:spacex:8665252002"
+  },
+  {
+   "closed_at": 1788455648,
+   "company": "spacex",
+   "hours_open": 0.3,
+   "title": "Optical Engineer, Satellites (Starlink)",
+   "uid": "greenhouse:spacex:8656990002"
+  },
+  {
+   "closed_at": 1788455648,
+   "company": "spacex",
+   "hours_open": 0.3,
+   "title": "Propulsion Engineer (Raptor Combustion Devices)",
+   "uid": "greenhouse:spacex:8654572002"
+  },
+  {
+   "closed_at": 1788455648,
+   "company": "spacex",
+   "hours_open": 0.3,
+   "title": "Electric Propulsion Engineer, Mechanical (Starshield) ",
+   "uid": "greenhouse:spacex:8650130002"
+  },
+  {
+   "closed_at": 1788455648,
+   "company": "spacex",
+   "hours_open": 0.3,
+   "title": "Materials Engineer, Thermal Protection (Starship)",
+   "uid": "greenhouse:spacex:8653496002"
+  },
+  {
+   "closed_at": 1788455648,
+   "company": "trueanomalyinc",
+   "hours_open": 0.3,
+   "title": "Supplier Quality Engineer",
+   "uid": "greenhouse:trueanomalyinc:5190620007"
+  },
+  {
+   "closed_at": 1788455648,
+   "company": "spacex",
+   "hours_open": 0.3,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1788455648,
+   "company": "spacex",
+   "hours_open": 0.3,
+   "title": "Propulsion Engineer (Raptor Components)",
+   "uid": "greenhouse:spacex:8637395002"
+  },
+  {
+   "closed_at": 1788455648,
+   "company": "spacex",
+   "hours_open": 0.3,
+   "title": "Propulsion Engineer (Merlin Hardware Development)",
+   "uid": "greenhouse:spacex:8632389002"
+  },
+  {
+   "closed_at": 1788455648,
+   "company": "spacex",
+   "hours_open": 0.3,
+   "title": "Propulsion Engineer, Avionics Manufacturing (Raptor)",
+   "uid": "greenhouse:spacex:8623602002"
+  },
+  {
+   "closed_at": 1788455648,
+   "company": "spacex",
+   "hours_open": 0.3,
+   "title": "Fluids Engineer (Starship)",
+   "uid": "greenhouse:spacex:8563304002"
+  },
+  {
+   "closed_at": 1788455648,
+   "company": "spacex",
+   "hours_open": 0.3,
+   "title": "Materials Engineer, Materials Laboratory",
+   "uid": "greenhouse:spacex:8574330002"
+  },
+  {
+   "closed_at": 1788455648,
+   "company": "spacex",
+   "hours_open": 0.3,
+   "title": "Thermal Engineer, Thermal & Fluid Analysis (Starship)",
+   "uid": "greenhouse:spacex:8561572002"
+  },
+  {
+   "closed_at": 1788455648,
+   "company": "spacex",
+   "hours_open": 0.3,
+   "title": "Propulsion Engineer, Thermal & Fluid Analysis (Starship)",
+   "uid": "greenhouse:spacex:8562385002"
+  },
+  {
+   "closed_at": 1788455648,
+   "company": "spacex",
+   "hours_open": 0.3,
+   "title": "Thermal Engineer, Satellites (Starlink)",
+   "uid": "greenhouse:spacex:8559317002"
+  },
+  {
+   "closed_at": 1788455648,
+   "company": "spacex",
+   "hours_open": 0.3,
+   "title": "Propulsion Engineer, Chamber and Nozzle Manufacturing (Raptor) ",
+   "uid": "greenhouse:spacex:8540363002"
+  },
+  {
+   "closed_at": 1788455648,
+   "company": "spacex",
+   "hours_open": 0.3,
+   "title": "Propulsion Engineer (Raptor Final Assembly & Tube Shop)",
+   "uid": "greenhouse:spacex:8535350002"
+  },
+  {
+   "closed_at": 1788455648,
+   "company": "spacex",
+   "hours_open": 0.3,
+   "title": "Materials Engineer, Polymers (Starlink)",
+   "uid": "greenhouse:spacex:8532221002"
+  },
+  {
+   "closed_at": 1788455648,
+   "company": "spacex",
+   "hours_open": 0.3,
+   "title": "Thermal Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8530463002"
+  },
+  {
+   "closed_at": 1788455648,
+   "company": "spacex",
+   "hours_open": 0.3,
+   "title": "Materials Engineer, Metals (Starship)   ",
+   "uid": "greenhouse:spacex:8572162002"
+  },
+  {
+   "closed_at": 1788455648,
+   "company": "spacex",
+   "hours_open": 0.3,
+   "title": "Propulsion Engineer, Valves (Raptor Components)",
+   "uid": "greenhouse:spacex:8521981002"
+  },
+  {
+   "closed_at": 1788455648,
+   "company": "spacex",
+   "hours_open": 0.3,
+   "title": "Propulsion Engineer, Components Manufacturing (Raptor)",
+   "uid": "greenhouse:spacex:8512813002"
+  },
+  {
+   "closed_at": 1788455648,
+   "company": "spacex",
+   "hours_open": 0.3,
+   "title": "Electric Propulsion Engineer, Mechanical - (Starlink)",
+   "uid": "greenhouse:spacex:8460962002"
   }
  ],
- "count": 196,
- "updated_at": 1788454653
+ "count": 241,
+ "updated_at": 1788455648
 }
