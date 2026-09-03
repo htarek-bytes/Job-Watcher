@@ -1,0 +1,27 @@
+# data/ is written by the poller on every sweep, about once a minute. Nobody
+# edits it by hand, so it should not produce review noise or merge work.
+
+# Collapse it in pull request diffs. A sweep can rewrite thousands of lines and
+# bury the actual change.
+data/*.json linguist-generated=true
+
+# Merge it with tools/merge-state.py instead of by line. `union`, git's usual
+# answer for append-only files, cannot be used: these are JSON documents and
+# union interleaves both sides' lines, producing a file the poller cannot
+# parse. The driver merges each file on its own terms, which matters most for
+# seen.json, where losing a uid means a role is pushed to the phone twice.
+#
+# A merge driver has to be defined in git config, which does not travel with a
+# clone, so run this once per clone:
+#
+#   git config merge.jobstate.name "job watcher state merge"
+#   git config merge.jobstate.driver "python3 tools/merge-state.py %O %A %B %P"
+#
+# Without it git falls back to a normal conflict, which is the behaviour this
+# replaces rather than something worse.
+#
+# It does not help GitHub's merge button: the web merge runs on GitHub's
+# servers and never sees this driver, so a pull request can still report a
+# conflict there. This is for merging locally, which is where these conflicts
+# actually get resolved.
+data/*.json merge=jobstate
