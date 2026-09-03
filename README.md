@@ -241,6 +241,30 @@ authorization signal**: on inspection, 3,229 of 3,240 active rows said
 `"Other"`. It is recorded but never trusted. The Phase 2 classifier reads
 actual job descriptions instead.
 
+## Merging a branch, and why data/ conflicts
+
+The poller commits `data/` on every sweep, about once a minute, so any branch
+that lives longer than a minute conflicts with the default branch on files
+nobody edits by hand. Resolving those by picking a side is wrong:
+`data/seen.json` is what stops a role being pushed to the phone twice, so
+dropping the uids the other side had already notified re-notifies all of them.
+
+`tools/merge-state.py` merges each of those files on its own terms. Run this
+once per clone, because a merge driver has to live in git config and does not
+travel with the repository:
+
+```bash
+git config merge.jobstate.name "job watcher state merge"
+git config merge.jobstate.driver "python3 tools/merge-state.py %O %A %B %P"
+```
+
+Note the limit: **GitHub's merge button does not run it.** The web merge
+happens on GitHub's servers, which never see the driver, so a pull request can
+still report a conflict there. This helps when merging locally, which is where
+these get resolved. `union`, git's usual answer for append-only files, is not
+an option: these are JSON documents and union interleaves both sides' lines
+into something the poller cannot parse.
+
 ## State files
 
 | file | contents |
