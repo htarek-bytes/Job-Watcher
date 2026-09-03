@@ -14,6 +14,30 @@ max_level = 1
 # a flat exclusion. Turning this off puts every phrase below back to being an
 # exclusion, which is the old behaviour exactly.
 include_internships = true
+
+# Accept a software role with no seniority marker at all: "Developer, Rust",
+# "Full Stack Software Developer", "Firmware Engineer". Not new grad, not
+# senior, and at a two hundred person company often open to a strong new
+# graduate.
+#
+# This applies to CANADIAN boards only, enforced in cli.py rather than here.
+# An audit of 90 Canadian boards found 63 of these dropped against 122 total
+# matches, so it is the largest recoverable group on that side. Accepting them
+# from all ~990 boards would bury the new grad results under US mid-level
+# roles instead. They are tagged "open level" so they stay distinguishable.
+include_open_level = true
+
+# Accept a role whose own description asks for at most this many years. Not
+# every posting says, and one that says nothing is not read as zero: it falls
+# through to the tiers above. Stronger evidence than "no seniority stated",
+# because the posting states the bar rather than leaving it unsaid, so this
+# applies everywhere rather than to Canadian boards only.
+#
+# Only the sources that return a description can supply it: Greenhouse, Lever,
+# Ashby, Workable and Recruitee do; Workday, SmartRecruiters, BambooHR,
+# Rippling, Job Bank and the aggregator do not. So coverage here is partial by
+# construction, not by choice. Tagged "0 to 3 years" so it stays filterable.
+max_years_experience = 3
 internship_phrases = [
   "intern",
   "interns",
@@ -58,6 +82,38 @@ role_keywords = [
   "test engineer",
   "engineer software",
   "developer",
+  # Development, product development, automation and infrastructure, worded
+  # without the words above. "Engineer", "developer" and "programmer" already
+  # cover DevOps Engineer, Cloud Engineer, Automation Engineer, Build Engineer
+  # and Web Developer, so the gap is only the titles carrying none of the
+  # three. These are two-word phrases rather than bare words on purpose:
+  # a bare "automation" would take Marketing Automation Specialist, and a bare
+  # "infrastructure" would take Infrastructure Project Coordinator.
+  "software development",
+  "application development",
+  "applications development",
+  "web development",
+  "product development",
+  "development analyst",
+  "development specialist",
+  "development associate",
+  "automation specialist",
+  "automation analyst",
+  "automation technician",
+  "test automation",
+  "qa automation",
+  "devops",
+  "dev ops",
+  "sre",
+  "site reliability",
+  "infrastructure analyst",
+  "infrastructure specialist",
+  "cloud specialist",
+  "cloud analyst",
+  "systems analyst",
+  "applications analyst",
+  "programmer analyst",
+  "technical specialist",
   # Bare "engineer" is deliberate: titles like "New Grad Engineer" are common.
   # The non-software disciplines it drags in are removed by the two-word
   # exclusions below, which are phrases rather than bare words so that
@@ -129,6 +185,12 @@ exclude_keywords = [
   "expert",
   # Non-software engineering disciplines, and customer-facing "engineer"
   # titles that are really sales roles. Two-word phrases on purpose.
+  # The broadened role list brought these with it: "automation specialist"
+  # matches inside "Marketing Automation Specialist", which is a marketing
+  # role. Same shape as the sales-engineer exclusions below.
+  "marketing automation",
+  "sales automation",
+  "crm automation",
   "sales engineer",
   "solutions engineer",
   "solution engineer",
@@ -152,6 +214,17 @@ exclude_keywords = [
 countries = ["US", "CA"]
 allow_remote = true
 allow_unknown = true  # keep postings with no parseable location, and tag them
+
+# Keep a fully remote role listed in another country when it says it hires
+# anywhere, or names Canada. On a Canadian passport that is a real option, and
+# dropping it for the city in its location field loses exactly the roles this
+# filter cannot find any other way.
+#
+# It takes an explicit signal, never the bare word "remote": that is the most
+# over-claimed word on a job board, and usually means one country. Presenting a
+# US-only role as Canada-open costs an application, which is the expensive
+# mistake here.
+allow_global_remote = true
 
 [notify]
 priority = "urgent"
