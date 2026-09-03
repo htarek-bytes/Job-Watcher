@@ -832,16 +832,38 @@ def cmd_hunt(cfg, args):
     if args.write and found:
         registry = state.load_slugs()
         now = int(time.time())
-        added = 0
-        for source, name, _c, _ca, _m in found:
+        added = promoted = 0
+
+        # "hunted-ca" now carries two consequences: the board is polled every
+        # sweep rather than rotated, and unlabelled software roles are accepted
+        # from it. Both are meant for boards that actually post in Canada, so
+        # only those get the tag. A board that answers with nothing Canadian is
+        # still recorded, so it is polled on rotation, but as a plain find.
+        for source, name, _count, canadian, _matched in found:
             block = registry.setdefault(source, {})
-            if name in block:
+            entry = block.get(name)
+            origin = "hunted-ca" if canadian else "hunted"
+
+            if entry is None:
+                block[name] = {"first_seen": now, "last_seen": now,
+                               "origin": origin}
+                added += 1
                 continue
-            block[name] = {"first_seen": now, "last_seen": now,
-                           "origin": "hunted-ca"}
-            added += 1
+            # A config board is already hot and was chosen by hand; leave it.
+            if entry.get("origin") == "config" or entry.get("origin") == origin:
+                continue
+            # Discovery already knew this board, but as a cold one, which is
+            # the case the first version of this skipped: 86 boards were added
+            # to the registry by discovery and stayed on a twelve minute
+            # rotation even after a hunt confirmed they post in Canada.
+            if origin == "hunted-ca":
+                entry["origin"] = origin
+                entry["last_seen"] = now
+                promoted += 1
+
         state.save_slugs(registry)
-        print("\nAdded %d newly confirmed boards to data/slugs.json." % added)
+        print("\nAdded %d new boards, promoted %d that discovery already knew."
+              % (added, promoted))
     elif found:
         print("\nNothing written. Re-run with --write to add these to the registry.")
 
