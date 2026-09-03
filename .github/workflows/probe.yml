@@ -1,0 +1,48 @@
+name: probe canadian sources
+
+# The Canadian sources are HTML pages and undocumented JSON, not published
+# APIs. Their parsers were written against remembered markup, and no job board
+# is reachable from the machine they were written on, so this workflow is where
+# they meet reality.
+#
+# Run it, read the summary, then enable in poller/config.toml only the sources
+# it reports OK. Writes no state, sends no notifications.
+on:
+  workflow_dispatch:
+    inputs:
+      dump:
+        description: "print raw response bodies, to fix a parser from the log"
+        type: boolean
+        default: true
+
+permissions:
+  contents: read
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Parser tests
+        run: python -m unittest discover -s poller/tests -v
+
+      - name: Probe
+        run: |
+          if [ "${{ inputs.dump }}" = "true" ]; then
+            python poller/cli.py probe --dump 6000 | tee probe-report.txt
+          else
+            python poller/cli.py probe | tee probe-report.txt
+          fi
+
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: probe-report
+          path: probe-report.txt

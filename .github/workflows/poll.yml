@@ -22,9 +22,9 @@ on:
   workflow_dispatch:
     inputs:
       mode:
-        description: "run = normal sweep, seed = mark everything seen without notifying"
+        description: "run = normal sweep, seed = mark everything seen, probe = check the Canadian sources, hunt = find Canadian ATS boards"
         type: choice
-        options: [run, seed, notify-test]
+        options: [run, seed, notify-test, probe, hunt]
         default: run
       dry_run:
         description: "print notifications instead of sending them"
@@ -45,7 +45,10 @@ concurrency:
 jobs:
   sweep:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    # A sweep finishes in well under a minute. `hunt` is the outlier: it tries
+    # ~1700 guessed slugs and needs room, so the limit is set for it rather
+    # than for the common case, which is bounded by the cron cadence anyway.
+    timeout-minutes: 25
 
     steps:
       - uses: actions/checkout@v4
@@ -72,7 +75,17 @@ jobs:
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          if [ "${{ inputs.mode }}" = "notify-test" ]; then
+          if [ "${{ inputs.mode }}" = "probe" ]; then
+            # Reads the Canadian endpoints and writes nothing. It lives on this
+            # workflow rather than its own because workflow_dispatch only lists
+            # workflows that exist on the default branch, and this one has to be
+            # runnable from a feature branch to be any use before merging.
+            python poller/cli.py probe --candidates --dump 6000
+          elif [ "${{ inputs.mode }}" = "hunt" ]; then
+            # Tries every Canadian name in poller/canada_seed.txt as a slug on
+            # every platform, and writes only the boards that answered.
+            python poller/cli.py hunt --write
+          elif [ "${{ inputs.mode }}" = "notify-test" ]; then
             python poller/cli.py notify-test
           elif [ "${{ inputs.mode }}" = "seed" ]; then
             python poller/cli.py seed
@@ -82,7 +95,10 @@ jobs:
             python poller/cli.py run
           fi
 
+      # `hunt` writes the registry and nothing else, so its commit is wanted;
+      # `probe` writes nothing at all.
       - name: Commit state
+        if: ${{ inputs.mode != 'probe' }}
         run: |
           git config user.name  "job-watcher"
           git config user.email "job-watcher@users.noreply.github.com"

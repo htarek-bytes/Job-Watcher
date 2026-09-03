@@ -9,6 +9,22 @@
 [match]
 max_level = 1
 
+# Internships are matched as a second KIND rather than mixed into the new grad
+# list, so the dashboard can show them separately or hide them. They used to be
+# a flat exclusion. Turning this off puts every phrase below back to being an
+# exclusion, which is the old behaviour exactly.
+include_internships = true
+internship_phrases = [
+  "intern",
+  "interns",
+  "internship",
+  "co op",
+  "coop",
+  "summer intern",
+  "student",
+  "industrial placement",
+]
+
 # Gate 1: the title has to name a role worth waking up for.
 role_keywords = [
   "software engineer",
@@ -209,6 +225,93 @@ slugs = []
 [sources.recruitee]
 enabled = true
 slugs = []
+
+# ---------------------------------------------------------------------------
+# Canada. Everything above is an applicant tracking system keyed by a company
+# slug, and the slug registry is mined from SimplifyJobs, a US new grad
+# aggregator. The result was a feed of 496 US roles to 24 Canadian ones. These
+# are national aggregators instead: one endpoint, thousands of employers, and
+# no need to know a company exists before it can be found.
+#
+# A source is enabled here only after the probe workflow has shown it fetching
+# and parsing real postings. Job Bank has: a run on 2026-09-02 returned HTTP
+# 200 and the parser read 25 live postings out of it, so it is on. The rest
+# stay off until a probe says the same about them, because shipping an
+# untested source as working is the exact thing this project does not do.
+# ---------------------------------------------------------------------------
+
+[sources.jobbank]
+# Job Bank, run by the federal government. The widest Canadian coverage there
+# is: small firms that are on no aggregator post here, and every LMIA backed
+# role is required to be here. It is also the only one with no commercial
+# reason to block a reader. Its results link to the employer's own careers
+# page, so they feed slug discovery as well as the feed itself.
+#
+# The queries carry the early career words on purpose. Job Bank shows the NOC
+# title, which is a bare "software developer", and the matcher's fourth gate
+# wants a new grad signal in the title, so a plain role search returns hundreds
+# of rows that are all filtered out again. Searching for the signal itself is
+# what turns a wide net into a useful one.
+#
+# VERIFIED 2026-09-02: HTTP 200, 25 postings parsed, newest dated that day.
+enabled = true
+queries = [
+  "junior software developer",
+  "junior programmer",
+  "entry level software developer",
+  # "graduate software developer" was here and carried no signal the matcher
+  # knows: the phrase list has "new graduate" and "recent graduate", not a bare
+  # "graduate". It would have spent six requests a sweep and matched nothing.
+  "new graduate software developer",
+  "developpeur junior",
+  "programmeur junior",
+]
+
+[sources.jobillico]
+# Quebec's largest board and effectively invisible from outside the province.
+# The search term is a path segment on /recherche-emploi, and the site has no
+# English search route, so French terms are as useful as English ones here.
+#
+# VERIFIED 2026-09-02: HTTP 200, 456 KB, 9 Quebec postings parsed with the
+# employer, the city and a real date on each.
+enabled = true
+queries = [
+  "developpeur logiciel",
+  "developpeur junior",
+  "programmeur junior",
+  "software developer",
+  "junior developer",
+]
+
+[sources.talentegg]
+# Canadian, and new grad and campus only, so almost everything on it already
+# passes the matcher's early career gate. Small but the highest signal here.
+#
+# VERIFIED 2026-09-02: HTTP 200, real postings parsed. It is genuinely small,
+# a couple of software hits per query, and it publishes no dates, so a role
+# from here shows an unknown age rather than a fake one.
+enabled = true
+queries = ["software", "developer", "software engineer", "engineering"]
+
+[sources.eluta]
+# Indexes Canadian employers' own careers pages rather than reselling
+# postings, so its links point straight at Greenhouse, Lever and Workable
+# boards. Worth more as a discovery feed than as a source of rows.
+enabled = false
+queries = ["software developer", "software engineer"]
+
+[sources.getro]
+# Powers the talent networks venture funds run for their portfolios. The
+# Canadian ones (Inovia, Real, Golden, BDC, Georgian, OMERS, Radical, Panache)
+# are a directory of exactly the employer that is invisible everywhere else:
+# a hundred to three hundred people, real engineering, no aggregator presence.
+#
+# A network is addressed by a numeric id that only appears in its own board's
+# page source, so there is nothing to guess and nothing is listed here yet.
+# To add one: open the fund's jobs page, view source, search for
+# "collection" or "network_id", and paste the number below.
+enabled = false
+collections = []
 
 [sources.amazon]
 # Brittle and unofficial. Isolated so a failure here cannot take down a sweep.

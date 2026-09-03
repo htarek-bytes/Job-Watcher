@@ -11,13 +11,17 @@ so the dead ones can be pruned. It never writes state.
 
 import argparse
 import concurrent.futures
+import json
 import os
+import re
 import sys
 import time
 import tomllib
+import urllib.parse
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
+import canada
 import discover
 import locations
 import rank
@@ -37,6 +41,13 @@ NOTIFY_BURST_LIMIT = 12
 # Parallel fetches. Small enough to stay polite to any single ATS, large
 # enough that a sweep finishes well inside the cron interval.
 FETCH_WORKERS = 12
+
+# How long a role survives on a board that has stopped confirming it. The
+# rotation reaches every board about every twelve minutes, so anything near
+# that is plenty; three days is the safety valve for a board that is renamed,
+# deleted or permanently broken, whose roles would otherwise sit in the feed
+# for good because nothing ever contradicts them.
+CARRY_MAX_SECONDS = 3 * 86400
 
 
 def load_config(path=CONFIG):
@@ -73,7 +84,13 @@ def select_targets(cfg, registry, health):
             hot.append(target)
             continue
         entry = registry.get(source, {}).get(key, {})
-        if entry.get("origin") == "config" or (
+        # "hunted-ca" boards are hot for the same reason config ones are: they
+        # were put there deliberately. They are the 75 Canadian employers the
+        # hunt confirmed, and leaving them in a rotation that takes about
+        # twelve minutes to come round would mean the roles this tool was
+        # widened to catch are the ones it sees last. They are conditional
+        # requests, so an unchanged board costs a 304 and no payload.
+        if entry.get("origin") in ("config", "hunted-ca") or (
             entry.get("last_match") and now - entry["last_match"] < hot_seconds
         ):
             hot.append(target)
@@ -110,6 +127,7 @@ def sweep(cfg, health, registry, quiet=False, previous=None):
     matcher = Matcher(cfg)
     jobs = []
     results = []
+    now = int(time.time())
 
     # Indexed source -> slug -> jobs. The lookup key is not always the job's
     # slug: the aggregator is configured as "SimplifyJobs/New-Grad-Positions"
@@ -120,7 +138,41 @@ def sweep(cfg, health, registry, quiet=False, previous=None):
         carried.setdefault(job.get("source"), {}).setdefault(
             job.get("slug"), []).append(job)
 
-    _, targets = select_targets(cfg, registry, health)
+    all_targets, targets = select_targets(cfg, registry, health)
+    polled = set(targets)
+
+    def carry(source, key):
+        """Keep a board's known roles when this sweep learned nothing new.
+
+        A board is authoritative about its own roles only when it was polled
+        AND answered with a payload. Three other things can happen, and all
+        three mean "no news" rather than "no jobs":
+
+          the rotation did not select it   ~900 boards, 80 a sweep
+          it answered 304 Not Modified     nothing changed since the ETag
+          the request failed               a timeout is not a closure
+
+        Only the second was handled. The first is why a role could be pushed
+        to the phone and then be missing from the dashboard a minute later:
+        its board sat out the next rotation, so `jobs` was rebuilt without it
+        and jobs.json was overwritten. At 987 boards and 80 a sweep a cold
+        board is polled about once every twelve minutes, so its roles were in
+        the feed for one sweep in twelve and gone for the other eleven.
+        """
+        by_slug = carried.get(source, {})
+        if source in (sources.SIMPLIFY, sources.AMAZON):
+            known = [j for group in by_slug.values() for j in group]
+        else:
+            known = by_slug.get(key, [])
+        kept_jobs = []
+        for job in known:
+            # Stamped on the way through, so a job written before this field
+            # existed gets a real clock instead of being carried forever.
+            job.setdefault("confirmed_at", now)
+            if now - job["confirmed_at"] <= CARRY_MAX_SECONDS:
+                kept_jobs.append(job)
+        jobs.extend(kept_jobs)
+        return kept_jobs
 
     def fetch_one(target):
         source, key = target
@@ -135,37 +187,50 @@ def sweep(cfg, health, registry, quiet=False, previous=None):
     with concurrent.futures.ThreadPoolExecutor(max_workers=FETCH_WORKERS) as pool:
         fetched = list(pool.map(fetch_one, targets))
 
-    now = int(time.time())
-    raw_simplify = None
+    # URLs to mine ATS slugs out of. The aggregator was the only contributor
+    # for a long time, and it is a US new grad feed, which is precisely why the
+    # registry knew ~900 American boards and almost no Canadian ones. Job Bank,
+    # Eluta and the Getro networks link to the employer's own ATS, so feeding
+    # their results in here is what makes Canadian coverage compound: a board
+    # learned once is polled directly forever after.
+    discovery_urls = []
 
     for (source, key), result in fetched:
         results.append(result)
         state.record_source(health, source, key, result)
 
         if not result.ok:
+            # A failed request is not a closure. Greenhouse timing out once
+            # must not delete that company's roles from the feed.
+            kept_before = carry(source, key)
             if not quiet:
-                print("  !! %s/%s failed: %s" % (source, key, result.error))
+                print("  !! %s/%s failed: %s (%d carried forward)"
+                      % (source, key, result.error, len(kept_before)))
             continue
         if result.not_modified:
-            # Unchanged, not empty. Carry the last known jobs for this board
-            # forward; they were already filtered and classified.
-            by_slug = carried.get(source, {})
-            if source in (sources.SIMPLIFY, sources.AMAZON):
-                kept_before = [j for group in by_slug.values() for j in group]
-            else:
-                kept_before = by_slug.get(key, [])
-            jobs.extend(kept_before)
+            # Unchanged, not empty. The known jobs were already filtered and
+            # classified, so they carry forward as they are.
+            kept_before = carry(source, key)
             if not quiet and kept_before:
                 print("  == %s/%s unchanged (304), %d carried forward"
                       % (source, key, len(kept_before)))
             continue
 
-        if source == sources.SIMPLIFY:
-            raw_simplify = result.jobs
+        if source == sources.SIMPLIFY or source in canada.DISCOVERY_SOURCES:
+            discovery_urls.extend(j.get("url") for j in result.jobs)
+
+        # The Canadian aggregators are searched by keyword, and Job Bank shows
+        # the NOC title rather than the employer's, so an early career signal
+        # that was in the search never reaches the title. Where the query
+        # itself carried one, the source vouches for it.
+        signal = None
+        if source in canada.SOURCES:
+            signal = (canada.EARLY_CAREER_SOURCES.get(source)
+                      or matcher.early_career_query(key))
 
         kept = 0
         for job in result.jobs:
-            matched, reason = matcher.evaluate(job.get("title", ""))
+            matched, reason, kind = matcher.evaluate_full(job.get("title", ""), signal)
             if not matched:
                 continue
             region, evidence = locations.classify(job.get("locations"))
@@ -178,10 +243,27 @@ def sweep(cfg, health, registry, quiet=False, previous=None):
                 company=job.get("company", ""),
             )
             job["region"] = region
+            # Every region the posting covers, so the dashboard's Canada filter
+            # also finds a role open in Toronto and New York. `region` alone
+            # calls that one US and hides it.
+            job["regions"] = locations.classify_all(job.get("locations"))
+            # Remote is a property of the role, not a place. The region tag
+            # prefers a country, so "Remote - US" is tagged US and a Remote
+            # filter built on the region found 1 posting where 18 said remote.
+            job["remote"] = locations.is_remote(job.get("locations"))
+            # "new grad" or "internship". Kept apart rather than blended: the
+            # two have different deadlines and different value.
+            job["kind"] = kind
             job["location_evidence"] = evidence
             job["match_reason"] = reason
             job["work_auth"] = status
             job["work_auth_evidence"] = auth_evidence
+
+            # When this board last vouched for this role. It is what lets an
+            # unpolled board's roles be carried without carrying them forever:
+            # a board that is renamed or deleted stops refreshing the stamp,
+            # and its roles age out.
+            job["confirmed_at"] = now
 
             # The description is scanned for work authorization above and then
             # dropped. It is never committed: everything in data/ is public.
@@ -195,11 +277,21 @@ def sweep(cfg, health, registry, quiet=False, previous=None):
         if not quiet and result.count:
             print("  ok %s/%s: %d postings, %d kept" % (source, key, result.count, kept))
 
-    # Discovery runs off the aggregator payload we already fetched.
-    if raw_simplify is not None and cfg.get("discovery", {}).get("enabled", True):
-        found = discover.discover(
-            [{"url": j.get("url")} for j in raw_simplify]
-        )
+    # Every board the rotation did not reach this sweep. Without this the feed
+    # is not "all open roles", it is "roles on the ~80 boards polled in the
+    # last minute", which is what made a pushed role missing from the board.
+    unpolled = 0
+    for target in all_targets:
+        if target in polled:
+            continue
+        unpolled += len(carry(*target))
+    if not quiet and unpolled:
+        print("  .. %d roles carried from %d boards not polled this sweep"
+              % (unpolled, len(all_targets) - len(polled)))
+
+    # Discovery runs off payloads already fetched, so it costs no extra request.
+    if discovery_urls and cfg.get("discovery", {}).get("enabled", True):
+        found = discover.discover([{"url": url} for url in discovery_urls])
         before = sum(len(v) for v in registry.values())
         registry.update(discover.merge(registry, found, now))
         after = sum(len(v) for v in registry.values())
@@ -343,6 +435,313 @@ def cmd_verify(cfg, args):
 
 
 # --------------------------------------------------------------------------
+# probe
+#
+# The Canadian sources are HTML pages and undocumented JSON, not published
+# APIs, and this sandbox has no egress to any of them, so their parsers cannot
+# be written by looking at a response. `probe` is the substitute: it runs where
+# egress is real, reports exactly what each endpoint answered, and on --dump
+# prints enough of the raw body to repair a parser from the log.
+#
+# Nothing here writes state, and a source stays disabled in config.toml until
+# a probe run has shown it returning real postings.
+# --------------------------------------------------------------------------
+
+PROBE_QUERY = "software developer"
+
+
+def cmd_probe(cfg, args):
+    import canada as ca
+    import net
+
+    targets = []
+    # Probed includes the ones measured unreachable: the point of a probe is to
+    # find out whether that is still true.
+    for name in ca.SOURCES + ca.UNREACHABLE:
+        block = cfg.get("sources", {}).get(name, {})
+        keys = block.get("queries") or block.get("collections")
+        if name == ca.GETRO and not keys:
+            # Getro is addressed by network id, and a search term is not one.
+            # Probing it with the default query only produced a confusing 404
+            # about a URL containing a space.
+            print("  SKIP     getro        no network ids configured\n")
+            continue
+        targets.append((name, str((keys or [PROBE_QUERY])[0])))
+
+    print("Probing %d Canadian sources. Nothing is written.\n" % len(targets))
+    rows = []
+
+    for name, key in targets:
+        result = ca.fetch(name, key)
+        titles = [j["title"] for j in result.jobs if j.get("title")][:5]
+        if not result.ok:
+            verdict, detail = "DEAD", result.error or "no data"
+        elif not result.jobs:
+            verdict = "NOPARSE"
+            detail = "HTTP %s answered but the parser found nothing" % result.status
+        else:
+            verdict = "OK"
+            detail = "%d postings: %s" % (result.count, "; ".join(titles))
+        rows.append((verdict, name, key, result.status,
+                     int(result.seconds * 1000), detail))
+        print("  %-8s %-12s %-24s %s" % (verdict, name, key[:24], detail[:110]))
+
+        # Finding the right path one workflow run at a time is slow, so try
+        # every candidate shape in the same run. Done for a working source too,
+        # not only a failing one: for Job Bank the open question is not whether
+        # the URL answers but which sort parameter orders by date, and that is
+        # only visible by comparing what each one returns.
+        if args.candidates:
+            for url in ca.probe_urls(name, key)[1:]:
+                # No retries. A candidate is being tested for whether it is the
+                # right path, and repeating a wrong one three times with
+                # backoff is how one probe run took nearly nine minutes.
+                probe = net.get(url, headers=ca._BROWSER, retries=0,
+                                timeout=ca.JOBBANK_TIMEOUT)
+                # Path and query only. These candidates differ in their last
+                # few characters, so a left truncated full URL printed four
+                # identical looking lines.
+                shown = url.split("//", 1)[-1].split("/", 1)[-1]
+                print("      try %-58s HTTP %-4s %7d bytes  %s"
+                      % (shown[-58:], probe.status, len(probe.body or ""),
+                         _probe_parse(ca, name, key, probe.body)))
+
+    if args.dump:
+        print("\n" + "=" * 72)
+        print("Raw bodies. This is here so a parser can be fixed from the log.")
+        print("=" * 72)
+        for name, key in targets:
+            print("\n--- %s / %s ---" % (name, key))
+            _dump_body(ca, name, key, args.dump)
+
+    summary = os.environ.get("GITHUB_STEP_SUMMARY")
+    if summary:
+        with open(summary, "a", encoding="utf-8") as fh:
+            fh.write("## Canadian source probe\n\n")
+            fh.write("| verdict | source | key | status | ms | detail |\n"
+                     "|---|---|---|---|---|---|\n")
+            for verdict, name, key, status, ms, detail in rows:
+                fh.write("| %s | %s | `%s` | %s | %d | %s |\n"
+                         % (verdict, name, key, status, ms,
+                            detail.replace("|", "\\|")[:300]))
+    return 0 if any(r[0] == "OK" for r in rows) else 1
+
+
+def _probe_parse(ca, name, key, body):
+    """What this source's parser makes of a candidate page.
+
+    A status code alone does not separate the right URL from a soft 200 error
+    page, and for Job Bank it does not answer the other open question either:
+    which sort parameter actually orders by date. Printing the newest posting
+    the parser finds answers both from one run.
+    """
+    if not body:
+        return ""
+    parser = {
+        ca.JOBBANK: ca._parse_jobbank,
+        ca.JOBILLICO: ca._parse_jobillico,
+        ca.TALENTEGG: ca._parse_talentegg,
+        ca.ELUTA: ca._parse_eluta,
+    }.get(name)
+    if not parser:
+        return ""
+    try:
+        jobs = parser(key, body)
+    except Exception as exc:  # noqa: BLE001
+        return "parser raised %s" % type(exc).__name__
+    if not jobs:
+        return "0 parsed"
+    newest = max((j.get("posted_at") or 0) for j in jobs)
+    return "%d parsed, newest %s, first %r" % (
+        len(jobs),
+        time.strftime("%Y-%m-%d", time.gmtime(newest)) if newest else "unknown",
+        jobs[0]["title"][:40],
+    )
+
+
+_LINKISH = re.compile(
+    r"job|emploi|search|recherche|poste|career|carriere|carrière|offre|opening",
+    re.I)
+
+
+def _dump_body(ca, name, key, limit):
+    """Dump the first URL for this source that returns anything.
+
+    Deliberately not the primary URL. A probe run showed Jobillico and
+    TalentEgg answering 404 and 500 to every search path guessed for them while
+    their front pages returned 322 KB and 185 KB, so dumping the primary just
+    reprinted "0 bytes" and taught nothing. The front page is the thing that
+    names the real search path, in its own navigation.
+    """
+    import net
+
+    if name == ca.GETRO:
+        resp = net.post(ca.GETRO_API % key,
+                        json.dumps({"hitsPerPage": 5, "page": 0}).encode("utf-8"),
+                        headers={"Content-Type": "application/json"})
+    else:
+        resp = None
+        for url in ca.probe_urls(name, key):
+            resp = net.get(url, headers=ca._BROWSER, retries=0)
+            if resp.body:
+                print("dumping %s" % url)
+                break
+
+    if not resp or not resp.body:
+        print("HTTP %s, nothing to dump (%s)"
+              % (resp.status if resp else 0, resp.error if resp else "no url"))
+        return
+    print("HTTP %s, %d bytes" % (resp.status, len(resp.body or "")))
+
+    blocks = ca._LD_BLOCK.findall(resp.body)
+    print("schema.org script blocks on page: %d" % len(blocks))
+    for block in blocks[:2]:
+        print("  LD: " + block.strip()[:600])
+
+    # The paths this site uses for jobs, which is what the search URL has to be
+    # built from. Reading them off the page beats another round of guessing:
+    # six guesses at Jobillico's search path all 404'd.
+    paths = []
+    for href in re.findall(r'href=["\']([^"\'#]+)["\']', resp.body):
+        if not _LINKISH.search(href) or href.startswith(("mailto:", "tel:")):
+            continue
+        path = href.split("?")[0]
+        if path not in paths:
+            paths.append(path)
+    print("\njob-ish link paths on the page (%d):" % len(paths))
+    for path in paths[:40]:
+        print("   " + path[:120])
+
+    found = re.search(r"<article\b.*?</article>", resp.body, re.S | re.I)
+    if found:
+        print("\nfirst <article>:\n" + found.group(0)[:limit])
+    else:
+        print("\nno <article> element. First %d bytes:\n%s"
+              % (limit, resp.body[:limit]))
+
+
+# --------------------------------------------------------------------------
+# hunt
+#
+# The other half of the Canadian gap. Discovery reads slugs out of SimplifyJobs
+# posting URLs, and SimplifyJobs is a US new grad aggregator, so the registry
+# ended up knowing ~900 American boards and almost none here. A Canadian
+# company can be on Greenhouse with an obvious slug and still be invisible,
+# because nothing ever mentioned it.
+#
+# So: take a list of Canadian employers, try each name as a slug on every
+# platform whose board key is a company name, and keep only the ones that
+# answer with real postings. That is guessing, but it is guessing that gets
+# checked before anything is written, which is the difference between this and
+# the 24 hand written slugs that were all dead.
+#
+# Workday is excluded. Its key is tenant plus data centre plus site, and none
+# of those three follow from a company name.
+# --------------------------------------------------------------------------
+
+HUNT_SOURCES = (sources.GREENHOUSE, sources.LEVER, sources.ASHBY,
+                sources.SMARTRECRUITERS, sources.BAMBOOHR, sources.RIPPLING,
+                sources.WORKABLE, sources.RECRUITEE)
+
+SEED_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)),
+                         "canada_seed.txt")
+
+# Higher than a sweep's, because these are one round trip each against eight
+# different hosts rather than a sustained load on any one of them.
+HUNT_WORKERS = 32
+
+
+def load_names(path):
+    names = []
+    with open(path, encoding="utf-8") as fh:
+        for line in fh:
+            line = line.split("#", 1)[0].strip()
+            if line:
+                names.append(line)
+    # Preserve order but drop repeats, so the same name in two regional
+    # sections does not cost a second round of requests.
+    return list(dict.fromkeys(names))
+
+
+def cmd_hunt(cfg, args):
+    import net
+
+    names = load_names(args.names)
+    if args.offset or args.limit:
+        names = names[args.offset:args.offset + (args.limit or len(names))]
+    matcher = Matcher(cfg)
+    targets = [(source, name) for name in names for source in HUNT_SOURCES]
+
+    # Almost every one of these is a slug that does not exist, and a miss is a
+    # verdict rather than a transient failure. Retrying each one three times
+    # with backoff pushed the first run past the workflow timeout without
+    # learning anything, so retries are off and the pool is wider: nearly all
+    # of these requests end in a 404 that costs one round trip.
+    net.RETRIES = 0
+    print("Testing %d names across %d platforms: %d boards to try.\n"
+          % (len(names), len(HUNT_SOURCES), len(targets)))
+
+    with concurrent.futures.ThreadPoolExecutor(max_workers=HUNT_WORKERS) as pool:
+        fetched = list(pool.map(
+            lambda t: (t, sources.fetch(t[0], t[1], cfg)), targets))
+
+    found = []
+    for (source, name), result in fetched:
+        if not result.ok or not result.jobs:
+            continue
+        matched = sum(1 for j in result.jobs if matcher.matches(j.get("title", "")))
+        # A board's location mix is the thing worth knowing here: a slug that
+        # answers but only ever posts in the US adds nothing this registry did
+        # not already have.
+        canadian = 0
+        for job in result.jobs:
+            region, _ = locations.classify(job.get("locations"))
+            if region == locations.CA:
+                canadian += 1
+        found.append((source, name, result.count, canadian, matched))
+
+    found.sort(key=lambda r: (-r[3], -r[4], r[0], r[1]))
+    for source, name, count, canadian, matched in found:
+        print("  LIVE  %-16s %-24s %4d postings, %3d in Canada, %2d match"
+              % (source, name, count, canadian, matched))
+
+    live_ca = [r for r in found if r[3] > 0]
+    print("\n" + "=" * 72)
+    print("%d of %d tried boards answered with postings." % (len(found), len(targets)))
+    print("%d of those post in Canada." % len(live_ca))
+    print("=" * 72)
+
+    if args.write and found:
+        registry = state.load_slugs()
+        now = int(time.time())
+        added = 0
+        for source, name, _c, _ca, _m in found:
+            block = registry.setdefault(source, {})
+            if name in block:
+                continue
+            block[name] = {"first_seen": now, "last_seen": now,
+                           "origin": "hunted-ca"}
+            added += 1
+        state.save_slugs(registry)
+        print("\nAdded %d newly confirmed boards to data/slugs.json." % added)
+    elif found:
+        print("\nNothing written. Re-run with --write to add these to the registry.")
+
+    summary = os.environ.get("GITHUB_STEP_SUMMARY")
+    if summary:
+        with open(summary, "a", encoding="utf-8") as fh:
+            fh.write("## Canadian board hunt\n\n")
+            fh.write("**%d live boards, %d of them posting in Canada, from %d tried.**\n\n"
+                     % (len(found), len(live_ca), len(targets)))
+            fh.write("| source | slug | postings | in Canada | match filters |\n"
+                     "|---|---|---|---|---|\n")
+            for source, name, count, canadian, matched in found:
+                fh.write("| %s | `%s` | %d | %d | %d |\n"
+                         % (source, name, count, canadian, matched))
+    return 0
+
+
+# --------------------------------------------------------------------------
 # seed
 # --------------------------------------------------------------------------
 
@@ -466,6 +865,24 @@ def main(argv=None):
     ver.add_argument("--include-discovered", action="store_true",
                      help="also verify the ~360 auto-discovered boards")
     sub.add_parser("discover", help="mine ATS slugs from the SimplifyJobs feed")
+
+    pro = sub.add_parser("probe", help="check the Canadian sources answer, and how")
+    pro.add_argument("--dump", type=int, nargs="?", const=3000, default=0,
+                     metavar="BYTES",
+                     help="print raw response bodies, to fix a parser from the log")
+    pro.add_argument("--candidates", action="store_true",
+                     help="for a source that failed, try every known URL shape")
+
+    hunt = sub.add_parser(
+        "hunt", help="test Canadian company names as slugs on every platform")
+    hunt.add_argument("--names", default=SEED_FILE)
+    hunt.add_argument("--write", action="store_true",
+                      help="add the boards that answered to data/slugs.json")
+    hunt.add_argument("--offset", type=int, default=0)
+    hunt.add_argument("--limit", type=int, default=0,
+                      help="only test this many names, so a long list can be "
+                           "split across runs")
+
     sub.add_parser("seed", help="mark everything currently open as seen")
     sub.add_parser("notify-test", help="send one push to prove ntfy is wired up")
 
@@ -479,6 +896,8 @@ def main(argv=None):
     return {
         "verify": cmd_verify,
         "discover": cmd_discover,
+        "probe": cmd_probe,
+        "hunt": cmd_hunt,
         "notify-test": cmd_notify_test,
         "seed": cmd_seed,
         "run": cmd_run,

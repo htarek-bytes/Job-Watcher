@@ -303,6 +303,7 @@ def iter_configured(cfg, registry=None):
     the hand-written ones, which is how the 70 guesses became ~360 real boards.
     """
     src = cfg.get("sources", {})
+    import canada as _canada
     import discover as _discover
 
     # Every ATS whose board key can be recovered from a posting URL. The
@@ -323,6 +324,10 @@ def iter_configured(cfg, registry=None):
         for board in sorted(boards):
             yield name, board
 
+    # National Canadian aggregators. Not company boards, so they are never
+    # rotated: there are a handful and they carry the whole Canadian side.
+    yield from _canada.iter_configured(cfg)
+
     if src.get(AMAZON, {}).get("enabled", True):
         for query in src.get(AMAZON, {}).get("queries", []):
             yield AMAZON, query
@@ -331,6 +336,9 @@ def iter_configured(cfg, registry=None):
 
 
 def fetch(source, key, cfg, etag=None):
+    import canada as _canada
+    if source in _canada.SOURCES:
+        return _canada.fetch(source, key, etag)
     if source == GREENHOUSE:
         return fetch_greenhouse(key, etag)
     if source == LEVER:

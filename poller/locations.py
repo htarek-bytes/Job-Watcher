@@ -148,6 +148,36 @@ def classify(values):
     return UNKNOWN, values[0]
 
 
+def classify_all(values):
+    """Every region a posting covers, not just the best one.
+
+    `classify` returns one region and prefers US, which is right for the
+    headline tag but wrong for filtering: a role open in Toronto and New York
+    is tagged US, so filtering the dashboard to Canada hid it. Canadian roles
+    at companies that also hire in the States are exactly the ones worth
+    seeing, and there were 496 US rows to 24 Canadian ones to begin with.
+    """
+    if isinstance(values, str):
+        values = [values]
+    found = {classify_one(v) for v in (values or []) if v}
+    found.discard(UNKNOWN)
+    return sorted(found)
+
+
+def is_remote(values):
+    """Whether a posting says it is remote, regardless of its region.
+
+    `classify` returns one region and prefers a country over REMOTE, so a role
+    listed "Remote - US" is tagged US and a Remote filter built on the region
+    finds almost nothing: the live feed had 18 postings whose location says
+    remote and exactly 1 tagged REMOTE. Remote is a property of the role, not
+    a place, so it is recorded separately.
+    """
+    if isinstance(values, str):
+        values = [values]
+    return any(_REMOTE.search(v) for v in (values or []) if v)
+
+
 def allowed(region, cfg):
     loc = cfg.get("locations", {})
     countries = set(loc.get("countries", [US, CA]))

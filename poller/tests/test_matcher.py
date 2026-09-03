@@ -16,6 +16,12 @@ with open(CONFIG, "rb") as fh:
 
 
 # The table from the spec. These are the cases that must pass.
+#
+# One row has deliberately changed since the spec was written. The spec wanted
+# internships rejected; they are now wanted, matched as a separate kind rather
+# than blended into the new grad list. The old rule is still tested, below,
+# under include_internships = false, because it is still the behaviour that
+# flag is supposed to restore.
 SPEC_CASES = [
     ("New Grad Software Engineer 2027", True),
     ("University Graduate, Software Engineer", True),
@@ -23,9 +29,21 @@ SPEC_CASES = [
     ("Entry Level Data Engineer", True),
     ("Software Engineer II", False),
     ("Senior Software Engineer", False),
-    ("Software Engineering Intern, Summer 2027", False),
     ("Engineering Manager", False),
 ]
+
+INTERNSHIP_CASES = [
+    ("Software Engineering Intern, Summer 2027", True),
+    ("Software Developer Co-op", True),
+    ("Senior Software Engineering Intern", False),
+    ("Engineering Internship Program Manager", False),
+]
+
+
+def _cfg(**overrides):
+    cfg = {k: (dict(v) if isinstance(v, dict) else v) for k, v in CFG.items()}
+    cfg["match"] = dict(cfg["match"], **overrides)
+    return cfg
 
 
 class SpecTable(unittest.TestCase):
@@ -37,6 +55,48 @@ class SpecTable(unittest.TestCase):
             with self.subTest(title=title):
                 got, reason = self.m.evaluate(title)
                 self.assertEqual(got, expected, "%r -> %s (%s)" % (title, got, reason))
+
+
+class Internships(unittest.TestCase):
+    def setUp(self):
+        self.on = Matcher(_cfg(include_internships=True))
+        self.off = Matcher(_cfg(include_internships=False))
+
+    def test_internships_match_when_wanted(self):
+        for title, expected in INTERNSHIP_CASES:
+            with self.subTest(title=title):
+                got, reason = self.on.evaluate(title)
+                self.assertEqual(got, expected, "%r -> %s (%s)" % (title, got, reason))
+
+    def test_they_are_tagged_as_internships_not_new_grad(self):
+        # Blending them into one list is the thing to avoid: the two have
+        # different deadlines and different value.
+        _, _, kind = self.on.evaluate_full("Software Engineering Intern")
+        self.assertEqual(kind, "internship")
+
+    def test_a_new_grad_role_is_still_tagged_new_grad(self):
+        _, _, kind = self.on.evaluate_full("New Grad Software Engineer")
+        self.assertEqual(kind, "new grad")
+
+    def test_seniority_still_wins_over_an_internship(self):
+        self.assertFalse(self.on.matches("Senior Software Engineering Intern"))
+        self.assertFalse(self.on.matches("Software Engineering Intern III"))
+
+    def test_the_flag_restores_the_original_spec_rule(self):
+        # The spec's row, still enforced by the switch that turns this off.
+        self.assertFalse(self.off.matches("Software Engineering Intern, Summer 2027"))
+        self.assertFalse(self.off.matches("Software Developer Co-op"))
+
+    def test_turning_it_off_leaves_new_grad_matching_alone(self):
+        for title, expected in SPEC_CASES:
+            with self.subTest(title=title):
+                self.assertEqual(self.off.matches(title), expected, title)
+
+    def test_intern_still_never_fires_inside_internal(self):
+        # The original trap. "Internal Tools" is not an internship.
+        _, _, kind = self.on.evaluate_full("Software Engineer, Internal Tools")
+        self.assertEqual(kind, "new grad" if kind else kind)
+        self.assertNotEqual(kind, "internship")
 
 
 class YearTrap(unittest.TestCase):
