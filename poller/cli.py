@@ -138,6 +138,19 @@ def sweep(cfg, health, registry, quiet=False, previous=None):
         carried.setdefault(job.get("source"), {}).setdefault(
             job.get("slug"), []).append(job)
 
+    # A change to the matching rules has to reach roles already in the feed.
+    # A 304 carries them forward whole, classification and all, so without
+    # this a widened matcher reaches that board only when it next changes its
+    # listings. In practice one board out of 1072 holds an ETag, but it is the
+    # aggregator: about 400 of the feed's 1071 roles.
+    fingerprint = state.match_fingerprint(cfg)
+    if health.get("match_fingerprint") != fingerprint:
+        dropped = state.drop_etags(health)
+        health["match_fingerprint"] = fingerprint
+        if not quiet:
+            print("  ~~ matching rules changed, dropped %d ETags so every board "
+                  "is read fresh and reclassified" % dropped)
+
     all_targets, targets = select_targets(cfg, registry, health)
     polled = set(targets)
 
