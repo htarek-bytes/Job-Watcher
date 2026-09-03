@@ -42,6 +42,13 @@ NOTIFY_BURST_LIMIT = 12
 # enough that a sweep finishes well inside the cron interval.
 FETCH_WORKERS = 12
 
+# How long a role survives on a board that has stopped confirming it. The
+# rotation reaches every board about every twelve minutes, so anything near
+# that is plenty; three days is the safety valve for a board that is renamed,
+# deleted or permanently broken, whose roles would otherwise sit in the feed
+# for good because nothing ever contradicts them.
+CARRY_MAX_SECONDS = 3 * 86400
+
 
 def load_config(path=CONFIG):
     with open(path, "rb") as fh:
@@ -120,6 +127,7 @@ def sweep(cfg, health, registry, quiet=False, previous=None):
     matcher = Matcher(cfg)
     jobs = []
     results = []
+    now = int(time.time())
 
     # Indexed source -> slug -> jobs. The lookup key is not always the job's
     # slug: the aggregator is configured as "SimplifyJobs/New-Grad-Positions"
@@ -130,7 +138,41 @@ def sweep(cfg, health, registry, quiet=False, previous=None):
         carried.setdefault(job.get("source"), {}).setdefault(
             job.get("slug"), []).append(job)
 
-    _, targets = select_targets(cfg, registry, health)
+    all_targets, targets = select_targets(cfg, registry, health)
+    polled = set(targets)
+
+    def carry(source, key):
+        """Keep a board's known roles when this sweep learned nothing new.
+
+        A board is authoritative about its own roles only when it was polled
+        AND answered with a payload. Three other things can happen, and all
+        three mean "no news" rather than "no jobs":
+
+          the rotation did not select it   ~900 boards, 80 a sweep
+          it answered 304 Not Modified     nothing changed since the ETag
+          the request failed               a timeout is not a closure
+
+        Only the second was handled. The first is why a role could be pushed
+        to the phone and then be missing from the dashboard a minute later:
+        its board sat out the next rotation, so `jobs` was rebuilt without it
+        and jobs.json was overwritten. At 987 boards and 80 a sweep a cold
+        board is polled about once every twelve minutes, so its roles were in
+        the feed for one sweep in twelve and gone for the other eleven.
+        """
+        by_slug = carried.get(source, {})
+        if source in (sources.SIMPLIFY, sources.AMAZON):
+            known = [j for group in by_slug.values() for j in group]
+        else:
+            known = by_slug.get(key, [])
+        kept_jobs = []
+        for job in known:
+            # Stamped on the way through, so a job written before this field
+            # existed gets a real clock instead of being carried forever.
+            job.setdefault("confirmed_at", now)
+            if now - job["confirmed_at"] <= CARRY_MAX_SECONDS:
+                kept_jobs.append(job)
+        jobs.extend(kept_jobs)
+        return kept_jobs
 
     def fetch_one(target):
         source, key = target
@@ -145,7 +187,6 @@ def sweep(cfg, health, registry, quiet=False, previous=None):
     with concurrent.futures.ThreadPoolExecutor(max_workers=FETCH_WORKERS) as pool:
         fetched = list(pool.map(fetch_one, targets))
 
-    now = int(time.time())
     # URLs to mine ATS slugs out of. The aggregator was the only contributor
     # for a long time, and it is a US new grad feed, which is precisely why the
     # registry knew ~900 American boards and almost no Canadian ones. Job Bank,
@@ -159,18 +200,17 @@ def sweep(cfg, health, registry, quiet=False, previous=None):
         state.record_source(health, source, key, result)
 
         if not result.ok:
+            # A failed request is not a closure. Greenhouse timing out once
+            # must not delete that company's roles from the feed.
+            kept_before = carry(source, key)
             if not quiet:
-                print("  !! %s/%s failed: %s" % (source, key, result.error))
+                print("  !! %s/%s failed: %s (%d carried forward)"
+                      % (source, key, result.error, len(kept_before)))
             continue
         if result.not_modified:
-            # Unchanged, not empty. Carry the last known jobs for this board
-            # forward; they were already filtered and classified.
-            by_slug = carried.get(source, {})
-            if source in (sources.SIMPLIFY, sources.AMAZON):
-                kept_before = [j for group in by_slug.values() for j in group]
-            else:
-                kept_before = by_slug.get(key, [])
-            jobs.extend(kept_before)
+            # Unchanged, not empty. The known jobs were already filtered and
+            # classified, so they carry forward as they are.
+            kept_before = carry(source, key)
             if not quiet and kept_before:
                 print("  == %s/%s unchanged (304), %d carried forward"
                       % (source, key, len(kept_before)))
@@ -212,6 +252,12 @@ def sweep(cfg, health, registry, quiet=False, previous=None):
             job["work_auth"] = status
             job["work_auth_evidence"] = auth_evidence
 
+            # When this board last vouched for this role. It is what lets an
+            # unpolled board's roles be carried without carrying them forever:
+            # a board that is renamed or deleted stops refreshing the stamp,
+            # and its roles age out.
+            job["confirmed_at"] = now
+
             # The description is scanned for work authorization above and then
             # dropped. It is never committed: everything in data/ is public.
             job.pop("description", None)
@@ -223,6 +269,18 @@ def sweep(cfg, health, registry, quiet=False, previous=None):
 
         if not quiet and result.count:
             print("  ok %s/%s: %d postings, %d kept" % (source, key, result.count, kept))
+
+    # Every board the rotation did not reach this sweep. Without this the feed
+    # is not "all open roles", it is "roles on the ~80 boards polled in the
+    # last minute", which is what made a pushed role missing from the board.
+    unpolled = 0
+    for target in all_targets:
+        if target in polled:
+            continue
+        unpolled += len(carry(*target))
+    if not quiet and unpolled:
+        print("  .. %d roles carried from %d boards not polled this sweep"
+              % (unpolled, len(all_targets) - len(polled)))
 
     # Discovery runs off payloads already fetched, so it costs no extra request.
     if discovery_urls and cfg.get("discovery", {}).get("enabled", True):
