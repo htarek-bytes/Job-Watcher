@@ -92,6 +92,21 @@ class Internships(unittest.TestCase):
             with self.subTest(title=title):
                 self.assertEqual(self.off.matches(title), expected, title)
 
+    def test_a_product_word_is_not_an_internship(self):
+        # The same trap as a bare "ii" matching inside "hawaii", one level up:
+        # these are permanent roles whose titles name a product or a team, and
+        # filing them under internships hides them from a new grad filter.
+        for title in ("Software Engineer, Student Experience",
+                      "Software Engineer, Student Success Platform",
+                      "Software Developer, Internal Tools"):
+            with self.subTest(title=title):
+                _, _, kind = self.on.evaluate_full(title)
+                self.assertNotEqual(kind, "internship", title)
+
+    def test_a_real_student_internship_is_still_caught(self):
+        _, _, kind = self.on.evaluate_full("Student Intern, Software Engineering")
+        self.assertEqual(kind, "internship")
+
     def test_intern_still_never_fires_inside_internal(self):
         # The original trap. "Internal Tools" is not an internship.
         _, _, kind = self.on.evaluate_full("Software Engineer, Internal Tools")

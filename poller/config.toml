@@ -21,8 +21,12 @@ internship_phrases = [
   "co op",
   "coop",
   "summer intern",
-  "student",
+  "student intern",
   "industrial placement",
+  # A bare "student" was here and is too broad, in the same way a bare "ii"
+  # was: it matches the word in "Software Engineer, Student Experience", which
+  # is a permanent role at an education company, and filing that under
+  # internships hides it from anyone filtering to new grad.
 ]
 
 # Gate 1: the title has to name a role worth waking up for.
