@@ -1,6 +1,6 @@
 {
- "count": 804,
- "generated_at": 1788409188,
+ "count": 805,
+ "generated_at": 1788409504,
  "jobs": [
   {
    "company": "retell-ai",
@@ -63,7 +63,7 @@
     "Ottawa, Ontario"
    ],
    "match_reason": "new grad phrase 'new graduate'",
-   "posted_at": 1788409153,
+   "posted_at": 1788409465,
    "posted_from": "workday",
    "region": "CA",
    "score": 73,
@@ -235,7 +235,7 @@
     "Boise, ID - Main Site"
    ],
    "match_reason": "new grad phrase 'college grad'",
-   "posted_at": 1788409158,
+   "posted_at": 1788409470,
    "posted_from": "workday",
    "region": "US",
    "score": 70,
@@ -258,7 +258,7 @@
     "Boise, ID - Main Site"
    ],
    "match_reason": "new grad phrase 'college grad'",
-   "posted_at": 1788409158,
+   "posted_at": 1788409470,
    "posted_from": "workday",
    "region": "US",
    "score": 70,
@@ -281,7 +281,7 @@
     "2 Locations"
    ],
    "match_reason": "new grad phrase 'junior'",
-   "posted_at": 1788409157,
+   "posted_at": 1788409469,
    "posted_from": "workday",
    "region": "UNKNOWN",
    "score": 70,
@@ -304,7 +304,7 @@
     "CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG"
    ],
    "match_reason": "new grad phrase 'new graduate'",
-   "posted_at": 1788409156,
+   "posted_at": 1788409468,
    "posted_from": "workday",
    "region": "UNKNOWN",
    "score": 70,
@@ -327,7 +327,7 @@
     "USA - El Segundo, CA"
    ],
    "match_reason": "new grad phrase 'early career'",
-   "posted_at": 1788409153,
+   "posted_at": 1788409466,
    "posted_from": "workday",
    "region": "US",
    "score": 70,
@@ -586,7 +586,7 @@
     "Toronto, Ontario"
    ],
    "match_reason": "new grad phrase 'associate software engineer'",
-   "posted_at": 1788236363,
+   "posted_at": 1788236675,
    "posted_from": "workday",
    "region": "CA",
    "score": 60,
@@ -610,7 +610,7 @@
     "Toronto, Ontario"
    ],
    "match_reason": "new grad phrase 'associate software engineer'",
-   "posted_at": 1788236363,
+   "posted_at": 1788236675,
    "posted_from": "workday",
    "region": "CA",
    "score": 60,
@@ -716,6 +716,34 @@
    "title": "Vehicle Fluids Hardware Development Engineer I",
    "uid": "greenhouse:relativity:8748447002",
    "url": "https://boards.greenhouse.io/relativity/jobs/8748447002?gh_jid=8748447002",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "embedding-vc",
+   "duplicate_count": 2,
+   "duplicate_sources": [
+    "ashby",
+    "simplify"
+   ],
+   "group_key": "5c8b8fec2072",
+   "location_evidence": "San Francisco Bay Area",
+   "locations": [
+    "San Francisco Bay Area"
+   ],
+   "match_reason": "new grad phrase 'early career'",
+   "posted_at": 1787708181,
+   "posted_from": "ashby",
+   "region": "US",
+   "score": 58,
+   "score_reasons": [
+    "+8 direct from the ATS"
+   ],
+   "slug": "embedding-vc",
+   "source": "ashby",
+   "title": "AI Engineer (Early Career)",
+   "uid": "ashby:embedding-vc:5c8433ea-c7e6-4350-bbd5-2889e7fdb2b1",
+   "url": "https://jobs.ashbyhq.com/embedding-vc/5c8433ea-c7e6-4350-bbd5-2889e7fdb2b1",
    "work_auth": "unknown",
    "work_auth_evidence": ""
   },
@@ -7471,52 +7499,6 @@
    "work_auth_evidence": ""
   },
   {
-   "company": "td",
-   "group_key": "794d9c822fb4",
-   "location_evidence": "New York, New York",
-   "locations": [
-    "New York, New York"
-   ],
-   "match_reason": "new grad phrase 'rotational program'",
-   "posted_at": 1788236362,
-   "posted_from": "workday",
-   "region": "US",
-   "score": 57,
-   "score_reasons": [
-    "+7 posted in the last 3 days"
-   ],
-   "slug": "td.wd3/TD_Bank_Careers",
-   "source": "workday",
-   "title": "2027 Summer Analyst - Software Engineering Rotational Program (New York City)",
-   "uid": "workday:td.wd3/TD_Bank_Careers:XMLNAME-2027-Summer-Analyst---Software-Engineering-Rotational-Program--New-York-City-_R_1508053",
-   "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/New-York-New-York/XMLNAME-2027-Summer-Analyst---Software-Engineering-Rotational-Program--New-York-City-_R_1508053",
-   "work_auth": "unknown",
-   "work_auth_evidence": ""
-  },
-  {
-   "company": "wellsky",
-   "group_key": "843ab294a39c",
-   "location_evidence": "Overland Park, KS",
-   "locations": [
-    "Overland Park, KS"
-   ],
-   "match_reason": "new grad phrase 'associate software engineer'",
-   "posted_at": 1788236362,
-   "posted_from": "workday",
-   "region": "US",
-   "score": 57,
-   "score_reasons": [
-    "+7 posted in the last 3 days"
-   ],
-   "slug": "wellsky.wd1/WellSkyCareers",
-   "source": "workday",
-   "title": "Associate Software Engineer",
-   "uid": "workday:wellsky.wd1/WellSkyCareers:Associate-Software-Engineer_JR5078",
-   "url": "https://wellsky.wd1.myworkdayjobs.com/WellSkyCareers/job/Overland-Park-KS/Associate-Software-Engineer_JR5078",
-   "work_auth": "unknown",
-   "work_auth_evidence": ""
-  },
-  {
    "company": "zebra",
    "duplicate_count": 2,
    "duplicate_sources": [
@@ -7528,7 +7510,7 @@
     "Kennesaw, Georgia"
    ],
    "match_reason": "level 1 suffix on 'software engineer'",
-   "posted_at": 1788236362,
+   "posted_at": 1788236675,
    "posted_from": "workday",
    "region": "US",
    "score": 57,
@@ -7551,7 +7533,7 @@
     "2 Locations"
    ],
    "match_reason": "level 1 suffix on 'engineer'",
-   "posted_at": 1788236362,
+   "posted_at": 1788236675,
    "posted_from": "workday",
    "region": "UNKNOWN",
    "score": 57,
@@ -7567,6 +7549,52 @@
    "work_auth_evidence": ""
   },
   {
+   "company": "td",
+   "group_key": "794d9c822fb4",
+   "location_evidence": "New York, New York",
+   "locations": [
+    "New York, New York"
+   ],
+   "match_reason": "new grad phrase 'rotational program'",
+   "posted_at": 1788236674,
+   "posted_from": "workday",
+   "region": "US",
+   "score": 57,
+   "score_reasons": [
+    "+7 posted in the last 3 days"
+   ],
+   "slug": "td.wd3/TD_Bank_Careers",
+   "source": "workday",
+   "title": "2027 Summer Analyst - Software Engineering Rotational Program (New York City)",
+   "uid": "workday:td.wd3/TD_Bank_Careers:XMLNAME-2027-Summer-Analyst---Software-Engineering-Rotational-Program--New-York-City-_R_1508053",
+   "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/New-York-New-York/XMLNAME-2027-Summer-Analyst---Software-Engineering-Rotational-Program--New-York-City-_R_1508053",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "wellsky",
+   "group_key": "843ab294a39c",
+   "location_evidence": "Overland Park, KS",
+   "locations": [
+    "Overland Park, KS"
+   ],
+   "match_reason": "new grad phrase 'associate software engineer'",
+   "posted_at": 1788236674,
+   "posted_from": "workday",
+   "region": "US",
+   "score": 57,
+   "score_reasons": [
+    "+7 posted in the last 3 days"
+   ],
+   "slug": "wellsky.wd1/WellSkyCareers",
+   "source": "workday",
+   "title": "Associate Software Engineer",
+   "uid": "workday:wellsky.wd1/WellSkyCareers:Associate-Software-Engineer_JR5078",
+   "url": "https://wellsky.wd1.myworkdayjobs.com/WellSkyCareers/job/Overland-Park-KS/Associate-Software-Engineer_JR5078",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
    "company": "relx",
    "duplicate_count": 2,
    "duplicate_sources": [
@@ -7578,7 +7606,7 @@
     "Alpharetta, GA"
    ],
    "match_reason": "new grad phrase 'graduate program'",
-   "posted_at": 1788236360,
+   "posted_at": 1788236672,
    "posted_from": "workday",
    "region": "US",
    "score": 57,
@@ -7605,7 +7633,7 @@
     "Alpharetta, GA"
    ],
    "match_reason": "new grad phrase 'graduate program'",
-   "posted_at": 1788236360,
+   "posted_at": 1788236672,
    "posted_from": "workday",
    "region": "US",
    "score": 57,
@@ -7632,7 +7660,7 @@
     "Boca Raton, FL"
    ],
    "match_reason": "new grad phrase 'graduate program'",
-   "posted_at": 1788236360,
+   "posted_at": 1788236672,
    "posted_from": "workday",
    "region": "US",
    "score": 57,
@@ -7655,7 +7683,7 @@
     "North America/USA/Missouri/St. Louis - WPE, MO"
    ],
    "match_reason": "level 1 suffix on 'engineer'",
-   "posted_at": 1788236359,
+   "posted_at": 1788236671,
    "posted_from": "workday",
    "region": "US",
    "score": 57,
@@ -7678,7 +7706,7 @@
     "Tennessee, United States"
    ],
    "match_reason": "new grad phrase 'associate software engineer'",
-   "posted_at": 1788236358,
+   "posted_at": 1788236670,
    "posted_from": "workday",
    "region": "US",
    "score": 57,
@@ -7701,7 +7729,7 @@
     "Manassas, VA -  Fab 6"
    ],
    "match_reason": "new grad phrase 'college grad'",
-   "posted_at": 1788236358,
+   "posted_at": 1788236670,
    "posted_from": "workday",
    "region": "US",
    "score": 57,
@@ -7724,7 +7752,7 @@
     "2 Locations"
    ],
    "match_reason": "level 1 suffix on 'engineer'",
-   "posted_at": 1788236357,
+   "posted_at": 1788236669,
    "posted_from": "workday",
    "region": "UNKNOWN",
    "score": 57,
@@ -7747,7 +7775,7 @@
     "USA - IL East Peoria"
    ],
    "match_reason": "new grad phrase 'entry level'",
-   "posted_at": 1788236356,
+   "posted_at": 1788236668,
    "posted_from": "workday",
    "region": "US",
    "score": 57,
@@ -7770,7 +7798,7 @@
     "2 Locations"
    ],
    "match_reason": "new grad phrase 'associate software engineer'",
-   "posted_at": 1788236355,
+   "posted_at": 1788236667,
    "posted_from": "workday",
    "region": "UNKNOWN",
    "score": 57,
@@ -8033,7 +8061,7 @@
     "Toronto, Ontario"
    ],
    "match_reason": "level 1 suffix on 'software engineer'",
-   "posted_at": 1787977163,
+   "posted_at": 1787977475,
    "posted_from": "workday",
    "region": "CA",
    "score": 53,
@@ -8171,7 +8199,7 @@
     "Montreal"
    ],
    "match_reason": "level 1 suffix on 'software engineer'",
-   "posted_at": 1787372361,
+   "posted_at": 1787372673,
    "posted_from": "workday",
    "region": "CA",
    "score": 53,
@@ -8711,7 +8739,7 @@
     "3 Locations"
    ],
    "match_reason": "new grad phrase 'rotational program'",
-   "posted_at": 1787977161,
+   "posted_at": 1787977473,
    "posted_from": "workday",
    "region": "UNKNOWN",
    "score": 50,
@@ -8732,7 +8760,7 @@
     "Cluj-Napoca - Decembrie"
    ],
    "match_reason": "new grad phrase 'junior'",
-   "posted_at": 1787977160,
+   "posted_at": 1787977472,
    "posted_from": "workday",
    "region": "UNKNOWN",
    "score": 50,
@@ -8753,7 +8781,7 @@
     "Sterling, VA"
    ],
    "match_reason": "level 1 suffix on 'software engineer'",
-   "posted_at": 1787977159,
+   "posted_at": 1787977471,
    "posted_from": "workday",
    "region": "US",
    "score": 50,
@@ -8774,7 +8802,7 @@
     "Schofield, WI"
    ],
    "match_reason": "level 1 suffix on 'engineer'",
-   "posted_at": 1787977157,
+   "posted_at": 1787977469,
    "posted_from": "workday",
    "region": "US",
    "score": 50,
@@ -8795,7 +8823,7 @@
     "US, New Mexico, Albuquerque"
    ],
    "match_reason": "new grad phrase 'entry level'",
-   "posted_at": 1787977157,
+   "posted_at": 1787977469,
    "posted_from": "workday",
    "region": "US",
    "score": 50,
@@ -8816,7 +8844,7 @@
     "Zeeland, MI"
    ],
    "match_reason": "level 1 suffix on 'engineer'",
-   "posted_at": 1787977156,
+   "posted_at": 1787977468,
    "posted_from": "workday",
    "region": "US",
    "score": 50,
@@ -8830,27 +8858,6 @@
    "work_auth_evidence": ""
   },
   {
-   "company": "blackrock",
-   "group_key": "2729fc55ee37",
-   "location_evidence": "Chicago, IL",
-   "locations": [
-    "Chicago, IL"
-   ],
-   "match_reason": "new grad phrase 'associate software engineer'",
-   "posted_at": 1787977153,
-   "posted_from": "workday",
-   "region": "US",
-   "score": 50,
-   "score_reasons": [],
-   "slug": "blackrock.wd1/BlackRock_Professional",
-   "source": "workday",
-   "title": "Associate, Software Engineer - SMA Solutions",
-   "uid": "workday:blackrock.wd1/BlackRock_Professional:Associate--Software-Engineer---SMA-Solutions_R266216",
-   "url": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/Chicago-IL/Associate--Software-Engineer---SMA-Solutions_R266216",
-   "work_auth": "unknown",
-   "work_auth_evidence": ""
-  },
-  {
    "company": "barr",
    "group_key": "9d0dee5b891b",
    "location_evidence": "2 Locations",
@@ -8858,7 +8865,7 @@
     "2 Locations"
    ],
    "match_reason": "new grad phrase 'entry level'",
-   "posted_at": 1787977152,
+   "posted_at": 1787977465,
    "posted_from": "workday",
    "region": "UNKNOWN",
    "score": 50,
@@ -8879,7 +8886,7 @@
     "4 Locations"
    ],
    "match_reason": "new grad phrase 'entry level'",
-   "posted_at": 1787977152,
+   "posted_at": 1787977465,
    "posted_from": "workday",
    "region": "UNKNOWN",
    "score": 50,
@@ -8900,7 +8907,7 @@
     "5 Locations"
    ],
    "match_reason": "new grad phrase 'entry level'",
-   "posted_at": 1787977152,
+   "posted_at": 1787977465,
    "posted_from": "workday",
    "region": "UNKNOWN",
    "score": 50,
@@ -8921,7 +8928,7 @@
     "3 Locations"
    ],
    "match_reason": "new grad phrase 'entry level'",
-   "posted_at": 1787977152,
+   "posted_at": 1787977465,
    "posted_from": "workday",
    "region": "UNKNOWN",
    "score": 50,
@@ -8942,7 +8949,7 @@
     "2 Locations"
    ],
    "match_reason": "new grad phrase 'entry level'",
-   "posted_at": 1787977152,
+   "posted_at": 1787977465,
    "posted_from": "workday",
    "region": "UNKNOWN",
    "score": 50,
@@ -8952,6 +8959,27 @@
    "title": "Entry Level PreConstruction Engineer",
    "uid": "workday:barrywehmiller.wd1/BWConfidential:Entry-Level-PreConstruction-Engineer_R022646",
    "url": "https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Fort-Worth-TX/Entry-Level-PreConstruction-Engineer_R022646",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "blackrock",
+   "group_key": "2729fc55ee37",
+   "location_evidence": "Chicago, IL",
+   "locations": [
+    "Chicago, IL"
+   ],
+   "match_reason": "new grad phrase 'associate software engineer'",
+   "posted_at": 1787977465,
+   "posted_from": "workday",
+   "region": "US",
+   "score": 50,
+   "score_reasons": [],
+   "slug": "blackrock.wd1/BlackRock_Professional",
+   "source": "workday",
+   "title": "Associate, Software Engineer - SMA Solutions",
+   "uid": "workday:blackrock.wd1/BlackRock_Professional:Associate--Software-Engineer---SMA-Solutions_R266216",
+   "url": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/Chicago-IL/Associate--Software-Engineer---SMA-Solutions_R266216",
    "work_auth": "unknown",
    "work_auth_evidence": ""
   },
@@ -9027,7 +9055,7 @@
     "Remote - United States"
    ],
    "match_reason": "level 1 suffix on 'software development engineer'",
-   "posted_at": 1787890755,
+   "posted_at": 1787891068,
    "posted_from": "workday",
    "region": "US",
    "score": 50,
@@ -9048,7 +9076,7 @@
     "Bayport, MN"
    ],
    "match_reason": "new grad phrase 'associate engineer'",
-   "posted_at": 1787890751,
+   "posted_at": 1787891064,
    "posted_from": "workday",
    "region": "US",
    "score": 50,
@@ -9271,7 +9299,7 @@
     "Huntsville, AL"
    ],
    "match_reason": "new grad phrase 'junior'",
-   "posted_at": 1787804362,
+   "posted_at": 1787804674,
    "posted_from": "workday",
    "region": "US",
    "score": 50,
@@ -9292,7 +9320,7 @@
     "Overland Park, KS"
    ],
    "match_reason": "new grad phrase 'associate software engineer'",
-   "posted_at": 1787804362,
+   "posted_at": 1787804674,
    "posted_from": "workday",
    "region": "US",
    "score": 50,
@@ -9313,7 +9341,7 @@
     "Lviv"
    ],
    "match_reason": "new grad phrase 'junior'",
-   "posted_at": 1787804361,
+   "posted_at": 1787804672,
    "posted_from": "workday",
    "region": "UNKNOWN",
    "score": 50,
@@ -9338,7 +9366,7 @@
     "USA MD Annapolis Junction"
    ],
    "match_reason": "level 1 suffix on 'software engineer'",
-   "posted_at": 1787804357,
+   "posted_at": 1787804669,
    "posted_from": "workday",
    "region": "US",
    "score": 50,
@@ -9348,6 +9376,27 @@
    "title": "Software Engineer 1",
    "uid": "workday:gdit.wd5/external_career_site:Software-Engineer-1_RQ222853-1",
    "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Software-Engineer-1_RQ222853-1",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
+   "company": "cox",
+   "group_key": "35937aefb9d7",
+   "location_evidence": "Draper UT",
+   "locations": [
+    "Draper UT"
+   ],
+   "match_reason": "new grad phrase 'entry level'",
+   "posted_at": 1787804667,
+   "posted_from": "workday",
+   "region": "UNKNOWN",
+   "score": 50,
+   "score_reasons": [],
+   "slug": "cox.wd1/Cox_External_Career_Site_1",
+   "source": "workday",
+   "title": "Entry Level Software Engineer (Draper, UT)",
+   "uid": "workday:cox.wd1/Cox_External_Career_Site_1:Entry-Level-Software-Engineer--Draper--UT-_R202681804",
+   "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Draper-UT/Entry-Level-Software-Engineer--Draper--UT-_R202681804",
    "work_auth": "unknown",
    "work_auth_evidence": ""
   },
@@ -9363,37 +9412,16 @@
     "Al Khobar"
    ],
    "match_reason": "new grad phrase 'early career'",
-   "posted_at": 1787804356,
+   "posted_at": 1787804667,
    "posted_from": "workday",
    "region": "UNKNOWN",
    "score": 50,
    "score_reasons": [],
-   "slug": "gevernova.wd5/only_confidential_executive_recruiting",
+   "slug": "gevernova.wd5/vernova_externalsite",
    "source": "workday",
    "title": "Field Services Engineer - Early Career Trainee",
-   "uid": "workday:gevernova.wd5/only_confidential_executive_recruiting:Field-Services-Engineer---Early-Career-Trainee_R5049070-2",
-   "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Al-Khobar/Field-Services-Engineer---Early-Career-Trainee_R5049070-2",
-   "work_auth": "unknown",
-   "work_auth_evidence": ""
-  },
-  {
-   "company": "cox",
-   "group_key": "35937aefb9d7",
-   "location_evidence": "Draper UT",
-   "locations": [
-    "Draper UT"
-   ],
-   "match_reason": "new grad phrase 'entry level'",
-   "posted_at": 1787804355,
-   "posted_from": "workday",
-   "region": "UNKNOWN",
-   "score": 50,
-   "score_reasons": [],
-   "slug": "cox.wd1/Cox_External_Career_Site_1",
-   "source": "workday",
-   "title": "Entry Level Software Engineer (Draper, UT)",
-   "uid": "workday:cox.wd1/Cox_External_Career_Site_1:Entry-Level-Software-Engineer--Draper--UT-_R202681804",
-   "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Draper-UT/Entry-Level-Software-Engineer--Draper--UT-_R202681804",
+   "uid": "workday:gevernova.wd5/vernova_externalsite:Field-Services-Engineer---Early-Career-Trainee_R5049070-3",
+   "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Al-Khobar/Field-Services-Engineer---Early-Career-Trainee_R5049070-3",
    "work_auth": "unknown",
    "work_auth_evidence": ""
   },
@@ -9405,7 +9433,7 @@
     "Fredericksburg"
    ],
    "match_reason": "new grad phrase 'junior'",
-   "posted_at": 1787804353,
+   "posted_at": 1787804665,
    "posted_from": "workday",
    "region": "UNKNOWN",
    "score": 50,
@@ -9489,27 +9517,6 @@
    "work_auth_evidence": ""
   },
   {
-   "company": "Embedding VC",
-   "group_key": "5c8b8fec2072",
-   "location_evidence": "SF",
-   "locations": [
-    "SF"
-   ],
-   "match_reason": "new grad phrase 'early career'",
-   "posted_at": 1787771476,
-   "posted_from": "simplify",
-   "region": "US",
-   "score": 50,
-   "score_reasons": [],
-   "slug": "listings",
-   "source": "simplify",
-   "title": "AI Engineer - Early Career",
-   "uid": "simplify:listings:b556adb1-8adc-4b0f-9230-3a2067a6428d",
-   "url": "https://jobs.ashbyhq.com/embedding-vc/5c8433ea-c7e6-4350-bbd5-2889e7fdb2b1/application?embed=true",
-   "work_auth": "unknown",
-   "work_auth_evidence": ""
-  },
-  {
    "company": "Alto-Shaam",
    "group_key": "5770f5022f09",
    "location_evidence": "Menomonee Falls, WI, us",
@@ -9539,7 +9546,7 @@
     "2 Locations"
    ],
    "match_reason": "level 1 suffix on 'software engineering'",
-   "posted_at": 1787717953,
+   "posted_at": 1787718265,
    "posted_from": "workday",
    "region": "UNKNOWN",
    "score": 50,
@@ -9796,7 +9803,7 @@
     "Somerville-MA"
    ],
    "match_reason": "level 1 suffix on 'systems engineer'",
-   "posted_at": 1787631559,
+   "posted_at": 1787631871,
    "posted_from": "workday",
    "region": "UNKNOWN",
    "score": 50,
@@ -9817,7 +9824,7 @@
     "USDALFRI - Dallas Frisco AI HUB (FRI)"
    ],
    "match_reason": "new grad phrase 'early career'",
-   "posted_at": 1787631558,
+   "posted_at": 1787631870,
    "posted_from": "workday",
    "region": "US",
    "score": 50,
@@ -9838,7 +9845,7 @@
     "Richardson, TX"
    ],
    "match_reason": "new grad phrase 'entry level'",
-   "posted_at": 1787631553,
+   "posted_at": 1787631866,
    "posted_from": "workday",
    "region": "US",
    "score": 50,
@@ -10165,7 +10172,7 @@
     "2 Locations"
    ],
    "match_reason": "level 1 suffix on 'engineer'",
-   "posted_at": 1787285959,
+   "posted_at": 1787286271,
    "posted_from": "workday",
    "region": "UNKNOWN",
    "score": 50,
@@ -10190,7 +10197,7 @@
     "USA - Berkeley, MO"
    ],
    "match_reason": "new grad phrase 'associate software engineer'",
-   "posted_at": 1787285953,
+   "posted_at": 1787286265,
    "posted_from": "workday",
    "region": "US",
    "score": 50,
@@ -10253,7 +10260,7 @@
     "Tampa, FL"
    ],
    "match_reason": "new grad phrase 'associate software engineer'",
-   "posted_at": 1787199559,
+   "posted_at": 1787199871,
    "posted_from": "workday",
    "region": "US",
    "score": 50,
@@ -10274,7 +10281,7 @@
     "Laconia"
    ],
    "match_reason": "new grad phrase 'junior'",
-   "posted_at": 1787199553,
+   "posted_at": 1787199865,
    "posted_from": "workday",
    "region": "UNKNOWN",
    "score": 50,
@@ -10381,7 +10388,7 @@
     "Chesterfield, MO, USA"
    ],
    "match_reason": "level 1 suffix on 'engineer'",
-   "posted_at": 1787113159,
+   "posted_at": 1787113471,
    "posted_from": "workday",
    "region": "US",
    "score": 50,
@@ -10402,7 +10409,7 @@
     "2 Locations"
    ],
    "match_reason": "new grad phrase 'new grad'",
-   "posted_at": 1787113157,
+   "posted_at": 1787113469,
    "posted_from": "workday",
    "region": "UNKNOWN",
    "score": 50,
@@ -10423,7 +10430,7 @@
     "2 Locations"
    ],
    "match_reason": "new grad phrase 'new grad'",
-   "posted_at": 1787113157,
+   "posted_at": 1787113469,
    "posted_from": "workday",
    "region": "UNKNOWN",
    "score": 50,
@@ -10444,7 +10451,7 @@
     "2 Locations"
    ],
    "match_reason": "new grad phrase 'new grad'",
-   "posted_at": 1787113157,
+   "posted_at": 1787113469,
    "posted_from": "workday",
    "region": "UNKNOWN",
    "score": 50,
@@ -10465,7 +10472,7 @@
     "US-CT-EAST HARTFORD-J ~ 400 Main St ~ BLDG J"
    ],
    "match_reason": "level 1 suffix on 'systems engineer'",
-   "posted_at": 1787113156,
+   "posted_at": 1787113468,
    "posted_from": "workday",
    "region": "US",
    "score": 50,
@@ -10656,7 +10663,7 @@
     "HYV-TW-NT-6753-Xinzhuang Dist."
    ],
    "match_reason": "new grad phrase 'college grad'",
-   "posted_at": 1787026760,
+   "posted_at": 1787027072,
    "posted_from": "workday",
    "region": "UNKNOWN",
    "score": 50,
@@ -10677,7 +10684,7 @@
     "HYV-TW-NT-6753-Xinzhuang Dist."
    ],
    "match_reason": "new grad phrase 'college grad'",
-   "posted_at": 1787026760,
+   "posted_at": 1787027072,
    "posted_from": "workday",
    "region": "UNKNOWN",
    "score": 50,
@@ -10698,7 +10705,7 @@
     "HYV-TW-NT-6753-Xinzhuang Dist."
    ],
    "match_reason": "new grad phrase 'college grad'",
-   "posted_at": 1787026760,
+   "posted_at": 1787027072,
    "posted_from": "workday",
    "region": "UNKNOWN",
    "score": 50,
@@ -10719,7 +10726,7 @@
     "HYV-TW-NT-6753-Xinzhuang Dist."
    ],
    "match_reason": "new grad phrase 'college grad'",
-   "posted_at": 1787026760,
+   "posted_at": 1787027072,
    "posted_from": "workday",
    "region": "UNKNOWN",
    "score": 50,
@@ -10740,7 +10747,7 @@
     "HYV-TW-NT-6753-Xinzhuang Dist."
    ],
    "match_reason": "new grad phrase 'college grad'",
-   "posted_at": 1787026760,
+   "posted_at": 1787027072,
    "posted_from": "workday",
    "region": "UNKNOWN",
    "score": 50,
@@ -10761,7 +10768,7 @@
     "Kingwood, TX"
    ],
    "match_reason": "level 1 suffix on 'engineer'",
-   "posted_at": 1787026757,
+   "posted_at": 1787027069,
    "posted_from": "workday",
    "region": "US",
    "score": 50,
@@ -10782,7 +10789,7 @@
     "USA - Vermont - Essex Junction"
    ],
    "match_reason": "new grad phrase 'college graduate'",
-   "posted_at": 1787026756,
+   "posted_at": 1787027068,
    "posted_from": "workday",
    "region": "US",
    "score": 50,
@@ -10803,7 +10810,7 @@
     "USA - Vermont - Essex Junction"
    ],
    "match_reason": "new grad phrase 'college graduate'",
-   "posted_at": 1787026756,
+   "posted_at": 1787027068,
    "posted_from": "workday",
    "region": "US",
    "score": 50,
@@ -11013,7 +11020,7 @@
     "Boulder, CO"
    ],
    "match_reason": "level 1 suffix on 'software engineer'",
-   "posted_at": 1786767562,
+   "posted_at": 1786767874,
    "posted_from": "workday",
    "region": "US",
    "score": 50,
@@ -11034,7 +11041,7 @@
     "Pennington, NJ"
    ],
    "match_reason": "level 1 suffix on 'engineer'",
-   "posted_at": 1786767555,
+   "posted_at": 1786767867,
    "posted_from": "workday",
    "region": "US",
    "score": 50,
@@ -11312,7 +11319,7 @@
     "USDALFRI - Dallas Frisco AI HUB (FRI)"
    ],
    "match_reason": "new grad phrase 'early career'",
-   "posted_at": 1786681159,
+   "posted_at": 1786681471,
    "posted_from": "workday",
    "region": "US",
    "score": 50,
@@ -11337,7 +11344,7 @@
     "US - Huntsville, AL"
    ],
    "match_reason": "new grad phrase 'associate software engineer'",
-   "posted_at": 1786681156,
+   "posted_at": 1786681468,
    "posted_from": "workday",
    "region": "US",
    "score": 50,
@@ -11358,7 +11365,7 @@
     "Minneapolis, MN"
    ],
    "match_reason": "new grad phrase 'entry level'",
-   "posted_at": 1786681152,
+   "posted_at": 1786681465,
    "posted_from": "workday",
    "region": "US",
    "score": 50,
@@ -11484,7 +11491,7 @@
     "San Diego, CA, United States"
    ],
    "match_reason": "new grad phrase 'associate software engineer'",
-   "posted_at": 1786594761,
+   "posted_at": 1786595073,
    "posted_from": "workday",
    "region": "US",
    "score": 50,
@@ -11505,7 +11512,7 @@
     "Alameda, CA"
    ],
    "match_reason": "new grad phrase 'associate engineer'",
-   "posted_at": 1786594756,
+   "posted_at": 1786595068,
    "posted_from": "workday",
    "region": "US",
    "score": 50,
@@ -11632,7 +11639,7 @@
     "San Diego, California"
    ],
    "match_reason": "new grad phrase 'entry level'",
-   "posted_at": 1786508356,
+   "posted_at": 1786508668,
    "posted_from": "workday",
    "region": "US",
    "score": 50,
@@ -11653,7 +11660,7 @@
     "2 Locations"
    ],
    "match_reason": "new grad phrase 'junior'",
-   "posted_at": 1786508354,
+   "posted_at": 1786508667,
    "posted_from": "workday",
    "region": "UNKNOWN",
    "score": 50,
@@ -12094,7 +12101,7 @@
     "Alameda, CA"
    ],
    "match_reason": "level 1 suffix on 'engineer'",
-   "posted_at": 1786162756,
+   "posted_at": 1786163068,
    "posted_from": "workday",
    "region": "US",
    "score": 50,
@@ -12115,7 +12122,7 @@
     "Essex Junction"
    ],
    "match_reason": "new grad phrase 'college graduate'",
-   "posted_at": 1786162756,
+   "posted_at": 1786163068,
    "posted_from": "workday",
    "region": "UNKNOWN",
    "score": 50,
@@ -12292,7 +12299,7 @@
     "6 Locations"
    ],
    "match_reason": "new grad phrase 'college grad'",
-   "posted_at": 1786076360,
+   "posted_at": 1786076672,
    "posted_from": "workday",
    "region": "UNKNOWN",
    "score": 50,
@@ -12313,7 +12320,7 @@
     "USA - Sunnyvale, CA"
    ],
    "match_reason": "new grad phrase 'new grad'",
-   "posted_at": 1786076355,
+   "posted_at": 1786076667,
    "posted_from": "workday",
    "region": "US",
    "score": 50,
@@ -12540,7 +12547,7 @@
     "1530 FM 973 Taylor, TX, USA"
    ],
    "match_reason": "new grad phrase 'new grad'",
-   "posted_at": 1785903561,
+   "posted_at": 1785903873,
    "posted_from": "workday",
    "region": "US",
    "score": 50,
@@ -12561,7 +12568,7 @@
     "Bridgewater, NJ"
    ],
    "match_reason": "level 1 suffix on 'software developer'",
-   "posted_at": 1785903559,
+   "posted_at": 1785903872,
    "posted_from": "workday",
    "region": "US",
    "score": 50,
@@ -12582,7 +12589,7 @@
     "Essex Junction"
    ],
    "match_reason": "new grad phrase 'college graduate'",
-   "posted_at": 1785903556,
+   "posted_at": 1785903868,
    "posted_from": "workday",
    "region": "UNKNOWN",
    "score": 50,
@@ -12603,7 +12610,7 @@
     "420 National Business Parkway, Jessup, MD"
    ],
    "match_reason": "new grad phrase 'junior'",
-   "posted_at": 1785903552,
+   "posted_at": 1785903865,
    "posted_from": "workday",
    "region": "US",
    "score": 50,
@@ -20114,6 +20121,30 @@
    "work_auth_evidence": ""
   },
   {
+   "company": "ellipsislabs",
+   "group_key": "b3263e063911",
+   "location_evidence": "New York, New York",
+   "locations": [
+    "New York, New York"
+   ],
+   "match_reason": "new grad phrase 'new grads'",
+   "posted_at": 1774554101,
+   "posted_from": "ashby",
+   "region": "US",
+   "score": 48,
+   "score_reasons": [
+    "-10 posted over a month ago",
+    "+8 direct from the ATS"
+   ],
+   "slug": "ellipsislabs",
+   "source": "ashby",
+   "title": "Software Engineer - 2027 New Grads",
+   "uid": "ashby:ellipsislabs:256c2ec2-01c8-4ff6-9ad0-b926fe40472d",
+   "url": "https://jobs.ashbyhq.com/ellipsislabs/256c2ec2-01c8-4ff6-9ad0-b926fe40472d",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
    "company": "focal",
    "group_key": "2cb1f61a8809",
    "location_evidence": "San Francisco",
@@ -25739,7 +25770,7 @@
     "Ottawa"
    ],
    "match_reason": "new grad phrase 'junior'",
-   "posted_at": 1785817162,
+   "posted_at": 1785817474,
    "posted_from": "workday",
    "region": "CA",
    "score": 43,
@@ -27042,7 +27073,7 @@
     "Wichita, KS"
    ],
    "match_reason": "level 1 suffix on 'engineer'",
-   "posted_at": 1786594762,
+   "posted_at": 1786595074,
    "posted_from": "workday",
    "region": "US",
    "score": 42,
@@ -27065,7 +27096,7 @@
     "4 Locations"
    ],
    "match_reason": "level 1 suffix on 'software engineer'",
-   "posted_at": 1785817163,
+   "posted_at": 1785817475,
    "posted_from": "workday",
    "region": "UNKNOWN",
    "score": 40,
@@ -27088,7 +27119,7 @@
     "IL Caesarea"
    ],
    "match_reason": "new grad phrase 'junior'",
-   "posted_at": 1785817163,
+   "posted_at": 1785817475,
    "posted_from": "workday",
    "region": "UNKNOWN",
    "score": 40,
@@ -27111,7 +27142,7 @@
     "Boadilla del Monte"
    ],
    "match_reason": "level 1 suffix on 'software engineering'",
-   "posted_at": 1785817162,
+   "posted_at": 1785817474,
    "posted_from": "workday",
    "region": "UNKNOWN",
    "score": 40,
@@ -27134,7 +27165,7 @@
     "Silver Spring, MD"
    ],
    "match_reason": "level 1 suffix on 'software engineer'",
-   "posted_at": 1785817162,
+   "posted_at": 1785817474,
    "posted_from": "workday",
    "region": "US",
    "score": 40,
@@ -27157,7 +27188,7 @@
     "Nevada, NV"
    ],
    "match_reason": "level 1 suffix on 'test engineer'",
-   "posted_at": 1785817161,
+   "posted_at": 1785817473,
    "posted_from": "workday",
    "region": "US",
    "score": 40,
@@ -27173,56 +27204,6 @@
    "work_auth_evidence": ""
   },
   {
-   "company": "kbr",
-   "duplicate_count": 2,
-   "duplicate_sources": [
-    "workday"
-   ],
-   "group_key": "8a29a944f6ab",
-   "location_evidence": "Beavercreek, Ohio",
-   "locations": [
-    "Beavercreek, Ohio"
-   ],
-   "match_reason": "new grad phrase 'junior'",
-   "posted_at": 1785817159,
-   "posted_from": "workday",
-   "region": "US",
-   "score": 40,
-   "score_reasons": [
-    "-10 posted over a month ago"
-   ],
-   "slug": "kbr.wd5/KBR_Careers",
-   "source": "workday",
-   "title": "Junior Software Engineer",
-   "uid": "workday:kbr.wd5/KBR_Careers:Junior-Software-Engineer_R2122294",
-   "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Ohio/Junior-Software-Engineer_R2122294",
-   "work_auth": "unknown",
-   "work_auth_evidence": ""
-  },
-  {
-   "company": "ncr",
-   "group_key": "c07bd0bcfa08",
-   "location_evidence": "ATLANTA, GA, USA",
-   "locations": [
-    "ATLANTA, GA, USA"
-   ],
-   "match_reason": "level 1 suffix on 'engineer'",
-   "posted_at": 1785817159,
-   "posted_from": "workday",
-   "region": "US",
-   "score": 40,
-   "score_reasons": [
-    "-10 posted over a month ago"
-   ],
-   "slug": "ncr.wd1/ext_us",
-   "source": "workday",
-   "title": "SW Engineer I",
-   "uid": "workday:ncr.wd1/ext_us:SW-Engineer-I_R0157595",
-   "url": "https://ncr.wd1.myworkdayjobs.com/ext_us/job/ATLANTA-GA-USA/SW-Engineer-I_R0157595",
-   "work_auth": "unknown",
-   "work_auth_evidence": ""
-  },
-  {
    "company": "nvidia",
    "group_key": "e6a410f3de17",
    "location_evidence": "US, CA, Santa Clara",
@@ -27230,7 +27211,7 @@
     "US, CA, Santa Clara"
    ],
    "match_reason": "new grad phrase 'college grad'",
-   "posted_at": 1785817159,
+   "posted_at": 1785817472,
    "posted_from": "workday",
    "region": "US",
    "score": 40,
@@ -27257,7 +27238,7 @@
     "US, CA, Santa Clara"
    ],
    "match_reason": "new grad phrase 'college grad'",
-   "posted_at": 1785817159,
+   "posted_at": 1785817472,
    "posted_from": "workday",
    "region": "US",
    "score": 40,
@@ -27284,7 +27265,7 @@
     "US, CA, Santa Clara"
    ],
    "match_reason": "new grad phrase 'college grad'",
-   "posted_at": 1785817159,
+   "posted_at": 1785817472,
    "posted_from": "workday",
    "region": "US",
    "score": 40,
@@ -27311,7 +27292,7 @@
     "US, CA, Santa Clara"
    ],
    "match_reason": "new grad phrase 'college grad'",
-   "posted_at": 1785817159,
+   "posted_at": 1785817472,
    "posted_from": "workday",
    "region": "US",
    "score": 40,
@@ -27334,7 +27315,7 @@
     "US, CA, Santa Clara"
    ],
    "match_reason": "new grad phrase 'college grad'",
-   "posted_at": 1785817159,
+   "posted_at": 1785817472,
    "posted_from": "workday",
    "region": "US",
    "score": 40,
@@ -27357,7 +27338,7 @@
     "US, CA, Santa Clara"
    ],
    "match_reason": "new grad phrase 'college grad'",
-   "posted_at": 1785817159,
+   "posted_at": 1785817472,
    "posted_from": "workday",
    "region": "US",
    "score": 40,
@@ -27380,7 +27361,7 @@
     "3 Locations"
    ],
    "match_reason": "new grad phrase 'college grad'",
-   "posted_at": 1785817159,
+   "posted_at": 1785817472,
    "posted_from": "workday",
    "region": "UNKNOWN",
    "score": 40,
@@ -27407,7 +27388,7 @@
     "2 Locations"
    ],
    "match_reason": "new grad phrase 'college grad'",
-   "posted_at": 1785817159,
+   "posted_at": 1785817472,
    "posted_from": "workday",
    "region": "UNKNOWN",
    "score": 40,
@@ -27430,7 +27411,7 @@
     "US, CA, Santa Clara"
    ],
    "match_reason": "new grad phrase 'college grad'",
-   "posted_at": 1785817159,
+   "posted_at": 1785817472,
    "posted_from": "workday",
    "region": "US",
    "score": 40,
@@ -27453,7 +27434,7 @@
     "US, CA, Santa Clara"
    ],
    "match_reason": "new grad phrase 'college grad'",
-   "posted_at": 1785817159,
+   "posted_at": 1785817472,
    "posted_from": "workday",
    "region": "US",
    "score": 40,
@@ -27476,7 +27457,7 @@
     "US, CA, Santa Clara"
    ],
    "match_reason": "new grad phrase 'college grad'",
-   "posted_at": 1785817159,
+   "posted_at": 1785817472,
    "posted_from": "workday",
    "region": "US",
    "score": 40,
@@ -27499,7 +27480,7 @@
     "US, CA, Santa Clara"
    ],
    "match_reason": "new grad phrase 'college grad'",
-   "posted_at": 1785817159,
+   "posted_at": 1785817472,
    "posted_from": "workday",
    "region": "US",
    "score": 40,
@@ -27515,6 +27496,29 @@
    "work_auth_evidence": ""
   },
   {
+   "company": "ncr",
+   "group_key": "c07bd0bcfa08",
+   "location_evidence": "ATLANTA, GA, USA",
+   "locations": [
+    "ATLANTA, GA, USA"
+   ],
+   "match_reason": "level 1 suffix on 'engineer'",
+   "posted_at": 1785817471,
+   "posted_from": "workday",
+   "region": "US",
+   "score": 40,
+   "score_reasons": [
+    "-10 posted over a month ago"
+   ],
+   "slug": "ncr.wd1/ext_us",
+   "source": "workday",
+   "title": "SW Engineer I",
+   "uid": "workday:ncr.wd1/ext_us:SW-Engineer-I_R0157595",
+   "url": "https://ncr.wd1.myworkdayjobs.com/ext_us/job/ATLANTA-GA-USA/SW-Engineer-I_R0157595",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
    "company": "nwis",
    "group_key": "1f95a2b01673",
    "location_evidence": "Annapolis Junction, MD",
@@ -27522,7 +27526,7 @@
     "Annapolis Junction, MD"
    ],
    "match_reason": "level 1 suffix on 'software engineer'",
-   "posted_at": 1785817159,
+   "posted_at": 1785817471,
    "posted_from": "workday",
    "region": "US",
    "score": 40,
@@ -27538,6 +27542,33 @@
    "work_auth_evidence": ""
   },
   {
+   "company": "kbr",
+   "duplicate_count": 2,
+   "duplicate_sources": [
+    "workday"
+   ],
+   "group_key": "8a29a944f6ab",
+   "location_evidence": "Beavercreek, Ohio",
+   "locations": [
+    "Beavercreek, Ohio"
+   ],
+   "match_reason": "new grad phrase 'junior'",
+   "posted_at": 1785817470,
+   "posted_from": "workday",
+   "region": "US",
+   "score": 40,
+   "score_reasons": [
+    "-10 posted over a month ago"
+   ],
+   "slug": "kbr.wd5/kbr_careers",
+   "source": "workday",
+   "title": "Junior Software Engineer",
+   "uid": "workday:kbr.wd5/kbr_careers:Junior-Software-Engineer_R2122294",
+   "url": "https://kbr.wd5.myworkdayjobs.com/kbr_careers/job/Beavercreek-Ohio/Junior-Software-Engineer_R2122294",
+   "work_auth": "unknown",
+   "work_auth_evidence": ""
+  },
+  {
    "company": "globusmedical",
    "group_key": "8afa3c43c8d9",
    "location_evidence": "Audubon, PA",
@@ -27545,7 +27576,7 @@
     "Audubon, PA"
    ],
    "match_reason": "new grad phrase 'associate software engineer'",
-   "posted_at": 1785817157,
+   "posted_at": 1785817469,
    "posted_from": "workday",
    "region": "US",
    "score": 40,
@@ -27568,7 +27599,7 @@
     "Urbandale, IA"
    ],
    "match_reason": "level 1 suffix on 'software engineer'",
-   "posted_at": 1785817157,
+   "posted_at": 1785817469,
    "posted_from": "workday",
    "region": "US",
    "score": 40,
@@ -27591,7 +27622,7 @@
     "USA - CO Fort Collins"
    ],
    "match_reason": "level 1 suffix on 'engineer'",
-   "posted_at": 1785817156,
+   "posted_at": 1785817468,
    "posted_from": "workday",
    "region": "US",
    "score": 40,
@@ -27614,7 +27645,7 @@
     "Penang"
    ],
    "match_reason": "new grad phrase 'college graduate'",
-   "posted_at": 1785817156,
+   "posted_at": 1785817468,
    "posted_from": "workday",
    "region": "UNKNOWN",
    "score": 40,
@@ -27637,7 +27668,7 @@
     "USA - Texas - Austin"
    ],
    "match_reason": "new grad phrase 'college graduate'",
-   "posted_at": 1785817156,
+   "posted_at": 1785817468,
    "posted_from": "workday",
    "region": "US",
    "score": 40,
@@ -27660,7 +27691,7 @@
     "TWN - T'ai-wan - Hsinchu"
    ],
    "match_reason": "new grad phrase 'college graduate'",
-   "posted_at": 1785817156,
+   "posted_at": 1785817468,
    "posted_from": "workday",
    "region": "UNKNOWN",
    "score": 40,
@@ -27683,7 +27714,7 @@
     "Richardson"
    ],
    "match_reason": "new grad phrase 'college graduate'",
-   "posted_at": 1785817156,
+   "posted_at": 1785817468,
    "posted_from": "workday",
    "region": "UNKNOWN",
    "score": 40,
@@ -27706,7 +27737,7 @@
     "USA - New York - Malta"
    ],
    "match_reason": "new grad phrase 'college graduate'",
-   "posted_at": 1785817156,
+   "posted_at": 1785817468,
    "posted_from": "workday",
    "region": "US",
    "score": 40,
@@ -27729,7 +27760,7 @@
     "USA - Texas - Austin"
    ],
    "match_reason": "new grad phrase 'college graduate'",
-   "posted_at": 1785817156,
+   "posted_at": 1785817468,
    "posted_from": "workday",
    "region": "US",
    "score": 40,
@@ -27752,7 +27783,7 @@
     "San Diego, California"
    ],
    "match_reason": "new grad phrase 'entry level'",
-   "posted_at": 1785817155,
+   "posted_at": 1785817467,
    "posted_from": "workday",
    "region": "US",
    "score": 40,
@@ -27779,7 +27810,7 @@
     "LIVONIA 01"
    ],
    "match_reason": "new grad phrase 'recent grad'",
-   "posted_at": 1785817154,
+   "posted_at": 1785817466,
    "posted_from": "workday",
    "region": "UNKNOWN",
    "score": 40,
@@ -27806,7 +27837,7 @@
     "LIVONIA 01"
    ],
    "match_reason": "new grad phrase 'recent grad'",
-   "posted_at": 1785817154,
+   "posted_at": 1785817466,
    "posted_from": "workday",
    "region": "UNKNOWN",
    "score": 40,
@@ -27829,7 +27860,7 @@
     "Dayton, OH"
    ],
    "match_reason": "new grad phrase 'entry level'",
-   "posted_at": 1785817152,
+   "posted_at": 1785817465,
    "posted_from": "workday",
    "region": "US",
    "score": 40,
@@ -27852,7 +27883,7 @@
     "US, CA, San Jose, Rio Robles"
    ],
    "match_reason": "new grad phrase 'associate engineer'",
-   "posted_at": 1785817151,
+   "posted_at": 1785817464,
    "posted_from": "workday",
    "region": "US",
    "score": 40,
@@ -27875,7 +27906,7 @@
     "Cottage Grove, MN"
    ],
    "match_reason": "level 1 suffix on 'engineer'",
-   "posted_at": 1785817151,
+   "posted_at": 1785817464,
    "posted_from": "workday",
    "region": "US",
    "score": 40,
@@ -32772,7 +32803,7 @@
    "location_evidence": "",
    "locations": [],
    "match_reason": "new grad phrase 'graduate program'",
-   "posted_at": 1785817156,
+   "posted_at": 1785817469,
    "posted_from": "workday",
    "region": "UNKNOWN",
    "score": 15,
@@ -32794,7 +32825,7 @@
    "location_evidence": "",
    "locations": [],
    "match_reason": "new grad phrase 'junior'",
-   "posted_at": 1785817156,
+   "posted_at": 1785817469,
    "posted_from": "workday",
    "region": "UNKNOWN",
    "score": 15,
