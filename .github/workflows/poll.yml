@@ -24,7 +24,7 @@ on:
       mode:
         description: "run = normal sweep, seed = mark everything seen, probe = check the Canadian sources, hunt = find Canadian ATS boards"
         type: choice
-        options: [run, seed, notify-test, probe, hunt]
+        options: [run, seed, notify-test, probe, hunt, audit]
         default: run
       dry_run:
         description: "print notifications instead of sending them"
@@ -81,6 +81,9 @@ jobs:
             # workflows that exist on the default branch, and this one has to be
             # runnable from a feature branch to be any use before merging.
             python poller/cli.py probe --candidates --dump 6000
+          elif [ "${{ inputs.mode }}" = "audit" ]; then
+            # Reports what the Canadian boards drop and why. Writes nothing.
+            python poller/cli.py audit
           elif [ "${{ inputs.mode }}" = "hunt" ]; then
             # Tries every Canadian name in poller/canada_seed.txt as a slug on
             # every platform, and writes only the boards that answered.
@@ -98,7 +101,7 @@ jobs:
       # `hunt` writes the registry and nothing else, so its commit is wanted;
       # `probe` writes nothing at all.
       - name: Commit state
-        if: ${{ inputs.mode != 'probe' }}
+        if: ${{ inputs.mode != 'probe' && inputs.mode != 'audit' }}
         run: |
           git config user.name  "job-watcher"
           git config user.email "job-watcher@users.noreply.github.com"

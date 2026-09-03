@@ -621,6 +621,94 @@ def _dump_body(ca, name, key, limit):
 
 
 # --------------------------------------------------------------------------
+# audit
+#
+# `hunt` confirmed 75 Canadian boards and they contributed one role to the
+# feed between them. The boards are alive, so the loss is downstream of the
+# fetch, and there are four gates it could be. Guessing which one has already
+# cost several rounds tonight, so this command polls the Canadian boards and
+# reports every posting it drops and the reason, which turns "not many
+# Canadian jobs" into a list of specific rejections to argue with.
+#
+# Writes nothing.
+# --------------------------------------------------------------------------
+
+def cmd_audit(cfg, args):
+    import canada as ca
+
+    registry = state.load_slugs()
+    matcher = Matcher(cfg)
+
+    targets = [(source, slug)
+               for source, block in (registry.get("sources") or registry).items()
+               for slug, entry in block.items()
+               if isinstance(entry, dict) and entry.get("origin") == "hunted-ca"]
+    targets += list(ca.iter_configured(cfg))
+    print("Auditing %d Canadian boards and queries.\n" % len(targets))
+
+    with concurrent.futures.ThreadPoolExecutor(max_workers=HUNT_WORKERS) as pool:
+        fetched = list(pool.map(
+            lambda t: (t, sources.fetch(t[0], t[1], cfg)), targets))
+
+    postings = kept = 0
+    canadian = []
+    reasons = {}
+    dead = 0
+
+    for (source, key), result in fetched:
+        if not result.ok:
+            dead += 1
+            continue
+        signal = None
+        if source in ca.SOURCES:
+            signal = (ca.EARLY_CAREER_SOURCES.get(source)
+                      or matcher.early_career_query(key))
+        for job in result.jobs:
+            postings += 1
+            region, _ = locations.classify(job.get("locations"))
+            remote = locations.is_remote(job.get("locations"))
+            if region != locations.CA and not remote:
+                continue
+            matched, reason, _kind = matcher.evaluate_full(
+                job.get("title", ""), signal)
+            if matched:
+                kept += 1
+                continue
+            # Collapse "excluded by 'senior'" and friends into one bucket each.
+            bucket = reason.split(" on ")[0]
+            reasons[bucket] = reasons.get(bucket, 0) + 1
+            canadian.append((source, key, job.get("company") or "",
+                             job.get("title") or "", bucket))
+
+    print("%d postings across %d live boards (%d boards failed)."
+          % (postings, len(targets) - dead, dead))
+    print("%d matched. %d are in Canada or remote and were dropped.\n"
+          % (kept, len(canadian)))
+
+    print("Why they were dropped:")
+    for bucket, count in sorted(reasons.items(), key=lambda kv: -kv[1]):
+        print("  %4d  %s" % (count, bucket))
+
+    print("\nA sample of what is being dropped, by reason:")
+    for bucket, _count in sorted(reasons.items(), key=lambda kv: -kv[1]):
+        print("\n  --- %s ---" % bucket)
+        shown = [row for row in canadian if row[4] == bucket][:12]
+        for source, key, company, title, _b in shown:
+            print("    %-14s %-24s %s" % (source, company[:24], title[:64]))
+
+    summary = os.environ.get("GITHUB_STEP_SUMMARY")
+    if summary:
+        with open(summary, "a", encoding="utf-8") as fh:
+            fh.write("## Canadian board audit\n\n")
+            fh.write("%d postings, %d matched, %d Canadian or remote dropped.\n\n"
+                     % (postings, kept, len(canadian)))
+            fh.write("| dropped | reason |\n|---|---|\n")
+            for bucket, count in sorted(reasons.items(), key=lambda kv: -kv[1]):
+                fh.write("| %d | %s |\n" % (count, bucket))
+    return 0
+
+
+# --------------------------------------------------------------------------
 # hunt
 #
 # The other half of the Canadian gap. Discovery reads slugs out of SimplifyJobs
@@ -873,6 +961,8 @@ def main(argv=None):
     pro.add_argument("--candidates", action="store_true",
                      help="for a source that failed, try every known URL shape")
 
+    sub.add_parser("audit", help="report what the Canadian boards drop, and why")
+
     hunt = sub.add_parser(
         "hunt", help="test Canadian company names as slugs on every platform")
     hunt.add_argument("--names", default=SEED_FILE)
@@ -898,6 +988,7 @@ def main(argv=None):
         "discover": cmd_discover,
         "probe": cmd_probe,
         "hunt": cmd_hunt,
+        "audit": cmd_audit,
         "notify-test": cmd_notify_test,
         "seed": cmd_seed,
         "run": cmd_run,
