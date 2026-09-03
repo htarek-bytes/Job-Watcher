@@ -1,5 +1,5 @@
 {
- "count": 852,
+ "count": 860,
  "uids": {
   "ashby:abridge:7d6ae2be-cd53-466c-8151-2dae2e87aace": 1788353785,
   "ashby:applied:0695a5b7-6823-4da5-b918-3b580d49662c": 1788353785,
@@ -487,6 +487,7 @@
   "simplify:listings:9d095560-7990-43f5-93aa-7c97612afafe": 1788322770,
   "simplify:listings:9d9eb552-2b86-429d-875e-4c930c609200": 1788322770,
   "simplify:listings:9dd271a3-9548-43cb-aa06-75e9947c1623": 1788322770,
+  "simplify:listings:9e418849-d074-4939-a158-5fee48750f3c": 1788408852,
   "simplify:listings:9ee25097-f93f-4cf5-94fc-b8071589bf17": 1788322770,
   "simplify:listings:9f295fbb-d491-4d86-abc7-f5cc60b4c53e": 1788322770,
   "simplify:listings:9f3702b3-a0cf-4dc4-b67b-7435571d1648": 1788322770,
@@ -543,6 +544,7 @@
   "simplify:listings:b9b4d3e6-5667-4e7c-81f4-b1dce70d602c": 1788322770,
   "simplify:listings:bad45630-f141-4950-b2ee-198543fd7a29": 1788322770,
   "simplify:listings:bb5b9ae6-1aba-4fe3-87a2-2a7855b9a86e": 1788322770,
+  "simplify:listings:bbd4fb62-ea0c-4903-9ff3-2886bf802efe": 1788408852,
   "simplify:listings:bbd8fc41-9404-4e56-bc60-a2cff4f12deb": 1788322770,
   "simplify:listings:bcb96d36-65d0-4114-b61b-1a07e176a443": 1788322770,
   "simplify:listings:bd40fda7-37cc-4439-aca3-fdc324bbba53": 1788322770,
@@ -685,6 +687,10 @@
   "smartrecruiters:SmarterAgent:743999706496509": 1788386269,
   "smartrecruiters:TestingXperts:743999652691148": 1788386269,
   "smartrecruiters:Wavestone1:744000143599414": 1788386269,
+  "workable:amax-1:FE4BA3799A": 1788408852,
+  "workable:arondite:5C5C551ADA": 1788408852,
+  "workable:avalore:21C454DF00": 1788408852,
+  "workable:avalore:E58EE9FF24": 1788408852,
   "workable:eagle-seven:0FE54E44C1": 1788386318,
   "workable:homey:50DF9B3D53": 1788386318,
   "workable:interimage:1D6C7CEA42": 1788386318,
@@ -735,6 +741,7 @@
   "workday:btisolutions.wd12/External:Chinese-Bilingual-Field-Test-Engineer--Entry-Level-_JR101996-1": 1788368024,
   "workday:cadence.wd1/External_Careers:Adams-MultiBody-Dynamics-Application-Software-Developer--Recent-Grad-2026-_R55788": 1788368024,
   "workday:cadence.wd1/Univ_Careers:Adams-Application-Software-Developer---Recent-Grad-2026-_R55736-2": 1788368024,
+  "workday:cadence.wd1/University_Talent:Adams-MultiBody-Dynamics-Application-Software-Developer--Recent-Grad-2026-_R55788-3": 1788408852,
   "workday:capitalhealth.wd1/CapitalHealthCareers:IT-Product-Engineer-I_JR110768": 1788368024,
   "workday:capitalone.wd12/Capital_One:Associate--Software-Engineer--New-Grad-Card-Expansion_R247320": 1788368024,
   "workday:cat.wd5/solarturbines:XMLNAME-2027-Entry-Level-Gas-Turbine-Product-Engineer--GTPE-_R0000382291": 1788368024,
@@ -788,6 +795,7 @@
   "workday:massgeneralbrigham.wd1/mgbexternal:Systems-Engineer-I_RQ4061864-1": 1788393936,
   "workday:micron.wd1/External:DRAM-Device---Cell-Technology-Engineer_JR102424": 1788393936,
   "workday:micron.wd1/External:Legacy-DRAM-Product-Yield-Enhancement-Engineer_JR110017": 1788393936,
+  "workday:micron.wd1/External:New-College-Grad---Design-Engineer--DRAM-Technology-and-Products_JR105519": 1788408852,
   "workday:micron.wd1/External:New-College-Grad---Engineer--DPG-Compute-PE-Y-Q_JR106445": 1788393936,
   "workday:micron.wd1/External:New-College-Grad---Mixed-Signal-Design-Engineer--HBM_JR110753": 1788393936,
   "workday:micron.wd1/External:New-College-Grad---RDA-Engineer--APTD_JR108462": 1788393936,
@@ -854,5 +862,5 @@
   "workday:zebra.wd501/Zebra_careers:Software-Engineer--I_JR102997-1": 1788377927,
   "workday:zoll.wd5/ZOLLMedicalCorp:Junior-Algorithm-Engineer_R19377": 1788377927
  },
- "updated_at": 1788399581
+ "updated_at": 1788408853
 }
