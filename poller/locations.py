@@ -164,6 +164,71 @@ def classify_all(values):
     return sorted(found)
 
 
+# Where a remote role will actually hire, which is a different question from
+# where it is listed. "Remote" on a US company's board almost always means US
+# only, so being remote is never on its own taken as being open to Canada.
+GLOBAL = "GLOBAL"
+CA_OK = "CA_OK"
+# Geo-locked somewhere that is not Canada. Not "US only": the same rule catches
+# EMEA-only and India-only postings, and naming it after one of them made the
+# results read wrong.
+LOCKED = "LOCKED"
+
+# Only used on a description, and deliberately narrow. The bare word "remote"
+# appears in half of all descriptions ("we support remote work", "hybrid with
+# remote days"), so matching it would call almost everything remote. These are
+# phrases a posting only uses when the role itself is remote.
+_FULLY_REMOTE = re.compile(
+    r"\b(fully remote|100% remote|100 percent remote|remote[- ]first|"
+    r"remote position|remote role|work from anywhere|fully distributed|"
+    r"this role is remote|entirely remote|permanently remote)\b", re.I)
+
+_ANYWHERE = re.compile(
+    r"\b(work from anywhere|from anywhere|anywhere in the world|any location|"
+    r"worldwide|world wide|globally|global remote|remote global|"
+    r"fully distributed|any country|location agnostic)\b", re.I)
+
+# Checked before the global markers, because a posting can say both: "fully
+# remote" in the headline and "must reside in the United States" in the body.
+# The restriction is the operative half.
+_GEO_LOCKED = re.compile(
+    r"\bmust (?:be (?:located|based|authorized)|reside|live|work)\b[^.]{0,60}"
+    r"\b(united states|u\.s\.|usa|us only)\b"
+    r"|\bremote\b[^.]{0,25}\b(?:us|u\.s\.|usa|united states)[- ]?(?:only|based)\b"
+    r"|\bus[- ]based (?:only|candidates)\b"
+    r"|\b(?:eu|emea|uk|india|latam|apac)[- ]?(?:only|based only)\b"
+    r"|\bauthorized to work in the (?:united states|us)\b",
+    re.I,
+)
+
+
+def remote_scope(values, description=""):
+    """Whether a remote role is open beyond one country, and beyond it to us.
+
+    Returns GLOBAL, CA_OK, US_ONLY or UNKNOWN, and None when the role is not
+    remote at all. A role is only treated as reachable from Canada on an
+    explicit signal: "remote" by itself is the single most over-claimed word on
+    a job board, and presenting a US-only role as Canada-open wastes an
+    application, which is the expensive mistake here.
+    """
+    # The remote signal is not always in the location. A role listed as
+    # "Berlin, Germany" whose description says it hires from any country is
+    # exactly the kind this exists to find, and reading only the location field
+    # threw it away.
+    if not is_remote(values) and not _FULLY_REMOTE.search(description or ""):
+        return None
+    text = " ".join([v for v in (values or []) if v] + [description or ""])
+    if _GEO_LOCKED.search(text):
+        return LOCKED
+    if _ANYWHERE.search(text):
+        return GLOBAL
+    if _CANADA.search(text) or any(
+        classify_one(v) == CA for v in (values or []) if v
+    ):
+        return CA_OK
+    return UNKNOWN
+
+
 def is_remote(values):
     """Whether a posting says it is remote, regardless of its region.
 
@@ -178,9 +243,20 @@ def is_remote(values):
     return any(_REMOTE.search(v) for v in (values or []) if v)
 
 
-def allowed(region, cfg):
+def allowed(region, cfg, scope=None):
+    """Whether a posting's location is one worth alerting on.
+
+    `scope` is remote_scope's answer. It is what lets a role listed in Berlin
+    or Sydney through: a fully remote role that says it hires anywhere, or
+    names Canada, is reachable on a Canadian passport, and dropping it because
+    of the city in its location field loses exactly the roles this filter has
+    no other way to find. Without that signal a foreign posting is still
+    dropped, which is the old behaviour.
+    """
     loc = cfg.get("locations", {})
     countries = set(loc.get("countries", [US, CA]))
+    if scope in (GLOBAL, CA_OK) and loc.get("allow_global_remote", True):
+        return True
     if region in (US, CA):
         return region in countries
     if region == REMOTE:

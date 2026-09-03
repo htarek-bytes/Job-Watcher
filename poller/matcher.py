@@ -85,6 +85,54 @@ def trailing_level(text):
 
 NEW_GRAD = "new grad"
 INTERNSHIP = "internship"
+# A software role with no seniority marker at all: "Developer, Rust",
+# "Full Stack Software Developer", "Firmware Engineer". Not new grad, not
+# senior, and at a two hundred person company frequently open to a strong new
+# graduate. An audit of 90 Canadian boards found 63 of these being dropped for
+# "no new grad signal" while only 122 postings matched, so they are the single
+# largest recoverable group on the Canadian side.
+#
+# They are a THIRD kind rather than more new grad results, for the same reason
+# internships are: the confidence is different and a blended list hides that.
+OPEN_LEVEL = "open level"
+# A role whose own description asks for at most a few years. Stronger evidence
+# than OPEN_LEVEL, because the posting states the requirement rather than
+# leaving it unsaid, and it is the tier most new grads actually get hired into.
+JUNIOR = "0 to 3 years"
+
+# "2+ years of experience", "1-3 years experience", "at least 2 years of
+# relevant experience". Only counted when the word experience is nearby: a
+# description mentioning "5 years ago" or "over the last 3 years" is talking
+# about something else entirely.
+_YEARS = re.compile(
+    r"(\d{1,2})\s*(?:\+|plus)?\s*(?:-|–|—|to|or)?\s*(\d{1,2})?\s*"
+    r"(?:\+|plus)?\s*years?\b",
+    re.I,
+)
+_EXPERIENCE_NEARBY = 70
+
+
+def min_years(text):
+    """The smallest years-of-experience requirement a description states.
+
+    The minimum, not the maximum: a posting asking "2+ years, 5 preferred" is
+    reachable at two. Returns None when it says nothing about years, which is
+    most postings and must not be read as zero.
+    """
+    if not text:
+        return None
+    low = text.lower()
+    found = []
+    for match in _YEARS.finditer(low):
+        window = low[max(0, match.start() - _EXPERIENCE_NEARBY):
+                     match.end() + _EXPERIENCE_NEARBY]
+        if "experience" not in window:
+            continue
+        years = int(match.group(1))
+        # A range gives its low end, which is the bar to clear.
+        if years <= 20:
+            found.append(years)
+    return min(found) if found else None
 
 
 class Matcher:
@@ -94,6 +142,8 @@ class Matcher:
         self.new_grad_phrases = [normalize(k) for k in m["new_grad_phrases"]]
         self.exclude_keywords = [normalize(k) for k in m["exclude_keywords"]]
         self.max_level = m.get("max_level", ENTRY_LEVEL)
+        # The most years of experience a posting may ask for and still count.
+        self.max_years = int(m.get("max_years_experience", 3))
 
         # Internships were an exclusion, full stop. They are now a second kind
         # of match, kept apart from new grad roles rather than mixed into them:
@@ -124,7 +174,8 @@ class Matcher:
         matched, reason, _ = self.evaluate_full(title, signal)
         return matched, reason
 
-    def evaluate_full(self, title, signal=None):
+    def evaluate_full(self, title, signal=None, allow_open_level=False,
+                      years=None):
         """Return (matched, reason, kind). The reason is kept for the dashboard and
         for debugging a miss without re-running the poller.
 
@@ -177,6 +228,17 @@ class Matcher:
             # Weaker evidence than a title, and labelled as such so the reason
             # shown in the dashboard does not read like the other three.
             return True, "matched the early career search %r" % signal, NEW_GRAD
+        if years is not None and years <= self.max_years:
+            # The posting's own requirement, so this is the strongest of the
+            # weaker signals. The seniority exclusions have already run on the
+            # title, which is what stops a senior req that happens to ask for
+            # "1 year of leadership experience" getting in here.
+            return True, "asks for %d year%s of experience" % (
+                years, "" if years == 1 else "s"), JUNIOR
+        if allow_open_level:
+            # Weakest of the four, and labelled so. The caller decides where
+            # this is allowed; it is not a global loosening.
+            return True, "software role, no seniority stated", OPEN_LEVEL
 
         return False, "no new grad signal", None
 

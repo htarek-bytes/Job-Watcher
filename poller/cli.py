@@ -28,7 +28,7 @@ import rank
 import sources
 import state
 import workauth
-from matcher import Matcher
+from matcher import Matcher, min_years
 from notify import Notifier
 
 CONFIG = os.path.join(os.path.dirname(os.path.abspath(__file__)), "config.toml")
@@ -228,13 +228,35 @@ def sweep(cfg, health, registry, quiet=False, previous=None):
             signal = (canada.EARLY_CAREER_SOURCES.get(source)
                       or matcher.early_career_query(key))
 
+        # Unlabelled software roles are accepted from CANADIAN boards only.
+        # Turning them on everywhere would add them from all ~990 boards and
+        # bury the new grad results under US mid-level ones, which is the
+        # opposite of what was asked for. An audit measured 63 of them on the
+        # Canadian boards against 122 total matches, so this is the largest
+        # recoverable group there and a small, contained change here.
+        canadian_board = (
+            source in canada.SOURCES
+            or registry.get(source, {}).get(key, {}).get("origin") == "hunted-ca"
+        )
+        open_level = canadian_board and cfg["match"].get("include_open_level", False)
+
         kept = 0
         for job in result.jobs:
-            matched, reason, kind = matcher.evaluate_full(job.get("title", ""), signal)
+            # Read out of the description, which only some sources return, and
+            # read before the description is dropped below.
+            years = min_years(job.get("description", ""))
+            matched, reason, kind = matcher.evaluate_full(
+                job.get("title", ""), signal, open_level, years)
             if not matched:
                 continue
             region, evidence = locations.classify(job.get("locations"))
-            if not locations.allowed(region, cfg):
+            # Where a remote role will actually hire, read from the location
+            # strings and the description together, because a posting can say
+            # "fully remote" in the headline and "must reside in the United
+            # States" in the body.
+            scope = locations.remote_scope(
+                job.get("locations"), job.get("description", ""))
+            if not locations.allowed(region, cfg, scope):
                 continue
 
             status, auth_evidence = workauth.classify(
@@ -250,7 +272,15 @@ def sweep(cfg, health, registry, quiet=False, previous=None):
             # Remote is a property of the role, not a place. The region tag
             # prefers a country, so "Remote - US" is tagged US and a Remote
             # filter built on the region found 1 posting where 18 said remote.
-            job["remote"] = locations.is_remote(job.get("locations"))
+            # A scope at all means the role is remote, including when only the
+            # description said so, so the Remote filter finds it too.
+            job["remote"] = bool(scope) or locations.is_remote(job.get("locations"))
+            job["remote_scope"] = scope
+            if scope in (locations.GLOBAL, locations.CA_OK):
+                # So the dashboard's Canada filter finds a worldwide remote
+                # role too. On a Canadian passport it is a Canadian option.
+                job["regions"] = sorted(
+                    set(job["regions"]) | {locations.GLOBAL, locations.CA})
             # "new grad" or "internship". Kept apart rather than blended: the
             # two have different deadlines and different value.
             job["kind"] = kind
