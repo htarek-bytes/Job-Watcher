@@ -103,19 +103,53 @@ jobs:
       - name: Commit state
         if: ${{ inputs.mode != 'probe' && inputs.mode != 'audit' }}
         run: |
+          set -u
+          BRANCH="${GITHUB_REF_NAME}"
+
           git config user.name  "job-watcher"
           git config user.email "job-watcher@users.noreply.github.com"
+          # Resolve data/ with tools/merge-state.py instead of by line. A merge
+          # driver has to be registered in git config, which does not travel
+          # with a checkout, so it is set here as well as documented in
+          # .gitattributes. Without it a concurrent sweep's data/ conflicts
+          # cannot be resolved and the push never lands.
+          git config merge.jobstate.name "job watcher state merge"
+          git config merge.jobstate.driver "python3 tools/merge-state.py %O %A %B %P"
+
           git add data/
           if git diff --cached --quiet; then
             echo "no state change"
             exit 0
           fi
           git commit -m "state: sweep $(date -u +%Y-%m-%dT%H:%MZ) [skip ci]"
-          # Another sweep may have landed while this one was fetching.
+
+          # A sweep can start from a stale base: actions/checkout takes
+          # github.sha, which is fixed when the RUN IS CREATED, not when the
+          # job starts. A run that waited in the concurrency queue therefore
+          # checks out a commit from before the sweep ahead of it pushed, and
+          # its own push is rejected as non fast forward.
+          #
+          # `git push` with no refspec is also wrong here: that checkout leaves
+          # a detached HEAD, so it failed with "You are not currently on a
+          # branch" and never pushed anything. HEAD:branch works either way.
           for attempt in 1 2 3 4; do
-            if git push; then exit 0; fi
-            echo "push failed, rebasing (attempt $attempt)"
-            git pull --rebase --autostash origin "${GITHUB_REF_NAME}" || true
+            if git push origin "HEAD:${BRANCH}"; then exit 0; fi
+            echo "push rejected, merging remote state (attempt $attempt)"
+
+            # Any half finished merge from the previous attempt has to go
+            # first. The old loop used `git pull --rebase`, and when that hit a
+            # data/ conflict it left the tree mid rebase with unmerged files,
+            # so every later attempt failed on the leftovers rather than on the
+            # actual push. That is what turned one lost race into a red run.
+            git merge --abort 2>/dev/null || true
+            git rebase --abort 2>/dev/null || true
+
+            git fetch origin "${BRANCH}" || true
+            if git merge --no-edit "origin/${BRANCH}"; then
+              continue
+            fi
+            echo "merge left conflicts outside data/, abandoning this attempt" >&2
+            git merge --abort 2>/dev/null || true
             sleep $((attempt * 2))
           done
           echo "could not push state after 4 attempts" >&2
