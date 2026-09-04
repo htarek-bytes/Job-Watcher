@@ -1,5 +1,5 @@
 {
- "count": 3460,
+ "count": 3469,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -62,6 +62,7 @@
   "amazon:amazon:10529972": 1788539216,
   "amazon:amazon:10530139": 1788548796,
   "amazon:amazon:10530357": 1788548796,
+  "amazon:amazon:10530460": 1788557234,
   "ashby:1password:7f885c41-7572-439c-886f-bc508eb9a3d7": 1788454653,
   "ashby:1password:c247ea98-bf31-45f0-a38b-1fe255909538": 1788454653,
   "ashby:1password:d8e8cf3f-c994-43a7-854c-86849b95db41": 1788454653,
@@ -396,6 +397,7 @@
   "ashby:pylon-labs:fcea8b52-81f1-4b0c-b575-d7b180faec4d": 1788410216,
   "ashby:quantcast:09271839-e273-472b-948d-3d362867f809": 1788465705,
   "ashby:quora:452afc2e-0c79-41f8-8201-1aab7df775db": 1788364508,
+  "ashby:ramp:196e4e25-c452-430d-8b2f-36a40f88a2ae": 1788557234,
   "ashby:ramp:2a4968ae-220c-471b-b890-a011de570bbb": 1788454653,
   "ashby:ramp:34413f8d-26bf-4bbc-8ade-eb309a0e2245": 1788454653,
   "ashby:ramp:4859cd5e-f2a9-44d7-81f7-8bfc0e62369f": 1788454653,
@@ -1314,6 +1316,7 @@
   "greenhouse:sharkninjaoperatingllc:4710293006": 1788479777,
   "greenhouse:shifttechnology:5843676003": 1788479777,
   "greenhouse:shifttechnology:7978305003": 1788550714,
+  "greenhouse:shifttechnology:7987030003": 1788557234,
   "greenhouse:sigmacomputing:7690411003": 1788386454,
   "greenhouse:sigmacomputing:7809974003": 1788479777,
   "greenhouse:sigmacomputing:7812258003": 1788479777,
@@ -1327,6 +1330,7 @@
   "greenhouse:skildai-careers:4136353008": 1788479777,
   "greenhouse:skildai-careers:4136356008": 1788479777,
   "greenhouse:skildai-careers:5228768008": 1788479777,
+  "greenhouse:sofi:7987003003": 1788557234,
   "greenhouse:sonypicturesimageworks:7626940003": 1788479777,
   "greenhouse:spacekinetic:5209269008": 1788479777,
   "greenhouse:spacekinetic:5372364008": 1788479777,
@@ -2054,6 +2058,7 @@
   "jobbank:developpeur junior:50165521": 1788390279,
   "jobbank:developpeur junior:50191592": 1788390279,
   "jobbank:developpeur junior:50218626": 1788524072,
+  "jobbank:developpeur junior:50224637": 1788557234,
   "jobbank:entry level software developer:50032299": 1788390279,
   "jobbank:entry level software developer:50197990": 1788390279,
   "jobbank:entry level software developer:50208511": 1788390279,
@@ -2936,6 +2941,7 @@
   "smartrecruiters:AECOM2:744000147337468": 1788465250,
   "smartrecruiters:AECOM2:744000147343364": 1788465250,
   "smartrecruiters:AECOM2:744000147389480": 1788488704,
+  "smartrecruiters:AECOM2:744000147601439": 1788557234,
   "smartrecruiters:AGTechnologies1:743999655632519": 1788474010,
   "smartrecruiters:AGTechnologies1:743999658568718": 1788474010,
   "smartrecruiters:AGTechnologies1:743999659664711": 1788474010,
@@ -3228,6 +3234,7 @@
   "workday:clearwateranalytics.wd1/Clearwater_Analytics_Careers:Software-Development-Engineer-I_R12047": 1788390279,
   "workday:clearwateranalytics.wd1/Clearwater_Analytics_Careers:Software-Development-Engineer-I_R12059": 1788460756,
   "workday:cox.wd1/Cox_External_Career_Site_1:Entry-Level-Software-Engineer--Draper--UT-_R202681804": 1788390279,
+  "workday:cox.wd1/Cox_External_Career_Site_1:Software-Engineering-Intern---Summer-2027--North-Hills--NY-_R202682171-1": 1788557234,
   "workday:crowdstrike.wd5/crowdstrikecareers:Engineer-I--Data-Scientist---New-Grad--Hybrid-_R29382-1": 1788390279,
   "workday:dexcom.wd1/Dexcom:Software-Development-Engineer-1_JR120540": 1788390279,
   "workday:disney.wd5/disneycareerdc:Software-Engineering-Intern--Spring-2027_10158599-1": 1788442300,
@@ -3266,6 +3273,7 @@
   "workday:gevernova.wd5/vernova_externalsite:GE-Vernova---Project-Engineer-Intern---Summer-2027_R5050026-2": 1788548796,
   "workday:gevernova.wd5/vernova_externalsite:GE-Vernova-CIC-Systems-Engineer-Co-op---Spring---Summer-2027_R5051807-2": 1788465250,
   "workday:gevernova.wd5/vernova_externalsite:GE-Vernova-CIC-Systems-Engineer-Co-op---Summer-Fall-2027_R5051597-2": 1788465250,
+  "workday:gevernova.wd5/vernova_externalsite:GE-Vernova-GridOS--Project-Engineer---Co-Op-Intern---January-2027-June-2027_R5050087-2": 1788557234,
   "workday:gevernova.wd5/vernova_externalsite:GE-Vernova-Software-Engineering---Co-op---Spring-Summer-2027_R5051780-2": 1788465250,
   "workday:gevernova.wd5/vernova_externalsite:GE-Vernova-Software-Engineering---Co-op--Summer---Fall_R5051794-2": 1788465250,
   "workday:gevernova.wd5/vernova_externalsite:Ingnieur-junior-en-intgration-logicielle-GridOS---DevOps-F-H-----Junior-GridOS-Software-Integration-Engineer---DevOps_R5048048-3": 1788448251,
@@ -3430,6 +3438,7 @@
   "workday:tcenergy.wd3/CAREER_SITE_TC:New-Engineer-in-Training-Rotational-Program_JR-10637": 1788394042,
   "workday:td.wd3/TD_Bank_Careers:Associate-Software-Engineer---Mainframe_R_1503472-1": 1788394042,
   "workday:td.wd3/TD_Bank_Careers:Associate-Software-Engineer--Fullstack-_R_1508672": 1788394042,
+  "workday:td.wd3/TD_Bank_Careers:Associate-Software-Engineer_R_1496579": 1788557234,
   "workday:td.wd3/TD_Bank_Careers:Associate-Software-Engineer_R_1497015": 1788455819,
   "workday:td.wd3/TD_Bank_Careers:Associate-Software-Engineer_R_1500104": 1788394042,
   "workday:td.wd3/TD_Bank_Careers:Software-Engineer-I_R_1505519": 1788394042,
@@ -3462,5 +3471,5 @@
   "workday:zebra.wd501/Zebra_careers:XMLNAME-2026-6-months--Internship-Sri-Lanka---Software-Engineering_JR102701": 1788410216,
   "workday:zoll.wd5/ZOLLMedicalCorp:Junior-Algorithm-Engineer_R19377": 1788377927
  },
- "updated_at": 1788551622
+ "updated_at": 1788557234
 }
