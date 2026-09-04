@@ -1,5 +1,5 @@
 {
- "count": 3358,
+ "count": 3363,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -2527,6 +2527,7 @@
   "simplify:listings:619553e3-74db-46b1-9fee-5ee41d3f9e6b": 1788465250,
   "simplify:listings:620df5f1-110c-447c-8999-cf2d664001e9": 1788322770,
   "simplify:listings:6219210e-e390-4c2e-a436-58559bdccd22": 1788322770,
+  "simplify:listings:6323f819-c45a-46ce-bb2a-3111e0cec20d": 1788512368,
   "simplify:listings:63703d4d-13ff-4bec-a203-233fd1628666": 1788322770,
   "simplify:listings:63848af9-c211-4b79-b264-401610b828f6": 1788322770,
   "simplify:listings:643187a2-24a5-4866-8cbb-5dd7214a4755": 1788410216,
@@ -2705,6 +2706,7 @@
   "simplify:listings:b065707e-df8b-4ae6-9436-f71afb2dfe41": 1788322770,
   "simplify:listings:b1a94042-0745-42b3-8e10-95436ad94aae": 1788435390,
   "simplify:listings:b1b08b60-0b48-4c0f-be14-fef824f712eb": 1788435390,
+  "simplify:listings:b27bdb2b-fba2-4b47-bb69-c965e4a9e543": 1788512368,
   "simplify:listings:b31a94f8-6785-4fba-b769-152531ae31f2": 1788322770,
   "simplify:listings:b327f698-0a2a-4d85-a72c-fd740c1b7854": 1788322770,
   "simplify:listings:b3298ec2-a195-4322-b6bc-40539c93421f": 1788322770,
@@ -2850,6 +2852,7 @@
   "simplify:listings:f5899221-db12-4026-a976-4ea6742899cc": 1788322770,
   "simplify:listings:f6146660-41bf-4fcd-ba7b-24a1c19c1176": 1788322770,
   "simplify:listings:f61cd3df-168a-4041-b903-df204e464cd8": 1788322770,
+  "simplify:listings:f638a7a9-7858-44cf-a52d-23c7ec258ad8": 1788512368,
   "simplify:listings:f6f48127-bff1-47be-aab1-c96716c9b7b2": 1788322770,
   "simplify:listings:f6f83b45-cf4c-4a3e-8f32-4c64672610a1": 1788322770,
   "simplify:listings:f7ad7fb2-93f8-4515-bd37-68629bc7d326": 1788322770,
@@ -3148,6 +3151,7 @@
   "workday:dexcom.wd1/Dexcom:Software-Development-Engineer-1_JR120540": 1788390279,
   "workday:disney.wd5/disneycareerdc:Software-Engineering-Intern--Spring-2027_10158599-1": 1788442300,
   "workday:equifax.wd5/UR_External:Site-Reliability-Engineer-Intern_J00178674": 1788442300,
+  "workday:eversource.wd1/ExternalSite:Associate-Engineer--Maintenance-Support_R-031423": 1788512368,
   "workday:exelixis.wd1/exel:AI-and-Agentic-Engineer-I_JR7022-1": 1788377607,
   "workday:exelixis.wd1/exel:Associate-Engineer---AI-and-Agentic_JR7031": 1788377607,
   "workday:expedia.wd108/private:Software-Development-Engineer-I_R-108739-2": 1788377607,
@@ -3215,6 +3219,7 @@
   "workday:jainglobal.wd5/ExternalSite:Junior-Compliance-Developer_JR100329": 1788377607,
   "workday:jci.wd5/JCI:HVAC-Controls-Systems-Engineer-1_WD30278990": 1788472811,
   "workday:jci.wd5/JCI:Quality-Engineer-I_WD30278664": 1788377607,
+  "workday:jj.wd5/JJ:Junior-Industrial-IT-Systems-Engineer_R-096807": 1788512368,
   "workday:kbr.wd5/KBR_Careers:Junior-Software-Engineer_R2122294": 1788377607,
   "workday:kbr.wd5/KBR_Careers:Project-Engineer-I_R2129322": 1788442554,
   "workday:kbr.wd5/kbr_careers:Junior-Software-Engineer_R2122294": 1788377835,
@@ -3360,5 +3365,5 @@
   "workday:zebra.wd501/Zebra_careers:XMLNAME-2026-6-months--Internship-Sri-Lanka---Software-Engineering_JR102701": 1788410216,
   "workday:zoll.wd5/ZOLLMedicalCorp:Junior-Algorithm-Engineer_R19377": 1788377927
  },
- "updated_at": 1788506601
+ "updated_at": 1788512428
 }
