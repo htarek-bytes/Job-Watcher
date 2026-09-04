@@ -2,27 +2,6 @@
  "closed": [
   {
    "closed_at": 1788350664,
-   "company": "United Launch Alliance",
-   "hours_open": 7.7,
-   "title": "Embedded Flight Software Engineer 1",
-   "uid": "simplify:listings:242a72e5-306f-4aee-83bf-394d30551f34"
-  },
-  {
-   "closed_at": 1788350664,
-   "company": "Boeing",
-   "hours_open": 7.7,
-   "title": "Entry Level ASIC/FPGA Design Engineer - Space Electronics",
-   "uid": "simplify:listings:ee871fc2-a48b-4f6f-8b78-4f13099021ca"
-  },
-  {
-   "closed_at": 1788350664,
-   "company": "The Walt Disney Company",
-   "hours_open": 7.7,
-   "title": "Associate Software Engineer",
-   "uid": "simplify:listings:5ea2c9a9-5fc0-47a9-9ae2-f5f63daa4272"
-  },
-  {
-   "closed_at": 1788350664,
    "company": "Altice USA",
    "hours_open": 7.7,
    "title": "Software Development Engineer 1",
@@ -5571,8 +5550,57 @@
    "hours_open": 30.2,
    "title": "Software Development Engineer, Security Platform",
    "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1788564877,
+   "company": "twitch",
+   "hours_open": 27.7,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1788564877,
+   "company": "relx",
+   "hours_open": 52.0,
+   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - January)",
+   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617-1"
+  },
+  {
+   "closed_at": 1788564877,
+   "company": "relx",
+   "hours_open": 52.0,
+   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - June)",
+   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-2"
+  },
+  {
+   "closed_at": 1788564877,
+   "company": "relx",
+   "hours_open": 52.0,
+   "title": "Tech Accelerate Graduate Program - Software Engineer (Boca Raton - June)",
+   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Boca-Raton---June-_R116023"
+  },
+  {
+   "closed_at": 1788564877,
+   "company": "kbr",
+   "hours_open": 52.0,
+   "title": "Junior Software Engineer",
+   "uid": "workday:kbr.wd5/KBR_Careers:Junior-Software-Engineer_R2122294"
+  },
+  {
+   "closed_at": 1788564877,
+   "company": "spacex",
+   "hours_open": 30.3,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1788564877,
+   "company": "spacex",
+   "hours_open": 30.6,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 796,
- "updated_at": 1788564102
+ "count": 803,
+ "updated_at": 1788564877
 }
