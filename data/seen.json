@@ -1,5 +1,5 @@
 {
- "count": 3394,
+ "count": 3402,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -57,6 +57,7 @@
   "amazon:amazon:10529317": 1788470575,
   "amazon:amazon:10529525": 1788484140,
   "amazon:amazon:10529546": 1788488704,
+  "amazon:amazon:10529828": 1788530938,
   "ashby:1password:7f885c41-7572-439c-886f-bc508eb9a3d7": 1788454653,
   "ashby:1password:c247ea98-bf31-45f0-a38b-1fe255909538": 1788454653,
   "ashby:1password:d8e8cf3f-c994-43a7-854c-86849b95db41": 1788454653,
@@ -529,6 +530,8 @@
   "bamboohr:asuresoftware:1054": 1788386269,
   "bamboohr:bluemetrix:31": 1788454653,
   "bamboohr:ecopiatech:117": 1788454653,
+  "bamboohr:enghouse:2152": 1788530938,
+  "bamboohr:enghouse:2201": 1788530938,
   "bamboohr:enghouse:2224": 1788454653,
   "bamboohr:lexical:70": 1788386269,
   "bamboohr:lexical:73": 1788386269,
@@ -612,6 +615,7 @@
   "greenhouse:accenturefederalservices:4709013006": 1788454653,
   "greenhouse:accenturefederalservices:4709154006": 1788454653,
   "greenhouse:accenturefederalservices:4709157006": 1788454653,
+  "greenhouse:accenturefederalservices:4709267006": 1788530938,
   "greenhouse:accenturefederalservices:4710190006": 1788386318,
   "greenhouse:accenturefederalservices:4710266006": 1788454653,
   "greenhouse:accenturefederalservices:4711147006": 1788474799,
@@ -2069,6 +2073,7 @@
   "jobbank:junior software developer:50208770": 1788390279,
   "jobbank:junior software developer:50213421": 1788454653,
   "jobbank:junior software developer:50218652": 1788488704,
+  "jobbank:junior software developer:50220056": 1788530938,
   "jobillico:developpeur logiciel:10091077": 1788454653,
   "jobillico:programmeur junior:17357741": 1788390279,
   "jobillico:software developer:17294693": 1788477845,
@@ -3124,6 +3129,7 @@
   "workday:bakerhughes.wd5/BakerHughes:Intern---Plant-Parametric-and-Automation-Model-Engineer---Florence--Italy---2026--M-F-D-_R167907": 1788435390,
   "workday:bakerhughes.wd5/BakerHughes:Intern---Reciprocating-Compressor-Engineer--Business-Development---Florence--Italy---2026--M-F-D-_R167053": 1788435390,
   "workday:barr.wd1/barrcareers:Air-Quality-Scientist-Engineer---Emissions-Monitoring-Focus---Entry-Level--Hybrid-_R-102288-1": 1788368024,
+  "workday:barr.wd1/barrcareers:Internship---Geotechnical-Engineer--Hybrid-_R-102321": 1788530938,
   "workday:barr.wd1/barrcareers:Structural-Transmission-Engineer---Entry-Level--Hybrid-_R-102242-1": 1788368024,
   "workday:barrywehmiller.wd1/BWConfidential:Entry-Level-Instrumentation---Controls-Engineer_R022650": 1788368024,
   "workday:barrywehmiller.wd1/BWConfidential:Entry-Level-PreConstruction-Engineer_R022646": 1788368024,
@@ -3162,6 +3168,7 @@
   "workday:cadence.wd1/University_Talent:Adams-MultiBody-Dynamics-Application-Software-Developer--Recent-Grad-2026-_R55788-3": 1788408852,
   "workday:cadence.wd1/University_Talent:Software-Engineer---new-college-grad-Dec-2026-_R55738-1": 1788477845,
   "workday:cadence.wd1/University_Talent_NCG:Adams-Application-Software-Developer---Recent-Grad-2026-_R55736": 1788528043,
+  "workday:cadence.wd1/University_Talent_NCG:Adams-MultiBody-Dynamics-Application-Software-Developer--Recent-Grad-2026-_R55788-2": 1788530938,
   "workday:cae.wd3/career:C-FIN-275-Software-Engineering-Intern--AI--Automation-and-Business-Intelligence_123477-1": 1788435390,
   "workday:campbellsoup.wd5/externalcareers_globalsite:Data-Engineer--DA-AI-Co-Op_Req-65838": 1788435390,
   "workday:campbellsoup.wd5/externalcareers_globalsite:Modeling-and-Visualization-Engineer-Co-Op_Req-65846": 1788435390,
@@ -3182,6 +3189,7 @@
   "workday:disney.wd5/disneycareerdc:Software-Engineering-Intern--Spring-2027_10158599-1": 1788442300,
   "workday:equifax.wd5/UR_External:Site-Reliability-Engineer-Intern_J00178674": 1788442300,
   "workday:eversource.wd1/ExternalSite:Associate-Engineer--Maintenance-Support_R-031423": 1788512368,
+  "workday:eversource.wd1/ExternalSite:Associate-Engineer-Grid-Operations-Technology--Hybrid-Schedule-_R-031790-1": 1788530938,
   "workday:exelixis.wd1/exel:AI-and-Agentic-Engineer-I_JR7022-1": 1788377607,
   "workday:exelixis.wd1/exel:Associate-Engineer---AI-and-Agentic_JR7031": 1788377607,
   "workday:expedia.wd108/private:Software-Development-Engineer-I_R-108739-2": 1788377607,
@@ -3396,5 +3404,5 @@
   "workday:zebra.wd501/Zebra_careers:XMLNAME-2026-6-months--Internship-Sri-Lanka---Software-Engineering_JR102701": 1788410216,
   "workday:zoll.wd5/ZOLLMedicalCorp:Junior-Algorithm-Engineer_R19377": 1788377927
  },
- "updated_at": 1788529228
+ "updated_at": 1788530939
 }
