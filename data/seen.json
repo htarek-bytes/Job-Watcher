@@ -1,5 +1,5 @@
 {
- "count": 3448,
+ "count": 3453,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -3145,6 +3145,7 @@
   "workday:adobe.wd5/external_experienced:XMLNAME-2027-Intern---Software-Engineer_R171666": 1788454653,
   "workday:ag.wd3/Airbus:AGGP2027---Graduate-Certification-Engineer-I_JR10430293": 1788368024,
   "workday:ag.wd3/Airbus:XMLNAME--CORE-DIGITAL-CAMPUS---SAP-Developer--f-m-d-_JR10428591-1": 1788425964,
+  "workday:altera.wd1/altera:Junior-Verification-Engineer_R03078": 1788549636,
   "workday:amat.wd1/External:Algorithm-Developer-I-New-College-Grad--Bachelor-s--Santa-Clara--CA-_R2626605": 1788368024,
   "workday:amat.wd1/External:EHS-Safety-Engineer-New-College-Grad--Bachelors---Santa-Clara--CA-_R2626244": 1788368024,
   "workday:amat.wd1/External:Software-Engineer--New-College-Grad--Master-s--Chandler--AZ-_R2627911": 1788472811,
@@ -3162,6 +3163,9 @@
   "workday:bakerhughes.wd5/BakerHughes:Intern---Plant-Dynamic-Simulation-Engineer---Florence--Italy---2026--M-F-D-_R167906": 1788435390,
   "workday:bakerhughes.wd5/BakerHughes:Intern---Plant-Parametric-and-Automation-Model-Engineer---Florence--Italy---2026--M-F-D-_R167907": 1788435390,
   "workday:bakerhughes.wd5/BakerHughes:Intern---Reciprocating-Compressor-Engineer--Business-Development---Florence--Italy---2026--M-F-D-_R167053": 1788435390,
+  "workday:barclays.wd3/External_Career_Site_Barclays:XMLNAME-2027-Technology-Developer-Graduate-Program-Whippany_JR-0000123244": 1788549636,
+  "workday:barclays.wd3/External_Career_Site_Barclays:XMLNAME-2027-Technology-Developer-Summer-Internship-Program-Whippany_JR-0000123234": 1788549636,
+  "workday:barclays.wd3/External_Career_Site_Barclays:XMLNAME-2027-Technology-Developer-Summer-Internship-Program-Wilmington_JR-0000123236": 1788549636,
   "workday:barr.wd1/barrcareers:Air-Quality-Scientist-Engineer---Emissions-Monitoring-Focus---Entry-Level--Hybrid-_R-102288-1": 1788368024,
   "workday:barr.wd1/barrcareers:Internship---Geotechnical-Engineer--Hybrid-_R-102321": 1788530938,
   "workday:barr.wd1/barrcareers:Structural-Transmission-Engineer---Entry-Level--Hybrid-_R-102242-1": 1788368024,
@@ -3243,6 +3247,7 @@
   "workday:geaerospace.wd5/ge_externalsite:Applied-AI-Engineer-Intern---Summer-2027--May-June-Start-_R5039302-1": 1788442300,
   "workday:generac.wd5/external:Application-Engineer-I_JR15688": 1788377607,
   "workday:generac.wd5/external:Entry-Level-Electrical-Design-Engineer---Switchgear---Generator-Control-Systems_JR15958": 1788377607,
+  "workday:generalmotors.wd5/Careers_GM:Entry-Level-Software-Design-Release-Engineer_JR-202618509": 1788549636,
   "workday:generalmotors.wd5/Careers_GM:XMLNAME-2027-Co-Op---Manufacturing-Controls-Engineer_JR-202618863": 1788442300,
   "workday:generalmotors.wd5/Careers_GM:XMLNAME-2027-Co-Op-Student---Manufacturing-Quality-Engineer_JR-202619309": 1788442300,
   "workday:gentex.wd5/Gentex:Machine-Vision-Development-Engineer-I_REQ026227": 1788377607,
@@ -3450,5 +3455,5 @@
   "workday:zebra.wd501/Zebra_careers:XMLNAME-2026-6-months--Internship-Sri-Lanka---Software-Engineering_JR102701": 1788410216,
   "workday:zoll.wd5/ZOLLMedicalCorp:Junior-Algorithm-Engineer_R19377": 1788377927
  },
- "updated_at": 1788548797
+ "updated_at": 1788549637
 }
