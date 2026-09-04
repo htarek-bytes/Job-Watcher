@@ -1,5 +1,5 @@
 {
- "count": 3440,
+ "count": 3448,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -60,6 +60,8 @@
   "amazon:amazon:10529828": 1788530938,
   "amazon:amazon:10529944": 1788539216,
   "amazon:amazon:10529972": 1788539216,
+  "amazon:amazon:10530139": 1788548796,
+  "amazon:amazon:10530357": 1788548796,
   "ashby:1password:7f885c41-7572-439c-886f-bc508eb9a3d7": 1788454653,
   "ashby:1password:c247ea98-bf31-45f0-a38b-1fe255909538": 1788454653,
   "ashby:1password:d8e8cf3f-c994-43a7-854c-86849b95db41": 1788454653,
@@ -161,6 +163,8 @@
   "ashby:backbone:ba8c05b9-5553-4b47-bf89-ff841ba0d163": 1788465250,
   "ashby:batoncorporation:bb3ab630-5e59-48b5-9794-00a225879a66": 1788353785,
   "ashby:blissway:51d6d839-9801-4436-bfc2-918bae428ed8": 1788353785,
+  "ashby:blissway:62bbed11-2f1d-4d7a-bfab-10519b6db5c1": 1788548796,
+  "ashby:blissway:662f1761-5d28-421d-8b47-605cc910991d": 1788548796,
   "ashby:brainco:39660079-dc7e-4974-8ab1-900c45198bcf": 1788454653,
   "ashby:brainco:b9b965a7-39e8-4164-bfad-209fe7f5889b": 1788454653,
   "ashby:brainco:bb6e555b-8bb1-4cd7-9813-4f82a5ebe839": 1788353785,
@@ -2961,6 +2965,7 @@
   "smartrecruiters:GDMSI:744000147561809": 1788539216,
   "smartrecruiters:GDMSI:744000147563929": 1788541050,
   "smartrecruiters:GDMSI:744000147568809": 1788541828,
+  "smartrecruiters:GDMSI:744000147583700": 1788548796,
   "smartrecruiters:HardinDesign:744000145322155": 1788377927,
   "smartrecruiters:HorizonTechnologiesInc:92174407": 1788377927,
   "smartrecruiters:JobsForHumanity:744000147220729": 1788474799,
@@ -3189,6 +3194,7 @@
   "workday:caci.wd1/external:Junior-Endpoint-Systems-Engineer_331376": 1788448251,
   "workday:caci.wd1/external:Junior-Hardware-Engineer_331381-1": 1788448251,
   "workday:caci.wd1/external:Junior-PeopleSoft-Developer_331656": 1788539216,
+  "workday:caci.wd1/external:Software-Engineer-Intern---Summer-2027_331648": 1788548796,
   "workday:caci.wd1/external:Software-Engineering-Co-op---Fall-2026_331472": 1788435390,
   "workday:cadence.wd1/External_Careers:Adams-MultiBody-Dynamics-Application-Software-Developer--Recent-Grad-2026-_R55788": 1788368024,
   "workday:cadence.wd1/Univ_Careers:Adams-Application-Software-Developer---Recent-Grad-2026-_R55736-2": 1788368024,
@@ -3249,6 +3255,7 @@
   "workday:gevernova.wd5/only_confidential_executive_recruiting:GE-Vernova-Software-Engineering---Co-op--Summer---Fall_R5051794-1": 1788465502,
   "workday:gevernova.wd5/vernova_externalsite:Early-Career-Traininship--Technical-Applications-Engineer_R5050516": 1788377927,
   "workday:gevernova.wd5/vernova_externalsite:Field-Services-Engineer---Early-Career-Trainee_R5049070-3": 1788377927,
+  "workday:gevernova.wd5/vernova_externalsite:GE-Vernova---Project-Engineer-Intern---Summer-2027_R5050026-2": 1788548796,
   "workday:gevernova.wd5/vernova_externalsite:GE-Vernova-CIC-Systems-Engineer-Co-op---Spring---Summer-2027_R5051807-2": 1788465250,
   "workday:gevernova.wd5/vernova_externalsite:GE-Vernova-CIC-Systems-Engineer-Co-op---Summer-Fall-2027_R5051597-2": 1788465250,
   "workday:gevernova.wd5/vernova_externalsite:GE-Vernova-Software-Engineering---Co-op---Spring-Summer-2027_R5051780-2": 1788465250,
@@ -3262,6 +3269,7 @@
   "workday:globalfoundries.wd1/External:Packaging-Design-Integration-Engineer--2026-New-College-Graduate-_JR-2603919": 1788377607,
   "workday:globalfoundries.wd1/External:Packaging-Integration-Engineer--2026-New-College-Graduate-_JR-2603869": 1788377607,
   "workday:globalfoundries.wd1/External:SoC-Design-Verification-Engineer--2026-New-College-Graduate-_JR-2601515": 1788377607,
+  "workday:globalfoundries.wd1/External:Software-Engineer--Cloud-Platform--2027-New-College-Graduate-_JR-2604056": 1788548796,
   "workday:globalfoundries.wd1/External:Tapeout-Engineer--2026-New-College-Graduate_JR-2602561": 1788377607,
   "workday:globalfoundries.wd1/External:XMLNAME-3D-Heterogeneous-Integration-Design-Enablement-Engineer--2025-New-College-Graduate-_JR-2501678": 1788377607,
   "workday:globalhr.wd5/Private_Posting_No_TMP:Conversion--EDP--Test-Equipment-Design-Engineer--Test-Systems-Engineer-I_01866217": 1788377607,
@@ -3442,5 +3450,5 @@
   "workday:zebra.wd501/Zebra_careers:XMLNAME-2026-6-months--Internship-Sri-Lanka---Software-Engineering_JR102701": 1788410216,
   "workday:zoll.wd5/ZOLLMedicalCorp:Junior-Algorithm-Engineer_R19377": 1788377927
  },
- "updated_at": 1788543511
+ "updated_at": 1788548797
 }
