@@ -2,27 +2,6 @@
  "closed": [
   {
    "closed_at": 1788448251,
-   "company": "micron",
-   "hours_open": 15.1,
-   "title": "New College Grad - DRAM Device & Cell Technology Engineer",
-   "uid": "workday:micron.wd1/External:DRAM-Device---Cell-Technology-Engineer_JR102424"
-  },
-  {
-   "closed_at": 1788448251,
-   "company": "wellsky",
-   "hours_open": 19.5,
-   "title": "Associate Software Engineer",
-   "uid": "workday:wellsky.wd1/WellSkyCareers:Associate-Software-Engineer_JR5078"
-  },
-  {
-   "closed_at": 1788448251,
-   "company": "zebra",
-   "hours_open": 6.2,
-   "title": "Software Engineer, I",
-   "uid": "workday:zebra.wd501/Zebra_careers:Software-Engineer--I_JR103105"
-  },
-  {
-   "closed_at": 1788448251,
    "company": "manulife",
    "hours_open": 1.6,
    "title": "Summer Intern 2027 - Software Engineering",
@@ -5599,8 +5578,29 @@
    "hours_open": 70.2,
    "title": "Junior Software Engineer",
    "uid": "workday:kbr.wd5/KBR_Careers:Junior-Software-Engineer_R2122294"
+  },
+  {
+   "closed_at": 1788631853,
+   "company": "bmo",
+   "hours_open": 51.0,
+   "title": "Machine Learning Developer (New or Recent Graduate)",
+   "uid": "workday:bmo.wd3/Campus:Machine-Learning-Developer--New-or-Recent-Graduate-_R260024265-1"
+  },
+  {
+   "closed_at": 1788631853,
+   "company": "kbr",
+   "hours_open": 37.5,
+   "title": "Project Engineer I",
+   "uid": "workday:kbr.wd5/kbr_careers:Project-Engineer-I_R2129322"
+  },
+  {
+   "closed_at": 1788631853,
+   "company": "kbr",
+   "hours_open": 70.6,
+   "title": "Junior Software Engineer",
+   "uid": "workday:kbr.wd5/kbr_careers:Junior-Software-Engineer_R2122294"
   }
  ],
- "count": 805,
- "updated_at": 1788630396
+ "count": 803,
+ "updated_at": 1788631853
 }
