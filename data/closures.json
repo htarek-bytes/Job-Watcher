@@ -1,69 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1788409504,
-   "company": "Embedding VC",
-   "hours_open": 24.1,
-   "title": "AI Engineer - Early Career",
-   "uid": "simplify:listings:b556adb1-8adc-4b0f-9230-3a2067a6428d"
-  },
-  {
-   "closed_at": 1788409504,
-   "company": "kbr",
-   "hours_open": 8.9,
-   "title": "Junior Software Engineer",
-   "uid": "workday:kbr.wd5/KBR_Careers:Junior-Software-Engineer_R2122294"
-  },
-  {
-   "closed_at": 1788390279,
-   "company": "bb",
-   "hours_open": 6.2,
-   "title": "QNX Open Source Software Developer (New Graduate/Graduate)",
-   "uid": "workday:bb.wd3/blackberry:QNX-Open-Source-Software-Developer--New-Graduate-Graduate-_20260289-1"
-  },
-  {
-   "closed_at": 1788390279,
-   "company": "GlobalFoundries",
-   "hours_open": 18.8,
-   "title": "CPU Design Verification Engineer New Grad",
-   "uid": "simplify:listings:544fd036-4963-42cb-9c00-393d4eb4ff87"
-  },
-  {
-   "closed_at": 1788390279,
-   "company": "Micron Technology",
-   "hours_open": 18.8,
-   "title": "R&D Equipment Engineer New Grad - TSE",
-   "uid": "simplify:listings:20e5b52f-866c-4751-9606-aeea03d79533"
-  },
-  {
-   "closed_at": 1788390279,
-   "company": "Dexcom",
-   "hours_open": 18.8,
-   "title": "Software Development Engineer 1",
-   "uid": "simplify:listings:a9facee3-51ba-46e7-8ce7-3f9b3d0c85d6"
-  },
-  {
-   "closed_at": 1788390279,
-   "company": "Exelixis",
-   "hours_open": 18.8,
-   "title": "Associate Engineer - AI and Agentic",
-   "uid": "simplify:listings:36649be5-6fcf-46db-86bb-69e8d9c6ce71"
-  },
-  {
-   "closed_at": 1788390279,
-   "company": "Observable Space",
-   "hours_open": 18.8,
-   "title": "Junior Embedded Software Engineer",
-   "uid": "simplify:listings:1827abb6-82cd-4735-aeff-87e0b81c8003"
-  },
-  {
-   "closed_at": 1788390279,
-   "company": "northwoodspace",
-   "hours_open": 7.2,
-   "title": "Global Sites Engineer (Early Career)",
-   "uid": "ashby:northwoodspace:baa85b78-5718-4e74-9b21-170776dc4185"
-  },
-  {
    "closed_at": 1788409442,
    "company": "Enercon Services",
    "hours_open": 24.1,
@@ -5599,8 +5536,71 @@
    "hours_open": 40.3,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1788600917,
+   "company": "twitch",
+   "hours_open": 37.7,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1788600917,
+   "company": "kbr",
+   "hours_open": 28.9,
+   "title": "Project Engineer I",
+   "uid": "workday:kbr.wd5/kbr_careers:Project-Engineer-I_R2129322"
+  },
+  {
+   "closed_at": 1788600917,
+   "company": "AbaData Inc.",
+   "hours_open": 58.5,
+   "title": "mobile applications developer",
+   "uid": "jobbank:developpeur junior:50111833"
+  },
+  {
+   "closed_at": 1788600917,
+   "company": "relx",
+   "hours_open": 59.6,
+   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - January)",
+   "uid": "workday:relx.wd3/RiskSolutions:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617"
+  },
+  {
+   "closed_at": 1788600917,
+   "company": "relx",
+   "hours_open": 59.6,
+   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - June)",
+   "uid": "workday:relx.wd3/RiskSolutions:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-1"
+  },
+  {
+   "closed_at": 1788600917,
+   "company": "relx",
+   "hours_open": 59.6,
+   "title": "Tech Accelerate Graduate Program - Software Engineer (Boca Raton - June)",
+   "uid": "workday:relx.wd3/RiskSolutions:Tech-Accelerate-Graduate-Program---Software-Engineer--Boca-Raton---June-_R116023-2"
+  },
+  {
+   "closed_at": 1788600917,
+   "company": "cadence",
+   "hours_open": 53.4,
+   "title": "Adams MultiBody Dynamics Application Software Developer (Recent Grad 2026)",
+   "uid": "workday:cadence.wd1/University_Talent:Adams-MultiBody-Dynamics-Application-Software-Developer--Recent-Grad-2026-_R55788-3"
+  },
+  {
+   "closed_at": 1788600917,
+   "company": "kbr",
+   "hours_open": 62.0,
+   "title": "Junior Software Engineer",
+   "uid": "workday:kbr.wd5/kbr_careers:Junior-Software-Engineer_R2122294"
+  },
+  {
+   "closed_at": 1788600917,
+   "company": "spacex",
+   "hours_open": 38.9,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
- "count": 818,
- "updated_at": 1788599852
+ "count": 809,
+ "updated_at": 1788600917
 }
