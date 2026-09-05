@@ -1,55 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1788393691,
-   "company": "relx",
-   "hours_open": 2.1,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Boca Raton - June)",
-   "uid": "workday:relx.wd3/RiskSolutions:Tech-Accelerate-Graduate-Program---Software-Engineer--Boca-Raton---June-_R116023-2"
-  },
-  {
-   "closed_at": 1788393691,
-   "company": "Uniswap",
-   "hours_open": 19.7,
-   "title": "Software Engineer - Early Career",
-   "uid": "simplify:listings:ec8d7f8d-2154-4e58-bc3d-7413c3536d43"
-  },
-  {
-   "closed_at": 1788393691,
-   "company": "Focal",
-   "hours_open": 19.7,
-   "title": "Field Deployment Engineer - Entry Level",
-   "uid": "simplify:listings:95dbbfea-b072-44f1-a033-05228bbc1a1b"
-  },
-  {
-   "closed_at": 1788393691,
-   "company": "Firetiger",
-   "hours_open": 19.7,
-   "title": "Product Engineer New Grad",
-   "uid": "simplify:listings:ded7326e-5564-41be-adf4-964fe99051d7"
-  },
-  {
-   "closed_at": 1788393691,
-   "company": "Faros AI",
-   "hours_open": 19.7,
-   "title": "Software Engineer New Grad",
-   "uid": "simplify:listings:b638e646-a8c7-484b-9b2b-51e2b939e5c6"
-  },
-  {
-   "closed_at": 1788393810,
-   "company": "relx",
-   "hours_open": 4.4,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - January)",
-   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617-1"
-  },
-  {
-   "closed_at": 1788393810,
-   "company": "relx",
-   "hours_open": 4.4,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - June)",
-   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-2"
-  },
-  {
    "closed_at": 1788393810,
    "company": "relx",
    "hours_open": 4.4,
@@ -5599,8 +5550,57 @@
    "hours_open": 10.4,
    "title": "GE Vernova - Project Engineer Intern - Summer 2027",
    "uid": "workday:gevernova.wd5/vernova_externalsite:GE-Vernova---Project-Engineer-Intern---Summer-2027_R5050026-2"
+  },
+  {
+   "closed_at": 1788587272,
+   "company": "twitch",
+   "hours_open": 36.8,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1788587272,
+   "company": "Buyerlink",
+   "hours_open": 54.7,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50190157"
+  },
+  {
+   "closed_at": 1788587272,
+   "company": "relx",
+   "hours_open": 58.2,
+   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - January)",
+   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617-1"
+  },
+  {
+   "closed_at": 1788587272,
+   "company": "relx",
+   "hours_open": 58.2,
+   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - June)",
+   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-2"
+  },
+  {
+   "closed_at": 1788587272,
+   "company": "relx",
+   "hours_open": 58.2,
+   "title": "Tech Accelerate Graduate Program - Software Engineer (Boca Raton - June)",
+   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Boca-Raton---June-_R116023"
+  },
+  {
+   "closed_at": 1788587272,
+   "company": "spacex",
+   "hours_open": 36.8,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1788587272,
+   "company": "spacex",
+   "hours_open": 36.8,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 826,
- "updated_at": 1788586163
+ "count": 807,
+ "updated_at": 1788587273
 }
