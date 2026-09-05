@@ -1,5 +1,5 @@
 {
- "count": 3502,
+ "count": 3505,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -2383,6 +2383,7 @@
   "rippling:boom-supersonic:dd8a32fb-b2d4-4052-a8e4-6aaab31af70c": 1788386269,
   "rippling:dlb-associates:408d94b6-2dcb-49b2-a8ff-165d08817170": 1788386269,
   "rippling:dlb-associates:c6f48880-fb91-42ab-b4db-a3bcdfe55903": 1788416995,
+  "rippling:edgehog-trading:10ba9bbf-9fbe-49ff-8f58-a88041de1438": 1788571199,
   "rippling:hearth-careers:1c9a88a3-3dde-4081-a4d4-293af5af6ea1": 1788386269,
   "simplify:listings:00142abd-9aec-4fca-9c8d-b46f6fb762d2": 1788322770,
   "simplify:listings:00620949-7bbd-4342-a515-87e57990c860": 1788322770,
@@ -3073,6 +3074,8 @@
   "workable:coldquanta:0B3ABA7CD8": 1788455648,
   "workable:coldquanta:870912B832": 1788455648,
   "workable:coldquanta:FD59935B99": 1788455648,
+  "workable:credence:545B9377E4": 1788571199,
+  "workable:credence:6FB3AB654C": 1788571199,
   "workable:cwill-us:22BF5316AC": 1788455648,
   "workable:datavisor-jobs:95134ABE3C": 1788455648,
   "workable:datavisor-jobs:B8B9084C93": 1788455648,
@@ -3504,5 +3507,5 @@
   "workday:zebra.wd501/Zebra_careers:XMLNAME-2026-6-months--Internship-Sri-Lanka---Software-Engineering_JR102701": 1788410216,
   "workday:zoll.wd5/ZOLLMedicalCorp:Junior-Algorithm-Engineer_R19377": 1788377927
  },
- "updated_at": 1788570641
+ "updated_at": 1788571199
 }
