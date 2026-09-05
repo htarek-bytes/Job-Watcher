@@ -1,27 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1788409504,
-   "company": "Embedding VC",
-   "hours_open": 24.1,
-   "title": "AI Engineer - Early Career",
-   "uid": "simplify:listings:b556adb1-8adc-4b0f-9230-3a2067a6428d"
-  },
-  {
-   "closed_at": 1788409504,
-   "company": "kbr",
-   "hours_open": 8.9,
-   "title": "Junior Software Engineer",
-   "uid": "workday:kbr.wd5/KBR_Careers:Junior-Software-Engineer_R2122294"
-  },
-  {
-   "closed_at": 1788390279,
-   "company": "bb",
-   "hours_open": 6.2,
-   "title": "QNX Open Source Software Developer (New Graduate/Graduate)",
-   "uid": "workday:bb.wd3/blackberry:QNX-Open-Source-Software-Developer--New-Graduate-Graduate-_20260289-1"
-  },
-  {
    "closed_at": 1788390279,
    "company": "GlobalFoundries",
    "hours_open": 18.8,
@@ -5599,8 +5578,29 @@
    "hours_open": 40.3,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1788600687,
+   "company": "kbr",
+   "hours_open": 28.8,
+   "title": "Project Engineer I",
+   "uid": "workday:kbr.wd5/kbr_careers:Project-Engineer-I_R2129322"
+  },
+  {
+   "closed_at": 1788600687,
+   "company": "cadence",
+   "hours_open": 53.3,
+   "title": "Adams MultiBody Dynamics Application Software Developer (Recent Grad 2026)",
+   "uid": "workday:cadence.wd1/University_Talent:Adams-MultiBody-Dynamics-Application-Software-Developer--Recent-Grad-2026-_R55788-3"
+  },
+  {
+   "closed_at": 1788600687,
+   "company": "kbr",
+   "hours_open": 61.9,
+   "title": "Junior Software Engineer",
+   "uid": "workday:kbr.wd5/kbr_careers:Junior-Software-Engineer_R2122294"
   }
  ],
- "count": 818,
- "updated_at": 1788599852
+ "count": 803,
+ "updated_at": 1788600687
 }
