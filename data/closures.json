@@ -1,20 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1788435390,
-   "company": "accenture",
-   "hours_open": 11.6,
-   "title": "Junior .NET Developer - Fresh Graduates",
-   "uid": "workday:accenture.wd103/AccentureCareers:Junior-NET-Developer---Fresh-Graduates_R00332478"
-  },
-  {
-   "closed_at": 1788435390,
-   "company": "SpaceX",
-   "hours_open": 31.3,
-   "title": "Software Security Engineer New Grad - Software Security - Starlink",
-   "uid": "simplify:listings:b595d8a5-ff62-4bd0-bfd3-df111e487fd3"
-  },
-  {
    "closed_at": 1788442300,
    "company": "AECOM",
    "hours_open": 17.9,
@@ -5599,8 +5585,22 @@
    "hours_open": 46.9,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1788624118,
+   "company": "bmo",
+   "hours_open": 48.9,
+   "title": "Machine Learning Developer (New or Recent Graduate)",
+   "uid": "workday:bmo.wd3/Campus:Machine-Learning-Developer--New-or-Recent-Graduate-_R260024265-1"
+  },
+  {
+   "closed_at": 1788624118,
+   "company": "cadence",
+   "hours_open": 59.8,
+   "title": "Adams MultiBody Dynamics Application Software Developer (Recent Grad 2026)",
+   "uid": "workday:cadence.wd1/University_Talent:Adams-MultiBody-Dynamics-Application-Software-Developer--Recent-Grad-2026-_R55788-3"
   }
  ],
- "count": 806,
- "updated_at": 1788623404
+ "count": 802,
+ "updated_at": 1788624118
 }
