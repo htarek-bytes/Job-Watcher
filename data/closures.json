@@ -2,20 +2,6 @@
  "closed": [
   {
    "closed_at": 1788377835,
-   "company": "Observable Space",
-   "hours_open": 15.3,
-   "title": "Junior Embedded Software Engineer",
-   "uid": "simplify:listings:1827abb6-82cd-4735-aeff-87e0b81c8003"
-  },
-  {
-   "closed_at": 1788377835,
-   "company": "NVIDIA",
-   "hours_open": 15.3,
-   "title": "DFT Engineer – New College Grad",
-   "uid": "simplify:listings:69fae8a8-fe9d-4a65-ac46-321fd29f3a4a"
-  },
-  {
-   "closed_at": 1788377835,
    "company": "ReliaQuest",
    "hours_open": 15.3,
    "title": "Associate Software Engineer",
@@ -5599,8 +5585,22 @@
    "hours_open": 68.9,
    "title": "Platform Software Engineer 1",
    "uid": "simplify:listings:703508c4-1188-4176-8539-4f1fbaeb8839"
+  },
+  {
+   "closed_at": 1788571434,
+   "company": "twitch",
+   "hours_open": 32.4,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1788571434,
+   "company": "cadence",
+   "hours_open": 11.2,
+   "title": "Adams MultiBody Dynamics Application Software Developer (Recent Grad 2026)",
+   "uid": "workday:cadence.wd1/University_Talent_NCG:Adams-MultiBody-Dynamics-Application-Software-Developer--Recent-Grad-2026-_R55788-2"
   }
  ],
- "count": 805,
- "updated_at": 1788570642
+ "count": 802,
+ "updated_at": 1788571435
 }
