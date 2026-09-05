@@ -1,34 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1788377835,
-   "company": "ReliaQuest",
-   "hours_open": 15.3,
-   "title": "Associate Software Engineer",
-   "uid": "simplify:listings:58e21683-9b4c-4bda-9bba-b8a3f07a0562"
-  },
-  {
-   "closed_at": 1788377835,
-   "company": "kbr",
-   "hours_open": 0.1,
-   "title": "Junior Software Engineer",
-   "uid": "workday:kbr.wd5/KBR_Careers:Junior-Software-Engineer_R2122294"
-  },
-  {
-   "closed_at": 1788377927,
-   "company": "WellSky",
-   "hours_open": 15.3,
-   "title": "Associate Software Engineer",
-   "uid": "simplify:listings:9248e46c-36d0-4ae1-a1b7-22b9ac2b0fb7"
-  },
-  {
-   "closed_at": 1788377927,
-   "company": "gevernova",
-   "hours_open": 0.1,
-   "title": "Field Services Engineer - Early Career Trainee",
-   "uid": "workday:gevernova.wd5/only_confidential_executive_recruiting:Field-Services-Engineer---Early-Career-Trainee_R5049070-2"
-  },
-  {
    "closed_at": 1788377927,
    "company": "WellSky",
    "hours_open": 15.3,
@@ -5599,8 +5571,36 @@
    "hours_open": 11.2,
    "title": "Adams MultiBody Dynamics Application Software Developer (Recent Grad 2026)",
    "uid": "workday:cadence.wd1/University_Talent_NCG:Adams-MultiBody-Dynamics-Application-Software-Developer--Recent-Grad-2026-_R55788-2"
+  },
+  {
+   "closed_at": 1788571698,
+   "company": "gevernova",
+   "hours_open": 3.6,
+   "title": "GE Vernova GridOS  Project Engineer - Co-Op/Intern - January 2027-June 2027",
+   "uid": "workday:gevernova.wd5/only_confidential_executive_recruiting:GE-Vernova-GridOS--Project-Engineer---Co-Op-Intern---January-2027-June-2027_R5050087-1"
+  },
+  {
+   "closed_at": 1788571698,
+   "company": "gevernova",
+   "hours_open": 9.0,
+   "title": "GE Vernova - Project Engineer Intern - Summer 2027",
+   "uid": "workday:gevernova.wd5/only_confidential_executive_recruiting:GE-Vernova---Project-Engineer-Intern---Summer-2027_R5050026-1"
+  },
+  {
+   "closed_at": 1788571698,
+   "company": "Vestwell",
+   "hours_open": 2.3,
+   "title": "Associate Software Engineer",
+   "uid": "simplify:listings:e6179b6a-aa7e-4cac-a3ed-8db905d7c42e"
+  },
+  {
+   "closed_at": 1788571698,
+   "company": "twitch",
+   "hours_open": 29.6,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
   }
  ],
- "count": 802,
- "updated_at": 1788571200
+ "count": 804,
+ "updated_at": 1788571700
 }
