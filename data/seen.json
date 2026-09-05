@@ -1,5 +1,5 @@
 {
- "count": 3514,
+ "count": 3515,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -73,6 +73,7 @@
   "ashby:abridge:897709b2-e03d-4574-8611-5cfd669adde9": 1788454653,
   "ashby:aerovect:041ae29d-2731-4c7c-8f3f-7974f0ac01dc": 1788465250,
   "ashby:aerovect:701fa96b-d96a-4664-901a-cf4ce951726c": 1788465250,
+  "ashby:aiprise:baf8a79b-d035-4bc1-8b12-4ef48e0257ba": 1788604260,
   "ashby:allen-control-systems:05271caa-a31d-4d4c-b820-e299cf367d2b": 1788465250,
   "ashby:allen-control-systems:23b70be8-9f8b-4774-a637-4f4150e48933": 1788465250,
   "ashby:allen-control-systems:3075ceee-6a85-4170-9ffc-3e2f11697db7": 1788465250,
@@ -3515,5 +3516,6 @@
   "workday:zebra.wd501/Zebra_careers:Software-Engineer-I_JR103056": 1788448251,
   "workday:zebra.wd501/Zebra_careers:XMLNAME-2026-6-months--Internship-Sri-Lanka---Software-Engineering_JR102701": 1788410216,
   "workday:zoll.wd5/ZOLLMedicalCorp:Junior-Algorithm-Engineer_R19377": 1788377927
- }
+ },
+ "updated_at": 1788604260
 }
