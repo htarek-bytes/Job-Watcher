@@ -1,132 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1788399581,
-   "company": "kbr",
-   "hours_open": 6.1,
-   "title": "Junior Software Engineer",
-   "uid": "workday:kbr.wd5/KBR_Careers:Junior-Software-Engineer_R2122294"
-  },
-  {
-   "closed_at": 1788408852,
-   "company": "Enercon Services",
-   "hours_open": 23.9,
-   "title": "Probabilistic Risk Assessment Engineer New Grad - PRA - Nuclear Services Team",
-   "uid": "simplify:listings:3b1350b0-c797-4b04-aec8-96cf5449a24f"
-  },
-  {
-   "closed_at": 1788408852,
-   "company": "Enercon Services",
-   "hours_open": 23.9,
-   "title": "Safety Analysis Engineer - Early Career",
-   "uid": "simplify:listings:c1d4dc63-07f0-4311-aa1c-e9e89586839f"
-  },
-  {
-   "closed_at": 1788408852,
-   "company": "Marathon Petroleum",
-   "hours_open": 23.9,
-   "title": "Associate Software Engineer",
-   "uid": "simplify:listings:4c6d684b-60c4-46fe-aeaf-775e9a2ffd9e"
-  },
-  {
-   "closed_at": 1788408852,
-   "company": "Micron Technology",
-   "hours_open": 23.9,
-   "title": "Engineer New Grad - DPG Compute PE Y/Q",
-   "uid": "simplify:listings:67cb7477-5a0e-4d1b-bf05-1a12423d92b9"
-  },
-  {
-   "closed_at": 1788408852,
-   "company": "navcanada",
-   "hours_open": 8.6,
-   "title": "Developer - Entry Level",
-   "uid": "workday:navcanada.wd10/NAV_Careers:Developer---Entry-Level_JR-8291"
-  },
-  {
-   "closed_at": 1788408852,
-   "company": "gevernova",
-   "hours_open": 8.7,
-   "title": "Field Services Engineer - Early Career Trainee",
-   "uid": "workday:gevernova.wd5/only_confidential_executive_recruiting:Field-Services-Engineer---Early-Career-Trainee_R5049070-2"
-  },
-  {
-   "closed_at": 1788408852,
-   "company": "LexisNexis Risk Solutions",
-   "hours_open": 23.9,
-   "title": "Software Engineer 1",
-   "uid": "simplify:listings:ccb6a372-4ded-4af1-96f6-f90442d4d826"
-  },
-  {
-   "closed_at": 1788408852,
-   "company": "Thermo Fisher Scientific",
-   "hours_open": 23.9,
-   "title": "Field Service Engineer 1",
-   "uid": "simplify:listings:4e6c97fe-7d82-47d5-9da3-9682109eb5f3"
-  },
-  {
-   "closed_at": 1788408852,
-   "company": "cadence",
-   "hours_open": 11.3,
-   "title": "Adams MultiBody Dynamics Application Software Developer (Recent Grad 2026)",
-   "uid": "workday:cadence.wd1/External_Careers:Adams-MultiBody-Dynamics-Application-Software-Developer--Recent-Grad-2026-_R55788"
-  },
-  {
-   "closed_at": 1788408852,
-   "company": "Sandisk",
-   "hours_open": 23.9,
-   "title": "Field Application Engineer New Grad",
-   "uid": "simplify:listings:acccb77e-40c0-4811-b35d-470b7b148ec5"
-  },
-  {
-   "closed_at": 1788408852,
-   "company": "kbr",
-   "hours_open": 8.6,
-   "title": "Junior Software Engineer",
-   "uid": "workday:kbr.wd5/kbr_careers:Junior-Software-Engineer_R2122294"
-  },
-  {
-   "closed_at": 1788409023,
-   "company": "bb",
-   "hours_open": 8.7,
-   "title": "QNX Open Source Software Developer (New Graduate/Graduate)",
-   "uid": "workday:bb.wd3/QNX:QNX-Open-Source-Software-Developer--New-Graduate-Graduate-_20260289"
-  },
-  {
-   "closed_at": 1788409023,
-   "company": "gevernova",
-   "hours_open": 8.6,
-   "title": "Field Services Engineer - Early Career Trainee",
-   "uid": "workday:gevernova.wd5/vernova_externalsite:Field-Services-Engineer---Early-Career-Trainee_R5049070-3"
-  },
-  {
-   "closed_at": 1788409023,
-   "company": "cadence",
-   "hours_open": 0.0,
-   "title": "Adams MultiBody Dynamics Application Software Developer (Recent Grad 2026)",
-   "uid": "workday:cadence.wd1/University_Talent:Adams-MultiBody-Dynamics-Application-Software-Developer--Recent-Grad-2026-_R55788-3"
-  },
-  {
-   "closed_at": 1788409188,
-   "company": "bb",
-   "hours_open": 11.4,
-   "title": "QNX Open Source Software Developer (New Graduate/Graduate)",
-   "uid": "workday:bb.wd3/blackberry:QNX-Open-Source-Software-Developer--New-Graduate-Graduate-_20260289-1"
-  },
-  {
-   "closed_at": 1788409188,
-   "company": "ngc",
-   "hours_open": 4.2,
-   "title": "Associate Software Engineer / Software Engineer",
-   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:Associate-Software-Engineer---Software-Engineer_R10249088"
-  },
-  {
-   "closed_at": 1788409504,
-   "company": "gevernova",
-   "hours_open": 8.9,
-   "title": "Field Services Engineer - Early Career Trainee",
-   "uid": "workday:gevernova.wd5/only_confidential_executive_recruiting:Field-Services-Engineer---Early-Career-Trainee_R5049070-2"
-  },
-  {
    "closed_at": 1788409504,
    "company": "Embedding VC",
    "hours_open": 24.1,
@@ -5599,8 +5473,134 @@
    "hours_open": 35.5,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1788599852,
+   "company": "twitch",
+   "hours_open": 40.3,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1788599852,
+   "company": "zebra",
+   "hours_open": 61.6,
+   "title": "Software Engineer, I",
+   "uid": "workday:zebra.wd501/Zebra_careers:Software-Engineer--I_JR102997-1"
+  },
+  {
+   "closed_at": 1788599852,
+   "company": "ms",
+   "hours_open": 52.9,
+   "title": "Associate, Software Engineer",
+   "uid": "workday:ms.wd5/External:Associate--Software-Engineer_JR036749"
+  },
+  {
+   "closed_at": 1788599852,
+   "company": "Farm Credit Canada",
+   "hours_open": 58.2,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50168425"
+  },
+  {
+   "closed_at": 1788599852,
+   "company": "Astra North Infoteck Inc.",
+   "hours_open": 58.2,
+   "title": "software developer",
+   "uid": "jobbank:entry level software developer:50208653"
+  },
+  {
+   "closed_at": 1788599852,
+   "company": "clearwateranalytics",
+   "hours_open": 58.2,
+   "title": "Software Development Engineer I",
+   "uid": "workday:clearwateranalytics.wd1/Clearwater_Analytics_Careers:Software-Development-Engineer-I_R12047"
+  },
+  {
+   "closed_at": 1788599852,
+   "company": "amat",
+   "hours_open": 64.4,
+   "title": "EHS Safety Engineer New College Grad (Bachelors - Santa Clara, CA)",
+   "uid": "workday:amat.wd1/External:EHS-Safety-Engineer-New-College-Grad--Bachelors---Santa-Clara--CA-_R2626244"
+  },
+  {
+   "closed_at": 1788599852,
+   "company": "relx",
+   "hours_open": 61.7,
+   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - January)",
+   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617-1"
+  },
+  {
+   "closed_at": 1788599852,
+   "company": "relx",
+   "hours_open": 61.7,
+   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - June)",
+   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-2"
+  },
+  {
+   "closed_at": 1788599852,
+   "company": "relx",
+   "hours_open": 61.7,
+   "title": "Tech Accelerate Graduate Program - Software Engineer (Boca Raton - June)",
+   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Boca-Raton---June-_R116023"
+  },
+  {
+   "closed_at": 1788599852,
+   "company": "kbr",
+   "hours_open": 43.7,
+   "title": "Project Engineer I",
+   "uid": "workday:kbr.wd5/KBR_Careers:Project-Engineer-I_R2129322"
+  },
+  {
+   "closed_at": 1788599852,
+   "company": "SII Canada",
+   "hours_open": 58.2,
+   "title": "programmer analyst",
+   "uid": "jobbank:junior programmer:49938307"
+  },
+  {
+   "closed_at": 1788599852,
+   "company": "Corinex",
+   "hours_open": 58.2,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:49875004"
+  },
+  {
+   "closed_at": 1788599852,
+   "company": "zoll",
+   "hours_open": 61.6,
+   "title": "Junior Algorithm Engineer",
+   "uid": "workday:zoll.wd5/ZOLLMedicalCorp:Junior-Algorithm-Engineer_R19377"
+  },
+  {
+   "closed_at": 1788599852,
+   "company": "kbr",
+   "hours_open": 61.7,
+   "title": "Junior Software Engineer",
+   "uid": "workday:kbr.wd5/KBR_Careers:Junior-Software-Engineer_R2122294"
+  },
+  {
+   "closed_at": 1788599852,
+   "company": "cadence",
+   "hours_open": 64.4,
+   "title": "Adams MultiBody Dynamics Application Software Developer (Recent Grad 2026)",
+   "uid": "workday:cadence.wd1/External_Careers:Adams-MultiBody-Dynamics-Application-Software-Developer--Recent-Grad-2026-_R55788"
+  },
+  {
+   "closed_at": 1788599852,
+   "company": "spacex",
+   "hours_open": 40.3,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1788599852,
+   "company": "spacex",
+   "hours_open": 40.3,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 804,
- "updated_at": 1788588633
+ "count": 818,
+ "updated_at": 1788599852
 }
