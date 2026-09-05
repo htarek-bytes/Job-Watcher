@@ -2,34 +2,6 @@
  "closed": [
   {
    "closed_at": 1788455648,
-   "company": "freeformfuturecorp",
-   "hours_open": 19.2,
-   "title": "Materials Engineer (New Grad December 2026)",
-   "uid": "greenhouse:freeformfuturecorp:7827091003"
-  },
-  {
-   "closed_at": 1788455648,
-   "company": "Williams Racing",
-   "hours_open": 10.7,
-   "title": "Quality & Continuous Improvement Engineer Industrial Placement",
-   "uid": "smartrecruiters:WilliamsRacing:744000146955095"
-  },
-  {
-   "closed_at": 1788455648,
-   "company": "Thorlabs",
-   "hours_open": 0.3,
-   "title": "Supplier Quality Engineer - 2142",
-   "uid": "workable:thorlabs:B507C4DF87"
-  },
-  {
-   "closed_at": 1788455648,
-   "company": "micron",
-   "hours_open": 12.6,
-   "title": "Intern - Systems Performance Engineer",
-   "uid": "workday:micron.wd1/External:Intern---Systems-Performance-Engineer_JR109583"
-  },
-  {
-   "closed_at": 1788455648,
    "company": "ranovus",
    "hours_open": 0.3,
    "title": "Optical Engineer ",
@@ -5599,8 +5571,36 @@
    "hours_open": 51.4,
    "title": "Software Development Engineer , Leo Secure Communications Team",
    "uid": "amazon:amazon:10517076"
+  },
+  {
+   "closed_at": 1788640706,
+   "company": "bmo",
+   "hours_open": 53.5,
+   "title": "Machine Learning Developer (New or Recent Graduate)",
+   "uid": "workday:bmo.wd3/Campus:Machine-Learning-Developer--New-or-Recent-Graduate-_R260024265-1"
+  },
+  {
+   "closed_at": 1788640706,
+   "company": "twitch",
+   "hours_open": 48.7,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1788640706,
+   "company": "cadence",
+   "hours_open": 75.7,
+   "title": "Adams MultiBody Dynamics Application Software Developer (Recent Grad 2026)",
+   "uid": "workday:cadence.wd1/External_Careers:Adams-MultiBody-Dynamics-Application-Software-Developer--Recent-Grad-2026-_R55788"
+  },
+  {
+   "closed_at": 1788640706,
+   "company": "spacex",
+   "hours_open": 51.7,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
   }
  ],
- "count": 811,
- "updated_at": 1788639795
+ "count": 804,
+ "updated_at": 1788640706
 }
