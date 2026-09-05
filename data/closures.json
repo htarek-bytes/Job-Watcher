@@ -1,34 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1788393936,
-   "company": "accenture",
-   "hours_open": 0.0,
-   "title": "Junior AI Native Engineer",
-   "uid": "workday:accenture.wd103/AccentureCareers:Junior-AI-Native-Engineer_R00346080"
-  },
-  {
-   "closed_at": 1788394042,
-   "company": "Qualifacts",
-   "hours_open": 19.8,
-   "title": "Software Engineer 1",
-   "uid": "simplify:listings:8521a845-717b-4043-9a84-34537e07c480"
-  },
-  {
-   "closed_at": 1788399581,
-   "company": "kikoff",
-   "hours_open": 3.6,
-   "title": "Software Engineer - Recent Grad",
-   "uid": "greenhouse:kikoff:4376677009"
-  },
-  {
-   "closed_at": 1788399581,
-   "company": "Kikoff",
-   "hours_open": 21.3,
-   "title": "Software Engineer New Grad",
-   "uid": "simplify:listings:abf4af65-04b3-4ec5-b2bb-0cfd7ce4d500"
-  },
-  {
    "closed_at": 1788399581,
    "company": "kbr",
    "hours_open": 6.1,
@@ -5599,8 +5571,36 @@
    "hours_open": 58.4,
    "title": "Junior Software Engineer",
    "uid": "workday:kbr.wd5/kbr_careers:Junior-Software-Engineer_R2122294"
+  },
+  {
+   "closed_at": 1788588633,
+   "company": "twitch",
+   "hours_open": 34.3,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1788588633,
+   "company": "Buyerlink",
+   "hours_open": 55.1,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50190157"
+  },
+  {
+   "closed_at": 1788588633,
+   "company": "spacex",
+   "hours_open": 34.3,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1788588633,
+   "company": "spacex",
+   "hours_open": 35.5,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
  "count": 804,
- "updated_at": 1788588051
+ "updated_at": 1788588633
 }
