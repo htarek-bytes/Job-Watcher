@@ -2,13 +2,6 @@
  "closed": [
   {
    "closed_at": 1788465502,
-   "company": "launchdarkly",
-   "hours_open": 3.0,
-   "title": "Full Stack Engineer, Observability",
-   "uid": "greenhouse:launchdarkly:7750105003"
-  },
-  {
-   "closed_at": 1788465502,
    "company": "Momentum",
    "hours_open": 3.0,
    "title": "Launch Graduate Program: Associate Enterprise Systems Analyst",
@@ -5599,8 +5592,15 @@
    "hours_open": 45.2,
    "title": "GE Vernova - Project Engineer Intern - Summer 2027",
    "uid": "workday:gevernova.wd5/vernova_externalsite:GE-Vernova---Project-Engineer-Intern---Summer-2027_R5050026-2"
+  },
+  {
+   "closed_at": 1788712285,
+   "company": "bpinternational",
+   "hours_open": 76.9,
+   "title": "Summer Internship – Petroleum Engineer - Houston, TX",
+   "uid": "workday:bpinternational.wd3/bpEarlyCareers:Summer-Intern---Petroleum-Engineer---Houston--TX_RQ114819"
   }
  ],
- "count": 802,
- "updated_at": 1788711445
+ "count": 801,
+ "updated_at": 1788712285
 }
