@@ -2,20 +2,6 @@
  "closed": [
   {
    "closed_at": 1788465502,
-   "company": "cadence",
-   "hours_open": 1.3,
-   "title": "Adams Application Software Developer  (Recent Grad 2026)",
-   "uid": "workday:cadence.wd1/University_Talent:Adams-Application-Software-Developer---Recent-Grad-2026-_R55736-1"
-  },
-  {
-   "closed_at": 1788465502,
-   "company": "globalhr",
-   "hours_open": 6.4,
-   "title": "Software Engineering Intern (Summer 2027)",
-   "uid": "workday:globalhr.wd5/Private_Posting_No_TMP:Software-Engineering-Intern--Summer-2027-_01871019"
-  },
-  {
-   "closed_at": 1788465502,
    "company": "launchdarkly",
    "hours_open": 3.0,
    "title": "Full Stack Engineer, Observability",
@@ -5599,8 +5585,22 @@
    "hours_open": 83.7,
    "title": "Adams MultiBody Dynamics Application Software Developer (Recent Grad 2026)",
    "uid": "workday:cadence.wd1/University_Talent:Adams-MultiBody-Dynamics-Application-Software-Developer--Recent-Grad-2026-_R55788-3"
+  },
+  {
+   "closed_at": 1788711445,
+   "company": "gevernova",
+   "hours_open": 42.8,
+   "title": "GE Vernova GridOS  Project Engineer - Co-Op/Intern - January 2027-June 2027",
+   "uid": "workday:gevernova.wd5/vernova_externalsite:GE-Vernova-GridOS--Project-Engineer---Co-Op-Intern---January-2027-June-2027_R5050087-2"
+  },
+  {
+   "closed_at": 1788711445,
+   "company": "gevernova",
+   "hours_open": 45.2,
+   "title": "GE Vernova - Project Engineer Intern - Summer 2027",
+   "uid": "workday:gevernova.wd5/vernova_externalsite:GE-Vernova---Project-Engineer-Intern---Summer-2027_R5050026-2"
   }
  ],
- "count": 805,
- "updated_at": 1788709999
+ "count": 802,
+ "updated_at": 1788711445
 }
