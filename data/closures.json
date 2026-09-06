@@ -1,27 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1788472811,
-   "company": "spacex",
-   "hours_open": 2.1,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1788473054,
-   "company": "Maarut",
-   "hours_open": 13.1,
-   "title": "software developer",
-   "uid": "jobbank:entry level software developer:50213421"
-  },
-  {
-   "closed_at": 1788473054,
-   "company": "Astra North Infoteck Inc.",
-   "hours_open": 8.5,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50174237"
-  },
-  {
    "closed_at": 1788473054,
    "company": "neuralink",
    "hours_open": 3.4,
@@ -5599,8 +5578,29 @@
    "hours_open": 78.4,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1788739112,
+   "company": "gevernova",
+   "hours_open": 50.1,
+   "title": "GE Vernova GridOS  Project Engineer - Co-Op/Intern - January 2027-June 2027",
+   "uid": "workday:gevernova.wd5/only_confidential_executive_recruiting:GE-Vernova-GridOS--Project-Engineer---Co-Op-Intern---January-2027-June-2027_R5050087-1"
+  },
+  {
+   "closed_at": 1788739112,
+   "company": "gevernova",
+   "hours_open": 55.5,
+   "title": "GE Vernova - Project Engineer Intern - Summer 2027",
+   "uid": "workday:gevernova.wd5/only_confidential_executive_recruiting:GE-Vernova---Project-Engineer-Intern---Summer-2027_R5050026-1"
+  },
+  {
+   "closed_at": 1788739112,
+   "company": "cadence",
+   "hours_open": 103.1,
+   "title": "Adams MultiBody Dynamics Application Software Developer (Recent Grad 2026)",
+   "uid": "workday:cadence.wd1/External_Careers:Adams-MultiBody-Dynamics-Application-Software-Developer--Recent-Grad-2026-_R55788"
   }
  ],
- "count": 805,
- "updated_at": 1788736771
+ "count": 803,
+ "updated_at": 1788739112
 }
