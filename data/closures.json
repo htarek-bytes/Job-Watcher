@@ -2,27 +2,6 @@
  "closed": [
   {
    "closed_at": 1788470575,
-   "company": "Marriott International",
-   "hours_open": 41.1,
-   "title": "FLEX Associate Software Engineer - Customer Data Platform",
-   "uid": "simplify:listings:0f06e190-3900-4101-b627-e187eddcb571"
-  },
-  {
-   "closed_at": 1788470575,
-   "company": "Mechanize",
-   "hours_open": 41.1,
-   "title": "Junior Software Engineer",
-   "uid": "simplify:listings:25a28b63-1772-404b-a5c1-29c24b2ceb2d"
-  },
-  {
-   "closed_at": 1788470575,
-   "company": "spacex",
-   "hours_open": 4.1,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1788470575,
    "company": "Amazon",
    "hours_open": 4.4,
    "title": "Software Development Engineer, US ADC Security ",
@@ -5599,8 +5578,29 @@
    "hours_open": 77.4,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1788733865,
+   "company": "bmo",
+   "hours_open": 79.3,
+   "title": "Machine Learning Developer (New or Recent Graduate)",
+   "uid": "workday:bmo.wd3/Campus:Machine-Learning-Developer--New-or-Recent-Graduate-_R260024265-1"
+  },
+  {
+   "closed_at": 1788733865,
+   "company": "gevernova",
+   "hours_open": 49.1,
+   "title": "GE Vernova GridOS  Project Engineer - Co-Op/Intern - January 2027-June 2027",
+   "uid": "workday:gevernova.wd5/vernova_externalsite:GE-Vernova-GridOS--Project-Engineer---Co-Op-Intern---January-2027-June-2027_R5050087-2"
+  },
+  {
+   "closed_at": 1788733865,
+   "company": "gevernova",
+   "hours_open": 51.4,
+   "title": "GE Vernova - Project Engineer Intern - Summer 2027",
+   "uid": "workday:gevernova.wd5/vernova_externalsite:GE-Vernova---Project-Engineer-Intern---Summer-2027_R5050026-2"
   }
  ],
- "count": 804,
- "updated_at": 1788733162
+ "count": 803,
+ "updated_at": 1788733865
 }
