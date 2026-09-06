@@ -1,69 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1788465705,
-   "company": "spacex",
-   "hours_open": 0.1,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1788465705,
-   "company": "spacex",
-   "hours_open": 2.8,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1788470575,
-   "company": "bmo",
-   "hours_open": 6.2,
-   "title": "Machine Learning Developer (New or Recent Graduate)",
-   "uid": "workday:bmo.wd3/Campus:Machine-Learning-Developer--New-or-Recent-Graduate-_R260024265-1"
-  },
-  {
-   "closed_at": 1788470575,
-   "company": "gevernova",
-   "hours_open": 1.5,
-   "title": "GE Vernova Software Engineering - Co-op -Summer - Fall",
-   "uid": "workday:gevernova.wd5/vernova_externalsite:GE-Vernova-Software-Engineering---Co-op--Summer---Fall_R5051794-2"
-  },
-  {
-   "closed_at": 1788470575,
-   "company": "gevernova",
-   "hours_open": 1.5,
-   "title": "GE Vernova Software Engineering - Co-op - Spring-Summer 2027",
-   "uid": "workday:gevernova.wd5/vernova_externalsite:GE-Vernova-Software-Engineering---Co-op---Spring-Summer-2027_R5051780-2"
-  },
-  {
-   "closed_at": 1788470575,
-   "company": "gevernova",
-   "hours_open": 1.5,
-   "title": "GE Vernova CIC Systems Engineer Co-op - Summer-Fall 2027",
-   "uid": "workday:gevernova.wd5/vernova_externalsite:GE-Vernova-CIC-Systems-Engineer-Co-op---Summer-Fall-2027_R5051597-2"
-  },
-  {
-   "closed_at": 1788470575,
-   "company": "gevernova",
-   "hours_open": 1.5,
-   "title": "GE Vernova CIC Systems Engineer Co-op - Spring - Summer 2027",
-   "uid": "workday:gevernova.wd5/vernova_externalsite:GE-Vernova-CIC-Systems-Engineer-Co-op---Spring---Summer-2027_R5051807-2"
-  },
-  {
-   "closed_at": 1788470575,
-   "company": "AECOM",
-   "hours_open": 4.1,
-   "title": "Entry-Level Vertical Transportation Engineer - Hiring Event with AECOM - New York City",
-   "uid": "smartrecruiters:AECOM2:744000147320559"
-  },
-  {
-   "closed_at": 1788470575,
-   "company": "twitch",
-   "hours_open": 1.5,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
    "closed_at": 1788470575,
    "company": "micron",
    "hours_open": 21.3,
@@ -5599,8 +5536,71 @@
    "hours_open": 99.3,
    "title": "Adams MultiBody Dynamics Application Software Developer (Recent Grad 2026)",
    "uid": "workday:cadence.wd1/External_Careers:Adams-MultiBody-Dynamics-Application-Software-Developer--Recent-Grad-2026-_R55788"
+  },
+  {
+   "closed_at": 1788726882,
+   "company": "bmo",
+   "hours_open": 77.4,
+   "title": "Machine Learning Developer (New or Recent Graduate)",
+   "uid": "workday:bmo.wd3/Campus:Machine-Learning-Developer--New-or-Recent-Graduate-_R260024265-1"
+  },
+  {
+   "closed_at": 1788726882,
+   "company": "twitch",
+   "hours_open": 75.6,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1788726882,
+   "company": "gevernova",
+   "hours_open": 46.8,
+   "title": "GE Vernova GridOS  Project Engineer - Co-Op/Intern - January 2027-June 2027",
+   "uid": "workday:gevernova.wd5/only_confidential_executive_recruiting:GE-Vernova-GridOS--Project-Engineer---Co-Op-Intern---January-2027-June-2027_R5050087-1"
+  },
+  {
+   "closed_at": 1788726882,
+   "company": "gevernova",
+   "hours_open": 52.1,
+   "title": "GE Vernova - Project Engineer Intern - Summer 2027",
+   "uid": "workday:gevernova.wd5/only_confidential_executive_recruiting:GE-Vernova---Project-Engineer-Intern---Summer-2027_R5050026-1"
+  },
+  {
+   "closed_at": 1788726882,
+   "company": "relx",
+   "hours_open": 97.0,
+   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - January)",
+   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617-1"
+  },
+  {
+   "closed_at": 1788726882,
+   "company": "relx",
+   "hours_open": 97.0,
+   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - June)",
+   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-2"
+  },
+  {
+   "closed_at": 1788726882,
+   "company": "relx",
+   "hours_open": 97.0,
+   "title": "Tech Accelerate Graduate Program - Software Engineer (Boca Raton - June)",
+   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Boca-Raton---June-_R116023"
+  },
+  {
+   "closed_at": 1788726882,
+   "company": "cadence",
+   "hours_open": 54.4,
+   "title": "Adams MultiBody Dynamics Application Software Developer (Recent Grad 2026)",
+   "uid": "workday:cadence.wd1/University_Talent_NCG:Adams-MultiBody-Dynamics-Application-Software-Developer--Recent-Grad-2026-_R55788-2"
+  },
+  {
+   "closed_at": 1788726882,
+   "company": "spacex",
+   "hours_open": 75.6,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 804,
- "updated_at": 1788725491
+ "count": 809,
+ "updated_at": 1788726882
 }
