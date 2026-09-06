@@ -2,27 +2,6 @@
  "closed": [
   {
    "closed_at": 1788465250,
-   "company": "Stardust Motel (1989) Co. Limited",
-   "hours_open": 20.8,
-   "title": "software developer",
-   "uid": "jobbank:developpeur junior:50102680"
-  },
-  {
-   "closed_at": 1788465250,
-   "company": "cadence",
-   "hours_open": 1.2,
-   "title": "Adams Application Software Developer  (Recent Grad 2026)",
-   "uid": "workday:cadence.wd1/University_Talent:Adams-Application-Software-Developer---Recent-Grad-2026-_R55736-1"
-  },
-  {
-   "closed_at": 1788465250,
-   "company": "globalhr",
-   "hours_open": 6.4,
-   "title": "Software Engineering Intern (Summer 2027)",
-   "uid": "workday:globalhr.wd5/Private_Posting_No_TMP:Software-Engineering-Intern--Summer-2027-_01871019"
-  },
-  {
-   "closed_at": 1788465250,
    "company": "Momentum",
    "hours_open": 2.9,
    "title": "Launch Graduate Program: Associate Enterprise Systems Analyst",
@@ -5599,8 +5578,29 @@
    "hours_open": 67.7,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1788698643,
+   "company": "relx",
+   "hours_open": 86.8,
+   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - January)",
+   "uid": "workday:relx.wd3/RiskSolutions:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617"
+  },
+  {
+   "closed_at": 1788698643,
+   "company": "relx",
+   "hours_open": 86.8,
+   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - June)",
+   "uid": "workday:relx.wd3/RiskSolutions:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-1"
+  },
+  {
+   "closed_at": 1788698643,
+   "company": "relx",
+   "hours_open": 86.8,
+   "title": "Tech Accelerate Graduate Program - Software Engineer (Boca Raton - June)",
+   "uid": "workday:relx.wd3/RiskSolutions:Tech-Accelerate-Graduate-Program---Software-Engineer--Boca-Raton---June-_R116023-2"
   }
  ],
- "count": 806,
- "updated_at": 1788698292
+ "count": 803,
+ "updated_at": 1788698643
 }
