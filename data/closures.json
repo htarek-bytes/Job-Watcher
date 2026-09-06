@@ -4,41 +4,6 @@
    "closed_at": 1788455819,
    "company": "spacex",
    "hours_open": 0.3,
-   "title": "Materials Engineer, Thermal Protection (Starship)",
-   "uid": "greenhouse:spacex:8653496002"
-  },
-  {
-   "closed_at": 1788455819,
-   "company": "trueanomalyinc",
-   "hours_open": 0.3,
-   "title": "Supplier Quality Engineer",
-   "uid": "greenhouse:trueanomalyinc:5190620007"
-  },
-  {
-   "closed_at": 1788455819,
-   "company": "spacex",
-   "hours_open": 0.3,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1788455819,
-   "company": "spacex",
-   "hours_open": 0.3,
-   "title": "Propulsion Engineer (Raptor Components)",
-   "uid": "greenhouse:spacex:8637395002"
-  },
-  {
-   "closed_at": 1788455819,
-   "company": "spacex",
-   "hours_open": 0.3,
-   "title": "Propulsion Engineer (Merlin Hardware Development)",
-   "uid": "greenhouse:spacex:8632389002"
-  },
-  {
-   "closed_at": 1788455819,
-   "company": "spacex",
-   "hours_open": 0.3,
    "title": "Propulsion Engineer, Avionics Manufacturing (Raptor)",
    "uid": "greenhouse:spacex:8623602002"
   },
@@ -5599,8 +5564,43 @@
    "hours_open": 57.8,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1788669481,
+   "company": "twitch",
+   "hours_open": 56.7,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1788669481,
+   "company": "Astra North Infoteck Inc.",
+   "hours_open": 77.6,
+   "title": "software developer",
+   "uid": "jobbank:entry level software developer:50208653"
+  },
+  {
+   "closed_at": 1788669481,
+   "company": "spacex",
+   "hours_open": 59.7,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1788669481,
+   "company": "spacex",
+   "hours_open": 59.4,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1788669481,
+   "company": "spacex",
+   "hours_open": 58.0,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
- "count": 810,
- "updated_at": 1788662734
+ "count": 805,
+ "updated_at": 1788669481
 }
