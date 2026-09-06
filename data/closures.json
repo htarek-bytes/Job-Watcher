@@ -2,13 +2,6 @@
  "closed": [
   {
    "closed_at": 1788465250,
-   "company": "Baker Hughes",
-   "hours_open": 39.6,
-   "title": "Junior Field Services Engineer",
-   "uid": "simplify:listings:2bf41995-7c79-4fde-a7a0-ccdb83bd0f12"
-  },
-  {
-   "closed_at": 1788465250,
    "company": "NVIDIA",
    "hours_open": 39.6,
    "title": "Software R&D Engineer New Grad - VLSI Physical Design",
@@ -5599,8 +5592,15 @@
    "hours_open": 66.6,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1788702360,
+   "company": "bmo",
+   "hours_open": 70.6,
+   "title": "Machine Learning Developer (New or Recent Graduate)",
+   "uid": "workday:bmo.wd3/Campus:Machine-Learning-Developer--New-or-Recent-Graduate-_R260024265-1"
   }
  ],
- "count": 806,
- "updated_at": 1788700365
+ "count": 801,
+ "updated_at": 1788702360
 }
