@@ -2,27 +2,6 @@
  "closed": [
   {
    "closed_at": 1788470575,
-   "company": "Amazon",
-   "hours_open": 4.4,
-   "title": "Software Development Engineer, S3",
-   "uid": "amazon:amazon:10513862"
-  },
-  {
-   "closed_at": 1788470575,
-   "company": "launchdarkly",
-   "hours_open": 4.4,
-   "title": "Full Stack Engineer, Observability",
-   "uid": "greenhouse:launchdarkly:7750105003"
-  },
-  {
-   "closed_at": 1788470575,
-   "company": "Ciena",
-   "hours_open": 41.1,
-   "title": "Photonic Layout Engineer New Grad",
-   "uid": "simplify:listings:0cd2e382-c912-4406-a1a2-cdcd43c86f02"
-  },
-  {
-   "closed_at": 1788470575,
    "company": "Ursa Major",
    "hours_open": 41.1,
    "title": "Configuration Engineer 1",
@@ -5599,8 +5578,29 @@
    "hours_open": 74.9,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1788731241,
+   "company": "twitch",
+   "hours_open": 76.8,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1788731241,
+   "company": "kbr",
+   "hours_open": 98.2,
+   "title": "Junior Software Engineer",
+   "uid": "workday:kbr.wd5/kbr_careers:Junior-Software-Engineer_R2122294"
+  },
+  {
+   "closed_at": 1788731241,
+   "company": "spacex",
+   "hours_open": 76.8,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 807,
- "updated_at": 1788730339
+ "count": 803,
+ "updated_at": 1788731242
 }
