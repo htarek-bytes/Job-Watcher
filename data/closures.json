@@ -2,62 +2,6 @@
  "closed": [
   {
    "closed_at": 1788465502,
-   "company": "Momentum",
-   "hours_open": 3.0,
-   "title": "Launch Graduate Program: Associate Enterprise Systems Analyst",
-   "uid": "simplify:listings:4883c1be-7626-4100-b0ad-314b68f24a66"
-  },
-  {
-   "closed_at": 1788465502,
-   "company": "Nidec",
-   "hours_open": 39.6,
-   "title": "Application Engineer 1",
-   "uid": "simplify:listings:c056d7df-fdde-419f-8c90-d5405fb5557b"
-  },
-  {
-   "closed_at": 1788465502,
-   "company": "NXP Semiconductors",
-   "hours_open": 39.6,
-   "title": "NFC System Software Engineer - Entry Level",
-   "uid": "simplify:listings:24c60afb-02f8-4cfa-8b73-b1949e67ede8"
-  },
-  {
-   "closed_at": 1788465502,
-   "company": "Dover",
-   "hours_open": 8.4,
-   "title": "Systems Engineer 1",
-   "uid": "simplify:listings:b1b08b60-0b48-4c0f-be14-fef824f712eb"
-  },
-  {
-   "closed_at": 1788465502,
-   "company": "NVIDIA",
-   "hours_open": 8.4,
-   "title": "Circuit Design Engineer New Grad",
-   "uid": "simplify:listings:acdc834d-c47e-47e7-bef1-d25858f94848"
-  },
-  {
-   "closed_at": 1788465502,
-   "company": "MultiCare Health System",
-   "hours_open": 3.0,
-   "title": "Revenue Cycle Systems Analyst 1",
-   "uid": "simplify:listings:3f232600-1023-4500-a3d7-7740abb084a3"
-  },
-  {
-   "closed_at": 1788465502,
-   "company": "Baker Hughes",
-   "hours_open": 39.6,
-   "title": "Junior Field Services Engineer",
-   "uid": "simplify:listings:2bf41995-7c79-4fde-a7a0-ccdb83bd0f12"
-  },
-  {
-   "closed_at": 1788465502,
-   "company": "NVIDIA",
-   "hours_open": 39.6,
-   "title": "Software R&D Engineer New Grad - VLSI Physical Design",
-   "uid": "simplify:listings:29d56cce-6d8e-4fac-aeb4-7c14135e0b12"
-  },
-  {
-   "closed_at": 1788465502,
    "company": "Susquehanna International Group (SIG)",
    "hours_open": 39.6,
    "title": "Associate Linux/Windows Engineer New Grad",
@@ -5599,8 +5543,64 @@
    "hours_open": 76.9,
    "title": "Summer Internship – Petroleum Engineer - Houston, TX",
    "uid": "workday:bpinternational.wd3/bpEarlyCareers:Summer-Intern---Petroleum-Engineer---Houston--TX_RQ114819"
+  },
+  {
+   "closed_at": 1788715192,
+   "company": "kbr",
+   "hours_open": 75.7,
+   "title": "Project Engineer I",
+   "uid": "workday:kbr.wd5/KBR_Careers:Project-Engineer-I_R2129322"
+  },
+  {
+   "closed_at": 1788715192,
+   "company": "relx",
+   "hours_open": 91.4,
+   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - January)",
+   "uid": "workday:relx.wd3/RiskSolutions:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617"
+  },
+  {
+   "closed_at": 1788715192,
+   "company": "relx",
+   "hours_open": 91.4,
+   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - June)",
+   "uid": "workday:relx.wd3/RiskSolutions:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-1"
+  },
+  {
+   "closed_at": 1788715192,
+   "company": "relx",
+   "hours_open": 91.4,
+   "title": "Tech Accelerate Graduate Program - Software Engineer (Boca Raton - June)",
+   "uid": "workday:relx.wd3/RiskSolutions:Tech-Accelerate-Graduate-Program---Software-Engineer--Boca-Raton---June-_R116023-2"
+  },
+  {
+   "closed_at": 1788715192,
+   "company": "kbr",
+   "hours_open": 93.8,
+   "title": "Junior Software Engineer",
+   "uid": "workday:kbr.wd5/KBR_Careers:Junior-Software-Engineer_R2122294"
+  },
+  {
+   "closed_at": 1788715192,
+   "company": "spacex",
+   "hours_open": 69.4,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1788715192,
+   "company": "spacex",
+   "hours_open": 72.4,
+   "title": "Full Stack Software Engineer (Components) ",
+   "uid": "greenhouse:spacex:8706459002"
+  },
+  {
+   "closed_at": 1788715192,
+   "company": "spacex",
+   "hours_open": 72.4,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 801,
- "updated_at": 1788712285
+ "count": 808,
+ "updated_at": 1788715192
 }
