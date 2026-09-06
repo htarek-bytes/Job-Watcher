@@ -2,48 +2,6 @@
  "closed": [
   {
    "closed_at": 1788465250,
-   "company": "Momentum",
-   "hours_open": 2.9,
-   "title": "Launch Graduate Program: Associate Enterprise Systems Analyst",
-   "uid": "simplify:listings:4883c1be-7626-4100-b0ad-314b68f24a66"
-  },
-  {
-   "closed_at": 1788465250,
-   "company": "Nidec",
-   "hours_open": 39.6,
-   "title": "Application Engineer 1",
-   "uid": "simplify:listings:c056d7df-fdde-419f-8c90-d5405fb5557b"
-  },
-  {
-   "closed_at": 1788465250,
-   "company": "NXP Semiconductors",
-   "hours_open": 39.6,
-   "title": "NFC System Software Engineer - Entry Level",
-   "uid": "simplify:listings:24c60afb-02f8-4cfa-8b73-b1949e67ede8"
-  },
-  {
-   "closed_at": 1788465250,
-   "company": "Dover",
-   "hours_open": 8.3,
-   "title": "Systems Engineer 1",
-   "uid": "simplify:listings:b1b08b60-0b48-4c0f-be14-fef824f712eb"
-  },
-  {
-   "closed_at": 1788465250,
-   "company": "NVIDIA",
-   "hours_open": 8.3,
-   "title": "Circuit Design Engineer New Grad",
-   "uid": "simplify:listings:acdc834d-c47e-47e7-bef1-d25858f94848"
-  },
-  {
-   "closed_at": 1788465250,
-   "company": "MultiCare Health System",
-   "hours_open": 2.9,
-   "title": "Revenue Cycle Systems Analyst 1",
-   "uid": "simplify:listings:3f232600-1023-4500-a3d7-7740abb084a3"
-  },
-  {
-   "closed_at": 1788465250,
    "company": "Baker Hughes",
    "hours_open": 39.6,
    "title": "Junior Field Services Engineer",
@@ -5599,8 +5557,50 @@
    "hours_open": 86.8,
    "title": "Tech Accelerate Graduate Program - Software Engineer (Boca Raton - June)",
    "uid": "workday:relx.wd3/RiskSolutions:Tech-Accelerate-Graduate-Program---Software-Engineer--Boca-Raton---June-_R116023-2"
+  },
+  {
+   "closed_at": 1788700365,
+   "company": "twitch",
+   "hours_open": 65.3,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1788700365,
+   "company": "relx",
+   "hours_open": 89.6,
+   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - January)",
+   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617-1"
+  },
+  {
+   "closed_at": 1788700365,
+   "company": "relx",
+   "hours_open": 89.6,
+   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - June)",
+   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-2"
+  },
+  {
+   "closed_at": 1788700365,
+   "company": "relx",
+   "hours_open": 89.6,
+   "title": "Tech Accelerate Graduate Program - Software Engineer (Boca Raton - June)",
+   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Boca-Raton---June-_R116023"
+  },
+  {
+   "closed_at": 1788700365,
+   "company": "spacex",
+   "hours_open": 68.3,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1788700365,
+   "company": "spacex",
+   "hours_open": 66.6,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
- "count": 803,
- "updated_at": 1788698643
+ "count": 806,
+ "updated_at": 1788700365
 }
