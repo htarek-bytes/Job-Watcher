@@ -1,48 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1788465250,
-   "company": "Aetos Systems",
-   "hours_open": 2.7,
-   "title": "Imagery Engineer I",
-   "uid": "workable:aetos-systems-inc:D370531F0E"
-  },
-  {
-   "closed_at": 1788465250,
-   "company": "accenturefederalservices",
-   "hours_open": 2.9,
-   "title": "SCON Java Developer",
-   "uid": "greenhouse:accenturefederalservices:4703025006"
-  },
-  {
-   "closed_at": 1788465250,
-   "company": "Northrop Grumman",
-   "hours_open": 8.3,
-   "title": "2027 Associate Engineer Electrical/Engineer Electrical",
-   "uid": "simplify:listings:02b791b5-c00d-4281-a2c8-6edc3e296d27"
-  },
-  {
-   "closed_at": 1788465250,
-   "company": "General Dynamics",
-   "hours_open": 8.3,
-   "title": "Automation Engineer Technician 1",
-   "uid": "simplify:listings:d91bf323-3ee8-46f5-83e3-47c28a5d455e"
-  },
-  {
-   "closed_at": 1788465250,
-   "company": "accenturefederalservices",
-   "hours_open": 2.9,
-   "title": "Software Engineer",
-   "uid": "greenhouse:accenturefederalservices:4609686006"
-  },
-  {
-   "closed_at": 1788465502,
-   "company": "telus-digital",
-   "hours_open": 1.3,
-   "title": "Cloud Engineer(Contract) ",
-   "uid": "ashby:telus-digital:16844e46-c436-4fdc-8401-d3132ab26999"
-  },
-  {
    "closed_at": 1788465502,
    "company": "geaerospace",
    "hours_open": 6.4,
@@ -5599,8 +5557,50 @@
    "hours_open": 69.5,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1788709735,
+   "company": "bmo",
+   "hours_open": 72.6,
+   "title": "Machine Learning Developer (New or Recent Graduate)",
+   "uid": "workday:bmo.wd3/Campus:Machine-Learning-Developer--New-or-Recent-Graduate-_R260024265-1"
+  },
+  {
+   "closed_at": 1788709735,
+   "company": "twitch",
+   "hours_open": 67.9,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1788709735,
+   "company": "cadence",
+   "hours_open": 63.9,
+   "title": "Software Engineer  (new college grad Dec 2026)",
+   "uid": "workday:cadence.wd1/Univ_Careers:Software-Engineer---new-college-grad-Dec-2026-_R55738-2"
+  },
+  {
+   "closed_at": 1788709735,
+   "company": "cadence",
+   "hours_open": 49.7,
+   "title": "Adams MultiBody Dynamics Application Software Developer (Recent Grad 2026)",
+   "uid": "workday:cadence.wd1/University_Talent_NCG:Adams-MultiBody-Dynamics-Application-Software-Developer--Recent-Grad-2026-_R55788-2"
+  },
+  {
+   "closed_at": 1788709735,
+   "company": "spacex",
+   "hours_open": 70.9,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1788709735,
+   "company": "spacex",
+   "hours_open": 69.2,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
- "count": 805,
- "updated_at": 1788704988
+ "count": 806,
+ "updated_at": 1788709736
 }
