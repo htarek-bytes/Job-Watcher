@@ -2,20 +2,6 @@
  "closed": [
   {
    "closed_at": 1788465502,
-   "company": "General Dynamics",
-   "hours_open": 8.4,
-   "title": "Automation Engineer Technician 1",
-   "uid": "simplify:listings:d91bf323-3ee8-46f5-83e3-47c28a5d455e"
-  },
-  {
-   "closed_at": 1788465502,
-   "company": "spacex",
-   "hours_open": 1.3,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1788465502,
    "company": "accenturefederalservices",
    "hours_open": 3.0,
    "title": "Software Engineer",
@@ -5599,8 +5585,22 @@
    "hours_open": 73.4,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1788722507,
+   "company": "kbr",
+   "hours_open": 77.8,
+   "title": "Project Engineer I",
+   "uid": "workday:kbr.wd5/KBR_Careers:Project-Engineer-I_R2129322"
+  },
+  {
+   "closed_at": 1788722507,
+   "company": "kbr",
+   "hours_open": 95.8,
+   "title": "Junior Software Engineer",
+   "uid": "workday:kbr.wd5/KBR_Careers:Junior-Software-Engineer_R2122294"
   }
  ],
- "count": 800,
- "updated_at": 1788720026
+ "count": 802,
+ "updated_at": 1788722507
 }
