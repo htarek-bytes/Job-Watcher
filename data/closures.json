@@ -2,20 +2,6 @@
  "closed": [
   {
    "closed_at": 1788470575,
-   "company": "Ursa Major",
-   "hours_open": 41.1,
-   "title": "Configuration Engineer 1",
-   "uid": "simplify:listings:c911e5bb-b9e8-4e01-963b-4cf92e087878"
-  },
-  {
-   "closed_at": 1788470575,
-   "company": "Generac",
-   "hours_open": 41.1,
-   "title": "Application Engineer 1",
-   "uid": "simplify:listings:6e9955f2-6e61-4e9c-9465-615ddfb93823"
-  },
-  {
-   "closed_at": 1788470575,
    "company": "Solar Turbines",
    "hours_open": 41.1,
    "title": "Entry Level Engineer Rotation - Solutions Platforms Engineering",
@@ -5599,8 +5585,22 @@
    "hours_open": 76.8,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1788732655,
+   "company": "twitch",
+   "hours_open": 74.3,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1788732655,
+   "company": "spacex",
+   "hours_open": 75.5,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
- "count": 803,
- "updated_at": 1788731242
+ "count": 802,
+ "updated_at": 1788732656
 }
