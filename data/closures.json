@@ -2,55 +2,6 @@
  "closed": [
   {
    "closed_at": 1788470575,
-   "company": "barrywehmiller",
-   "hours_open": 28.5,
-   "title": "Entry Level Software Engineer",
-   "uid": "workday:barrywehmiller.wd1/BWConfidential:Entry-Level-Software-Engineer_R022649"
-  },
-  {
-   "closed_at": 1788470575,
-   "company": "Barry-Wehmiller",
-   "hours_open": 41.1,
-   "title": "Entry Level Software Engineer",
-   "uid": "simplify:listings:94439f86-761e-479b-ad07-ff674a810362"
-  },
-  {
-   "closed_at": 1788470575,
-   "company": "gevernova",
-   "hours_open": 25.7,
-   "title": "Field Services Engineer - Early Career Trainee",
-   "uid": "workday:gevernova.wd5/vernova_externalsite:Field-Services-Engineer---Early-Career-Trainee_R5049070-3"
-  },
-  {
-   "closed_at": 1788470575,
-   "company": "ngc",
-   "hours_open": 7.8,
-   "title": "2027 Software Engineer Intern - Linthicum Maryland",
-   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Software-Engineer-Intern---Linthicum-Maryland_R10248910"
-  },
-  {
-   "closed_at": 1788470575,
-   "company": "Amazon",
-   "hours_open": 4.4,
-   "title": "Software Development Engineer, Amazon Quick",
-   "uid": "amazon:amazon:10517569"
-  },
-  {
-   "closed_at": 1788470575,
-   "company": "Amazon",
-   "hours_open": 4.4,
-   "title": "Software Development Engineer, Amazon WorkSpaces",
-   "uid": "amazon:amazon:10512990"
-  },
-  {
-   "closed_at": 1788470575,
-   "company": "Amazon",
-   "hours_open": 4.4,
-   "title": "Software Development Engineer, S3 Glacier",
-   "uid": "amazon:amazon:10512552"
-  },
-  {
-   "closed_at": 1788470575,
    "company": "Amazon",
    "hours_open": 4.4,
    "title": "Software Development Engineer, S3",
@@ -5599,8 +5550,57 @@
    "hours_open": 100.0,
    "title": "Adams MultiBody Dynamics Application Software Developer (Recent Grad 2026)",
    "uid": "workday:cadence.wd1/External_Careers:Adams-MultiBody-Dynamics-Application-Software-Developer--Recent-Grad-2026-_R55788"
+  },
+  {
+   "closed_at": 1788730338,
+   "company": "bmo",
+   "hours_open": 72.2,
+   "title": "Machine Learning Developer (New or Recent Graduate)",
+   "uid": "workday:bmo.wd3/External:Machine-Learning-Developer--New-or-Recent-Graduate-_R260024265"
+  },
+  {
+   "closed_at": 1788730338,
+   "company": "twitch",
+   "hours_open": 73.6,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1788730338,
+   "company": "cadence",
+   "hours_open": 24.8,
+   "title": "Software Engineer  (new college grad Dec 2026)",
+   "uid": "workday:cadence.wd1/University_Talent_NCG:Software-Engineer---new-college-grad-Dec-2026-_R55738"
+  },
+  {
+   "closed_at": 1788730338,
+   "company": "Media Resources",
+   "hours_open": 57.3,
+   "title": "full stack Web developer",
+   "uid": "jobbank:developpeur junior:50218626"
+  },
+  {
+   "closed_at": 1788730338,
+   "company": "kbr",
+   "hours_open": 98.0,
+   "title": "Junior Software Engineer",
+   "uid": "workday:kbr.wd5/KBR_Careers:Junior-Software-Engineer_R2122294"
+  },
+  {
+   "closed_at": 1788730338,
+   "company": "cadence",
+   "hours_open": 55.4,
+   "title": "Adams MultiBody Dynamics Application Software Developer (Recent Grad 2026)",
+   "uid": "workday:cadence.wd1/University_Talent_NCG:Adams-MultiBody-Dynamics-Application-Software-Developer--Recent-Grad-2026-_R55788-2"
+  },
+  {
+   "closed_at": 1788730338,
+   "company": "spacex",
+   "hours_open": 74.9,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
- "count": 804,
- "updated_at": 1788727884
+ "count": 807,
+ "updated_at": 1788730339
 }
