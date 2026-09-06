@@ -2,41 +2,6 @@
  "closed": [
   {
    "closed_at": 1788465250,
-   "company": "NVIDIA",
-   "hours_open": 39.6,
-   "title": "Software R&D Engineer New Grad - VLSI Physical Design",
-   "uid": "simplify:listings:29d56cce-6d8e-4fac-aeb4-7c14135e0b12"
-  },
-  {
-   "closed_at": 1788465250,
-   "company": "Susquehanna International Group (SIG)",
-   "hours_open": 39.6,
-   "title": "Associate Linux/Windows Engineer New Grad",
-   "uid": "simplify:listings:3c23026b-e562-42db-8a51-e443977cf853"
-  },
-  {
-   "closed_at": 1788465250,
-   "company": "accenture",
-   "hours_open": 19.8,
-   "title": "Junior AI Software Engineer",
-   "uid": "workday:accenture.wd103/AccentureCareers:Junior-AI-Software-Engineer_R00346108"
-  },
-  {
-   "closed_at": 1788465250,
-   "company": "alphafmcroles",
-   "hours_open": 1.2,
-   "title": "QA Engineer (Contract)",
-   "uid": "greenhouse:alphafmcroles:8729829002"
-  },
-  {
-   "closed_at": 1788465250,
-   "company": "spacex",
-   "hours_open": 2.9,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1788465250,
    "company": "Aetos Systems",
    "hours_open": 2.7,
    "title": "Imagery Engineer I",
@@ -5599,8 +5564,43 @@
    "hours_open": 70.6,
    "title": "Machine Learning Developer (New or Recent Graduate)",
    "uid": "workday:bmo.wd3/Campus:Machine-Learning-Developer--New-or-Recent-Graduate-_R260024265-1"
+  },
+  {
+   "closed_at": 1788704987,
+   "company": "bmo",
+   "hours_open": 65.1,
+   "title": "Machine Learning Developer (New or Recent Graduate)",
+   "uid": "workday:bmo.wd3/External:Machine-Learning-Developer--New-or-Recent-Graduate-_R260024265"
+  },
+  {
+   "closed_at": 1788704987,
+   "company": "twitch",
+   "hours_open": 69.5,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1788704987,
+   "company": "cadence",
+   "hours_open": 93.6,
+   "title": "Adams MultiBody Dynamics Application Software Developer (Recent Grad 2026)",
+   "uid": "workday:cadence.wd1/External_Careers:Adams-MultiBody-Dynamics-Application-Software-Developer--Recent-Grad-2026-_R55788"
+  },
+  {
+   "closed_at": 1788704987,
+   "company": "spacex",
+   "hours_open": 66.6,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1788704987,
+   "company": "spacex",
+   "hours_open": 69.5,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 801,
- "updated_at": 1788702360
+ "count": 805,
+ "updated_at": 1788704988
 }
