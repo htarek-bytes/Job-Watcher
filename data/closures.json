@@ -1,34 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1788455819,
-   "company": "spacex",
-   "hours_open": 0.3,
-   "title": "Propulsion Engineer, Components Manufacturing (Raptor)",
-   "uid": "greenhouse:spacex:8512813002"
-  },
-  {
-   "closed_at": 1788455819,
-   "company": "spacex",
-   "hours_open": 0.3,
-   "title": "Electric Propulsion Engineer, Mechanical - (Starlink)",
-   "uid": "greenhouse:spacex:8460962002"
-  },
-  {
-   "closed_at": 1788460756,
-   "company": "ngc",
-   "hours_open": 1.7,
-   "title": "Sentinel - LEN Systems Engineer - 14377-1",
-   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:Sentinel---LEN-Systems-Engineer---14377-1_R10236367"
-  },
-  {
-   "closed_at": 1788460756,
-   "company": "Bosch Group",
-   "hours_open": 3.5,
-   "title": "[BD] AI Engineer Intern (6-month fulltime Internship)",
-   "uid": "smartrecruiters:BoschGroup:744000147157639"
-  },
-  {
    "closed_at": 1788460756,
    "company": "Bosch Group",
    "hours_open": 3.5,
@@ -5599,8 +5571,36 @@
    "hours_open": 60.9,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1788674278,
+   "company": "bmo",
+   "hours_open": 62.8,
+   "title": "Machine Learning Developer (New or Recent Graduate)",
+   "uid": "workday:bmo.wd3/Campus:Machine-Learning-Developer--New-or-Recent-Graduate-_R260024265-1"
+  },
+  {
+   "closed_at": 1788674278,
+   "company": "relx",
+   "hours_open": 80.0,
+   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - January)",
+   "uid": "workday:relx.wd3/RiskSolutions:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617"
+  },
+  {
+   "closed_at": 1788674278,
+   "company": "relx",
+   "hours_open": 80.0,
+   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - June)",
+   "uid": "workday:relx.wd3/RiskSolutions:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-1"
+  },
+  {
+   "closed_at": 1788674278,
+   "company": "relx",
+   "hours_open": 80.0,
+   "title": "Tech Accelerate Graduate Program - Software Engineer (Boca Raton - June)",
+   "uid": "workday:relx.wd3/RiskSolutions:Tech-Accelerate-Graduate-Program---Software-Engineer--Boca-Raton---June-_R116023-2"
   }
  ],
- "count": 813,
- "updated_at": 1788673828
+ "count": 804,
+ "updated_at": 1788674278
 }
