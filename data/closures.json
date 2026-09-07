@@ -1,41 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1788495756,
-   "company": "TRIMEDX",
-   "hours_open": 13.2,
-   "title": "Imaging Engineer 1",
-   "uid": "simplify:listings:be93461b-6a60-4a5d-b44b-bd7b5b06958a"
-  },
-  {
-   "closed_at": 1788495756,
-   "company": "Accenture",
-   "hours_open": 48.1,
-   "title": "Associate Software Engineer - Pega",
-   "uid": "simplify:listings:9a334ffd-3252-4f69-a5fc-d3e16083784e"
-  },
-  {
-   "closed_at": 1788495756,
-   "company": "accenture",
-   "hours_open": 28.3,
-   "title": "Junior AI Software Engineer",
-   "uid": "workday:accenture.wd103/AccentureCareers:Junior-AI-Software-Engineer_R00346108"
-  },
-  {
-   "closed_at": 1788496956,
-   "company": "kbr",
-   "hours_open": 15.1,
-   "title": "Project Engineer I",
-   "uid": "workday:kbr.wd5/KBR_Careers:Project-Engineer-I_R2129322"
-  },
-  {
-   "closed_at": 1788496956,
-   "company": "gevernova",
-   "hours_open": 8.8,
-   "title": "GE Vernova Software Engineering - Co-op -Summer - Fall",
-   "uid": "workday:gevernova.wd5/vernova_externalsite:GE-Vernova-Software-Engineering---Co-op--Summer---Fall_R5051794-2"
-  },
-  {
    "closed_at": 1788496956,
    "company": "gevernova",
    "hours_open": 8.8,
@@ -5599,8 +5564,43 @@
    "hours_open": 121.7,
    "title": "Associate Engineer - Software",
    "uid": "simplify:listings:3bc55d73-aad9-40b7-a280-35c949dc01a6"
+  },
+  {
+   "closed_at": 1788761439,
+   "company": "twitch",
+   "hours_open": 82.3,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1788761439,
+   "company": "kbr",
+   "hours_open": 88.6,
+   "title": "Project Engineer I",
+   "uid": "workday:kbr.wd5/KBR_Careers:Project-Engineer-I_R2129322"
+  },
+  {
+   "closed_at": 1788761439,
+   "company": "kbr",
+   "hours_open": 106.6,
+   "title": "Junior Software Engineer",
+   "uid": "workday:kbr.wd5/KBR_Careers:Junior-Software-Engineer_R2122294"
+  },
+  {
+   "closed_at": 1788761439,
+   "company": "spacex",
+   "hours_open": 82.3,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1788761439,
+   "company": "spacex",
+   "hours_open": 85.2,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 810,
- "updated_at": 1788760848
+ "count": 805,
+ "updated_at": 1788761441
 }
