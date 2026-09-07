@@ -334,6 +334,28 @@ exclude_keywords = [
   "sales development representative",
   "bdr",
   "sdr",
+  # Added after auditing the first 138 roles the track produced. These are
+  # categories that will keep arriving, not one-offs: a Technical Sales
+  # Representative is a salesperson with a technical product, which is the
+  # generic sales job this track exists to avoid, and "Solutions Engineer" is
+  # also what several companies call the person who runs their own internal
+  # IT or recruiting tooling. Neither talks to a customer about architecture.
+  "sales representative",
+  "sales executive",
+  "sales analyst",
+  "sales specialist",
+  "it solutions",
+  "it solution",
+  "recruiting",
+  "talent acquisition",
+  # The industrial meaning again, from the same audit.
+  "electrical sales",
+  "hardware solutions",
+  # A startup's first sales engineer, hired to build the function. The word is
+  # a seniority marker in the same way "principal" is, and it is scoped to
+  # this track rather than added to the shared list, where it would also have
+  # reached four software roles that are a different judgement call.
+  "founding",
 ]
 
 [locations]
