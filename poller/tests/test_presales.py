@@ -62,6 +62,25 @@ class TrackSelection(unittest.TestCase):
             with self.subTest(title=title):
                 self.assertEqual(self.m.track(title), m.SOFTWARE)
 
+    def test_a_specific_software_keyword_wins(self):
+        # From the audit of the first 138 roles the track produced. These name
+        # a software engineering role and happen to also name the team they
+        # sit next to; reading them as pre-sales took real engineering jobs
+        # out of the software filter.
+        for title in ("Software Engineer - Solutions Engineering",
+                      "DevOps Solutions Engineer",
+                      "Data Engineer, Solutions"):
+            with self.subTest(title=title):
+                self.assertEqual(self.m.track(title), m.SOFTWARE)
+
+    def test_a_generic_keyword_does_not_win(self):
+        # Bare "engineer" is in nearly every title on both sides. If it counted
+        # as specific there would be no pre-sales track at all.
+        for title in ("Sales Engineer", "Solutions Engineer",
+                      "Associate Solutions Engineer"):
+            with self.subTest(title=title):
+                self.assertEqual(self.m.track(title), m.PRESALES)
+
     def test_the_track_agrees_with_what_the_match_used(self):
         # `track` is computed separately from evaluate_full, so the two reading
         # a title differently is a real failure mode rather than a theoretical
@@ -210,6 +229,24 @@ class Rejected(unittest.TestCase):
                       "Sales Engineer, Compressors",
                       "Field Sales Engineer",
                       "Automotive Sales Consultant"):
+            with self.subTest(title=title):
+                matched, reason, _ = self.m.evaluate_full(
+                    title, None, allow_open_level=True, years=1)
+                self.assertFalse(matched, "%s (%s)" % (title, reason))
+
+    def test_the_audited_noise_is_excluded(self):
+        # Real titles from the first 138 the track produced. Two categories:
+        # a salesperson with a technical product, and the person who runs a
+        # company's own internal IT or recruiting tooling. Neither talks to a
+        # customer about architecture.
+        for title in ("Technical Sales Representative",
+                      "Technical Sales Executive", "Technical Sales Analyst",
+                      "IT Solutions Engineer (Networking)",
+                      "Recruiting Solutions Engineer",
+                      "AI Solutions Engineer, Talent Acquisition",
+                      "Hardware Solutions Engineer",
+                      "Electrical Sales Engineer",
+                      "Founding Sales Engineer"):
             with self.subTest(title=title):
                 matched, reason, _ = self.m.evaluate_full(
                     title, None, allow_open_level=True, years=1)

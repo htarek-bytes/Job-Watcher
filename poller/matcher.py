@@ -111,6 +111,14 @@ JUNIOR = "0 to 3 years"
 SOFTWARE = "software"
 PRESALES = "presales"
 
+# Role keywords too generic to decide a track with. Every title in either list
+# contains at least one of these, so they say nothing about which job it is.
+# Anything else in role_keywords does: a title that names a software
+# engineering role IS a software engineering role, whatever else it also says.
+# Measured on the live feed, this is what puts "Software Engineer - Solutions
+# Engineering" and "DevOps Solutions Engineer" back where they belong.
+_GENERIC_ROLE = {"engineer", "developer", "programmer", "sde", "swe"}
+
 # "2+ years of experience", "1-3 years experience", "at least 2 years of
 # relevant experience". Only counted when the word experience is nearby: a
 # description mentioning "5 years ago" or "over the last 3 years" is talking
@@ -150,6 +158,9 @@ class Matcher:
     def __init__(self, cfg):
         m = cfg["match"]
         self.role_keywords = [normalize(k) for k in m["role_keywords"]]
+        self.specific_role_keywords = [
+            k for k in self.role_keywords if k not in _GENERIC_ROLE
+        ]
         self.new_grad_phrases = [normalize(k) for k in m["new_grad_phrases"]]
         self.exclude_keywords = [normalize(k) for k in m["exclude_keywords"]]
         self.max_level = m.get("max_level", ENTRY_LEVEL)
@@ -203,10 +214,19 @@ class Matcher:
         Pre-sales is asked first because the two lists overlap by design: the
         software track excludes "sales engineer", and that exclusion is what
         the pre-sales track is made of.
+
+        A specific software keyword still wins, though. "Software Engineer -
+        Solutions Engineering" and "Software Solutions Engineer" are software
+        roles that happen to name the team they sit next to, and reading them
+        as pre-sales would take real engineering jobs out of the software
+        filter. Only a specific keyword counts: bare "engineer" appears in
+        nearly every title on both sides and would collapse the track.
         """
         if self.presales_enabled and any(
             contains_phrase(text, k) for k in self.presales_keywords
         ):
+            if any(contains_phrase(text, k) for k in self.specific_role_keywords):
+                return SOFTWARE
             return PRESALES
         return SOFTWARE
 
