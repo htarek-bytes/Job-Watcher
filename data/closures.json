@@ -1,20 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1788530938,
-   "company": "wyetechllc",
-   "hours_open": 21.2,
-   "title": "Cloud Software Engineer 3 (Potential Telework)",
-   "uid": "lever:wyetechllc:4e2e5703-ddd1-441d-959b-b1e2ee69a628"
-  },
-  {
-   "closed_at": 1788539216,
-   "company": "doordashusa",
-   "hours_open": 4.2,
-   "title": "Software Engineer I, Entry-Level (Graduation Date: Fall 2026-Summer 2027) - US",
-   "uid": "greenhouse:doordashusa:8163709"
-  },
-  {
    "closed_at": 1788539216,
    "company": "twitch",
    "hours_open": 23.5,
@@ -5599,8 +5585,22 @@
    "hours_open": 121.2,
    "title": "Junior Software Engineer",
    "uid": "workday:kbr.wd5/kbr_careers:Junior-Software-Engineer_R2122294"
+  },
+  {
+   "closed_at": 1788815725,
+   "company": "gevernova",
+   "hours_open": 71.8,
+   "title": "GE Vernova GridOS  Project Engineer - Co-Op/Intern - January 2027-June 2027",
+   "uid": "workday:gevernova.wd5/vernova_externalsite:GE-Vernova-GridOS--Project-Engineer---Co-Op-Intern---January-2027-June-2027_R5050087-2"
+  },
+  {
+   "closed_at": 1788815725,
+   "company": "gevernova",
+   "hours_open": 74.1,
+   "title": "GE Vernova - Project Engineer Intern - Summer 2027",
+   "uid": "workday:gevernova.wd5/vernova_externalsite:GE-Vernova---Project-Engineer-Intern---Summer-2027_R5050026-2"
   }
  ],
- "count": 812,
- "updated_at": 1788814264
+ "count": 802,
+ "updated_at": 1788815725
 }
