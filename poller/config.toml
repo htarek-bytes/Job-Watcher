@@ -147,6 +147,15 @@ new_grad_phrases = [
   "associate software engineer",
   "associate engineer",
   "associate developer",
+  # The pre-sales track's version of the same. "associate engineer" does not
+  # fire inside "Associate Solutions Engineer" because the two words are not
+  # adjacent there, so each wording is listed.
+  "associate solutions engineer",
+  "associate solution engineer",
+  "associate sales engineer",
+  "associate solutions consultant",
+  "associate consultant",
+  "associate technical",
   "class of",
   "emerging talent",
   "rotational program",
@@ -222,6 +231,109 @@ exclude_keywords = [
   "composites engineer",
   "supplier quality",
   "continuous improvement",
+]
+
+# ---------------------------------------------------------------------------
+# The technical pre-sales track: sales engineering, solutions engineering and
+# the rest of the customer-facing side of engineering, where a CS degree is the
+# requirement rather than a nice-to-have.
+#
+# It is a TRACK, not more role keywords, because it is a different job. Every
+# title below is a software-side EXCLUSION a few lines up, and deliberately so:
+# a Sales Engineer has no business in a list of software engineering roles.
+# Giving it its own track keeps that true while still carrying the roles, and
+# the dashboard filters on `track` so neither one buries the other.
+#
+# Turning `enabled` off puts every title below back to being nothing but a
+# software-side exclusion, which is the old behaviour exactly.
+# ---------------------------------------------------------------------------
+[match.presales]
+enabled = true
+
+# A pre-sales req almost never says "new grad" in its title, and where it
+# states a bar at all it states it in the description, which the years tier
+# already reads. Without this the track would hold only the few that happen to
+# say "Associate". This is a separate switch from the software side's, which
+# stays Canadian-boards-only for the reason recorded above: there the open
+# level tier competes with ~2400 other roles, here the whole track is small.
+open_level = true
+
+# Titles. Multi-word on purpose, the same rule the software list follows: a
+# bare "sales" would take every account executive on every board, and a bare
+# "consultant" every management consultancy.
+#
+# Deliberately NOT here: "Account Executive" on its own, "Business Development
+# Representative", "Sales Development Representative" and "Account Manager".
+# Those are quota-carrying or prospecting roles where the CS degree is
+# decoration, and including them would have swamped the track with exactly the
+# generic sales job it exists to avoid. "Technical Account Executive" is in,
+# because the word technical is what makes it a different job.
+role_keywords = [
+  "sales engineer",
+  "sales engineering",
+  "solutions engineer",
+  "solution engineer",
+  "solutions engineering",
+  "presales",
+  "pre sales",
+  "solutions consultant",
+  "solution consultant",
+  "technical solutions consultant",
+  "technical solutions specialist",
+  "technical solutions analyst",
+  "technical sales",
+  # Google's name for the pre-sales engineer, and a real early-career pipeline.
+  "customer engineer",
+  "technical account executive",
+  # "Forward Deployed Engineer" was here and was removed on measurement. The
+  # committed feed already carries seven of them, all new grad, all matched on
+  # the software track, and they are software roles: an FDE writes code at the
+  # customer's site. Claiming them for this track would have moved seven real
+  # engineering jobs out of the software filter and gained nothing.
+]
+
+# On top of everything the software track excludes. Seniority, management and
+# the level suffixes are shared and are not repeated here; only the words that
+# separate a technical pre-sales role from the other things called "sales
+# engineer" are.
+#
+# "Sales Engineer" is an old industrial title as well as a software one, and a
+# board search returns as many pump and HVAC reqs as SaaS ones. These are the
+# physical-goods giveaways. Vertical names like insurance or healthcare are
+# NOT here: at a software company those describe the customer, not the job, so
+# excluding them would drop real roles.
+exclude_keywords = [
+  "hvac",
+  "mechanical sales",
+  "industrial sales",
+  "equipment sales",
+  "outside sales",
+  "inside sales",
+  "retail sales",
+  "territory sales",
+  "field sales",
+  "pump",
+  "pumps",
+  "valve",
+  "valves",
+  "compressor",
+  "compressors",
+  "boiler",
+  "boilers",
+  "roofing",
+  "solar sales",
+  # "automotive" on its own is a vertical a software company sells into, so it
+  # would drop real roles. The sales half is what makes it a car dealership.
+  "automotive sales",
+  "car sales",
+  "door to door",
+  "appointment setter",
+  "closer",
+  "coaching",
+  "business development representative",
+  "sales development representative",
+  "bdr",
+  "sdr",
 ]
 
 [locations]

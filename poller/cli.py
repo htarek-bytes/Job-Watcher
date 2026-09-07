@@ -297,6 +297,12 @@ def sweep(cfg, health, registry, quiet=False, previous=None):
             # "new grad" or "internship". Kept apart rather than blended: the
             # two have different deadlines and different value.
             job["kind"] = kind
+            # "software" or "presales". A different job, not a different level,
+            # so the dashboard filters on it separately and neither track
+            # buries the other. Recomputed from the title rather than returned
+            # by evaluate_full, which would have changed the shape of a return
+            # value read in a dozen places for no gain.
+            job["track"] = matcher.track(job.get("title", ""))
             job["location_evidence"] = evidence
             job["match_reason"] = reason
             job["work_auth"] = status
