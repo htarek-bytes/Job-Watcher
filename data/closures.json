@@ -2,48 +2,6 @@
  "closed": [
   {
    "closed_at": 1788524072,
-   "company": "ROGAMI SERVICES LIMITED",
-   "hours_open": 37.2,
-   "title": "Web developer",
-   "uid": "jobbank:developpeur junior:50103854"
-  },
-  {
-   "closed_at": 1788524072,
-   "company": "relx",
-   "hours_open": 38.3,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - January)",
-   "uid": "workday:relx.wd3/RiskSolutions:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617"
-  },
-  {
-   "closed_at": 1788524072,
-   "company": "relx",
-   "hours_open": 38.3,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - June)",
-   "uid": "workday:relx.wd3/RiskSolutions:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-1"
-  },
-  {
-   "closed_at": 1788524072,
-   "company": "relx",
-   "hours_open": 38.3,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Boca Raton - June)",
-   "uid": "workday:relx.wd3/RiskSolutions:Tech-Accelerate-Graduate-Program---Software-Engineer--Boca-Raton---June-_R116023-2"
-  },
-  {
-   "closed_at": 1788524072,
-   "company": "gevernova",
-   "hours_open": 40.7,
-   "title": "Field Services Engineer - Early Career Trainee",
-   "uid": "workday:gevernova.wd5/only_confidential_executive_recruiting:Field-Services-Engineer---Early-Career-Trainee_R5049070-2"
-  },
-  {
-   "closed_at": 1788524072,
-   "company": "gevernova",
-   "hours_open": 21.1,
-   "title": "Ingénieur junior en intégration logicielle GridOS – DevOps F/H  /  Junior GridOS Software Integration Engineer – DevOps",
-   "uid": "workday:gevernova.wd5/vernova_externalsite:Ingnieur-junior-en-intgration-logicielle-GridOS---DevOps-F-H-----Junior-GridOS-Software-Integration-Engineer---DevOps_R5048048-3"
-  },
-  {
-   "closed_at": 1788524072,
    "company": "TD Bank",
    "hours_open": 55.9,
    "title": "Associate Software Engineer",
@@ -5599,8 +5557,50 @@
    "hours_open": 90.0,
    "title": "Machine Learning Developer (New or Recent Graduate)",
    "uid": "workday:bmo.wd3/External:Machine-Learning-Developer--New-or-Recent-Graduate-_R260024265"
+  },
+  {
+   "closed_at": 1788803301,
+   "company": "Royal Bank of Canada",
+   "hours_open": 26.0,
+   "title": "Product Engineer New Grad",
+   "uid": "simplify:listings:d1354a8b-e1fb-48c3-bf6f-93d3bea41db3"
+  },
+  {
+   "closed_at": 1788803301,
+   "company": "twitch",
+   "hours_open": 93.9,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1788803301,
+   "company": "Media Resources",
+   "hours_open": 77.6,
+   "title": "full stack Web developer",
+   "uid": "jobbank:developpeur junior:50218626"
+  },
+  {
+   "closed_at": 1788803301,
+   "company": "spacex",
+   "hours_open": 93.9,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1788803301,
+   "company": "spacex",
+   "hours_open": 96.8,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1788803301,
+   "company": "Amazon",
+   "hours_open": 96.8,
+   "title": "Software Development Engineer, Unified Streaming and Monitoring Service",
+   "uid": "amazon:amazon:10520555"
   }
  ],
- "count": 805,
- "updated_at": 1788794732
+ "count": 806,
+ "updated_at": 1788803301
 }
