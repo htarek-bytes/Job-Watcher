@@ -2,34 +2,6 @@
  "closed": [
   {
    "closed_at": 1788474010,
-   "company": "gevernova",
-   "hours_open": 2.4,
-   "title": "GE Vernova CIC Systems Engineer Co-op - Spring - Summer 2027",
-   "uid": "workday:gevernova.wd5/only_confidential_executive_recruiting:GE-Vernova-CIC-Systems-Engineer-Co-op---Spring---Summer-2027_R5051807-1"
-  },
-  {
-   "closed_at": 1788474010,
-   "company": "relx",
-   "hours_open": 26.7,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - January)",
-   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617-1"
-  },
-  {
-   "closed_at": 1788474010,
-   "company": "relx",
-   "hours_open": 26.7,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - June)",
-   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-2"
-  },
-  {
-   "closed_at": 1788474010,
-   "company": "relx",
-   "hours_open": 26.7,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Boca Raton - June)",
-   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Boca-Raton---June-_R116023"
-  },
-  {
-   "closed_at": 1788474010,
    "company": "WellSky",
    "hours_open": 42.0,
    "title": "Associate Software Engineer",
@@ -5599,8 +5571,36 @@
    "hours_open": 79.4,
    "title": "Software Development Engineer, Security Platform",
    "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1788742901,
+   "company": "twitch",
+   "hours_open": 77.1,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1788742901,
+   "company": "ag",
+   "hours_open": 88.0,
+   "title": "#CORE DIGITAL CAMPUS - SAP Developer (f/m/d)",
+   "uid": "workday:ag.wd3/Airbus:XMLNAME--CORE-DIGITAL-CAMPUS---SAP-Developer--f-m-d-_JR10428591-1"
+  },
+  {
+   "closed_at": 1788742901,
+   "company": "spacex",
+   "hours_open": 79.8,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1788742901,
+   "company": "spacex",
+   "hours_open": 80.1,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 808,
- "updated_at": 1788740515
+ "count": 804,
+ "updated_at": 1788742901
 }
