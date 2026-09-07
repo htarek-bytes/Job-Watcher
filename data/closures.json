@@ -1,90 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1788512368,
-   "company": "relx",
-   "hours_open": 37.4,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Boca Raton - June)",
-   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Boca-Raton---June-_R116023"
-  },
-  {
-   "closed_at": 1788512368,
-   "company": "Marathon Petroleum",
-   "hours_open": 52.7,
-   "title": "Operations Research Engineer 1",
-   "uid": "simplify:listings:a4c57446-fbe1-402b-8c70-6243d0c30a01"
-  },
-  {
-   "closed_at": 1788512368,
-   "company": "gevernova",
-   "hours_open": 37.4,
-   "title": "Field Services Engineer - Early Career Trainee",
-   "uid": "workday:gevernova.wd5/only_confidential_executive_recruiting:Field-Services-Engineer---Early-Career-Trainee_R5049070-2"
-  },
-  {
-   "closed_at": 1788512368,
-   "company": "Northwood Space",
-   "hours_open": 21.4,
-   "title": "RF & Antenna Systems Engineer - Early Career",
-   "uid": "simplify:listings:0f0587c3-f43f-4a49-ab68-5ac6786e237a"
-  },
-  {
-   "closed_at": 1788512368,
-   "company": "WelbeHealth",
-   "hours_open": 52.7,
-   "title": "AI Engineer 1",
-   "uid": "simplify:listings:58d9d263-e25e-491b-9e3e-42e08454509c"
-  },
-  {
-   "closed_at": 1788512368,
-   "company": "bristolmyerssquibb",
-   "hours_open": 19.5,
-   "title": "Associate Software Engineer",
-   "uid": "workday:bristolmyerssquibb.wd5/bms:Associate-Software-Engineer_R1605676"
-  },
-  {
-   "closed_at": 1788512368,
-   "company": "NVIDIA",
-   "hours_open": 52.7,
-   "title": "Cell Modeling and Verification Engineer New Grad",
-   "uid": "simplify:listings:28f533ee-77db-4862-babb-7897aa104c42"
-  },
-  {
-   "closed_at": 1788512368,
-   "company": "NVIDIA",
-   "hours_open": 52.7,
-   "title": "ASIC Physical Design Engineer New Grad - Netlisting",
-   "uid": "simplify:listings:a2cc0996-d2ea-4470-98ee-8d8b0904dcc0"
-  },
-  {
-   "closed_at": 1788512368,
-   "company": "Relativity Space",
-   "hours_open": 52.7,
-   "title": "Hardware Development Engineer 1",
-   "uid": "simplify:listings:8b1eac44-14e3-4cc2-9fb1-f3d49d245ed4"
-  },
-  {
-   "closed_at": 1788512368,
-   "company": "Amentum",
-   "hours_open": 52.7,
-   "title": "Entry Level Electrical/RF Engineer",
-   "uid": "simplify:listings:825beba1-766e-4140-8632-472069da865c"
-  },
-  {
-   "closed_at": 1788512368,
-   "company": "Applied Materials",
-   "hours_open": 52.7,
-   "title": "Applied Early Career Program - Field Service Engineer",
-   "uid": "simplify:listings:380b4398-963e-4f3d-967c-a86d18cdf0d4"
-  },
-  {
-   "closed_at": 1788512922,
-   "company": "Bosch Group",
-   "hours_open": 6.7,
-   "title": "[SX/BSV-VN] Embedded Test Engineer Intern",
-   "uid": "smartrecruiters:BoschGroup:744000147379240"
-  },
-  {
    "closed_at": 1788512922,
    "company": "gevernova",
    "hours_open": 37.5,
@@ -5599,8 +5515,92 @@
    "hours_open": 91.6,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1788791369,
+   "company": "twitch",
+   "hours_open": 93.5,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1788791369,
+   "company": "jci",
+   "hours_open": 56.7,
+   "title": "HVAC Application Engineer I",
+   "uid": "workday:jci.wd5/JCI:HVAC-Application-Engineer-I_WD30278015"
+  },
+  {
+   "closed_at": 1788791369,
+   "company": "bmo",
+   "hours_open": 89.1,
+   "title": "Machine Learning Developer (New or Recent Graduate)",
+   "uid": "workday:bmo.wd3/External:Machine-Learning-Developer--New-or-Recent-Graduate-_R260024265"
+  },
+  {
+   "closed_at": 1788791369,
+   "company": "kbr",
+   "hours_open": 96.9,
+   "title": "Project Engineer I",
+   "uid": "workday:kbr.wd5/KBR_Careers:Project-Engineer-I_R2129322"
+  },
+  {
+   "closed_at": 1788791369,
+   "company": "hp",
+   "hours_open": 9.6,
+   "title": "Collaboration Technical Consultant / Sales Engineer",
+   "uid": "workday:hp.wd5/externalcareersite:Collaboration-Technical-Consultant---Sales-Engineer_3163751"
+  },
+  {
+   "closed_at": 1788791369,
+   "company": "Renesas Electronics",
+   "hours_open": 8.3,
+   "title": "Altium Enterprise Pre-Sales Field Application Engineer",
+   "uid": "smartrecruiters:RenesasElectronics:744000146825679"
+  },
+  {
+   "closed_at": 1788791369,
+   "company": "relx",
+   "hours_open": 114.9,
+   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - January)",
+   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617-1"
+  },
+  {
+   "closed_at": 1788791369,
+   "company": "relx",
+   "hours_open": 114.9,
+   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - June)",
+   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-2"
+  },
+  {
+   "closed_at": 1788791369,
+   "company": "relx",
+   "hours_open": 114.9,
+   "title": "Tech Accelerate Graduate Program - Software Engineer (Boca Raton - June)",
+   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Boca-Raton---June-_R116023"
+  },
+  {
+   "closed_at": 1788791369,
+   "company": "kbr",
+   "hours_open": 114.9,
+   "title": "Junior Software Engineer",
+   "uid": "workday:kbr.wd5/KBR_Careers:Junior-Software-Engineer_R2122294"
+  },
+  {
+   "closed_at": 1788791369,
+   "company": "spacex",
+   "hours_open": 93.5,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1788791369,
+   "company": "spacex",
+   "hours_open": 91.8,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
- "count": 808,
- "updated_at": 1788784330
+ "count": 812,
+ "updated_at": 1788791369
 }
