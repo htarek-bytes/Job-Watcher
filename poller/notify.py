@@ -67,6 +67,11 @@ class Notifier:
         lines = [locs]
         if region:
             lines.append("region: %s" % region)
+        # Said out loud only for the pre-sales track. Software is the default
+        # and the phone does not need telling; a Solutions Engineer arriving in
+        # a feed built for software roles does.
+        if job.get("track") == "presales":
+            lines.append("technical sales track")
         lines.append("via %s" % job.get("source", "?"))
         return self._post(
             title[:200],
