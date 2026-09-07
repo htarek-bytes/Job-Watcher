@@ -2,27 +2,6 @@
  "closed": [
   {
    "closed_at": 1788524072,
-   "company": "TD Bank",
-   "hours_open": 55.9,
-   "title": "Associate Software Engineer",
-   "uid": "simplify:listings:4f125643-39a2-45e5-a002-581199b92f79"
-  },
-  {
-   "closed_at": 1788524072,
-   "company": "Solar Turbines",
-   "hours_open": 55.9,
-   "title": "Entry Level Gas Turbine Product Engineer - Gtpe",
-   "uid": "simplify:listings:1f641045-f717-4a41-9a0a-20d4a4e5092b"
-  },
-  {
-   "closed_at": 1788524072,
-   "company": "kbr",
-   "hours_open": 40.7,
-   "title": "Junior Software Engineer",
-   "uid": "workday:kbr.wd5/KBR_Careers:Junior-Software-Engineer_R2122294"
-  },
-  {
-   "closed_at": 1788524072,
    "company": "Peraton",
    "hours_open": 55.9,
    "title": "Junior Software Engineer - Developer - Space Communications Program",
@@ -5599,8 +5578,29 @@
    "hours_open": 96.8,
    "title": "Software Development Engineer, Unified Streaming and Monitoring Service",
    "uid": "amazon:amazon:10520555"
+  },
+  {
+   "closed_at": 1788803768,
+   "company": "twitch",
+   "hours_open": 97.0,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1788803768,
+   "company": "spacex",
+   "hours_open": 97.0,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1788803768,
+   "company": "spacex",
+   "hours_open": 95.3,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
- "count": 806,
- "updated_at": 1788803301
+ "count": 803,
+ "updated_at": 1788803768
 }
