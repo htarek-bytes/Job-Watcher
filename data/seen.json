@@ -1,5 +1,5 @@
 {
- "count": 3743,
+ "count": 3751,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -2576,6 +2576,7 @@
   "simplify:listings:0f7ef636-f438-48a6-a3b4-991287f89e7d": 1788322770,
   "simplify:listings:0f8b69bb-cbbb-4949-b2a7-23aa41726134": 1788322770,
   "simplify:listings:0fefbf48-517f-4009-b5b3-67f2c2eaaf8f": 1788322770,
+  "simplify:listings:10504711-cbfe-426e-b2c7-d85abee618a4": 1788859958,
   "simplify:listings:1130d7d5-191c-4c55-a47a-eb8a44cf5796": 1788322770,
   "simplify:listings:117c2f2b-e16b-44db-b634-e9cb1579b304": 1788322770,
   "simplify:listings:1226965c-9ed7-4d6b-ad60-2a5c8985f78d": 1788563552,
@@ -3144,6 +3145,7 @@
   "smartrecruiters:BoschGroup:744000147379240": 1788488704,
   "smartrecruiters:BoschGroup:744000147458139": 1788512922,
   "smartrecruiters:BoschGroup:744000147750000": 1788750148,
+  "smartrecruiters:BoschGroup:744000148169864": 1788859958,
   "smartrecruiters:DieselLaptops:743999720796574": 1788377927,
   "smartrecruiters:GDMSI:744000142894435": 1788377927,
   "smartrecruiters:GDMSI:744000143097219": 1788377927,
@@ -3184,6 +3186,7 @@
   "smartrecruiters:Sandisk:744000144678879": 1788386269,
   "smartrecruiters:SaxonGlobal:743999658729398": 1788386269,
   "smartrecruiters:ServiceNow:744000147415014": 1788761439,
+  "smartrecruiters:SikaAG:744000148164949": 1788859958,
   "smartrecruiters:Skyward1:744000147320799": 1788516086,
   "smartrecruiters:Skyward1:744000147336520": 1788516086,
   "smartrecruiters:SmarterAgent:743999706496509": 1788386269,
@@ -3476,6 +3479,8 @@
   "workday:cox.wd1/Cox_External_Career_Site_1:Software-Engineering-Intern---Summer-2027--Atlanta--GA-_R202682166": 1788847246,
   "workday:cox.wd1/Cox_External_Career_Site_1:Software-Engineering-Intern---Summer-2027--Austin--TX-_R202682168": 1788848313,
   "workday:cox.wd1/Cox_External_Career_Site_1:Software-Engineering-Intern---Summer-2027--Burlington--VT-_R202682172-1": 1788847246,
+  "workday:cox.wd1/Cox_External_Career_Site_1:Software-Engineering-Intern---Summer-2027--Draper-UT-_R202682169": 1788859958,
+  "workday:cox.wd1/Cox_External_Career_Site_1:Software-Engineering-Intern---Summer-2027--Irvine--CA-_R202682173": 1788859958,
   "workday:cox.wd1/Cox_External_Career_Site_1:Software-Engineering-Intern---Summer-2027--North-Hills--NY-_R202682171-1": 1788557234,
   "workday:crowdstrike.wd5/crowdstrikecareers:Engineer-I--Data-Scientist---New-Grad--Hybrid-_R29382-1": 1788390279,
   "workday:dexcom.wd1/Dexcom:Software-Development-Engineer-1_JR120540": 1788390279,
@@ -3542,6 +3547,7 @@
   "workday:globalhr.wd5/Private_Posting_No_TMP:Technical-Publications-AI-ML-Technical-Developer-Intern--Summer-2027---Onsite-_01866027": 1788442300,
   "workday:globalhr.wd5/rec_rtx_ext_gateway:Ingnieur---Programme-de-rotation-de-nouveaux-gradues-2027---Engineer---New-Graduate-Rotation-Program-2027_01870776-1": 1788377607,
   "workday:globalhr.wd5/rec_rtx_ext_gateway:Junior-Stress-Engineer_01871881": 1788843455,
+  "workday:globalhr.wd5/rec_rtx_ext_gateway:Software-Engineering-Intern--Summer-2027-_01872100": 1788859958,
   "workday:globusmedical.wd5/GMED_Careers:Associate-Software-Engineer_JR106980-1": 1788377607,
   "workday:greenheckgroup.wd5/external:Automation-Engineer-I_JR104420-1": 1788377607,
   "workday:haier.wd3/ge_appliances:Software-Engineering-Co-op-Fall-2027_REQ-26592": 1788442300,
@@ -3585,6 +3591,7 @@
   "workday:manulife.wd3/MFCJH_Jobs:Summer-Intern-2027---Software-Engineering_JR26081680": 1788448251,
   "workday:manulife.wd3/MFCJH_Jobs:Summer-Intern-2027---Software-Engineering_JR26081684": 1788442554,
   "workday:mars.wd3/external:Solution-Engineer_R161845-1": 1788756975,
+  "workday:marvell.wd1/MarvellCareers:AI-Infrastructure-Engineer-Intern_2604499": 1788859958,
   "workday:marvell.wd1/MarvellCareers:Application-Engineer-Intern--MS---Summer-2027_2604509": 1788551622,
   "workday:marvell.wd1/MarvellCareers:Firmware-Engineer-Intern--BS---Summer-2027_2604461": 1788558581,
   "workday:marvell.wd1/MarvellCareers:Firmware-Engineer-Intern--MS---Summer-2027_2604513": 1788558845,
@@ -3597,6 +3604,7 @@
   "workday:medtronic.wd1/redeploymentmedtroniccareers:Software-Engineering-Intern---Summer-2027_R73630": 1788442554,
   "workday:micron.wd1/External:DRAM-Device---Cell-Technology-Engineer_JR102424": 1788393936,
   "workday:micron.wd1/External:Intern---AI-Agentic-Systems-Engineer_JR110474": 1788470575,
+  "workday:micron.wd1/External:Intern---Software-Engineer_JR108550": 1788859958,
   "workday:micron.wd1/External:Intern---Systems-Performance-Engineer_JR109583": 1788410216,
   "workday:micron.wd1/External:Legacy-DRAM-Product-Yield-Enhancement-Engineer_JR110017": 1788393936,
   "workday:micron.wd1/External:New-College-Grad---Design-Engineer--DRAM-Technology-and-Products_JR105519": 1788408852,
@@ -3745,5 +3753,5 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Junior-Algorithm-Engineer_R19377": 1788377927,
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148
  },
- "updated_at": 1788848894
+ "updated_at": 1788859959
 }
