@@ -1,6 +1,55 @@
 {
  "closed": [
   {
+   "closed_at": 1788644779,
+   "company": "relx",
+   "hours_open": 74.2,
+   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - January)",
+   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617-1"
+  },
+  {
+   "closed_at": 1788644779,
+   "company": "relx",
+   "hours_open": 74.2,
+   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - June)",
+   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-2"
+  },
+  {
+   "closed_at": 1788644779,
+   "company": "relx",
+   "hours_open": 74.2,
+   "title": "Tech Accelerate Graduate Program - Software Engineer (Boca Raton - June)",
+   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Boca-Raton---June-_R116023"
+  },
+  {
+   "closed_at": 1788644779,
+   "company": "cadence",
+   "hours_open": 65.5,
+   "title": "Adams MultiBody Dynamics Application Software Developer (Recent Grad 2026)",
+   "uid": "workday:cadence.wd1/University_Talent:Adams-MultiBody-Dynamics-Application-Software-Developer--Recent-Grad-2026-_R55788-3"
+  },
+  {
+   "closed_at": 1788644779,
+   "company": "spacex",
+   "hours_open": 52.5,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1788644779,
+   "company": "cadence",
+   "hours_open": 1.1,
+   "title": "Software Engineer  (new college grad Dec 2026)",
+   "uid": "workday:cadence.wd1/University_Talent_NCG:Software-Engineer---new-college-grad-Dec-2026-_R55738"
+  },
+  {
+   "closed_at": 1788644779,
+   "company": "cadence",
+   "hours_open": 31.6,
+   "title": "Adams MultiBody Dynamics Application Software Developer (Recent Grad 2026)",
+   "uid": "workday:cadence.wd1/University_Talent_NCG:Adams-MultiBody-Dynamics-Application-Software-Developer--Recent-Grad-2026-_R55788-2"
+  },
+  {
    "closed_at": 1788646238,
    "company": "bmo",
    "hours_open": 48.8,
@@ -907,7 +956,7 @@
    "closed_at": 1788712285,
    "company": "bpinternational",
    "hours_open": 76.9,
-   "title": "Summer Internship – Petroleum Engineer - Houston, TX",
+   "title": "Summer Internship \u2013 Petroleum Engineer - Houston, TX",
    "uid": "workday:bpinternational.wd3/bpEarlyCareers:Summer-Intern---Petroleum-Engineer---Houston--TX_RQ114819"
   },
   {
@@ -1684,7 +1733,7 @@
    "closed_at": 1788750148,
    "company": "bluecatnetworks",
    "hours_open": 82.1,
-   "title": "Site Reliability Engineer – AI-first Platform",
+   "title": "Site Reliability Engineer \u2013 AI-first Platform",
    "uid": "lever:bluecatnetworks:09b3ba43-dcfe-4f02-a2d0-be37d65216e4"
   },
   {
@@ -2965,7 +3014,7 @@
    "closed_at": 1788814264,
    "company": "ServiceNow",
    "hours_open": 14.7,
-   "title": "Forward Deployed Solution Engineer – Applied AI FDE",
+   "title": "Forward Deployed Solution Engineer \u2013 Applied\u202fAI FDE",
    "uid": "smartrecruiters:ServiceNow:744000147415014"
   },
   {
@@ -3518,7 +3567,7 @@
    "closed_at": 1788843455,
    "company": "globalhr",
    "hours_open": 111.4,
-   "title": "Technical Publications– Artificial Intelligence/Machine Learning (AI/ML) Technical Developer Intern (Summer 2027) (Onsite)",
+   "title": "Technical Publications\u2013 Artificial Intelligence/Machine Learning (AI/ML) Technical Developer Intern (Summer 2027) (Onsite)",
    "uid": "workday:globalhr.wd5/Private_Posting_No_TMP:Technical-Publications-AI-ML-Technical-Developer-Intern--Summer-2027---Onsite-_01866027"
   },
   {
@@ -3553,7 +3602,7 @@
    "closed_at": 1788843732,
    "company": "globalhr",
    "hours_open": 111.5,
-   "title": "Technical Publications– Artificial Intelligence/Machine Learning (AI/ML) Technical Developer Intern (Summer 2027) (Onsite)",
+   "title": "Technical Publications\u2013 Artificial Intelligence/Machine Learning (AI/ML) Technical Developer Intern (Summer 2027) (Onsite)",
    "uid": "workday:globalhr.wd5/Private_Posting_No_TMP:Technical-Publications-AI-ML-Technical-Developer-Intern--Summer-2027---Onsite-_01866027"
   },
   {
@@ -4561,7 +4610,7 @@
    "closed_at": 1788887337,
    "company": "ramp",
    "hours_open": 91.7,
-   "title": "GTM Business Systems Analyst – Post Sales",
+   "title": "GTM Business Systems Analyst \u2013 Post Sales",
    "uid": "ashby:ramp:196e4e25-c452-430d-8b2f-36a40f88a2ae"
   },
   {
@@ -4589,7 +4638,7 @@
    "closed_at": 1788887337,
    "company": "osedea",
    "hours_open": 120.2,
-   "title": "Développeur·euse logiciel sénior, DevOps et infrastructure",
+   "title": "D\u00e9veloppeur\u00b7euse logiciel s\u00e9nior, DevOps et infrastructure",
    "uid": "lever:osedea:b2145260-1e9b-46e6-a660-340aa395c738"
   },
   {
@@ -4617,7 +4666,7 @@
    "closed_at": 1788887337,
    "company": "SAS KALIOP FRANCE",
    "hours_open": 120.2,
-   "title": "Sénior Cloud & Platform Engineer (H/F)",
+   "title": "S\u00e9nior Cloud & Platform Engineer (H/F)",
    "uid": "recruitee:kaliop:2355120"
   },
   {
@@ -4890,7 +4939,7 @@
    "closed_at": 1788888205,
    "company": "Fed IT",
    "hours_open": 0.2,
-   "title": "Directeur Gouvernance TI & Cybersécurité",
+   "title": "Directeur Gouvernance TI & Cybers\u00e9curit\u00e9",
    "uid": "jobillico:analyste cybersecurite:17379798"
   },
   {
@@ -4946,7 +4995,7 @@
    "closed_at": 1788888205,
    "company": "generac",
    "hours_open": 141.8,
-   "title": "Entry Level Electrical Design Engineer – Switchgear & Generator Control Systems",
+   "title": "Entry Level Electrical Design Engineer \u2013 Switchgear & Generator Control Systems",
    "uid": "workday:generac.wd5/external:Entry-Level-Electrical-Design-Engineer---Switchgear---Generator-Control-Systems_JR15958"
   },
   {
@@ -4967,7 +5016,7 @@
    "closed_at": 1788888205,
    "company": "Nuvei",
    "hours_open": 0.2,
-   "title": "Revenue Operations Analyst / Analyste des opérations de revenus",
+   "title": "Revenue Operations Analyst / Analyste des op\u00e9rations de revenus",
    "uid": "workable:nuvei:9A84E51097"
   },
   {
@@ -5065,7 +5114,7 @@
    "closed_at": 1788888205,
    "company": "Genetec",
    "hours_open": 0.2,
-   "title": "Analyste des opérations / Operations Analyst",
+   "title": "Analyste des op\u00e9rations / Operations Analyst",
    "uid": "workable:genetec-inc:57D7F6631E"
   },
   {
@@ -5510,6 +5559,48 @@
    "uid": "greenhouse:spacex:8569160002"
   },
   {
+   "closed_at": 1788893500,
+   "company": "wachter",
+   "hours_open": 3.7,
+   "title": "Professional Services Junior Engineer",
+   "uid": "lever:wachter:d6e087b3-90b6-447a-9b0d-fbe93f28c8a3"
+  },
+  {
+   "closed_at": 1788893500,
+   "company": "mmc",
+   "hours_open": 12.6,
+   "title": "Junior Python Engineer @MarshTech",
+   "uid": "workday:mmc.wd1/MMC:Junior-Python-Engineer--MarshTech_R_362442-1"
+  },
+  {
+   "closed_at": 1788893500,
+   "company": "allen-control-systems",
+   "hours_open": 119.0,
+   "title": "Systems Reliability Engineer - All Levels  ",
+   "uid": "ashby:allen-control-systems:3075ceee-6a85-4170-9ffc-3e2f11697db7"
+  },
+  {
+   "closed_at": 1788893500,
+   "company": "saronic",
+   "hours_open": 118.8,
+   "title": "Manufacturing Systems Engineer ",
+   "uid": "ashby:saronic:cd6ce7c6-d0f4-4383-b34a-fe3cf4c93132"
+  },
+  {
+   "closed_at": 1788893500,
+   "company": "accenture",
+   "hours_open": 138.8,
+   "title": "Software Engineering New Associate (Fresh Diploma Graduate Program)",
+   "uid": "workday:accenture.wd103/AccentureCareers:Software-Engineering-New-Associate--Fresh-Diploma-Graduate-Program-_R00144534"
+  },
+  {
+   "closed_at": 1788893500,
+   "company": "accenture",
+   "hours_open": 138.8,
+   "title": "Junior .NET Developer - Fresh Graduates",
+   "uid": "workday:accenture.wd103/AccentureCareers:Junior-NET-Developer---Fresh-Graduates_R00332478"
+  },
+  {
    "closed_at": 1788893879,
    "company": "wachter",
    "hours_open": 3.8,
@@ -5600,7 +5691,5 @@
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637814002"
   }
- ],
- "count": 813,
- "updated_at": 1788893880
+ ]
 }
