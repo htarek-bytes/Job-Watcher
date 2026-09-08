@@ -1,48 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1788631853,
-   "company": "kbr",
-   "hours_open": 70.6,
-   "title": "Junior Software Engineer",
-   "uid": "workday:kbr.wd5/kbr_careers:Junior-Software-Engineer_R2122294"
-  },
-  {
-   "closed_at": 1788632872,
-   "company": "bmo",
-   "hours_open": 45.1,
-   "title": "Machine Learning Developer (New or Recent Graduate)",
-   "uid": "workday:bmo.wd3/External:Machine-Learning-Developer--New-or-Recent-Graduate-_R260024265"
-  },
-  {
-   "closed_at": 1788632872,
-   "company": "twitch",
-   "hours_open": 46.6,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1788632872,
-   "company": "spacex",
-   "hours_open": 49.5,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1788633140,
-   "company": "bmo",
-   "hours_open": 45.2,
-   "title": "Machine Learning Developer (New or Recent Graduate)",
-   "uid": "workday:bmo.wd3/External:Machine-Learning-Developer--New-or-Recent-Graduate-_R260024265"
-  },
-  {
-   "closed_at": 1788633140,
-   "company": "relx",
-   "hours_open": 68.6,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - January)",
-   "uid": "workday:relx.wd3/RiskSolutions:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617"
-  },
-  {
    "closed_at": 1788633140,
    "company": "relx",
    "hours_open": 68.6,
@@ -5599,8 +5557,50 @@
    "hours_open": 0.2,
    "title": "Operations Analyst, Mission Engineering, Air Dominance & Strike, Active Clearance",
    "uid": "greenhouse:andurilindustries:4481618007"
+  },
+  {
+   "closed_at": 1788889335,
+   "company": "bmo",
+   "hours_open": 0.3,
+   "title": "AI/Platform Analyst, 8 months (Co-op/Internship) - 8 months",
+   "uid": "workday:bmo.wd3/External:AI-Platform-Analyst--8-months--Co-op-Internship----8-months_R260026129-2"
+  },
+  {
+   "closed_at": 1788889335,
+   "company": "bmo",
+   "hours_open": 0.3,
+   "title": "Wealth Management Development Associate, New Grad (Chicago, IL)",
+   "uid": "workday:bmo.wd3/External:Wealth-Management-Development-Associate--New-Grad--Chicago--IL-_R260026201"
+  },
+  {
+   "closed_at": 1788889335,
+   "company": "twitch",
+   "hours_open": 120.7,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1788889335,
+   "company": "td",
+   "hours_open": 92.3,
+   "title": "Associate Software Engineer",
+   "uid": "workday:td.wd3/TD_Bank_Careers:Associate-Software-Engineer_R_1496579"
+  },
+  {
+   "closed_at": 1788889335,
+   "company": "DLGL TECHNOLOGIES CORPORATION",
+   "hours_open": 36.8,
+   "title": "developer, software",
+   "uid": "jobbank:junior programmer:50191592"
+  },
+  {
+   "closed_at": 1788889335,
+   "company": "vercel",
+   "hours_open": 120.7,
+   "title": "Forward-Deployed Engineer",
+   "uid": "greenhouse:vercel:5778418004"
   }
  ],
- "count": 866,
- "updated_at": 1788888208
+ "count": 806,
+ "updated_at": 1788889337
 }
