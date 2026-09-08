@@ -2,20 +2,6 @@
  "closed": [
   {
    "closed_at": 1788549636,
-   "company": "twitch",
-   "hours_open": 26.4,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1788549636,
-   "company": "accenture",
-   "hours_open": 5.8,
-   "title": "Software Engineer Intern",
-   "uid": "workday:accenture.wd103/AccentureCareers:Software-Engineer-Intern_R00342918-1"
-  },
-  {
-   "closed_at": 1788549636,
    "company": "accenture",
    "hours_open": 43.3,
    "title": "Software Engineering New Associate (Fresh Diploma Graduate Program)",
@@ -5599,8 +5585,22 @@
    "hours_open": 104.5,
    "title": "Security Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1788831114,
+   "company": "twitch",
+   "hours_open": 104.6,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1788831114,
+   "company": "bmo",
+   "hours_open": 106.4,
+   "title": "Machine Learning Developer (New or Recent Graduate)",
+   "uid": "workday:bmo.wd3/Campus:Machine-Learning-Developer--New-or-Recent-Graduate-_R260024265-1"
   }
  ],
- "count": 803,
- "updated_at": 1788830814
+ "count": 802,
+ "updated_at": 1788831114
 }
