@@ -2,27 +2,6 @@
  "closed": [
   {
    "closed_at": 1788541828,
-   "company": "Johns Hopkins Applied Physics Laboratory",
-   "hours_open": 60.8,
-   "title": "Systems Engineer/Analyst New Grad - Multi-Mission Planning Development",
-   "uid": "simplify:listings:8427086c-fb04-4125-a38f-4e9c9fa28dc7"
-  },
-  {
-   "closed_at": 1788541828,
-   "company": "spacex",
-   "hours_open": 24.2,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1788541828,
-   "company": "accenturefederalservices",
-   "hours_open": 24.2,
-   "title": "DevOps Engineer",
-   "uid": "greenhouse:accenturefederalservices:4689022006"
-  },
-  {
-   "closed_at": 1788541828,
    "company": "spacex",
    "hours_open": 24.2,
    "title": "Software Engineer (Starship)",
@@ -5599,8 +5578,29 @@
    "hours_open": 100.0,
    "title": "Security Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1788827157,
+   "company": "twitch",
+   "hours_open": 103.5,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1788827157,
+   "company": "spacex",
+   "hours_open": 103.2,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1788827157,
+   "company": "spacex",
+   "hours_open": 101.8,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
- "count": 806,
- "updated_at": 1788825193
+ "count": 803,
+ "updated_at": 1788827158
 }
