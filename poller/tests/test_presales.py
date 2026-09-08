@@ -67,8 +67,17 @@ class TrackSelection(unittest.TestCase):
         # a software engineering role and happen to also name the team they
         # sit next to; reading them as pre-sales took real engineering jobs
         # out of the software filter.
+        #
+        # "DevOps Solutions Engineer" was in this list and has deliberately
+        # moved to pre-sales. The rule that used to keep it here was a derived
+        # set of every software keyword no other track had claimed, and it was
+        # replaced by three words that name the discipline outright, because
+        # the derived version could not decide "Software Systems Analyst" at
+        # all. On the narrower rule this title carries no software word, and a
+        # DevOps Solutions Engineer at a vendor really is a solutions engineer,
+        # so pre-sales is the better answer as well as the simpler one.
         for title in ("Software Engineer - Solutions Engineering",
-                      "DevOps Solutions Engineer",
+                      "Software Solutions Engineer",
                       "Data Engineer, Solutions"):
             with self.subTest(title=title):
                 self.assertEqual(self.m.track(title), m.SOFTWARE)

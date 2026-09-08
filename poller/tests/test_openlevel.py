@@ -227,7 +227,14 @@ class BroaderRoleWording(unittest.TestCase):
         # Widening the role gate must not widen the level gates. With no years
         # stated and no new grad wording these stay out, except on Canadian
         # boards where open level is allowed.
-        for title in ("Automation Specialist", "Infrastructure Analyst"):
+        #
+        # This used to name "Automation Specialist" and "Infrastructure
+        # Analyst". Both now belong to the infrastructure track, which turns
+        # open level on deliberately, so they are no longer examples of this
+        # rule. The rule itself is unchanged and still worth guarding, so the
+        # test names titles that are still software-track instead.
+        for title in ("Web Development Specialist", "Programmer Analyst",
+                      "Software Development Analyst"):
             with self.subTest(title=title):
                 self.assertFalse(self.m.matches(title), title)
 
