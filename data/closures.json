@@ -2,6 +2,27 @@
  "closed": [
   {
    "closed_at": 1788564877,
+   "company": "relx",
+   "hours_open": 52.0,
+   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - June)",
+   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-2"
+  },
+  {
+   "closed_at": 1788564877,
+   "company": "relx",
+   "hours_open": 52.0,
+   "title": "Tech Accelerate Graduate Program - Software Engineer (Boca Raton - June)",
+   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Boca-Raton---June-_R116023"
+  },
+  {
+   "closed_at": 1788564877,
+   "company": "kbr",
+   "hours_open": 52.0,
+   "title": "Junior Software Engineer",
+   "uid": "workday:kbr.wd5/KBR_Careers:Junior-Software-Engineer_R2122294"
+  },
+  {
+   "closed_at": 1788564877,
    "company": "spacex",
    "hours_open": 30.3,
    "title": "Wireless Software Engineer (Starlink)",
@@ -249,12 +270,12 @@
    "closed_at": 1788586162,
    "company": "mastercard",
    "hours_open": 39.9,
-   "title": "Software Engineer Intern, Summer 2027 – United States",
+   "title": "Software Engineer Intern, Summer 2027 \u2013 United States",
    "uid": "workday:mastercard.wd1/Campus:Software-Engineer-Intern--Summer-2027---United-States_R-287618-1"
   },
   {
    "closed_at": 1788586162,
-   "company": "Ministère des Ressources naturelles et des Forêts - Emplois étudiants et stages",
+   "company": "Minist\u00e8re des Ressources naturelles et des For\u00eats - Emplois \u00e9tudiants et stages",
    "hours_open": 54.4,
    "title": "computer programmer",
    "uid": "jobbank:junior programmer:50029165"
@@ -2468,7 +2489,7 @@
    "closed_at": 1788712285,
    "company": "bpinternational",
    "hours_open": 76.9,
-   "title": "Summer Internship – Petroleum Engineer - Houston, TX",
+   "title": "Summer Internship \u2013 Petroleum Engineer - Houston, TX",
    "uid": "workday:bpinternational.wd3/bpEarlyCareers:Summer-Intern---Petroleum-Engineer---Houston--TX_RQ114819"
   },
   {
@@ -3245,7 +3266,7 @@
    "closed_at": 1788750148,
    "company": "bluecatnetworks",
    "hours_open": 82.1,
-   "title": "Site Reliability Engineer – AI-first Platform",
+   "title": "Site Reliability Engineer \u2013 AI-first Platform",
    "uid": "lever:bluecatnetworks:09b3ba43-dcfe-4f02-a2d0-be37d65216e4"
   },
   {
@@ -4526,7 +4547,7 @@
    "closed_at": 1788814264,
    "company": "ServiceNow",
    "hours_open": 14.7,
-   "title": "Forward Deployed Solution Engineer – Applied AI FDE",
+   "title": "Forward Deployed Solution Engineer \u2013 Applied\u202fAI FDE",
    "uid": "smartrecruiters:ServiceNow:744000147415014"
   },
   {
@@ -5079,7 +5100,7 @@
    "closed_at": 1788843455,
    "company": "globalhr",
    "hours_open": 111.4,
-   "title": "Technical Publications– Artificial Intelligence/Machine Learning (AI/ML) Technical Developer Intern (Summer 2027) (Onsite)",
+   "title": "Technical Publications\u2013 Artificial Intelligence/Machine Learning (AI/ML) Technical Developer Intern (Summer 2027) (Onsite)",
    "uid": "workday:globalhr.wd5/Private_Posting_No_TMP:Technical-Publications-AI-ML-Technical-Developer-Intern--Summer-2027---Onsite-_01866027"
   },
   {
@@ -5114,7 +5135,7 @@
    "closed_at": 1788843732,
    "company": "globalhr",
    "hours_open": 111.5,
-   "title": "Technical Publications– Artificial Intelligence/Machine Learning (AI/ML) Technical Developer Intern (Summer 2027) (Onsite)",
+   "title": "Technical Publications\u2013 Artificial Intelligence/Machine Learning (AI/ML) Technical Developer Intern (Summer 2027) (Onsite)",
    "uid": "workday:globalhr.wd5/Private_Posting_No_TMP:Technical-Publications-AI-ML-Technical-Developer-Intern--Summer-2027---Onsite-_01866027"
   },
   {
@@ -5552,6 +5573,34 @@
    "uid": "simplify:listings:262ac01b-863c-497c-9156-b439c07c4a32"
   },
   {
+   "closed_at": 1788867174,
+   "company": "AECOM",
+   "hours_open": 86.1,
+   "title": "Entry-Level Transportation Engineer",
+   "uid": "smartrecruiters:AECOM2:744000147601439"
+  },
+  {
+   "closed_at": 1788867174,
+   "company": "relx",
+   "hours_open": 135.9,
+   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - January)",
+   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617-1"
+  },
+  {
+   "closed_at": 1788867174,
+   "company": "relx",
+   "hours_open": 135.9,
+   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - June)",
+   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-2"
+  },
+  {
+   "closed_at": 1788867174,
+   "company": "relx",
+   "hours_open": 135.9,
+   "title": "Tech Accelerate Graduate Program - Software Engineer (Boca Raton - June)",
+   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Boca-Raton---June-_R116023"
+  },
+  {
    "closed_at": 1788867449,
    "company": "kayak",
    "hours_open": 114.7,
@@ -5600,7 +5649,5 @@
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
   }
- ],
- "count": 807,
- "updated_at": 1788867449
+ ]
 }
