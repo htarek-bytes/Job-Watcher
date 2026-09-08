@@ -1,90 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1788557234,
-   "company": "spacex",
-   "hours_open": 28.5,
-   "title": "Mission Integration Engineer, User Products (Starshield)",
-   "uid": "greenhouse:spacex:8502375002"
-  },
-  {
-   "closed_at": 1788557908,
-   "company": "td",
-   "hours_open": 0.2,
-   "title": "Associate Software Engineer",
-   "uid": "workday:td.wd3/TD_Bank_Careers:Associate-Software-Engineer_R_1496579"
-  },
-  {
-   "closed_at": 1788557908,
-   "company": "spacex",
-   "hours_open": 28.7,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1788557908,
-   "company": "spacex",
-   "hours_open": 27.0,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1788558581,
-   "company": "gevernova",
-   "hours_open": 0.4,
-   "title": "GE Vernova GridOS  Project Engineer - Co-Op/Intern - January 2027-June 2027",
-   "uid": "workday:gevernova.wd5/vernova_externalsite:GE-Vernova-GridOS--Project-Engineer---Co-Op-Intern---January-2027-June-2027_R5050087-2"
-  },
-  {
-   "closed_at": 1788558581,
-   "company": "gevernova",
-   "hours_open": 2.7,
-   "title": "GE Vernova - Project Engineer Intern - Summer 2027",
-   "uid": "workday:gevernova.wd5/vernova_externalsite:GE-Vernova---Project-Engineer-Intern---Summer-2027_R5050026-2"
-  },
-  {
-   "closed_at": 1788558581,
-   "company": "Applied Materials",
-   "hours_open": 65.5,
-   "title": "Algorithm Developer 1 - New College Grad - Bachelor's",
-   "uid": "simplify:listings:94733f02-5ec2-4620-ba66-c69b0863fd6d"
-  },
-  {
-   "closed_at": 1788558581,
-   "company": "relx",
-   "hours_open": 47.9,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - January)",
-   "uid": "workday:relx.wd3/RiskSolutions:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617"
-  },
-  {
-   "closed_at": 1788558581,
-   "company": "relx",
-   "hours_open": 47.9,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - June)",
-   "uid": "workday:relx.wd3/RiskSolutions:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-1"
-  },
-  {
-   "closed_at": 1788558581,
-   "company": "relx",
-   "hours_open": 47.9,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Boca Raton - June)",
-   "uid": "workday:relx.wd3/RiskSolutions:Tech-Accelerate-Graduate-Program---Software-Engineer--Boca-Raton---June-_R116023-2"
-  },
-  {
-   "closed_at": 1788558581,
-   "company": "botauto",
-   "hours_open": 28.9,
-   "title": "Software Engineer, Autonomous Driving Platforms",
-   "uid": "greenhouse:botauto:5370717008"
-  },
-  {
-   "closed_at": 1788558581,
-   "company": "spacex",
-   "hours_open": 28.9,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
    "closed_at": 1788558581,
    "company": "spacex",
    "hours_open": 28.9,
@@ -5599,8 +5515,92 @@
    "hours_open": 109.1,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1788848313,
+   "company": "hp",
+   "hours_open": 8.4,
+   "title": "Software Product Security Engineer Intern",
+   "uid": "workday:hp.wd5/externalcareersite:Software-Product-Security-Engineer-Intern_UNI4740-1"
+  },
+  {
+   "closed_at": 1788848313,
+   "company": "twitch",
+   "hours_open": 109.3,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1788848313,
+   "company": "bmo",
+   "hours_open": 111.1,
+   "title": "Machine Learning Developer (New or Recent Graduate)",
+   "uid": "workday:bmo.wd3/Campus:Machine-Learning-Developer--New-or-Recent-Graduate-_R260024265-1"
+  },
+  {
+   "closed_at": 1788848313,
+   "company": "DLGL TECHNOLOGIES CORPORATION",
+   "hours_open": 127.2,
+   "title": "developer, software",
+   "uid": "jobbank:developpeur junior:50191592"
+  },
+  {
+   "closed_at": 1788848313,
+   "company": "mmc",
+   "hours_open": 126.2,
+   "title": "Junior Python Engineer @MarshTech",
+   "uid": "workday:mmc.wd1/mmc:Junior-Python-Engineer--MarshTech_R_362442-1"
+  },
+  {
+   "closed_at": 1788848313,
+   "company": "blackrock",
+   "hours_open": 133.4,
+   "title": "Associate, Software Engineer - SMA Solutions",
+   "uid": "workday:blackrock.wd1/BlackRock_Professional:Associate--Software-Engineer---SMA-Solutions_R266216"
+  },
+  {
+   "closed_at": 1788848313,
+   "company": "ucar",
+   "hours_open": 126.2,
+   "title": "CESM Software Engineer I",
+   "uid": "workday:ucar.wd5/UCAR_Careers:CESM-Software-Engineer-I_REQ-2026-117-1"
+  },
+  {
+   "closed_at": 1788848313,
+   "company": "kbr",
+   "hours_open": 130.7,
+   "title": "Junior Software Engineer",
+   "uid": "workday:kbr.wd5/kbr_careers:Junior-Software-Engineer_R2122294"
+  },
+  {
+   "closed_at": 1788848313,
+   "company": "Maison Russet inc",
+   "hours_open": 127.2,
+   "title": "computer programmer",
+   "uid": "jobbank:junior programmer:50000629"
+  },
+  {
+   "closed_at": 1788848313,
+   "company": "spacex",
+   "hours_open": 106.4,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1788848313,
+   "company": "spacex",
+   "hours_open": 109.3,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1788848313,
+   "company": "spacex",
+   "hours_open": 107.7,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
- "count": 822,
- "updated_at": 1788847247
+ "count": 812,
+ "updated_at": 1788848313
 }
