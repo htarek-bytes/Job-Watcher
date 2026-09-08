@@ -1,55 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1788563552,
-   "company": "relx",
-   "hours_open": 49.2,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Boca Raton - June)",
-   "uid": "workday:relx.wd3/RiskSolutions:Tech-Accelerate-Graduate-Program---Software-Engineer--Boca-Raton---June-_R116023-2"
-  },
-  {
-   "closed_at": 1788563552,
-   "company": "twitch",
-   "hours_open": 30.2,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1788564877,
-   "company": "twitch",
-   "hours_open": 27.7,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1788564877,
-   "company": "relx",
-   "hours_open": 52.0,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - January)",
-   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617-1"
-  },
-  {
-   "closed_at": 1788564877,
-   "company": "relx",
-   "hours_open": 52.0,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - June)",
-   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-2"
-  },
-  {
-   "closed_at": 1788564877,
-   "company": "relx",
-   "hours_open": 52.0,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Boca Raton - June)",
-   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Boca-Raton---June-_R116023"
-  },
-  {
-   "closed_at": 1788564877,
-   "company": "kbr",
-   "hours_open": 52.0,
-   "title": "Junior Software Engineer",
-   "uid": "workday:kbr.wd5/KBR_Careers:Junior-Software-Engineer_R2122294"
-  },
-  {
    "closed_at": 1788564877,
    "company": "spacex",
    "hours_open": 30.3,
@@ -5599,8 +5550,57 @@
    "hours_open": 150.9,
    "title": "Software Engineer 1",
    "uid": "simplify:listings:262ac01b-863c-497c-9156-b439c07c4a32"
+  },
+  {
+   "closed_at": 1788867449,
+   "company": "kayak",
+   "hours_open": 114.7,
+   "title": "Associate JAVA Software Engineer",
+   "uid": "ashby:kayak:719de6d8-b245-4323-aba3-435d160c018e"
+  },
+  {
+   "closed_at": 1788867449,
+   "company": "twitch",
+   "hours_open": 111.7,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1788867449,
+   "company": "AECOM",
+   "hours_open": 86.2,
+   "title": "Entry-Level Transportation Engineer",
+   "uid": "smartrecruiters:AECOM2:744000147601439"
+  },
+  {
+   "closed_at": 1788867449,
+   "company": "kbr",
+   "hours_open": 136.0,
+   "title": "Junior Software Engineer",
+   "uid": "workday:kbr.wd5/kbr_careers:Junior-Software-Engineer_R2122294"
+  },
+  {
+   "closed_at": 1788867449,
+   "company": "spacex",
+   "hours_open": 114.7,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1788867449,
+   "company": "spacex",
+   "hours_open": 114.4,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1788867449,
+   "company": "spacex",
+   "hours_open": 114.7,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 818,
- "updated_at": 1788865873
+ "count": 807,
+ "updated_at": 1788867449
 }
