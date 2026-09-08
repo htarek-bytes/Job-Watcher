@@ -1,5 +1,5 @@
 {
- "count": 3736,
+ "count": 3740,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -3473,6 +3473,8 @@
   "workday:clearwateranalytics.wd1/Clearwater_Analytics_Careers:Software-Development-Engineer-I_R12047": 1788390279,
   "workday:clearwateranalytics.wd1/Clearwater_Analytics_Careers:Software-Development-Engineer-I_R12059": 1788460756,
   "workday:cox.wd1/Cox_External_Career_Site_1:Entry-Level-Software-Engineer--Draper--UT-_R202681804": 1788390279,
+  "workday:cox.wd1/Cox_External_Career_Site_1:Software-Engineering-Intern---Summer-2027--Atlanta--GA-_R202682166": 1788847246,
+  "workday:cox.wd1/Cox_External_Career_Site_1:Software-Engineering-Intern---Summer-2027--Burlington--VT-_R202682172-1": 1788847246,
   "workday:cox.wd1/Cox_External_Career_Site_1:Software-Engineering-Intern---Summer-2027--North-Hills--NY-_R202682171-1": 1788557234,
   "workday:crowdstrike.wd5/crowdstrikecareers:Engineer-I--Data-Scientist---New-Grad--Hybrid-_R29382-1": 1788390279,
   "workday:dexcom.wd1/Dexcom:Software-Development-Engineer-1_JR120540": 1788390279,
@@ -3558,6 +3560,8 @@
   "workday:intel.wd1/external:Software-Development-Graduate-Intern_JR0285451-1": 1788472811,
   "workday:intel.wd1/external:Software-Engineering---Intern--Bachelor-s_JR0286834": 1788472811,
   "workday:intel.wd1/external:Software-Engineering---Intern--Graduate_JR0286836": 1788472811,
+  "workday:jabil.wd5/Jabil_Careers:Automation-Design-Engineer---Internship--12-months-_J2462833": 1788847246,
+  "workday:jabil.wd5/Jabil_Careers:Test-Engineer-I_J2454860": 1788847246,
   "workday:jainglobal.wd5/ExternalSite:Junior-Compliance-Developer_JR100329": 1788377607,
   "workday:jci.wd5/JCI:HVAC-Application-Engineer-I_WD30278015": 1788587272,
   "workday:jci.wd5/JCI:HVAC-Controls-Systems-Engineer-1_WD30278990": 1788472811,
@@ -3737,5 +3741,6 @@
   "workday:zebra.wd501/Zebra_careers:XMLNAME-2026-6-months--Internship-Sri-Lanka---Software-Engineering_JR102701": 1788410216,
   "workday:zoll.wd5/ZOLLMedicalCorp:Junior-Algorithm-Engineer_R19377": 1788377927,
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148
- }
+ },
+ "updated_at": 1788847247
 }
