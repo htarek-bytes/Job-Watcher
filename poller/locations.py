@@ -48,15 +48,44 @@ _CA_CITIES = {
     "toronto", "vancouver", "montreal", "montréal", "ottawa", "waterloo",
     "kitchener", "calgary", "edmonton", "winnipeg", "halifax", "quebec",
     "québec", "mississauga", "burnaby", "victoria", "hamilton", "london on",
+    # Beyond the six metros. The infrastructure track looks for utilities,
+    # railways, mining and provincial government work, and those employers are
+    # in Regina, Saskatoon, Sudbury and Fort McMurray far more than in Toronto.
+    # Every name here is one that means only the Canadian place: ambiguous ones
+    # like Windsor, Surrey, Kingston, Milton, Brandon and Dartmouth are left
+    # out on purpose, because they also name a British or American town and the
+    # province code in the same string already tags those correctly.
+    "saskatoon", "regina", "moose jaw", "prince albert", "yorkton",
+    "swift current", "st john's", "st johns", "mount pearl", "corner brook",
+    "moncton", "fredericton", "saint john nb", "charlottetown", "summerside",
+    "whitehorse", "yellowknife", "iqaluit",
+    "sherbrooke", "gatineau", "laval", "longueuil", "levis", "lévis",
+    "trois-rivieres", "trois rivieres", "trois-rivières", "saguenay",
+    "drummondville", "rimouski",
+    "markham", "brampton", "vaughan", "oakville", "burlington on", "guelph",
+    "sudbury", "thunder bay", "barrie", "oshawa", "brantford", "peterborough",
+    "north bay", "sault ste marie", "timmins", "st catharines",
+    "niagara falls", "ajax", "pickering", "newmarket", "whitby on",
+    "kelowna", "kamloops", "nanaimo", "abbotsford", "coquitlam", "langley",
+    "prince george", "chilliwack", "vernon bc", "penticton", "cranbrook",
+    "red deer", "lethbridge", "fort mcmurray", "grande prairie",
+    "medicine hat", "airdrie", "sherwood park", "st albert",
+    "steinbach", "thompson mb",
 }
 
 _CA_PROVINCES = {
     "ontario", "quebec", "québec", "british columbia", "alberta", "manitoba",
     "saskatchewan", "nova scotia", "new brunswick", "newfoundland",
-    "prince edward island",
+    "newfoundland and labrador", "labrador", "prince edward island",
+    # The three territories were missing entirely, so a posting in Whitehorse,
+    # Yellowknife or Iqaluit was tagged UNKNOWN and reached the feed only
+    # because allow_unknown happens to be on. Government, mining and telecom
+    # employers all hire there.
+    "yukon", "northwest territories", "nunavut",
 }
 
-_CA_CODES = {"on", "qc", "bc", "ab", "mb", "sk", "ns", "nb", "nl", "pe"}
+_CA_CODES = {"on", "qc", "bc", "ab", "mb", "sk", "ns", "nb", "nl", "pe",
+             "yt", "nt", "nu"}
 
 _CANADA = re.compile(r"\bcanada\b|\bcanadian\b", re.I)
 _USA = re.compile(r"\bunited states\b|\bu\.?s\.?a?\b|\bamerica\b", re.I)

@@ -25,10 +25,11 @@ import canada
 import discover
 import locations
 import rank
+import salary as salary_mod
 import sources
 import state
 import workauth
-from matcher import Matcher, min_years
+from matcher import OPEN_LEVEL, Matcher, min_years
 from notify import Notifier
 
 CONFIG = os.path.join(os.path.dirname(os.path.abspath(__file__)), "config.toml")
@@ -125,6 +126,7 @@ def sweep(cfg, health, registry, quiet=False, previous=None):
     happened before this argument existed.
     """
     matcher = Matcher(cfg)
+    usd_to_cad = cfg.get("salary", {}).get("usd_to_cad", 1.37)
     jobs = []
     results = []
     now = int(time.time())
@@ -262,6 +264,7 @@ def sweep(cfg, health, registry, quiet=False, previous=None):
                 job.get("title", ""), signal, open_level, years)
             if not matched:
                 continue
+            track = matcher.resolve_track(job.get("title", ""))
             region, evidence = locations.classify(job.get("locations"))
             # Where a remote role will actually hire, read from the location
             # strings and the description together, because a posting can say
@@ -271,6 +274,22 @@ def sweep(cfg, health, registry, quiet=False, previous=None):
                 job.get("locations"), job.get("description", ""))
             if not locations.allowed(region, cfg, scope):
                 continue
+            # A track may hold its OPEN LEVEL tier to certain regions. The
+            # infrastructure track holds it to Canada: an unlabelled "Systems
+            # Analyst" is one of the most common job titles in North America
+            # and would arrive by the thousand from US boards. A role that
+            # earned its place some other way, by saying new grad or stating a
+            # bar of nought to three years, is not held back.
+            #
+            # Measured against every region the posting covers, so a role open
+            # in Toronto and Chicago counts, and so does a worldwide-remote
+            # one, which the scope rule has already established reaches Canada.
+            if kind == OPEN_LEVEL and track.open_level_regions:
+                covers = set(locations.classify_all(job.get("locations")))
+                if scope in (locations.GLOBAL, locations.CA_OK):
+                    covers.add(locations.CA)
+                if not covers.intersection(track.open_level_regions):
+                    continue
 
             status, auth_evidence = workauth.classify(
                 title=job.get("title", ""),
@@ -297,12 +316,27 @@ def sweep(cfg, health, registry, quiet=False, previous=None):
             # "new grad" or "internship". Kept apart rather than blended: the
             # two have different deadlines and different value.
             job["kind"] = kind
-            # "software" or "presales". A different job, not a different level,
-            # so the dashboard filters on it separately and neither track
-            # buries the other. Recomputed from the title rather than returned
-            # by evaluate_full, which would have changed the shape of a return
-            # value read in a dozen places for no gain.
-            job["track"] = matcher.track(job.get("title", ""))
+            # "software", "presales" or "infrastructure". A different job, not
+            # a different level, so the dashboard filters on it separately and
+            # no track buries another. Resolved from the title rather than
+            # returned by evaluate_full, which would have changed the shape of
+            # a return value read in a dozen places for no gain.
+            job["track"] = track.name
+            # Pay, read out of the description before it is dropped below.
+            # Nothing is rejected for it: a missing figure means the posting
+            # did not say, which is most of them, and treating that as a
+            # failure would throw away exactly the roles worth opening.
+            pay = salary_mod.parse(job.get("description", ""), region)
+            if pay:
+                job["salary_min"] = pay["min"]
+                job["salary_max"] = pay["max"]
+                job["salary_currency"] = pay["currency"]
+                # Whether the currency was printed or inferred from the region.
+                # A US board's bare "$95,000" is USD and a Job Bank posting's is
+                # CAD, and the difference decides whether it clears a CAD bar.
+                job["salary_currency_stated"] = pay["currency_stated"]
+                job["salary_period"] = pay["period"]
+                job["salary_min_cad"] = salary_mod.in_cad(pay, usd_to_cad)
             job["location_evidence"] = evidence
             job["match_reason"] = reason
             job["work_auth"] = status

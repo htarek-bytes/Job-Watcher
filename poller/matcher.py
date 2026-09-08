@@ -19,6 +19,7 @@ Two traps this module exists to avoid, both hit by hand first:
 """
 
 import re
+import unicodedata
 
 # Roman and arabic level tokens, mapped to the number they mean. Anything above
 # ENTRY_LEVEL is a more senior req wearing a new grad shaped title.
@@ -37,14 +38,27 @@ _PUNCT = re.compile(r"[^a-z0-9+#/ ]+")
 _SPACE = re.compile(r"\s+")
 
 
+def fold_accents(text):
+    """Strip accents, so French titles match keywords written in plain ASCII.
+
+    Necessary rather than cosmetic. Job Bank and Jobillico are bilingual and a
+    French search returns French titles, so "Analyste de systèmes" and
+    "Développeur" have to reduce to "analyste de systemes" and "developpeur"
+    or they fail the role gate outright. Before this, every French query in
+    the config was spending requests on results the matcher could not read.
+    """
+    return "".join(c for c in unicodedata.normalize("NFKD", text)
+                   if not unicodedata.combining(c))
+
+
 def normalize(title):
-    """Lowercase, drop punctuation, collapse whitespace.
+    """Lowercase, fold accents, drop punctuation, collapse whitespace.
 
     Punctuation goes so that "University Graduate, Software Engineer" and
     "Software Engineer - New Grad" reduce to the same shape. Slashes survive
     for "engineer/developer", + and # survive for "c++" and "c#".
     """
-    text = title.lower()
+    text = fold_accents(title.lower())
     text = _PUNCT.sub(" ", text)
     return _SPACE.sub(" ", text).strip()
 
@@ -110,14 +124,30 @@ JUNIOR = "0 to 3 years"
 # The dashboard filters on it, so neither track buries the other.
 SOFTWARE = "software"
 PRESALES = "presales"
+# Systems administration, systems analysis, infrastructure, networking, IT
+# operations, cloud and platform operations, security operations, OT and
+# SCADA, telecommunications, rail and transportation technology, energy and
+# utilities technology, and public sector IT. One track rather than twelve,
+# because they are one labour market: the same person moves between them, and
+# a dashboard with twelve filters is a dashboard nobody uses.
+INFRASTRUCTURE = "infrastructure"
 
-# Role keywords too generic to decide a track with. Every title in either list
+# Role keywords too generic to decide a track with. Every title on every track
 # contains at least one of these, so they say nothing about which job it is.
-# Anything else in role_keywords does: a title that names a software
-# engineering role IS a software engineering role, whatever else it also says.
-# Measured on the live feed, this is what puts "Software Engineer - Solutions
-# Engineering" and "DevOps Solutions Engineer" back where they belong.
 _GENERIC_ROLE = {"engineer", "developer", "programmer", "sde", "swe"}
+
+# Words that settle the track on their own: a title carrying one of them is a
+# software engineering role whatever else it also says, so "Software Engineer -
+# Solutions Engineering" is not pre-sales and "Software Systems Analyst" is not
+# infrastructure.
+#
+# This started out as a derived set -- every role keyword no other track had
+# claimed -- and that was too clever by half. It could not decide "Software
+# Systems Analyst", because the very keyword it needed to win with was the one
+# handed over, and it made the answer depend on the shape of three lists at
+# once. Three words that name the discipline outright do the same job and can
+# be reasoned about by reading them.
+_SOFTWARE_MARKER = ("software", "developer", "programmer")
 
 # "2+ years of experience", "1-3 years experience", "at least 2 years of
 # relevant experience". Only counted when the word experience is nearby: a
@@ -154,13 +184,73 @@ def min_years(text):
     return min(found) if found else None
 
 
+class Track:
+    """One job family: its own titles, its own exclusions, its own level rules.
+
+    A track is not a level and not a place. It answers "what job is this",
+    where `kind` answers "how junior is it", and keeping the two apart is what
+    lets the dashboard show a systems administrator and a new grad software
+    engineer in the same feed without either burying the other.
+
+    Everything a track does not override is shared: the seniority words, the
+    level suffixes, the internship handling and the four kinds all behave the
+    same on every track.
+    """
+
+    def __init__(self, name, block, base_excludes, default_years):
+        self.name = name
+        self.enabled = bool(block.get("enabled", False))
+        self.role_keywords = [normalize(k) for k in block.get("role_keywords", [])]
+        # Most of these families almost never say "new grad" in the title, so
+        # requiring an early career signal would empty the track. The tier is
+        # labelled, so it stays filterable rather than silently blended in.
+        self.open_level = bool(block.get("open_level", True))
+        self.max_years = int(block.get("max_years_experience", default_years))
+        # Regions the OPEN LEVEL tier is restricted to. Empty means anywhere
+        # the location rules already allow.
+        #
+        # It restricts that tier alone, and the difference was measured rather
+        # than reasoned. Restricting the whole track to Canada would have
+        # dropped 176 roles the board already carried, and 174 of them held a
+        # real early career signal: a new grad title, an internship, or a
+        # stated bar of nought to three years. Those earned their place and
+        # losing them was not what anyone asked for.
+        #
+        # The tier that does need holding back is the permissive one. "Systems
+        # Analyst" with no seniority marker is one of the most common job
+        # titles in North America, and accepting it from every US board would
+        # bury the Canadian roles this track exists to find under thousands of
+        # American ones.
+        self.open_level_regions = [
+            str(r) for r in block.get("open_level_regions", [])]
+        self.label = block.get("label", name)
+
+        # Every shared exclusion still applies except the ones this track's own
+        # titles contain. Worked out from the two lists rather than restated by
+        # hand: "sales engineer" and "solutions engineer" are software-side
+        # exclusions precisely because they are pre-sales roles, and a bare
+        # "consultant" would reject "Solutions Consultant". Dropping only the
+        # words a track's own role names carry cannot over-drop.
+        self.excludes = [
+            k for k in base_excludes
+            if not any(contains_phrase(role, k) for role in self.role_keywords)
+        ] + [normalize(k) for k in block.get("exclude_keywords", [])]
+
+    def claims(self, text):
+        return self.enabled and any(
+            contains_phrase(text, k) for k in self.role_keywords)
+
+
+# Tracks are declared in config as [match.<name>] sub-tables. Order matters
+# only for a title that two of them could claim, which the software-core rule
+# below already settles for the common cases.
+TRACK_ORDER = ("presales", "infrastructure")
+
+
 class Matcher:
     def __init__(self, cfg):
         m = cfg["match"]
         self.role_keywords = [normalize(k) for k in m["role_keywords"]]
-        self.specific_role_keywords = [
-            k for k in self.role_keywords if k not in _GENERIC_ROLE
-        ]
         self.new_grad_phrases = [normalize(k) for k in m["new_grad_phrases"]]
         self.exclude_keywords = [normalize(k) for k in m["exclude_keywords"]]
         self.max_level = m.get("max_level", ENTRY_LEVEL)
@@ -185,50 +275,78 @@ class Matcher:
             if self.include_internships else self.exclude_keywords
         )
 
-        # The technical pre-sales track. Off unless config says otherwise, so
-        # this cannot change the software feed by being merged.
-        pre = m.get("presales") or {}
-        self.presales_enabled = bool(pre.get("enabled", False))
-        self.presales_keywords = [normalize(k) for k in pre.get("role_keywords", [])]
-        # A "Solutions Engineer" almost never says new grad in its title and its
-        # description is where the years live, so without this the track would
-        # hold the handful of roles that happen to say "Associate" and nothing
-        # else. It is a separate switch from the software side's, which stays
-        # Canadian boards only for the reason recorded in config.toml.
-        self.presales_open_level = bool(pre.get("open_level", True))
+        # Every non-software track, in declaration order. Each is off unless
+        # config says otherwise, so adding one cannot change the software feed
+        # by being merged.
+        self.tracks = [
+            Track(name, m.get(name) or {}, self.active_excludes, self.max_years)
+            for name in TRACK_ORDER
+        ]
+        self.by_track = {t.name: t for t in self.tracks}
 
-        # Every exclusion still applies except the ones this track's own titles
-        # contain. Worked out from the two lists rather than restated by hand:
-        # "sales engineer", "solutions engineer" and "customer engineer" are all
-        # software-side exclusions precisely because they are pre-sales roles,
-        # and a bare "consultant" would reject "Solutions Consultant". Dropping
-        # only the words a track's own role names carry cannot over-drop.
-        self.presales_excludes = [
-            k for k in self.active_excludes
-            if not any(contains_phrase(role, k) for role in self.presales_keywords)
-        ] + [normalize(k) for k in pre.get("exclude_keywords", [])]
+        # The software track, expressed the same way so evaluate_full has one
+        # shape to work with rather than a special case.
+        self.software = Track(SOFTWARE, {
+            "enabled": True,
+            "role_keywords": m["role_keywords"],
+            # Unlabelled software roles stay Canadian-boards-only, decided by
+            # the caller, for the reason recorded in config.toml: accepting
+            # them everywhere buries the new grad results under US mid-level
+            # ones. The other tracks are small enough not to have that problem.
+            "open_level": False,
+            "max_years_experience": self.max_years,
+        }, self.active_excludes, self.max_years)
+
+        # The words that settle the track on their own. See _SOFTWARE_MARKER
+        # for why this is a short fixed list and not something derived from
+        # the other tracks' keywords.
+        self.software_core = list(_SOFTWARE_MARKER)
+        # Kept for the tests and for anything reading the older shape.
+        self.specific_role_keywords = self.software_core
+
+    # ---- compatibility shims for the pre-sales-only shape -----------------
+    @property
+    def presales_enabled(self):
+        return self.by_track["presales"].enabled
+
+    @property
+    def presales_keywords(self):
+        return self.by_track["presales"].role_keywords
+
+    @property
+    def presales_excludes(self):
+        return self.by_track["presales"].excludes
+
+    @property
+    def presales_open_level(self):
+        return self.by_track["presales"].open_level
+
+    def track_for(self, text):
+        """The Track object a normalized, year-stripped title belongs to."""
+        if any(contains_phrase(text, k) for k in self.software_core):
+            return self.software
+        for track in self.tracks:
+            if track.claims(text):
+                return track
+        return self.software
 
     def _track(self, text):
-        """Which track a title belongs to. `text` is normalized, year-stripped.
+        """The name of the track a normalized, year-stripped title belongs to.
 
-        Pre-sales is asked first because the two lists overlap by design: the
-        software track excludes "sales engineer", and that exclusion is what
-        the pre-sales track is made of.
+        The tracks overlap by design. "Sales Engineer" is a software-side
+        exclusion precisely because it is a pre-sales role, and "Systems
+        Analyst" sits in the software list only because an earlier widening put
+        it there when there was nowhere else for it to go.
 
-        A specific software keyword still wins, though. "Software Engineer -
-        Solutions Engineering" and "Software Solutions Engineer" are software
-        roles that happen to name the team they sit next to, and reading them
-        as pre-sales would take real engineering jobs out of the software
-        filter. Only a specific keyword counts: bare "engineer" appears in
-        nearly every title on both sides and would collapse the track.
+        An unambiguously software title still wins, so "Software Engineer -
+        Solutions Engineering" and "Software Systems Analyst" stay where they
+        belong. See software_core for how that set is worked out.
         """
-        if self.presales_enabled and any(
-            contains_phrase(text, k) for k in self.presales_keywords
-        ):
-            if any(contains_phrase(text, k) for k in self.specific_role_keywords):
-                return SOFTWARE
-            return PRESALES
-        return SOFTWARE
+        return self.track_for(text).name
+
+    def resolve_track(self, title):
+        """The Track a raw title belongs to. Same decision evaluate_full makes."""
+        return self.track_for(strip_years(normalize(title)))
 
     def track(self, title):
         """The track a raw title belongs to. Same decision `evaluate_full` makes."""
@@ -266,19 +384,17 @@ class Matcher:
         if not text:
             return False, "empty title", None
 
-        track = self._track(text)
-        if track == PRESALES:
-            keywords, excludes = self.presales_keywords, self.presales_excludes
-            if self.presales_open_level:
-                allow_open_level = True
-        else:
-            keywords, excludes = self.role_keywords, self.active_excludes
+        track = self.track_for(text)
+        if track.open_level:
+            allow_open_level = True
+        max_years = track.max_years
 
-        role = next((k for k in keywords if contains_phrase(text, k)), None)
+        role = next((k for k in track.role_keywords if contains_phrase(text, k)),
+                    None)
         if role is None:
             return False, "no role keyword", None
 
-        bad = next((k for k in excludes if contains_phrase(text, k)), None)
+        bad = next((k for k in track.excludes if contains_phrase(text, k)), None)
         if bad is not None:
             return False, "excluded by %r" % bad, None
 
@@ -307,7 +423,7 @@ class Matcher:
             # Weaker evidence than a title, and labelled as such so the reason
             # shown in the dashboard does not read like the other three.
             return True, "matched the early career search %r" % signal, NEW_GRAD
-        if years is not None and years <= self.max_years:
+        if years is not None and years <= max_years:
             # The posting's own requirement, so this is the strongest of the
             # weaker signals. The seniority exclusions have already run on the
             # title, which is what stops a senior req that happens to ask for
@@ -324,8 +440,7 @@ class Matcher:
         if allow_open_level:
             # Weakest of the four, and labelled so. The caller decides where
             # this is allowed; it is not a global loosening.
-            return True, "%s role, no seniority stated" % (
-                "technical sales" if track == PRESALES else "software"), OPEN_LEVEL
+            return True, "%s role, no seniority stated" % track.label, OPEN_LEVEL
 
         return False, "no new grad signal", None
 

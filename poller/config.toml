@@ -231,6 +231,16 @@ exclude_keywords = [
   "composites engineer",
   "supplier quality",
   "continuous improvement",
+  # A professional engineering licence is a multi-year credential, not a
+  # preference, so a posting that requires one is not reachable and never will
+  # be. Shared rather than scoped to the infrastructure track, because the
+  # requirement blocks the role whatever family it sits in, and the titles that
+  # carry it reach the feed through the bare "engineer" keyword.
+  "p eng",
+  "peng",
+  "professional engineer",
+  "licensed engineer",
+  "engineer in training",
 ]
 
 # ---------------------------------------------------------------------------
@@ -249,6 +259,7 @@ exclude_keywords = [
 # ---------------------------------------------------------------------------
 [match.presales]
 enabled = true
+label = "technical sales"
 
 # A pre-sales req almost never says "new grad" in its title, and where it
 # states a bar at all it states it in the description, which the years tier
@@ -358,6 +369,314 @@ exclude_keywords = [
   "founding",
 ]
 
+# ---------------------------------------------------------------------------
+# The infrastructure track: systems administration, systems analysis,
+# infrastructure, networking, IT operations, cloud and platform operations,
+# security operations, OT and SCADA, telecommunications, rail and
+# transportation technology, energy and utilities technology, and public
+# sector IT.
+#
+# One track rather than twelve. They are one labour market: the same person
+# moves between them, the same CS degree and Linux background qualifies for
+# all of them, and a dashboard with twelve filters is a dashboard nobody uses.
+#
+# Three things make this track behave differently from the software one, and
+# all three are deliberate.
+#
+# CANADA ONLY, BUT ONLY WHERE IT HAS TO BE. `open_level_regions` restricts the
+# permissive tier and nothing else. "Systems Analyst" with no seniority marker
+# is one of the most common job titles in North America, and accepting it from
+# every US board would bury the Canadian roles this track exists to find under
+# thousands of American ones.
+#
+# Restricting the WHOLE track was tried first and measured before shipping: it
+# would have dropped 176 roles the board already carried, 174 of which held a
+# real early career signal. A US posting that says new grad, or states a bar of
+# nought to three years, has earned its place and still gets in.
+#
+# NOT GATED ON THE WORD JUNIOR. `open_level` is on, so a title carrying no
+# seniority marker at all is accepted. A Systems Administrator posting almost
+# never says "new grad", and requiring it would empty the track. The level is
+# still recorded, so "level not stated" stays filterable.
+#
+# FOUR YEARS, NOT THREE. A posting saying "2+ years preferred" is reachable
+# with a degree and projects; one saying "5+ years" is not. Four is where that
+# line falls, and it is per-track rather than global so the software side is
+# unchanged.
+# ---------------------------------------------------------------------------
+[match.infrastructure]
+enabled = true
+label = "infrastructure"
+open_level = true
+max_years_experience = 4
+open_level_regions = ["CA"]
+
+# Titles, by the family they come from. Multi-word wherever a single word
+# would be ambiguous: a bare "network" takes Network Marketing, a bare
+# "control" takes Quality Control, and a bare "operations" takes everything.
+#
+# Keywords listed here are TAKEN from the software track: a title matching one
+# of these stops being a software match and becomes an infrastructure one.
+# That is how "Systems Analyst" and "Infrastructure Analyst" move to where they
+# belong. Titles naming an unambiguously software role are unaffected, so
+# "Software Systems Analyst" stays on the software track.
+#
+# Deliberately NOT taken: "platform engineer", "devops", "sre", "site
+# reliability", "security engineer" and "data engineer". Those are software
+# engineering jobs at a technology company and moving them would empty them out
+# of the software filter, which is not what was asked for. Their operations
+# cousins are listed instead: "devops analyst", "sre analyst" and so on.
+role_keywords = [
+  # 1. Systems administration
+  "systems administrator",
+  "system administrator",
+  "systems administration",
+  "sysadmin",
+  "systems specialist",
+  "system specialist",
+  "systems support",
+  "systems operations",
+  "systems engineer",
+  "infrastructure administrator",
+  "server administrator",
+  "linux administrator",
+  "windows administrator",
+  "database administrator",
+
+  # 2. Systems analysis
+  "systems analyst",
+  "system analyst",
+  "information systems",
+  "business systems",
+  "systems integration",
+  "technology analyst",
+  "technical analyst",
+  "applications analyst",
+  "application analyst",
+
+  # 3. Infrastructure
+  "infrastructure analyst",
+  "infrastructure specialist",
+  "infrastructure engineer",
+  "infrastructure operations",
+  "infrastructure support",
+  "infrastructure technician",
+  "platform operations",
+  "platform specialist",
+  "platform analyst",
+  "it operations",
+  "technology operations",
+  "technical operations",
+
+  # 4. Networking
+  "network analyst",
+  "network administrator",
+  "network specialist",
+  "network engineer",
+  "network operations",
+  "network infrastructure",
+  "network technician",
+  "network support",
+  "noc analyst",
+  "noc technician",
+  "noc engineer",
+  "routing and switching",
+
+  # 5. IT operations and production support
+  "production support",
+  "application support",
+  "operations analyst",
+  "it analyst",
+  "it specialist",
+  "it technician",
+  "it support analyst",
+  "service desk analyst",
+
+  # 6. Cloud, platform and DevOps-adjacent operations
+  "cloud operations",
+  "cloud administrator",
+  "cloud analyst",
+  "cloud specialist",
+  "cloud support",
+  "cloud infrastructure",
+  "devops analyst",
+  "devops specialist",
+  "sre analyst",
+  "reliability analyst",
+  "automation specialist",
+  "automation analyst",
+  "automation technician",
+  "systems automation",
+  "monitoring analyst",
+  "observability analyst",
+
+  # 7. Security operations
+  "security analyst",
+  "security operations",
+  "security specialist",
+  "security administrator",
+  "soc analyst",
+  "cybersecurity analyst",
+  "cyber security analyst",
+  "cybersecurity specialist",
+  "cyber security specialist",
+  "cybersecurity operations",
+  "information security",
+  "infosec analyst",
+  "security technician",
+
+  # 8. OT, SCADA and industrial technology
+  "ot analyst",
+  "ot specialist",
+  "ot support",
+  "ot cybersecurity",
+  "ot security",
+  "operational technology",
+  "scada",
+  "ics security",
+  "industrial network",
+  "industrial systems",
+  "industrial technology",
+  "industrial automation",
+  "industrial cybersecurity",
+  "industrial communications",
+  "industrial control",
+  "control systems analyst",
+  "control systems specialist",
+  "control systems technician",
+  "automation systems",
+  "telemetry",
+  "instrumentation and control",
+  "process control",
+  "field systems",
+
+  # 9. Telecommunications
+  "telecommunications analyst",
+  "telecommunications specialist",
+  "telecommunications technician",
+  "telecommunications systems",
+  "telecom analyst",
+  "telecom specialist",
+  "telecom systems",
+  "communications systems",
+  "communications specialist",
+  "communications technician",
+  "wireless network",
+  "wireless specialist",
+  "fibre network",
+  "fiber network",
+  "radio communications",
+  "radio systems",
+  "satellite systems",
+
+  # 10. Rail and transportation technology
+  "rail systems",
+  "railway systems",
+  "railway communications",
+  "railway signal",
+  "rail technology",
+  "rail infrastructure",
+  "signalling systems",
+  "signaling systems",
+  "signal systems",
+  "train control",
+  "transportation systems",
+  "transportation technology",
+  "transit systems",
+  "traffic systems",
+  "avionics systems",
+  "airport systems",
+
+  # 11. French. Job Bank and Jobillico are bilingual and a French search
+  # returns French titles, so without these the Quebec and federal bilingual
+  # queries spend requests on results the role gate cannot read. Written
+  # without accents because normalize() folds them, so "Analyste de systemes"
+  # here matches "Analyste de systèmes" on the page.
+  "administrateur de systemes",
+  "administrateur systeme",
+  "administrateur de reseau",
+  "administrateur reseau",
+  "analyste de systemes",
+  "analyste systeme",
+  "analyste informatique",
+  "analyste reseau",
+  "analyste de reseau",
+  "analyste en informatique",
+  "specialiste en informatique",
+  "specialiste infrastructure",
+  "specialiste en infrastructure",
+  "specialiste reseau",
+  "specialiste des reseaux",
+  "technicien informatique",
+  "technicien en informatique",
+  "technicien reseau",
+  "cybersecurite",
+  "securite informatique",
+  "infonuagique",
+  "soutien informatique",
+  "exploitation informatique",
+  "telecommunication",
+  "telecommunications",
+]
+
+# On top of every shared exclusion. Seniority, management and the level
+# suffixes are shared and are not repeated here.
+#
+# Two families to keep out. The first is the low-end IT job that carries the
+# right words and none of the substance: help desk, desktop support, computer
+# repair. Those are technically "systems" work and they are capped well under
+# the $80,000 target. The second is the field trade, where the technology is
+# incidental to physical labour: a Telecommunications Technician climbing
+# poles is not the same job as one running a network.
+#
+# Also out: roles requiring a licence or a credential that cannot reasonably be
+# acquired, and the pure business analyst, which carries "business systems" in
+# its title while the work is requirements documents.
+exclude_keywords = [
+  "help desk",
+  "helpdesk",
+  "service desk technician",
+  "desktop support",
+  "deskside",
+  "desk side",
+  "computer repair",
+  "pc technician",
+  "pc support",
+  "hardware technician",
+  "field technician",
+  "field service technician",
+  "cable technician",
+  "installation technician",
+  "installer",
+  "lineman",
+  "linesman",
+  "line technician",
+  "tower technician",
+  "splicer",
+  "electrician",
+  "millwright",
+  "machinist",
+  "welder",
+  "operator trainee",
+  "call center",
+  "call centre",
+  "data entry",
+  "business analyst",
+  "project manager",
+  "product manager",
+  "program manager",
+  "scrum master",
+  "account manager",
+  "sales",
+  # Non-software engineering disciplines that carry "systems" or "control".
+  "mechanical",
+  "electrical engineer",
+  "power systems engineer",
+  "protection and control",
+  "hvac",
+  "building automation",
+]
+
 [locations]
 # US + Canada + Remote, other countries dropped.
 countries = ["US", "CA"]
@@ -374,6 +693,24 @@ allow_unknown = true  # keep postings with no parseable location, and tag them
 # US-only role as Canada-open costs an application, which is the expensive
 # mistake here.
 allow_global_remote = true
+
+[salary]
+# Pay is read out of the description, because no ATS returns it as a field.
+# Only the sources that return a description can supply it at all: Greenhouse,
+# Lever, Ashby, Workable and Recruitee do; Workday, SmartRecruiters, BambooHR,
+# Rippling, Job Bank and the aggregator do not. So coverage is partial by
+# construction, and a missing figure means "did not say", never "pays badly".
+#
+# Nothing is ever REJECTED for its pay. The target is recorded on each role and
+# the dashboard filters on it, which keeps the judgement where it belongs: a
+# posting with no figure is exactly the one worth opening.
+target_cad = 80000
+
+# USD to CAD, used only to compare a US figure against the target above, never
+# shown as a converted salary. It lives here rather than in the code because it
+# goes stale, and a number buried in a module goes stale silently. At this rate
+# the $80,000 CAD target is about $58,400 USD.
+usd_to_cad = 1.37
 
 [notify]
 priority = "urgent"
@@ -491,6 +828,45 @@ queries = [
   "new graduate software developer",
   "developpeur junior",
   "programmeur junior",
+  # The infrastructure track's queries, and the single most important change
+  # for it. The ~1200 ATS boards are American technology companies; the
+  # employers this track is aimed at -- the Government of Canada, provincial
+  # governments, CN and CP, Hydro-Quebec and BC Hydro, Enbridge, Suncor,
+  # Teck, the universities, the health authorities, the airports -- are on
+  # none of them. They are on Job Bank, because every one of them posts here
+  # and many are required to.
+  #
+  # These carry no early career words on purpose, unlike the software queries
+  # above. The whole point of this track is that the candidate should not be
+  # filed as junior, and Job Bank roles arrive with no description, so they
+  # land in the "level not stated" tier and stay filterable there.
+  #
+  # Cost: one request per query per sweep. This roughly quadruples Job Bank's
+  # share of the sweep, which is affordable against a federal site built for
+  # public volume, and it is the only place these employers can be found.
+  "systems administrator",
+  "systems analyst",
+  "network administrator",
+  "network analyst",
+  "infrastructure analyst",
+  "it operations analyst",
+  "information systems analyst",
+  "cybersecurity analyst",
+  "information security analyst",
+  "scada",
+  "operational technology",
+  "control systems analyst",
+  "telecommunications analyst",
+  "cloud administrator",
+  "linux administrator",
+  "rail systems",
+  # French, for the Quebec and federal bilingual postings that never appear in
+  # an English search.
+  "administrateur de systemes",
+  "analyste de systemes",
+  "analyste reseau",
+  "analyste en cybersecurite",
+  "specialiste infrastructure",
 ]
 
 [sources.jobillico]
@@ -507,6 +883,15 @@ queries = [
   "programmeur junior",
   "software developer",
   "junior developer",
+  # The infrastructure track, in French. Jobillico is where the Quebec
+  # employers this track wants are: Hydro-Quebec, Bell, CN, the CIUSSS health
+  # networks, Cascades, and the provincial ministries.
+  "administrateur systeme",
+  "analyste de systemes",
+  "analyste reseau",
+  "specialiste infrastructure",
+  "analyste cybersecurite",
+  "technicien informatique",
 ]
 
 [sources.talentegg]

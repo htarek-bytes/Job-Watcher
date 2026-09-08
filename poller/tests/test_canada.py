@@ -469,16 +469,39 @@ class TestSourceSuppliedSignal(unittest.TestCase):
         self.assertNotIn(canada.JOBBANK, canada.EARLY_CAREER_SOURCES)
         self.assertNotIn(canada.JOBILLICO, canada.EARLY_CAREER_SOURCES)
 
-    def test_every_jobbank_query_in_config_carries_a_signal(self):
-        # A query without one contributes nothing but requests, because no NOC
-        # title will ever clear the gate on its own.
+    def test_every_jobbank_query_in_config_can_produce_a_match(self):
+        """A query that cannot possibly match spends requests and returns
+        nothing, so every one has to clear the gate by one route or another.
+
+        There are now two routes, and this test used to know only the first.
+
+        It used to assert that every query carries an early career phrase, on
+        the reasoning that no NOC title clears the gate on its own. That was
+        true when new grad was the only tier. It is not true now: Job Bank is
+        a Canadian source, so the open level tier applies to it, and the
+        infrastructure track turns that tier on outright. "systems
+        administrator" carries no early career word and matches perfectly
+        well.
+
+        So the invariant is the weaker, truer one: a query must either carry
+        an early career signal, or name a role the matcher would accept with
+        no seniority stated. Anything else is a wasted request.
+        """
         import os
         import tomllib
         here = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
         with open(os.path.join(here, "config.toml"), "rb") as fh:
             cfg = tomllib.load(fh)
         for query in cfg["sources"]["jobbank"]["queries"]:
-            self.assertIsNotNone(self.m.early_career_query(query), query)
+            with self.subTest(query=query):
+                signal = self.m.early_career_query(query)
+                reachable = self.m.evaluate_full(
+                    query, None, allow_open_level=True)[0]
+                self.assertTrue(
+                    signal is not None or reachable,
+                    "%r carries no early career signal and names no role the "
+                    "matcher accepts, so it can only ever return nothing"
+                    % query)
 
 
 class TestRotation(unittest.TestCase):
