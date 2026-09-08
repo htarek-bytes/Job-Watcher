@@ -221,6 +221,7 @@ exclude_keywords = [
   # arriving through the bare "engineer" keyword. Two word phrases, so the
   # software variants survive: "avionics engineer" is excluded while "Avionics
   # Software Engineer" is not, because the two words are not adjacent there.
+  "electrical design",
   "materials engineer",
   "propulsion engineer",
   "avionics engineer",
@@ -236,6 +237,21 @@ exclude_keywords = [
   # be. Shared rather than scoped to the infrastructure track, because the
   # requirement blocks the role whatever family it sits in, and the titles that
   # carry it reach the feed through the bare "engineer" keyword.
+  # Seniority in French. Job Bank and Jobillico are bilingual, so the English
+  # list above was only doing half its job: "Directeur Gouvernance TI &
+  # Cybersecurite" walked straight through it into the feed. Accents are folded
+  # before matching, so these are written plain.
+  "directeur",
+  "directrice",
+  "chef",
+  "gestionnaire",
+  "architecte",
+  "principale",
+  # C-level, which the English list also missed: "Chief Information Security
+  # Officer" reached the feed through "information security". Only "chief" is
+  # excluded, never "officer": that is a mid-level classification right across
+  # the Canadian public service, and this track exists to find those.
+  "chief",
   "p eng",
   "peng",
   "professional engineer",
@@ -485,12 +501,24 @@ role_keywords = [
   # 5. IT operations and production support
   "production support",
   "application support",
-  "operations analyst",
+  # A bare "operations analyst" was here and was removed on the first audit of
+  # the track: 37 rows rested on it alone and they were Loss Prevention,
+  # Marketing Operations and Procurement Operations. It was redundant as well
+  # as wrong, because every qualified form it was meant to catch is already
+  # listed above: it, technology, technical, systems, network, infrastructure,
+  # cloud and security operations.
   "it analyst",
   "it specialist",
   "it technician",
   "it support analyst",
   "service desk analyst",
+  # Public service wording. "Officer" is a mid-level classification across the
+  # Canadian federal and provincial governments, and "Computer Systems" is the
+  # old CS group the federal IT classification grew out of, so these titles are
+  # common at exactly the employers this track is aimed at.
+  "information technology officer",
+  "systems officer",
+  "computer systems",
 
   # 6. Cloud, platform and DevOps-adjacent operations
   "cloud operations",
@@ -503,6 +531,7 @@ role_keywords = [
   "devops specialist",
   "sre analyst",
   "reliability analyst",
+  "reliability operations",
   "automation specialist",
   "automation analyst",
   "automation technician",
@@ -662,6 +691,15 @@ exclude_keywords = [
   "call centre",
   "data entry",
   "business analyst",
+  # An internal HR, recruiting or procurement system is a system, and the
+  # person who administers it is not doing this job. From the audit:
+  # "People Systems Analyst", "Recruiting Systems Specialist".
+  "people systems",
+  "hr systems",
+  "recruiting",
+  "talent acquisition",
+  "loss prevention",
+  "procurement",
   "project manager",
   "product manager",
   "program manager",

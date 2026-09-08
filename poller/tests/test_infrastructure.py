@@ -168,6 +168,61 @@ class KeptOut(unittest.TestCase):
                 self.assertFalse(self.m.evaluate_full(
                     title, None, True, 1)[0], title)
 
+    def test_the_audited_noise_is_excluded(self):
+        """Real titles from the first audit of the live track, 441 rows.
+
+        37 of them rested on a bare "operations analyst" alone, and that
+        keyword was redundant as well as wrong: every qualified form it was
+        meant to catch was already listed. An internal HR or recruiting system
+        is a system, and administering it is not this job.
+        """
+        for title in ("Loss Prevention & Operations Analyst",
+                      "Marketing Operations Analyst (RevOps)",
+                      "Procurement Operations Analyst",
+                      "Revenue Operations Analyst",
+                      "Business Operations Analyst",
+                      "Trading Operations Analyst",
+                      "HR Operations Analyst",
+                      "People Systems Analyst",
+                      "Recruiting Systems Specialist",
+                      "Electrical Design Engineer New Grad"):
+            with self.subTest(title=title):
+                self.assertFalse(self.m.evaluate_full(
+                    title, None, True, 1)[0], title)
+
+    def test_the_qualified_operations_wordings_still_match(self):
+        # Dropping the bare keyword must not drop the real ones with it.
+        for title in ("IT Operations Analyst", "Network Operations Analyst",
+                      "Security Operations Analyst",
+                      "Infrastructure Operations Analyst",
+                      "Cloud Operations Analyst",
+                      "Site Reliability Operations Analyst"):
+            with self.subTest(title=title):
+                self.assertTrue(self.m.evaluate_full(title)[0], title)
+
+    def test_seniority_in_french_is_excluded_too(self):
+        # Job Bank and Jobillico are bilingual, so an English-only seniority
+        # list was doing half its job: this one walked straight into the feed.
+        for title in ("Directeur Gouvernance TI & Cybersécurité",
+                      "Gestionnaire, Infrastructure technologique",
+                      "Chef d'équipe, Administrateur de systèmes",
+                      "Architecte de systèmes",
+                      "Développeur logiciel sénior, DevOps"):
+            with self.subTest(title=title):
+                self.assertFalse(self.m.evaluate_full(
+                    title, None, True, 1)[0], title)
+
+    def test_the_c_level_is_excluded_but_officer_is_not(self):
+        # "Officer" is a mid-level classification right across the Canadian
+        # public service, and this track exists to find those roles, so only
+        # "chief" is excluded.
+        self.assertFalse(self.m.evaluate_full(
+            "Chief Information Security Officer (CISO)", None, True, 1)[0])
+        for title in ("Information Technology Officer", "Systems Officer",
+                      "Computer Systems Analyst"):
+            with self.subTest(title=title):
+                self.assertTrue(self.m.evaluate_full(title)[0], title)
+
     def test_a_role_needing_a_licence_is_excluded(self):
         # A professional engineering licence is a multi-year credential, not a
         # preference, so the posting is not reachable.
