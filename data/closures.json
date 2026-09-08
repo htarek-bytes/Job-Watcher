@@ -1,27 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1788548796,
-   "company": "spacex",
-   "hours_open": 24.5,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1788548796,
-   "company": "Amazon",
-   "hours_open": 26.2,
-   "title": "Software Development Engineer, GNC Software, Amazon Leo",
-   "uid": "amazon:amazon:10515667"
-  },
-  {
-   "closed_at": 1788549636,
-   "company": "gevernova",
-   "hours_open": 0.2,
-   "title": "GE Vernova - Project Engineer Intern - Summer 2027",
-   "uid": "workday:gevernova.wd5/vernova_externalsite:GE-Vernova---Project-Engineer-Intern---Summer-2027_R5050026-2"
-  },
-  {
    "closed_at": 1788549636,
    "company": "twitch",
    "hours_open": 26.4,
@@ -5599,8 +5578,29 @@
    "hours_open": 104.2,
    "title": "Software Engineer (Components)",
    "uid": "greenhouse:spacex:8557032002"
+  },
+  {
+   "closed_at": 1788830814,
+   "company": "twitch",
+   "hours_open": 101.5,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1788830814,
+   "company": "kbr",
+   "hours_open": 125.8,
+   "title": "Junior Software Engineer",
+   "uid": "workday:kbr.wd5/kbr_careers:Junior-Software-Engineer_R2122294"
+  },
+  {
+   "closed_at": 1788830814,
+   "company": "spacex",
+   "hours_open": 104.5,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
   }
  ],
- "count": 816,
- "updated_at": 1788829948
+ "count": 803,
+ "updated_at": 1788830814
 }
