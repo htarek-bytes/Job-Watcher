@@ -2,41 +2,6 @@
  "closed": [
   {
    "closed_at": 1788808292,
-   "company": "bmo",
-   "hours_open": 14.3,
-   "title": "Junior Software Developer, Winter 2027 (Co-op/Internship) - 4 Months",
-   "uid": "workday:bmo.wd3/Campus:Junior-Software-Developer--Winter-2027--Co-op-Internship----4-Months_R260024650-2"
-  },
-  {
-   "closed_at": 1788808292,
-   "company": "bmo",
-   "hours_open": 14.3,
-   "title": "Software Developer, Winter 2027 (Co-op/Internship) - 12 Months",
-   "uid": "workday:bmo.wd3/Campus:Software-Developer--Winter-2027--Co-op-Internship----12-Months_R260024678-2"
-  },
-  {
-   "closed_at": 1788808292,
-   "company": "bmo",
-   "hours_open": 14.3,
-   "title": "Software Developer, Winter 2027 (Co-op/Internship) - 4 Months",
-   "uid": "workday:bmo.wd3/Campus:Software-Developer--Winter-2027--Co-op-Internship----4-Months_R260024638-1"
-  },
-  {
-   "closed_at": 1788808292,
-   "company": "bmo",
-   "hours_open": 14.3,
-   "title": "Software Developer, Winter 2027 (Co-op/Internship) - 8 Months",
-   "uid": "workday:bmo.wd3/Campus:Software-Developer--Winter-2027--Co-op-Internship----8-Months_R260024640"
-  },
-  {
-   "closed_at": 1788808292,
-   "company": "twitch",
-   "hours_open": 95.3,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1788808292,
    "company": "gevernova",
    "hours_open": 69.7,
    "title": "GE Vernova GridOS  Project Engineer - Co-Op/Intern - January 2027-June 2027",
@@ -5599,8 +5564,43 @@
    "hours_open": 148.0,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1788989021,
+   "company": "twitch",
+   "hours_open": 148.4,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1788989021,
+   "company": "Miratech",
+   "hours_open": 19.6,
+   "title": "information systems analyst - computer systems",
+   "uid": "jobbank:analyste de systemes:49969689"
+  },
+  {
+   "closed_at": 1788989021,
+   "company": "spacex",
+   "hours_open": 145.5,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1788989021,
+   "company": "revel",
+   "hours_open": 173.5,
+   "title": "Embedded Software Engineer (Entry-Junior) ",
+   "uid": "ashby:revel:444b5704-3840-4b0a-ba34-f82eab8c430f"
+  },
+  {
+   "closed_at": 1788989021,
+   "company": "spacex",
+   "hours_open": 148.4,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 806,
- "updated_at": 1788988462
+ "count": 805,
+ "updated_at": 1788989022
 }
