@@ -2,83 +2,6 @@
  "closed": [
   {
    "closed_at": 1788750148,
-   "company": "tenstorrent",
-   "hours_open": 82.1,
-   "title": "AI/ML Physical Design Flow Engineer",
-   "uid": "greenhouse:tenstorrent:5098932007"
-  },
-  {
-   "closed_at": 1788750148,
-   "company": "skip",
-   "hours_open": 82.1,
-   "title": "Backend Engineer",
-   "uid": "ashby:skip:3235ed07-aa22-4309-a949-ca2504e95e8d"
-  },
-  {
-   "closed_at": 1788750148,
-   "company": "waabi",
-   "hours_open": 82.1,
-   "title": "Vehicle Reliability Engineer",
-   "uid": "lever:waabi:4889104b-bb12-4fd7-a332-843fbb45f0a4"
-  },
-  {
-   "closed_at": 1788750148,
-   "company": "tenstorrent",
-   "hours_open": 82.1,
-   "title": "PCB Layout Engineer",
-   "uid": "greenhouse:tenstorrent:5089673007"
-  },
-  {
-   "closed_at": 1788750148,
-   "company": "skip",
-   "hours_open": 82.1,
-   "title": "Software Engineer, Test",
-   "uid": "ashby:skip:f825dad4-c9b5-4b8a-81c7-dc1c81056be6"
-  },
-  {
-   "closed_at": 1788750148,
-   "company": "skip",
-   "hours_open": 82.1,
-   "title": "Motor Control Firmware Engineer",
-   "uid": "ashby:skip:604a6231-7120-4659-8766-e22a21a0304d"
-  },
-  {
-   "closed_at": 1788750148,
-   "company": "skip",
-   "hours_open": 82.1,
-   "title": "Firmware Engineer",
-   "uid": "ashby:skip:2741947b-a93d-4329-82a0-65d95ec315cb"
-  },
-  {
-   "closed_at": 1788750148,
-   "company": "tenstorrent",
-   "hours_open": 82.1,
-   "title": "Chiplet Physical Design Engineer ",
-   "uid": "greenhouse:tenstorrent:5045929007"
-  },
-  {
-   "closed_at": 1788750148,
-   "company": "tenstorrent",
-   "hours_open": 82.1,
-   "title": "Physical Design Engineer - STA",
-   "uid": "greenhouse:tenstorrent:4780846007"
-  },
-  {
-   "closed_at": 1788750148,
-   "company": "maple",
-   "hours_open": 82.1,
-   "title": "Full Stack Engineer",
-   "uid": "ashby:maple:a8c2ae7d-25d6-4b68-baf1-e58d02f3f069"
-  },
-  {
-   "closed_at": 1788750148,
-   "company": "maple",
-   "hours_open": 82.1,
-   "title": "Design Engineer",
-   "uid": "ashby:maple:b31b8cc5-9ddd-4c46-a5b8-be1c8589711e"
-  },
-  {
-   "closed_at": 1788750148,
    "company": "accenture",
    "hours_open": 99.0,
    "title": "Software Engineering New Associate (Fresh Diploma Graduate Program)",
@@ -5599,8 +5522,85 @@
    "hours_open": 150.6,
    "title": "Junior .NET Developer - Fresh Graduates",
    "uid": "workday:accenture.wd103/AccentureCareers:Junior-NET-Developer---Fresh-Graduates_R00332478"
+  },
+  {
+   "closed_at": 1788947734,
+   "company": "globalhr",
+   "hours_open": 11.1,
+   "title": "2027 Summer/Fall Co-Op - Systems Engineer - AVI MIL FMS/DAS (Onsite)",
+   "uid": "workday:globalhr.wd5/rec_rtx_ext_gateway:XMLNAME-2027-Summer-Fall-Co-Op---Systems-Engineer---AVI-MIL-FMS-DAS--Onsite-_01872240"
+  },
+  {
+   "closed_at": 1788947734,
+   "company": "globalhr",
+   "hours_open": 12.4,
+   "title": "Software Engineering Co-op (Fall/Spring 2027)",
+   "uid": "workday:globalhr.wd5/rec_rtx_ext_gateway:Software-Engineering-Co-op--Fall-Spring-2027-_01872683"
+  },
+  {
+   "closed_at": 1788947734,
+   "company": "Micromart",
+   "hours_open": 11.1,
+   "title": "front-end developer",
+   "uid": "jobbank:developpeur junior:50245647"
+  },
+  {
+   "closed_at": 1788947734,
+   "company": "Control Gap Inc.",
+   "hours_open": 10.2,
+   "title": "full stack developer",
+   "uid": "jobbank:developpeur junior:50245660"
+  },
+  {
+   "closed_at": 1788947734,
+   "company": "lyft",
+   "hours_open": 137.0,
+   "title": "Business Systems Engineer",
+   "uid": "greenhouse:lyft:8772602002"
+  },
+  {
+   "closed_at": 1788947734,
+   "company": "lyft",
+   "hours_open": 137.0,
+   "title": "Software Engineer",
+   "uid": "greenhouse:lyft:8772594002"
+  },
+  {
+   "closed_at": 1788947734,
+   "company": "Aarorn Technologies Inc.",
+   "hours_open": 3.4,
+   "title": "information systems analyst - computer systems",
+   "uid": "jobbank:systems analyst:50163724"
+  },
+  {
+   "closed_at": 1788947734,
+   "company": "globalhr",
+   "hours_open": 24.5,
+   "title": "Software Engineering Intern (Summer 2027)",
+   "uid": "workday:globalhr.wd5/rec_rtx_ext_gateway:Software-Engineering-Intern--Summer-2027-_01872100"
+  },
+  {
+   "closed_at": 1788947734,
+   "company": "datadog",
+   "hours_open": 54.9,
+   "title": "Sales Engineer (Customer Success)",
+   "uid": "greenhouse:datadog:8045678"
+  },
+  {
+   "closed_at": 1788947734,
+   "company": "Source Code",
+   "hours_open": 16.8,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:systems analyst:50213365"
+  },
+  {
+   "closed_at": 1788947734,
+   "company": "NVIDIA",
+   "hours_open": 173.6,
+   "title": "GPU Architecture Engineer New Grad",
+   "uid": "simplify:listings:935d5e2a-2962-45cf-b6cc-08183fc2b835"
   }
  ],
- "count": 800,
- "updated_at": 1788936095
+ "count": 811,
+ "updated_at": 1788947734
 }
