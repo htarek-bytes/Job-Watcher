@@ -245,7 +245,10 @@ def _clean(text):
 # 25 second timeout, and the next run timed out on all five requests, so the
 # default was not a margin, it was a coin toss. Every source is fetched on its
 # own thread, so one slow board costs nothing but its own thread.
-JOBBANK_TIMEOUT = 60
+# Job Bank answers in about twenty seconds, so this has room without being the
+# thing that decides how long a sweep takes. It was 60, chosen when a 25 second
+# default was timing out on every request.
+JOBBANK_TIMEOUT = 40
 
 
 def fetch_jobbank(query, etag=None):
