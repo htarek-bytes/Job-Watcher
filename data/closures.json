@@ -2,76 +2,6 @@
  "closed": [
   {
    "closed_at": 1788750148,
-   "company": "docebo",
-   "hours_open": 82.1,
-   "title": "Founding Forward Deployed Engineer",
-   "uid": "ashby:docebo:273845bc-2e43-4e48-99fe-815ff6188d8a"
-  },
-  {
-   "closed_at": 1788750148,
-   "company": "telus-digital",
-   "hours_open": 82.1,
-   "title": "L4 Software Developer",
-   "uid": "ashby:telus-digital:63557b4f-b0b1-46f8-9bb0-19c6c8f7892f"
-  },
-  {
-   "closed_at": 1788750148,
-   "company": "waabi",
-   "hours_open": 82.1,
-   "title": "Software Engineer, Labelling, Data & Automation",
-   "uid": "lever:waabi:09e213fd-70fb-4715-949a-891576309002"
-  },
-  {
-   "closed_at": 1788750148,
-   "company": "Bosch Group",
-   "hours_open": 77.7,
-   "title": "JUNIOR DEVELOPER FOR TOOLS DEPARTMENT",
-   "uid": "smartrecruiters:BoschGroup:744000147359289"
-  },
-  {
-   "closed_at": 1788750148,
-   "company": "tulip",
-   "hours_open": 82.1,
-   "title": "DevX Engineer- AI Enablement",
-   "uid": "greenhouse:tulip:7820441003"
-  },
-  {
-   "closed_at": 1788750148,
-   "company": "bluecatnetworks",
-   "hours_open": 82.1,
-   "title": "Site Reliability Engineer – AI-first Platform",
-   "uid": "lever:bluecatnetworks:09b3ba43-dcfe-4f02-a2d0-be37d65216e4"
-  },
-  {
-   "closed_at": 1788750148,
-   "company": "deepgram",
-   "hours_open": 82.1,
-   "title": "Partner Success Engineer (Infrastructure)",
-   "uid": "ashby:deepgram:d75d6f84-1d54-4354-a364-609b48267658"
-  },
-  {
-   "closed_at": 1788750148,
-   "company": "skip",
-   "hours_open": 82.1,
-   "title": "Product Design Engineer",
-   "uid": "ashby:skip:9c8bafa0-5e64-41c4-b09a-8236cd8d210d"
-  },
-  {
-   "closed_at": 1788750148,
-   "company": "deepgram",
-   "hours_open": 82.1,
-   "title": "Platform Engineer - AI/ML Infrastructure (Kubernetes & Terraform)",
-   "uid": "ashby:deepgram:f424ef6a-c27f-4984-9e77-40a1ad16ae28"
-  },
-  {
-   "closed_at": 1788750148,
-   "company": "tenstorrent",
-   "hours_open": 82.1,
-   "title": "DFT Engineer",
-   "uid": "greenhouse:tenstorrent:5175862007"
-  },
-  {
-   "closed_at": 1788750148,
    "company": "tenstorrent",
    "hours_open": 82.1,
    "title": "Machine Learning Research Engineer (LLMs & AI Systems)",
@@ -5599,8 +5529,78 @@
    "hours_open": 152.4,
    "title": "Junior Software Engineer",
    "uid": "workday:kbr.wd5/kbr_careers:Junior-Software-Engineer_R2122294"
+  },
+  {
+   "closed_at": 1788931288,
+   "company": "Arista Networks",
+   "hours_open": 14.2,
+   "title": "Hardware Engineer Intern (Campus Hiring - Nirma - 2026 / 27)",
+   "uid": "smartrecruiters:AristaNetworks:744000148246580"
+  },
+  {
+   "closed_at": 1788931288,
+   "company": "Control Gap Inc.",
+   "hours_open": 5.7,
+   "title": "full stack developer",
+   "uid": "jobbank:developpeur junior:50245660"
+  },
+  {
+   "closed_at": 1788931288,
+   "company": "twitch",
+   "hours_open": 129.5,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1788931288,
+   "company": "Astra North Infoteck Inc.",
+   "hours_open": 12.2,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:systems analyst:50204887"
+  },
+  {
+   "closed_at": 1788931288,
+   "company": "Newprint",
+   "hours_open": 150.3,
+   "title": "Web developer",
+   "uid": "jobbank:junior programmer:50204930"
+  },
+  {
+   "closed_at": 1788931288,
+   "company": "AM/PM Service - Point of Sale & Service",
+   "hours_open": 12.2,
+   "title": "Internet systems administrator",
+   "uid": "jobbank:systems administrator:50058251"
+  },
+  {
+   "closed_at": 1788931288,
+   "company": "CarePartners",
+   "hours_open": 1.3,
+   "title": "network administrator",
+   "uid": "jobbank:network administrator:50247129"
+  },
+  {
+   "closed_at": 1788931288,
+   "company": "Miratech",
+   "hours_open": 12.2,
+   "title": "information systems analyst - computer systems",
+   "uid": "jobbank:information systems analyst:49969689"
+  },
+  {
+   "closed_at": 1788931288,
+   "company": "Logesco Informatique",
+   "hours_open": 1.3,
+   "title": "network administrator",
+   "uid": "jobbank:network administrator:49871595"
+  },
+  {
+   "closed_at": 1788931288,
+   "company": "spacex",
+   "hours_open": 132.1,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
   }
  ],
- "count": 800,
- "updated_at": 1788926770
+ "count": 810,
+ "updated_at": 1788931289
 }
