@@ -2,76 +2,6 @@
  "closed": [
   {
    "closed_at": 1788791369,
-   "company": "jci",
-   "hours_open": 56.7,
-   "title": "HVAC Application Engineer I",
-   "uid": "workday:jci.wd5/JCI:HVAC-Application-Engineer-I_WD30278015"
-  },
-  {
-   "closed_at": 1788791369,
-   "company": "bmo",
-   "hours_open": 89.1,
-   "title": "Machine Learning Developer (New or Recent Graduate)",
-   "uid": "workday:bmo.wd3/External:Machine-Learning-Developer--New-or-Recent-Graduate-_R260024265"
-  },
-  {
-   "closed_at": 1788791369,
-   "company": "kbr",
-   "hours_open": 96.9,
-   "title": "Project Engineer I",
-   "uid": "workday:kbr.wd5/KBR_Careers:Project-Engineer-I_R2129322"
-  },
-  {
-   "closed_at": 1788791369,
-   "company": "hp",
-   "hours_open": 9.6,
-   "title": "Collaboration Technical Consultant / Sales Engineer",
-   "uid": "workday:hp.wd5/externalcareersite:Collaboration-Technical-Consultant---Sales-Engineer_3163751"
-  },
-  {
-   "closed_at": 1788791369,
-   "company": "Renesas Electronics",
-   "hours_open": 8.3,
-   "title": "Altium Enterprise Pre-Sales Field Application Engineer",
-   "uid": "smartrecruiters:RenesasElectronics:744000146825679"
-  },
-  {
-   "closed_at": 1788791369,
-   "company": "relx",
-   "hours_open": 114.9,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - January)",
-   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617-1"
-  },
-  {
-   "closed_at": 1788791369,
-   "company": "relx",
-   "hours_open": 114.9,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - June)",
-   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-2"
-  },
-  {
-   "closed_at": 1788791369,
-   "company": "relx",
-   "hours_open": 114.9,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Boca Raton - June)",
-   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Boca-Raton---June-_R116023"
-  },
-  {
-   "closed_at": 1788791369,
-   "company": "kbr",
-   "hours_open": 114.9,
-   "title": "Junior Software Engineer",
-   "uid": "workday:kbr.wd5/KBR_Careers:Junior-Software-Engineer_R2122294"
-  },
-  {
-   "closed_at": 1788791369,
-   "company": "spacex",
-   "hours_open": 93.5,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1788791369,
    "company": "spacex",
    "hours_open": 91.8,
    "title": "Software Engineer (Starship)",
@@ -5599,8 +5529,78 @@
    "hours_open": 145.9,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1788981683,
+   "company": "twitch",
+   "hours_open": 143.5,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1788981683,
+   "company": "DLGL TECHNOLOGIES CORPORATION",
+   "hours_open": 62.4,
+   "title": "developer, software",
+   "uid": "jobbank:junior programmer:50191592"
+  },
+  {
+   "closed_at": 1788981683,
+   "company": "micron",
+   "hours_open": 142.0,
+   "title": "Intern - AI Agentic Systems Engineer",
+   "uid": "workday:micron.wd1/External:Intern---AI-Agentic-Systems-Engineer_JR110474"
+  },
+  {
+   "closed_at": 1788981683,
+   "company": "micron",
+   "hours_open": 143.5,
+   "title": "New College Grad - HBM Product Development Failure Analysis Engineer",
+   "uid": "workday:micron.wd1/External:New-College-Grad---HBM-Product-Development-Failure-Analysis-Engineer_JR110630"
+  },
+  {
+   "closed_at": 1788981683,
+   "company": "micron",
+   "hours_open": 146.1,
+   "title": "New College Grad - Yield Enhancement Electrical Failure Analysis Engineer",
+   "uid": "workday:micron.wd1/External:New-College-Grad---Yield-Enhancement-Electrical-Failure-Analysis-Engineer_JR109479"
+  },
+  {
+   "closed_at": 1788981683,
+   "company": "Amazon",
+   "hours_open": 0.6,
+   "title": "Software Development Engineer, FBA Supply Chain Intelligence, Inventory Authority Platform",
+   "uid": "amazon:amazon:10534684"
+  },
+  {
+   "closed_at": 1788981683,
+   "company": "micron",
+   "hours_open": 33.9,
+   "title": "Intern - Software Engineer",
+   "uid": "workday:micron.wd1/External:Intern---Software-Engineer_JR108550"
+  },
+  {
+   "closed_at": 1788981683,
+   "company": "ngc",
+   "hours_open": 29.5,
+   "title": "2027  Systems Engineer Intern - Colorado Springs CO",
+   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027--Systems-Engineer-Intern---Colorado-Springs-CO_R10249777"
+  },
+  {
+   "closed_at": 1788981683,
+   "company": "cscgeneration-2",
+   "hours_open": 126.0,
+   "title": "New Business Development Associate (B2B Sales)",
+   "uid": "lever:cscgeneration-2:e116f780-5d9a-457f-bb8e-336771a060a0"
+  },
+  {
+   "closed_at": 1788981683,
+   "company": "spacex",
+   "hours_open": 146.1,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
   }
  ],
  "count": 810,
- "updated_at": 1788979928
+ "updated_at": 1788981683
 }
