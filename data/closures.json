@@ -1,76 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1788756975,
-   "company": "Wabtec",
-   "hours_open": 94.4,
-   "title": "Junior Engineer",
-   "uid": "smartrecruiters:Wabtec:3743990015038935"
-  },
-  {
-   "closed_at": 1788756975,
-   "company": "accenture",
-   "hours_open": 100.9,
-   "title": "Software Engineering New Associate (Fresh Diploma Graduate Program)",
-   "uid": "workday:accenture.wd103/AccentureCareers:Software-Engineering-New-Associate--Fresh-Diploma-Graduate-Program-_R00144534"
-  },
-  {
-   "closed_at": 1788756975,
-   "company": "accenture",
-   "hours_open": 100.9,
-   "title": "Junior .NET Developer - Fresh Graduates",
-   "uid": "workday:accenture.wd103/AccentureCareers:Junior-NET-Developer---Fresh-Graduates_R00332478"
-  },
-  {
-   "closed_at": 1788760848,
-   "company": "bmo",
-   "hours_open": 1.1,
-   "title": "Junior Software Developer, Winter 2027 (Co-op/Internship) - 4 Months",
-   "uid": "workday:bmo.wd3/Campus:Junior-Software-Developer--Winter-2027--Co-op-Internship----4-Months_R260024650-2"
-  },
-  {
-   "closed_at": 1788760848,
-   "company": "bmo",
-   "hours_open": 1.1,
-   "title": "Software Developer, Winter 2027 (Co-op/Internship) - 12 Months",
-   "uid": "workday:bmo.wd3/Campus:Software-Developer--Winter-2027--Co-op-Internship----12-Months_R260024678-2"
-  },
-  {
-   "closed_at": 1788760848,
-   "company": "bmo",
-   "hours_open": 1.1,
-   "title": "Software Developer, Winter 2027 (Co-op/Internship) - 4 Months",
-   "uid": "workday:bmo.wd3/Campus:Software-Developer--Winter-2027--Co-op-Internship----4-Months_R260024638-1"
-  },
-  {
-   "closed_at": 1788760848,
-   "company": "bmo",
-   "hours_open": 1.1,
-   "title": "Software Developer, Winter 2027 (Co-op/Internship) - 8 Months",
-   "uid": "workday:bmo.wd3/Campus:Software-Developer--Winter-2027--Co-op-Internship----8-Months_R260024640"
-  },
-  {
-   "closed_at": 1788760848,
-   "company": "bmo",
-   "hours_open": 86.8,
-   "title": "Machine Learning Developer (New or Recent Graduate)",
-   "uid": "workday:bmo.wd3/Campus:Machine-Learning-Developer--New-or-Recent-Graduate-_R260024265-1"
-  },
-  {
-   "closed_at": 1788760848,
-   "company": "DLGL TECHNOLOGIES CORPORATION",
-   "hours_open": 1.1,
-   "title": "developer, software",
-   "uid": "jobbank:junior programmer:50191592"
-  },
-  {
-   "closed_at": 1788760848,
-   "company": "relx",
-   "hours_open": 106.4,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - January)",
-   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617-1"
-  },
-  {
    "closed_at": 1788760848,
    "company": "relx",
    "hours_open": 106.4,
@@ -5599,8 +5529,78 @@
    "hours_open": 142.4,
    "title": "Software Development Engineer, AWS Payments & Fraud Prevention",
    "uid": "amazon:amazon:10523012"
+  },
+  {
+   "closed_at": 1788968250,
+   "company": "Bosch Group",
+   "hours_open": 20.9,
+   "title": "Engineer Training Program - Application/Technical Sales",
+   "uid": "smartrecruiters:BoschGroup:744000148315079"
+  },
+  {
+   "closed_at": 1788968250,
+   "company": "twitch",
+   "hours_open": 142.7,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1788968250,
+   "company": "Bosch Group",
+   "hours_open": 24.5,
+   "title": "Test Engineer Intern",
+   "uid": "smartrecruiters:BoschGroup:744000148253129"
+  },
+  {
+   "closed_at": 1788968250,
+   "company": "Bosch Group",
+   "hours_open": 24.5,
+   "title": "Sales Engineer (Distribution) Intern",
+   "uid": "smartrecruiters:BoschGroup:744000148250171"
+  },
+  {
+   "closed_at": 1788968250,
+   "company": "Bosch Group",
+   "hours_open": 24.5,
+   "title": "Design Engineer Intern",
+   "uid": "smartrecruiters:BoschGroup:744000148252267"
+  },
+  {
+   "closed_at": 1788968250,
+   "company": "Bosch Group",
+   "hours_open": 24.5,
+   "title": "Sales Engineer (OEM) Intern",
+   "uid": "smartrecruiters:BoschGroup:744000148251949"
+  },
+  {
+   "closed_at": 1788968250,
+   "company": "Bosch Group",
+   "hours_open": 24.5,
+   "title": "Service Engineer Intern",
+   "uid": "smartrecruiters:BoschGroup:744000148243450"
+  },
+  {
+   "closed_at": 1788968250,
+   "company": "spacex",
+   "hours_open": 142.7,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1788968250,
+   "company": "spacex",
+   "hours_open": 142.4,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1788968250,
+   "company": "spacex",
+   "hours_open": 142.7,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 803,
- "updated_at": 1788967240
+ "count": 810,
+ "updated_at": 1788968250
 }
