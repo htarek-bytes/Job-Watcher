@@ -1,76 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1788783177,
-   "company": "att",
-   "hours_open": 115.3,
-   "title": "Specialist Software Engineering- Service Now support role - Tier 1",
-   "uid": "workday:att.wd1/ATTGeneral:Specialist-App-Prod-Support--Service-Now-Production-Support--Tier-1_R-114244"
-  },
-  {
-   "closed_at": 1788784330,
-   "company": "twitch",
-   "hours_open": 88.6,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1788784330,
-   "company": "gevernova",
-   "hours_open": 63.1,
-   "title": "GE Vernova GridOS  Project Engineer - Co-Op/Intern - January 2027-June 2027",
-   "uid": "workday:gevernova.wd5/vernova_externalsite:GE-Vernova-GridOS--Project-Engineer---Co-Op-Intern---January-2027-June-2027_R5050087-2"
-  },
-  {
-   "closed_at": 1788784330,
-   "company": "gevernova",
-   "hours_open": 65.4,
-   "title": "GE Vernova - Project Engineer Intern - Summer 2027",
-   "uid": "workday:gevernova.wd5/vernova_externalsite:GE-Vernova---Project-Engineer-Intern---Summer-2027_R5050026-2"
-  },
-  {
-   "closed_at": 1788784330,
-   "company": "relx",
-   "hours_open": 110.6,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - January)",
-   "uid": "workday:relx.wd3/RiskSolutions:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617"
-  },
-  {
-   "closed_at": 1788784330,
-   "company": "relx",
-   "hours_open": 110.6,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - June)",
-   "uid": "workday:relx.wd3/RiskSolutions:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-1"
-  },
-  {
-   "closed_at": 1788784330,
-   "company": "relx",
-   "hours_open": 110.6,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Boca Raton - June)",
-   "uid": "workday:relx.wd3/RiskSolutions:Tech-Accelerate-Graduate-Program---Software-Engineer--Boca-Raton---June-_R116023-2"
-  },
-  {
-   "closed_at": 1788784330,
-   "company": "spacex",
-   "hours_open": 88.6,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1788784330,
-   "company": "spacex",
-   "hours_open": 91.6,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1788791369,
-   "company": "twitch",
-   "hours_open": 93.5,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
    "closed_at": 1788791369,
    "company": "jci",
    "hours_open": 56.7,
@@ -5599,8 +5529,78 @@
    "hours_open": 144.1,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1788979927,
+   "company": "globalhr",
+   "hours_open": 8.9,
+   "title": "Life Cycle Systems Engineer I",
+   "uid": "workday:globalhr.wd5/rec_rtx_ext_gateway:Life-Cycle-Systems-Engineer-I_01872772-1"
+  },
+  {
+   "closed_at": 1788979927,
+   "company": "twitch",
+   "hours_open": 145.9,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1788979927,
+   "company": "globalhr",
+   "hours_open": 167.3,
+   "title": "Ingénieur - Programme de rotation de nouveaux gradues 2027 / Engineer - New Graduate Rotation Program 2027",
+   "uid": "workday:globalhr.wd5/rec_rtx_ext_gateway:Ingnieur---Programme-de-rotation-de-nouveaux-gradues-2027---Engineer---New-Graduate-Rotation-Program-2027_01870776-1"
+  },
+  {
+   "closed_at": 1788979927,
+   "company": "globalhr",
+   "hours_open": 8.9,
+   "title": "Software Engineering Intern (Summer 2027)",
+   "uid": "workday:globalhr.wd5/Private_Posting_No_TMP:Software-Engineering-Intern--Summer-2027-_01870410"
+  },
+  {
+   "closed_at": 1788979927,
+   "company": "Amazon",
+   "hours_open": 145.9,
+   "title": "Software Dev Engineer, Benefits Experience and Technology (BXT)",
+   "uid": "amazon:amazon:10524930"
+  },
+  {
+   "closed_at": 1788979927,
+   "company": "globalhr",
+   "hours_open": 20.0,
+   "title": "2027 Spring/Summer Co-Op - Systems Engineer - AVI MIL FMS (Onsite)",
+   "uid": "workday:globalhr.wd5/rec_rtx_ext_gateway:XMLNAME-2027-Spring-Summer-Co-Op---Systems-Engineer---AVI-MIL-FMS--Onsite-_01872234"
+  },
+  {
+   "closed_at": 1788979927,
+   "company": "accenturefederalservices",
+   "hours_open": 2.6,
+   "title": "Information Security Systems Engineer (ISSE)",
+   "uid": "greenhouse:accenturefederalservices:4711977006"
+  },
+  {
+   "closed_at": 1788979927,
+   "company": "spacex",
+   "hours_open": 145.9,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1788979927,
+   "company": "spacex",
+   "hours_open": 145.9,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1788979927,
+   "company": "spacex",
+   "hours_open": 145.9,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 815,
- "updated_at": 1788979405
+ "count": 810,
+ "updated_at": 1788979928
 }
