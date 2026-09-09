@@ -1,69 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1788752332,
-   "company": "bmo",
-   "hours_open": 78.3,
-   "title": "Machine Learning Developer (New or Recent Graduate)",
-   "uid": "workday:bmo.wd3/External:Machine-Learning-Developer--New-or-Recent-Graduate-_R260024265"
-  },
-  {
-   "closed_at": 1788753415,
-   "company": "bmo",
-   "hours_open": 84.8,
-   "title": "Machine Learning Developer (New or Recent Graduate)",
-   "uid": "workday:bmo.wd3/Campus:Machine-Learning-Developer--New-or-Recent-Graduate-_R260024265-1"
-  },
-  {
-   "closed_at": 1788753415,
-   "company": "twitch",
-   "hours_open": 83.0,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1788753415,
-   "company": "relx",
-   "hours_open": 102.0,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - January)",
-   "uid": "workday:relx.wd3/RiskSolutions:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617"
-  },
-  {
-   "closed_at": 1788753415,
-   "company": "relx",
-   "hours_open": 102.0,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - June)",
-   "uid": "workday:relx.wd3/RiskSolutions:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-1"
-  },
-  {
-   "closed_at": 1788753415,
-   "company": "relx",
-   "hours_open": 102.0,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Boca Raton - June)",
-   "uid": "workday:relx.wd3/RiskSolutions:Tech-Accelerate-Graduate-Program---Software-Engineer--Boca-Raton---June-_R116023-2"
-  },
-  {
-   "closed_at": 1788753415,
-   "company": "spacex",
-   "hours_open": 83.0,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1788753415,
-   "company": "spacex",
-   "hours_open": 81.3,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1788756975,
-   "company": "bmo",
-   "hours_open": 79.6,
-   "title": "Machine Learning Developer (New or Recent Graduate)",
-   "uid": "workday:bmo.wd3/External:Machine-Learning-Developer--New-or-Recent-Graduate-_R260024265"
-  },
-  {
    "closed_at": 1788756975,
    "company": "DLGL TECHNOLOGIES CORPORATION",
    "hours_open": 101.9,
@@ -5599,8 +5536,71 @@
    "hours_open": 141.2,
    "title": "Software Engineer (UI/UX)",
    "uid": "greenhouse:darkwolfsolutions:7786919003"
+  },
+  {
+   "closed_at": 1788964362,
+   "company": "twitch",
+   "hours_open": 138.6,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1788964362,
+   "company": "adasupport",
+   "hours_open": 59.5,
+   "title": "Solutions Consultant (Enterprise)",
+   "uid": "bamboohr:adasupport:80"
+  },
+  {
+   "closed_at": 1788964362,
+   "company": "adasupport",
+   "hours_open": 141.6,
+   "title": "IOS Developer ",
+   "uid": "bamboohr:adasupport:141"
+  },
+  {
+   "closed_at": 1788964362,
+   "company": "adasupport",
+   "hours_open": 141.6,
+   "title": "Data Engineer",
+   "uid": "bamboohr:adasupport:160"
+  },
+  {
+   "closed_at": 1788964362,
+   "company": "adasupport",
+   "hours_open": 141.6,
+   "title": "Full Stack Developer",
+   "uid": "bamboohr:adasupport:250"
+  },
+  {
+   "closed_at": 1788964362,
+   "company": "adasupport",
+   "hours_open": 141.6,
+   "title": "Associate Site Reliability Engineer",
+   "uid": "bamboohr:adasupport:342"
+  },
+  {
+   "closed_at": 1788964362,
+   "company": "adasupport",
+   "hours_open": 154.1,
+   "title": "Associate Developer ",
+   "uid": "bamboohr:adasupport:357"
+  },
+  {
+   "closed_at": 1788964362,
+   "company": "specteraerospace",
+   "hours_open": 141.6,
+   "title": "Aerothermal Engineer Co-Op – Spring 2027 ",
+   "uid": "bamboohr:specteraerospace:129"
+  },
+  {
+   "closed_at": 1788964362,
+   "company": "spacex",
+   "hours_open": 141.6,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
   }
  ],
- "count": 807,
- "updated_at": 1788963049
+ "count": 809,
+ "updated_at": 1788964363
 }
