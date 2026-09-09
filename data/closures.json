@@ -1,55 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1788750686,
-   "company": "Focus Group",
-   "hours_open": 0.1,
-   "title": "IT Solutions Engineer (Networking)",
-   "uid": "workable:focus-group:0C8B8C8F84"
-  },
-  {
-   "closed_at": 1788750686,
-   "company": "Lovingly",
-   "hours_open": 0.1,
-   "title": "DevOps Solutions Engineer",
-   "uid": "workable:lovingly:C76ED43173"
-  },
-  {
-   "closed_at": 1788750686,
-   "company": "AMAX",
-   "hours_open": 0.1,
-   "title": "Hardware Solutions Engineer",
-   "uid": "workable:amax-1:BFB1EDFAC7"
-  },
-  {
-   "closed_at": 1788750686,
-   "company": "spacex",
-   "hours_open": 82.0,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1788750686,
-   "company": "antares",
-   "hours_open": 79.3,
-   "title": "Thermo - Mechanical Design Engineer - Heat Pipes",
-   "uid": "ashby:antares:52785c9b-299d-4886-aa47-b14dc0094ba1"
-  },
-  {
-   "closed_at": 1788750686,
-   "company": "andurilindustries",
-   "hours_open": 0.1,
-   "title": "AI Solutions Engineer, Talent Acquisition",
-   "uid": "greenhouse:andurilindustries:5173534007"
-  },
-  {
-   "closed_at": 1788750686,
-   "company": "spacex",
-   "hours_open": 82.2,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
    "closed_at": 1788752332,
    "company": "bmo",
    "hours_open": 78.3,
@@ -5599,8 +5550,57 @@
    "hours_open": 138.9,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1788963048,
+   "company": "telus-digital",
+   "hours_open": 141.2,
+   "title": "Robotics Automation Engineer ",
+   "uid": "ashby:telus-digital:5c110916-457c-4b10-a65f-5add5752db33"
+  },
+  {
+   "closed_at": 1788963048,
+   "company": "telus-digital",
+   "hours_open": 141.2,
+   "title": "Automation Engineer (Robotics)",
+   "uid": "ashby:telus-digital:5046fd99-c8c2-46a7-8e41-e4d9c13ddf91"
+  },
+  {
+   "closed_at": 1788963048,
+   "company": "PRECICOM TECHNOLOGIES INC.",
+   "hours_open": 21.0,
+   "title": "LAN (local area network) administrator",
+   "uid": "jobbank:network administrator:50043093"
+  },
+  {
+   "closed_at": 1788963048,
+   "company": "Trend Micro",
+   "hours_open": 177.9,
+   "title": "Applied AI Junior Web Developer",
+   "uid": "simplify:listings:3a03824d-8ebc-44b6-b813-e2e73ec7a444"
+  },
+  {
+   "closed_at": 1788963048,
+   "company": "spacex",
+   "hours_open": 138.3,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1788963048,
+   "company": "spacex",
+   "hours_open": 140.9,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1788963048,
+   "company": "darkwolfsolutions",
+   "hours_open": 141.2,
+   "title": "Software Engineer (UI/UX)",
+   "uid": "greenhouse:darkwolfsolutions:7786919003"
   }
  ],
- "count": 800,
- "updated_at": 1788954949
+ "count": 807,
+ "updated_at": 1788963049
 }
