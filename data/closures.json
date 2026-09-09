@@ -1,62 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1788817902,
-   "company": "twitch",
-   "hours_open": 98.0,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1788817902,
-   "company": "relx",
-   "hours_open": 119.9,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - January)",
-   "uid": "workday:relx.wd3/RiskSolutions:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617"
-  },
-  {
-   "closed_at": 1788817902,
-   "company": "relx",
-   "hours_open": 119.9,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - June)",
-   "uid": "workday:relx.wd3/RiskSolutions:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-1"
-  },
-  {
-   "closed_at": 1788817902,
-   "company": "relx",
-   "hours_open": 119.9,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Boca Raton - June)",
-   "uid": "workday:relx.wd3/RiskSolutions:Tech-Accelerate-Graduate-Program---Software-Engineer--Boca-Raton---June-_R116023-2"
-  },
-  {
-   "closed_at": 1788817902,
-   "company": "spacex",
-   "hours_open": 64.4,
-   "title": "Full Stack Software Engineer",
-   "uid": "greenhouse:spacex:8784864002"
-  },
-  {
-   "closed_at": 1788817902,
-   "company": "spacex",
-   "hours_open": 98.0,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1788817902,
-   "company": "spacex",
-   "hours_open": 100.9,
-   "title": "Full Stack Software Engineer, Internal Systems",
-   "uid": "greenhouse:spacex:8741940002"
-  },
-  {
-   "closed_at": 1788817902,
-   "company": "spacex",
-   "hours_open": 100.9,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
    "closed_at": 1788818707,
    "company": "twitch",
    "hours_open": 101.1,
@@ -5599,8 +5543,64 @@
    "hours_open": 150.2,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1788996903,
+   "company": "bakerhughes",
+   "hours_open": 156.0,
+   "title": "Intern – Reciprocating Compressor Engineer, Business Development – 2026 (M/F/D)",
+   "uid": "workday:bakerhughes.wd5/BakerHughes:Intern---Reciprocating-Compressor-Engineer--Business-Development---Florence--Italy---2026--M-F-D-_R167053"
+  },
+  {
+   "closed_at": 1788996903,
+   "company": "twitch",
+   "hours_open": 150.6,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1788996903,
+   "company": "Anbros Financial",
+   "hours_open": 30.4,
+   "title": "cloud administrator",
+   "uid": "jobbank:cloud administrator:50187858"
+  },
+  {
+   "closed_at": 1788996903,
+   "company": "caci",
+   "hours_open": 4.9,
+   "title": "DevOps/Software Engineering Intern - Summer 2027",
+   "uid": "workday:caci.wd1/external:DevOps-Software-Engineering-Intern---Summer-2027_331798"
+  },
+  {
+   "closed_at": 1788996903,
+   "company": "caci",
+   "hours_open": 4.9,
+   "title": "Software Developer/Data Scientist Intern - Summer 2027",
+   "uid": "workday:caci.wd1/external:Software-Developer-Data-Scientist-Intern---Summer-2027_331120"
+  },
+  {
+   "closed_at": 1788996903,
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
+   "hours_open": 30.4,
+   "title": "Administrateur Réseau TI",
+   "uid": "jobillico:analyste reseau:17386419"
+  },
+  {
+   "closed_at": 1788996903,
+   "company": "spacex",
+   "hours_open": 147.7,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1788996903,
+   "company": "spacex",
+   "hours_open": 150.6,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
   }
  ],
- "count": 803,
- "updated_at": 1788996358
+ "count": 808,
+ "updated_at": 1788996903
 }
