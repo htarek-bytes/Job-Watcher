@@ -1,5 +1,5 @@
 {
- "count": 4246,
+ "count": 4249,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -138,6 +138,7 @@
   "ashby:applied:59466c8f-a1ff-42b6-9a60-3eeedc95de07": 1788454653,
   "ashby:applied:5e204245-3d33-4916-bfdd-991f0cc745eb": 1788454653,
   "ashby:applied:6971d533-1536-448b-96b8-544ad5383f44": 1788353785,
+  "ashby:applied:6b9a508b-359f-43c1-aa83-cabf55c3e03e": 1788954949,
   "ashby:applied:6cce20b1-2250-4350-9952-9691f58fb074": 1788454653,
   "ashby:applied:7785715d-dca7-4c33-9fec-6149d86e8b26": 1788454653,
   "ashby:applied:794352e7-419f-41b3-954e-427135d0cce9": 1788750148,
@@ -269,6 +270,8 @@
   "ashby:ema:6394f5e3-6952-4f0e-9e6c-4e9556549f3a": 1788480130,
   "ashby:ema:9728a171-9617-4533-9f03-10c14c3b6ca5": 1788480130,
   "ashby:embedding-vc:5c8433ea-c7e6-4350-bbd5-2889e7fdb2b1": 1788409504,
+  "ashby:embedding-vc:5d382f97-5444-45b6-b491-140e88d151a7": 1788954949,
+  "ashby:embedding-vc:b49531ff-4850-4bab-8fbf-72a8ec299e60": 1788954949,
   "ashby:endeavorai:e397ddef-2102-40e5-82e8-cd1e126f9da8": 1788393691,
   "ashby:faros-ai:622e1f1e-4a39-4e7c-8526-1189ca588066": 1788393691,
   "ashby:faros-ai:a4de6429-fd54-4ce7-a166-7356d512b41d": 1788750148,
@@ -4248,5 +4251,5 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Junior-Algorithm-Engineer_R19377": 1788377927,
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148
  },
- "updated_at": 1788954775
+ "updated_at": 1788954949
 }
