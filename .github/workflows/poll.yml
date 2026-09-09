@@ -2,23 +2,30 @@ name: poll
 
 on:
   schedule:
-    # Five minutes is the floor GitHub allows for ONE cron entry, but a
-    # workflow may carry several, and each is scheduled independently. Five
-    # entries offset by a minute each fire this workflow roughly every minute.
+    # Two entries, offset, so a sweep starts about every two and a half
+    # minutes. There were five, giving roughly one a minute, and that is very
+    # likely why the schedule stopped firing at all.
     #
-    # Be clear about what this does and does not buy. It shortens the GAP
-    # between sweeps from five minutes to about one. It does NOT remove the
-    # 10-20 minute scheduler jitter, and it does not stop GitHub dropping
-    # scheduled runs under load -- it only means a dropped fire is followed by
-    # another one a minute later instead of five. The jitter floor is why a
-    # genuinely fast lane still has to live outside Actions.
+    # Measured on 2026-09-09: the last SCHEDULED run was 01:34, and by 04:15
+    # nothing had fired for over two and a half hours. Every run in between was
+    # a manual dispatch. Before that the pattern was bursts of two or three
+    # runs followed by 45 to 75 minutes of silence.
+    #
+    # Five entries is 1,440 scheduled runs a day, which is a great deal to ask
+    # of a shared scheduler, and GitHub documents that scheduled runs are
+    # delayed and dropped under load. Asking for less is the one lever this
+    # side of the fence controls. Two entries is 576 a day, and a sweep now
+    # takes 2m39s rather than 16m30s, so the queue no longer backs up behind
+    # itself either.
+    #
+    # If this still does not fire reliably, the fix is to stop depending on the
+    # scheduler: one hourly run that sweeps in a loop for the hour. That trades
+    # 1,440 scheduler events a day for 24, and is the honest answer if GitHub
+    # will not keep time for us.
     #
     # Offsets avoid :00 and :05, where every cron on GitHub fires at once.
     - cron: "1-59/5 * * * *"
-    - cron: "2-59/5 * * * *"
     - cron: "3-59/5 * * * *"
-    - cron: "4-59/5 * * * *"
-    - cron: "0-59/5 * * * *"
   workflow_dispatch:
     inputs:
       mode:
