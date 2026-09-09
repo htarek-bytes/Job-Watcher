@@ -1,62 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1788791369,
-   "company": "spacex",
-   "hours_open": 91.8,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1788793532,
-   "company": "bmo",
-   "hours_open": 10.2,
-   "title": "Junior Software Developer, Winter 2027 (Co-op/Internship) - 4 Months",
-   "uid": "workday:bmo.wd3/Campus:Junior-Software-Developer--Winter-2027--Co-op-Internship----4-Months_R260024650-2"
-  },
-  {
-   "closed_at": 1788793532,
-   "company": "bmo",
-   "hours_open": 10.2,
-   "title": "Software Developer, Winter 2027 (Co-op/Internship) - 12 Months",
-   "uid": "workday:bmo.wd3/Campus:Software-Developer--Winter-2027--Co-op-Internship----12-Months_R260024678-2"
-  },
-  {
-   "closed_at": 1788793532,
-   "company": "bmo",
-   "hours_open": 10.2,
-   "title": "Software Developer, Winter 2027 (Co-op/Internship) - 4 Months",
-   "uid": "workday:bmo.wd3/Campus:Software-Developer--Winter-2027--Co-op-Internship----4-Months_R260024638-1"
-  },
-  {
-   "closed_at": 1788793532,
-   "company": "bmo",
-   "hours_open": 10.2,
-   "title": "Software Developer, Winter 2027 (Co-op/Internship) - 8 Months",
-   "uid": "workday:bmo.wd3/Campus:Software-Developer--Winter-2027--Co-op-Internship----8-Months_R260024640"
-  },
-  {
-   "closed_at": 1788793532,
-   "company": "lightspeedhq",
-   "hours_open": 94.1,
-   "title": "Analytics Engineer",
-   "uid": "ashby:lightspeedhq:bebf18c5-3437-4ab3-86db-d065b0611445"
-  },
-  {
-   "closed_at": 1788793532,
-   "company": "barclays",
-   "hours_open": 67.7,
-   "title": "2027 Technology Developer Graduate Program Whippany",
-   "uid": "workday:barclays.wd3/External_Career_Site_Barclays:XMLNAME-2027-Technology-Developer-Graduate-Program-Whippany_JR-0000123244"
-  },
-  {
-   "closed_at": 1788793532,
-   "company": "bmo",
-   "hours_open": 95.9,
-   "title": "Machine Learning Developer (New or Recent Graduate)",
-   "uid": "workday:bmo.wd3/Campus:Machine-Learning-Developer--New-or-Recent-Graduate-_R260024265-1"
-  },
-  {
    "closed_at": 1788793532,
    "company": "kbr",
    "hours_open": 82.4,
@@ -5599,8 +5543,64 @@
    "hours_open": 146.1,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1788984410,
+   "company": "twitch",
+   "hours_open": 147.2,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1788984410,
+   "company": "sunlife",
+   "hours_open": 27.0,
+   "title": "Student, Automation Specialist (Winter 2027)",
+   "uid": "workday:sunlife.wd3/Campus:Student--Automation-Specialist--Winter-2027-_JR00127231"
+  },
+  {
+   "closed_at": 1788984410,
+   "company": "philips",
+   "hours_open": 142.1,
+   "title": "Co-op – Software Engineer (R&D) – Cambridge, MA – January - August 2027",
+   "uid": "workday:philips.wd3/jobs-and-careers:Co-op---Software-Engineer--R-D----Cambridge--MA---January---August-2027_588891"
+  },
+  {
+   "closed_at": 1788984410,
+   "company": "salesforce",
+   "hours_open": 147.2,
+   "title": "Business Development Associate, Early Career",
+   "uid": "workday:salesforce.wd12/Futureforce_NewGradRoles:Business-Development-Associate_JR347430"
+  },
+  {
+   "closed_at": 1788984410,
+   "company": "DecisionPoint Corporation",
+   "hours_open": 183.8,
+   "title": "Entry-level Software Developer",
+   "uid": "simplify:listings:0e6c1db8-ce0d-4d6e-8962-3757c2b0a9e8"
+  },
+  {
+   "closed_at": 1788984410,
+   "company": "Amazon",
+   "hours_open": 147.2,
+   "title": "Software Development Engineer, Leo Manufacturing Software Systems",
+   "uid": "amazon:amazon:10528662"
+  },
+  {
+   "closed_at": 1788984410,
+   "company": "pae",
+   "hours_open": 26.1,
+   "title": "Engineer 1",
+   "uid": "workday:pae.wd1/amentum_careers:Engineer-1_R0169894"
+  },
+  {
+   "closed_at": 1788984410,
+   "company": "accenturefederalservices",
+   "hours_open": 147.2,
+   "title": "Custom Applications Developer",
+   "uid": "greenhouse:accenturefederalservices:4695967006"
   }
  ],
- "count": 810,
- "updated_at": 1788981683
+ "count": 808,
+ "updated_at": 1788984411
 }
