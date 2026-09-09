@@ -2,55 +2,6 @@
  "closed": [
   {
    "closed_at": 1788750148,
-   "company": "launchdarkly",
-   "hours_open": 82.1,
-   "title": "Full Stack Engineer, AgentControl",
-   "uid": "greenhouse:launchdarkly:7750116003"
-  },
-  {
-   "closed_at": 1788750148,
-   "company": "launchdarkly",
-   "hours_open": 82.1,
-   "title": "Full Stack Engineer, Experimentation",
-   "uid": "greenhouse:launchdarkly:7741981003"
-  },
-  {
-   "closed_at": 1788750148,
-   "company": "skip",
-   "hours_open": 82.1,
-   "title": "Hardware Reliability Engineer",
-   "uid": "ashby:skip:dc2bfc5f-b716-4712-b8d0-f9c15ddc44d7"
-  },
-  {
-   "closed_at": 1788750148,
-   "company": "tenstorrent",
-   "hours_open": 82.1,
-   "title": "Full-Chip Physical Design Verification Engineer",
-   "uid": "greenhouse:tenstorrent:5126693007"
-  },
-  {
-   "closed_at": 1788750148,
-   "company": "deepgram",
-   "hours_open": 82.1,
-   "title": "Partner Success Engineer",
-   "uid": "ashby:deepgram:8a010608-6239-42ca-81de-c01139153eb2"
-  },
-  {
-   "closed_at": 1788750148,
-   "company": "deepgram",
-   "hours_open": 82.1,
-   "title": "Customer Success Engineer (Americas)",
-   "uid": "ashby:deepgram:faef2c32-5084-48ca-8fff-e86d653f2697"
-  },
-  {
-   "closed_at": 1788750148,
-   "company": "deepgram",
-   "hours_open": 82.1,
-   "title": "Billing & Analytics Software Engineer",
-   "uid": "ashby:deepgram:378e83b4-28c0-4b4e-8cf0-9355712bd06d"
-  },
-  {
-   "closed_at": 1788750148,
    "company": "tenstorrent",
    "hours_open": 82.1,
    "title": "Top Level Physical Design Engineer",
@@ -5599,8 +5550,57 @@
    "hours_open": 132.5,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1788935438,
+   "company": "Aarorn Technologies Inc.",
+   "hours_open": 13.4,
+   "title": "information systems analyst - computer systems",
+   "uid": "jobbank:information systems analyst:50163724"
+  },
+  {
+   "closed_at": 1788935438,
+   "company": "Idexia",
+   "hours_open": 151.4,
+   "title": "programmer analyst",
+   "uid": "jobbank:junior programmer:50153215"
+  },
+  {
+   "closed_at": 1788935438,
+   "company": "University of Lethbridge",
+   "hours_open": 13.4,
+   "title": "systems analyst",
+   "uid": "jobbank:systems analyst:50102683"
+  },
+  {
+   "closed_at": 1788935438,
+   "company": "Lancesoft",
+   "hours_open": 13.4,
+   "title": "server administrator",
+   "uid": "jobbank:linux administrator:50205276"
+  },
+  {
+   "closed_at": 1788935438,
+   "company": "Chief Isaac Inc",
+   "hours_open": 13.4,
+   "title": "network system administrator",
+   "uid": "jobbank:systems administrator:50056826"
+  },
+  {
+   "closed_at": 1788935438,
+   "company": "Smartway Freight Systems Inc.",
+   "hours_open": 13.4,
+   "title": "network system administrator",
+   "uid": "jobbank:systems administrator:49967696"
+  },
+  {
+   "closed_at": 1788935438,
+   "company": "Poprek Cloud Solutions INC",
+   "hours_open": 13.4,
+   "title": "information systems analyst - computer systems",
+   "uid": "jobbank:systems analyst:49966341"
   }
  ],
- "count": 804,
- "updated_at": 1788931523
+ "count": 807,
+ "updated_at": 1788935439
 }
