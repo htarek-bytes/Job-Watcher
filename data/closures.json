@@ -2,27 +2,6 @@
  "closed": [
   {
    "closed_at": 1788756975,
-   "company": "DLGL TECHNOLOGIES CORPORATION",
-   "hours_open": 101.9,
-   "title": "developer, software",
-   "uid": "jobbank:developpeur junior:50191592"
-  },
-  {
-   "closed_at": 1788756975,
-   "company": "City of Windsor",
-   "hours_open": 101.9,
-   "title": "programmer analyst",
-   "uid": "jobbank:junior programmer:50190359"
-  },
-  {
-   "closed_at": 1788756975,
-   "company": "bmo",
-   "hours_open": 89.3,
-   "title": "BMO Capital Markets Winter 2027 Global Markets Analyst (Generalist & Quantitative/Developer), Toronto (Co-Op/ Internship)",
-   "uid": "workday:bmo.wd3/Campus:BMO-Capital-Markets-Winter-2027-Global-Markets-Analyst--Generalist---Quantitative-Developer---Toronto_R260018951-2"
-  },
-  {
-   "closed_at": 1788756975,
    "company": "Wabtec",
    "hours_open": 94.4,
    "title": "Junior Engineer",
@@ -5599,8 +5578,29 @@
    "hours_open": 141.6,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1788967239,
+   "company": "PolicyAdvisor Brokerage Inc.",
+   "hours_open": 17.8,
+   "title": "software developer",
+   "uid": "jobbank:developpeur junior:50244874"
+  },
+  {
+   "closed_at": 1788967239,
+   "company": "CGI",
+   "hours_open": 22.2,
+   "title": "Conseiller en gouvernance de la cybersécurité",
+   "uid": "jobillico:analyste cybersecurite:17433756"
+  },
+  {
+   "closed_at": 1788967239,
+   "company": "Amazon",
+   "hours_open": 142.4,
+   "title": "Software Development Engineer, AWS Payments & Fraud Prevention",
+   "uid": "amazon:amazon:10523012"
   }
  ],
- "count": 809,
- "updated_at": 1788964363
+ "count": 803,
+ "updated_at": 1788967240
 }
