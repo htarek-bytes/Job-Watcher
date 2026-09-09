@@ -13,6 +13,7 @@ that build a job can do it again.
 import json
 import os
 import sys
+import time
 import unittest
 
 HERE = os.path.dirname(os.path.abspath(__file__))
@@ -108,6 +109,50 @@ class LeverParser(unittest.TestCase):
         pay = salary.parse(job["description"], "CA")
         self.assertIsNotNone(pay, "the compensation line was not readable")
         self.assertEqual((pay["min"], pay["max"]), (95000, 120000))
+
+
+class CarryDoesNotPropagateTheBug(unittest.TestCase):
+    """A fix to the shape of a field has to reach roles already in the feed.
+
+    Fixing the parser fixed only the boards the rotation happened to reach.
+    231 roles sat in the feed with 407,460 junk entries between them, healing
+    over half an hour if their board answered 200, and never if it answered
+    304, because carry copies the stored role verbatim.
+
+    So the board here answers 304, which is the case where it matters most.
+    """
+
+    def setUp(self):
+        import cli
+        self.cli = cli
+        # Swapped for the duration and put back in tearDown. Leaving it swapped
+        # broke ten tests in two other files that happen to run after this one
+        # alphabetically, which was a good deal harder to read than the failure
+        # it was hiding.
+        self.real_sources = cli.sources
+
+    def tearDown(self):
+        self.cli.sources = self.real_sources
+
+    def carried(self, locations):
+        from test_carry import CFG, FakeSources, _job as carry_job
+        board = ("greenhouse", "acme")
+        self.cli.sources = FakeSources({board: "304"})
+        job = carry_job(*board, "1")
+        job["locations"] = locations
+        job["confirmed_at"] = int(time.time())
+        jobs, _ = self.cli.sweep(CFG, {}, {}, quiet=True, previous=[job])
+        found = [j for j in jobs if j["uid"] == job["uid"]]
+        self.assertEqual(len(found), 1, "the role was not carried at all")
+        return found[0]
+
+    def test_a_carried_role_is_cleaned_on_the_way_through(self):
+        job = self.carried(["Toronto, ON"] + list("Compensation is great"))
+        self.assertEqual(job["locations"], ["Toronto, ON"])
+
+    def test_a_healthy_carried_role_is_untouched(self):
+        job = self.carried(["Toronto, ON", "Remote - Canada"])
+        self.assertEqual(job["locations"], ["Toronto, ON", "Remote - Canada"])
 
 
 class FeedSize(unittest.TestCase):
