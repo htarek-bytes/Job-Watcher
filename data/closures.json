@@ -2,34 +2,6 @@
  "closed": [
   {
    "closed_at": 1788750148,
-   "company": "tenstorrent",
-   "hours_open": 82.1,
-   "title": "Machine Learning Research Engineer (LLMs & AI Systems)",
-   "uid": "greenhouse:tenstorrent:5163484007"
-  },
-  {
-   "closed_at": 1788750148,
-   "company": "launchdarkly",
-   "hours_open": 82.1,
-   "title": "Full Stack Engineer, Foundation",
-   "uid": "greenhouse:launchdarkly:7767264003"
-  },
-  {
-   "closed_at": 1788750148,
-   "company": "skip",
-   "hours_open": 82.1,
-   "title": "Infrastructure Security Engineer",
-   "uid": "ashby:skip:ed63644c-accf-407b-a8cd-31d0bb9c26da"
-  },
-  {
-   "closed_at": 1788750148,
-   "company": "launchdarkly",
-   "hours_open": 79.1,
-   "title": "Full Stack Engineer, Observability",
-   "uid": "greenhouse:launchdarkly:7985794003"
-  },
-  {
-   "closed_at": 1788750148,
    "company": "launchdarkly",
    "hours_open": 82.1,
    "title": "Full Stack Engineer, AgentControl",
@@ -5599,8 +5571,36 @@
    "hours_open": 132.1,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1788931523,
+   "company": "Bosch Group",
+   "hours_open": 19.9,
+   "title": "Technical Sales Support für Hägglunds (w/m/div.)",
+   "uid": "smartrecruiters:BoschGroup:744000148169864"
+  },
+  {
+   "closed_at": 1788931523,
+   "company": "twitch",
+   "hours_open": 132.5,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1788931523,
+   "company": "SGS",
+   "hours_open": 41.2,
+   "title": "Sales Engineer Mechanical",
+   "uid": "smartrecruiters:SGS:744000147901634"
+  },
+  {
+   "closed_at": 1788931523,
+   "company": "spacex",
+   "hours_open": 132.5,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
   }
  ],
- "count": 810,
- "updated_at": 1788931289
+ "count": 804,
+ "updated_at": 1788931523
 }
