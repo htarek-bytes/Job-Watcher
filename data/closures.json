@@ -2,83 +2,6 @@
  "closed": [
   {
    "closed_at": 1788770443,
-   "company": "bmo",
-   "hours_open": 2.7,
-   "title": "Junior Software Developer, Winter 2027 (Co-op/Internship) - 4 Months",
-   "uid": "workday:bmo.wd3/External:Junior-Software-Developer--Winter-2027--Co-op-Internship----4-Months_R260024650-1"
-  },
-  {
-   "closed_at": 1788770443,
-   "company": "bmo",
-   "hours_open": 2.7,
-   "title": "Software Developer, Winter 2027 (Co-op/Internship) - 12 Months",
-   "uid": "workday:bmo.wd3/External:Software-Developer--Winter-2027--Co-op-Internship----12-Months_R260024678-1"
-  },
-  {
-   "closed_at": 1788770443,
-   "company": "bmo",
-   "hours_open": 2.7,
-   "title": "Software Developer, Winter 2027 (Co-op/Internship) - 4 Months",
-   "uid": "workday:bmo.wd3/External:Software-Developer--Winter-2027--Co-op-Internship----4-Months_R260024638"
-  },
-  {
-   "closed_at": 1788770443,
-   "company": "bmo",
-   "hours_open": 2.7,
-   "title": "Software Developer, Winter 2027 (Co-op/Internship) - 8 Months",
-   "uid": "workday:bmo.wd3/External:Software-Developer--Winter-2027--Co-op-Internship----8-Months_R260024640-3"
-  },
-  {
-   "closed_at": 1788770443,
-   "company": "bmo",
-   "hours_open": 83.3,
-   "title": "Machine Learning Developer (New or Recent Graduate)",
-   "uid": "workday:bmo.wd3/External:Machine-Learning-Developer--New-or-Recent-Graduate-_R260024265"
-  },
-  {
-   "closed_at": 1788770443,
-   "company": "twitch",
-   "hours_open": 87.7,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1788770443,
-   "company": "Bosch Group",
-   "hours_open": 71.5,
-   "title": "[SX/BSV-VN] Embedded Test Engineer Intern",
-   "uid": "smartrecruiters:BoschGroup:744000147458139"
-  },
-  {
-   "closed_at": 1788770443,
-   "company": "hp",
-   "hours_open": 3.7,
-   "title": "Presales Technical Consultant",
-   "uid": "workday:hp.wd5/externalcareersite:Presales-Technical-Consultant_3168176-2"
-  },
-  {
-   "closed_at": 1788770443,
-   "company": "kbr",
-   "hours_open": 76.0,
-   "title": "Project Engineer I",
-   "uid": "workday:kbr.wd5/kbr_careers:Project-Engineer-I_R2129322"
-  },
-  {
-   "closed_at": 1788770443,
-   "company": "Cybernetic Consulting",
-   "hours_open": 105.6,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50096282"
-  },
-  {
-   "closed_at": 1788770443,
-   "company": "intel",
-   "hours_open": 82.7,
-   "title": "Software Development Graduate Intern",
-   "uid": "workday:intel.wd1/external:Software-Development-Graduate-Intern_JR0285451-1"
-  },
-  {
-   "closed_at": 1788770443,
    "company": "bpinternational",
    "hours_open": 73.3,
    "title": "Drilling and Completions Engineer Intern (bpx energy)",
@@ -5599,8 +5522,85 @@
    "hours_open": 143.4,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1788976297,
+   "company": "hootsuite",
+   "hours_open": 24.7,
+   "title": "Junior IT Operations Administrator",
+   "uid": "greenhouse:hootsuite:8119913"
+  },
+  {
+   "closed_at": 1788976297,
+   "company": "twitch",
+   "hours_open": 144.9,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1788976297,
+   "company": "Amazon",
+   "hours_open": 144.9,
+   "title": "Software Development Engineer, Amazon Route 53, Route 53 DNS Firewall & Profiles",
+   "uid": "amazon:amazon:10524021"
+  },
+  {
+   "closed_at": 1788976297,
+   "company": "Amazon",
+   "hours_open": 144.9,
+   "title": "Software Development Engineer, Marketing Measurement and Performance Science",
+   "uid": "amazon:amazon:10525063"
+  },
+  {
+   "closed_at": 1788976297,
+   "company": "gusto",
+   "hours_open": 24.7,
+   "title": "Platform Operations Specialist",
+   "uid": "greenhouse:gusto:8075984"
+  },
+  {
+   "closed_at": 1788976297,
+   "company": "virtu",
+   "hours_open": 152.8,
+   "title": "2027 Internship - Frontend Engineer (UI)",
+   "uid": "greenhouse:virtu:8657500002"
+  },
+  {
+   "closed_at": 1788976297,
+   "company": "altentechnologyusa",
+   "hours_open": 143.2,
+   "title": "Design and Release Engineer",
+   "uid": "greenhouse:altentechnologyusa:5165806007"
+  },
+  {
+   "closed_at": 1788976297,
+   "company": "cloudflare",
+   "hours_open": 1.5,
+   "title": "Distributed Systems Engineer - Cache",
+   "uid": "greenhouse:cloudflare:8163523"
+  },
+  {
+   "closed_at": 1788976297,
+   "company": "Huntington Ingalls Industries",
+   "hours_open": 26.7,
+   "title": "Software Engineer 1",
+   "uid": "simplify:listings:84a39b8e-8d89-4f91-ab45-1d53e8d86776"
+  },
+  {
+   "closed_at": 1788976297,
+   "company": "spacex",
+   "hours_open": 144.6,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1788976297,
+   "company": "spacex",
+   "hours_open": 143.2,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
- "count": 808,
- "updated_at": 1788970722
+ "count": 811,
+ "updated_at": 1788976298
 }
