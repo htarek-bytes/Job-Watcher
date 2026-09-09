@@ -30,6 +30,9 @@ import sources
 import state
 import workauth
 from matcher import OPEN_LEVEL, Matcher, min_years
+# Bound by name rather than reached through the module, because the tests
+# swap cli.sources for a fake and this must keep working when they do.
+from sources import clean_locations
 from notify import Notifier
 
 CONFIG = os.path.join(os.path.dirname(os.path.abspath(__file__)), "config.toml")
@@ -220,6 +223,19 @@ def sweep(cfg, health, registry, quiet=False, previous=None):
             # existed gets a real clock instead of being carried forever.
             job.setdefault("confirmed_at", now)
             if now - job["confirmed_at"] <= CARRY_MAX_SECONDS:
+                # Carrying a role forward must not carry a parser bug forward
+                # with it. When the Lever parser was spreading descriptions one
+                # character per location entry, fixing the parser fixed only
+                # the boards the rotation happened to reach; 231 roles sat in
+                # the feed with 407,460 junk entries between them, healing over
+                # half an hour if their board answered 200 and never if it
+                # answered 304, because carry copies the stored role verbatim.
+                #
+                # Cleaning here instead means a fix to the shape of a field
+                # reaches every role on the next sweep rather than over a
+                # rotation cycle. It is idempotent, so a healthy role is
+                # untouched.
+                job["locations"] = clean_locations(job.get("locations"))
                 kept_jobs.append(job)
         jobs.extend(kept_jobs)
         return kept_jobs
