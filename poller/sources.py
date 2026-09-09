@@ -50,6 +50,42 @@ class SourceResult:
         return len(self.jobs)
 
 
+# A posting is listed in a handful of places, never in hundreds. Anything past
+# this is a parser accident rather than a real list of offices.
+MAX_LOCATIONS = 12
+
+
+def clean_locations(values):
+    """Location strings, defensively.
+
+    This is a guard rail rather than tidying, and it is here because of a bug
+    it would have stopped. Lever's additionalPlain field is a plain-text
+    STRING, and the Lever parser did list() on it, which spreads a string into
+    one entry per character. 231 roles arrived carrying their whole description
+    letter by letter: 407,460 single-character entries, 2.1 MB of a 7.1 MB
+    feed, and a location classifier being asked to place the letter "o".
+
+    A bare string is wrapped rather than spread, single characters are dropped,
+    and the list is capped, so no source can do this again from any of the
+    thirteen places that build a job.
+    """
+    if isinstance(values, str):
+        values = [values]
+    out = []
+    for value in values or []:
+        if not isinstance(value, str):
+            continue
+        value = value.strip()
+        # A real location is never one character. A spread string is all of them.
+        if len(value) < 2:
+            continue
+        if value not in out:
+            out.append(value)
+        if len(out) >= MAX_LOCATIONS:
+            break
+    return out
+
+
 def _job(source, slug, uid, company, title, url, locations, posted_at=None,
          description=""):
     return {
@@ -59,7 +95,7 @@ def _job(source, slug, uid, company, title, url, locations, posted_at=None,
         "company": company,
         "title": title,
         "url": url,
-        "locations": [loc for loc in (locations or []) if loc],
+        "locations": clean_locations(locations),
         "posted_at": posted_at,
         "description": description,
     }
@@ -144,7 +180,23 @@ def fetch_lever(slug, etag=None):
         payload = resp.json() or []
         for item in payload:
             cats = item.get("categories") or {}
-            locs = [cats.get("location")] + list(item.get("additionalPlain", []) or [])
+            # additionalPlain is a plain-text STRING, not a list of places, and
+            # list() on a string spreads it one character per entry. It used to
+            # be concatenated here, which put 231 roles into the feed carrying
+            # their whole description letter by letter. It belongs in the
+            # description, where it is genuinely useful: Lever boards often put
+            # the compensation range in it, which the salary parser reads.
+            locs = [cats.get("location")]
+            # allLocations is a real list of places on the boards that set it,
+            # and absent on the ones that do not. Extended rather than nested,
+            # because a list inside the list is dropped by clean_locations and
+            # would have been a quieter version of the same mistake.
+            more = cats.get("allLocations")
+            if isinstance(more, list):
+                locs += more
+            elif isinstance(more, str):
+                locs.append(more)
+            extra = item.get("additionalPlain") or ""
             body = item.get("descriptionPlain") or strip_html(item.get("description", ""))
             lists = " ".join(
                 strip_html(section.get("content", ""))
@@ -157,7 +209,7 @@ def fetch_lever(slug, etag=None):
                 url=item.get("hostedUrl") or item.get("applyUrl", ""),
                 locations=locs,
                 posted_at=_epoch(item.get("createdAt")),
-                description=(body + " " + lists).strip(),
+                description=(body + " " + lists + " " + extra).strip(),
             ))
         res.ok = True
     except Exception as exc:  # noqa: BLE001
