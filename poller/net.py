@@ -11,8 +11,17 @@ import urllib.error
 import urllib.request
 
 USER_AGENT = "new-grad-watcher/1.0 (+https://github.com/)"
-TIMEOUT = 25
-RETRIES = 2
+# A board that has not answered in fifteen seconds is not going to hand over a
+# fresh posting in time to matter, and a timeout here is genuinely cheap: the
+# sweep treats a failed request as "no news" and carries that board's known
+# roles forward, so nothing is lost and it is tried again next sweep.
+#
+# These were 25 and 2, which sounds mild and was not. A dead board cost
+# 25 + 1.5 + 25 + 3 + 25 = about eighty seconds of a worker, and with two dozen
+# boards failing on every sweep that was several minutes of the run spent
+# waiting on hosts that were never going to answer.
+TIMEOUT = 15
+RETRIES = 1
 BACKOFF = 1.5
 
 

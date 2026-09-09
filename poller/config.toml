@@ -987,6 +987,19 @@ enabled = true
 cold_slice = 80
 # A board that produced a match in this many days stays hot.
 hot_days = 21
+# ...but no more than this many may be hot on that basis at once.
+#
+# Without a cap the rule does not bound anything. A productive board is
+# re-stamped every sweep it keeps matching, so the window never expires it, and
+# once the matcher widened to three tracks 578 boards went permanently hot. The
+# sweep grew to 879 requests and eight minutes, the one-minute schedule became
+# unmeetable, and GitHub started dropping the fires it could not keep up with:
+# measured gaps of 45 to 75 minutes between sweeps.
+#
+# Measured on the live registry, shortening hot_days does not help, because the
+# boards are all freshly stamped: 21 days and 1 day both leave about 570 hot.
+# The cap is what puts the rest back into rotation.
+max_hot = 150
 
 [sources.simplify]
 # Coverage net for companies not on the three ATSs above.

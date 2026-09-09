@@ -41,7 +41,12 @@ NOTIFY_BURST_LIMIT = 12
 
 # Parallel fetches. Small enough to stay polite to any single ATS, large
 # enough that a sweep finishes well inside the cron interval.
-FETCH_WORKERS = 12
+#
+# Raised from 12 once a sweep was taking eight minutes. The requests are spread
+# across eight ATS platforms plus the Canadian aggregators, so 32 in flight is
+# about four per host, which is the same load the hunt command has been putting
+# on them for weeks without trouble.
+FETCH_WORKERS = 32
 
 # How long a role survives on a board that has stopped confirming it. The
 # rotation reaches every board about every twelve minutes, so anything near
@@ -71,10 +76,11 @@ def select_targets(cfg, registry, health):
     rotation = cfg.get("rotation", {})
     slice_size = int(rotation.get("cold_slice", 40))
     hot_seconds = int(rotation.get("hot_days", 21)) * 86400
+    max_hot = int(rotation.get("max_hot", 150))
     now = time.time()
 
     all_targets = list(sources.iter_configured(cfg, registry))
-    hot, cold = [], []
+    pinned, earned, cold = [], [], []
     for target in all_targets:
         source, key = target
         # The aggregator and Amazon are always hot: they are few and they are
@@ -82,23 +88,52 @@ def select_targets(cfg, registry, health):
         # which now matters a great deal more: discovery finds ~370 Workday
         # boards on its own, and polling those every sweep would be abuse.
         if source not in discover.SOURCES:
-            hot.append(target)
+            pinned.append(target)
             continue
         entry = registry.get(source, {}).get(key, {})
         # "hunted-ca" boards are hot for the same reason config ones are: they
-        # were put there deliberately. They are the 75 Canadian employers the
+        # were put there deliberately. They are the 115 Canadian employers the
         # hunt confirmed, and leaving them in a rotation that takes about
         # twelve minutes to come round would mean the roles this tool was
         # widened to catch are the ones it sees last. They are conditional
         # requests, so an unchanged board costs a 304 and no payload.
-        if entry.get("origin") in ("config", "hunted-ca") or (
-            entry.get("last_match") and now - entry["last_match"] < hot_seconds
-        ):
-            hot.append(target)
+        if entry.get("origin") in ("config", "hunted-ca"):
+            pinned.append(target)
+        elif entry.get("last_match") and now - entry["last_match"] < hot_seconds:
+            earned.append((entry["last_match"], target))
         else:
             cold.append(target)
 
+    # The cap, and the reason it has to exist.
+    #
+    # A board earns "hot" by producing a match, and it is re-stamped on every
+    # sweep it keeps producing one, so the hot_days window never expires a
+    # board that stays productive. That was harmless while the matcher was
+    # narrow. Once it widened to three tracks nearly every board matched
+    # something, 578 boards went permanently hot, and the rotation that exists
+    # to bound the work per sweep stopped bounding anything: 879 requests a
+    # sweep, eight minutes to run, and a one-minute schedule that could not
+    # possibly be met.
+    #
+    # Measured on the live registry, shortening the window does almost nothing
+    # for exactly that reason: 21 days and 1 day both leave about 570 hot. A
+    # cap is the only thing that restores the bound, so the freshest matches
+    # stay hot and the rest go back into rotation.
+    earned.sort(key=lambda pair: -pair[0])
+    hot = pinned + [t for _, t in earned[:max_hot]]
+    cold += [t for _, t in earned[max_hot:]]
+    # Sorted so the rotation window is stable from sweep to sweep. Without it
+    # the demoted boards land in an order that shifts as their match times do,
+    # and the window walks over a list that moves underneath it.
+    cold.sort()
+
+    health["hot_pinned"] = len(pinned)
+    health["hot_earned"] = min(len(earned), max_hot)
+    health["hot_demoted"] = max(0, len(earned) - max_hot)
+
     if not cold:
+        health["hot_boards"] = len(hot)
+        health["cold_boards"] = 0
         return all_targets, hot
 
     offset = int(health.get("rotation_offset", 0)) % len(cold)
