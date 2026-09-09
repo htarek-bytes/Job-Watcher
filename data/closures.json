@@ -2,48 +2,6 @@
  "closed": [
   {
    "closed_at": 1788750686,
-   "company": "Jobs for Humanity",
-   "hours_open": 0.1,
-   "title": "Technical Sales Executive",
-   "uid": "smartrecruiters:JobsForHumanity:744000146350529"
-  },
-  {
-   "closed_at": 1788750686,
-   "company": "anthropic",
-   "hours_open": 0.1,
-   "title": "Recruiting Solutions Engineer",
-   "uid": "greenhouse:anthropic:5290838008"
-  },
-  {
-   "closed_at": 1788750686,
-   "company": "thenuclearcompany",
-   "hours_open": 0.1,
-   "title": "Electrical Sales Engineer ",
-   "uid": "greenhouse:thenuclearcompany:5303172008"
-  },
-  {
-   "closed_at": 1788750686,
-   "company": "openai",
-   "hours_open": 0.1,
-   "title": "IT Solutions Engineer",
-   "uid": "ashby:openai:6c6c1ace-12d6-48f0-88f0-488ff8521571"
-  },
-  {
-   "closed_at": 1788750686,
-   "company": "canonical",
-   "hours_open": 0.1,
-   "title": "Software Engineer - Solutions Engineering",
-   "uid": "greenhouse:canonical:3290946"
-  },
-  {
-   "closed_at": 1788750686,
-   "company": "New Flyer",
-   "hours_open": 0.1,
-   "title": "Technical Sales Analyst",
-   "uid": "workable:new-flyer:F48C7AB187"
-  },
-  {
-   "closed_at": 1788750686,
    "company": "Focus Group",
    "hours_open": 0.1,
    "title": "IT Solutions Engineer (Networking)",
@@ -5599,8 +5557,50 @@
    "hours_open": 137.1,
    "title": "Explosive Operations Engineer",
    "uid": "greenhouse:andurilindustries:5205509007"
+  },
+  {
+   "closed_at": 1788954774,
+   "company": "twitch",
+   "hours_open": 138.9,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1788954774,
+   "company": "td",
+   "hours_open": 18.2,
+   "title": "Associate Software Engineer",
+   "uid": "workday:td.wd3/TD_Bank_Careers:Associate-Software-Engineer_R_1509806"
+  },
+  {
+   "closed_at": 1788954774,
+   "company": "tsc",
+   "hours_open": 13.0,
+   "title": "Junior Electrical Test Engineer",
+   "uid": "workday:tsc.wd12/TSC-Careers:Junior-Electrical-Test-Engineer_JR2782"
+  },
+  {
+   "closed_at": 1788954774,
+   "company": "trimble",
+   "hours_open": 20.7,
+   "title": "Software Engineering Intern",
+   "uid": "workday:trimble.wd1/TrimbleCareers:Software-Engineering-Intern_R57676"
+  },
+  {
+   "closed_at": 1788954774,
+   "company": "spacex",
+   "hours_open": 138.9,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1788954774,
+   "company": "spacex",
+   "hours_open": 138.9,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
   }
  ],
- "count": 802,
- "updated_at": 1788954436
+ "count": 806,
+ "updated_at": 1788954775
 }
