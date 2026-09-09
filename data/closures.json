@@ -2,27 +2,6 @@
  "closed": [
   {
    "closed_at": 1788808292,
-   "company": "gevernova",
-   "hours_open": 69.7,
-   "title": "GE Vernova GridOS  Project Engineer - Co-Op/Intern - January 2027-June 2027",
-   "uid": "workday:gevernova.wd5/vernova_externalsite:GE-Vernova-GridOS--Project-Engineer---Co-Op-Intern---January-2027-June-2027_R5050087-2"
-  },
-  {
-   "closed_at": 1788808292,
-   "company": "gevernova",
-   "hours_open": 72.1,
-   "title": "GE Vernova - Project Engineer Intern - Summer 2027",
-   "uid": "workday:gevernova.wd5/vernova_externalsite:GE-Vernova---Project-Engineer-Intern---Summer-2027_R5050026-2"
-  },
-  {
-   "closed_at": 1788808292,
-   "company": "kbr",
-   "hours_open": 101.6,
-   "title": "Project Engineer I",
-   "uid": "workday:kbr.wd5/KBR_Careers:Project-Engineer-I_R2129322"
-  },
-  {
-   "closed_at": 1788808292,
    "company": "kbr",
    "hours_open": 119.6,
    "title": "Junior Software Engineer",
@@ -5599,8 +5578,29 @@
    "hours_open": 148.4,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1788990553,
+   "company": "twitch",
+   "hours_open": 145.9,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1788990553,
+   "company": "spacex",
+   "hours_open": 148.9,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1788990553,
+   "company": "spacex",
+   "hours_open": 167.8,
+   "title": "New Graduate Engineer, Mechanical (Starshield)",
+   "uid": "greenhouse:spacex:8493166002"
   }
  ],
- "count": 805,
- "updated_at": 1788989022
+ "count": 803,
+ "updated_at": 1788990554
 }
