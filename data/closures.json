@@ -1,62 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1788760848,
-   "company": "relx",
-   "hours_open": 106.4,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - June)",
-   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-2"
-  },
-  {
-   "closed_at": 1788760848,
-   "company": "relx",
-   "hours_open": 106.4,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Boca Raton - June)",
-   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Boca-Raton---June-_R116023"
-  },
-  {
-   "closed_at": 1788760848,
-   "company": "T-Mobile",
-   "hours_open": 121.7,
-   "title": "Associate Engineer - Software",
-   "uid": "simplify:listings:3bc55d73-aad9-40b7-a280-35c949dc01a6"
-  },
-  {
-   "closed_at": 1788761439,
-   "company": "twitch",
-   "hours_open": 82.3,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1788761439,
-   "company": "kbr",
-   "hours_open": 88.6,
-   "title": "Project Engineer I",
-   "uid": "workday:kbr.wd5/KBR_Careers:Project-Engineer-I_R2129322"
-  },
-  {
-   "closed_at": 1788761439,
-   "company": "kbr",
-   "hours_open": 106.6,
-   "title": "Junior Software Engineer",
-   "uid": "workday:kbr.wd5/KBR_Careers:Junior-Software-Engineer_R2122294"
-  },
-  {
-   "closed_at": 1788761439,
-   "company": "spacex",
-   "hours_open": 82.3,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1788761439,
-   "company": "spacex",
-   "hours_open": 85.2,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
    "closed_at": 1788770443,
    "company": "bmo",
    "hours_open": 2.7,
@@ -5599,8 +5543,64 @@
    "hours_open": 142.7,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1788970719,
+   "company": "twitch",
+   "hours_open": 140.4,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1788970719,
+   "company": "Sia",
+   "hours_open": 15.5,
+   "title": "Junior Engineer",
+   "uid": "smartrecruiters:Sia:744000147951029"
+  },
+  {
+   "closed_at": 1788970719,
+   "company": "Amazon",
+   "hours_open": 180.0,
+   "title": "Software Development Engineer - Early Career",
+   "uid": "simplify:listings:00e9ac82-474b-46a0-bc46-aa9e240f3efd"
+  },
+  {
+   "closed_at": 1788970719,
+   "company": "ecopiatech",
+   "hours_open": 143.4,
+   "title": "Frontend Engineer",
+   "uid": "bamboohr:ecopiatech:117"
+  },
+  {
+   "closed_at": 1788970719,
+   "company": "coinbase",
+   "hours_open": 143.4,
+   "title": "Software Engineer, CDP - Stablecoin",
+   "uid": "greenhouse:coinbase:8092485"
+  },
+  {
+   "closed_at": 1788970719,
+   "company": "Amazon",
+   "hours_open": 55.6,
+   "title": "Software Development Engineer, International Emerging Stores Sub-same Day",
+   "uid": "amazon:amazon:10530852"
+  },
+  {
+   "closed_at": 1788970719,
+   "company": "spacex",
+   "hours_open": 140.4,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1788970719,
+   "company": "spacex",
+   "hours_open": 143.4,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
   }
  ],
- "count": 810,
- "updated_at": 1788968250
+ "count": 808,
+ "updated_at": 1788970722
 }
