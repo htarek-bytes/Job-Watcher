@@ -1,48 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1788808292,
-   "company": "kbr",
-   "hours_open": 119.6,
-   "title": "Junior Software Engineer",
-   "uid": "workday:kbr.wd5/KBR_Careers:Junior-Software-Engineer_R2122294"
-  },
-  {
-   "closed_at": 1788808292,
-   "company": "spacex",
-   "hours_open": 95.3,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1788808292,
-   "company": "spacex",
-   "hours_open": 98.2,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1788808994,
-   "company": "twitch",
-   "hours_open": 98.4,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1788808994,
-   "company": "bmo",
-   "hours_open": 100.2,
-   "title": "Machine Learning Developer (New or Recent Graduate)",
-   "uid": "workday:bmo.wd3/Campus:Machine-Learning-Developer--New-or-Recent-Graduate-_R260024265-1"
-  },
-  {
-   "closed_at": 1788808994,
-   "company": "spacex",
-   "hours_open": 98.4,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
    "closed_at": 1788808994,
    "company": "spacex",
    "hours_open": 96.7,
@@ -5599,8 +5557,50 @@
    "hours_open": 167.8,
    "title": "New Graduate Engineer, Mechanical (Starshield)",
    "uid": "greenhouse:spacex:8493166002"
+  },
+  {
+   "closed_at": 1788993179,
+   "company": "wachter",
+   "hours_open": 31.4,
+   "title": "Professional Services Junior Engineer",
+   "uid": "lever:wachter:d6e087b3-90b6-447a-9b0d-fbe93f28c8a3"
+  },
+  {
+   "closed_at": 1788993179,
+   "company": "twitch",
+   "hours_open": 149.6,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1788993179,
+   "company": "relativity",
+   "hours_open": 168.5,
+   "title": "Stage Development Engineer I",
+   "uid": "greenhouse:relativity:8652743002"
+  },
+  {
+   "closed_at": 1788993179,
+   "company": "zoox",
+   "hours_open": 146.6,
+   "title": "Contract Student Worker System Test Engineer (Full-time)",
+   "uid": "lever:zoox:c794f77e-c39d-44f2-9309-8bc904e0f868"
+  },
+  {
+   "closed_at": 1788993179,
+   "company": "tsmg",
+   "hours_open": 29.4,
+   "title": "Self-Driving Systems Specialist (SDS Specialist)",
+   "uid": "lever:tsmg:e9e7de66-a10a-4c76-b52a-efe67de8baaa"
+  },
+  {
+   "closed_at": 1788993179,
+   "company": "spacex",
+   "hours_open": 147.9,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
- "count": 803,
- "updated_at": 1788990554
+ "count": 806,
+ "updated_at": 1788993179
 }
