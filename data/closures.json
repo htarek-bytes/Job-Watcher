@@ -2,20 +2,6 @@
  "closed": [
   {
    "closed_at": 1788750686,
-   "company": "gevernova",
-   "hours_open": 56.1,
-   "title": "GE Vernova - Project Engineer Intern - Summer 2027",
-   "uid": "workday:gevernova.wd5/vernova_externalsite:GE-Vernova---Project-Engineer-Intern---Summer-2027_R5050026-2"
-  },
-  {
-   "closed_at": 1788750686,
-   "company": "Blackline Safety",
-   "hours_open": 0.1,
-   "title": "Technical Sales Representative",
-   "uid": "workable:blacklinesafety:2E85E3C441"
-  },
-  {
-   "closed_at": 1788750686,
    "company": "Jobs for Humanity",
    "hours_open": 0.1,
    "title": "Technical Sales Executive",
@@ -5599,8 +5585,22 @@
    "hours_open": 136.8,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1788954436,
+   "company": "Maven Securities",
+   "hours_open": 146.7,
+   "title": "Developer New Grad",
+   "uid": "simplify:listings:830d601a-f246-424f-8b08-23956510de08"
+  },
+  {
+   "closed_at": 1788954436,
+   "company": "andurilindustries",
+   "hours_open": 137.1,
+   "title": "Explosive Operations Engineer",
+   "uid": "greenhouse:andurilindustries:5205509007"
   }
  ],
- "count": 806,
- "updated_at": 1788948248
+ "count": 802,
+ "updated_at": 1788954436
 }
