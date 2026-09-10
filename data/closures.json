@@ -1,55 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1788859705,
-   "company": "lyft",
-   "hours_open": 112.5,
-   "title": "Software Engineer, Routing",
-   "uid": "greenhouse:lyft:8688776002"
-  },
-  {
-   "closed_at": 1788859705,
-   "company": "Zebra Technologies",
-   "hours_open": 112.5,
-   "title": "Software Engineer 1",
-   "uid": "simplify:listings:088f2658-1b13-4453-b678-b6c87fc55fd9"
-  },
-  {
-   "closed_at": 1788859705,
-   "company": "relx",
-   "hours_open": 131.5,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - January)",
-   "uid": "workday:relx.wd3/RiskSolutions:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617"
-  },
-  {
-   "closed_at": 1788859705,
-   "company": "relx",
-   "hours_open": 131.5,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - June)",
-   "uid": "workday:relx.wd3/RiskSolutions:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-1"
-  },
-  {
-   "closed_at": 1788859705,
-   "company": "relx",
-   "hours_open": 131.5,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Boca Raton - June)",
-   "uid": "workday:relx.wd3/RiskSolutions:Tech-Accelerate-Graduate-Program---Software-Engineer--Boca-Raton---June-_R116023-2"
-  },
-  {
-   "closed_at": 1788859705,
-   "company": "mmc",
-   "hours_open": 129.4,
-   "title": "Junior Python Engineer @MarshTech",
-   "uid": "workday:mmc.wd1/mmc:Junior-Python-Engineer--MarshTech_R_362442-1"
-  },
-  {
-   "closed_at": 1788859958,
-   "company": "bmo",
-   "hours_open": 27.5,
-   "title": "Junior Software Developer, Winter 2027 (Co-op/Internship) - 4 Months",
-   "uid": "workday:bmo.wd3/External:Junior-Software-Developer--Winter-2027--Co-op-Internship----4-Months_R260024650-1"
-  },
-  {
    "closed_at": 1788859958,
    "company": "bmo",
    "hours_open": 27.5,
@@ -5599,8 +5550,57 @@
    "hours_open": 168.5,
    "title": "Software Development Engineer, Amazon Leo",
    "uid": "amazon:amazon:10526555"
+  },
+  {
+   "closed_at": 1789062742,
+   "company": "twitch",
+   "hours_open": 166.0,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1789062742,
+   "company": "CGI",
+   "hours_open": 48.7,
+   "title": "Conseiller en gouvernance de la cybersécurité",
+   "uid": "jobillico:analyste cybersecurite:17433756"
+  },
+  {
+   "closed_at": 1789062742,
+   "company": "Amazon",
+   "hours_open": 168.9,
+   "title": "Software Development Engineer, AWS OpenSearch Service",
+   "uid": "amazon:amazon:10522267"
+  },
+  {
+   "closed_at": 1789062742,
+   "company": "hive",
+   "hours_open": 166.0,
+   "title": "Systems Engineer / DevOps",
+   "uid": "lever:hive:efb68714-6896-4987-8d12-f06622323b2a"
+  },
+  {
+   "closed_at": 1789062742,
+   "company": "spacex",
+   "hours_open": 168.9,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1789062742,
+   "company": "spacex",
+   "hours_open": 167.2,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1789062742,
+   "company": "wyetechllc",
+   "hours_open": 196.9,
+   "title": "Software Engineer 1",
+   "uid": "lever:wyetechllc:a1dbedae-7905-44a0-99be-a6fadd39d0ad"
   }
  ],
- "count": 809,
- "updated_at": 1789061243
+ "count": 807,
+ "updated_at": 1789062743
 }
