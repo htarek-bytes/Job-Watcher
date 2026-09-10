@@ -2,13 +2,6 @@
  "closed": [
   {
    "closed_at": 1788826902,
-   "company": "kbr",
-   "hours_open": 106.8,
-   "title": "Project Engineer I",
-   "uid": "workday:kbr.wd5/KBR_Careers:Project-Engineer-I_R2129322"
-  },
-  {
-   "closed_at": 1788826902,
    "company": "spacex",
    "hours_open": 101.7,
    "title": "Software Engineer (Starship)",
@@ -5599,8 +5592,15 @@
    "hours_open": 157.2,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1789022219,
+   "company": "CGI",
+   "hours_open": 37.5,
+   "title": "Conseiller en gouvernance de la cybersécurité",
+   "uid": "jobillico:analyste cybersecurite:17433756"
   }
  ],
- "count": 804,
- "updated_at": 1789020475
+ "count": 801,
+ "updated_at": 1789022219
 }
