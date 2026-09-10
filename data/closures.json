@@ -3,20 +3,6 @@
   {
    "closed_at": 1788848313,
    "company": "spacex",
-   "hours_open": 106.4,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1788848313,
-   "company": "spacex",
-   "hours_open": 109.3,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1788848313,
-   "company": "spacex",
    "hours_open": 107.7,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
@@ -5599,8 +5585,22 @@
    "hours_open": 17.2,
    "title": "cloud administrator",
    "uid": "jobbank:cloud administrator:50249613"
+  },
+  {
+   "closed_at": 1789054080,
+   "company": "Groupe Mario Coté",
+   "hours_open": 21.6,
+   "title": "Administrateur de réseau",
+   "uid": "jobillico:analyste reseau:17511981"
+  },
+  {
+   "closed_at": 1789054080,
+   "company": "spacex",
+   "hours_open": 166.2,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
   }
  ],
- "count": 801,
- "updated_at": 1789052602
+ "count": 802,
+ "updated_at": 1789054081
 }
