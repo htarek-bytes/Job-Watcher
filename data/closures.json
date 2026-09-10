@@ -2,55 +2,6 @@
  "closed": [
   {
    "closed_at": 1788880168,
-   "company": "tenstorrent",
-   "hours_open": 94.7,
-   "title": "Corporate Development Associate - Strategic Deals",
-   "uid": "greenhouse:tenstorrent:5227925007"
-  },
-  {
-   "closed_at": 1788880168,
-   "company": "gevernova",
-   "hours_open": 89.7,
-   "title": "GE Vernova GridOS  Project Engineer - Co-Op/Intern - January 2027-June 2027",
-   "uid": "workday:gevernova.wd5/vernova_externalsite:GE-Vernova-GridOS--Project-Engineer---Co-Op-Intern---January-2027-June-2027_R5050087-2"
-  },
-  {
-   "closed_at": 1788880168,
-   "company": "pae",
-   "hours_open": 113.8,
-   "title": "Controls & Instrumentation Engineer Intern",
-   "uid": "workday:pae.wd1/amentum_careers:Controls---Instrumentation-Engineer-Intern_R0169793"
-  },
-  {
-   "closed_at": 1788880168,
-   "company": "Micron Technology",
-   "hours_open": 154.8,
-   "title": "Design Readiness Engineer New Grad",
-   "uid": "simplify:listings:f573c4ba-c0c2-427b-9b9c-8883e7a6b724"
-  },
-  {
-   "closed_at": 1788880168,
-   "company": "mmc",
-   "hours_open": 8.8,
-   "title": "Junior Python Engineer @MarshTech",
-   "uid": "workday:mmc.wd1/MMC:Junior-Python-Engineer--MarshTech_R_362442-1"
-  },
-  {
-   "closed_at": 1788880168,
-   "company": "trimble",
-   "hours_open": 130.5,
-   "title": "Software Engineering Intern",
-   "uid": "workday:trimble.wd1/TrimbleCareers:Software-Engineering-Intern_R56614"
-  },
-  {
-   "closed_at": 1788880168,
-   "company": "Wavestone",
-   "hours_open": 154.8,
-   "title": "Junior AI Engineer - AI & Data Team",
-   "uid": "simplify:listings:a0232ac3-fb39-45ea-8cae-40341afe8099"
-  },
-  {
-   "closed_at": 1788880168,
    "company": "cadence",
    "hours_open": 142.3,
    "title": "Adams Application Software Developer  (Recent Grad 2026)",
@@ -5599,8 +5550,57 @@
    "hours_open": 172.3,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1789079134,
+   "company": "twitch",
+   "hours_open": 170.5,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1789079134,
+   "company": "applied",
+   "hours_open": 173.5,
+   "title": "Software Engineer - Prediction and Planning ML",
+   "uid": "ashby:applied:1b268893-9c79-4d59-abc2-4ab0e769f5b5"
+  },
+  {
+   "closed_at": 1789079134,
+   "company": "Article",
+   "hours_open": 50.1,
+   "title": "software developer",
+   "uid": "jobbank:entry level software developer:50244359"
+  },
+  {
+   "closed_at": 1789079134,
+   "company": "Amazon",
+   "hours_open": 171.8,
+   "title": "Software Development Engineer, Amazon",
+   "uid": "amazon:amazon:10529021"
+  },
+  {
+   "closed_at": 1789079134,
+   "company": "asana",
+   "hours_open": 91.4,
+   "title": "Technical Solutions Engineer, Command",
+   "uid": "greenhouse:asana:8027447"
+  },
+  {
+   "closed_at": 1789079134,
+   "company": "spacex",
+   "hours_open": 173.2,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1789079134,
+   "company": "spacex",
+   "hours_open": 173.5,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 805,
- "updated_at": 1789074883
+ "count": 807,
+ "updated_at": 1789079135
 }
