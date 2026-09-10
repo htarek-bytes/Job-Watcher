@@ -1,69 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1788848313,
-   "company": "spacex",
-   "hours_open": 107.7,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1788848894,
-   "company": "mmc",
-   "hours_open": 0.2,
-   "title": "Junior Python Engineer @MarshTech",
-   "uid": "workday:mmc.wd1/MMC:Junior-Python-Engineer--MarshTech_R_362442-1"
-  },
-  {
-   "closed_at": 1788859705,
-   "company": "bmo",
-   "hours_open": 27.5,
-   "title": "Junior Software Developer, Winter 2027 (Co-op/Internship) - 4 Months",
-   "uid": "workday:bmo.wd3/External:Junior-Software-Developer--Winter-2027--Co-op-Internship----4-Months_R260024650-1"
-  },
-  {
-   "closed_at": 1788859705,
-   "company": "bmo",
-   "hours_open": 27.5,
-   "title": "Software Developer, Winter 2027 (Co-op/Internship) - 12 Months",
-   "uid": "workday:bmo.wd3/External:Software-Developer--Winter-2027--Co-op-Internship----12-Months_R260024678-1"
-  },
-  {
-   "closed_at": 1788859705,
-   "company": "bmo",
-   "hours_open": 27.5,
-   "title": "Software Developer, Winter 2027 (Co-op/Internship) - 4 Months",
-   "uid": "workday:bmo.wd3/External:Software-Developer--Winter-2027--Co-op-Internship----4-Months_R260024638"
-  },
-  {
-   "closed_at": 1788859705,
-   "company": "bmo",
-   "hours_open": 27.5,
-   "title": "Software Developer, Winter 2027 (Co-op/Internship) - 8 Months",
-   "uid": "workday:bmo.wd3/External:Software-Developer--Winter-2027--Co-op-Internship----8-Months_R260024640-3"
-  },
-  {
-   "closed_at": 1788859705,
-   "company": "gevernova",
-   "hours_open": 83.6,
-   "title": "GE Vernova GridOS  Project Engineer - Co-Op/Intern - January 2027-June 2027",
-   "uid": "workday:gevernova.wd5/only_confidential_executive_recruiting:GE-Vernova-GridOS--Project-Engineer---Co-Op-Intern---January-2027-June-2027_R5050087-1"
-  },
-  {
-   "closed_at": 1788859705,
-   "company": "gevernova",
-   "hours_open": 89.0,
-   "title": "GE Vernova - Project Engineer Intern - Summer 2027",
-   "uid": "workday:gevernova.wd5/only_confidential_executive_recruiting:GE-Vernova---Project-Engineer-Intern---Summer-2027_R5050026-1"
-  },
-  {
-   "closed_at": 1788859705,
-   "company": "bmo",
-   "hours_open": 108.1,
-   "title": "Machine Learning Developer (New or Recent Graduate)",
-   "uid": "workday:bmo.wd3/External:Machine-Learning-Developer--New-or-Recent-Graduate-_R260024265"
-  },
-  {
    "closed_at": 1788859705,
    "company": "lyft",
    "hours_open": 112.5,
@@ -5599,8 +5536,71 @@
    "hours_open": 166.2,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1789061242,
+   "company": "felix",
+   "hours_open": 168.5,
+   "title": "IT Systems Engineer",
+   "uid": "ashby:felix:5ed65d14-4f8e-43cc-9515-2698d86cff1e"
+  },
+  {
+   "closed_at": 1789061242,
+   "company": "trace3",
+   "hours_open": 39.9,
+   "title": "Algorithm Software Engineer",
+   "uid": "greenhouse:trace3:8164535"
+  },
+  {
+   "closed_at": 1789061242,
+   "company": "stripe",
+   "hours_open": 168.5,
+   "title": "Software Engineer, Backend Engineer- Credit Coverage",
+   "uid": "greenhouse:stripe:8130578"
+  },
+  {
+   "closed_at": 1789061242,
+   "company": "Logesco Informatique",
+   "hours_open": 48.3,
+   "title": "Administrateur de réseau",
+   "uid": "jobillico:analyste reseau:17188132"
+  },
+  {
+   "closed_at": 1789061242,
+   "company": "Amazon",
+   "hours_open": 168.5,
+   "title": "Software Development Engineer, DevX LIFT",
+   "uid": "amazon:amazon:10526482"
+  },
+  {
+   "closed_at": 1789061242,
+   "company": "spacex",
+   "hours_open": 168.5,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1789061242,
+   "company": "Amazon",
+   "hours_open": 23.6,
+   "title": "Software Development Engineer , Amazon Leo , Amazon Leo Commerce",
+   "uid": "amazon:amazon:10534657"
+  },
+  {
+   "closed_at": 1789061242,
+   "company": "Amazon",
+   "hours_open": 168.5,
+   "title": "Software Development Engineer (SDE), SDN, Amazon LEO",
+   "uid": "amazon:amazon:10526793"
+  },
+  {
+   "closed_at": 1789061242,
+   "company": "Amazon",
+   "hours_open": 168.5,
+   "title": "Software Development Engineer, Amazon Leo",
+   "uid": "amazon:amazon:10526555"
   }
  ],
- "count": 802,
- "updated_at": 1789054081
+ "count": 809,
+ "updated_at": 1789061243
 }
