@@ -1,20 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1788880168,
-   "company": "relx",
-   "hours_open": 139.5,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - June)",
-   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-2"
-  },
-  {
-   "closed_at": 1788880168,
-   "company": "relx",
-   "hours_open": 139.5,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Boca Raton - June)",
-   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Boca-Raton---June-_R116023"
-  },
-  {
    "closed_at": 1788880855,
    "company": "bmo",
    "hours_open": 34.4,
@@ -5599,8 +5585,22 @@
    "hours_open": 171.9,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1789080617,
+   "company": "lexical",
+   "hours_open": 32.3,
+   "title": "AI Solutions Engineer",
+   "uid": "bamboohr:lexical:82"
+  },
+  {
+   "closed_at": 1789080617,
+   "company": "nexthopai",
+   "hours_open": 53.1,
+   "title": "Associate Customer Engineer – Network",
+   "uid": "bamboohr:nexthopai:90"
   }
  ],
- "count": 808,
- "updated_at": 1789079557
+ "count": 802,
+ "updated_at": 1789080619
 }
