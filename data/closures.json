@@ -1,34 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1788867449,
-   "company": "spacex",
-   "hours_open": 114.7,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1788875395,
-   "company": "kayak",
-   "hours_open": 116.9,
-   "title": "Associate JAVA Software Engineer",
-   "uid": "ashby:kayak:719de6d8-b245-4323-aba3-435d160c018e"
-  },
-  {
-   "closed_at": 1788875395,
-   "company": "altentechnologyusa",
-   "hours_open": 115.2,
-   "title": "ADAS Performance Engineer - Vehicle Development",
-   "uid": "greenhouse:altentechnologyusa:5212908007"
-  },
-  {
-   "closed_at": 1788875395,
-   "company": "gevernova",
-   "hours_open": 88.0,
-   "title": "GE Vernova GridOS  Project Engineer - Co-Op/Intern - January 2027-June 2027",
-   "uid": "workday:gevernova.wd5/only_confidential_executive_recruiting:GE-Vernova-GridOS--Project-Engineer---Co-Op-Intern---January-2027-June-2027_R5050087-1"
-  },
-  {
    "closed_at": 1788875395,
    "company": "intel",
    "hours_open": 138.3,
@@ -5599,8 +5571,36 @@
    "hours_open": 25.3,
    "title": "Software Engineering Intern – Summer 2027",
    "uid": "workday:caci.wd1/external:Software-Engineering-Intern---Summer-2027_331742"
+  },
+  {
+   "closed_at": 1789070853,
+   "company": "CGI",
+   "hours_open": 51.0,
+   "title": "Conseiller en gouvernance de la cybersécurité",
+   "uid": "jobillico:analyste cybersecurite:17433756"
+  },
+  {
+   "closed_at": 1789070853,
+   "company": "dexcom",
+   "hours_open": 189.0,
+   "title": "Software Development Engineer 1",
+   "uid": "workday:dexcom.wd1/Dexcom:Software-Development-Engineer-1_JR120540"
+  },
+  {
+   "closed_at": 1789070853,
+   "company": "entegris",
+   "hours_open": 25.3,
+   "title": "Quality Engineer Co-Op",
+   "uid": "workday:entegris.wd1/entegriscareers:Quality-Engineer-Co-Op_REQ-14434"
+  },
+  {
+   "closed_at": 1789070853,
+   "company": "globalhr",
+   "hours_open": 58.7,
+   "title": "Software Engineering Intern (Summer 2027)",
+   "uid": "workday:globalhr.wd5/rec_rtx_ext_gateway:Software-Engineering-Intern--Summer-2027-_01872100"
   }
  ],
- "count": 813,
- "updated_at": 1789070336
+ "count": 804,
+ "updated_at": 1789070854
 }

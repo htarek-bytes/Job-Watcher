@@ -1,5 +1,5 @@
 {
- "count": 4455,
+ "count": 4463,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -4090,6 +4090,7 @@
   "workday:clearwateranalytics.wd1/Clearwater_Analytics_Careers:Quantitative-Developer-I_R12046": 1788390279,
   "workday:clearwateranalytics.wd1/Clearwater_Analytics_Careers:Software-Development-Engineer-I_R12047": 1788390279,
   "workday:clearwateranalytics.wd1/Clearwater_Analytics_Careers:Software-Development-Engineer-I_R12059": 1788460756,
+  "workday:cox.wd1/Cox_External_Career_Site_1:Application-Support-Engineering-Intern---Summer-2027_R202682358": 1789070853,
   "workday:cox.wd1/Cox_External_Career_Site_1:Entry-Level-Software-Engineer--Draper--UT-_R202681804": 1788390279,
   "workday:cox.wd1/Cox_External_Career_Site_1:Software-Engineering-Intern---Summer-2027--Atlanta--GA-_R202682166": 1788847246,
   "workday:cox.wd1/Cox_External_Career_Site_1:Software-Engineering-Intern---Summer-2027--Austin--TX-_R202682168": 1788848313,
@@ -4097,15 +4098,19 @@
   "workday:cox.wd1/Cox_External_Career_Site_1:Software-Engineering-Intern---Summer-2027--Draper-UT-_R202682169": 1788859705,
   "workday:cox.wd1/Cox_External_Career_Site_1:Software-Engineering-Intern---Summer-2027--Irvine--CA-_R202682173": 1788859705,
   "workday:cox.wd1/Cox_External_Career_Site_1:Software-Engineering-Intern---Summer-2027--North-Hills--NY-_R202682171-1": 1788557234,
+  "workday:cox.wd1/Cox_External_Career_Site_1:Test-Automation-Intern---Summer-2027_R202682348-1": 1789070853,
   "workday:crowdstrike.wd5/crowdstrikecareers:Engineer-I--Data-Scientist---New-Grad--Hybrid-_R29382-1": 1788390279,
   "workday:daikinapplied.wd1/Pre-Selected_Candidate_Site:Test-Engineer-I_R003050": 1788898936,
   "workday:deluxe.wd5/USA_CAN:Software-Engineer---Intern_261115WD": 1788898936,
   "workday:dexcom.wd1/Dexcom:Software-Development-Engineer-1_JR120540": 1788390279,
   "workday:dimensional.wd5/dfa_careers:Internship-in-Technology---Software-Engineer_2026-9022": 1788880168,
+  "workday:disney.wd5/disneycareerdc:Software-Engineer-I_10158076-2": 1789070853,
   "workday:disney.wd5/disneycareerdc:Software-Engineering-Intern--Spring-2027_10158599-1": 1788442300,
   "workday:draftkings.wd1/Campus_Career_Portal:Software-Engineer-Intern--Summer-2027-_JR14929": 1788947734,
   "workday:ensemblehp.wd5/ensemblehealthpartnerscareers:Solution-Engineer--Data-Governance_R048509": 1788753415,
+  "workday:entegris.wd1/entegriscareers:Cybersecurity-Engineer-Co-Op_REQ-14472-1": 1789070853,
   "workday:entegris.wd1/entegriscareers:Quality-Engineer-Co-Op_REQ-14434": 1788979927,
+  "workday:entegris.wd1/entegriscareers:Solutions-Engineering-Co-Op_REQ-14431": 1789070853,
   "workday:equifax.wd5/UR_External:Site-Reliability-Engineer-Intern_J00178674": 1788442300,
   "workday:eversource.wd1/ExternalSite:Associate-Engineer--Maintenance-Support_R-031423": 1788512368,
   "workday:eversource.wd1/ExternalSite:Associate-Engineer-Grid-Operations-Technology--Hybrid-Schedule-_R-031790-1": 1788530938,
@@ -4172,13 +4177,16 @@
   "workday:globalhr.wd5/Private_Posting_No_TMP:Software-Engineering-Intern--Summer-2027-_01871019": 1788442300,
   "workday:globalhr.wd5/Private_Posting_No_TMP:Systems-Engineer-Intern---Helmet-Displays--Summer-2027----Onsite_01867411": 1789041021,
   "workday:globalhr.wd5/Private_Posting_No_TMP:Technical-Publications-AI-ML-Technical-Developer-Intern--Summer-2027---Onsite-_01866027": 1788442300,
+  "workday:globalhr.wd5/rec_rtx_ext_gateway:Digital-Hardware-Design-Engineer--2027-New-College-Graduate-_01873795": 1789070853,
   "workday:globalhr.wd5/rec_rtx_ext_gateway:Ingnieur---Programme-de-rotation-de-nouveaux-gradues-2027---Engineer---New-Graduate-Rotation-Program-2027_01870776-1": 1788377607,
   "workday:globalhr.wd5/rec_rtx_ext_gateway:Junior-Stress-Engineer_01871881": 1788843455,
   "workday:globalhr.wd5/rec_rtx_ext_gateway:Life-Cycle-Systems-Engineer-I_01872772-1": 1788947734,
   "workday:globalhr.wd5/rec_rtx_ext_gateway:Software-Engineer-Co-op--Summer-Fall-2027----Onsite_01871347": 1788898936,
   "workday:globalhr.wd5/rec_rtx_ext_gateway:Software-Engineer-Intern---Summer-2027-_01870613": 1788893085,
   "workday:globalhr.wd5/rec_rtx_ext_gateway:Software-Engineering-Co-op--Fall-Spring-2027-_01872683": 1788903151,
+  "workday:globalhr.wd5/rec_rtx_ext_gateway:Software-Engineering-Co-op--Summer--Fall-2027-_01873293": 1789070853,
   "workday:globalhr.wd5/rec_rtx_ext_gateway:Software-Engineering-Intern--Summer-2027---Open-_01873623": 1788979927,
+  "workday:globalhr.wd5/rec_rtx_ext_gateway:Software-Engineering-Intern--Summer-2027-_01869001": 1789070853,
   "workday:globalhr.wd5/rec_rtx_ext_gateway:Software-Engineering-Intern--Summer-2027-_01872100": 1788859705,
   "workday:globalhr.wd5/rec_rtx_ext_gateway:Software-Engineering-Intern--Summer-2027-_01873646": 1788979927,
   "workday:globalhr.wd5/rec_rtx_ext_gateway:Software-Engineering-Intern--Summer-Fall-2027-_01873006": 1788887337,
@@ -4457,5 +4465,5 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Junior-Algorithm-Engineer_R19377": 1788377927,
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148
  },
- "updated_at": 1789070336
+ "updated_at": 1789070854
 }
