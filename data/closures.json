@@ -2,62 +2,6 @@
  "closed": [
   {
    "closed_at": 1788859958,
-   "company": "bmo",
-   "hours_open": 27.5,
-   "title": "Software Developer, Winter 2027 (Co-op/Internship) - 8 Months",
-   "uid": "workday:bmo.wd3/External:Software-Developer--Winter-2027--Co-op-Internship----8-Months_R260024640-3"
-  },
-  {
-   "closed_at": 1788859958,
-   "company": "gevernova",
-   "hours_open": 89.1,
-   "title": "GE Vernova - Project Engineer Intern - Summer 2027",
-   "uid": "workday:gevernova.wd5/only_confidential_executive_recruiting:GE-Vernova---Project-Engineer-Intern---Summer-2027_R5050026-1"
-  },
-  {
-   "closed_at": 1788859958,
-   "company": "bmo",
-   "hours_open": 108.2,
-   "title": "Machine Learning Developer (New or Recent Graduate)",
-   "uid": "workday:bmo.wd3/External:Machine-Learning-Developer--New-or-Recent-Graduate-_R260024265"
-  },
-  {
-   "closed_at": 1788859958,
-   "company": "lyft",
-   "hours_open": 112.6,
-   "title": "Software Engineer, Routing",
-   "uid": "greenhouse:lyft:8688776002"
-  },
-  {
-   "closed_at": 1788859958,
-   "company": "Zebra Technologies",
-   "hours_open": 112.6,
-   "title": "Software Engineer 1",
-   "uid": "simplify:listings:088f2658-1b13-4453-b678-b6c87fc55fd9"
-  },
-  {
-   "closed_at": 1788859958,
-   "company": "relx",
-   "hours_open": 131.6,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - January)",
-   "uid": "workday:relx.wd3/RiskSolutions:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617"
-  },
-  {
-   "closed_at": 1788859958,
-   "company": "relx",
-   "hours_open": 131.6,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - June)",
-   "uid": "workday:relx.wd3/RiskSolutions:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-1"
-  },
-  {
-   "closed_at": 1788859958,
-   "company": "relx",
-   "hours_open": 131.6,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Boca Raton - June)",
-   "uid": "workday:relx.wd3/RiskSolutions:Tech-Accelerate-Graduate-Program---Software-Engineer--Boca-Raton---June-_R116023-2"
-  },
-  {
-   "closed_at": 1788859958,
    "company": "mmc",
    "hours_open": 129.5,
    "title": "Junior Python Engineer @MarshTech",
@@ -5599,8 +5543,64 @@
    "hours_open": 26.3,
    "title": "Entry Level Transportation Engineer",
    "uid": "smartrecruiters:AECOM2:744000148511949"
+  },
+  {
+   "closed_at": 1789064584,
+   "company": "Sia",
+   "hours_open": 26.1,
+   "title": "Junior engineer",
+   "uid": "smartrecruiters:Sia:744000148534422"
+  },
+  {
+   "closed_at": 1789064584,
+   "company": "doordashusa",
+   "hours_open": 150.1,
+   "title": "Software Engineer I, Entry-Level (Graduation Date: Fall 2026-Summer 2027) - US",
+   "uid": "greenhouse:doordashusa:8163709"
+  },
+  {
+   "closed_at": 1789064584,
+   "company": "Employee Owned Holdings, Inc.",
+   "hours_open": 19.0,
+   "title": "GCC Sales Engineer Summer Internship (North Carolina)",
+   "uid": "workable:employee-owned-holdings-inc:9464F255C9"
+  },
+  {
+   "closed_at": 1789064584,
+   "company": "Sopra Steria",
+   "hours_open": 49.0,
+   "title": "Ingénieur/e validation junior Cybersécurité - Défense & Sécurité - Le Plessis Robinson",
+   "uid": "smartrecruiters:SopraSteria1:744000147967341"
+  },
+  {
+   "closed_at": 1789064584,
+   "company": "BestEx Research",
+   "hours_open": 169.1,
+   "title": "FIX Integration & Client Onboarding Engineer - Electronic Trading",
+   "uid": "workable:bestex-research:0D74C335E0"
+  },
+  {
+   "closed_at": 1789064584,
+   "company": "robinhood",
+   "hours_open": 52.6,
+   "title": "Security Engineer, Application Security",
+   "uid": "greenhouse:robinhood:7918258"
+  },
+  {
+   "closed_at": 1789064584,
+   "company": "andurilindustries",
+   "hours_open": 167.7,
+   "title": "System Engineer, Electrical Integration - Edge Compute and Communications",
+   "uid": "greenhouse:andurilindustries:5207557007"
+  },
+  {
+   "closed_at": 1789064584,
+   "company": "spacex",
+   "hours_open": 169.4,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 802,
- "updated_at": 1789063003
+ "count": 808,
+ "updated_at": 1789064585
 }
