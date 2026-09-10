@@ -2,20 +2,6 @@
  "closed": [
   {
    "closed_at": 1788822460,
-   "company": "relx",
-   "hours_open": 123.5,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - June)",
-   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-2"
-  },
-  {
-   "closed_at": 1788822460,
-   "company": "relx",
-   "hours_open": 123.5,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Boca Raton - June)",
-   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Boca-Raton---June-_R116023"
-  },
-  {
-   "closed_at": 1788822460,
    "company": "rocketlab",
    "hours_open": 95.2,
    "title": "Software Engineering Intern - Production Automation",
@@ -5599,8 +5585,22 @@
    "hours_open": 152.1,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1789002546,
+   "company": "oshkoshcorporation",
+   "hours_open": 155.6,
+   "title": "Engineer Intern - Manufacturing (Summer 2027)",
+   "uid": "workday:oshkoshcorporation.wd5/Oshkosh:Engineer-Intern---Manufacturing--Summer-2027-_R49737"
+  },
+  {
+   "closed_at": 1789002546,
+   "company": "nvidia",
+   "hours_open": 173.5,
+   "title": "Circuit Design Engineer - New College Grad 2026",
+   "uid": "workday:nvidia.wd5/NVIDIAExternalCareerSite:Circuit-Design-Engineer---New-College-Grad-2026_JR2014331"
   }
  ],
- "count": 807,
- "updated_at": 1789002051
+ "count": 802,
+ "updated_at": 1789002547
 }

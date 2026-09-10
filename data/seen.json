@@ -1,5 +1,5 @@
 {
- "count": 4373,
+ "count": 4376,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -4223,6 +4223,7 @@
   "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027--Systems-Engineer-Intern---Colorado-Springs-CO_R10249777": 1788875395,
   "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Associate-Software-Engineer---Software-Engineer---Roy-UT_R10249844-1": 1788893085,
   "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Intern-Engineer---Product-Support_R10250061": 1788981683,
+  "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Intern-Software-Engineer_R10250150": 1789002546,
   "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Intern-Systems-Engineer---CA---ND_R10249236": 1788454653,
   "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Software-Engineer-Intern---Linthicum-Maryland_R10248910": 1788442554,
   "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10249842": 1788893085,
@@ -4232,12 +4233,14 @@
   "workday:nidec.wd1/nidec:Hardware-Electronics-Engineer-I_R0014784": 1788377835,
   "workday:nidec.wd1/nidec:Sales-Engineer---MI_R0013538-1": 1788750148,
   "workday:nrel.wd5/NLR:Graduate--Year-Round--Intern---Transportation-Systems-Analysis_R14385": 1788907909,
+  "workday:ntrs.wd1/northerntrust:Technology-Intern---Software-Engineering_R160832-1": 1789002546,
   "workday:nvidia.wd5/NVIDIAExternalCareerSite:ASIC-Design-Engineer---New-College-Grad-2026_JR2020309": 1788377835,
   "workday:nvidia.wd5/NVIDIAExternalCareerSite:ASIC-Floorplan-Design-Engineer---New-College-Grad-2026_JR2024651": 1788910845,
   "workday:nvidia.wd5/NVIDIAExternalCareerSite:ASIC-Verification-Engineer---New-College-Grad-2026_JR2020640": 1788377835,
   "workday:nvidia.wd5/NVIDIAExternalCareerSite:Architecture-Energy-Modeling-Engineer---New-College-Grad-2026_JR2023398": 1788910845,
   "workday:nvidia.wd5/NVIDIAExternalCareerSite:Backend-Compiler-Engineer---New-College-Grad-2026_JR2021242": 1788377835,
   "workday:nvidia.wd5/NVIDIAExternalCareerSite:Circuit-Design-Engineer---New-College-Grad-2026_JR2014331": 1788377835,
+  "workday:nvidia.wd5/NVIDIAExternalCareerSite:Circuit-Design-Engineer---New-College-Grad-2026_JR2018635": 1789002546,
   "workday:nvidia.wd5/NVIDIAExternalCareerSite:DFT-Engineer---New-College-Grad_JR2016865": 1788377835,
   "workday:nvidia.wd5/NVIDIAExternalCareerSite:Formal-Verification-Engineer---New-College-Grad-2026_JR2020837": 1788377835,
   "workday:nvidia.wd5/NVIDIAExternalCareerSite:GPU-Architecture-Engineer---New-College-Grad-2026_JR2021615": 1788377835,
@@ -4375,5 +4378,5 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Junior-Algorithm-Engineer_R19377": 1788377927,
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148
  },
- "updated_at": 1789002051
+ "updated_at": 1789002547
 }
