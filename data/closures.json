@@ -1,48 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1788829947,
-   "company": "spacex",
-   "hours_open": 104.2,
-   "title": "Software Engineer (Components)",
-   "uid": "greenhouse:spacex:8557032002"
-  },
-  {
-   "closed_at": 1788830814,
-   "company": "twitch",
-   "hours_open": 101.5,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1788830814,
-   "company": "kbr",
-   "hours_open": 125.8,
-   "title": "Junior Software Engineer",
-   "uid": "workday:kbr.wd5/kbr_careers:Junior-Software-Engineer_R2122294"
-  },
-  {
-   "closed_at": 1788830814,
-   "company": "spacex",
-   "hours_open": 104.5,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1788831114,
-   "company": "twitch",
-   "hours_open": 104.6,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1788831114,
-   "company": "bmo",
-   "hours_open": 106.4,
-   "title": "Machine Learning Developer (New or Recent Graduate)",
-   "uid": "workday:bmo.wd3/Campus:Machine-Learning-Developer--New-or-Recent-Graduate-_R260024265-1"
-  },
-  {
    "closed_at": 1788843455,
    "company": "hp",
    "hours_open": 5.4,
@@ -5599,8 +5557,50 @@
    "hours_open": 161.6,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1789037508,
+   "company": "twitch",
+   "hours_open": 161.9,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1789037508,
+   "company": "bmo",
+   "hours_open": 41.7,
+   "title": "AI/Platform Analyst, 8 months (Co-op/Internship) - 8 months",
+   "uid": "workday:bmo.wd3/Campus:AI-Platform-Analyst--8-months--Co-op-Internship----8-months_R260026129-3"
+  },
+  {
+   "closed_at": 1789037508,
+   "company": "broadcom",
+   "hours_open": 78.9,
+   "title": "Solution Engineer - ValueOps",
+   "uid": "workday:broadcom.wd1/external_career:Solution-Engineer---ValueOps_R026472"
+  },
+  {
+   "closed_at": 1789037508,
+   "company": "bmo",
+   "hours_open": 41.7,
+   "title": "Wealth Management Development Associate, New Grad (Chicago, IL)",
+   "uid": "workday:bmo.wd3/Campus:Wealth-Management-Development-Associate--New-Grad--Chicago--IL-_R260026201-1"
+  },
+  {
+   "closed_at": 1789037508,
+   "company": "spacex",
+   "hours_open": 161.9,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1789037508,
+   "company": "spacex",
+   "hours_open": 160.2,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
- "count": 807,
- "updated_at": 1789036346
+ "count": 806,
+ "updated_at": 1789037509
 }
