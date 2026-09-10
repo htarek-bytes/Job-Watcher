@@ -1,48 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1788880855,
-   "company": "cadence",
-   "hours_open": 98.0,
-   "title": "Adams Application Software Developer  (Recent Grad 2026)",
-   "uid": "workday:cadence.wd1/University_Talent_NCG:Adams-Application-Software-Developer---Recent-Grad-2026-_R55736"
-  },
-  {
-   "closed_at": 1788880855,
-   "company": "Amazon",
-   "hours_open": 94.9,
-   "title": "Software Development Engineer , AFT-PES",
-   "uid": "amazon:amazon:10529944"
-  },
-  {
-   "closed_at": 1788880855,
-   "company": "spacex",
-   "hours_open": 118.4,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1788881079,
-   "company": "td",
-   "hours_open": 10.4,
-   "title": "2027 Summer Analyst - Software Engineering Rotational Program (Toronto)",
-   "uid": "workday:td.wd3/TD_Bank_Careers:XMLNAME-2027-Summer-Analyst---Software-Engineering-Rotational-Program--Toronto-_R_1509435"
-  },
-  {
-   "closed_at": 1788881079,
-   "company": "bmo",
-   "hours_open": 34.5,
-   "title": "Software Developer, Winter 2027 (Co-op/Internship) - 8 Months",
-   "uid": "workday:bmo.wd3/Campus:Software-Developer--Winter-2027--Co-op-Internship----8-Months_R260024640"
-  },
-  {
-   "closed_at": 1788881079,
-   "company": "generalmotors",
-   "hours_open": 92.1,
-   "title": "Entry Level Software Design Release Engineer",
-   "uid": "workday:generalmotors.wd5/Careers_GM:Entry-Level-Software-Design-Release-Engineer_JR-202618509"
-  },
-  {
    "closed_at": 1788881079,
    "company": "relx",
    "hours_open": 137.4,
@@ -5599,8 +5557,50 @@
    "hours_open": 22.6,
    "title": "Software Engineer 1",
    "uid": "simplify:listings:fcf451cc-c3d6-4cbf-ad77-d000a660390e"
+  },
+  {
+   "closed_at": 1789082121,
+   "company": "veeva",
+   "hours_open": 92.2,
+   "title": "Technical Solution Consultant - RTSM",
+   "uid": "lever:veeva:ba182ee6-bf46-40d4-b905-702b5aef8e26"
+  },
+  {
+   "closed_at": 1789082121,
+   "company": "twitch",
+   "hours_open": 174.3,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1789082121,
+   "company": "Box And Lid Inc.",
+   "hours_open": 54.1,
+   "title": "network system administrator",
+   "uid": "jobbank:systems administrator:50208234"
+  },
+  {
+   "closed_at": 1789082121,
+   "company": "until",
+   "hours_open": 171.4,
+   "title": "Machine Learning Engineer / Scientist",
+   "uid": "lever:until:b953a7f9-3024-43c2-abed-45cf5a91ddd3"
+  },
+  {
+   "closed_at": 1789082121,
+   "company": "wachter",
+   "hours_open": 153.9,
+   "title": "Level 1 NOC Engineer- Rotating Shift",
+   "uid": "lever:wachter:0078c226-bee0-497e-b648-1edcede923bc"
+  },
+  {
+   "closed_at": 1789082121,
+   "company": "spacex",
+   "hours_open": 174.0,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
   }
  ],
- "count": 804,
- "updated_at": 1789081658
+ "count": 806,
+ "updated_at": 1789082122
 }
