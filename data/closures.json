@@ -2,34 +2,6 @@
  "closed": [
   {
    "closed_at": 1788843455,
-   "company": "hp",
-   "hours_open": 5.4,
-   "title": "Software Product Security Engineer Intern",
-   "uid": "workday:hp.wd5/EXTEU-AC-CareerSite:Software-Product-Security-Engineer-Intern_UNI4740"
-  },
-  {
-   "closed_at": 1788843455,
-   "company": "twitch",
-   "hours_open": 105.1,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1788843455,
-   "company": "bmo",
-   "hours_open": 103.6,
-   "title": "Machine Learning Developer (New or Recent Graduate)",
-   "uid": "workday:bmo.wd3/External:Machine-Learning-Developer--New-or-Recent-Graduate-_R260024265"
-  },
-  {
-   "closed_at": 1788843455,
-   "company": "zebra",
-   "hours_open": 109.8,
-   "title": "Software Engineer I",
-   "uid": "workday:zebra.wd501/Zebra_careers:Software-Engineer-I_JR103056"
-  },
-  {
-   "closed_at": 1788843455,
    "company": "globalhr",
    "hours_open": 111.4,
    "title": "Technical Publications– Artificial Intelligence/Machine Learning (AI/ML) Technical Developer Intern (Summer 2027) (Onsite)",
@@ -5599,8 +5571,36 @@
    "hours_open": 160.2,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1789038976,
+   "company": "Groupe Mario Coté",
+   "hours_open": 17.4,
+   "title": "Administrateur de réseau",
+   "uid": "jobillico:analyste reseau:17511981"
+  },
+  {
+   "closed_at": 1789038976,
+   "company": "twitch",
+   "hours_open": 159.4,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1789038976,
+   "company": "spacex",
+   "hours_open": 162.0,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1789038976,
+   "company": "spacex",
+   "hours_open": 162.3,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 806,
- "updated_at": 1789037509
+ "count": 804,
+ "updated_at": 1789038976
 }
