@@ -2,41 +2,6 @@
  "closed": [
   {
    "closed_at": 1788825193,
-   "company": "bmo",
-   "hours_open": 17.9,
-   "title": "Junior Software Developer, Winter 2027 (Co-op/Internship) - 4 Months",
-   "uid": "workday:bmo.wd3/External:Junior-Software-Developer--Winter-2027--Co-op-Internship----4-Months_R260024650-1"
-  },
-  {
-   "closed_at": 1788825193,
-   "company": "bmo",
-   "hours_open": 17.9,
-   "title": "Software Developer, Winter 2027 (Co-op/Internship) - 12 Months",
-   "uid": "workday:bmo.wd3/External:Software-Developer--Winter-2027--Co-op-Internship----12-Months_R260024678-1"
-  },
-  {
-   "closed_at": 1788825193,
-   "company": "bmo",
-   "hours_open": 17.9,
-   "title": "Software Developer, Winter 2027 (Co-op/Internship) - 4 Months",
-   "uid": "workday:bmo.wd3/External:Software-Developer--Winter-2027--Co-op-Internship----4-Months_R260024638"
-  },
-  {
-   "closed_at": 1788825193,
-   "company": "bmo",
-   "hours_open": 17.9,
-   "title": "Software Developer, Winter 2027 (Co-op/Internship) - 8 Months",
-   "uid": "workday:bmo.wd3/External:Software-Developer--Winter-2027--Co-op-Internship----8-Months_R260024640-3"
-  },
-  {
-   "closed_at": 1788825193,
-   "company": "twitch",
-   "hours_open": 100.0,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1788825193,
    "company": "spacex",
    "hours_open": 100.0,
    "title": "Security Software Engineer (Starlink)",
@@ -5599,8 +5564,43 @@
    "hours_open": 154.6,
    "title": "PLM Developer",
    "uid": "greenhouse:andurilindustries:5129680007"
+  },
+  {
+   "closed_at": 1789019678,
+   "company": "Groupe Mario Coté",
+   "hours_open": 12.1,
+   "title": "Administrateur de réseau",
+   "uid": "jobillico:analyste reseau:17511981"
+  },
+  {
+   "closed_at": 1789019678,
+   "company": "twitch",
+   "hours_open": 157.0,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1789019678,
+   "company": "saronic",
+   "hours_open": 153.9,
+   "title": "Mission Operations Engineer (Product)",
+   "uid": "ashby:saronic:7d4461fa-0c32-45e5-8522-1e18ddd9135a"
+  },
+  {
+   "closed_at": 1789019678,
+   "company": "spacex",
+   "hours_open": 157.0,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1789019678,
+   "company": "spacex",
+   "hours_open": 155.3,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
- "count": 806,
- "updated_at": 1789017180
+ "count": 805,
+ "updated_at": 1789019678
 }
