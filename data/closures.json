@@ -2,13 +2,6 @@
  "closed": [
   {
    "closed_at": 1788848313,
-   "company": "Maison Russet inc",
-   "hours_open": 127.2,
-   "title": "computer programmer",
-   "uid": "jobbank:junior programmer:50000629"
-  },
-  {
-   "closed_at": 1788848313,
    "company": "spacex",
    "hours_open": 106.4,
    "title": "Security Software Engineer (Starlink)",
@@ -5599,8 +5592,15 @@
    "hours_open": 193.8,
    "title": "Junior Full Stack Engineer ($250k - $300k salary)",
    "uid": "ashby:batoncorporation:bb3ab630-5e59-48b5-9794-00a225879a66"
+  },
+  {
+   "closed_at": 1789052601,
+   "company": "Paramount Properties",
+   "hours_open": 17.2,
+   "title": "cloud administrator",
+   "uid": "jobbank:cloud administrator:50249613"
   }
  ],
  "count": 801,
- "updated_at": 1789051471
+ "updated_at": 1789052602
 }
