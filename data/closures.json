@@ -2,62 +2,6 @@
  "closed": [
   {
    "closed_at": 1788880168,
-   "company": "cadence",
-   "hours_open": 142.3,
-   "title": "Adams Application Software Developer  (Recent Grad 2026)",
-   "uid": "workday:cadence.wd1/Univ_Careers:Adams-Application-Software-Developer---Recent-Grad-2026-_R55736-2"
-  },
-  {
-   "closed_at": 1788880168,
-   "company": "globalhr",
-   "hours_open": 10.2,
-   "title": "Junior Stress Engineer - 1st Shift - Onsite | Advanced Structures",
-   "uid": "workday:globalhr.wd5/rec_rtx_ext_gateway:Junior-Stress-Engineer_01871881"
-  },
-  {
-   "closed_at": 1788880168,
-   "company": "Amazon",
-   "hours_open": 130.5,
-   "title": "Robotics - Software Development Engineer Fall Intern/Co-op - 2026",
-   "uid": "amazon:amazon:10517149"
-  },
-  {
-   "closed_at": 1788880168,
-   "company": "Amazon",
-   "hours_open": 118.2,
-   "title": "Software Development Engineer, CIA Orchestration Team",
-   "uid": "amazon:amazon:10523735"
-  },
-  {
-   "closed_at": 1788880168,
-   "company": "spacex",
-   "hours_open": 118.2,
-   "title": "Structures Test Engineer (Starship)",
-   "uid": "greenhouse:spacex:8765825002"
-  },
-  {
-   "closed_at": 1788880168,
-   "company": "spacex",
-   "hours_open": 118.2,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1788880168,
-   "company": "spacex",
-   "hours_open": 118.2,
-   "title": "Development Test Engineer, Structures (Starship)",
-   "uid": "greenhouse:spacex:8551872002"
-  },
-  {
-   "closed_at": 1788880168,
-   "company": "relx",
-   "hours_open": 139.5,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - January)",
-   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617-1"
-  },
-  {
-   "closed_at": 1788880168,
    "company": "relx",
    "hours_open": 139.5,
    "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - June)",
@@ -5599,8 +5543,64 @@
    "hours_open": 173.5,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1789079556,
+   "company": "twitch",
+   "hours_open": 173.6,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1789079556,
+   "company": "ibotta",
+   "hours_open": 166.5,
+   "title": "Analytics Engineer, Product Analytics",
+   "uid": "ashby:ibotta:2f0991e4-a316-42f4-865a-ea7e8ad8811a"
+  },
+  {
+   "closed_at": 1789079556,
+   "company": "quora",
+   "hours_open": 198.6,
+   "title": "Software Engineer, Machine Learning Platform, New Grad - Quora (Remote)",
+   "uid": "ashby:quora:452afc2e-0c79-41f8-8201-1aab7df775db"
+  },
+  {
+   "closed_at": 1789079556,
+   "company": "Snap Dance Studios",
+   "hours_open": 53.4,
+   "title": "cloud administrator",
+   "uid": "jobbank:cloud administrator:50053834"
+  },
+  {
+   "closed_at": 1789079556,
+   "company": "graymatter-robotics",
+   "hours_open": 166.5,
+   "title": "Robotics Engineer (New Grad): Government Projects",
+   "uid": "ashby:graymatter-robotics:0f5acd77-6b34-4444-9ddc-1ce91cad177c"
+  },
+  {
+   "closed_at": 1789079556,
+   "company": "spacex",
+   "hours_open": 173.6,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1789079556,
+   "company": "northwoodspace",
+   "hours_open": 173.6,
+   "title": "Tooling Engineer",
+   "uid": "ashby:northwoodspace:222776fe-9549-4699-80bd-f55edee3fd53"
+  },
+  {
+   "closed_at": 1789079556,
+   "company": "spacex",
+   "hours_open": 171.9,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
- "count": 807,
- "updated_at": 1789079135
+ "count": 808,
+ "updated_at": 1789079557
 }
