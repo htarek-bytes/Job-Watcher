@@ -1,20 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1788822460,
-   "company": "rocketlab",
-   "hours_open": 95.2,
-   "title": "Software Engineering Intern - Production Automation",
-   "uid": "greenhouse:rocketlab:7819677003"
-  },
-  {
-   "closed_at": 1788824162,
-   "company": "bmo",
-   "hours_open": 18.7,
-   "title": "Junior Software Developer, Winter 2027 (Co-op/Internship) - 4 Months",
-   "uid": "workday:bmo.wd3/Campus:Junior-Software-Developer--Winter-2027--Co-op-Internship----4-Months_R260024650-2"
-  },
-  {
    "closed_at": 1788824162,
    "company": "bmo",
    "hours_open": 18.7,
@@ -5599,8 +5585,22 @@
    "hours_open": 173.5,
    "title": "Circuit Design Engineer - New College Grad 2026",
    "uid": "workday:nvidia.wd5/NVIDIAExternalCareerSite:Circuit-Design-Engineer---New-College-Grad-2026_JR2014331"
+  },
+  {
+   "closed_at": 1789003714,
+   "company": "cerebras",
+   "hours_open": 152.5,
+   "title": "Hardware Analytics Engineer",
+   "uid": "ashby:cerebras:22332143-b54d-47f2-944e-2fc52d5446df"
+  },
+  {
+   "closed_at": 1789003714,
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
+   "hours_open": 32.3,
+   "title": "Administrateur Réseau TI",
+   "uid": "jobillico:analyste reseau:17386419"
   }
  ],
- "count": 800,
- "updated_at": 1789003196
+ "count": 802,
+ "updated_at": 1789003714
 }
