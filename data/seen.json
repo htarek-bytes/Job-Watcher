@@ -1,5 +1,5 @@
 {
- "count": 4446,
+ "count": 4455,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -93,6 +93,8 @@
   "amazon:amazon:10536359": 1789061242,
   "amazon:amazon:10536479": 1789064584,
   "amazon:amazon:10536497": 1789065654,
+  "amazon:amazon:10536501": 1789070335,
+  "amazon:amazon:10536714": 1789070335,
   "ashby:1password:4ff46f84-a5c9-4232-84b6-1dfa8e737148": 1788750148,
   "ashby:1password:7f885c41-7572-439c-886f-bc508eb9a3d7": 1788454653,
   "ashby:1password:a5b083d5-5f82-4316-b5ef-a577f2edb493": 1788750148,
@@ -1013,7 +1015,9 @@
   "greenhouse:andurilindustries:5234582007": 1789062742,
   "greenhouse:andurilindustries:5234589007": 1789062742,
   "greenhouse:andurilindustries:5234599007": 1789062742,
+  "greenhouse:andurilindustries:5234610007": 1789070335,
   "greenhouse:andurilindustries:5234616007": 1789062742,
+  "greenhouse:andurilindustries:5234680007": 1789070335,
   "greenhouse:andurilindustries:5234683007": 1789062742,
   "greenhouse:anthropic:4982193008": 1788460756,
   "greenhouse:anthropic:5290838008": 1788750148,
@@ -2508,6 +2512,7 @@
   "jobbank:developpeur junior:50245647": 1788907909,
   "jobbank:developpeur junior:50245660": 1788910845,
   "jobbank:developpeur junior:50247764": 1788931288,
+  "jobbank:developpeur junior:50257747": 1789070335,
   "jobbank:entry level software developer:50032299": 1788390279,
   "jobbank:entry level software developer:50197990": 1788390279,
   "jobbank:entry level software developer:50208511": 1788390279,
@@ -2585,6 +2590,7 @@
   "jobbank:junior software developer:50237361": 1788803301,
   "jobbank:junior software developer:50248430": 1788947734,
   "jobbank:junior software developer:50248855": 1788947734,
+  "jobbank:junior software developer:50261298": 1789070335,
   "jobbank:linux administrator:50163764": 1788887337,
   "jobbank:linux administrator:50205276": 1788887337,
   "jobbank:network administrator:49542881": 1788887337,
@@ -3972,6 +3978,7 @@
   "workday:avav.wd1/avav:Junior-Software-Engineer_8322": 1788368024,
   "workday:avav.wd1/avav:Software-Engineer-I_8682": 1788880168,
   "workday:avav.wd1/avav:Software-Engineering-Intern_8589": 1788410216,
+  "workday:avav.wd1/avav:Software-Engineering-Intern_8593": 1789070335,
   "workday:avav.wd1/avav:Summer-2027-Embedded-Software-Engineering-Intern_8388": 1788410216,
   "workday:avav.wd1/avav:Summer-2027-Software-Engineering-Intern_8611": 1788410216,
   "workday:avnet.wd1/external:Technical-Sales-Engineer-AMD-Xilinx_JR-022776-1": 1788752332,
@@ -4023,6 +4030,7 @@
   "workday:boeing.wd1/EXTERNAL_CAREERS:Associate-Software-Engineer_JR2026522810-1": 1788368024,
   "workday:boeing.wd1/EXTERNAL_CAREERS:Boeing-Engineering---Technology-Innovation-Graduate-Researcher-Program--Software-Engineering-Artificial-Intelligence-Intern_JR2026523687": 1788903151,
   "workday:boeing.wd1/EXTERNAL_CAREERS:Software-Engineer_JR2026517990-1": 1788425964,
+  "workday:boeing.wd1/external_subsidiary:Associate-Software-Engineer--Phantom-Works_JR2026523287-1": 1789070335,
   "workday:boeing.wd1/external_subsidiary:Payload-Mechanical-Design-Engineer---Entry-Level_JR2026519663": 1788472811,
   "workday:boeing.wd1/external_subsidiary:Software-Engineer_JR2026517990": 1788455648,
   "workday:boeing.wd1/external_subsidiary:Spacecraft-Systems-Engineer--Early-Career----Millennium-Space-Systems_JR2026523814": 1788386269,
@@ -4043,6 +4051,7 @@
   "workday:caci.wd1/external:Software-Developer-Data-Scientist-Intern---Summer-2027_331120": 1788979404,
   "workday:caci.wd1/external:Software-Engineer-Intern---Summer-2027_331648": 1788548796,
   "workday:caci.wd1/external:Software-Engineering-Co-op---Fall-2026_331472": 1788435390,
+  "workday:caci.wd1/external:Software-Engineering-Intern---Summer-2027_331543-1": 1789070335,
   "workday:caci.wd1/external:Software-Engineering-Intern---Summer-2027_331742": 1788979404,
   "workday:cadence.wd1/External_Careers:Adams-MultiBody-Dynamics-Application-Software-Developer--Recent-Grad-2026-_R55788": 1788368024,
   "workday:cadence.wd1/Univ_Careers:Adams-Application-Software-Developer---Recent-Grad-2026-_R55736-2": 1788368024,
@@ -4448,5 +4457,5 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Junior-Algorithm-Engineer_R19377": 1788377927,
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148
  },
- "updated_at": 1789065654
+ "updated_at": 1789070336
 }

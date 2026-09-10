@@ -1,97 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1788865873,
-   "company": "aerovect",
-   "hours_open": 111.3,
-   "title": "Software Engineer, Platform",
-   "uid": "ashby:aerovect:041ae29d-2731-4c7c-8f3f-7974f0ac01dc"
-  },
-  {
-   "closed_at": 1788865873,
-   "company": "kbr",
-   "hours_open": 135.6,
-   "title": "Junior Software Engineer",
-   "uid": "workday:kbr.wd5/KBR_Careers:Junior-Software-Engineer_R2122294"
-  },
-  {
-   "closed_at": 1788865873,
-   "company": "RTX",
-   "hours_open": 150.9,
-   "title": "Software Engineer 1",
-   "uid": "simplify:listings:262ac01b-863c-497c-9156-b439c07c4a32"
-  },
-  {
-   "closed_at": 1788867174,
-   "company": "AECOM",
-   "hours_open": 86.1,
-   "title": "Entry-Level Transportation Engineer",
-   "uid": "smartrecruiters:AECOM2:744000147601439"
-  },
-  {
-   "closed_at": 1788867174,
-   "company": "relx",
-   "hours_open": 135.9,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - January)",
-   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617-1"
-  },
-  {
-   "closed_at": 1788867174,
-   "company": "relx",
-   "hours_open": 135.9,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - June)",
-   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-2"
-  },
-  {
-   "closed_at": 1788867174,
-   "company": "relx",
-   "hours_open": 135.9,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Boca Raton - June)",
-   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Boca-Raton---June-_R116023"
-  },
-  {
-   "closed_at": 1788867449,
-   "company": "kayak",
-   "hours_open": 114.7,
-   "title": "Associate JAVA Software Engineer",
-   "uid": "ashby:kayak:719de6d8-b245-4323-aba3-435d160c018e"
-  },
-  {
-   "closed_at": 1788867449,
-   "company": "twitch",
-   "hours_open": 111.7,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1788867449,
-   "company": "AECOM",
-   "hours_open": 86.2,
-   "title": "Entry-Level Transportation Engineer",
-   "uid": "smartrecruiters:AECOM2:744000147601439"
-  },
-  {
-   "closed_at": 1788867449,
-   "company": "kbr",
-   "hours_open": 136.0,
-   "title": "Junior Software Engineer",
-   "uid": "workday:kbr.wd5/kbr_careers:Junior-Software-Engineer_R2122294"
-  },
-  {
-   "closed_at": 1788867449,
-   "company": "spacex",
-   "hours_open": 114.7,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1788867449,
-   "company": "spacex",
-   "hours_open": 114.4,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
    "closed_at": 1788867449,
    "company": "spacex",
    "hours_open": 114.7,
@@ -5599,8 +5508,99 @@
    "hours_open": 169.7,
    "title": "Software Dev Engineer, Amazon Leo Customer Terminals",
    "uid": "amazon:amazon:10526922"
+  },
+  {
+   "closed_at": 1789070335,
+   "company": "lyft",
+   "hours_open": 10.2,
+   "title": "Software Engineer, Telematics",
+   "uid": "greenhouse:lyft:8790686002"
+  },
+  {
+   "closed_at": 1789070335,
+   "company": "Alithya Canada Inc.",
+   "hours_open": 6.1,
+   "title": "Web developer",
+   "uid": "jobbank:junior programmer:50257747"
+  },
+  {
+   "closed_at": 1789070335,
+   "company": "bmo",
+   "hours_open": 50.6,
+   "title": "AI/Platform Analyst, 8 months (Co-op/Internship) - 8 months",
+   "uid": "workday:bmo.wd3/External:AI-Platform-Analyst--8-months--Co-op-Internship----8-months_R260026129-2"
+  },
+  {
+   "closed_at": 1789070335,
+   "company": "vercel",
+   "hours_open": 171.0,
+   "title": "Software Engineer, Data Platform ",
+   "uid": "greenhouse:vercel:6161129004"
+  },
+  {
+   "closed_at": 1789070335,
+   "company": "bmo",
+   "hours_open": 50.6,
+   "title": "Wealth Management Development Associate, New Grad (Chicago, IL)",
+   "uid": "workday:bmo.wd3/External:Wealth-Management-Development-Associate--New-Grad--Chicago--IL-_R260026201"
+  },
+  {
+   "closed_at": 1789070335,
+   "company": "United Supermarket",
+   "hours_open": 188.9,
+   "title": "e-commerce Web site developer",
+   "uid": "jobbank:developpeur junior:50155977"
+  },
+  {
+   "closed_at": 1789070335,
+   "company": "Amazon",
+   "hours_open": 22.7,
+   "title": "Software Development Engineer , Service Resource Management",
+   "uid": "amazon:amazon:10524376"
+  },
+  {
+   "closed_at": 1789070335,
+   "company": "Amazon",
+   "hours_open": 171.0,
+   "title": "Front End Engineer, IAM Console Team",
+   "uid": "amazon:amazon:10524274"
+  },
+  {
+   "closed_at": 1789070335,
+   "company": "bakerhughes",
+   "hours_open": 176.4,
+   "title": "Intern – Reciprocating Compressor Engineer, Business Development – 2026 (M/F/D)",
+   "uid": "workday:bakerhughes.wd5/BakerHughes:Intern---Reciprocating-Compressor-Engineer--Business-Development---Florence--Italy---2026--M-F-D-_R167053"
+  },
+  {
+   "closed_at": 1789070335,
+   "company": "barclays",
+   "hours_open": 26.0,
+   "title": "2027 Technology Developer Summer Internship Programme Knutsford",
+   "uid": "workday:barclays.wd3/External_Career_Site_Barclays:XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-Knutsford_JR-0000129381"
+  },
+  {
+   "closed_at": 1789070335,
+   "company": "barclays",
+   "hours_open": 26.0,
+   "title": "2027 Technology Developer Summer Internship Programme Glasgow",
+   "uid": "workday:barclays.wd3/External_Career_Site_Barclays:XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-Glasgow_JR-0000129387"
+  },
+  {
+   "closed_at": 1789070335,
+   "company": "launchdarkly",
+   "hours_open": 171.0,
+   "title": "Product Security Engineer",
+   "uid": "greenhouse:launchdarkly:7736270003"
+  },
+  {
+   "closed_at": 1789070335,
+   "company": "caci",
+   "hours_open": 25.3,
+   "title": "Software Engineering Intern – Summer 2027",
+   "uid": "workday:caci.wd1/external:Software-Engineering-Intern---Summer-2027_331742"
   }
  ],
- "count": 804,
- "updated_at": 1789065654
+ "count": 813,
+ "updated_at": 1789070336
 }
