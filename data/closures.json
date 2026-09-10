@@ -1,83 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1788818707,
-   "company": "twitch",
-   "hours_open": 101.1,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1788818707,
-   "company": "gevernova",
-   "hours_open": 72.3,
-   "title": "GE Vernova GridOS  Project Engineer - Co-Op/Intern - January 2027-June 2027",
-   "uid": "workday:gevernova.wd5/only_confidential_executive_recruiting:GE-Vernova-GridOS--Project-Engineer---Co-Op-Intern---January-2027-June-2027_R5050087-1"
-  },
-  {
-   "closed_at": 1788818707,
-   "company": "gevernova",
-   "hours_open": 77.6,
-   "title": "GE Vernova - Project Engineer Intern - Summer 2027",
-   "uid": "workday:gevernova.wd5/only_confidential_executive_recruiting:GE-Vernova---Project-Engineer-Intern---Summer-2027_R5050026-1"
-  },
-  {
-   "closed_at": 1788818707,
-   "company": "relx",
-   "hours_open": 122.5,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - January)",
-   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617-1"
-  },
-  {
-   "closed_at": 1788818707,
-   "company": "relx",
-   "hours_open": 122.5,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - June)",
-   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-2"
-  },
-  {
-   "closed_at": 1788818707,
-   "company": "relx",
-   "hours_open": 122.5,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Boca Raton - June)",
-   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Boca-Raton---June-_R116023"
-  },
-  {
-   "closed_at": 1788818707,
-   "company": "intel",
-   "hours_open": 96.1,
-   "title": "AI Software Engineering Intern",
-   "uid": "workday:intel.wd1/external:AI-Software-Engineering-Intern_JR0282641"
-  },
-  {
-   "closed_at": 1788818707,
-   "company": "accenture",
-   "hours_open": 118.0,
-   "title": "Software Engineering New Associate (Fresh Diploma Graduate Program)",
-   "uid": "workday:accenture.wd103/AccentureCareers:Software-Engineering-New-Associate--Fresh-Diploma-Graduate-Program-_R00144534"
-  },
-  {
-   "closed_at": 1788818707,
-   "company": "accenture",
-   "hours_open": 118.0,
-   "title": "Junior .NET Developer - Fresh Graduates",
-   "uid": "workday:accenture.wd103/AccentureCareers:Junior-NET-Developer---Fresh-Graduates_R00332478"
-  },
-  {
-   "closed_at": 1788818707,
-   "company": "spacex",
-   "hours_open": 101.1,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1788819063,
-   "company": "gevernova",
-   "hours_open": 72.7,
-   "title": "GE Vernova GridOS  Project Engineer - Co-Op/Intern - January 2027-June 2027",
-   "uid": "workday:gevernova.wd5/vernova_externalsite:GE-Vernova-GridOS--Project-Engineer---Co-Op-Intern---January-2027-June-2027_R5050087-2"
-  },
-  {
    "closed_at": 1788819063,
    "company": "gevernova",
    "hours_open": 75.1,
@@ -5599,8 +5522,85 @@
    "hours_open": 150.6,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1789000440,
+   "company": "Groupe Mario Coté",
+   "hours_open": 6.7,
+   "title": "Administrateur de réseau",
+   "uid": "jobillico:analyste reseau:17511981"
+  },
+  {
+   "closed_at": 1789000440,
+   "company": "Amazon",
+   "hours_open": 151.6,
+   "title": "Software Development Engineer, Quick Governance Platform",
+   "uid": "amazon:amazon:10528718"
+  },
+  {
+   "closed_at": 1789000440,
+   "company": "Miratech",
+   "hours_open": 19.2,
+   "title": "information systems analyst - computer systems",
+   "uid": "jobbank:systems analyst:49969689"
+  },
+  {
+   "closed_at": 1789000440,
+   "company": "crowdstrike",
+   "hours_open": 169.5,
+   "title": "Engineer I, Data Scientist - New Grad (Hybrid)",
+   "uid": "workday:crowdstrike.wd5/crowdstrikecareers:Engineer-I--Data-Scientist---New-Grad--Hybrid-_R29382-1"
+  },
+  {
+   "closed_at": 1789000440,
+   "company": "Revel",
+   "hours_open": 188.2,
+   "title": "Embedded Software Engineer - Entry-Junior",
+   "uid": "simplify:listings:037fa901-97c4-4099-8f01-dd0399bbef6a"
+  },
+  {
+   "closed_at": 1789000440,
+   "company": "General Dynamics Mission Systems",
+   "hours_open": 188.2,
+   "title": "Software Engineer - Entry Level",
+   "uid": "simplify:listings:2af5ac17-a498-44a7-829b-c3147a8a150b"
+  },
+  {
+   "closed_at": 1789000440,
+   "company": "spacex",
+   "hours_open": 151.6,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1789000440,
+   "company": "RTX",
+   "hours_open": 37.4,
+   "title": "Software Engineer 1",
+   "uid": "simplify:listings:e90bb9b3-2e96-47e0-80c1-169bb7a56849"
+  },
+  {
+   "closed_at": 1789000440,
+   "company": "spacex",
+   "hours_open": 151.3,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1789000440,
+   "company": "andurilindustries",
+   "hours_open": 122.7,
+   "title": "Product Data Engineer",
+   "uid": "greenhouse:andurilindustries:5114652007"
+  },
+  {
+   "closed_at": 1789000440,
+   "company": "spacex",
+   "hours_open": 151.6,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 808,
- "updated_at": 1788996903
+ "count": 811,
+ "updated_at": 1789000441
 }
