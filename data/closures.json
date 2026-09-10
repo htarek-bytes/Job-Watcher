@@ -1,69 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1788847246,
-   "company": "spacex",
-   "hours_open": 108.8,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1788847246,
-   "company": "spacex",
-   "hours_open": 109.1,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1788848313,
-   "company": "hp",
-   "hours_open": 8.4,
-   "title": "Software Product Security Engineer Intern",
-   "uid": "workday:hp.wd5/externalcareersite:Software-Product-Security-Engineer-Intern_UNI4740-1"
-  },
-  {
-   "closed_at": 1788848313,
-   "company": "twitch",
-   "hours_open": 109.3,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1788848313,
-   "company": "bmo",
-   "hours_open": 111.1,
-   "title": "Machine Learning Developer (New or Recent Graduate)",
-   "uid": "workday:bmo.wd3/Campus:Machine-Learning-Developer--New-or-Recent-Graduate-_R260024265-1"
-  },
-  {
-   "closed_at": 1788848313,
-   "company": "DLGL TECHNOLOGIES CORPORATION",
-   "hours_open": 127.2,
-   "title": "developer, software",
-   "uid": "jobbank:developpeur junior:50191592"
-  },
-  {
-   "closed_at": 1788848313,
-   "company": "mmc",
-   "hours_open": 126.2,
-   "title": "Junior Python Engineer @MarshTech",
-   "uid": "workday:mmc.wd1/mmc:Junior-Python-Engineer--MarshTech_R_362442-1"
-  },
-  {
-   "closed_at": 1788848313,
-   "company": "blackrock",
-   "hours_open": 133.4,
-   "title": "Associate, Software Engineer - SMA Solutions",
-   "uid": "workday:blackrock.wd1/BlackRock_Professional:Associate--Software-Engineer---SMA-Solutions_R266216"
-  },
-  {
-   "closed_at": 1788848313,
-   "company": "ucar",
-   "hours_open": 126.2,
-   "title": "CESM Software Engineer I",
-   "uid": "workday:ucar.wd5/UCAR_Careers:CESM-Software-Engineer-I_REQ-2026-117-1"
-  },
-  {
    "closed_at": 1788848313,
    "company": "kbr",
    "hours_open": 130.7,
@@ -5599,8 +5536,71 @@
    "hours_open": 163.3,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1789051055,
+   "company": "td",
+   "hours_open": 45.5,
+   "title": "Software Engineer Intern/Co-op (Winter 2027)",
+   "uid": "workday:td.wd3/TD_Bank_Careers:Software-Engineer-Co-op---Intern--Winter-2027-_R_1509790"
+  },
+  {
+   "closed_at": 1789051055,
+   "company": "tsc",
+   "hours_open": 142.2,
+   "title": "Junior Electrical Test Engineer",
+   "uid": "workday:tsc.wd12/TSC-Careers:Junior-Electrical-Test-Engineer_JR2773"
+  },
+  {
+   "closed_at": 1789051055,
+   "company": "salesforce",
+   "hours_open": 18.5,
+   "title": "Solution Engineer (Pre-Sales) - All Levels - Informatica",
+   "uid": "workday:salesforce.wd12/External_Career_Site:Solution-Engineer--Pre-Sales----Informatica_JR331878"
+  },
+  {
+   "closed_at": 1789051055,
+   "company": "twitch",
+   "hours_open": 165.7,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1789051055,
+   "company": "td",
+   "hours_open": 137.2,
+   "title": "Associate Software Engineer",
+   "uid": "workday:td.wd3/TD_Bank_Careers:Associate-Software-Engineer_R_1496579"
+  },
+  {
+   "closed_at": 1789051055,
+   "company": "top-hat",
+   "hours_open": 178.2,
+   "title": "Junior Analytics Engineer",
+   "uid": "ashby:top-hat:86f97853-9b2b-433e-9077-e977cf00e43b"
+  },
+  {
+   "closed_at": 1789051055,
+   "company": "trimble",
+   "hours_open": 178.0,
+   "title": "Software Engineering Intern",
+   "uid": "workday:trimble.wd1/TrimbleCareers:Software-Engineering-Intern_R56614"
+  },
+  {
+   "closed_at": 1789051055,
+   "company": "altentechnologyusa",
+   "hours_open": 164.0,
+   "title": "HiL Test Engineer - Automotive",
+   "uid": "greenhouse:altentechnologyusa:5223067007"
+  },
+  {
+   "closed_at": 1789051055,
+   "company": "spacex",
+   "hours_open": 162.7,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
   }
  ],
- "count": 817,
- "updated_at": 1789048465
+ "count": 809,
+ "updated_at": 1789051056
 }
