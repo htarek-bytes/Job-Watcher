@@ -2,41 +2,6 @@
  "closed": [
   {
    "closed_at": 1788888205,
-   "company": "perplexity",
-   "hours_open": 0.2,
-   "title": "Revenue Operations Analyst",
-   "uid": "ashby:perplexity:03f8f956-1cb3-4945-81d1-73b7ff048d4e"
-  },
-  {
-   "closed_at": 1788888205,
-   "company": "stripe",
-   "hours_open": 0.2,
-   "title": "Monetization Operations Analyst",
-   "uid": "greenhouse:stripe:8109554"
-  },
-  {
-   "closed_at": 1788888205,
-   "company": "momentumcompany3",
-   "hours_open": 0.2,
-   "title": "2027 Launch Graduate Program: Associate Strategy & Operations Analyst",
-   "uid": "greenhouse:momentumcompany3:8607054002"
-  },
-  {
-   "closed_at": 1788888205,
-   "company": "oligo",
-   "hours_open": 117.4,
-   "title": "Chief Spacecraft Engineer",
-   "uid": "ashby:oligo:14e3d245-5741-4e8a-b5df-c85ad9704dd8"
-  },
-  {
-   "closed_at": 1788888205,
-   "company": "knowbe4",
-   "hours_open": 0.2,
-   "title": "Revenue Operations Analyst, GTM & Central Planning (Remote)",
-   "uid": "greenhouse:knowbe4:8618411002"
-  },
-  {
-   "closed_at": 1788888205,
    "company": "maticrobots",
    "hours_open": 117.4,
    "title": "Electrical Design Engineer",
@@ -5599,8 +5564,43 @@
    "hours_open": 185.9,
    "title": "Security Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1789135501,
+   "company": "disney",
+   "hours_open": 18.0,
+   "title": "Software Engineer I",
+   "uid": "workday:disney.wd5/disneycareerdc:Software-Engineer-I_10158076-2"
+  },
+  {
+   "closed_at": 1789135501,
+   "company": "entegris",
+   "hours_open": 18.0,
+   "title": "Solutions Engineering Co-Op",
+   "uid": "workday:entegris.wd1/entegriscareers:Solutions-Engineering-Co-Op_REQ-14431"
+  },
+  {
+   "closed_at": 1789135501,
+   "company": "twitch",
+   "hours_open": 186.2,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1789135501,
+   "company": "cisco",
+   "hours_open": 55.4,
+   "title": "Software Consulting Engineer I (Intern) United States",
+   "uid": "workday:cisco.wd5/cisco_careers:Software-Consulting-Engineer-I--Intern--United-States_2025180"
+  },
+  {
+   "closed_at": 1789135501,
+   "company": "spacex",
+   "hours_open": 189.1,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 809,
- "updated_at": 1789134442
+ "count": 805,
+ "updated_at": 1789135501
 }
