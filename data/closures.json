@@ -2,13 +2,6 @@
  "closed": [
   {
    "closed_at": 1788888205,
-   "company": "twitch",
-   "hours_open": 117.5,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1788888205,
    "company": "tebra",
    "hours_open": 0.2,
    "title": "Customer Success Operations Analyst",
@@ -5599,8 +5592,15 @@
    "hours_open": 222.4,
    "title": "Software Engineer 1",
    "uid": "simplify:listings:6d55f27f-9786-4c75-ab7c-c79dd9c729e0"
+  },
+  {
+   "closed_at": 1789125397,
+   "company": "Skyward",
+   "hours_open": 169.3,
+   "title": "Data Migration Engineer - Entry Level",
+   "uid": "smartrecruiters:Skyward1:744000147336520"
   }
  ],
- "count": 804,
- "updated_at": 1789123333
+ "count": 801,
+ "updated_at": 1789125398
 }
