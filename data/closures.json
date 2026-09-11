@@ -2,69 +2,6 @@
  "closed": [
   {
    "closed_at": 1788888205,
-   "company": "DataVisor",
-   "hours_open": 0.2,
-   "title": "Business Operations Analyst",
-   "uid": "workable:datavisor-jobs:CA0522510B"
-  },
-  {
-   "closed_at": 1788888205,
-   "company": "oshkoshcorporation",
-   "hours_open": 123.8,
-   "title": "Engineer Intern - Mechanical (Summer 2027)",
-   "uid": "workday:oshkoshcorporation.wd5/Oshkosh:Engineer-Intern---Mechanical--Summer-2027-_R49741"
-  },
-  {
-   "closed_at": 1788888205,
-   "company": "relx",
-   "hours_open": 141.8,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - January)",
-   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617-1"
-  },
-  {
-   "closed_at": 1788888205,
-   "company": "relx",
-   "hours_open": 141.8,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - June)",
-   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-2"
-  },
-  {
-   "closed_at": 1788888205,
-   "company": "relx",
-   "hours_open": 141.8,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Boca Raton - June)",
-   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Boca-Raton---June-_R116023"
-  },
-  {
-   "closed_at": 1788888205,
-   "company": "generac",
-   "hours_open": 141.8,
-   "title": "Entry Level Electrical Design Engineer – Switchgear & Generator Control Systems",
-   "uid": "workday:generac.wd5/external:Entry-Level-Electrical-Design-Engineer---Switchgear---Generator-Control-Systems_JR15958"
-  },
-  {
-   "closed_at": 1788888205,
-   "company": "Micron Technology",
-   "hours_open": 128.3,
-   "title": "Electrical Design Engineer New Grad - Systems Integration Group",
-   "uid": "simplify:listings:9bd9bb46-2f64-4736-aa7a-2b2095c05d99"
-  },
-  {
-   "closed_at": 1788888205,
-   "company": "synnex",
-   "hours_open": 141.8,
-   "title": "Electrical Design Engineer (New College Grad)",
-   "uid": "workday:synnex.wd5/hyvecareers:Electrical-Design-Engineer_R54980"
-  },
-  {
-   "closed_at": 1788888205,
-   "company": "Nuvei",
-   "hours_open": 0.2,
-   "title": "Revenue Operations Analyst / Analyste des opérations de revenus",
-   "uid": "workable:nuvei:9A84E51097"
-  },
-  {
-   "closed_at": 1788888205,
    "company": "perplexity",
    "hours_open": 0.2,
    "title": "Revenue Operations Analyst",
@@ -5599,8 +5536,71 @@
    "hours_open": 207.7,
    "title": "Audio Visual Engineer I",
    "uid": "greenhouse:atek:5316064008"
+  },
+  {
+   "closed_at": 1789134442,
+   "company": "avav",
+   "hours_open": 17.8,
+   "title": "Software Engineering Intern",
+   "uid": "workday:avav.wd1/avav:Software-Engineering-Intern_8593"
+  },
+  {
+   "closed_at": 1789134442,
+   "company": "twitch",
+   "hours_open": 188.8,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1789134442,
+   "company": "bmo",
+   "hours_open": 190.6,
+   "title": "Machine Learning Developer (New or Recent Graduate)",
+   "uid": "workday:bmo.wd3/Campus:Machine-Learning-Developer--New-or-Recent-Graduate-_R260024265-1"
+  },
+  {
+   "closed_at": 1789134442,
+   "company": "altera",
+   "hours_open": 162.4,
+   "title": "Junior Verification Engineer",
+   "uid": "workday:altera.wd1/altera:Junior-Verification-Engineer_R03078"
+  },
+  {
+   "closed_at": 1789134442,
+   "company": "abb",
+   "hours_open": 106.7,
+   "title": "Sales Engineer – Service Division",
+   "uid": "workday:abb.wd3/external_career_page:Service-Sales-specialist_JR00003209"
+  },
+  {
+   "closed_at": 1789134442,
+   "company": "barclays",
+   "hours_open": 43.8,
+   "title": "2027 Technology Developer Summer Internship Programme Northampton",
+   "uid": "workday:barclays.wd3/External_Career_Site_Barclays:XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-Northampton_JR-0000129379"
+  },
+  {
+   "closed_at": 1789134442,
+   "company": "datadog",
+   "hours_open": 106.7,
+   "title": "Security Sales Engineer",
+   "uid": "greenhouse:datadog:8141243"
+  },
+  {
+   "closed_at": 1789134442,
+   "company": "caci",
+   "hours_open": 17.8,
+   "title": "Software Engineering Intern - Summer 2027",
+   "uid": "workday:caci.wd1/external:Software-Engineering-Intern---Summer-2027_331543-1"
+  },
+  {
+   "closed_at": 1789134442,
+   "company": "spacex",
+   "hours_open": 185.9,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
   }
  ],
- "count": 810,
- "updated_at": 1789134087
+ "count": 809,
+ "updated_at": 1789134442
 }
