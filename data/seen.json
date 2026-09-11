@@ -1,5 +1,5 @@
 {
- "count": 4559,
+ "count": 4561,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -1278,6 +1278,7 @@
   "greenhouse:dvtrading:4730886005": 1788981683,
   "greenhouse:dvtrading:4732429005": 1788981683,
   "greenhouse:dvtrading:4732700005": 1789051055,
+  "greenhouse:dvtrading:4733138005": 1789139196,
   "greenhouse:everlaw:4705236006": 1788386454,
   "greenhouse:everlaw:4709372006": 1788454653,
   "greenhouse:faire:8603123002": 1788454653,
@@ -4418,6 +4419,7 @@
   "workday:nvidia.wd5/NVIDIAExternalCareerSite:DFT-Engineer---New-College-Grad_JR2016865": 1788377835,
   "workday:nvidia.wd5/NVIDIAExternalCareerSite:Formal-Verification-Engineer---New-College-Grad-2026_JR2020837": 1788377835,
   "workday:nvidia.wd5/NVIDIAExternalCareerSite:GPU-Architecture-Engineer---New-College-Grad-2026_JR2021615": 1788377835,
+  "workday:nvidia.wd5/NVIDIAExternalCareerSite:GPU-Verification-Engineer---New-College-Grad-2026_JR2022102": 1789139196,
   "workday:nvidia.wd5/NVIDIAExternalCareerSite:GPU-Verification-Engineer---New-College-Grad-2026_JR2023187": 1788377835,
   "workday:nvidia.wd5/NVIDIAExternalCareerSite:Low-Power-ASIC-Engineer---New-College-Grad-2026_JR2017005": 1788377835,
   "workday:nvidia.wd5/NVIDIAExternalCareerSite:RTL-Power-Optimization-Engineer---New-College-Grad-2026_JR2021841": 1788377835,
@@ -4561,5 +4563,5 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148,
   "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541": 1789106107
  },
- "updated_at": 1789137584
+ "updated_at": 1789139196
 }
