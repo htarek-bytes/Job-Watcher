@@ -2,97 +2,6 @@
  "closed": [
   {
    "closed_at": 1788899460,
-   "company": "ngc",
-   "hours_open": 1.8,
-   "title": "Associate Systems Administrator \u2013 Level 1",
-   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:Associate-Systems-Administrator---Level-1_R10249828"
-  },
-  {
-   "closed_at": 1788899460,
-   "company": "globalhr",
-   "hours_open": 3.4,
-   "title": "Software Engineering Intern (Summer/Fall 2027)",
-   "uid": "workday:globalhr.wd5/rec_rtx_ext_gateway:Software-Engineering-Intern--Summer-Fall-2027-_01873006"
-  },
-  {
-   "closed_at": 1788899460,
-   "company": "lightspeedhq",
-   "hours_open": 3.4,
-   "title": "Application Support Specialist",
-   "uid": "ashby:lightspeedhq:f5b30e6d-9e9f-4a46-9ba8-66d47534940e"
-  },
-  {
-   "closed_at": 1788899460,
-   "company": "saronic",
-   "hours_open": 3.4,
-   "title": "Global Security Operations Center (GSOC) Operator",
-   "uid": "ashby:saronic:404e7bcd-e794-4409-934f-2d8190ed5371"
-  },
-  {
-   "closed_at": 1788899460,
-   "company": "twitch",
-   "hours_open": 123.6,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1788899460,
-   "company": "stripe",
-   "hours_open": 123.6,
-   "title": "Backend Engineer, Link",
-   "uid": "greenhouse:stripe:8131144"
-  },
-  {
-   "closed_at": 1788899460,
-   "company": "Alcoa Canada",
-   "hours_open": 3.4,
-   "title": "Conseiller(\u00e8re) en cybers\u00e9curit\u00e9 (Am\u00e9rique du Nord)",
-   "uid": "jobillico:analyste cybersecurite:17502948"
-  },
-  {
-   "closed_at": 1788899460,
-   "company": "CGI",
-   "hours_open": 3.4,
-   "title": "Conseiller en gestion des risques de cybers\u00e9curit\u00e9",
-   "uid": "jobillico:analyste cybersecurite:17433759"
-  },
-  {
-   "closed_at": 1788899460,
-   "company": "HealthEdge",
-   "hours_open": 93.3,
-   "title": "Associate Software Engineer",
-   "uid": "simplify:listings:260b62da-2fbd-47f5-af45-99bd6b0bfb4e"
-  },
-  {
-   "closed_at": 1788899460,
-   "company": "AlphaHire",
-   "hours_open": 100.1,
-   "title": "Project Engineer - Commercial Electrical Projects",
-   "uid": "workable:alphax:499C33A5DE"
-  },
-  {
-   "closed_at": 1788899460,
-   "company": "relx",
-   "hours_open": 142.6,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - January)",
-   "uid": "workday:relx.wd3/RiskSolutions:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617"
-  },
-  {
-   "closed_at": 1788899460,
-   "company": "relx",
-   "hours_open": 142.6,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - June)",
-   "uid": "workday:relx.wd3/RiskSolutions:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-1"
-  },
-  {
-   "closed_at": 1788899460,
-   "company": "relx",
-   "hours_open": 142.6,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Boca Raton - June)",
-   "uid": "workday:relx.wd3/RiskSolutions:Tech-Accelerate-Graduate-Program---Software-Engineer--Boca-Raton---June-_R116023-2"
-  },
-  {
-   "closed_at": 1788899460,
    "company": "mmc",
    "hours_open": 140.4,
    "title": "Junior Python Engineer @MarshTech",
@@ -186,7 +95,7 @@
    "closed_at": 1788903151,
    "company": "ngc",
    "hours_open": 2.8,
-   "title": "Associate Systems Administrator \u2013 Level 1",
+   "title": "Associate Systems Administrator – Level 1",
    "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:Associate-Systems-Administrator---Level-1_R10249828"
   },
   {
@@ -214,14 +123,14 @@
    "closed_at": 1788903151,
    "company": "Alcoa Canada",
    "hours_open": 4.4,
-   "title": "Conseiller(\u00e8re) en cybers\u00e9curit\u00e9 (Am\u00e9rique du Nord)",
+   "title": "Conseiller(ère) en cybersécurité (Amérique du Nord)",
    "uid": "jobillico:analyste cybersecurite:17502948"
   },
   {
    "closed_at": 1788903151,
    "company": "CGI",
    "hours_open": 4.4,
-   "title": "Conseiller en gestion des risques de cybers\u00e9curit\u00e9",
+   "title": "Conseiller en gestion des risques de cybersécurité",
    "uid": "jobillico:analyste cybersecurite:17433759"
   },
   {
@@ -354,7 +263,7 @@
    "closed_at": 1788903666,
    "company": "ngc",
    "hours_open": 2.9,
-   "title": "Associate Systems Administrator \u2013 Level 1",
+   "title": "Associate Systems Administrator – Level 1",
    "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:Associate-Systems-Administrator---Level-1_R10249828"
   },
   {
@@ -389,14 +298,14 @@
    "closed_at": 1788903666,
    "company": "Alcoa Canada",
    "hours_open": 4.5,
-   "title": "Conseiller(\u00e8re) en cybers\u00e9curit\u00e9 (Am\u00e9rique du Nord)",
+   "title": "Conseiller(ère) en cybersécurité (Amérique du Nord)",
    "uid": "jobillico:analyste cybersecurite:17502948"
   },
   {
    "closed_at": 1788903666,
    "company": "CGI",
    "hours_open": 4.5,
-   "title": "Conseiller en gestion des risques de cybers\u00e9curit\u00e9",
+   "title": "Conseiller en gestion des risques de cybersécurité",
    "uid": "jobillico:analyste cybersecurite:17433759"
   },
   {
@@ -844,7 +753,7 @@
    "closed_at": 1788910845,
    "company": "nvidia",
    "hours_open": 148.1,
-   "title": "SoC ASIC Verification Engineer \u2013 New College Grad 2026",
+   "title": "SoC ASIC Verification Engineer – New College Grad 2026",
    "uid": "workday:nvidia.wd5/NVIDIAExternalCareerSite:SoC-ASIC-Verification-Engineer---New-College-Grad-2026_JR2015202-1"
   },
   {
@@ -970,7 +879,7 @@
    "closed_at": 1788911326,
    "company": "nvidia",
    "hours_open": 148.2,
-   "title": "SoC ASIC Verification Engineer \u2013 New College Grad 2026",
+   "title": "SoC ASIC Verification Engineer – New College Grad 2026",
    "uid": "workday:nvidia.wd5/NVIDIAExternalCareerSite:SoC-ASIC-Verification-Engineer---New-College-Grad-2026_JR2015202-1"
   },
   {
@@ -1502,7 +1411,7 @@
    "closed_at": 1788931523,
    "company": "Bosch Group",
    "hours_open": 19.9,
-   "title": "Technical Sales Support f\u00fcr H\u00e4gglunds (w/m/div.)",
+   "title": "Technical Sales Support für Hägglunds (w/m/div.)",
    "uid": "smartrecruiters:BoschGroup:744000148169864"
   },
   {
@@ -1866,7 +1775,7 @@
    "closed_at": 1788964362,
    "company": "specteraerospace",
    "hours_open": 141.6,
-   "title": "Aerothermal Engineer Co-Op \u2013 Spring 2027 ",
+   "title": "Aerothermal Engineer Co-Op – Spring 2027 ",
    "uid": "bamboohr:specteraerospace:129"
   },
   {
@@ -1887,7 +1796,7 @@
    "closed_at": 1788967239,
    "company": "CGI",
    "hours_open": 22.2,
-   "title": "Conseiller en gouvernance de la cybers\u00e9curit\u00e9",
+   "title": "Conseiller en gouvernance de la cybersécurité",
    "uid": "jobillico:analyste cybersecurite:17433756"
   },
   {
@@ -2230,7 +2139,7 @@
    "closed_at": 1788979404,
    "company": "Citadel",
    "hours_open": 182.4,
-   "title": "Software Engineer \u2013 University Graduate",
+   "title": "Software Engineer – University Graduate",
    "uid": "simplify:listings:410b28b6-b357-4b72-9480-bad83701b4cb"
   },
   {
@@ -2265,7 +2174,7 @@
    "closed_at": 1788979927,
    "company": "globalhr",
    "hours_open": 167.3,
-   "title": "Ing\u00e9nieur - Programme de rotation de nouveaux gradues 2027 / Engineer - New Graduate Rotation Program 2027",
+   "title": "Ingénieur - Programme de rotation de nouveaux gradues 2027 / Engineer - New Graduate Rotation Program 2027",
    "uid": "workday:globalhr.wd5/rec_rtx_ext_gateway:Ingnieur---Programme-de-rotation-de-nouveaux-gradues-2027---Engineer---New-Graduate-Rotation-Program-2027_01870776-1"
   },
   {
@@ -2405,7 +2314,7 @@
    "closed_at": 1788984410,
    "company": "philips",
    "hours_open": 142.1,
-   "title": "Co-op \u2013 Software Engineer (R&D) \u2013 Cambridge, MA \u2013 January - August 2027",
+   "title": "Co-op – Software Engineer (R&D) – Cambridge, MA – January - August 2027",
    "uid": "workday:philips.wd3/jobs-and-careers:Co-op---Software-Engineer--R-D----Cambridge--MA---January---August-2027_588891"
   },
   {
@@ -2699,7 +2608,7 @@
    "closed_at": 1788994725,
    "company": "Frontmatec",
    "hours_open": 150.0,
-   "title": "D\u00e9veloppeur logiciel et DevOps - R&D",
+   "title": "Développeur logiciel et DevOps - R&D",
    "uid": "jobillico:developpeur logiciel:10091077"
   },
   {
@@ -2790,7 +2699,7 @@
    "closed_at": 1788996903,
    "company": "bakerhughes",
    "hours_open": 156.0,
-   "title": "Intern \u2013 Reciprocating Compressor Engineer, Business Development \u2013 2026 (M/F/D)",
+   "title": "Intern – Reciprocating Compressor Engineer, Business Development – 2026 (M/F/D)",
    "uid": "workday:bakerhughes.wd5/BakerHughes:Intern---Reciprocating-Compressor-Engineer--Business-Development---Florence--Italy---2026--M-F-D-_R167053"
   },
   {
@@ -2823,9 +2732,9 @@
   },
   {
    "closed_at": 1788996903,
-   "company": "General Dynamics Produits de d\u00e9fense et Syst\u00e8mes Tactiques",
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
    "hours_open": 30.4,
-   "title": "Administrateur R\u00e9seau TI",
+   "title": "Administrateur Réseau TI",
    "uid": "jobillico:analyste reseau:17386419"
   },
   {
@@ -2844,9 +2753,9 @@
   },
   {
    "closed_at": 1789000440,
-   "company": "Groupe Mario Cot\u00e9",
+   "company": "Groupe Mario Coté",
    "hours_open": 6.7,
-   "title": "Administrateur de r\u00e9seau",
+   "title": "Administrateur de réseau",
    "uid": "jobillico:analyste reseau:17511981"
   },
   {
@@ -2991,9 +2900,9 @@
   },
   {
    "closed_at": 1789003714,
-   "company": "General Dynamics Produits de d\u00e9fense et Syst\u00e8mes Tactiques",
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
    "hours_open": 32.3,
-   "title": "Administrateur R\u00e9seau TI",
+   "title": "Administrateur Réseau TI",
    "uid": "jobillico:analyste reseau:17386419"
   },
   {
@@ -3040,9 +2949,9 @@
   },
   {
    "closed_at": 1789019678,
-   "company": "Groupe Mario Cot\u00e9",
+   "company": "Groupe Mario Coté",
    "hours_open": 12.1,
-   "title": "Administrateur de r\u00e9seau",
+   "title": "Administrateur de réseau",
    "uid": "jobillico:analyste reseau:17511981"
   },
   {
@@ -3075,9 +2984,9 @@
   },
   {
    "closed_at": 1789019858,
-   "company": "General Dynamics Produits de d\u00e9fense et Syst\u00e8mes Tactiques",
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
    "hours_open": 36.8,
-   "title": "Administrateur R\u00e9seau TI",
+   "title": "Administrateur Réseau TI",
    "uid": "jobillico:analyste reseau:17386419"
   },
   {
@@ -3112,14 +3021,14 @@
    "closed_at": 1789022219,
    "company": "CGI",
    "hours_open": 37.5,
-   "title": "Conseiller en gouvernance de la cybers\u00e9curit\u00e9",
+   "title": "Conseiller en gouvernance de la cybersécurité",
    "uid": "jobillico:analyste cybersecurite:17433756"
   },
   {
    "closed_at": 1789033698,
-   "company": "Groupe Mario Cot\u00e9",
+   "company": "Groupe Mario Coté",
    "hours_open": 15.9,
-   "title": "Administrateur de r\u00e9seau",
+   "title": "Administrateur de réseau",
    "uid": "jobillico:analyste reseau:17511981"
   },
   {
@@ -3208,9 +3117,9 @@
   },
   {
    "closed_at": 1789036346,
-   "company": "General Dynamics Produits de d\u00e9fense et Syst\u00e8mes Tactiques",
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
    "hours_open": 41.4,
-   "title": "Administrateur R\u00e9seau TI",
+   "title": "Administrateur Réseau TI",
    "uid": "jobillico:analyste reseau:17386419"
   },
   {
@@ -3271,9 +3180,9 @@
   },
   {
    "closed_at": 1789038976,
-   "company": "Groupe Mario Cot\u00e9",
+   "company": "Groupe Mario Coté",
    "hours_open": 17.4,
-   "title": "Administrateur de r\u00e9seau",
+   "title": "Administrateur de réseau",
    "uid": "jobillico:analyste reseau:17511981"
   },
   {
@@ -3418,9 +3327,9 @@
   },
   {
    "closed_at": 1789048465,
-   "company": "General Dynamics Produits de d\u00e9fense et Syst\u00e8mes Tactiques",
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
    "hours_open": 44.8,
-   "title": "Administrateur R\u00e9seau TI",
+   "title": "Administrateur Réseau TI",
    "uid": "jobillico:analyste reseau:17386419"
   },
   {
@@ -3530,9 +3439,9 @@
   },
   {
    "closed_at": 1789054080,
-   "company": "Groupe Mario Cot\u00e9",
+   "company": "Groupe Mario Coté",
    "hours_open": 21.6,
-   "title": "Administrateur de r\u00e9seau",
+   "title": "Administrateur de réseau",
    "uid": "jobillico:analyste reseau:17511981"
   },
   {
@@ -3567,7 +3476,7 @@
    "closed_at": 1789061242,
    "company": "Logesco Informatique",
    "hours_open": 48.3,
-   "title": "Administrateur de r\u00e9seau",
+   "title": "Administrateur de réseau",
    "uid": "jobillico:analyste reseau:17188132"
   },
   {
@@ -3616,7 +3525,7 @@
    "closed_at": 1789062742,
    "company": "CGI",
    "hours_open": 48.7,
-   "title": "Conseiller en gouvernance de la cybers\u00e9curit\u00e9",
+   "title": "Conseiller en gouvernance de la cybersécurité",
    "uid": "jobillico:analyste cybersecurite:17433756"
   },
   {
@@ -3693,7 +3602,7 @@
    "closed_at": 1789064584,
    "company": "Sopra Steria",
    "hours_open": 49.0,
-   "title": "Ing\u00e9nieur/e validation junior Cybers\u00e9curit\u00e9 - D\u00e9fense & S\u00e9curit\u00e9 - Le Plessis Robinson",
+   "title": "Ingénieur/e validation junior Cybersécurité - Défense & Sécurité - Le Plessis Robinson",
    "uid": "smartrecruiters:SopraSteria1:744000147967341"
   },
   {
@@ -3812,7 +3721,7 @@
    "closed_at": 1789070335,
    "company": "bakerhughes",
    "hours_open": 176.4,
-   "title": "Intern \u2013 Reciprocating Compressor Engineer, Business Development \u2013 2026 (M/F/D)",
+   "title": "Intern – Reciprocating Compressor Engineer, Business Development – 2026 (M/F/D)",
    "uid": "workday:bakerhughes.wd5/BakerHughes:Intern---Reciprocating-Compressor-Engineer--Business-Development---Florence--Italy---2026--M-F-D-_R167053"
   },
   {
@@ -3840,14 +3749,14 @@
    "closed_at": 1789070335,
    "company": "caci",
    "hours_open": 25.3,
-   "title": "Software Engineering Intern \u2013 Summer 2027",
+   "title": "Software Engineering Intern – Summer 2027",
    "uid": "workday:caci.wd1/external:Software-Engineering-Intern---Summer-2027_331742"
   },
   {
    "closed_at": 1789070853,
    "company": "CGI",
    "hours_open": 51.0,
-   "title": "Conseiller en gouvernance de la cybers\u00e9curit\u00e9",
+   "title": "Conseiller en gouvernance de la cybersécurité",
    "uid": "jobillico:analyste cybersecurite:17433756"
   },
   {
@@ -3966,7 +3875,7 @@
    "closed_at": 1789074223,
    "company": "CGI",
    "hours_open": 51.9,
-   "title": "Conseiller en gouvernance de la cybers\u00e9curit\u00e9",
+   "title": "Conseiller en gouvernance de la cybersécurité",
    "uid": "jobillico:analyste cybersecurite:17433756"
   },
   {
@@ -4197,7 +4106,7 @@
    "closed_at": 1789080617,
    "company": "nexthopai",
    "hours_open": 53.1,
-   "title": "Associate Customer Engineer \u2013 Network",
+   "title": "Associate Customer Engineer – Network",
    "uid": "bamboohr:nexthopai:90"
   },
   {
@@ -4272,9 +4181,9 @@
   },
   {
    "closed_at": 1789086102,
-   "company": "General Dynamics Produits de d\u00e9fense et Syst\u00e8mes Tactiques",
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
    "hours_open": 55.2,
-   "title": "Administrateur R\u00e9seau TI",
+   "title": "Administrateur Réseau TI",
    "uid": "jobillico:analyste reseau:17386419"
   },
   {
@@ -4442,21 +4351,21 @@
    "closed_at": 1789102462,
    "company": "CGI",
    "hours_open": 59.8,
-   "title": "Analyste en op\u00e9rations de cybers\u00e9curit\u00e9",
+   "title": "Analyste en opérations de cybersécurité",
    "uid": "jobillico:analyste cybersecurite:17433747"
   },
   {
    "closed_at": 1789102462,
    "company": "CGI",
    "hours_open": 59.8,
-   "title": "Conseiller en audit de cybers\u00e9curit\u00e9",
+   "title": "Conseiller en audit de cybersécurité",
    "uid": "jobillico:analyste cybersecurite:17433750"
   },
   {
    "closed_at": 1789102462,
    "company": "CGI",
    "hours_open": 59.8,
-   "title": "Conseiller en architecture de cybers\u00e9curit\u00e9",
+   "title": "Conseiller en architecture de cybersécurité",
    "uid": "jobillico:analyste cybersecurite:17433753"
   },
   {
@@ -4484,7 +4393,7 @@
    "closed_at": 1789102951,
    "company": "philips",
    "hours_open": 175.0,
-   "title": "Co-op \u2013 Software Test Automation Engineer \u2013 Orange, OH \u2013 January 2027",
+   "title": "Co-op – Software Test Automation Engineer – Orange, OH – January 2027",
    "uid": "workday:philips.wd3/jobs-and-careers:Co-op---Software-Test-Automation-Engineer---Orange--OH---January-2027_581888"
   },
   {
@@ -4547,7 +4456,7 @@
    "closed_at": 1789106107,
    "company": "voyagertechnologiesinc",
    "hours_open": 181.0,
-   "title": "Electrical Hardware Engineer \u2013 Avionics",
+   "title": "Electrical Hardware Engineer – Avionics",
    "uid": "greenhouse:voyagertechnologiesinc:4362601009"
   },
   {
@@ -4722,7 +4631,7 @@
    "closed_at": 1789134442,
    "company": "abb",
    "hours_open": 106.7,
-   "title": "Sales Engineer \u2013 Service Division",
+   "title": "Sales Engineer – Service Division",
    "uid": "workday:abb.wd3/external_career_page:Service-Sales-specialist_JR00003209"
   },
   {
@@ -4792,7 +4701,7 @@
    "closed_at": 1789137582,
    "company": "abb",
    "hours_open": 107.6,
-   "title": "Sales Engineer \u2013 Service Division",
+   "title": "Sales Engineer – Service Division",
    "uid": "workday:abb.wd3/external_career_page:Service-Sales-specialist_JR00003209"
   },
   {
@@ -4813,7 +4722,7 @@
    "closed_at": 1789137582,
    "company": "Alcoa Canada",
    "hours_open": 69.5,
-   "title": "Conseiller(\u00e8re) en cybers\u00e9curit\u00e9 (Am\u00e9rique du Nord)",
+   "title": "Conseiller(ère) en cybersécurité (Amérique du Nord)",
    "uid": "jobillico:analyste cybersecurite:17502948"
   },
   {
@@ -4979,9 +4888,9 @@
   },
   {
    "closed_at": 1789147006,
-   "company": "Groupe Mario Cot\u00e9",
+   "company": "Groupe Mario Coté",
    "hours_open": 47.4,
-   "title": "Administrateur de r\u00e9seau",
+   "title": "Administrateur de réseau",
    "uid": "jobillico:analyste reseau:17511981"
   },
   {
@@ -5016,7 +4925,7 @@
    "closed_at": 1789147006,
    "company": "Logesco Informatique",
    "hours_open": 72.1,
-   "title": "Administrateur de r\u00e9seau",
+   "title": "Administrateur de réseau",
    "uid": "jobillico:analyste reseau:17188132"
   },
   {
@@ -5161,9 +5070,9 @@
   },
   {
    "closed_at": 1789151465,
-   "company": "Groupe Mario Cot\u00e9",
+   "company": "Groupe Mario Coté",
    "hours_open": 1.2,
-   "title": "Administrateur de r\u00e9seau",
+   "title": "Administrateur de réseau",
    "uid": "jobillico:analyste reseau:17520153"
   },
   {
@@ -5259,9 +5168,9 @@
   },
   {
    "closed_at": 1789156237,
-   "company": "General Dynamics Produits de d\u00e9fense et Syst\u00e8mes Tactiques",
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
    "hours_open": 74.7,
-   "title": "Administrateur R\u00e9seau TI",
+   "title": "Administrateur Réseau TI",
    "uid": "jobillico:analyste reseau:17386419"
   },
   {
@@ -5364,9 +5273,9 @@
   },
   {
    "closed_at": 1789156366,
-   "company": "General Dynamics Produits de d\u00e9fense et Syst\u00e8mes Tactiques",
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
    "hours_open": 74.7,
-   "title": "Administrateur R\u00e9seau TI",
+   "title": "Administrateur Réseau TI",
    "uid": "jobillico:analyste reseau:17386419"
   },
   {
@@ -5436,7 +5345,7 @@
    "closed_at": 1789157175,
    "company": "General Dynamics Missions System International",
    "hours_open": 45.1,
-   "title": "Co-op Winter 2027 \u2013 System of Systems Integration, Verification and Validation \u2013 4-8 months",
+   "title": "Co-op Winter 2027 – System of Systems Integration, Verification and Validation – 4-8 months",
    "uid": "smartrecruiters:GDMSI:744000148569449"
   },
   {
@@ -5478,7 +5387,7 @@
    "closed_at": 1789159269,
    "company": "Renesas Electronics",
    "hours_open": 52.4,
-   "title": "Design Verification Engineer\uff08SoC\u6a5f\u80fd\u691c\u8a3c\u30a8\u30f3\u30b8\u30cb\u30a2\uff09(1)",
+   "title": "Design Verification Engineer（SoC機能検証エンジニア）(1)",
    "uid": "smartrecruiters:RenesasElectronics:744000148440069"
   },
   {
@@ -5527,7 +5436,7 @@
    "closed_at": 1789161300,
    "company": "Logesco Informatique",
    "hours_open": 76.1,
-   "title": "Administrateur de r\u00e9seau",
+   "title": "Administrateur de réseau",
    "uid": "jobillico:analyste reseau:17188132"
   },
   {
@@ -5541,7 +5450,7 @@
    "closed_at": 1789161300,
    "company": "accenturefederalservices",
    "hours_open": 1.1,
-   "title": "Associate Software Engineer \u2013 Hire-to-Train Program (Pega)",
+   "title": "Associate Software Engineer – Hire-to-Train Program (Pega)",
    "uid": "greenhouse:accenturefederalservices:4710652006"
   },
   {
@@ -5560,9 +5469,9 @@
   },
   {
    "closed_at": 1789164172,
-   "company": "Groupe Mario Cot\u00e9",
+   "company": "Groupe Mario Coté",
    "hours_open": 4.8,
-   "title": "Administrateur de r\u00e9seau",
+   "title": "Administrateur de réseau",
    "uid": "jobillico:analyste reseau:17520153"
   },
   {
@@ -5637,9 +5546,9 @@
   },
   {
    "closed_at": 1789164282,
-   "company": "General Dynamics Produits de d\u00e9fense et Syst\u00e8mes Tactiques",
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
    "hours_open": 76.9,
-   "title": "Administrateur R\u00e9seau TI",
+   "title": "Administrateur Réseau TI",
    "uid": "jobillico:analyste reseau:17386419"
   },
   {
@@ -5648,6 +5557,50 @@
    "hours_open": 195.4,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1789166059,
+   "company": "boeing",
+   "hours_open": 0.5,
+   "title": "Entry-Level Simulation Software Engineer",
+   "uid": "workday:boeing.wd1/external_subsidiary:Entry-Level-Simulation-Software-Engineer_JR2026516853"
+  },
+  {
+   "closed_at": 1789166059,
+   "company": "echo",
+   "hours_open": 21.4,
+   "title": "Associate Software Engineer",
+   "uid": "workday:echo.wd1/Echo_Logistics:Associate-Software-Engineer_R4691-1"
+  },
+  {
+   "closed_at": 1789166059,
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
+   "hours_open": 77.4,
+   "title": "Administrateur Réseau TI",
+   "uid": "jobillico:analyste reseau:17386419"
+  },
+  {
+   "closed_at": 1789166059,
+   "company": "spacex",
+   "hours_open": 194.7,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1789166059,
+   "company": "spacex",
+   "hours_open": 197.6,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1789166059,
+   "company": "spacex",
+   "hours_open": 197.6,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
- ]
+ ],
+ "count": 813,
+ "updated_at": 1789166059
 }
