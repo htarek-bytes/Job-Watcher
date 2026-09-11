@@ -2,41 +2,6 @@
  "closed": [
   {
    "closed_at": 1788898936,
-   "company": "Marriott International",
-   "hours_open": 160.0,
-   "title": "Associate Software Engineer - Mobile - iOS",
-   "uid": "simplify:listings:2719baba-26af-4458-84f7-8a2dbd2ff35b"
-  },
-  {
-   "closed_at": 1788898936,
-   "company": "cadence",
-   "hours_open": 147.5,
-   "title": "Adams MultiBody Dynamics Application Software Developer (Recent Grad 2026)",
-   "uid": "workday:cadence.wd1/External_Careers:Adams-MultiBody-Dynamics-Application-Software-Developer--Recent-Grad-2026-_R55788"
-  },
-  {
-   "closed_at": 1788898936,
-   "company": "cadence",
-   "hours_open": 147.5,
-   "title": "Adams Application Software Developer  (Recent Grad 2026)",
-   "uid": "workday:cadence.wd1/Univ_Careers:Adams-Application-Software-Developer---Recent-Grad-2026-_R55736-2"
-  },
-  {
-   "closed_at": 1788898936,
-   "company": "Amazon",
-   "hours_open": 135.8,
-   "title": "Software Development Engineer Intern, Annapurna Labs - 2027",
-   "uid": "amazon:amazon:10517567"
-  },
-  {
-   "closed_at": 1788898936,
-   "company": "Amazon",
-   "hours_open": 123.4,
-   "title": "Software Development Engineer, AI Studios Engineering",
-   "uid": "amazon:amazon:10526436"
-  },
-  {
-   "closed_at": 1788898936,
    "company": "Amazon",
    "hours_open": 135.8,
    "title": "ASIC Engineer Intern, Annapurna Labs - 2027",
@@ -5599,8 +5564,43 @@
    "hours_open": 188.7,
    "title": "Test and Launch Operations Engineer I",
    "uid": "greenhouse:rocketlab:7807138003"
+  },
+  {
+   "closed_at": 1789161300,
+   "company": "launchdarkly",
+   "hours_open": 196.3,
+   "title": "Backend Engineer, Flag Delivery",
+   "uid": "greenhouse:launchdarkly:7861151003"
+  },
+  {
+   "closed_at": 1789161300,
+   "company": "Logesco Informatique",
+   "hours_open": 76.1,
+   "title": "Administrateur de réseau",
+   "uid": "jobillico:analyste reseau:17188132"
+  },
+  {
+   "closed_at": 1789161300,
+   "company": "twosixtechnologies",
+   "hours_open": 175.9,
+   "title": "CNO Developer - Wireless Systems",
+   "uid": "greenhouse:twosixtechnologies:6178132004"
+  },
+  {
+   "closed_at": 1789161300,
+   "company": "accenturefederalservices",
+   "hours_open": 1.1,
+   "title": "Associate Software Engineer – Hire-to-Train Program (Pega)",
+   "uid": "greenhouse:accenturefederalservices:4710652006"
+  },
+  {
+   "closed_at": 1789161300,
+   "company": "spacex",
+   "hours_open": 196.3,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 806,
- "updated_at": 1789159270
+ "count": 805,
+ "updated_at": 1789161300
 }
