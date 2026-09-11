@@ -2,20 +2,6 @@
  "closed": [
   {
    "closed_at": 1788888205,
-   "company": "solink",
-   "hours_open": 0.2,
-   "title": "Loss Prevention & Operations Analyst",
-   "uid": "ashby:solink:1e493e4c-0bf4-4535-875c-9c928dd88971"
-  },
-  {
-   "closed_at": 1788888205,
-   "company": "workleap",
-   "hours_open": 0.2,
-   "title": "Marketing Operations Analyst (RevOps) - ShareGate",
-   "uid": "greenhouse:workleap:5196800007"
-  },
-  {
-   "closed_at": 1788888205,
    "company": "crusoe",
    "hours_open": 0.2,
    "title": "Procurement Operations Analyst",
@@ -5599,8 +5585,22 @@
    "hours_open": 221.0,
    "title": "Entry Level ASIC/FPGA Verification Engineer - Space Electronics",
    "uid": "simplify:listings:42eef265-0f1e-458a-9c31-10bd91ae1021"
+  },
+  {
+   "closed_at": 1789120422,
+   "company": "Boeing",
+   "hours_open": 0.5,
+   "title": "Entry Level ASIC/FPGA Verification Engineer - Space Electronics",
+   "uid": "simplify:listings:57e5f0a2-fec1-4e80-9d79-803c7984db1d"
+  },
+  {
+   "closed_at": 1789120422,
+   "company": "artefactlinkedin",
+   "hours_open": 184.9,
+   "title": "Data Engineer - GenAI",
+   "uid": "greenhouse:artefactlinkedin:8443730002"
   }
  ],
- "count": 800,
- "updated_at": 1789119202
+ "count": 802,
+ "updated_at": 1789120422
 }
