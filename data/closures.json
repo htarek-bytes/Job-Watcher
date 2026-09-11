@@ -2,20 +2,6 @@
  "closed": [
   {
    "closed_at": 1788887337,
-   "company": "td",
-   "hours_open": 12.1,
-   "title": "2027 Summer Analyst - Software Engineering Rotational Program (Toronto)",
-   "uid": "workday:td.wd3/TD_Bank_Careers:XMLNAME-2027-Summer-Analyst---Software-Engineering-Rotational-Program--Toronto-_R_1509435"
-  },
-  {
-   "closed_at": 1788887337,
-   "company": "ramp",
-   "hours_open": 91.7,
-   "title": "GTM Business Systems Analyst – Post Sales",
-   "uid": "ashby:ramp:196e4e25-c452-430d-8b2f-36a40f88a2ae"
-  },
-  {
-   "closed_at": 1788887337,
    "company": "stripe",
    "hours_open": 120.2,
    "title": "Security Incident Response Engineer",
@@ -5599,8 +5585,22 @@
    "hours_open": 175.3,
    "title": "Software Development Engineer , Inventory Accounting",
    "uid": "amazon:amazon:10528850"
+  },
+  {
+   "closed_at": 1789087251,
+   "company": "Fortinet",
+   "hours_open": 212.4,
+   "title": "Junior Software Developer",
+   "uid": "simplify:listings:0129aefa-6830-42c7-97c4-bfaada409ad1"
+  },
+  {
+   "closed_at": 1789087251,
+   "company": "TP-Link Systems Inc.",
+   "hours_open": 42.0,
+   "title": "Big Data Engineer",
+   "uid": "workable:tp-link-usa-corp:E229A22BE6"
   }
  ],
- "count": 806,
- "updated_at": 1789086576
+ "count": 802,
+ "updated_at": 1789087251
 }
