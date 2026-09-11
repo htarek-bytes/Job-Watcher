@@ -2,20 +2,6 @@
  "closed": [
   {
    "closed_at": 1788903151,
-   "company": "ngc",
-   "hours_open": 2.8,
-   "title": "2027 Associate Software Engineer / Software Engineer - Roy UT",
-   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Associate-Software-Engineer---Software-Engineer---Roy-UT_R10249844-1"
-  },
-  {
-   "closed_at": 1788903151,
-   "company": "ngc",
-   "hours_open": 2.8,
-   "title": "Associate Systems Administrator – Level 1",
-   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:Associate-Systems-Administrator---Level-1_R10249828"
-  },
-  {
-   "closed_at": 1788903151,
    "company": "globalhr",
    "hours_open": 1.2,
    "title": "Software Engineer Co-op (Summer/Fall 2027) - Onsite",
@@ -5599,8 +5585,22 @@
    "hours_open": 196.2,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1789168928,
+   "company": "oshkoshcorporation",
+   "hours_open": 201.8,
+   "title": "Engineer Intern - Electrical (Summer 2027)",
+   "uid": "workday:oshkoshcorporation.wd5/Oshkosh:Engineer-Intern---Mechanical--Summer-2027-_R49821"
+  },
+  {
+   "closed_at": 1789168928,
+   "company": "nvidia",
+   "hours_open": 46.2,
+   "title": "Circuit Design Engineer - New College Grad 2026",
+   "uid": "workday:nvidia.wd5/NVIDIAExternalCareerSite:Circuit-Design-Engineer---New-College-Grad-2026_JR2018635"
   }
  ],
- "count": 812,
- "updated_at": 1789166956
+ "count": 802,
+ "updated_at": 1789168930
 }

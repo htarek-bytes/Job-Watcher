@@ -1,5 +1,5 @@
 {
- "count": 4642,
+ "count": 4650,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -1049,6 +1049,7 @@
   "greenhouse:andurilindustries:5234680007": 1789070335,
   "greenhouse:andurilindustries:5234683007": 1789062742,
   "greenhouse:andurilindustries:5235253007": 1789086102,
+  "greenhouse:andurilindustries:5235711007": 1789168928,
   "greenhouse:anthropic:4982193008": 1788460756,
   "greenhouse:anthropic:5290838008": 1788750148,
   "greenhouse:appdirect:8635759002": 1788454653,
@@ -2598,6 +2599,7 @@
   "jobbank:information systems analyst:50112346": 1788887337,
   "jobbank:information systems analyst:50163724": 1788887337,
   "jobbank:information systems analyst:50223741": 1788887337,
+  "jobbank:information systems analyst:50269564": 1789168928,
   "jobbank:infrastructure analyst:50199304": 1788887337,
   "jobbank:infrastructure analyst:50207337": 1788887337,
   "jobbank:infrastructure analyst:50253402": 1788988461,
@@ -3165,6 +3167,7 @@
   "simplify:listings:1827abb6-82cd-4735-aeff-87e0b81c8003": 1788322770,
   "simplify:listings:18c2c157-bced-43b1-9b2e-b9718a794559": 1788350664,
   "simplify:listings:18d8f515-5700-42f6-8b89-de3c7d69e83c": 1788435390,
+  "simplify:listings:1acd5a07-50ab-4e8a-8cb2-be9a1ae33d8b": 1789168928,
   "simplify:listings:1ae4d477-2ac5-41f7-848a-cf5ccb939aa2": 1788322770,
   "simplify:listings:1b24996d-5216-4340-b3e9-09cd19a5b0f0": 1788455648,
   "simplify:listings:1b2d5e3a-9ab3-42a9-ab25-8ade9c457825": 1788322770,
@@ -3554,6 +3557,7 @@
   "simplify:listings:b638e646-a8c7-484b-9b2b-51e2b939e5c6": 1788322770,
   "simplify:listings:b670db2d-c732-42ce-9b3c-0ba2e7ebe208": 1788322770,
   "simplify:listings:b8b5d32f-0c43-4547-a9ec-f624bbd9213e": 1788322770,
+  "simplify:listings:b8e99c43-8e02-4d04-89d1-f5bd150c6cfc": 1789168928,
   "simplify:listings:b9309db9-dccf-4bad-add7-a387f24df3c6": 1788322770,
   "simplify:listings:b937d537-d112-4218-a538-8f444f836439": 1788435390,
   "simplify:listings:b95085e2-8361-490f-ab61-0871fb589712": 1788322770,
@@ -3623,6 +3627,7 @@
   "simplify:listings:d24846e3-7ab0-4dc5-8419-0d070719ad82": 1788322770,
   "simplify:listings:d2686e45-dd4b-4b65-870c-0ea4607f8198": 1788322770,
   "simplify:listings:d26b671a-bd46-4c7b-9156-0a29cfe9579b": 1788364508,
+  "simplify:listings:d35dd23b-846b-4263-be1b-ff94fdfab2e5": 1789168928,
   "simplify:listings:d3bdb070-74f3-4fe0-ad6a-508f9dc3d75a": 1788907909,
   "simplify:listings:d524ecf8-071b-4ee2-8461-4ae3e02bf245": 1788495756,
   "simplify:listings:d53857e6-598b-490e-a1af-82e8bef24fa6": 1789166954,
@@ -4456,6 +4461,7 @@
   "workday:mpc.wd1/MPCCareers:Associate-Software-Engineer_00023623": 1788409442,
   "workday:ms.wd5/External:Associate--Software-Engineer_JR031776": 1788454653,
   "workday:ms.wd5/External:Associate--Software-Engineer_JR036749": 1788409442,
+  "workday:myhrabc.wd5/Global:Solutions-Consultant--Community-Pharmacy-Solutions_R2615710": 1789168928,
   "workday:myhrhome.wd1/OneMainCareers:Software-Developer-Intern---Document-Shared-Services--Part-Time-_R2608-52284": 1788981683,
   "workday:myview.wd3/paradox_careers:Software-Development---Co-op-Student_R2000699845": 1788848313,
   "workday:nationwide.wd1/Nationwide_Career:Consultant--Cybersecurity--Agentic-Solutions-Engineer-_099562": 1789074223,
@@ -4494,6 +4500,7 @@
   "workday:nvidia.wd5/NVIDIAExternalCareerSite:Backend-Compiler-Engineer---New-College-Grad-2026_JR2021242": 1788377835,
   "workday:nvidia.wd5/NVIDIAExternalCareerSite:Circuit-Design-Engineer---New-College-Grad-2026_JR2014331": 1788377835,
   "workday:nvidia.wd5/NVIDIAExternalCareerSite:Circuit-Design-Engineer---New-College-Grad-2026_JR2018635": 1789002546,
+  "workday:nvidia.wd5/NVIDIAExternalCareerSite:Circuit-Design-Engineer---New-College-Grad-2026_JR2019567": 1789168928,
   "workday:nvidia.wd5/NVIDIAExternalCareerSite:DFT-Engineer---New-College-Grad_JR2016865": 1788377835,
   "workday:nvidia.wd5/NVIDIAExternalCareerSite:Formal-Verification-Engineer---New-College-Grad-2026_JR2020837": 1788377835,
   "workday:nvidia.wd5/NVIDIAExternalCareerSite:GPU-Architecture-Engineer---New-College-Grad-2026_JR2021615": 1788377835,
@@ -4508,6 +4515,7 @@
   "workday:onehealthineers.wd3/SHSJB:Software-Engineering-Co-op---Hoffman-Estates--IL_R-30649": 1788981683,
   "workday:onto.wd1/onto_careers:Field-Service-Engineer-1_R-5922": 1788539216,
   "workday:onto.wd1/onto_careers:Supervisor--Field-Services_R-5957": 1788377835,
+  "workday:oshkoshcorporation.wd5/Oshkosh:Electrical-Integration-Engineer-Intern_R50260-1": 1789168928,
   "workday:oshkoshcorporation.wd5/Oshkosh:Engineer-Intern---Industrial_R49877": 1788442554,
   "workday:oshkoshcorporation.wd5/Oshkosh:Engineer-Intern---Manufacturing--Summer-2027-_R49737": 1788442554,
   "workday:oshkoshcorporation.wd5/Oshkosh:Engineer-Intern---Mechanical--Summer-2027-_R49741": 1788442554,
@@ -4644,5 +4652,5 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148,
   "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541": 1789106107
  },
- "updated_at": 1789166956
+ "updated_at": 1789168930
 }
