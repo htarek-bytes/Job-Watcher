@@ -2,34 +2,6 @@
  "closed": [
   {
    "closed_at": 1788888205,
-   "company": "crusoe",
-   "hours_open": 0.2,
-   "title": "Procurement Operations Analyst",
-   "uid": "ashby:crusoe:3f0089ff-ec8b-4650-81e5-5769c6da8b3c"
-  },
-  {
-   "closed_at": 1788888205,
-   "company": "doordashusa",
-   "hours_open": 0.2,
-   "title": "Fraud Insights Operations Analyst - Detection Anomaly Response Command",
-   "uid": "greenhouse:doordashusa:8172736"
-  },
-  {
-   "closed_at": 1788888205,
-   "company": "cohere",
-   "hours_open": 0.2,
-   "title": "Chief Information Security Officer (CISO)",
-   "uid": "ashby:cohere:e0c86d1a-ee3a-4da6-9244-53f0909ab236"
-  },
-  {
-   "closed_at": 1788888205,
-   "company": "doordashusa",
-   "hours_open": 0.2,
-   "title": "Fraud Insights Operations Analyst, Cx False Positive ",
-   "uid": "greenhouse:doordashusa:8166943"
-  },
-  {
-   "closed_at": 1788888205,
    "company": "twitch",
    "hours_open": 117.5,
    "title": "Software Development Engineer, Security Platform",
@@ -5599,8 +5571,36 @@
    "hours_open": 184.9,
    "title": "Data Engineer - GenAI",
    "uid": "greenhouse:artefactlinkedin:8443730002"
+  },
+  {
+   "closed_at": 1789123332,
+   "company": "Bosch Group",
+   "hours_open": 16.8,
+   "title": "Digital Solutions Engineer (w/m/div.)",
+   "uid": "smartrecruiters:BoschGroup:744000148744449"
+  },
+  {
+   "closed_at": 1789123332,
+   "company": "Bosch Group",
+   "hours_open": 16.8,
+   "title": "Q-Teamer | Production Quality Engineer - MSE3.1",
+   "uid": "smartrecruiters:BoschGroup:744000148713955"
+  },
+  {
+   "closed_at": 1789123332,
+   "company": "Bertelsmann-Jobs",
+   "hours_open": 65.3,
+   "title": " Pre-Sales Consultant, Life Sciences (m/w/d) ",
+   "uid": "smartrecruiters:Bertelsmann-Jobs:744000148204229"
+  },
+  {
+   "closed_at": 1789123332,
+   "company": "Amazon",
+   "hours_open": 222.4,
+   "title": "Software Engineer 1",
+   "uid": "simplify:listings:6d55f27f-9786-4c75-ab7c-c79dd9c729e0"
   }
  ],
- "count": 802,
- "updated_at": 1789120422
+ "count": 804,
+ "updated_at": 1789123333
 }
