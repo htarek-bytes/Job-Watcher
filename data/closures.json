@@ -2,41 +2,6 @@
  "closed": [
   {
    "closed_at": 1788887337,
-   "company": "andurilindustries",
-   "hours_open": 118.5,
-   "title": "Integration and Test Engineer (Support System), Omen",
-   "uid": "greenhouse:andurilindustries:5166301007"
-  },
-  {
-   "closed_at": 1788887337,
-   "company": "spacex",
-   "hours_open": 118.5,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1788887337,
-   "company": "spacex",
-   "hours_open": 120.2,
-   "title": "Development Test Engineer, Structures (Starship)",
-   "uid": "greenhouse:spacex:8551872002"
-  },
-  {
-   "closed_at": 1788887337,
-   "company": "spacex",
-   "hours_open": 120.2,
-   "title": "Power Systems Engineer (Starship)",
-   "uid": "greenhouse:spacex:8450056002"
-  },
-  {
-   "closed_at": 1788887337,
-   "company": "applied",
-   "hours_open": 120.2,
-   "title": "Software Engineer - Motion Planning",
-   "uid": "ashby:applied:f5de3234-a5d2-4c4c-9c79-3ae803807c63"
-  },
-  {
-   "closed_at": 1788887337,
    "company": "Amazon",
    "hours_open": 120.2,
    "title": "Software Development Engineer , Leo Commerce, Leo Commerce",
@@ -5599,8 +5564,43 @@
    "hours_open": 33.7,
    "title": "Software Engineering Co-op - Hoffman Estates, IL",
    "uid": "workday:onehealthineers.wd3/SHSJB:Software-Engineering-Co-op---Hoffman-Estates--IL_R-30649"
+  },
+  {
+   "closed_at": 1789103977,
+   "company": "twitch",
+   "hours_open": 180.4,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1789103977,
+   "company": "td",
+   "hours_open": 197.2,
+   "title": "Associate Software Engineer - Mainframe",
+   "uid": "workday:td.wd3/TD_Bank_Careers:Associate-Software-Engineer---Mainframe_R_1503472-1"
+  },
+  {
+   "closed_at": 1789103977,
+   "company": "Logesco Informatique",
+   "hours_open": 49.3,
+   "title": "network administrator",
+   "uid": "jobbank:network administrator:49871595"
+  },
+  {
+   "closed_at": 1789103977,
+   "company": "spacex",
+   "hours_open": 177.4,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1789103977,
+   "company": "spacex",
+   "hours_open": 180.4,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
   }
  ],
- "count": 802,
- "updated_at": 1789102951
+ "count": 805,
+ "updated_at": 1789103978
 }
