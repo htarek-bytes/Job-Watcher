@@ -1,55 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1788898936,
-   "company": "Amazon",
-   "hours_open": 135.8,
-   "title": "ASIC Engineer Intern, Annapurna Labs - 2027",
-   "uid": "amazon:amazon:10517535"
-  },
-  {
-   "closed_at": 1788898936,
-   "company": "allen-control-systems",
-   "hours_open": 120.5,
-   "title": "Systems Test Engineer - All Levels",
-   "uid": "ashby:allen-control-systems:23b70be8-9f8b-4774-a637-4f4150e48933"
-  },
-  {
-   "closed_at": 1788898936,
-   "company": "RTX",
-   "hours_open": 160.0,
-   "title": "Embedded Software Engineer 1",
-   "uid": "simplify:listings:aa978fcf-172b-4c86-9b7b-31d9a39a6d8a"
-  },
-  {
-   "closed_at": 1788898936,
-   "company": "systemstechnologyresearch",
-   "hours_open": 3.2,
-   "title": "Autonomy Algorithms Software Engineer",
-   "uid": "greenhouse:systemstechnologyresearch:4704680006"
-  },
-  {
-   "closed_at": 1788898936,
-   "company": "spacex",
-   "hours_open": 123.1,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1788898936,
-   "company": "spacex",
-   "hours_open": 121.7,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1788898936,
-   "company": "bmo",
-   "hours_open": 119.0,
-   "title": "Machine Learning Developer (New or Recent Graduate)",
-   "uid": "workday:bmo.wd3/External:Machine-Learning-Developer--New-or-Recent-Graduate-_R260024265"
-  },
-  {
    "closed_at": 1788899460,
    "company": "ngc",
    "hours_open": 1.8,
@@ -5599,8 +5550,57 @@
    "hours_open": 196.3,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1789164172,
+   "company": "bmo",
+   "hours_open": 192.7,
+   "title": "Machine Learning Developer (New or Recent Graduate)",
+   "uid": "workday:bmo.wd3/External:Machine-Learning-Developer--New-or-Recent-Graduate-_R260024265"
+  },
+  {
+   "closed_at": 1789164172,
+   "company": "Groupe Mario Coté",
+   "hours_open": 4.8,
+   "title": "Administrateur de réseau",
+   "uid": "jobillico:analyste reseau:17520153"
+  },
+  {
+   "closed_at": 1789164172,
+   "company": "Amazon",
+   "hours_open": 194.1,
+   "title": "Software Development Engineer, RDS Oracle",
+   "uid": "amazon:amazon:10529117"
+  },
+  {
+   "closed_at": 1789164172,
+   "company": "boeing",
+   "hours_open": 21.0,
+   "title": "Mechanical Ground Support Equipment Engineer (Entry-Level) - Millennium Space Systems",
+   "uid": "workday:boeing.wd1/external_subsidiary:Mechanical-Ground-Support-Equipment-Engineer--Entry-Level----Millennium-Space-Systems_JR2026524385"
+  },
+  {
+   "closed_at": 1789164172,
+   "company": "boeing",
+   "hours_open": 26.1,
+   "title": "Associate Software Engineer, Phantom Works",
+   "uid": "workday:boeing.wd1/external_subsidiary:Associate-Software-Engineer--Phantom-Works_JR2026523287-1"
+  },
+  {
+   "closed_at": 1789164172,
+   "company": "mongodb",
+   "hours_open": 76.9,
+   "title": "Cloud Operations Engineer (2nd Shift, Weekend)",
+   "uid": "greenhouse:mongodb:8045688"
+  },
+  {
+   "closed_at": 1789164172,
+   "company": "spacex",
+   "hours_open": 195.4,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
- "count": 805,
- "updated_at": 1789161300
+ "count": 807,
+ "updated_at": 1789164173
 }
