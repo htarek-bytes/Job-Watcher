@@ -2,34 +2,6 @@
  "closed": [
   {
    "closed_at": 1788887337,
-   "company": "stripe",
-   "hours_open": 120.2,
-   "title": "Security Incident Response Engineer",
-   "uid": "greenhouse:stripe:8142302"
-  },
-  {
-   "closed_at": 1788887337,
-   "company": "Media Resources",
-   "hours_open": 100.9,
-   "title": "full stack Web developer",
-   "uid": "jobbank:developpeur junior:50218626"
-  },
-  {
-   "closed_at": 1788887337,
-   "company": "bmo",
-   "hours_open": 36.2,
-   "title": "Software Developer, Winter 2027 (Co-op/Internship) - 4 Months",
-   "uid": "workday:bmo.wd3/Campus:Software-Developer--Winter-2027--Co-op-Internship----4-Months_R260024638-1"
-  },
-  {
-   "closed_at": 1788887337,
-   "company": "osedea",
-   "hours_open": 120.2,
-   "title": "Développeur·euse logiciel sénior, DevOps et infrastructure",
-   "uid": "lever:osedea:b2145260-1e9b-46e6-a660-340aa395c738"
-  },
-  {
-   "closed_at": 1788887337,
    "company": "generalmotors",
    "hours_open": 93.8,
    "title": "Entry Level Software Design Release Engineer",
@@ -5599,8 +5571,36 @@
    "hours_open": 42.0,
    "title": "Big Data Engineer",
    "uid": "workable:tp-link-usa-corp:E229A22BE6"
+  },
+  {
+   "closed_at": 1789088653,
+   "company": "Alithya Canada Inc.",
+   "hours_open": 11.2,
+   "title": "full stack Web developer",
+   "uid": "jobbank:junior programmer:50257748"
+  },
+  {
+   "closed_at": 1789088653,
+   "company": "Alithya Canada Inc.",
+   "hours_open": 5.1,
+   "title": "Web developer",
+   "uid": "jobbank:developpeur junior:50257747"
+  },
+  {
+   "closed_at": 1789088653,
+   "company": "canadiantirecorporation",
+   "hours_open": 52.7,
+   "title": "Enterprise Data Visualization & BI Platform Analyst",
+   "uid": "workday:canadiantirecorporation.wd3/Enterprise_External_Careers_Site:Enterprise-Data-Visualization---BI-Platform-Analyst_JR163657-1"
+  },
+  {
+   "closed_at": 1789088653,
+   "company": "barclays",
+   "hours_open": 31.1,
+   "title": "2027 Technology Developer Summer Internship Programme London",
+   "uid": "workday:barclays.wd3/External_Career_Site_Barclays:XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-London_JR-0000129397"
   }
  ],
- "count": 802,
- "updated_at": 1789087251
+ "count": 804,
+ "updated_at": 1789088653
 }
