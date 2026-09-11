@@ -1,48 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1788890289,
-   "company": "InterImage",
-   "hours_open": 0.8,
-   "title": "Network Administrator 2 - I",
-   "uid": "workable:interimage:48DC5D01E7"
-  },
-  {
-   "closed_at": 1788893085,
-   "company": "people-culture-talent",
-   "hours_open": 1.6,
-   "title": "Infrastructure Engineer",
-   "uid": "ashby:people-culture-talent:7449a67b-3315-42f8-a218-4a88ea8632f4"
-  },
-  {
-   "closed_at": 1788893085,
-   "company": "ontic",
-   "hours_open": 117.4,
-   "title": "Associate DevOps Engineer",
-   "uid": "ashby:ontic:c4f5bf21-d5a9-488c-9638-631bd58de471"
-  },
-  {
-   "closed_at": 1788893085,
-   "company": "twitch",
-   "hours_open": 118.8,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1788893085,
-   "company": "allen-control-systems",
-   "hours_open": 118.8,
-   "title": "Systems Engineer - All Levels",
-   "uid": "ashby:allen-control-systems:797bd230-9553-46a7-88fa-034c6af072cd"
-  },
-  {
-   "closed_at": 1788893085,
-   "company": "Maarut",
-   "hours_open": 91.5,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50225158"
-  },
-  {
    "closed_at": 1788893085,
    "company": "InterImage",
    "hours_open": 140.8,
@@ -5599,8 +5557,50 @@
    "hours_open": 190.0,
    "title": "Security Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1789151465,
+   "company": "twitch",
+   "hours_open": 193.6,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1789151465,
+   "company": "Groupe Mario Coté",
+   "hours_open": 1.2,
+   "title": "Administrateur de réseau",
+   "uid": "jobillico:analyste reseau:17520153"
+  },
+  {
+   "closed_at": 1789151465,
+   "company": "pictonmahoney",
+   "hours_open": 72.8,
+   "title": "Trading Systems Support Analyst",
+   "uid": "bamboohr:pictonmahoney:360"
+  },
+  {
+   "closed_at": 1789151465,
+   "company": "gotion",
+   "hours_open": 193.6,
+   "title": "Battery Simulation Engineer",
+   "uid": "greenhouse:gotion:7049541002"
+  },
+  {
+   "closed_at": 1789151465,
+   "company": "spacex",
+   "hours_open": 193.6,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1789151465,
+   "company": "spacex",
+   "hours_open": 193.6,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 802,
- "updated_at": 1789149391
+ "count": 806,
+ "updated_at": 1789151465
 }
