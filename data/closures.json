@@ -1,27 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1788908268,
-   "company": "mmc",
-   "hours_open": 142.9,
-   "title": "Junior Python Engineer @MarshTech",
-   "uid": "workday:mmc.wd1/mmc:Junior-Python-Engineer--MarshTech_R_362442-1"
-  },
-  {
-   "closed_at": 1788910845,
-   "company": "Bio Mart Inc.",
-   "hours_open": 6.5,
-   "title": "Web developer",
-   "uid": "jobbank:junior programmer:50242784"
-  },
-  {
-   "closed_at": 1788910845,
-   "company": "AECOM",
-   "hours_open": 9.8,
-   "title": "Entry-Level Design Engineer - Water - Hiring Event with AECOM - New York City",
-   "uid": "smartrecruiters:AECOM2:744000148217578"
-  },
-  {
    "closed_at": 1788910845,
    "company": "twitch",
    "hours_open": 126.7,
@@ -5599,8 +5578,29 @@
    "hours_open": 214.7,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1789228004,
+   "company": "Groupe Mario Coté",
+   "hours_open": 22.5,
+   "title": "Administrateur de réseau",
+   "uid": "jobillico:analyste reseau:17520153"
+  },
+  {
+   "closed_at": 1789228004,
+   "company": "twitch",
+   "hours_open": 214.8,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1789228004,
+   "company": "spacex",
+   "hours_open": 214.5,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
   }
  ],
- "count": 802,
- "updated_at": 1789227672
+ "count": 803,
+ "updated_at": 1789228004
 }
