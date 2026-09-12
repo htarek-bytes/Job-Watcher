@@ -2,27 +2,6 @@
  "closed": [
   {
    "closed_at": 1788903666,
-   "company": "reddit",
-   "hours_open": 124.7,
-   "title": "Software Engineer - Data Movement Platform",
-   "uid": "greenhouse:reddit:7997866"
-  },
-  {
-   "closed_at": 1788903666,
-   "company": "roboforce",
-   "hours_open": 117.7,
-   "title": "Robotics Software Engineer",
-   "uid": "greenhouse:roboforce:5181554008"
-  },
-  {
-   "closed_at": 1788903666,
-   "company": "drweng",
-   "hours_open": 124.7,
-   "title": "AI Engineer",
-   "uid": "greenhouse:drweng:6586001"
-  },
-  {
-   "closed_at": 1788903666,
    "company": "veeva",
    "hours_open": 152.7,
    "title": "Associate Software Engineer - 2027 Start Dates",
@@ -5599,8 +5578,29 @@
    "hours_open": 5.9,
    "title": "Associate Engineer",
    "uid": "simplify:listings:3ee60348-39b1-4a67-b417-dfaf6fd38d00"
+  },
+  {
+   "closed_at": 1789202835,
+   "company": "Logesco Informatique",
+   "hours_open": 87.6,
+   "title": "Administrateur de réseau",
+   "uid": "jobillico:analyste reseau:17188132"
+  },
+  {
+   "closed_at": 1789202835,
+   "company": "caci",
+   "hours_open": 62.1,
+   "title": "Software Engineering Intern – Summer 2027",
+   "uid": "workday:caci.wd1/external:Software-Engineering-Intern---Summer-2027_331742"
+  },
+  {
+   "closed_at": 1789202835,
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
+   "hours_open": 87.6,
+   "title": "Administrateur Réseau TI",
+   "uid": "jobillico:analyste reseau:17386419"
   }
  ],
- "count": 802,
- "updated_at": 1789192988
+ "count": 803,
+ "updated_at": 1789202835
 }
