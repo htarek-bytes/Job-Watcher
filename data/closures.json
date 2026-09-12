@@ -1,27 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1788911326,
-   "company": "spacex",
-   "hours_open": 126.9,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1788911326,
-   "company": "spacex",
-   "hours_open": 126.9,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1788914978,
-   "company": "bmo",
-   "hours_open": 123.4,
-   "title": "Machine Learning Developer (New or Recent Graduate)",
-   "uid": "workday:bmo.wd3/External:Machine-Learning-Developer--New-or-Recent-Graduate-_R260024265"
-  },
-  {
    "closed_at": 1788914978,
    "company": "relx",
    "hours_open": 149.2,
@@ -5599,8 +5578,29 @@
    "hours_open": 97.6,
    "title": "Administrateur Réseau TI",
    "uid": "jobillico:analyste reseau:17386419"
+  },
+  {
+   "closed_at": 1789242110,
+   "company": "twitch",
+   "hours_open": 218.7,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1789242110,
+   "company": "AdButler",
+   "hours_open": 236.6,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50112647"
+  },
+  {
+   "closed_at": 1789242110,
+   "company": "spacex",
+   "hours_open": 218.5,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
   }
  ],
- "count": 809,
- "updated_at": 1789238759
+ "count": 803,
+ "updated_at": 1789242110
 }
