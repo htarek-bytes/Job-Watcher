@@ -2,41 +2,6 @@
  "closed": [
   {
    "closed_at": 1788903666,
-   "company": "veeva",
-   "hours_open": 152.7,
-   "title": "Associate Software Engineer - 2027 Start Dates",
-   "uid": "lever:veeva:54f473e7-f225-44b3-beb7-b5d50403fe02"
-  },
-  {
-   "closed_at": 1788903666,
-   "company": "caci",
-   "hours_open": 98.6,
-   "title": "Software Engineer Intern - Summer 2027",
-   "uid": "workday:caci.wd1/external:Software-Engineer-Intern---Summer-2027_331648"
-  },
-  {
-   "closed_at": 1788903666,
-   "company": "spacex",
-   "hours_open": 143.7,
-   "title": "New Graduate Engineer, Software (Starship)",
-   "uid": "greenhouse:spacex:8729121002"
-  },
-  {
-   "closed_at": 1788903666,
-   "company": "spacex",
-   "hours_open": 124.7,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1788903666,
-   "company": "systemstechnologyresearch",
-   "hours_open": 117.7,
-   "title": "Autonomy Algorithms Software Engineer",
-   "uid": "greenhouse:systemstechnologyresearch:4704682006"
-  },
-  {
-   "closed_at": 1788903666,
    "company": "spacex",
    "hours_open": 124.7,
    "title": "Wireless Software Engineer (Starlink)",
@@ -5599,8 +5564,43 @@
    "hours_open": 87.6,
    "title": "Administrateur Réseau TI",
    "uid": "jobillico:analyste reseau:17386419"
+  },
+  {
+   "closed_at": 1789203086,
+   "company": "fmr",
+   "hours_open": 10.0,
+   "title": "Co-op, Software Engineer",
+   "uid": "workday:fmr.wd1/targeted:Co-op--Software-Engineer_2135200"
+  },
+  {
+   "closed_at": 1789203086,
+   "company": "globalhr",
+   "hours_open": 70.9,
+   "title": "Software Engineering Intern (Summer 2027)",
+   "uid": "workday:globalhr.wd5/Private_Posting_No_TMP:Software-Engineering-Intern--Summer-2027-_01870410"
+  },
+  {
+   "closed_at": 1789203086,
+   "company": "dtna",
+   "hours_open": 18.8,
+   "title": "Integration and Coordination Engineer I",
+   "uid": "workday:dtna.wd5/dtna_affiliate:Integration-and-Coordination-Engineer-I_DT-19590-2"
+  },
+  {
+   "closed_at": 1789203086,
+   "company": "gevernova",
+   "hours_open": 229.3,
+   "title": "Early Career Traininship- Technical Applications Engineer",
+   "uid": "workday:gevernova.wd5/only_confidential_executive_recruiting:Early-Career-Traininship--Technical-Applications-Engineer_R5050516-3"
+  },
+  {
+   "closed_at": 1789203086,
+   "company": "eversource",
+   "hours_open": 191.9,
+   "title": "Associate Engineer, Maintenance Support",
+   "uid": "workday:eversource.wd1/ExternalSite:Associate-Engineer--Maintenance-Support_R-031423"
   }
  ],
- "count": 803,
- "updated_at": 1789202835
+ "count": 805,
+ "updated_at": 1789203087
 }
