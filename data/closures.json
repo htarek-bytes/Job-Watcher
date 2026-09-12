@@ -2,27 +2,6 @@
  "closed": [
   {
    "closed_at": 1788914978,
-   "company": "relx",
-   "hours_open": 149.2,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - January)",
-   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617-1"
-  },
-  {
-   "closed_at": 1788914978,
-   "company": "relx",
-   "hours_open": 149.2,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - June)",
-   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-2"
-  },
-  {
-   "closed_at": 1788914978,
-   "company": "relx",
-   "hours_open": 149.2,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Boca Raton - June)",
-   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Boca-Raton---June-_R116023"
-  },
-  {
-   "closed_at": 1788914978,
    "company": "nvidia",
    "hours_open": 1.1,
    "title": "ASIC Floorplan Design Engineer - New College Grad 2026",
@@ -5599,8 +5578,29 @@
    "hours_open": 218.5,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1789243281,
+   "company": "Groupe Mario Coté",
+   "hours_open": 26.7,
+   "title": "Administrateur de réseau",
+   "uid": "jobillico:analyste reseau:17520153"
+  },
+  {
+   "closed_at": 1789243281,
+   "company": "twitch",
+   "hours_open": 216.1,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1789243281,
+   "company": "spacex",
+   "hours_open": 219.1,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
   }
  ],
  "count": 803,
- "updated_at": 1789242110
+ "updated_at": 1789243281
 }
