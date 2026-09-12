@@ -2,55 +2,6 @@
  "closed": [
   {
    "closed_at": 1788903151,
-   "company": "baxter",
-   "hours_open": 117.4,
-   "title": "Controls Engineer I",
-   "uid": "workday:baxter.wd1/baxter:Controls-Engineer-I_JR-209135-1"
-  },
-  {
-   "closed_at": 1788903151,
-   "company": "cadence",
-   "hours_open": 72.8,
-   "title": "Software Engineer  (new college grad Dec 2026)",
-   "uid": "workday:cadence.wd1/University_Talent_NCG:Software-Engineer---new-college-grad-Dec-2026-_R55738"
-  },
-  {
-   "closed_at": 1788903151,
-   "company": "micron",
-   "hours_open": 137.3,
-   "title": "New College Grad - Design Engineer, DRAM Technology and Products",
-   "uid": "workday:micron.wd1/External:New-College-Grad---Design-Engineer--DRAM-Technology-and-Products_JR105519"
-  },
-  {
-   "closed_at": 1788903151,
-   "company": "micron",
-   "hours_open": 141.4,
-   "title": "New College Grad - RDA Engineer, APTD",
-   "uid": "workday:micron.wd1/External:New-College-Grad---RDA-Engineer--APTD_JR108462"
-  },
-  {
-   "closed_at": 1788903151,
-   "company": "Marriott International",
-   "hours_open": 161.2,
-   "title": "Associate Software Engineer - Android - Mobile",
-   "uid": "simplify:listings:73f2a1e2-5560-45b6-9aef-e74758e86472"
-  },
-  {
-   "closed_at": 1788903151,
-   "company": "cadence",
-   "hours_open": 104.2,
-   "title": "Adams Application Software Developer  (Recent Grad 2026)",
-   "uid": "workday:cadence.wd1/University_Talent_NCG:Adams-Application-Software-Developer---Recent-Grad-2026-_R55736"
-  },
-  {
-   "closed_at": 1788903151,
-   "company": "cadence",
-   "hours_open": 103.4,
-   "title": "Adams MultiBody Dynamics Application Software Developer (Recent Grad 2026)",
-   "uid": "workday:cadence.wd1/University_Talent_NCG:Adams-MultiBody-Dynamics-Application-Software-Developer--Recent-Grad-2026-_R55788-2"
-  },
-  {
-   "closed_at": 1788903151,
    "company": "reddit",
    "hours_open": 124.6,
    "title": "Software Engineer - Data Movement Platform",
@@ -5599,8 +5550,57 @@
    "hours_open": 235.8,
    "title": "Early Career AI/ML Engineer",
    "uid": "simplify:listings:ca7d68ba-0e7b-411e-974e-de4b08bc123f"
+  },
+  {
+   "closed_at": 1789173477,
+   "company": "Commure",
+   "hours_open": 0.5,
+   "title": "Software Engineer - Early Career",
+   "uid": "simplify:listings:5e9a3fb3-b8d1-440b-b8cb-3725a201cdf0"
+  },
+  {
+   "closed_at": 1789173477,
+   "company": "GrayMatter Robotics",
+   "hours_open": 205.0,
+   "title": "Robotics Engineer New Grad - Government Projects",
+   "uid": "simplify:listings:7c5c7640-ef36-440b-9855-25bddab1fa99"
+  },
+  {
+   "closed_at": 1789173477,
+   "company": "Amazon",
+   "hours_open": 199.7,
+   "title": "Software Development Engineer, Amazon Fulfillment Technologies (AFT)  - Platform Engineering & Services",
+   "uid": "amazon:amazon:10526509"
+  },
+  {
+   "closed_at": 1789173477,
+   "company": "verkada",
+   "hours_open": 199.7,
+   "title": "Backend Engineer, Alarms",
+   "uid": "greenhouse:verkada:5191604007"
+  },
+  {
+   "closed_at": 1789173477,
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
+   "hours_open": 79.5,
+   "title": "Administrateur Réseau TI",
+   "uid": "jobillico:analyste reseau:17386419"
+  },
+  {
+   "closed_at": 1789173477,
+   "company": "spacex",
+   "hours_open": 196.7,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1789173477,
+   "company": "spacex",
+   "hours_open": 199.7,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 800,
- "updated_at": 1789171965
+ "count": 807,
+ "updated_at": 1789173479
 }
