@@ -2,27 +2,6 @@
  "closed": [
   {
    "closed_at": 1788908268,
-   "company": "tsc",
-   "hours_open": 142.8,
-   "title": "NPI Test Engineer I",
-   "uid": "workday:tsc.wd12/TSC-Careers:NPI-Test-Engineer-I_JR2763"
-  },
-  {
-   "closed_at": 1788908268,
-   "company": "relx",
-   "hours_open": 147.3,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - January)",
-   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617-1"
-  },
-  {
-   "closed_at": 1788908268,
-   "company": "relx",
-   "hours_open": 147.3,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - June)",
-   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-2"
-  },
-  {
-   "closed_at": 1788908268,
    "company": "relx",
    "hours_open": 147.3,
    "title": "Tech Accelerate Graduate Program - Software Engineer (Boca Raton - June)",
@@ -5599,8 +5578,29 @@
    "hours_open": 211.5,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1789217882,
+   "company": "Groupe Mario Coté",
+   "hours_open": 19.7,
+   "title": "Administrateur de réseau",
+   "uid": "jobillico:analyste reseau:17520153"
+  },
+  {
+   "closed_at": 1789217882,
+   "company": "twitch",
+   "hours_open": 212.0,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1789217882,
+   "company": "spacex",
+   "hours_open": 211.7,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
   }
  ],
  "count": 803,
- "updated_at": 1789216094
+ "updated_at": 1789217882
 }
