@@ -2,27 +2,6 @@
  "closed": [
   {
    "closed_at": 1788910845,
-   "company": "twitch",
-   "hours_open": 126.7,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1788910845,
-   "company": "bmo",
-   "hours_open": 128.5,
-   "title": "Machine Learning Developer (New or Recent Graduate)",
-   "uid": "workday:bmo.wd3/Campus:Machine-Learning-Developer--New-or-Recent-Graduate-_R260024265-1"
-  },
-  {
-   "closed_at": 1788910845,
-   "company": "DLGL TECHNOLOGIES CORPORATION",
-   "hours_open": 144.6,
-   "title": "developer, software",
-   "uid": "jobbank:developpeur junior:50191592"
-  },
-  {
-   "closed_at": 1788910845,
    "company": "generalmotors",
    "hours_open": 100.3,
    "title": "Entry Level Software Design Release Engineer",
@@ -5599,8 +5578,29 @@
    "hours_open": 214.5,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1789229643,
+   "company": "twitch",
+   "hours_open": 212.3,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1789229643,
+   "company": "AdButler",
+   "hours_open": 233.2,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50112647"
+  },
+  {
+   "closed_at": 1789229643,
+   "company": "spacex",
+   "hours_open": 215.3,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
   }
  ],
  "count": 803,
- "updated_at": 1789228004
+ "updated_at": 1789229643
 }
