@@ -2,41 +2,6 @@
  "closed": [
   {
    "closed_at": 1788907909,
-   "company": "roboforce",
-   "hours_open": 118.9,
-   "title": "Robotics Software Engineer",
-   "uid": "greenhouse:roboforce:5181554008"
-  },
-  {
-   "closed_at": 1788907909,
-   "company": "drweng",
-   "hours_open": 1.3,
-   "title": "AI Engineer",
-   "uid": "greenhouse:drweng:6586065"
-  },
-  {
-   "closed_at": 1788907909,
-   "company": "Veeva Systems",
-   "hours_open": 162.5,
-   "title": "Associate Software Engineer - Engineering Development Program",
-   "uid": "simplify:listings:ff10df50-35b8-47c4-8138-ff9083746abf"
-  },
-  {
-   "closed_at": 1788907909,
-   "company": "spacex",
-   "hours_open": 144.8,
-   "title": "New Graduate Engineer, Software (Starship)",
-   "uid": "greenhouse:spacex:8729121002"
-  },
-  {
-   "closed_at": 1788907909,
-   "company": "spacex",
-   "hours_open": 123.0,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1788907909,
    "company": "spacex",
    "hours_open": 125.6,
    "title": "Wireless Software Engineer (Starlink)",
@@ -5599,8 +5564,43 @@
    "hours_open": 229.8,
    "title": "ASIC Design Engineer - New College Grad 2026",
    "uid": "workday:nvidia.wd5/NVIDIAExternalCareerSite:ASIC-Design-Engineer---New-College-Grad-2026_JR2020309"
+  },
+  {
+   "closed_at": 1789209684,
+   "company": "Maarut",
+   "hours_open": 6.2,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50256481"
+  },
+  {
+   "closed_at": 1789209684,
+   "company": "twitch",
+   "hours_open": 206.8,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1789209684,
+   "company": "td",
+   "hours_open": 89.0,
+   "title": "Associate Software Engineer",
+   "uid": "workday:td.wd3/TD_Bank_Careers:Associate-Software-Engineer_R_1509806"
+  },
+  {
+   "closed_at": 1789209684,
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
+   "hours_open": 89.5,
+   "title": "Administrateur Réseau TI",
+   "uid": "jobillico:analyste reseau:17386419"
+  },
+  {
+   "closed_at": 1789209684,
+   "company": "spacex",
+   "hours_open": 209.7,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
   }
  ],
- "count": 804,
- "updated_at": 1789205072
+ "count": 805,
+ "updated_at": 1789209684
 }
