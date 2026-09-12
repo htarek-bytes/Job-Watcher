@@ -2,13 +2,6 @@
  "closed": [
   {
    "closed_at": 1788910845,
-   "company": "twitch",
-   "hours_open": 126.7,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1788910845,
    "company": "bmo",
    "hours_open": 128.5,
    "title": "Machine Learning Developer (New or Recent Graduate)",
@@ -5599,8 +5592,15 @@
    "hours_open": 214.5,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1789229564,
+   "company": "AdButler",
+   "hours_open": 233.1,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50112647"
   }
  ],
- "count": 803,
- "updated_at": 1789228004
+ "count": 801,
+ "updated_at": 1789229564
 }
