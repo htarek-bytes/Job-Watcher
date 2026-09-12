@@ -2,41 +2,6 @@
  "closed": [
   {
    "closed_at": 1788910845,
-   "company": "TD Bank",
-   "hours_open": 90.2,
-   "title": "Associate Software Engineer",
-   "uid": "simplify:listings:725a5070-88c9-4a51-890e-f7e39332751c"
-  },
-  {
-   "closed_at": 1788910845,
-   "company": "L3Harris Technologies",
-   "hours_open": 155.6,
-   "title": "Associate Software Engineer",
-   "uid": "simplify:listings:18c2c157-bced-43b1-9b2e-b9718a794559"
-  },
-  {
-   "closed_at": 1788910845,
-   "company": "spacex",
-   "hours_open": 126.7,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1788910845,
-   "company": "Northrop Grumman",
-   "hours_open": 163.4,
-   "title": "Associate Software Engineer / Software Engineer",
-   "uid": "simplify:listings:fd35bf7d-2a83-4c94-84df-7f5ae7a4429f"
-  },
-  {
-   "closed_at": 1788910845,
-   "company": "spacex",
-   "hours_open": 126.7,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1788910845,
    "company": "spacex",
    "hours_open": 126.7,
    "title": "Software Engineer (Starship)",
@@ -5599,8 +5564,43 @@
    "hours_open": 215.3,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1789235458,
+   "company": "Groupe Mario Coté",
+   "hours_open": 24.6,
+   "title": "Administrateur de réseau",
+   "uid": "jobillico:analyste reseau:17520153"
+  },
+  {
+   "closed_at": 1789235458,
+   "company": "twitch",
+   "hours_open": 213.9,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1789235458,
+   "company": "gevernova",
+   "hours_open": 238.2,
+   "title": "Early Career Traininship- Technical Applications Engineer",
+   "uid": "workday:gevernova.wd5/vernova_externalsite:Early-Career-Traininship--Technical-Applications-Engineer_R5050516"
+  },
+  {
+   "closed_at": 1789235458,
+   "company": "celonis",
+   "hours_open": 215.2,
+   "title": "Associate Value Engineer (AI-Driven Data Science & Analytics) - Orbit Program",
+   "uid": "greenhouse:celonis:7725788003"
+  },
+  {
+   "closed_at": 1789235458,
+   "company": "spacex",
+   "hours_open": 216.9,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
   }
  ],
- "count": 808,
- "updated_at": 1789230897
+ "count": 805,
+ "updated_at": 1789235458
 }
