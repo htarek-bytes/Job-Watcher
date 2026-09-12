@@ -2,34 +2,6 @@
  "closed": [
   {
    "closed_at": 1788903151,
-   "company": "reddit",
-   "hours_open": 124.6,
-   "title": "Software Engineer - Data Movement Platform",
-   "uid": "greenhouse:reddit:7997866"
-  },
-  {
-   "closed_at": 1788903151,
-   "company": "drweng",
-   "hours_open": 124.6,
-   "title": "AI Engineer",
-   "uid": "greenhouse:drweng:6586001"
-  },
-  {
-   "closed_at": 1788903151,
-   "company": "veeva",
-   "hours_open": 152.6,
-   "title": "Associate Software Engineer - 2027 Start Dates",
-   "uid": "lever:veeva:54f473e7-f225-44b3-beb7-b5d50403fe02"
-  },
-  {
-   "closed_at": 1788903151,
-   "company": "caci",
-   "hours_open": 98.4,
-   "title": "Software Engineer Intern - Summer 2027",
-   "uid": "workday:caci.wd1/external:Software-Engineer-Intern---Summer-2027_331648"
-  },
-  {
-   "closed_at": 1788903151,
    "company": "spacex",
    "hours_open": 124.6,
    "title": "Security Software Engineer (Starlink)",
@@ -5599,8 +5571,36 @@
    "hours_open": 199.7,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1789173879,
+   "company": "twitch",
+   "hours_open": 196.8,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1789173879,
+   "company": "spacex",
+   "hours_open": 199.8,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1789173879,
+   "company": "spacex",
+   "hours_open": 199.5,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1789173879,
+   "company": "spacex",
+   "hours_open": 198.1,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
- "count": 807,
- "updated_at": 1789173479
+ "count": 804,
+ "updated_at": 1789173879
 }
