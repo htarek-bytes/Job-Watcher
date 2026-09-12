@@ -2,48 +2,6 @@
  "closed": [
   {
    "closed_at": 1788911326,
-   "company": "AECOM",
-   "hours_open": 10.0,
-   "title": "Entry-Level Design Engineer - Water - Hiring Event with AECOM - New York City",
-   "uid": "smartrecruiters:AECOM2:744000148217578"
-  },
-  {
-   "closed_at": 1788911326,
-   "company": "twitch",
-   "hours_open": 126.9,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1788911326,
-   "company": "bmo",
-   "hours_open": 128.6,
-   "title": "Machine Learning Developer (New or Recent Graduate)",
-   "uid": "workday:bmo.wd3/Campus:Machine-Learning-Developer--New-or-Recent-Graduate-_R260024265-1"
-  },
-  {
-   "closed_at": 1788911326,
-   "company": "DLGL TECHNOLOGIES CORPORATION",
-   "hours_open": 144.7,
-   "title": "developer, software",
-   "uid": "jobbank:developpeur junior:50191592"
-  },
-  {
-   "closed_at": 1788911326,
-   "company": "generalmotors",
-   "hours_open": 100.5,
-   "title": "Entry Level Software Design Release Engineer",
-   "uid": "workday:generalmotors.wd5/Careers_GM:Entry-Level-Software-Design-Release-Engineer_JR-202618509"
-  },
-  {
-   "closed_at": 1788911326,
-   "company": "relx",
-   "hours_open": 145.8,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - January)",
-   "uid": "workday:relx.wd3/RiskSolutions:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617"
-  },
-  {
-   "closed_at": 1788911326,
    "company": "relx",
    "hours_open": 145.8,
    "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - June)",
@@ -5599,8 +5557,50 @@
    "hours_open": 216.7,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1789237713,
+   "company": "twitch",
+   "hours_open": 214.6,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1789237713,
+   "company": "relx",
+   "hours_open": 236.5,
+   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - January)",
+   "uid": "workday:relx.wd3/RiskSolutions:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617"
+  },
+  {
+   "closed_at": 1789237713,
+   "company": "relx",
+   "hours_open": 236.5,
+   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - June)",
+   "uid": "workday:relx.wd3/RiskSolutions:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-1"
+  },
+  {
+   "closed_at": 1789237713,
+   "company": "relx",
+   "hours_open": 236.5,
+   "title": "Tech Accelerate Graduate Program - Software Engineer (Boca Raton - June)",
+   "uid": "workday:relx.wd3/RiskSolutions:Tech-Accelerate-Graduate-Program---Software-Engineer--Boca-Raton---June-_R116023-2"
+  },
+  {
+   "closed_at": 1789237713,
+   "company": "mmc",
+   "hours_open": 108.2,
+   "title": "Junior Python Engineer @MarshTech",
+   "uid": "workday:mmc.wd1/MMC:Junior-Python-Engineer--MarshTech_R_362442-1"
+  },
+  {
+   "closed_at": 1789237713,
+   "company": "spacex",
+   "hours_open": 217.5,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
   }
  ],
- "count": 802,
- "updated_at": 1789235634
+ "count": 806,
+ "updated_at": 1789237714
 }
