@@ -2,20 +2,6 @@
  "closed": [
   {
    "closed_at": 1788908268,
-   "company": "spacex",
-   "hours_open": 125.7,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1788908268,
-   "company": "spacex",
-   "hours_open": 124.3,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1788908268,
    "company": "mmc",
    "hours_open": 142.9,
    "title": "Junior Python Engineer @MarshTech",
@@ -5599,8 +5585,22 @@
    "hours_open": 212.6,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1789227672,
+   "company": "twitch",
+   "hours_open": 211.8,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1789227672,
+   "company": "spacex",
+   "hours_open": 214.7,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
   }
  ],
  "count": 802,
- "updated_at": 1789220842
+ "updated_at": 1789227672
 }
