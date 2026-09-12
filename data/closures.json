@@ -1,55 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1788903151,
-   "company": "spacex",
-   "hours_open": 124.6,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1788903151,
-   "company": "systemstechnologyresearch",
-   "hours_open": 117.6,
-   "title": "Autonomy Algorithms Software Engineer",
-   "uid": "greenhouse:systemstechnologyresearch:4704682006"
-  },
-  {
-   "closed_at": 1788903151,
-   "company": "spacex",
-   "hours_open": 124.6,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1788903151,
-   "company": "spacex",
-   "hours_open": 124.6,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1788903666,
-   "company": "ngc",
-   "hours_open": 2.9,
-   "title": "2027 Associate Software Engineer / Software Engineer - Roy UT",
-   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Associate-Software-Engineer---Software-Engineer---Roy-UT_R10249844-1"
-  },
-  {
-   "closed_at": 1788903666,
-   "company": "ngc",
-   "hours_open": 2.9,
-   "title": "Associate Systems Administrator – Level 1",
-   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:Associate-Systems-Administrator---Level-1_R10249828"
-  },
-  {
-   "closed_at": 1788903666,
-   "company": "jabil",
-   "hours_open": 15.7,
-   "title": "Test Engineer I",
-   "uid": "workday:jabil.wd5/Jabil_Careers:Test-Engineer-I_J2454860"
-  },
-  {
    "closed_at": 1788903666,
    "company": "globalhr",
    "hours_open": 1.3,
@@ -5599,8 +5550,57 @@
    "hours_open": 198.1,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1789176068,
+   "company": "OneImaging",
+   "hours_open": 2.0,
+   "title": "Full Stack Associate Software Engineer - Georgia Tech Only",
+   "uid": "simplify:listings:1acd5a07-50ab-4e8a-8cb2-be9a1ae33d8b"
+  },
+  {
+   "closed_at": 1789176068,
+   "company": "Groupe Mario Coté",
+   "hours_open": 8.1,
+   "title": "Administrateur de réseau",
+   "uid": "jobillico:analyste reseau:17520153"
+  },
+  {
+   "closed_at": 1789176068,
+   "company": "Logesco Informatique",
+   "hours_open": 80.2,
+   "title": "Administrateur de réseau",
+   "uid": "jobillico:analyste reseau:17188132"
+  },
+  {
+   "closed_at": 1789176068,
+   "company": "unitedsmarttech",
+   "hours_open": 219.4,
+   "title": "AI Engineer (Entry-Level)",
+   "uid": "bamboohr:unitedsmarttech:185"
+  },
+  {
+   "closed_at": 1789176068,
+   "company": "spacex",
+   "hours_open": 197.4,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1789176068,
+   "company": "spacex",
+   "hours_open": 200.4,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1789176068,
+   "company": "spacex",
+   "hours_open": 200.4,
+   "title": "Quality Systems Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8633640002"
   }
  ],
- "count": 804,
- "updated_at": 1789173879
+ "count": 807,
+ "updated_at": 1789176069
 }
