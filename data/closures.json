@@ -2,34 +2,6 @@
  "closed": [
   {
    "closed_at": 1788903666,
-   "company": "cadence",
-   "hours_open": 73.0,
-   "title": "Software Engineer  (new college grad Dec 2026)",
-   "uid": "workday:cadence.wd1/University_Talent_NCG:Software-Engineer---new-college-grad-Dec-2026-_R55738"
-  },
-  {
-   "closed_at": 1788903666,
-   "company": "micron",
-   "hours_open": 137.4,
-   "title": "New College Grad - Design Engineer, DRAM Technology and Products",
-   "uid": "workday:micron.wd1/External:New-College-Grad---Design-Engineer--DRAM-Technology-and-Products_JR105519"
-  },
-  {
-   "closed_at": 1788903666,
-   "company": "micron",
-   "hours_open": 141.6,
-   "title": "New College Grad - RDA Engineer, APTD",
-   "uid": "workday:micron.wd1/External:New-College-Grad---RDA-Engineer--APTD_JR108462"
-  },
-  {
-   "closed_at": 1788903666,
-   "company": "relx",
-   "hours_open": 146.1,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - January)",
-   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617-1"
-  },
-  {
-   "closed_at": 1788903666,
    "company": "relx",
    "hours_open": 146.1,
    "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - June)",
@@ -5599,8 +5571,36 @@
    "hours_open": 83.3,
    "title": "Service Desk Analyst",
    "uid": "greenhouse:andurilindustries:5063246007"
+  },
+  {
+   "closed_at": 1789187936,
+   "company": "Achieve",
+   "hours_open": 5.8,
+   "title": "Associate AI Solutions Engineer",
+   "uid": "simplify:listings:3f2de24b-8f96-4412-93d4-eedb22a6d3f5"
+  },
+  {
+   "closed_at": 1789187936,
+   "company": "Groupe Mario Coté",
+   "hours_open": 11.4,
+   "title": "Administrateur de réseau",
+   "uid": "jobillico:analyste reseau:17520153"
+  },
+  {
+   "closed_at": 1789187936,
+   "company": "twitch",
+   "hours_open": 203.7,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1789187936,
+   "company": "spacex",
+   "hours_open": 203.4,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
   }
  ],
- "count": 808,
- "updated_at": 1789187379
+ "count": 804,
+ "updated_at": 1789187937
 }
