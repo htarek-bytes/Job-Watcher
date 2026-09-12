@@ -2,62 +2,6 @@
  "closed": [
   {
    "closed_at": 1788903666,
-   "company": "globalhr",
-   "hours_open": 1.3,
-   "title": "Software Engineer Co-op (Summer/Fall 2027) - Onsite",
-   "uid": "workday:globalhr.wd5/rec_rtx_ext_gateway:Software-Engineer-Co-op--Summer-Fall-2027----Onsite_01871347"
-  },
-  {
-   "closed_at": 1788903666,
-   "company": "globalhr",
-   "hours_open": 2.9,
-   "title": "Software Engineer Intern ( Summer 2027)",
-   "uid": "workday:globalhr.wd5/rec_rtx_ext_gateway:Software-Engineer-Intern---Summer-2027-_01870613"
-  },
-  {
-   "closed_at": 1788903666,
-   "company": "Sienci Labs Inc.",
-   "hours_open": 96.2,
-   "title": "cloud developer",
-   "uid": "jobbank:developpeur junior:50224637"
-  },
-  {
-   "closed_at": 1788903666,
-   "company": "Alcoa Canada",
-   "hours_open": 4.5,
-   "title": "Conseiller(ère) en cybersécurité (Amérique du Nord)",
-   "uid": "jobillico:analyste cybersecurite:17502948"
-  },
-  {
-   "closed_at": 1788903666,
-   "company": "CGI",
-   "hours_open": 4.5,
-   "title": "Conseiller en gestion des risques de cybersécurité",
-   "uid": "jobillico:analyste cybersecurite:17433759"
-  },
-  {
-   "closed_at": 1788903666,
-   "company": "micron",
-   "hours_open": 141.6,
-   "title": "New College Grad - Mixed Signal Design Engineer, HBM",
-   "uid": "workday:micron.wd1/External:New-College-Grad---Mixed-Signal-Design-Engineer--HBM_JR110753"
-  },
-  {
-   "closed_at": 1788903666,
-   "company": "micron",
-   "hours_open": 132.7,
-   "title": "New College Grad - Design Engineer, Circuit Design",
-   "uid": "workday:micron.wd1/External:Staff-Engineer--Circuit-Design_JR94667"
-  },
-  {
-   "closed_at": 1788903666,
-   "company": "baxter",
-   "hours_open": 117.5,
-   "title": "Controls Engineer I",
-   "uid": "workday:baxter.wd1/baxter:Controls-Engineer-I_JR-209135-1"
-  },
-  {
-   "closed_at": 1788903666,
    "company": "cadence",
    "hours_open": 73.0,
    "title": "Software Engineer  (new college grad Dec 2026)",
@@ -5599,8 +5543,64 @@
    "hours_open": 200.4,
    "title": "Quality Systems Engineer (Starlink)",
    "uid": "greenhouse:spacex:8633640002"
+  },
+  {
+   "closed_at": 1789187378,
+   "company": "Maarut",
+   "hours_open": 83.3,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:systems analyst:50227656"
+  },
+  {
+   "closed_at": 1789187378,
+   "company": "LCBO",
+   "hours_open": 83.3,
+   "title": "network administrator",
+   "uid": "jobbank:network administrator:50135403"
+  },
+  {
+   "closed_at": 1789187378,
+   "company": "bluemetrix",
+   "hours_open": 203.5,
+   "title": "Developer - Big Data & CyberSecurity",
+   "uid": "bamboohr:bluemetrix:31"
+  },
+  {
+   "closed_at": 1789187378,
+   "company": "Maarut",
+   "hours_open": 42.7,
+   "title": "software developer",
+   "uid": "jobbank:junior programmer:50256826"
+  },
+  {
+   "closed_at": 1789187378,
+   "company": "Source Code",
+   "hours_open": 42.7,
+   "title": "software developer",
+   "uid": "jobbank:junior programmer:50256867"
+  },
+  {
+   "closed_at": 1789187378,
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
+   "hours_open": 83.3,
+   "title": "Administrateur Réseau TI",
+   "uid": "jobillico:analyste reseau:17386419"
+  },
+  {
+   "closed_at": 1789187378,
+   "company": "spacex",
+   "hours_open": 203.5,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1789187378,
+   "company": "andurilindustries",
+   "hours_open": 83.3,
+   "title": "Service Desk Analyst",
+   "uid": "greenhouse:andurilindustries:5063246007"
   }
  ],
- "count": 807,
- "updated_at": 1789176069
+ "count": 808,
+ "updated_at": 1789187379
 }
