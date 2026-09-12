@@ -2,34 +2,6 @@
  "closed": [
   {
    "closed_at": 1788908268,
-   "company": "relx",
-   "hours_open": 147.3,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Boca Raton - June)",
-   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Boca-Raton---June-_R116023"
-  },
-  {
-   "closed_at": 1788908268,
-   "company": "roboforce",
-   "hours_open": 119.0,
-   "title": "Robotics Software Engineer",
-   "uid": "greenhouse:roboforce:5181554008"
-  },
-  {
-   "closed_at": 1788908268,
-   "company": "drweng",
-   "hours_open": 1.4,
-   "title": "AI Engineer",
-   "uid": "greenhouse:drweng:6586065"
-  },
-  {
-   "closed_at": 1788908268,
-   "company": "Veeva Systems",
-   "hours_open": 162.6,
-   "title": "Associate Software Engineer - Engineering Development Program",
-   "uid": "simplify:listings:ff10df50-35b8-47c4-8138-ff9083746abf"
-  },
-  {
-   "closed_at": 1788908268,
    "company": "spacex",
    "hours_open": 144.9,
    "title": "New Graduate Engineer, Software (Starship)",
@@ -5599,8 +5571,36 @@
    "hours_open": 211.7,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1789218045,
+   "company": "Logesco Informatique",
+   "hours_open": 91.9,
+   "title": "Administrateur de réseau",
+   "uid": "jobillico:analyste reseau:17188132"
+  },
+  {
+   "closed_at": 1789218045,
+   "company": "twitch",
+   "hours_open": 209.1,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1789218045,
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
+   "hours_open": 91.9,
+   "title": "Administrateur Réseau TI",
+   "uid": "jobillico:analyste reseau:17386419"
+  },
+  {
+   "closed_at": 1789218045,
+   "company": "spacex",
+   "hours_open": 212.1,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
   }
  ],
- "count": 803,
- "updated_at": 1789217882
+ "count": 804,
+ "updated_at": 1789218045
 }
