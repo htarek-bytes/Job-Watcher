@@ -2,34 +2,6 @@
  "closed": [
   {
    "closed_at": 1788907909,
-   "company": "tsc",
-   "hours_open": 142.7,
-   "title": "NPI Test Engineer I",
-   "uid": "workday:tsc.wd12/TSC-Careers:NPI-Test-Engineer-I_JR2763"
-  },
-  {
-   "closed_at": 1788907909,
-   "company": "relx",
-   "hours_open": 147.2,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - January)",
-   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617-1"
-  },
-  {
-   "closed_at": 1788907909,
-   "company": "relx",
-   "hours_open": 147.2,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - June)",
-   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-2"
-  },
-  {
-   "closed_at": 1788907909,
-   "company": "relx",
-   "hours_open": 147.2,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Boca Raton - June)",
-   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Boca-Raton---June-_R116023"
-  },
-  {
-   "closed_at": 1788907909,
    "company": "roboforce",
    "hours_open": 118.9,
    "title": "Robotics Software Engineer",
@@ -5599,8 +5571,36 @@
    "hours_open": 208.1,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1789205072,
+   "company": "Groupe Mario Coté",
+   "hours_open": 16.1,
+   "title": "Administrateur de réseau",
+   "uid": "jobillico:analyste reseau:17520153"
+  },
+  {
+   "closed_at": 1789205072,
+   "company": "ngc",
+   "hours_open": 62.1,
+   "title": "2027 Intern Engineer - Product Support",
+   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Intern-Engineer---Product-Support_R10250061"
+  },
+  {
+   "closed_at": 1789205072,
+   "company": "ngc",
+   "hours_open": 56.3,
+   "title": "2027 Intern Software Engineer",
+   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Intern-Software-Engineer_R10250150"
+  },
+  {
+   "closed_at": 1789205072,
+   "company": "nvidia",
+   "hours_open": 229.8,
+   "title": "ASIC Design Engineer - New College Grad 2026",
+   "uid": "workday:nvidia.wd5/NVIDIAExternalCareerSite:ASIC-Design-Engineer---New-College-Grad-2026_JR2020309"
   }
  ],
  "count": 804,
- "updated_at": 1789204737
+ "updated_at": 1789205072
 }
