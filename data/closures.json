@@ -1,34 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1788903666,
-   "company": "spacex",
-   "hours_open": 124.7,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1788907909,
-   "company": "jabil",
-   "hours_open": 16.9,
-   "title": "Test Engineer I",
-   "uid": "workday:jabil.wd5/Jabil_Careers:Test-Engineer-I_J2454860"
-  },
-  {
-   "closed_at": 1788907909,
-   "company": "twitch",
-   "hours_open": 123.0,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1788907909,
-   "company": "tsc",
-   "hours_open": 102.4,
-   "title": "Junior Electrical Test Engineer",
-   "uid": "workday:tsc.wd12/TSC-Careers:Junior-Electrical-Test-Engineer_JR2773"
-  },
-  {
    "closed_at": 1788907909,
    "company": "tsc",
    "hours_open": 142.7,
@@ -5599,8 +5571,36 @@
    "hours_open": 191.9,
    "title": "Associate Engineer, Maintenance Support",
    "uid": "workday:eversource.wd1/ExternalSite:Associate-Engineer--Maintenance-Support_R-031423"
+  },
+  {
+   "closed_at": 1789204737,
+   "company": "twitch",
+   "hours_open": 208.4,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1789204737,
+   "company": "Daimler Truck",
+   "hours_open": 28.4,
+   "title": "Integration and Coordination Engineer 1",
+   "uid": "simplify:listings:c010600b-5c7e-4cc2-a27e-72fd2b3c75b8"
+  },
+  {
+   "closed_at": 1789204737,
+   "company": "mastercard",
+   "hours_open": 211.7,
+   "title": "Software Engineer Intern, Summer 2027 – United States",
+   "uid": "workday:mastercard.wd1/Campus:Software-Engineer-Intern--Summer-2027---United-States_R-287618-1"
+  },
+  {
+   "closed_at": 1789204737,
+   "company": "spacex",
+   "hours_open": 208.1,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
   }
  ],
- "count": 805,
- "updated_at": 1789203087
+ "count": 804,
+ "updated_at": 1789204737
 }
