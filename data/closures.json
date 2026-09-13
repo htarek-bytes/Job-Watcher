@@ -2,55 +2,6 @@
  "closed": [
   {
    "closed_at": 1788918121,
-   "company": "relx",
-   "hours_open": 147.7,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - January)",
-   "uid": "workday:relx.wd3/RiskSolutions:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617"
-  },
-  {
-   "closed_at": 1788918121,
-   "company": "relx",
-   "hours_open": 147.7,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - June)",
-   "uid": "workday:relx.wd3/RiskSolutions:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-1"
-  },
-  {
-   "closed_at": 1788918121,
-   "company": "relx",
-   "hours_open": 147.7,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Boca Raton - June)",
-   "uid": "workday:relx.wd3/RiskSolutions:Tech-Accelerate-Graduate-Program---Software-Engineer--Boca-Raton---June-_R116023-2"
-  },
-  {
-   "closed_at": 1788918121,
-   "company": "zoox",
-   "hours_open": 125.8,
-   "title": "Machine Learning Engineer - 3D Sensor Simulation",
-   "uid": "lever:zoox:55e51bf3-68ee-40d4-a1c5-5196e0e2d100"
-  },
-  {
-   "closed_at": 1788918121,
-   "company": "spacex",
-   "hours_open": 128.5,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1788918121,
-   "company": "spacex",
-   "hours_open": 127.0,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1788918121,
-   "company": "bmo",
-   "hours_open": 8.3,
-   "title": "AI/Platform Analyst, 8 months (Co-op/Internship) - 8 months",
-   "uid": "workday:bmo.wd3/External:AI-Platform-Analyst--8-months--Co-op-Internship----8-months_R260026129-2"
-  },
-  {
-   "closed_at": 1788918121,
    "company": "bmo",
    "hours_open": 8.3,
    "title": "Wealth Management Development Associate, New Grad (Chicago, IL)",
@@ -5599,8 +5550,57 @@
    "hours_open": 223.5,
    "title": "Security Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1789259744,
+   "company": "Logesco Informatique",
+   "hours_open": 103.4,
+   "title": "Administrateur de réseau",
+   "uid": "jobillico:analyste reseau:17188132"
+  },
+  {
+   "closed_at": 1789259744,
+   "company": "twitch",
+   "hours_open": 223.6,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1789259744,
+   "company": "relx",
+   "hours_open": 245.0,
+   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - January)",
+   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617-1"
+  },
+  {
+   "closed_at": 1789259744,
+   "company": "relx",
+   "hours_open": 245.0,
+   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - June)",
+   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-2"
+  },
+  {
+   "closed_at": 1789259744,
+   "company": "relx",
+   "hours_open": 245.0,
+   "title": "Tech Accelerate Graduate Program - Software Engineer (Boca Raton - June)",
+   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Boca-Raton---June-_R116023"
+  },
+  {
+   "closed_at": 1789259744,
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
+   "hours_open": 103.4,
+   "title": "Administrateur Réseau TI",
+   "uid": "jobillico:analyste reseau:17386419"
+  },
+  {
+   "closed_at": 1789259744,
+   "company": "spacex",
+   "hours_open": 220.7,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
   }
  ],
- "count": 802,
- "updated_at": 1789259296
+ "count": 807,
+ "updated_at": 1789259744
 }
