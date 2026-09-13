@@ -2,20 +2,6 @@
  "closed": [
   {
    "closed_at": 1788931288,
-   "company": "twitch",
-   "hours_open": 129.5,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1788931288,
-   "company": "Astra North Infoteck Inc.",
-   "hours_open": 12.2,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:systems analyst:50204887"
-  },
-  {
-   "closed_at": 1788931288,
    "company": "Newprint",
    "hours_open": 150.3,
    "title": "Web developer",
@@ -5599,8 +5585,22 @@
    "hours_open": 25.8,
    "title": "Co-op, Software Engineer",
    "uid": "workday:fmr.wd1/targeted:Co-op--Software-Engineer_2135230"
+  },
+  {
+   "closed_at": 1789299914,
+   "company": "ngc",
+   "hours_open": 62.7,
+   "title": "2027 Intern Engineer - Product Support",
+   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Intern-Engineer---Product-Support_R10250299"
+  },
+  {
+   "closed_at": 1789299914,
+   "company": "Aramark",
+   "hours_open": 242.8,
+   "title": "Junior Data Engineer",
+   "uid": "simplify:listings:aaa3bc85-9d65-4c72-a3c0-656079d3aa4a"
   }
  ],
  "count": 802,
- "updated_at": 1789296051
+ "updated_at": 1789299914
 }
