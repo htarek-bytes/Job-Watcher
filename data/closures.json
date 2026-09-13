@@ -2,27 +2,6 @@
  "closed": [
   {
    "closed_at": 1788963048,
-   "company": "telus-digital",
-   "hours_open": 141.2,
-   "title": "Robotics Automation Engineer ",
-   "uid": "ashby:telus-digital:5c110916-457c-4b10-a65f-5add5752db33"
-  },
-  {
-   "closed_at": 1788963048,
-   "company": "telus-digital",
-   "hours_open": 141.2,
-   "title": "Automation Engineer (Robotics)",
-   "uid": "ashby:telus-digital:5046fd99-c8c2-46a7-8e41-e4d9c13ddf91"
-  },
-  {
-   "closed_at": 1788963048,
-   "company": "PRECICOM TECHNOLOGIES INC.",
-   "hours_open": 21.0,
-   "title": "LAN (local area network) administrator",
-   "uid": "jobbank:network administrator:50043093"
-  },
-  {
-   "closed_at": 1788963048,
    "company": "Trend Micro",
    "hours_open": 177.9,
    "title": "Applied AI Junior Web Developer",
@@ -5599,8 +5578,29 @@
    "hours_open": 245.4,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1789342398,
+   "company": "twitch",
+   "hours_open": 243.7,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1789342398,
+   "company": "Northrop Grumman",
+   "hours_open": 119.9,
+   "title": "Associate Software Engineer / Software Engineer",
+   "uid": "simplify:listings:12f91d14-7199-41fb-8000-006f95817281"
+  },
+  {
+   "closed_at": 1789342398,
+   "company": "spacex",
+   "hours_open": 246.6,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
   }
  ],
- "count": 805,
- "updated_at": 1789339243
+ "count": 803,
+ "updated_at": 1789342398
 }
