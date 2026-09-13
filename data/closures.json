@@ -1,41 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1788935438,
-   "company": "Chief Isaac Inc",
-   "hours_open": 13.4,
-   "title": "network system administrator",
-   "uid": "jobbank:systems administrator:50056826"
-  },
-  {
-   "closed_at": 1788935438,
-   "company": "Smartway Freight Systems Inc.",
-   "hours_open": 13.4,
-   "title": "network system administrator",
-   "uid": "jobbank:systems administrator:49967696"
-  },
-  {
-   "closed_at": 1788935438,
-   "company": "Poprek Cloud Solutions INC",
-   "hours_open": 13.4,
-   "title": "information systems analyst - computer systems",
-   "uid": "jobbank:systems analyst:49966341"
-  },
-  {
-   "closed_at": 1788935928,
-   "company": "accenture",
-   "hours_open": 150.6,
-   "title": "Software Engineering New Associate (Fresh Diploma Graduate Program)",
-   "uid": "workday:accenture.wd103/AccentureCareers:Software-Engineering-New-Associate--Fresh-Diploma-Graduate-Program-_R00144534"
-  },
-  {
-   "closed_at": 1788935928,
-   "company": "accenture",
-   "hours_open": 150.6,
-   "title": "Junior .NET Developer - Fresh Graduates",
-   "uid": "workday:accenture.wd103/AccentureCareers:Junior-NET-Developer---Fresh-Graduates_R00332478"
-  },
-  {
    "closed_at": 1788947734,
    "company": "globalhr",
    "hours_open": 11.1,
@@ -5599,8 +5564,43 @@
    "hours_open": 236.1,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1789320002,
+   "company": "twitch",
+   "hours_open": 237.4,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1789320002,
+   "company": "Maarut",
+   "hours_open": 36.8,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:systems analyst:50271421"
+  },
+  {
+   "closed_at": 1789320002,
+   "company": "spacex",
+   "hours_open": 237.4,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1789320002,
+   "company": "spacex",
+   "hours_open": 240.4,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1789320002,
+   "company": "spacex",
+   "hours_open": 240.4,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 800,
- "updated_at": 1789311952
+ "count": 805,
+ "updated_at": 1789320003
 }
