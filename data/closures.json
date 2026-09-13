@@ -1,20 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1788917645,
-   "company": "bmo",
-   "hours_open": 8.2,
-   "title": "Wealth Management Development Associate, New Grad (Chicago, IL)",
-   "uid": "workday:bmo.wd3/External:Wealth-Management-Development-Associate--New-Grad--Chicago--IL-_R260026201"
-  },
-  {
-   "closed_at": 1788917645,
-   "company": "bmo",
-   "hours_open": 124.2,
-   "title": "Machine Learning Developer (New or Recent Graduate)",
-   "uid": "workday:bmo.wd3/External:Machine-Learning-Developer--New-or-Recent-Graduate-_R260024265"
-  },
-  {
    "closed_at": 1788918121,
    "company": "relx",
    "hours_open": 147.7,
@@ -5599,8 +5585,22 @@
    "hours_open": 222.8,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1789259296,
+   "company": "twitch",
+   "hours_open": 220.6,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1789259296,
+   "company": "spacex",
+   "hours_open": 223.5,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
   }
  ],
- "count": 804,
- "updated_at": 1789257704
+ "count": 802,
+ "updated_at": 1789259296
 }
