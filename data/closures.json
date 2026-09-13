@@ -2,41 +2,6 @@
  "closed": [
   {
    "closed_at": 1788931288,
-   "company": "Newprint",
-   "hours_open": 150.3,
-   "title": "Web developer",
-   "uid": "jobbank:junior programmer:50204930"
-  },
-  {
-   "closed_at": 1788931288,
-   "company": "AM/PM Service - Point of Sale & Service",
-   "hours_open": 12.2,
-   "title": "Internet systems administrator",
-   "uid": "jobbank:systems administrator:50058251"
-  },
-  {
-   "closed_at": 1788931288,
-   "company": "CarePartners",
-   "hours_open": 1.3,
-   "title": "network administrator",
-   "uid": "jobbank:network administrator:50247129"
-  },
-  {
-   "closed_at": 1788931288,
-   "company": "Miratech",
-   "hours_open": 12.2,
-   "title": "information systems analyst - computer systems",
-   "uid": "jobbank:information systems analyst:49969689"
-  },
-  {
-   "closed_at": 1788931288,
-   "company": "Logesco Informatique",
-   "hours_open": 1.3,
-   "title": "network administrator",
-   "uid": "jobbank:network administrator:49871595"
-  },
-  {
-   "closed_at": 1788931288,
    "company": "spacex",
    "hours_open": 132.1,
    "title": "Wireless Software Engineer (Starlink)",
@@ -5599,8 +5564,43 @@
    "hours_open": 242.8,
    "title": "Junior Data Engineer",
    "uid": "simplify:listings:aaa3bc85-9d65-4c72-a3c0-656079d3aa4a"
+  },
+  {
+   "closed_at": 1789307813,
+   "company": "twitch",
+   "hours_open": 237.0,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1789307813,
+   "company": "LCBO",
+   "hours_open": 116.8,
+   "title": "network administrator",
+   "uid": "jobbank:network administrator:50135403"
+  },
+  {
+   "closed_at": 1789307813,
+   "company": "spacex",
+   "hours_open": 237.0,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1789307813,
+   "company": "spacex",
+   "hours_open": 236.7,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1789307813,
+   "company": "spacex",
+   "hours_open": 235.3,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
- "count": 802,
- "updated_at": 1789299914
+ "count": 805,
+ "updated_at": 1789307813
 }
