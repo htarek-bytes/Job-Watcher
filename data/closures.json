@@ -2,13 +2,6 @@
  "closed": [
   {
    "closed_at": 1788963048,
-   "company": "Trend Micro",
-   "hours_open": 177.9,
-   "title": "Applied AI Junior Web Developer",
-   "uid": "simplify:listings:3a03824d-8ebc-44b6-b813-e2e73ec7a444"
-  },
-  {
-   "closed_at": 1788963048,
    "company": "spacex",
    "hours_open": 138.3,
    "title": "Security Software Engineer (Starlink)",
@@ -5599,8 +5592,15 @@
    "hours_open": 246.6,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1789342959,
+   "company": "twitch",
+   "hours_open": 246.8,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
   }
  ],
- "count": 803,
- "updated_at": 1789342398
+ "count": 801,
+ "updated_at": 1789342959
 }
