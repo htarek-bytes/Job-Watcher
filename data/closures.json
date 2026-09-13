@@ -1,20 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1788954436,
-   "company": "Maven Securities",
-   "hours_open": 146.7,
-   "title": "Developer New Grad",
-   "uid": "simplify:listings:830d601a-f246-424f-8b08-23956510de08"
-  },
-  {
-   "closed_at": 1788954436,
-   "company": "andurilindustries",
-   "hours_open": 137.1,
-   "title": "Explosive Operations Engineer",
-   "uid": "greenhouse:andurilindustries:5205509007"
-  },
-  {
    "closed_at": 1788954774,
    "company": "twitch",
    "hours_open": 138.9,
@@ -5599,8 +5585,22 @@
    "hours_open": 243.0,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1789336246,
+   "company": "twitch",
+   "hours_open": 241.9,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1789336246,
+   "company": "spacex",
+   "hours_open": 244.9,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
   }
  ],
- "count": 805,
- "updated_at": 1789335632
+ "count": 802,
+ "updated_at": 1789336246
 }
