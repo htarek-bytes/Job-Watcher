@@ -1,69 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1788918628,
-   "company": "relx",
-   "hours_open": 150.2,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Boca Raton - June)",
-   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Boca-Raton---June-_R116023"
-  },
-  {
-   "closed_at": 1788918628,
-   "company": "Miratech",
-   "hours_open": 8.7,
-   "title": "information systems analyst - computer systems",
-   "uid": "jobbank:information systems analyst:49969689"
-  },
-  {
-   "closed_at": 1788918628,
-   "company": "kbr",
-   "hours_open": 150.3,
-   "title": "Junior Software Engineer",
-   "uid": "workday:kbr.wd5/KBR_Careers:Junior-Software-Engineer_R2122294"
-  },
-  {
-   "closed_at": 1788918628,
-   "company": "spacex",
-   "hours_open": 125.9,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1788918628,
-   "company": "spacex",
-   "hours_open": 128.9,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1788926516,
-   "company": "kbr",
-   "hours_open": 134.4,
-   "title": "Project Engineer I",
-   "uid": "workday:kbr.wd5/KBR_Careers:Project-Engineer-I_R2129322"
-  },
-  {
-   "closed_at": 1788926516,
-   "company": "relx",
-   "hours_open": 152.4,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - January)",
-   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617-1"
-  },
-  {
-   "closed_at": 1788926516,
-   "company": "relx",
-   "hours_open": 152.4,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - June)",
-   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-2"
-  },
-  {
-   "closed_at": 1788926516,
-   "company": "relx",
-   "hours_open": 152.4,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Boca Raton - June)",
-   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Boca-Raton---June-_R116023"
-  },
-  {
    "closed_at": 1788926516,
    "company": "NVIDIA",
    "hours_open": 167.7,
@@ -5599,8 +5536,71 @@
    "hours_open": 224.2,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1789274442,
+   "company": "CANADIAN EASY TAX AND FINANCIAL SERVICES",
+   "hours_open": 32.8,
+   "title": "Web developer",
+   "uid": "jobbank:developpeur junior:50267136"
+  },
+  {
+   "closed_at": 1789274442,
+   "company": "twitch",
+   "hours_open": 227.7,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1789274442,
+   "company": "City of Windsor",
+   "hours_open": 142.7,
+   "title": "programmer analyst",
+   "uid": "jobbank:junior programmer:50235536"
+  },
+  {
+   "closed_at": 1789274442,
+   "company": "EXFO inc",
+   "hours_open": 107.5,
+   "title": "Développeur logiciel embarqué – Télécommunications",
+   "uid": "jobillico:developpeur logiciel:17359277"
+  },
+  {
+   "closed_at": 1789274442,
+   "company": "Regroupement Loisir et Sport du Québec",
+   "hours_open": 107.5,
+   "title": "Technicien réseau",
+   "uid": "jobillico:analyste reseau:17441913"
+  },
+  {
+   "closed_at": 1789274442,
+   "company": "Ross Stores",
+   "hours_open": 264.4,
+   "title": "Engineer 1",
+   "uid": "simplify:listings:b9309db9-dccf-4bad-add7-a387f24df3c6"
+  },
+  {
+   "closed_at": 1789274442,
+   "company": "spacex",
+   "hours_open": 227.7,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1789274442,
+   "company": "spacex",
+   "hours_open": 227.4,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1789274442,
+   "company": "spacex",
+   "hours_open": 226.0,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
- "count": 805,
- "updated_at": 1789261915
+ "count": 809,
+ "updated_at": 1789274442
 }
