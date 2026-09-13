@@ -2,13 +2,6 @@
  "closed": [
   {
    "closed_at": 1788947734,
-   "company": "lyft",
-   "hours_open": 137.0,
-   "title": "Software Engineer",
-   "uid": "greenhouse:lyft:8772594002"
-  },
-  {
-   "closed_at": 1788947734,
    "company": "Aarorn Technologies Inc.",
    "hours_open": 3.4,
    "title": "information systems analyst - computer systems",
@@ -5599,8 +5592,15 @@
    "hours_open": 240.9,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1789328890,
+   "company": "CANADIAN EASY TAX AND FINANCIAL SERVICES",
+   "hours_open": 50.5,
+   "title": "Web developer",
+   "uid": "jobbank:junior programmer:50267136"
   }
  ],
- "count": 805,
- "updated_at": 1789328085
+ "count": 801,
+ "updated_at": 1789328891
 }
