@@ -3,13 +3,6 @@
   {
    "closed_at": 1788926516,
    "company": "spacex",
-   "hours_open": 128.1,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1788926516,
-   "company": "spacex",
    "hours_open": 131.1,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637826002"
@@ -5599,8 +5592,15 @@
    "hours_open": 228.3,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1789279707,
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
+   "hours_open": 109.0,
+   "title": "Administrateur Réseau TI",
+   "uid": "jobillico:analyste reseau:17386419"
   }
  ],
- "count": 800,
- "updated_at": 1789278348
+ "count": 801,
+ "updated_at": 1789279708
 }
