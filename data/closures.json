@@ -2,34 +2,6 @@
  "closed": [
   {
    "closed_at": 1788935438,
-   "company": "Aarorn Technologies Inc.",
-   "hours_open": 13.4,
-   "title": "information systems analyst - computer systems",
-   "uid": "jobbank:information systems analyst:50163724"
-  },
-  {
-   "closed_at": 1788935438,
-   "company": "Idexia",
-   "hours_open": 151.4,
-   "title": "programmer analyst",
-   "uid": "jobbank:junior programmer:50153215"
-  },
-  {
-   "closed_at": 1788935438,
-   "company": "University of Lethbridge",
-   "hours_open": 13.4,
-   "title": "systems analyst",
-   "uid": "jobbank:systems analyst:50102683"
-  },
-  {
-   "closed_at": 1788935438,
-   "company": "Lancesoft",
-   "hours_open": 13.4,
-   "title": "server administrator",
-   "uid": "jobbank:linux administrator:50205276"
-  },
-  {
-   "closed_at": 1788935438,
    "company": "Chief Isaac Inc",
    "hours_open": 13.4,
    "title": "network system administrator",
@@ -5599,8 +5571,36 @@
    "hours_open": 237.6,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1789310634,
+   "company": "twitch",
+   "hours_open": 237.8,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1789310634,
+   "company": "spacex",
+   "hours_open": 237.8,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1789310634,
+   "company": "spacex",
+   "hours_open": 237.5,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1789310634,
+   "company": "spacex",
+   "hours_open": 236.1,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
- "count": 800,
- "updated_at": 1789310383
+ "count": 804,
+ "updated_at": 1789310634
 }
