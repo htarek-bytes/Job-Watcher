@@ -2,34 +2,6 @@
  "closed": [
   {
    "closed_at": 1788917645,
-   "company": "zoox",
-   "hours_open": 125.7,
-   "title": "Machine Learning Engineer - 3D Sensor Simulation",
-   "uid": "lever:zoox:55e51bf3-68ee-40d4-a1c5-5196e0e2d100"
-  },
-  {
-   "closed_at": 1788917645,
-   "company": "spacex",
-   "hours_open": 128.3,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1788917645,
-   "company": "spacex",
-   "hours_open": 126.9,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1788917645,
-   "company": "bmo",
-   "hours_open": 8.2,
-   "title": "AI/Platform Analyst, 8 months (Co-op/Internship) - 8 months",
-   "uid": "workday:bmo.wd3/External:AI-Platform-Analyst--8-months--Co-op-Internship----8-months_R260026129-2"
-  },
-  {
-   "closed_at": 1788917645,
    "company": "bmo",
    "hours_open": 8.2,
    "title": "Wealth Management Development Associate, New Grad (Chicago, IL)",
@@ -5599,8 +5571,36 @@
    "hours_open": 101.9,
    "title": "Administrateur Réseau TI",
    "uid": "jobillico:analyste reseau:17386419"
+  },
+  {
+   "closed_at": 1789257704,
+   "company": "Groupe Mario Coté",
+   "hours_open": 30.7,
+   "title": "Administrateur de réseau",
+   "uid": "jobillico:analyste reseau:17520153"
+  },
+  {
+   "closed_at": 1789257704,
+   "company": "twitch",
+   "hours_open": 223.1,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1789257704,
+   "company": "spacex",
+   "hours_open": 220.1,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1789257704,
+   "company": "spacex",
+   "hours_open": 222.8,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
   }
  ],
- "count": 800,
- "updated_at": 1789255353
+ "count": 804,
+ "updated_at": 1789257704
 }
