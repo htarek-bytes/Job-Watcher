@@ -1,20 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1788926516,
-   "company": "Miratech",
-   "hours_open": 2.2,
-   "title": "information systems analyst - computer systems",
-   "uid": "jobbank:analyste de systemes:49969689"
-  },
-  {
-   "closed_at": 1788926516,
-   "company": "kbr",
-   "hours_open": 152.4,
-   "title": "Junior Software Engineer",
-   "uid": "workday:kbr.wd5/kbr_careers:Junior-Software-Engineer_R2122294"
-  },
-  {
    "closed_at": 1788931288,
    "company": "Arista Networks",
    "hours_open": 14.2,
@@ -5599,8 +5585,22 @@
    "hours_open": 112.6,
    "title": "network administrator",
    "uid": "jobbank:network administrator:49654254"
+  },
+  {
+   "closed_at": 1789295404,
+   "company": "bmo",
+   "hours_open": 235.3,
+   "title": "Machine Learning Developer (New or Recent Graduate)",
+   "uid": "workday:bmo.wd3/Campus:Machine-Learning-Developer--New-or-Recent-Graduate-_R260024265-1"
+  },
+  {
+   "closed_at": 1789295404,
+   "company": "caci",
+   "hours_open": 62.5,
+   "title": "Software Engineering Intern - Summer 2027",
+   "uid": "workday:caci.wd1/external:Software-Engineering-Intern---Summer-2027_331543-1"
   }
  ],
- "count": 800,
- "updated_at": 1789295041
+ "count": 802,
+ "updated_at": 1789295404
 }
