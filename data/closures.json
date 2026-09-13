@@ -2,41 +2,6 @@
  "closed": [
   {
    "closed_at": 1788947734,
-   "company": "globalhr",
-   "hours_open": 11.1,
-   "title": "2027 Summer/Fall Co-Op - Systems Engineer - AVI MIL FMS/DAS (Onsite)",
-   "uid": "workday:globalhr.wd5/rec_rtx_ext_gateway:XMLNAME-2027-Summer-Fall-Co-Op---Systems-Engineer---AVI-MIL-FMS-DAS--Onsite-_01872240"
-  },
-  {
-   "closed_at": 1788947734,
-   "company": "globalhr",
-   "hours_open": 12.4,
-   "title": "Software Engineering Co-op (Fall/Spring 2027)",
-   "uid": "workday:globalhr.wd5/rec_rtx_ext_gateway:Software-Engineering-Co-op--Fall-Spring-2027-_01872683"
-  },
-  {
-   "closed_at": 1788947734,
-   "company": "Micromart",
-   "hours_open": 11.1,
-   "title": "front-end developer",
-   "uid": "jobbank:developpeur junior:50245647"
-  },
-  {
-   "closed_at": 1788947734,
-   "company": "Control Gap Inc.",
-   "hours_open": 10.2,
-   "title": "full stack developer",
-   "uid": "jobbank:developpeur junior:50245660"
-  },
-  {
-   "closed_at": 1788947734,
-   "company": "lyft",
-   "hours_open": 137.0,
-   "title": "Business Systems Engineer",
-   "uid": "greenhouse:lyft:8772602002"
-  },
-  {
-   "closed_at": 1788947734,
    "company": "lyft",
    "hours_open": 137.0,
    "title": "Software Engineer",
@@ -5599,8 +5564,43 @@
    "hours_open": 240.4,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1789328085,
+   "company": "Autostore",
+   "hours_open": 1.4,
+   "title": "Entry Level Software Engineer",
+   "uid": "simplify:listings:f856788a-97a4-4332-a414-c568ed12438d"
+  },
+  {
+   "closed_at": 1789328085,
+   "company": "twitch",
+   "hours_open": 242.6,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1789328085,
+   "company": "spacex",
+   "hours_open": 242.6,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1789328085,
+   "company": "spacex",
+   "hours_open": 242.3,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1789328085,
+   "company": "spacex",
+   "hours_open": 240.9,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
- "count": 800,
- "updated_at": 1789322899
+ "count": 805,
+ "updated_at": 1789328085
 }
