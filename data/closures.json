@@ -1,27 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1788918121,
-   "company": "bmo",
-   "hours_open": 8.3,
-   "title": "Wealth Management Development Associate, New Grad (Chicago, IL)",
-   "uid": "workday:bmo.wd3/External:Wealth-Management-Development-Associate--New-Grad--Chicago--IL-_R260026201"
-  },
-  {
-   "closed_at": 1788918121,
-   "company": "bmo",
-   "hours_open": 124.3,
-   "title": "Machine Learning Developer (New or Recent Graduate)",
-   "uid": "workday:bmo.wd3/External:Machine-Learning-Developer--New-or-Recent-Graduate-_R260024265"
-  },
-  {
-   "closed_at": 1788918628,
-   "company": "District of Saanich",
-   "hours_open": 8.7,
-   "title": "geographic information systems (gis) analyst",
-   "uid": "jobbank:information systems analyst:50223741"
-  },
-  {
    "closed_at": 1788918628,
    "company": "Aarorn Technologies Inc.",
    "hours_open": 8.7,
@@ -5599,8 +5578,29 @@
    "hours_open": 220.7,
    "title": "Security Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1789260948,
+   "company": "Groupe Mario Coté",
+   "hours_open": 31.7,
+   "title": "Administrateur de réseau",
+   "uid": "jobillico:analyste reseau:17520153"
+  },
+  {
+   "closed_at": 1789260948,
+   "company": "twitch",
+   "hours_open": 221.0,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1789260948,
+   "company": "spacex",
+   "hours_open": 224.0,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
   }
  ],
- "count": 807,
- "updated_at": 1789259744
+ "count": 803,
+ "updated_at": 1789260948
 }
