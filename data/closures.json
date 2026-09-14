@@ -1,90 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1788979404,
-   "company": "clearwateranalytics",
-   "hours_open": 163.6,
-   "title": "Quantitative Developer I",
-   "uid": "workday:clearwateranalytics.wd1/Clearwater_Analytics_Careers:Quantitative-Developer-I_R12046"
-  },
-  {
-   "closed_at": 1788979404,
-   "company": "West Bend Insurance",
-   "hours_open": 63.7,
-   "title": "Assistant Data Solutions Engineer",
-   "uid": "simplify:listings:efd41d1c-1686-4f0b-9fed-8c342653f9d8"
-  },
-  {
-   "closed_at": 1788979404,
-   "company": "Amazon",
-   "hours_open": 124.6,
-   "title": "Software Development Engineer",
-   "uid": "amazon:amazon:10529828"
-  },
-  {
-   "closed_at": 1788979404,
-   "company": "Amazon",
-   "hours_open": 122.3,
-   "title": "Software Development Engineer, Amazon Ads",
-   "uid": "amazon:amazon:10529972"
-  },
-  {
-   "closed_at": 1788979404,
-   "company": "sharkninjaoperatingllc",
-   "hours_open": 138.8,
-   "title": "Product Integrity Engineer - Corded ",
-   "uid": "greenhouse:sharkninjaoperatingllc:4699660006"
-  },
-  {
-   "closed_at": 1788979404,
-   "company": "discord",
-   "hours_open": 145.8,
-   "title": "Software Engineer, Developer Success",
-   "uid": "greenhouse:discord:8609250002"
-  },
-  {
-   "closed_at": 1788979404,
-   "company": "Citadel",
-   "hours_open": 182.4,
-   "title": "Software Engineer – University Graduate",
-   "uid": "simplify:listings:410b28b6-b357-4b72-9480-bad83701b4cb"
-  },
-  {
-   "closed_at": 1788979404,
-   "company": "spacex",
-   "hours_open": 145.5,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1788979404,
-   "company": "spacex",
-   "hours_open": 144.1,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1788979927,
-   "company": "globalhr",
-   "hours_open": 8.9,
-   "title": "Life Cycle Systems Engineer I",
-   "uid": "workday:globalhr.wd5/rec_rtx_ext_gateway:Life-Cycle-Systems-Engineer-I_01872772-1"
-  },
-  {
-   "closed_at": 1788979927,
-   "company": "twitch",
-   "hours_open": 145.9,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1788979927,
-   "company": "globalhr",
-   "hours_open": 167.3,
-   "title": "Ingénieur - Programme de rotation de nouveaux gradues 2027 / Engineer - New Graduate Rotation Program 2027",
-   "uid": "workday:globalhr.wd5/rec_rtx_ext_gateway:Ingnieur---Programme-de-rotation-de-nouveaux-gradues-2027---Engineer---New-Graduate-Rotation-Program-2027_01870776-1"
-  },
-  {
    "closed_at": 1788979927,
    "company": "globalhr",
    "hours_open": 8.9,
@@ -5599,8 +5515,92 @@
    "hours_open": 259.3,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1789394797,
+   "company": "AECOM",
+   "hours_open": 66.0,
+   "title": "Bridge Engineer Intern - Hiring Event with AECOM - Raleigh",
+   "uid": "smartrecruiters:AECOM2:744000149039509"
+  },
+  {
+   "closed_at": 1789394797,
+   "company": "Logesco Informatique",
+   "hours_open": 141.0,
+   "title": "Administrateur de réseau",
+   "uid": "jobillico:analyste reseau:17188132"
+  },
+  {
+   "closed_at": 1789394797,
+   "company": "Bosch Group",
+   "hours_open": 66.0,
+   "title": "Technical Sales Support für Hägglunds (w/m/div.)",
+   "uid": "smartrecruiters:BoschGroup:744000149003159"
+  },
+  {
+   "closed_at": 1789394797,
+   "company": "Bosch Group",
+   "hours_open": 75.4,
+   "title": "Extracurricular Internship: R&D Engineer for Domestic Hot Water Tanks (f/m/div.)",
+   "uid": "smartrecruiters:BoschGroup:744000148965440"
+  },
+  {
+   "closed_at": 1789394797,
+   "company": "Bosch Group",
+   "hours_open": 75.4,
+   "title": "Extracurricular Internship: R&D Engineer for Heat Pump Water Heaters (f/m/div.)",
+   "uid": "smartrecruiters:BoschGroup:744000148965711"
+  },
+  {
+   "closed_at": 1789394797,
+   "company": "Bosch Group",
+   "hours_open": 75.4,
+   "title": "Extracurricular Internship: Design for Environment Engineer (f/m/div.)",
+   "uid": "smartrecruiters:BoschGroup:744000148967459"
+  },
+  {
+   "closed_at": 1789394797,
+   "company": "Bosch Group",
+   "hours_open": 75.4,
+   "title": "Extracurricular Internship: Product Compliance Engineer (f/m/div.)",
+   "uid": "smartrecruiters:BoschGroup:744000148967199"
+  },
+  {
+   "closed_at": 1789394797,
+   "company": "Bosch Group",
+   "hours_open": 75.4,
+   "title": "Extracurricular Internship: Gateway Firmware Engineer (f/m/div.)",
+   "uid": "smartrecruiters:BoschGroup:744000148966469"
+  },
+  {
+   "closed_at": 1789394797,
+   "company": "Bosch Group",
+   "hours_open": 75.4,
+   "title": "Extracurricular Internship: Infrastructure & DevOps Engineer (f/m/div.)",
+   "uid": "smartrecruiters:BoschGroup:744000148964769"
+  },
+  {
+   "closed_at": 1789394797,
+   "company": "Bosch Group",
+   "hours_open": 75.4,
+   "title": "Extracurricular Internship: R&D and Testing Engineer for Heat Pump Water Heaters (f/m/div.)",
+   "uid": "smartrecruiters:BoschGroup:744000148963519"
+  },
+  {
+   "closed_at": 1789394797,
+   "company": "General Dynamics Missions System International",
+   "hours_open": 236.9,
+   "title": "Co-op Winter 2027 – Project Engineer - 8 to 12 months",
+   "uid": "smartrecruiters:GDMSI:744000147568809"
+  },
+  {
+   "closed_at": 1789394797,
+   "company": "General Dynamics Missions System International",
+   "hours_open": 282.5,
+   "title": "Junior Systems Integration Engineer",
+   "uid": "smartrecruiters:GDMSI:744000147008478"
   }
  ],
- "count": 815,
- "updated_at": 1789394231
+ "count": 812,
+ "updated_at": 1789394798
 }
