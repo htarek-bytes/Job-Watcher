@@ -1,27 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1788964362,
-   "company": "adasupport",
-   "hours_open": 154.1,
-   "title": "Associate Developer ",
-   "uid": "bamboohr:adasupport:357"
-  },
-  {
-   "closed_at": 1788964362,
-   "company": "specteraerospace",
-   "hours_open": 141.6,
-   "title": "Aerothermal Engineer Co-Op – Spring 2027 ",
-   "uid": "bamboohr:specteraerospace:129"
-  },
-  {
-   "closed_at": 1788964362,
-   "company": "spacex",
-   "hours_open": 141.6,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
    "closed_at": 1788967239,
    "company": "PolicyAdvisor Brokerage Inc.",
    "hours_open": 17.8,
@@ -5599,8 +5578,29 @@
    "hours_open": 246.9,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1789350257,
+   "company": "twitch",
+   "hours_open": 245.8,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1789350257,
+   "company": "spacex",
+   "hours_open": 248.5,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1789350257,
+   "company": "spacex",
+   "hours_open": 248.8,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 805,
- "updated_at": 1789349712
+ "count": 803,
+ "updated_at": 1789350257
 }
