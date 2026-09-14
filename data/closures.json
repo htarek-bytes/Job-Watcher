@@ -2,20 +2,6 @@
  "closed": [
   {
    "closed_at": 1788970719,
-   "company": "ecopiatech",
-   "hours_open": 143.4,
-   "title": "Frontend Engineer",
-   "uid": "bamboohr:ecopiatech:117"
-  },
-  {
-   "closed_at": 1788970719,
-   "company": "coinbase",
-   "hours_open": 143.4,
-   "title": "Software Engineer, CDP - Stablecoin",
-   "uid": "greenhouse:coinbase:8092485"
-  },
-  {
-   "closed_at": 1788970719,
    "company": "Amazon",
    "hours_open": 55.6,
    "title": "Software Development Engineer, International Emerging Stores Sub-same Day",
@@ -5599,8 +5585,22 @@
    "hours_open": 133.9,
    "title": "network security administrator",
    "uid": "jobbank:network administrator:49613158"
+  },
+  {
+   "closed_at": 1789369918,
+   "company": "twitch",
+   "hours_open": 254.2,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1789369918,
+   "company": "spacex",
+   "hours_open": 254.2,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
  "count": 802,
- "updated_at": 1789369399
+ "updated_at": 1789369918
 }
