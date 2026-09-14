@@ -1,111 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1788976297,
-   "company": "Huntington Ingalls Industries",
-   "hours_open": 26.7,
-   "title": "Software Engineer 1",
-   "uid": "simplify:listings:84a39b8e-8d89-4f91-ab45-1d53e8d86776"
-  },
-  {
-   "closed_at": 1788976297,
-   "company": "spacex",
-   "hours_open": 144.6,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1788976297,
-   "company": "spacex",
-   "hours_open": 143.2,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1788976768,
-   "company": "twitch",
-   "hours_open": 142.1,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1788976768,
-   "company": "barclays",
-   "hours_open": 118.6,
-   "title": "2027 Technology Developer Summer Internship Program Wilmington",
-   "uid": "workday:barclays.wd3/External_Career_Site_Barclays:XMLNAME-2027-Technology-Developer-Summer-Internship-Program-Wilmington_JR-0000123236"
-  },
-  {
-   "closed_at": 1788976768,
-   "company": "barclays",
-   "hours_open": 118.6,
-   "title": "2027 Technology Developer Summer Internship Program Whippany",
-   "uid": "workday:barclays.wd3/External_Career_Site_Barclays:XMLNAME-2027-Technology-Developer-Summer-Internship-Program-Whippany_JR-0000123234"
-  },
-  {
-   "closed_at": 1788976768,
-   "company": "avav",
-   "hours_open": 169.1,
-   "title": "Entry-Level Software Engineer",
-   "uid": "workday:avav.wd1/avav:Entry-Level-Software-Engineer_8010"
-  },
-  {
-   "closed_at": 1788976768,
-   "company": "spacex",
-   "hours_open": 145.0,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1788976768,
-   "company": "spacex",
-   "hours_open": 145.0,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1788979404,
-   "company": "capitalone",
-   "hours_open": 23.8,
-   "title": "Intern, Backend Software Engineer - Team Interstellar - Winter 2027",
-   "uid": "workday:capitalone.wd12/Capital_One:Intern--Backend-Software-Engineer---Team-Interstellar---Winter-2027_R249022"
-  },
-  {
-   "closed_at": 1788979404,
-   "company": "capitalone",
-   "hours_open": 23.8,
-   "title": "Intern, Mobile Software Engineer - Team Gringotts North - Winter 2027",
-   "uid": "workday:capitalone.wd12/Capital_One:Intern--Mobile-Software-Engineer---Team-Gringotts-North---Winter-2027_R249015"
-  },
-  {
-   "closed_at": 1788979404,
-   "company": "capitalone",
-   "hours_open": 23.9,
-   "title": "Intern, Full Stack Software Engineer - Team Pickle - Winter 2027",
-   "uid": "workday:capitalone.wd12/Capital_One:Intern--Full-Stack-Software-Engineer---Team-Pickle---Winter-2027_R249013"
-  },
-  {
-   "closed_at": 1788979404,
-   "company": "capitalone",
-   "hours_open": 23.9,
-   "title": "Intern, Full Stack Software Engineer - Team Sprout - Winter 2027",
-   "uid": "workday:capitalone.wd12/Capital_One:Intern--Full-Stack-Software-Engineer---Team-Integrated-Sprout---Winter-2027_R249010"
-  },
-  {
-   "closed_at": 1788979404,
-   "company": "bmo",
-   "hours_open": 61.8,
-   "title": "Software Developer, Winter 2027 (Co-op/Internship) - 12 Months",
-   "uid": "workday:bmo.wd3/Campus:Software-Developer--Winter-2027--Co-op-Internship----12-Months_R260024678-2"
-  },
-  {
-   "closed_at": 1788979404,
-   "company": "osedea",
-   "hours_open": 145.8,
-   "title": "Software Engineer",
-   "uid": "lever:osedea:77e37d3d-89ce-4dce-94cf-d37c9d687220"
-  },
-  {
    "closed_at": 1788979404,
    "company": "clearwateranalytics",
    "hours_open": 163.6,
@@ -5599,8 +5494,113 @@
    "hours_open": 257.8,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1789394228,
+   "company": "sequence",
+   "hours_open": 261.0,
+   "title": "Product Engineer - NYC ",
+   "uid": "ashby:sequence:e1977983-8e05-4f62-b25c-3741d445b902"
+  },
+  {
+   "closed_at": 1789394228,
+   "company": "appdirect",
+   "hours_open": 261.0,
+   "title": "Software Developer",
+   "uid": "greenhouse:appdirect:8657363002"
+  },
+  {
+   "closed_at": 1789394228,
+   "company": "scaleai",
+   "hours_open": 237.5,
+   "title": "Software Engineering Intern (Summer 2027) ",
+   "uid": "greenhouse:scaleai:4730845005"
+  },
+  {
+   "closed_at": 1789394228,
+   "company": "scaleai",
+   "hours_open": 237.5,
+   "title": "Software Engineer - New Grad",
+   "uid": "greenhouse:scaleai:4730836005"
+  },
+  {
+   "closed_at": 1789394228,
+   "company": "CANADIAN EASY TAX AND FINANCIAL SERVICES",
+   "hours_open": 66.1,
+   "title": "Web developer",
+   "uid": "jobbank:developpeur junior:50267136"
+  },
+  {
+   "closed_at": 1789394228,
+   "company": "École nationale d'administration publique (ENAP)",
+   "hours_open": 278.9,
+   "title": "computer programmer",
+   "uid": "jobbank:junior programmer:50126979"
+  },
+  {
+   "closed_at": 1789394228,
+   "company": "Cisco",
+   "hours_open": 61.8,
+   "title": "Software Engineer 1",
+   "uid": "simplify:listings:748876fb-0603-4b73-b26c-469bc138674c"
+  },
+  {
+   "closed_at": 1789394228,
+   "company": "icapitalnetwork",
+   "hours_open": 259.3,
+   "title": "UI Frontend Engineer - Associate",
+   "uid": "greenhouse:icapitalnetwork:8645574002"
+  },
+  {
+   "closed_at": 1789394228,
+   "company": "TikTok",
+   "hours_open": 297.6,
+   "title": "Software Engineer New Grad - Quality and Efficiency Technology",
+   "uid": "simplify:listings:dfb14959-39c2-4aaa-8ea0-a7f75c6dd02e"
+  },
+  {
+   "closed_at": 1789394228,
+   "company": "shieldai",
+   "hours_open": 140.8,
+   "title": "Reliability Analyst (R5728)",
+   "uid": "lever:shieldai:d9247928-ed05-4e9f-8d7f-d3bd8fa2f54c"
+  },
+  {
+   "closed_at": 1789394228,
+   "company": "RTX",
+   "hours_open": 134.3,
+   "title": "Digital Hardware Design Engineer 1",
+   "uid": "simplify:listings:c92d6bc4-a299-44a6-b793-d8e2ff46ce73"
+  },
+  {
+   "closed_at": 1789394228,
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
+   "hours_open": 140.8,
+   "title": "Administrateur Réseau TI",
+   "uid": "jobillico:analyste reseau:17386419"
+  },
+  {
+   "closed_at": 1789394228,
+   "company": "Leidos",
+   "hours_open": 254.6,
+   "title": "Entry Level Software Developer",
+   "uid": "simplify:listings:ce9250e1-36be-4c4c-aeff-ee1b9d5881c6"
+  },
+  {
+   "closed_at": 1789394228,
+   "company": "ionq",
+   "hours_open": 259.3,
+   "title": "Satellite Operations Engineer",
+   "uid": "greenhouse:ionq:6009174004"
+  },
+  {
+   "closed_at": 1789394228,
+   "company": "spacex",
+   "hours_open": 259.3,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
- "count": 807,
- "updated_at": 1789382658
+ "count": 815,
+ "updated_at": 1789394231
 }
