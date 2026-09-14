@@ -1,69 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789033698,
-   "company": "spacex",
-   "hours_open": 159.2,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1789036346,
-   "company": "ag",
-   "hours_open": 16.5,
-   "title": "#DIGITAL CAMPUS Web development - Spares, MRO & Training Product Service Line (m/f)",
-   "uid": "workday:ag.wd3/Airbus:Web-development---Spares--MRO---Training-Product-Service-Line--m-f-_JR10423915-1"
-  },
-  {
-   "closed_at": 1789036346,
-   "company": "twitch",
-   "hours_open": 158.6,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1789036346,
-   "company": "accenture",
-   "hours_open": 178.5,
-   "title": "Software Engineering New Associate (Fresh Diploma Graduate Program)",
-   "uid": "workday:accenture.wd103/AccentureCareers:Software-Engineering-New-Associate--Fresh-Diploma-Graduate-Program-_R00144534"
-  },
-  {
-   "closed_at": 1789036346,
-   "company": "accenture",
-   "hours_open": 178.5,
-   "title": "Junior .NET Developer - Fresh Graduates",
-   "uid": "workday:accenture.wd103/AccentureCareers:Junior-NET-Developer---Fresh-Graduates_R00332478"
-  },
-  {
-   "closed_at": 1789036346,
-   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
-   "hours_open": 41.4,
-   "title": "Administrateur Réseau TI",
-   "uid": "jobillico:analyste reseau:17386419"
-  },
-  {
-   "closed_at": 1789036346,
-   "company": "spacex",
-   "hours_open": 161.3,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1789036346,
-   "company": "spacex",
-   "hours_open": 161.6,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1789037508,
-   "company": "twitch",
-   "hours_open": 161.9,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
    "closed_at": 1789037508,
    "company": "bmo",
    "hours_open": 41.7,
@@ -5599,8 +5536,71 @@
    "hours_open": 269.5,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1789425451,
+   "company": "salesforce",
+   "hours_open": 17.4,
+   "title": "Specialist Solution Engineer",
+   "uid": "workday:salesforce.wd12/External_Career_Site:Specialist-Solution-Engineer_JR358388-1"
+  },
+  {
+   "closed_at": 1789425451,
+   "company": "twitch",
+   "hours_open": 266.7,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1789425451,
+   "company": "CGI",
+   "hours_open": 149.5,
+   "title": "Conseiller en gouvernance de la cybersécurité",
+   "uid": "jobillico:analyste cybersecurite:17433756"
+  },
+  {
+   "closed_at": 1789425451,
+   "company": "paloaltonetworks",
+   "hours_open": 185.7,
+   "title": "Solutions Consultant 1",
+   "uid": "workday:paloaltonetworks.wd5/panwexternalcareers:Solutions-Consultant-1_JR-021918"
+  },
+  {
+   "closed_at": 1789425451,
+   "company": "pae",
+   "hours_open": 89.6,
+   "title": "Entry Level Software Engineer",
+   "uid": "workday:pae.wd1/amentum_careers:Entry-Level-Software-Engineer_R0148259"
+  },
+  {
+   "closed_at": 1789425451,
+   "company": "ngc",
+   "hours_open": 89.6,
+   "title": "2027 Fall Co-Op - Survivability Engineer",
+   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Fall-Co-Op---Survivability-Engineer_R10250417"
+  },
+  {
+   "closed_at": 1789425451,
+   "company": "radiancetech",
+   "hours_open": 122.5,
+   "title": "Junior Software Engineer",
+   "uid": "workday:radiancetech.wd12/Radiance_External:Junior-Software-Engineer_HR102399"
+  },
+  {
+   "closed_at": 1789425451,
+   "company": "selinc",
+   "hours_open": 246.2,
+   "title": "Associate Software Engineer - Vulnerability Assessment",
+   "uid": "workday:selinc.wd1/SEL:Associate-Software-Engineer---Vulnerability-Assessment_2026-22231"
+  },
+  {
+   "closed_at": 1789425451,
+   "company": "spacex",
+   "hours_open": 266.7,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
   }
  ],
- "count": 834,
- "updated_at": 1789424861
+ "count": 809,
+ "updated_at": 1789425453
 }
