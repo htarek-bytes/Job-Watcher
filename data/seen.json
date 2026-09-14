@@ -1,5 +1,5 @@
 {
- "count": 4785,
+ "count": 4790,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -3240,9 +3240,11 @@
   "simplify:listings:165def57-d2b8-4820-944f-203575dd7b00": 1788322770,
   "simplify:listings:167abad4-6ad1-4afd-ac76-a97071a7a67b": 1788322770,
   "simplify:listings:16c1dd6a-df69-4b28-b4ac-581408b67050": 1788435390,
+  "simplify:listings:16d72e19-4fbb-4539-842e-ab1c221c3562": 1789418169,
   "simplify:listings:1827abb6-82cd-4735-aeff-87e0b81c8003": 1788322770,
   "simplify:listings:18c2c157-bced-43b1-9b2e-b9718a794559": 1788350664,
   "simplify:listings:18d8f515-5700-42f6-8b89-de3c7d69e83c": 1788435390,
+  "simplify:listings:191bef07-9c08-4fff-8583-81c3ba0e6c30": 1789418169,
   "simplify:listings:1acd5a07-50ab-4e8a-8cb2-be9a1ae33d8b": 1789168928,
   "simplify:listings:1ae4d477-2ac5-41f7-848a-cf5ccb939aa2": 1788322770,
   "simplify:listings:1b24996d-5216-4340-b3e9-09cd19a5b0f0": 1788455648,
@@ -3430,6 +3432,7 @@
   "simplify:listings:6323f819-c45a-46ce-bb2a-3111e0cec20d": 1788512368,
   "simplify:listings:63703d4d-13ff-4bec-a203-233fd1628666": 1788322770,
   "simplify:listings:63848af9-c211-4b79-b264-401610b828f6": 1788322770,
+  "simplify:listings:638f7b48-645b-4838-b62d-be92a72bb467": 1789418169,
   "simplify:listings:63be50b3-ad2c-4e52-889f-a54037b0da8c": 1789412713,
   "simplify:listings:643187a2-24a5-4866-8cbb-5dd7214a4755": 1788410216,
   "simplify:listings:646702df-6a22-45b8-b6ff-ea112461213c": 1788322770,
@@ -4439,6 +4442,7 @@
   "workday:gevernova.wd5/vernova_externalsite:GE-Vernova-Software-Engineering---Co-op---Spring-Summer-2027_R5051780-2": 1788465250,
   "workday:gevernova.wd5/vernova_externalsite:GE-Vernova-Software-Engineering---Co-op--Summer---Fall_R5051794-2": 1788465250,
   "workday:gevernova.wd5/vernova_externalsite:Ingnieur-junior-en-intgration-logicielle-GridOS---DevOps-F-H-----Junior-GridOS-Software-Integration-Engineer---DevOps_R5048048-3": 1788448251,
+  "workday:globalfoundries.wd1/External:Advanced-Manufacturing-Equipment-Engineer--2027-New-College-Graduate-_JR-2604708": 1789418169,
   "workday:globalfoundries.wd1/External:Associate-Engineer---Engineer---Penang_JR-2501592": 1788377607,
   "workday:globalfoundries.wd1/External:Electrical-Test-Engineer--Wafer-Test--2027-New-College-Graduate-_JR-2604747": 1788377607,
   "workday:globalfoundries.wd1/External:Engineer-Field-Application-Engineering_JR-2502404": 1788377607,
@@ -4485,6 +4489,7 @@
   "workday:globalhr.wd5/rec_rtx_ext_gateway:XMLNAME-2027-Spring-Summer-Co-Op---Systems-Engineer---AVI-MIL-FMS--Onsite-_01872234": 1788907909,
   "workday:globalhr.wd5/rec_rtx_ext_gateway:XMLNAME-2027-Summer-Fall-Co-Op---Systems-Engineer---AVI-MIL-FMS-DAS--Onsite-_01872240": 1788907909,
   "workday:globusmedical.wd5/GMED_Careers:Associate-Software-Engineer_JR106980-1": 1788377607,
+  "workday:gnw.wd1/GNW:Software-Engineering-Intern_REQ-260367-1": 1789418169,
   "workday:graco.wd501/Graco_Careers:Manufacturing-Engineering--Operational-Technology--Co-op--January---August-2027-_R0023574": 1788979927,
   "workday:greenheckgroup.wd5/external:Automation-Engineer-I_JR104420-1": 1788377607,
   "workday:haier.wd3/ge_appliances:Software-Engineering-Co-op-Fall-2027_REQ-26592": 1788442300,
@@ -4787,5 +4792,5 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148,
   "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541": 1789106107
  },
- "updated_at": 1789417897
+ "updated_at": 1789418170
 }
