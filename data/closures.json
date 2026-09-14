@@ -2,13 +2,6 @@
  "closed": [
   {
    "closed_at": 1788964362,
-   "company": "twitch",
-   "hours_open": 138.6,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1788964362,
    "company": "adasupport",
    "hours_open": 59.5,
    "title": "Solutions Consultant (Enterprise)",
@@ -5599,8 +5592,15 @@
    "hours_open": 247.3,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1789344910,
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
+   "hours_open": 127.1,
+   "title": "Administrateur Réseau TI",
+   "uid": "jobillico:analyste reseau:17386419"
   }
  ],
- "count": 803,
- "updated_at": 1789344800
+ "count": 801,
+ "updated_at": 1789344910
 }
