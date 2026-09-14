@@ -1,69 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789000440,
-   "company": "Revel",
-   "hours_open": 188.2,
-   "title": "Embedded Software Engineer - Entry-Junior",
-   "uid": "simplify:listings:037fa901-97c4-4099-8f01-dd0399bbef6a"
-  },
-  {
-   "closed_at": 1789000440,
-   "company": "General Dynamics Mission Systems",
-   "hours_open": 188.2,
-   "title": "Software Engineer - Entry Level",
-   "uid": "simplify:listings:2af5ac17-a498-44a7-829b-c3147a8a150b"
-  },
-  {
-   "closed_at": 1789000440,
-   "company": "spacex",
-   "hours_open": 151.6,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1789000440,
-   "company": "RTX",
-   "hours_open": 37.4,
-   "title": "Software Engineer 1",
-   "uid": "simplify:listings:e90bb9b3-2e96-47e0-80c1-169bb7a56849"
-  },
-  {
-   "closed_at": 1789000440,
-   "company": "spacex",
-   "hours_open": 151.3,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1789000440,
-   "company": "andurilindustries",
-   "hours_open": 122.7,
-   "title": "Product Data Engineer",
-   "uid": "greenhouse:andurilindustries:5114652007"
-  },
-  {
-   "closed_at": 1789000440,
-   "company": "spacex",
-   "hours_open": 151.6,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1789002050,
-   "company": "globalhr",
-   "hours_open": 6.1,
-   "title": "Software Engineering Intern (Summer 2027) (Open)",
-   "uid": "workday:globalhr.wd5/rec_rtx_ext_gateway:Software-Engineering-Intern--Summer-2027---Open-_01873623"
-  },
-  {
-   "closed_at": 1789002050,
-   "company": "hp",
-   "hours_open": 6.1,
-   "title": "Presales Technical Consultant",
-   "uid": "workday:hp.wd5/externalcareersite:Presales-Technical-Consultant_3165074-1"
-  },
-  {
    "closed_at": 1789002050,
    "company": "twitch",
    "hours_open": 149.1,
@@ -5599,8 +5536,71 @@
    "hours_open": 147.4,
    "title": "Linux System Administrator",
    "uid": "greenhouse:darkwolfsolutions:7817922003"
+  },
+  {
+   "closed_at": 1789418056,
+   "company": "globalhr",
+   "hours_open": 15.5,
+   "title": "Radar Systems Engineer I",
+   "uid": "workday:globalhr.wd5/rec_rtx_ext_gateway:Radar-Systems-Engineer-I_01874482"
+  },
+  {
+   "closed_at": 1789418056,
+   "company": "globalhr",
+   "hours_open": 15.5,
+   "title": "Production Support Engineering Co-op (Winter/Spring 2027)",
+   "uid": "workday:globalhr.wd5/rec_rtx_ext_gateway:Production-Support-Engineering-Co-op--Winter-Spring-2027-_01872654"
+  },
+  {
+   "closed_at": 1789418056,
+   "company": "globalhr",
+   "hours_open": 15.5,
+   "title": "Production Support Engineering Co-Op (Summer/Fall 2027)",
+   "uid": "workday:globalhr.wd5/rec_rtx_ext_gateway:Production-Support-Engineering-Co-Op--Summer-Fall-2027-_01872653"
+  },
+  {
+   "closed_at": 1789418056,
+   "company": "globalhr",
+   "hours_open": 33.9,
+   "title": "System Engineer I",
+   "uid": "workday:globalhr.wd5/rec_rtx_ext_gateway:System-Engineer-I_01866674"
+  },
+  {
+   "closed_at": 1789418056,
+   "company": "globalhr",
+   "hours_open": 33.9,
+   "title": "Systems Engineer I",
+   "uid": "workday:globalhr.wd5/rec_rtx_ext_gateway:Systems-Engineer-I_01866673"
+  },
+  {
+   "closed_at": 1789418056,
+   "company": "gevernova",
+   "hours_open": 69.8,
+   "title": "Grid Engineer-1",
+   "uid": "workday:gevernova.wd5/only_confidential_executive_recruiting:Grid-Engineer-1_R5052125-1"
+  },
+  {
+   "closed_at": 1789418056,
+   "company": "globalfoundries",
+   "hours_open": 289.0,
+   "title": "3D Heterogeneous Integration Design Enablement Engineer (2026 New College Graduate)",
+   "uid": "workday:globalfoundries.wd1/External:XMLNAME-3D-Heterogeneous-Integration-Design-Enablement-Engineer--2025-New-College-Graduate-_JR-2501678"
+  },
+  {
+   "closed_at": 1789418056,
+   "company": "systemstechnologyresearch",
+   "hours_open": 147.4,
+   "title": "Autonomy Algorithms Software Engineer",
+   "uid": "greenhouse:systemstechnologyresearch:4704680006"
+  },
+  {
+   "closed_at": 1789418056,
+   "company": "Peraton",
+   "hours_open": 304.2,
+   "title": "Junior Web Developer",
+   "uid": "simplify:listings:beffc9df-d33a-4e8c-bd21-8ac5229e3ab7"
   }
  ],
- "count": 818,
- "updated_at": 1789417898
+ "count": 809,
+ "updated_at": 1789418057
 }
