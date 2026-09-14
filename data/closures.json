@@ -1,153 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1788979927,
-   "company": "globalhr",
-   "hours_open": 8.9,
-   "title": "Software Engineering Intern (Summer 2027)",
-   "uid": "workday:globalhr.wd5/Private_Posting_No_TMP:Software-Engineering-Intern--Summer-2027-_01870410"
-  },
-  {
-   "closed_at": 1788979927,
-   "company": "Amazon",
-   "hours_open": 145.9,
-   "title": "Software Dev Engineer, Benefits Experience and Technology (BXT)",
-   "uid": "amazon:amazon:10524930"
-  },
-  {
-   "closed_at": 1788979927,
-   "company": "globalhr",
-   "hours_open": 20.0,
-   "title": "2027 Spring/Summer Co-Op - Systems Engineer - AVI MIL FMS (Onsite)",
-   "uid": "workday:globalhr.wd5/rec_rtx_ext_gateway:XMLNAME-2027-Spring-Summer-Co-Op---Systems-Engineer---AVI-MIL-FMS--Onsite-_01872234"
-  },
-  {
-   "closed_at": 1788979927,
-   "company": "accenturefederalservices",
-   "hours_open": 2.6,
-   "title": "Information Security Systems Engineer (ISSE)",
-   "uid": "greenhouse:accenturefederalservices:4711977006"
-  },
-  {
-   "closed_at": 1788979927,
-   "company": "spacex",
-   "hours_open": 145.9,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1788979927,
-   "company": "spacex",
-   "hours_open": 145.9,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1788979927,
-   "company": "spacex",
-   "hours_open": 145.9,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1788981683,
-   "company": "twitch",
-   "hours_open": 143.5,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1788981683,
-   "company": "DLGL TECHNOLOGIES CORPORATION",
-   "hours_open": 62.4,
-   "title": "developer, software",
-   "uid": "jobbank:junior programmer:50191592"
-  },
-  {
-   "closed_at": 1788981683,
-   "company": "micron",
-   "hours_open": 142.0,
-   "title": "Intern - AI Agentic Systems Engineer",
-   "uid": "workday:micron.wd1/External:Intern---AI-Agentic-Systems-Engineer_JR110474"
-  },
-  {
-   "closed_at": 1788981683,
-   "company": "micron",
-   "hours_open": 143.5,
-   "title": "New College Grad - HBM Product Development Failure Analysis Engineer",
-   "uid": "workday:micron.wd1/External:New-College-Grad---HBM-Product-Development-Failure-Analysis-Engineer_JR110630"
-  },
-  {
-   "closed_at": 1788981683,
-   "company": "micron",
-   "hours_open": 146.1,
-   "title": "New College Grad - Yield Enhancement Electrical Failure Analysis Engineer",
-   "uid": "workday:micron.wd1/External:New-College-Grad---Yield-Enhancement-Electrical-Failure-Analysis-Engineer_JR109479"
-  },
-  {
-   "closed_at": 1788981683,
-   "company": "Amazon",
-   "hours_open": 0.6,
-   "title": "Software Development Engineer, FBA Supply Chain Intelligence, Inventory Authority Platform",
-   "uid": "amazon:amazon:10534684"
-  },
-  {
-   "closed_at": 1788981683,
-   "company": "micron",
-   "hours_open": 33.9,
-   "title": "Intern - Software Engineer",
-   "uid": "workday:micron.wd1/External:Intern---Software-Engineer_JR108550"
-  },
-  {
-   "closed_at": 1788981683,
-   "company": "ngc",
-   "hours_open": 29.5,
-   "title": "2027  Systems Engineer Intern - Colorado Springs CO",
-   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027--Systems-Engineer-Intern---Colorado-Springs-CO_R10249777"
-  },
-  {
-   "closed_at": 1788981683,
-   "company": "cscgeneration-2",
-   "hours_open": 126.0,
-   "title": "New Business Development Associate (B2B Sales)",
-   "uid": "lever:cscgeneration-2:e116f780-5d9a-457f-bb8e-336771a060a0"
-  },
-  {
-   "closed_at": 1788981683,
-   "company": "spacex",
-   "hours_open": 146.1,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1788984410,
-   "company": "twitch",
-   "hours_open": 147.2,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1788984410,
-   "company": "sunlife",
-   "hours_open": 27.0,
-   "title": "Student, Automation Specialist (Winter 2027)",
-   "uid": "workday:sunlife.wd3/Campus:Student--Automation-Specialist--Winter-2027-_JR00127231"
-  },
-  {
-   "closed_at": 1788984410,
-   "company": "philips",
-   "hours_open": 142.1,
-   "title": "Co-op – Software Engineer (R&D) – Cambridge, MA – January - August 2027",
-   "uid": "workday:philips.wd3/jobs-and-careers:Co-op---Software-Engineer--R-D----Cambridge--MA---January---August-2027_588891"
-  },
-  {
-   "closed_at": 1788984410,
-   "company": "salesforce",
-   "hours_open": 147.2,
-   "title": "Business Development Associate, Early Career",
-   "uid": "workday:salesforce.wd12/Futureforce_NewGradRoles:Business-Development-Associate_JR347430"
-  },
-  {
    "closed_at": 1788984410,
    "company": "DecisionPoint Corporation",
    "hours_open": 183.8,
@@ -5599,8 +5452,155 @@
    "hours_open": 282.5,
    "title": "Junior Systems Integration Engineer",
    "uid": "smartrecruiters:GDMSI:744000147008478"
+  },
+  {
+   "closed_at": 1789403830,
+   "company": "twitch",
+   "hours_open": 260.7,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1789403830,
+   "company": "doordashusa",
+   "hours_open": 262.0,
+   "title": "Software Engineer, Unified Gateway",
+   "uid": "greenhouse:doordashusa:8146670"
+  },
+  {
+   "closed_at": 1789403830,
+   "company": "CGI",
+   "hours_open": 143.5,
+   "title": "Conseiller en gouvernance de la cybersécurité",
+   "uid": "jobillico:analyste cybersecurite:17433756"
+  },
+  {
+   "closed_at": 1789403830,
+   "company": "Sia",
+   "hours_open": 94.2,
+   "title": "Junior engineer",
+   "uid": "smartrecruiters:Sia:744000148773985"
+  },
+  {
+   "closed_at": 1789403830,
+   "company": "YO AI Labs",
+   "hours_open": 17.9,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50279755"
+  },
+  {
+   "closed_at": 1789403830,
+   "company": "Town of Cochrane",
+   "hours_open": 143.5,
+   "title": "applications analyst - computer systems",
+   "uid": "jobbank:systems analyst:50169336"
+  },
+  {
+   "closed_at": 1789403830,
+   "company": "Thompson-Nicola Regional District",
+   "hours_open": 143.5,
+   "title": "geographic information systems (gis) analyst",
+   "uid": "jobbank:information systems analyst:50112346"
+  },
+  {
+   "closed_at": 1789403830,
+   "company": "cohere",
+   "hours_open": 263.7,
+   "title": "Data Annotation Specialist, Software Engineering",
+   "uid": "ashby:cohere:5d31ba60-683a-4d59-8059-3f728b772a9e"
+  },
+  {
+   "closed_at": 1789403830,
+   "company": "Sika AG",
+   "hours_open": 151.1,
+   "title": "Sales Engineer",
+   "uid": "smartrecruiters:SikaAG:744000148164949"
+  },
+  {
+   "closed_at": 1789403830,
+   "company": "Amazon",
+   "hours_open": 259.2,
+   "title": "Software Development Engineer , Adaptive Search Relevance",
+   "uid": "amazon:amazon:10529253"
+  },
+  {
+   "closed_at": 1789403830,
+   "company": "datadog",
+   "hours_open": 263.7,
+   "title": "Systems Engineer 2, Technical Solutions (US-East)",
+   "uid": "greenhouse:datadog:8092973"
+  },
+  {
+   "closed_at": 1789403830,
+   "company": "accenturefederalservices",
+   "hours_open": 263.7,
+   "title": "Mid-Level ServiceNow Developer",
+   "uid": "greenhouse:accenturefederalservices:4697592006"
+  },
+  {
+   "closed_at": 1789403830,
+   "company": "drweng",
+   "hours_open": 263.7,
+   "title": "AI Engineer",
+   "uid": "greenhouse:drweng:6586001"
+  },
+  {
+   "closed_at": 1789403830,
+   "company": "rocketlab",
+   "hours_open": 83.7,
+   "title": "Flight Software Engineer I",
+   "uid": "greenhouse:rocketlab:7985939003"
+  },
+  {
+   "closed_at": 1789403830,
+   "company": "muonspace",
+   "hours_open": 263.7,
+   "title": "Microwave Instrument Engineer",
+   "uid": "greenhouse:muonspace:5226165007"
+  },
+  {
+   "closed_at": 1789403830,
+   "company": "andurilindustries",
+   "hours_open": 143.5,
+   "title": "Production Support Specialist - AIRS",
+   "uid": "greenhouse:andurilindustries:5220325007"
+  },
+  {
+   "closed_at": 1789403830,
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
+   "hours_open": 143.5,
+   "title": "Administrateur Réseau TI",
+   "uid": "jobillico:analyste reseau:17386419"
+  },
+  {
+   "closed_at": 1789403830,
+   "company": "voyagertechnologiesinc",
+   "hours_open": 263.7,
+   "title": "Electrical Integration and Test Engineer",
+   "uid": "greenhouse:voyagertechnologiesinc:4330066009"
+  },
+  {
+   "closed_at": 1789403830,
+   "company": "spacex",
+   "hours_open": 263.7,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1789403830,
+   "company": "spacex",
+   "hours_open": 263.7,
+   "title": "Test Engineer, Oxygen",
+   "uid": "greenhouse:spacex:8628878002"
+  },
+  {
+   "closed_at": 1789403830,
+   "company": "freedomconsulting",
+   "hours_open": 143.5,
+   "title": "Network Engineer 719",
+   "uid": "greenhouse:freedomconsulting:5186880007"
   }
  ],
- "count": 812,
- "updated_at": 1789394798
+ "count": 821,
+ "updated_at": 1789403831
 }
