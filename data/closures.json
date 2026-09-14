@@ -2,20 +2,6 @@
  "closed": [
   {
    "closed_at": 1788970719,
-   "company": "Sia",
-   "hours_open": 15.5,
-   "title": "Junior Engineer",
-   "uid": "smartrecruiters:Sia:744000147951029"
-  },
-  {
-   "closed_at": 1788970719,
-   "company": "Amazon",
-   "hours_open": 180.0,
-   "title": "Software Development Engineer - Early Career",
-   "uid": "simplify:listings:00e9ac82-474b-46a0-bc46-aa9e240f3efd"
-  },
-  {
-   "closed_at": 1788970719,
    "company": "ecopiatech",
    "hours_open": 143.4,
    "title": "Frontend Engineer",
@@ -5599,8 +5585,22 @@
    "hours_open": 250.5,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1789369398,
+   "company": "usbank",
+   "hours_open": 9.2,
+   "title": ".NET Software Engineer 1",
+   "uid": "workday:usbank.wd1/US_Bank_Careers:XMLNAME-NET-Software-Engineer-1_2026-0026601-1"
+  },
+  {
+   "closed_at": 1789369398,
+   "company": "Study 2020 Consulting INC",
+   "hours_open": 133.9,
+   "title": "network security administrator",
+   "uid": "jobbank:network administrator:49613158"
   }
  ],
- "count": 800,
- "updated_at": 1789362914
+ "count": 802,
+ "updated_at": 1789369399
 }
