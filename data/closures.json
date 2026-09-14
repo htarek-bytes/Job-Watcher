@@ -1,27 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789037508,
-   "company": "spacex",
-   "hours_open": 160.2,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1789038976,
-   "company": "Groupe Mario Coté",
-   "hours_open": 17.4,
-   "title": "Administrateur de réseau",
-   "uid": "jobillico:analyste reseau:17511981"
-  },
-  {
-   "closed_at": 1789038976,
-   "company": "twitch",
-   "hours_open": 159.4,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
    "closed_at": 1789038976,
    "company": "spacex",
    "hours_open": 162.0,
@@ -5599,8 +5578,29 @@
    "hours_open": 270.4,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1789428456,
+   "company": "alta-ares",
+   "hours_open": 267.6,
+   "title": "Pyrotechnics Engineer H/F",
+   "uid": "ashby:alta-ares:0bc1e7e8-55a6-47db-88b7-b82ac1165698"
+  },
+  {
+   "closed_at": 1789428456,
+   "company": "CGI",
+   "hours_open": 150.3,
+   "title": "Conseiller en gouvernance de la cybersécurité",
+   "uid": "jobillico:analyste cybersecurite:17433756"
+  },
+  {
+   "closed_at": 1789428456,
+   "company": "allen-control-systems",
+   "hours_open": 267.6,
+   "title": "Embedded Software Engineer",
+   "uid": "ashby:allen-control-systems:ad9baaab-496a-44e1-a5b0-ab991ed32f5f"
   }
  ],
- "count": 804,
- "updated_at": 1789428177
+ "count": 803,
+ "updated_at": 1789428456
 }
