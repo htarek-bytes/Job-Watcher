@@ -1,48 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789086576,
-   "company": "spacex",
-   "hours_open": 175.5,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1789086576,
-   "company": "spacex",
-   "hours_open": 175.3,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1789086576,
-   "company": "Amazon",
-   "hours_open": 175.3,
-   "title": "Software Development Engineer , Inventory Accounting",
-   "uid": "amazon:amazon:10528850"
-  },
-  {
-   "closed_at": 1789087251,
-   "company": "Fortinet",
-   "hours_open": 212.4,
-   "title": "Junior Software Developer",
-   "uid": "simplify:listings:0129aefa-6830-42c7-97c4-bfaada409ad1"
-  },
-  {
-   "closed_at": 1789087251,
-   "company": "TP-Link Systems Inc.",
-   "hours_open": 42.0,
-   "title": "Big Data Engineer",
-   "uid": "workable:tp-link-usa-corp:E229A22BE6"
-  },
-  {
-   "closed_at": 1789088653,
-   "company": "Alithya Canada Inc.",
-   "hours_open": 11.2,
-   "title": "full stack Web developer",
-   "uid": "jobbank:junior programmer:50257748"
-  },
-  {
    "closed_at": 1789088653,
    "company": "Alithya Canada Inc.",
    "hours_open": 5.1,
@@ -5599,8 +5557,50 @@
    "hours_open": 290.1,
    "title": "Software Engineer",
    "uid": "greenhouse:voyagertechnologiesinc:4206839009"
+  },
+  {
+   "closed_at": 1789499226,
+   "company": "twitch",
+   "hours_open": 287.2,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1789499226,
+   "company": "Sutherland",
+   "hours_open": 26.5,
+   "title": "Facilities Engineer (Entry Level)",
+   "uid": "smartrecruiters:Sutherland:744000149241549"
+  },
+  {
+   "closed_at": 1789499226,
+   "company": "ServiceNow",
+   "hours_open": 139.8,
+   "title": "Advisory Solution Consultant, Integrated Risk Management",
+   "uid": "smartrecruiters:ServiceNow:744000148592761"
+  },
+  {
+   "closed_at": 1789499226,
+   "company": "Hardin Design ",
+   "hours_open": 311.5,
+   "title": "Web Developer - Entry Level",
+   "uid": "smartrecruiters:HardinDesign:744000145322155"
+  },
+  {
+   "closed_at": 1789499226,
+   "company": "Analog Devices",
+   "hours_open": 326.8,
+   "title": "Junior Layout Design Engineer - Trainee",
+   "uid": "simplify:listings:523819c3-69f8-43ab-9ed1-81e28aea88f6"
+  },
+  {
+   "closed_at": 1789499226,
+   "company": "spacex",
+   "hours_open": 288.5,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
- "count": 825,
- "updated_at": 1789498868
+ "count": 806,
+ "updated_at": 1789499227
 }
