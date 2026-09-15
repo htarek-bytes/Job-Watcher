@@ -1,76 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789070853,
-   "company": "globalhr",
-   "hours_open": 58.7,
-   "title": "Software Engineering Intern (Summer 2027)",
-   "uid": "workday:globalhr.wd5/rec_rtx_ext_gateway:Software-Engineering-Intern--Summer-2027-_01872100"
-  },
-  {
-   "closed_at": 1789073222,
-   "company": "twitch",
-   "hours_open": 171.8,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1789073222,
-   "company": "micron",
-   "hours_open": 47.2,
-   "title": "New College Grad - Device Process Integration Engineer - CMOS",
-   "uid": "workday:micron.wd1/External:New-College-Grad---Device-Process-Integration-Engineer---CMOS_JR109090"
-  },
-  {
-   "closed_at": 1789073222,
-   "company": "kbr",
-   "hours_open": 175.2,
-   "title": "Project Engineer I",
-   "uid": "workday:kbr.wd5/KBR_Careers:Project-Engineer-I_R2129322"
-  },
-  {
-   "closed_at": 1789073222,
-   "company": "Amazon",
-   "hours_open": 21.2,
-   "title": "Software Development Engineer - AWS OpenSearch, OpenSearch Dashboards",
-   "uid": "amazon:amazon:10535559"
-  },
-  {
-   "closed_at": 1789073222,
-   "company": "hp",
-   "hours_open": 25.9,
-   "title": "Pre Sales Technical Consultant",
-   "uid": "workday:hp.wd5/EXTEU-AC-CareerSite:Pre-Sales-Technical-Consultant_3166770-1"
-  },
-  {
-   "closed_at": 1789073222,
-   "company": "marvell",
-   "hours_open": 59.3,
-   "title": "AI Infrastructure Engineer Intern",
-   "uid": "workday:marvell.wd1/MarvellCareers:AI-Infrastructure-Engineer-Intern_2604499"
-  },
-  {
-   "closed_at": 1789073222,
-   "company": "discord",
-   "hours_open": 171.8,
-   "title": "Software Engineer, Data Platform",
-   "uid": "greenhouse:discord:8396927002"
-  },
-  {
-   "closed_at": 1789073222,
-   "company": "highmarkhealth",
-   "hours_open": 47.2,
-   "title": "Associate Technical Analyst",
-   "uid": "workday:highmarkhealth.wd1/highmark:Associate-Technical-Analyst_J282377"
-  },
-  {
-   "closed_at": 1789073222,
-   "company": "hpe",
-   "hours_open": 87.8,
-   "title": "Networking Presales Graduate - Belgium",
-   "uid": "workday:hpe.wd5/acjobsite:Networking-Presales-Graduate---Belgium_1210028"
-  },
-  {
    "closed_at": 1789073222,
    "company": "kbr",
    "hours_open": 193.2,
@@ -5599,8 +5529,78 @@
    "hours_open": 281.8,
    "title": "Systems Engineer - Global Resource Management (Data Residency)",
    "uid": "greenhouse:cloudflare:8015230"
+  },
+  {
+   "closed_at": 1789474099,
+   "company": "salesforce",
+   "hours_open": 13.5,
+   "title": "Account Solution Engineer, Higher Education",
+   "uid": "workday:salesforce.wd12/External_Career_Site:Account-Solution-Engineer--Higher-Education_JR359265"
+  },
+  {
+   "closed_at": 1789474099,
+   "company": "twitch",
+   "hours_open": 283.2,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1789474099,
+   "company": "Arora Enterprise Inc",
+   "hours_open": 88.3,
+   "title": "Web developer",
+   "uid": "jobbank:developpeur junior:50266457"
+  },
+  {
+   "closed_at": 1789474099,
+   "company": "Maarut",
+   "hours_open": 73.4,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50272938"
+  },
+  {
+   "closed_at": 1789474099,
+   "company": "td",
+   "hours_open": 117.5,
+   "title": "Associate Software Engineer",
+   "uid": "workday:td.wd3/TD_Bank_Careers:Associate-Software-Engineer_R_1486593"
+  },
+  {
+   "closed_at": 1789474099,
+   "company": "sunlife",
+   "hours_open": 267.0,
+   "title": "Student, Associate Software Engineer (Winter 2027)",
+   "uid": "workday:sunlife.wd3/Campus:Student--Associate-Software-Engineer--Winter-2027-_JR00127614"
+  },
+  {
+   "closed_at": 1789474099,
+   "company": "Zebra Technologies",
+   "hours_open": 109.0,
+   "title": "Software Engineer 1",
+   "uid": "simplify:listings:a8133104-5835-4e68-a140-f1f2092160e2"
+  },
+  {
+   "closed_at": 1789474099,
+   "company": "RTX",
+   "hours_open": 17.1,
+   "title": "Software Engineer 1",
+   "uid": "simplify:listings:21372e5e-070e-42a5-b386-7e517ee24992"
+  },
+  {
+   "closed_at": 1789474099,
+   "company": "spacex",
+   "hours_open": 282.9,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1789474099,
+   "company": "spacex",
+   "hours_open": 283.2,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 807,
- "updated_at": 1789468985
+ "count": 810,
+ "updated_at": 1789474100
 }
