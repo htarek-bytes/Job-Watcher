@@ -2,13 +2,6 @@
  "closed": [
   {
    "closed_at": 1789074223,
-   "company": "nvidia",
-   "hours_open": 193.4,
-   "title": "ASIC Design Engineer - New College Grad 2026",
-   "uid": "workday:nvidia.wd5/NVIDIAExternalCareerSite:ASIC-Design-Engineer---New-College-Grad-2026_JR2020309"
-  },
-  {
-   "closed_at": 1789074223,
    "company": "spacex",
    "hours_open": 172.1,
    "title": "Security Software Engineer (Starlink)",
@@ -5599,8 +5592,15 @@
    "hours_open": 2.5,
    "title": "software developer",
    "uid": "jobbank:junior software developer:50290477"
+  },
+  {
+   "closed_at": 1789485530,
+   "company": "T-Soft Consulting Inc",
+   "hours_open": 304.2,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50080344"
   }
  ],
- "count": 812,
- "updated_at": 1789485028
+ "count": 801,
+ "updated_at": 1789485530
 }
