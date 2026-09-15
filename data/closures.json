@@ -3,13 +3,6 @@
   {
    "closed_at": 1789065654,
    "company": "Amazon",
-   "hours_open": 49.5,
-   "title": "Software Development Engineer , Leo Commerce, Leo Commerce",
-   "uid": "amazon:amazon:10532089"
-  },
-  {
-   "closed_at": 1789065654,
-   "company": "Amazon",
    "hours_open": 169.7,
    "title": "Software Dev Engineer, Amazon Leo Customer Terminals",
    "uid": "amazon:amazon:10526922"
@@ -5599,8 +5592,15 @@
    "hours_open": 276.0,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1789455473,
+   "company": "avav",
+   "hours_open": 107.0,
+   "title": "Software Engineering Intern",
+   "uid": "workday:avav.wd1/avav:Software-Engineering-Intern_8593"
   }
  ],
- "count": 806,
- "updated_at": 1789454403
+ "count": 801,
+ "updated_at": 1789455473
 }
