@@ -1,104 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789038976,
-   "company": "spacex",
-   "hours_open": 162.0,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1789038976,
-   "company": "spacex",
-   "hours_open": 162.3,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1789041021,
-   "company": "gevernova",
-   "hours_open": 17.0,
-   "title": "GE Vernova - Energy Optimization Software Engineer Intern - Summer 2027",
-   "uid": "workday:gevernova.wd5/vernova_externalsite:GE-Vernova---Energy-Optimization-Software-Engineer-Intern---Summer-2027_R5050015-2"
-  },
-  {
-   "closed_at": 1789041021,
-   "company": "generalmotors",
-   "hours_open": 136.5,
-   "title": "Entry Level Software Design Release Engineer",
-   "uid": "workday:generalmotors.wd5/Careers_GM:Entry-Level-Software-Design-Release-Engineer_JR-202618509"
-  },
-  {
-   "closed_at": 1789041021,
-   "company": "globalhr",
-   "hours_open": 25.9,
-   "title": "Software Engineering Intern (Summer 2027)",
-   "uid": "workday:globalhr.wd5/Private_Posting_No_TMP:Software-Engineering-Intern--Summer-2027-_01870410"
-  },
-  {
-   "closed_at": 1789041021,
-   "company": "globalfoundries",
-   "hours_open": 39.5,
-   "title": "Systems Engineer (2027 New College Graduate)",
-   "uid": "workday:globalfoundries.wd1/External:Systems-Engineer--2027-New-College-Graduate-_JR-2604083"
-  },
-  {
-   "closed_at": 1789041021,
-   "company": "globalhr",
-   "hours_open": 158.5,
-   "title": "Production Test Engineer Intern (Summer 2027)",
-   "uid": "workday:globalhr.wd5/Private_Posting_No_TMP:Production-Test-Engineer-Intern--Summer-2027-_01870379"
-  },
-  {
-   "closed_at": 1789048465,
-   "company": "pae",
-   "hours_open": 17.8,
-   "title": "Software Programmer Intern",
-   "uid": "workday:pae.wd1/amentum_careers:Software-Programmer-Intern_R0169775"
-  },
-  {
-   "closed_at": 1789048465,
-   "company": "Idexia",
-   "hours_open": 18.6,
-   "title": "programmer analyst",
-   "uid": "jobbank:junior programmer:50252078"
-  },
-  {
-   "closed_at": 1789048465,
-   "company": "PolicyAdvisor Brokerage Inc.",
-   "hours_open": 40.4,
-   "title": "software developer",
-   "uid": "jobbank:developpeur junior:50244874"
-  },
-  {
-   "closed_at": 1789048465,
-   "company": "getwingapp",
-   "hours_open": 162.0,
-   "title": "API Integrations Engineer",
-   "uid": "lever:getwingapp:cafae3df-e73e-4ddf-924f-09aaf004b70f"
-  },
-  {
-   "closed_at": 1789048465,
-   "company": "getwingapp",
-   "hours_open": 162.0,
-   "title": "Integrations Engineer",
-   "uid": "lever:getwingapp:bff26e95-b335-41d0-a893-54f9d15ab289"
-  },
-  {
-   "closed_at": 1789048465,
-   "company": "getwingapp",
-   "hours_open": 162.0,
-   "title": "Backend Integrations Engineer",
-   "uid": "lever:getwingapp:52fbe91a-e527-48c2-9ba9-bda0917d7086"
-  },
-  {
-   "closed_at": 1789048465,
-   "company": "ALI TRAVEL",
-   "hours_open": 116.2,
-   "title": "Web developer",
-   "uid": "jobbank:junior programmer:50229353"
-  },
-  {
    "closed_at": 1789048465,
    "company": "G Square Builders Ltd.",
    "hours_open": 182.8,
@@ -135,9 +37,9 @@
   },
   {
    "closed_at": 1789048465,
-   "company": "General Dynamics Produits de d\u00e9fense et Syst\u00e8mes Tactiques",
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
    "hours_open": 44.8,
-   "title": "Administrateur R\u00e9seau TI",
+   "title": "Administrateur Réseau TI",
    "uid": "jobillico:analyste reseau:17386419"
   },
   {
@@ -247,9 +149,9 @@
   },
   {
    "closed_at": 1789054080,
-   "company": "Groupe Mario Cot\u00e9",
+   "company": "Groupe Mario Coté",
    "hours_open": 21.6,
-   "title": "Administrateur de r\u00e9seau",
+   "title": "Administrateur de réseau",
    "uid": "jobillico:analyste reseau:17511981"
   },
   {
@@ -284,7 +186,7 @@
    "closed_at": 1789061242,
    "company": "Logesco Informatique",
    "hours_open": 48.3,
-   "title": "Administrateur de r\u00e9seau",
+   "title": "Administrateur de réseau",
    "uid": "jobillico:analyste reseau:17188132"
   },
   {
@@ -333,7 +235,7 @@
    "closed_at": 1789062742,
    "company": "CGI",
    "hours_open": 48.7,
-   "title": "Conseiller en gouvernance de la cybers\u00e9curit\u00e9",
+   "title": "Conseiller en gouvernance de la cybersécurité",
    "uid": "jobillico:analyste cybersecurite:17433756"
   },
   {
@@ -410,7 +312,7 @@
    "closed_at": 1789064584,
    "company": "Sopra Steria",
    "hours_open": 49.0,
-   "title": "Ing\u00e9nieur/e validation junior Cybers\u00e9curit\u00e9 - D\u00e9fense & S\u00e9curit\u00e9 - Le Plessis Robinson",
+   "title": "Ingénieur/e validation junior Cybersécurité - Défense & Sécurité - Le Plessis Robinson",
    "uid": "smartrecruiters:SopraSteria1:744000147967341"
   },
   {
@@ -529,7 +431,7 @@
    "closed_at": 1789070335,
    "company": "bakerhughes",
    "hours_open": 176.4,
-   "title": "Intern \u2013 Reciprocating Compressor Engineer, Business Development \u2013 2026 (M/F/D)",
+   "title": "Intern – Reciprocating Compressor Engineer, Business Development – 2026 (M/F/D)",
    "uid": "workday:bakerhughes.wd5/BakerHughes:Intern---Reciprocating-Compressor-Engineer--Business-Development---Florence--Italy---2026--M-F-D-_R167053"
   },
   {
@@ -557,14 +459,14 @@
    "closed_at": 1789070335,
    "company": "caci",
    "hours_open": 25.3,
-   "title": "Software Engineering Intern \u2013 Summer 2027",
+   "title": "Software Engineering Intern – Summer 2027",
    "uid": "workday:caci.wd1/external:Software-Engineering-Intern---Summer-2027_331742"
   },
   {
    "closed_at": 1789070853,
    "company": "CGI",
    "hours_open": 51.0,
-   "title": "Conseiller en gouvernance de la cybers\u00e9curit\u00e9",
+   "title": "Conseiller en gouvernance de la cybersécurité",
    "uid": "jobillico:analyste cybersecurite:17433756"
   },
   {
@@ -683,7 +585,7 @@
    "closed_at": 1789074223,
    "company": "CGI",
    "hours_open": 51.9,
-   "title": "Conseiller en gouvernance de la cybers\u00e9curit\u00e9",
+   "title": "Conseiller en gouvernance de la cybersécurité",
    "uid": "jobillico:analyste cybersecurite:17433756"
   },
   {
@@ -914,7 +816,7 @@
    "closed_at": 1789080617,
    "company": "nexthopai",
    "hours_open": 53.1,
-   "title": "Associate Customer Engineer \u2013 Network",
+   "title": "Associate Customer Engineer – Network",
    "uid": "bamboohr:nexthopai:90"
   },
   {
@@ -989,9 +891,9 @@
   },
   {
    "closed_at": 1789086102,
-   "company": "General Dynamics Produits de d\u00e9fense et Syst\u00e8mes Tactiques",
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
    "hours_open": 55.2,
-   "title": "Administrateur R\u00e9seau TI",
+   "title": "Administrateur Réseau TI",
    "uid": "jobillico:analyste reseau:17386419"
   },
   {
@@ -1159,21 +1061,21 @@
    "closed_at": 1789102462,
    "company": "CGI",
    "hours_open": 59.8,
-   "title": "Analyste en op\u00e9rations de cybers\u00e9curit\u00e9",
+   "title": "Analyste en opérations de cybersécurité",
    "uid": "jobillico:analyste cybersecurite:17433747"
   },
   {
    "closed_at": 1789102462,
    "company": "CGI",
    "hours_open": 59.8,
-   "title": "Conseiller en audit de cybers\u00e9curit\u00e9",
+   "title": "Conseiller en audit de cybersécurité",
    "uid": "jobillico:analyste cybersecurite:17433750"
   },
   {
    "closed_at": 1789102462,
    "company": "CGI",
    "hours_open": 59.8,
-   "title": "Conseiller en architecture de cybers\u00e9curit\u00e9",
+   "title": "Conseiller en architecture de cybersécurité",
    "uid": "jobillico:analyste cybersecurite:17433753"
   },
   {
@@ -1201,7 +1103,7 @@
    "closed_at": 1789102951,
    "company": "philips",
    "hours_open": 175.0,
-   "title": "Co-op \u2013 Software Test Automation Engineer \u2013 Orange, OH \u2013 January 2027",
+   "title": "Co-op – Software Test Automation Engineer – Orange, OH – January 2027",
    "uid": "workday:philips.wd3/jobs-and-careers:Co-op---Software-Test-Automation-Engineer---Orange--OH---January-2027_581888"
   },
   {
@@ -1264,7 +1166,7 @@
    "closed_at": 1789106107,
    "company": "voyagertechnologiesinc",
    "hours_open": 181.0,
-   "title": "Electrical Hardware Engineer \u2013 Avionics",
+   "title": "Electrical Hardware Engineer – Avionics",
    "uid": "greenhouse:voyagertechnologiesinc:4362601009"
   },
   {
@@ -1439,7 +1341,7 @@
    "closed_at": 1789134442,
    "company": "abb",
    "hours_open": 106.7,
-   "title": "Sales Engineer \u2013 Service Division",
+   "title": "Sales Engineer – Service Division",
    "uid": "workday:abb.wd3/external_career_page:Service-Sales-specialist_JR00003209"
   },
   {
@@ -1509,7 +1411,7 @@
    "closed_at": 1789137582,
    "company": "abb",
    "hours_open": 107.6,
-   "title": "Sales Engineer \u2013 Service Division",
+   "title": "Sales Engineer – Service Division",
    "uid": "workday:abb.wd3/external_career_page:Service-Sales-specialist_JR00003209"
   },
   {
@@ -1530,7 +1432,7 @@
    "closed_at": 1789137582,
    "company": "Alcoa Canada",
    "hours_open": 69.5,
-   "title": "Conseiller(\u00e8re) en cybers\u00e9curit\u00e9 (Am\u00e9rique du Nord)",
+   "title": "Conseiller(ère) en cybersécurité (Amérique du Nord)",
    "uid": "jobillico:analyste cybersecurite:17502948"
   },
   {
@@ -1696,9 +1598,9 @@
   },
   {
    "closed_at": 1789147006,
-   "company": "Groupe Mario Cot\u00e9",
+   "company": "Groupe Mario Coté",
    "hours_open": 47.4,
-   "title": "Administrateur de r\u00e9seau",
+   "title": "Administrateur de réseau",
    "uid": "jobillico:analyste reseau:17511981"
   },
   {
@@ -1733,7 +1635,7 @@
    "closed_at": 1789147006,
    "company": "Logesco Informatique",
    "hours_open": 72.1,
-   "title": "Administrateur de r\u00e9seau",
+   "title": "Administrateur de réseau",
    "uid": "jobillico:analyste reseau:17188132"
   },
   {
@@ -1878,9 +1780,9 @@
   },
   {
    "closed_at": 1789151465,
-   "company": "Groupe Mario Cot\u00e9",
+   "company": "Groupe Mario Coté",
    "hours_open": 1.2,
-   "title": "Administrateur de r\u00e9seau",
+   "title": "Administrateur de réseau",
    "uid": "jobillico:analyste reseau:17520153"
   },
   {
@@ -1976,9 +1878,9 @@
   },
   {
    "closed_at": 1789156237,
-   "company": "General Dynamics Produits de d\u00e9fense et Syst\u00e8mes Tactiques",
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
    "hours_open": 74.7,
-   "title": "Administrateur R\u00e9seau TI",
+   "title": "Administrateur Réseau TI",
    "uid": "jobillico:analyste reseau:17386419"
   },
   {
@@ -2081,9 +1983,9 @@
   },
   {
    "closed_at": 1789156366,
-   "company": "General Dynamics Produits de d\u00e9fense et Syst\u00e8mes Tactiques",
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
    "hours_open": 74.7,
-   "title": "Administrateur R\u00e9seau TI",
+   "title": "Administrateur Réseau TI",
    "uid": "jobillico:analyste reseau:17386419"
   },
   {
@@ -2153,7 +2055,7 @@
    "closed_at": 1789157175,
    "company": "General Dynamics Missions System International",
    "hours_open": 45.1,
-   "title": "Co-op Winter 2027 \u2013 System of Systems Integration, Verification and Validation \u2013 4-8 months",
+   "title": "Co-op Winter 2027 – System of Systems Integration, Verification and Validation – 4-8 months",
    "uid": "smartrecruiters:GDMSI:744000148569449"
   },
   {
@@ -2195,7 +2097,7 @@
    "closed_at": 1789159269,
    "company": "Renesas Electronics",
    "hours_open": 52.4,
-   "title": "Design Verification Engineer\uff08SoC\u6a5f\u80fd\u691c\u8a3c\u30a8\u30f3\u30b8\u30cb\u30a2\uff09(1)",
+   "title": "Design Verification Engineer（SoC機能検証エンジニア）(1)",
    "uid": "smartrecruiters:RenesasElectronics:744000148440069"
   },
   {
@@ -2244,7 +2146,7 @@
    "closed_at": 1789161300,
    "company": "Logesco Informatique",
    "hours_open": 76.1,
-   "title": "Administrateur de r\u00e9seau",
+   "title": "Administrateur de réseau",
    "uid": "jobillico:analyste reseau:17188132"
   },
   {
@@ -2258,7 +2160,7 @@
    "closed_at": 1789161300,
    "company": "accenturefederalservices",
    "hours_open": 1.1,
-   "title": "Associate Software Engineer \u2013 Hire-to-Train Program (Pega)",
+   "title": "Associate Software Engineer – Hire-to-Train Program (Pega)",
    "uid": "greenhouse:accenturefederalservices:4710652006"
   },
   {
@@ -2277,9 +2179,9 @@
   },
   {
    "closed_at": 1789164172,
-   "company": "Groupe Mario Cot\u00e9",
+   "company": "Groupe Mario Coté",
    "hours_open": 4.8,
-   "title": "Administrateur de r\u00e9seau",
+   "title": "Administrateur de réseau",
    "uid": "jobillico:analyste reseau:17520153"
   },
   {
@@ -2354,9 +2256,9 @@
   },
   {
    "closed_at": 1789164282,
-   "company": "General Dynamics Produits de d\u00e9fense et Syst\u00e8mes Tactiques",
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
    "hours_open": 76.9,
-   "title": "Administrateur R\u00e9seau TI",
+   "title": "Administrateur Réseau TI",
    "uid": "jobillico:analyste reseau:17386419"
   },
   {
@@ -2382,9 +2284,9 @@
   },
   {
    "closed_at": 1789166059,
-   "company": "General Dynamics Produits de d\u00e9fense et Syst\u00e8mes Tactiques",
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
    "hours_open": 77.4,
-   "title": "Administrateur R\u00e9seau TI",
+   "title": "Administrateur Réseau TI",
    "uid": "jobillico:analyste reseau:17386419"
   },
   {
@@ -2515,9 +2417,9 @@
   },
   {
    "closed_at": 1789171739,
-   "company": "Groupe Mario Cot\u00e9",
+   "company": "Groupe Mario Coté",
    "hours_open": 6.9,
-   "title": "Administrateur de r\u00e9seau",
+   "title": "Administrateur de réseau",
    "uid": "jobillico:analyste reseau:17520153"
   },
   {
@@ -2585,9 +2487,9 @@
   },
   {
    "closed_at": 1789173477,
-   "company": "General Dynamics Produits de d\u00e9fense et Syst\u00e8mes Tactiques",
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
    "hours_open": 79.5,
-   "title": "Administrateur R\u00e9seau TI",
+   "title": "Administrateur Réseau TI",
    "uid": "jobillico:analyste reseau:17386419"
   },
   {
@@ -2641,16 +2543,16 @@
   },
   {
    "closed_at": 1789176068,
-   "company": "Groupe Mario Cot\u00e9",
+   "company": "Groupe Mario Coté",
    "hours_open": 8.1,
-   "title": "Administrateur de r\u00e9seau",
+   "title": "Administrateur de réseau",
    "uid": "jobillico:analyste reseau:17520153"
   },
   {
    "closed_at": 1789176068,
    "company": "Logesco Informatique",
    "hours_open": 80.2,
-   "title": "Administrateur de r\u00e9seau",
+   "title": "Administrateur de réseau",
    "uid": "jobillico:analyste reseau:17188132"
   },
   {
@@ -2718,9 +2620,9 @@
   },
   {
    "closed_at": 1789187378,
-   "company": "General Dynamics Produits de d\u00e9fense et Syst\u00e8mes Tactiques",
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
    "hours_open": 83.3,
-   "title": "Administrateur R\u00e9seau TI",
+   "title": "Administrateur Réseau TI",
    "uid": "jobillico:analyste reseau:17386419"
   },
   {
@@ -2746,9 +2648,9 @@
   },
   {
    "closed_at": 1789187936,
-   "company": "Groupe Mario Cot\u00e9",
+   "company": "Groupe Mario Coté",
    "hours_open": 11.4,
-   "title": "Administrateur de r\u00e9seau",
+   "title": "Administrateur de réseau",
    "uid": "jobillico:analyste reseau:17520153"
   },
   {
@@ -2769,14 +2671,14 @@
    "closed_at": 1789189561,
    "company": "Logesco Informatique",
    "hours_open": 84.0,
-   "title": "Administrateur de r\u00e9seau",
+   "title": "Administrateur de réseau",
    "uid": "jobillico:analyste reseau:17188132"
   },
   {
    "closed_at": 1789189561,
-   "company": "General Dynamics Produits de d\u00e9fense et Syst\u00e8mes Tactiques",
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
    "hours_open": 84.0,
-   "title": "Administrateur R\u00e9seau TI",
+   "title": "Administrateur Réseau TI",
    "uid": "jobillico:analyste reseau:17386419"
   },
   {
@@ -2795,9 +2697,9 @@
   },
   {
    "closed_at": 1789192988,
-   "company": "Groupe Mario Cot\u00e9",
+   "company": "Groupe Mario Coté",
    "hours_open": 12.8,
-   "title": "Administrateur de r\u00e9seau",
+   "title": "Administrateur de réseau",
    "uid": "jobillico:analyste reseau:17520153"
   },
   {
@@ -2811,21 +2713,21 @@
    "closed_at": 1789202835,
    "company": "Logesco Informatique",
    "hours_open": 87.6,
-   "title": "Administrateur de r\u00e9seau",
+   "title": "Administrateur de réseau",
    "uid": "jobillico:analyste reseau:17188132"
   },
   {
    "closed_at": 1789202835,
    "company": "caci",
    "hours_open": 62.1,
-   "title": "Software Engineering Intern \u2013 Summer 2027",
+   "title": "Software Engineering Intern – Summer 2027",
    "uid": "workday:caci.wd1/external:Software-Engineering-Intern---Summer-2027_331742"
   },
   {
    "closed_at": 1789202835,
-   "company": "General Dynamics Produits de d\u00e9fense et Syst\u00e8mes Tactiques",
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
    "hours_open": 87.6,
-   "title": "Administrateur R\u00e9seau TI",
+   "title": "Administrateur Réseau TI",
    "uid": "jobillico:analyste reseau:17386419"
   },
   {
@@ -2881,7 +2783,7 @@
    "closed_at": 1789204737,
    "company": "mastercard",
    "hours_open": 211.7,
-   "title": "Software Engineer Intern, Summer 2027 \u2013 United States",
+   "title": "Software Engineer Intern, Summer 2027 – United States",
    "uid": "workday:mastercard.wd1/Campus:Software-Engineer-Intern--Summer-2027---United-States_R-287618-1"
   },
   {
@@ -2893,9 +2795,9 @@
   },
   {
    "closed_at": 1789205072,
-   "company": "Groupe Mario Cot\u00e9",
+   "company": "Groupe Mario Coté",
    "hours_open": 16.1,
-   "title": "Administrateur de r\u00e9seau",
+   "title": "Administrateur de réseau",
    "uid": "jobillico:analyste reseau:17520153"
   },
   {
@@ -2942,9 +2844,9 @@
   },
   {
    "closed_at": 1789209684,
-   "company": "General Dynamics Produits de d\u00e9fense et Syst\u00e8mes Tactiques",
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
    "hours_open": 89.5,
-   "title": "Administrateur R\u00e9seau TI",
+   "title": "Administrateur Réseau TI",
    "uid": "jobillico:analyste reseau:17386419"
   },
   {
@@ -2958,7 +2860,7 @@
    "closed_at": 1789215896,
    "company": "Logesco Informatique",
    "hours_open": 91.3,
-   "title": "Administrateur de r\u00e9seau",
+   "title": "Administrateur de réseau",
    "uid": "jobillico:analyste reseau:17188132"
   },
   {
@@ -3005,9 +2907,9 @@
   },
   {
    "closed_at": 1789217882,
-   "company": "Groupe Mario Cot\u00e9",
+   "company": "Groupe Mario Coté",
    "hours_open": 19.7,
-   "title": "Administrateur de r\u00e9seau",
+   "title": "Administrateur de réseau",
    "uid": "jobillico:analyste reseau:17520153"
   },
   {
@@ -3028,7 +2930,7 @@
    "closed_at": 1789218045,
    "company": "Logesco Informatique",
    "hours_open": 91.9,
-   "title": "Administrateur de r\u00e9seau",
+   "title": "Administrateur de réseau",
    "uid": "jobillico:analyste reseau:17188132"
   },
   {
@@ -3040,9 +2942,9 @@
   },
   {
    "closed_at": 1789218045,
-   "company": "General Dynamics Produits de d\u00e9fense et Syst\u00e8mes Tactiques",
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
    "hours_open": 91.9,
-   "title": "Administrateur R\u00e9seau TI",
+   "title": "Administrateur Réseau TI",
    "uid": "jobillico:analyste reseau:17386419"
   },
   {
@@ -3082,9 +2984,9 @@
   },
   {
    "closed_at": 1789228004,
-   "company": "Groupe Mario Cot\u00e9",
+   "company": "Groupe Mario Coté",
    "hours_open": 22.5,
-   "title": "Administrateur de r\u00e9seau",
+   "title": "Administrateur de réseau",
    "uid": "jobillico:analyste reseau:17520153"
   },
   {
@@ -3133,7 +3035,7 @@
    "closed_at": 1789230897,
    "company": "Logesco Informatique",
    "hours_open": 95.4,
-   "title": "Administrateur de r\u00e9seau",
+   "title": "Administrateur de réseau",
    "uid": "jobillico:analyste reseau:17188132"
   },
   {
@@ -3145,9 +3047,9 @@
   },
   {
    "closed_at": 1789230897,
-   "company": "General Dynamics Produits de d\u00e9fense et Syst\u00e8mes Tactiques",
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
    "hours_open": 95.4,
-   "title": "Administrateur R\u00e9seau TI",
+   "title": "Administrateur Réseau TI",
    "uid": "jobillico:analyste reseau:17386419"
   },
   {
@@ -3166,9 +3068,9 @@
   },
   {
    "closed_at": 1789235458,
-   "company": "Groupe Mario Cot\u00e9",
+   "company": "Groupe Mario Coté",
    "hours_open": 24.6,
-   "title": "Administrateur de r\u00e9seau",
+   "title": "Administrateur de réseau",
    "uid": "jobillico:analyste reseau:17520153"
   },
   {
@@ -3301,7 +3203,7 @@
    "closed_at": 1789238759,
    "company": "Logesco Informatique",
    "hours_open": 97.6,
-   "title": "Administrateur de r\u00e9seau",
+   "title": "Administrateur de réseau",
    "uid": "jobillico:analyste reseau:17188132"
   },
   {
@@ -3313,9 +3215,9 @@
   },
   {
    "closed_at": 1789238759,
-   "company": "General Dynamics Produits de d\u00e9fense et Syst\u00e8mes Tactiques",
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
    "hours_open": 97.6,
-   "title": "Administrateur R\u00e9seau TI",
+   "title": "Administrateur Réseau TI",
    "uid": "jobillico:analyste reseau:17386419"
   },
   {
@@ -3341,9 +3243,9 @@
   },
   {
    "closed_at": 1789243281,
-   "company": "Groupe Mario Cot\u00e9",
+   "company": "Groupe Mario Coté",
    "hours_open": 26.7,
-   "title": "Administrateur de r\u00e9seau",
+   "title": "Administrateur de réseau",
    "uid": "jobillico:analyste reseau:17520153"
   },
   {
@@ -3364,7 +3266,7 @@
    "closed_at": 1789246462,
    "company": "Logesco Informatique",
    "hours_open": 99.8,
-   "title": "Administrateur de r\u00e9seau",
+   "title": "Administrateur de réseau",
    "uid": "jobillico:analyste reseau:17188132"
   },
   {
@@ -3376,9 +3278,9 @@
   },
   {
    "closed_at": 1789246462,
-   "company": "General Dynamics Produits de d\u00e9fense et Syst\u00e8mes Tactiques",
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
    "hours_open": 99.8,
-   "title": "Administrateur R\u00e9seau TI",
+   "title": "Administrateur Réseau TI",
    "uid": "jobillico:analyste reseau:17386419"
   },
   {
@@ -3390,9 +3292,9 @@
   },
   {
    "closed_at": 1789246981,
-   "company": "Groupe Mario Cot\u00e9",
+   "company": "Groupe Mario Coté",
    "hours_open": 27.8,
-   "title": "Administrateur de r\u00e9seau",
+   "title": "Administrateur de réseau",
    "uid": "jobillico:analyste reseau:17520153"
   },
   {
@@ -3413,7 +3315,7 @@
    "closed_at": 1789249248,
    "company": "Logesco Informatique",
    "hours_open": 100.5,
-   "title": "Administrateur de r\u00e9seau",
+   "title": "Administrateur de réseau",
    "uid": "jobillico:analyste reseau:17188132"
   },
   {
@@ -3425,9 +3327,9 @@
   },
   {
    "closed_at": 1789249248,
-   "company": "General Dynamics Produits de d\u00e9fense et Syst\u00e8mes Tactiques",
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
    "hours_open": 100.5,
-   "title": "Administrateur R\u00e9seau TI",
+   "title": "Administrateur Réseau TI",
    "uid": "jobillico:analyste reseau:17386419"
   },
   {
@@ -3439,9 +3341,9 @@
   },
   {
    "closed_at": 1789251142,
-   "company": "Groupe Mario Cot\u00e9",
+   "company": "Groupe Mario Coté",
    "hours_open": 28.9,
-   "title": "Administrateur de r\u00e9seau",
+   "title": "Administrateur de réseau",
    "uid": "jobillico:analyste reseau:17520153"
   },
   {
@@ -3462,21 +3364,21 @@
    "closed_at": 1789254121,
    "company": "Logesco Informatique",
    "hours_open": 101.9,
-   "title": "Administrateur de r\u00e9seau",
+   "title": "Administrateur de réseau",
    "uid": "jobillico:analyste reseau:17188132"
   },
   {
    "closed_at": 1789254121,
-   "company": "General Dynamics Produits de d\u00e9fense et Syst\u00e8mes Tactiques",
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
    "hours_open": 101.9,
-   "title": "Administrateur R\u00e9seau TI",
+   "title": "Administrateur Réseau TI",
    "uid": "jobillico:analyste reseau:17386419"
   },
   {
    "closed_at": 1789257704,
-   "company": "Groupe Mario Cot\u00e9",
+   "company": "Groupe Mario Coté",
    "hours_open": 30.7,
-   "title": "Administrateur de r\u00e9seau",
+   "title": "Administrateur de réseau",
    "uid": "jobillico:analyste reseau:17520153"
   },
   {
@@ -3518,7 +3420,7 @@
    "closed_at": 1789259744,
    "company": "Logesco Informatique",
    "hours_open": 103.4,
-   "title": "Administrateur de r\u00e9seau",
+   "title": "Administrateur de réseau",
    "uid": "jobillico:analyste reseau:17188132"
   },
   {
@@ -3551,9 +3453,9 @@
   },
   {
    "closed_at": 1789259744,
-   "company": "General Dynamics Produits de d\u00e9fense et Syst\u00e8mes Tactiques",
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
    "hours_open": 103.4,
-   "title": "Administrateur R\u00e9seau TI",
+   "title": "Administrateur Réseau TI",
    "uid": "jobillico:analyste reseau:17386419"
   },
   {
@@ -3565,9 +3467,9 @@
   },
   {
    "closed_at": 1789260948,
-   "company": "Groupe Mario Cot\u00e9",
+   "company": "Groupe Mario Coté",
    "hours_open": 31.7,
-   "title": "Administrateur de r\u00e9seau",
+   "title": "Administrateur de réseau",
    "uid": "jobillico:analyste reseau:17520153"
   },
   {
@@ -3588,14 +3490,14 @@
    "closed_at": 1789261915,
    "company": "Logesco Informatique",
    "hours_open": 104.0,
-   "title": "Administrateur de r\u00e9seau",
+   "title": "Administrateur de réseau",
    "uid": "jobillico:analyste reseau:17188132"
   },
   {
    "closed_at": 1789261915,
-   "company": "General Dynamics Produits de d\u00e9fense et Syst\u00e8mes Tactiques",
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
    "hours_open": 104.0,
-   "title": "Administrateur R\u00e9seau TI",
+   "title": "Administrateur Réseau TI",
    "uid": "jobillico:analyste reseau:17386419"
   },
   {
@@ -3644,14 +3546,14 @@
    "closed_at": 1789274442,
    "company": "EXFO inc",
    "hours_open": 107.5,
-   "title": "D\u00e9veloppeur logiciel embarqu\u00e9 \u2013 T\u00e9l\u00e9communications",
+   "title": "Développeur logiciel embarqué – Télécommunications",
    "uid": "jobillico:developpeur logiciel:17359277"
   },
   {
    "closed_at": 1789274442,
-   "company": "Regroupement Loisir et Sport du Qu\u00e9bec",
+   "company": "Regroupement Loisir et Sport du Québec",
    "hours_open": 107.5,
-   "title": "Technicien r\u00e9seau",
+   "title": "Technicien réseau",
    "uid": "jobillico:analyste reseau:17441913"
   },
   {
@@ -3712,9 +3614,9 @@
   },
   {
    "closed_at": 1789279707,
-   "company": "General Dynamics Produits de d\u00e9fense et Syst\u00e8mes Tactiques",
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
    "hours_open": 109.0,
-   "title": "Administrateur R\u00e9seau TI",
+   "title": "Administrateur Réseau TI",
    "uid": "jobillico:analyste reseau:17386419"
   },
   {
@@ -3950,16 +3852,16 @@
   },
   {
    "closed_at": 1789329199,
-   "company": "General Dynamics Produits de d\u00e9fense et Syst\u00e8mes Tactiques",
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
    "hours_open": 122.7,
-   "title": "Administrateur R\u00e9seau TI",
+   "title": "Administrateur Réseau TI",
    "uid": "jobillico:analyste reseau:17386419"
   },
   {
    "closed_at": 1789329280,
-   "company": "General Dynamics Produits de d\u00e9fense et Syst\u00e8mes Tactiques",
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
    "hours_open": 122.8,
-   "title": "Administrateur R\u00e9seau TI",
+   "title": "Administrateur Réseau TI",
    "uid": "jobillico:analyste reseau:17386419"
   },
   {
@@ -3999,9 +3901,9 @@
   },
   {
    "closed_at": 1789335632,
-   "company": "General Dynamics Produits de d\u00e9fense et Syst\u00e8mes Tactiques",
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
    "hours_open": 124.5,
-   "title": "Administrateur R\u00e9seau TI",
+   "title": "Administrateur Réseau TI",
    "uid": "jobillico:analyste reseau:17386419"
   },
   {
@@ -4041,9 +3943,9 @@
   },
   {
    "closed_at": 1789337489,
-   "company": "General Dynamics Produits de d\u00e9fense et Syst\u00e8mes Tactiques",
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
    "hours_open": 125.0,
-   "title": "Administrateur R\u00e9seau TI",
+   "title": "Administrateur Réseau TI",
    "uid": "jobillico:analyste reseau:17386419"
   },
   {
@@ -4132,9 +4034,9 @@
   },
   {
    "closed_at": 1789344910,
-   "company": "General Dynamics Produits de d\u00e9fense et Syst\u00e8mes Tactiques",
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
    "hours_open": 127.1,
-   "title": "Administrateur R\u00e9seau TI",
+   "title": "Administrateur Réseau TI",
    "uid": "jobillico:analyste reseau:17386419"
   },
   {
@@ -4267,7 +4169,7 @@
    "closed_at": 1789362475,
    "company": "ngc",
    "hours_open": 80.1,
-   "title": "2027 Spring Co-op Cyber Software Engineer\u00a0Intern - Cincinnati OH",
+   "title": "2027 Spring Co-op Cyber Software Engineer Intern - Cincinnati OH",
    "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Spring-Co-op-Cyber-Software-Engineer-Intern---Cincinnati-OH_R10250275-1"
   },
   {
@@ -4279,9 +4181,9 @@
   },
   {
    "closed_at": 1789362475,
-   "company": "General Dynamics Produits de d\u00e9fense et Syst\u00e8mes Tactiques",
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
    "hours_open": 132.0,
-   "title": "Administrateur R\u00e9seau TI",
+   "title": "Administrateur Réseau TI",
    "uid": "jobillico:analyste reseau:17386419"
   },
   {
@@ -4370,9 +4272,9 @@
   },
   {
    "closed_at": 1789382354,
-   "company": "General Dynamics Produits de d\u00e9fense et Syst\u00e8mes Tactiques",
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
    "hours_open": 137.5,
-   "title": "Administrateur R\u00e9seau TI",
+   "title": "Administrateur Réseau TI",
    "uid": "jobillico:analyste reseau:17386419"
   },
   {
@@ -4433,7 +4335,7 @@
   },
   {
    "closed_at": 1789394228,
-   "company": "\u00c9cole nationale d'administration publique (ENAP)",
+   "company": "École nationale d'administration publique (ENAP)",
    "hours_open": 278.9,
    "title": "computer programmer",
    "uid": "jobbank:junior programmer:50126979"
@@ -4475,9 +4377,9 @@
   },
   {
    "closed_at": 1789394228,
-   "company": "General Dynamics Produits de d\u00e9fense et Syst\u00e8mes Tactiques",
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
    "hours_open": 140.8,
-   "title": "Administrateur R\u00e9seau TI",
+   "title": "Administrateur Réseau TI",
    "uid": "jobillico:analyste reseau:17386419"
   },
   {
@@ -4512,14 +4414,14 @@
    "closed_at": 1789394797,
    "company": "Logesco Informatique",
    "hours_open": 141.0,
-   "title": "Administrateur de r\u00e9seau",
+   "title": "Administrateur de réseau",
    "uid": "jobillico:analyste reseau:17188132"
   },
   {
    "closed_at": 1789394797,
    "company": "Bosch Group",
    "hours_open": 66.0,
-   "title": "Technical Sales Support f\u00fcr H\u00e4gglunds (w/m/div.)",
+   "title": "Technical Sales Support für Hägglunds (w/m/div.)",
    "uid": "smartrecruiters:BoschGroup:744000149003159"
   },
   {
@@ -4575,7 +4477,7 @@
    "closed_at": 1789394797,
    "company": "General Dynamics Missions System International",
    "hours_open": 236.9,
-   "title": "Co-op Winter 2027 \u2013 Project Engineer - 8 to 12 months",
+   "title": "Co-op Winter 2027 – Project Engineer - 8 to 12 months",
    "uid": "smartrecruiters:GDMSI:744000147568809"
   },
   {
@@ -4596,7 +4498,7 @@
    "closed_at": 1789403727,
    "company": "CGI",
    "hours_open": 143.4,
-   "title": "Conseiller en gouvernance de la cybers\u00e9curit\u00e9",
+   "title": "Conseiller en gouvernance de la cybersécurité",
    "uid": "jobillico:analyste cybersecurite:17433756"
   },
   {
@@ -4743,7 +4645,7 @@
    "closed_at": 1789403830,
    "company": "CGI",
    "hours_open": 143.5,
-   "title": "Conseiller en gouvernance de la cybers\u00e9curit\u00e9",
+   "title": "Conseiller en gouvernance de la cybersécurité",
    "uid": "jobillico:analyste cybersecurite:17433756"
   },
   {
@@ -4839,9 +4741,9 @@
   },
   {
    "closed_at": 1789403830,
-   "company": "General Dynamics Produits de d\u00e9fense et Syst\u00e8mes Tactiques",
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
    "hours_open": 143.5,
-   "title": "Administrateur R\u00e9seau TI",
+   "title": "Administrateur Réseau TI",
    "uid": "jobillico:analyste reseau:17386419"
   },
   {
@@ -4911,7 +4813,7 @@
    "closed_at": 1789412713,
    "company": "torcrobotics",
    "hours_open": 259.1,
-   "title": "Systems Engineer (Functional Safety) \u2013 Compute Platform Systems",
+   "title": "Systems Engineer (Functional Safety) – Compute Platform Systems",
    "uid": "greenhouse:torcrobotics:8620701002"
   },
   {
@@ -5042,9 +4944,9 @@
   },
   {
    "closed_at": 1789413651,
-   "company": "General Dynamics Produits de d\u00e9fense et Syst\u00e8mes Tactiques",
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
    "hours_open": 146.2,
-   "title": "Administrateur R\u00e9seau TI",
+   "title": "Administrateur Réseau TI",
    "uid": "jobillico:analyste reseau:17386419"
   },
   {
@@ -5350,9 +5252,9 @@
   },
   {
    "closed_at": 1789424861,
-   "company": "Groupe Mario Cot\u00e9",
+   "company": "Groupe Mario Coté",
    "hours_open": 77.2,
-   "title": "Administrateur de r\u00e9seau",
+   "title": "Administrateur de réseau",
    "uid": "jobillico:analyste reseau:17520153"
   },
   {
@@ -5506,7 +5408,7 @@
    "closed_at": 1789425451,
    "company": "CGI",
    "hours_open": 149.5,
-   "title": "Conseiller en gouvernance de la cybers\u00e9curit\u00e9",
+   "title": "Conseiller en gouvernance de la cybersécurité",
    "uid": "jobillico:analyste cybersecurite:17433756"
   },
   {
@@ -5590,7 +5492,7 @@
    "closed_at": 1789428456,
    "company": "CGI",
    "hours_open": 150.3,
-   "title": "Conseiller en gouvernance de la cybers\u00e9curit\u00e9",
+   "title": "Conseiller en gouvernance de la cybersécurité",
    "uid": "jobillico:analyste cybersecurite:17433756"
   },
   {
@@ -5634,6 +5536,71 @@
    "hours_open": 268.8,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1789433490,
+   "company": "alphafmcroles",
+   "hours_open": 8.3,
+   "title": "Solutions Consultant - Data Management",
+   "uid": "greenhouse:alphafmcroles:8790534002"
+  },
+  {
+   "closed_at": 1789433490,
+   "company": "kayak",
+   "hours_open": 271.9,
+   "title": "Java Software Engineer, Search team",
+   "uid": "ashby:kayak:9144a2ad-3bc6-4e82-8538-233de8438350"
+  },
+  {
+   "closed_at": 1789433490,
+   "company": "retell-ai",
+   "hours_open": 271.9,
+   "title": "Customer Success Engineer (Contract)",
+   "uid": "ashby:retell-ai:6ae071ab-8b07-4e8f-871a-04df97484f67"
+  },
+  {
+   "closed_at": 1789433490,
+   "company": "andurilindustries",
+   "hours_open": 270.2,
+   "title": "NPI Engineer, Actuators",
+   "uid": "greenhouse:andurilindustries:5116367007"
+  },
+  {
+   "closed_at": 1789433490,
+   "company": "Lennar Corporation",
+   "hours_open": 308.5,
+   "title": "Software Engineer 1",
+   "uid": "simplify:listings:54a06b84-67eb-4568-8969-1e478d303342"
+  },
+  {
+   "closed_at": 1789433490,
+   "company": "spacex",
+   "hours_open": 271.6,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1789433490,
+   "company": "twitch",
+   "hours_open": 269.0,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1789433490,
+   "company": "CGI",
+   "hours_open": 151.7,
+   "title": "Conseiller en gouvernance de la cybersécurité",
+   "uid": "jobillico:analyste cybersecurite:17433756"
+  },
+  {
+   "closed_at": 1789433490,
+   "company": "spacex",
+   "hours_open": 271.9,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
- ]
+ ],
+ "count": 814,
+ "updated_at": 1789433491
 }
