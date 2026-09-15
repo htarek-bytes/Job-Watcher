@@ -1,55 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789079134,
-   "company": "applied",
-   "hours_open": 173.5,
-   "title": "Software Engineer - Prediction and Planning ML",
-   "uid": "ashby:applied:1b268893-9c79-4d59-abc2-4ab0e769f5b5"
-  },
-  {
-   "closed_at": 1789079134,
-   "company": "Article",
-   "hours_open": 50.1,
-   "title": "software developer",
-   "uid": "jobbank:entry level software developer:50244359"
-  },
-  {
-   "closed_at": 1789079134,
-   "company": "Amazon",
-   "hours_open": 171.8,
-   "title": "Software Development Engineer, Amazon",
-   "uid": "amazon:amazon:10529021"
-  },
-  {
-   "closed_at": 1789079134,
-   "company": "asana",
-   "hours_open": 91.4,
-   "title": "Technical Solutions Engineer, Command",
-   "uid": "greenhouse:asana:8027447"
-  },
-  {
-   "closed_at": 1789079134,
-   "company": "spacex",
-   "hours_open": 173.2,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1789079134,
-   "company": "spacex",
-   "hours_open": 173.5,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1789079556,
-   "company": "twitch",
-   "hours_open": 173.6,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
    "closed_at": 1789079556,
    "company": "ibotta",
    "hours_open": 166.5,
@@ -5599,8 +5550,57 @@
    "hours_open": 286.3,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1789492688,
+   "company": "asteralabs",
+   "hours_open": 20.8,
+   "title": "Digital RTL Design Engineer- Static Timing Analysis",
+   "uid": "greenhouse:asteralabs:4733707005"
+  },
+  {
+   "closed_at": 1789492688,
+   "company": "Oracle",
+   "hours_open": 276.9,
+   "title": "Software Developer 1",
+   "uid": "simplify:listings:cca91aa9-bfb8-4738-8e08-5d0471286dd5"
+  },
+  {
+   "closed_at": 1789492688,
+   "company": "Amazon",
+   "hours_open": 142.4,
+   "title": "SDE 2, Amazon S3, Amazon S3",
+   "uid": "amazon:amazon:10534994"
+  },
+  {
+   "closed_at": 1789492688,
+   "company": "robinhood",
+   "hours_open": 288.3,
+   "title": "Software Engineer, Wallet",
+   "uid": "greenhouse:robinhood:8088446"
+  },
+  {
+   "closed_at": 1789492688,
+   "company": "T-Soft Consulting Inc",
+   "hours_open": 306.2,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50080344"
+  },
+  {
+   "closed_at": 1789492688,
+   "company": "sprymethods",
+   "hours_open": 168.2,
+   "title": "Cybersecurity Analyst / ISSO",
+   "uid": "lever:sprymethods:f1643ee1-256e-4edb-a21e-615daca5c541"
+  },
+  {
+   "closed_at": 1789492688,
+   "company": "spacex",
+   "hours_open": 288.1,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
   }
  ],
- "count": 808,
- "updated_at": 1789491285
+ "count": 807,
+ "updated_at": 1789492688
 }
