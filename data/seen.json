@@ -1,5 +1,5 @@
 {
- "count": 4952,
+ "count": 4956,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -125,6 +125,7 @@
   "amazon:amazon:10542663": 1789498868,
   "amazon:amazon:10543738": 1789498868,
   "amazon:amazon:10543836": 1789503588,
+  "amazon:amazon:10543914": 1789510068,
   "ashby:1password:4ff46f84-a5c9-4232-84b6-1dfa8e737148": 1788750148,
   "ashby:1password:7f885c41-7572-439c-886f-bc508eb9a3d7": 1788454653,
   "ashby:1password:a5b083d5-5f82-4316-b5ef-a577f2edb493": 1788750148,
@@ -2414,6 +2415,7 @@
   "greenhouse:spacex:8803646002": 1789171739,
   "greenhouse:spacex:8805284002": 1789261915,
   "greenhouse:spacex:8806094002": 1789412713,
+  "greenhouse:spacex:8806124002": 1789510068,
   "greenhouse:spacex:8807509002": 1789437058,
   "greenhouse:spacex:8807795002": 1789436213,
   "greenhouse:spacex:8808182002": 1789436213,
@@ -4416,6 +4418,7 @@
   "workday:boeing.wd1/EXTERNAL_CAREERS:Entry-Level-Simulation-Software-Engineer_JR2026516853-1": 1789164282,
   "workday:boeing.wd1/EXTERNAL_CAREERS:Software-Engineer_JR2026517990-1": 1788425964,
   "workday:boeing.wd1/external_subsidiary:Associate-Software-Engineer--Phantom-Works_JR2026523287-1": 1789070335,
+  "workday:boeing.wd1/external_subsidiary:Command-and-Data-Handling-Network--Autonomous-Navigation-Systems-_JR2026523750": 1789510068,
   "workday:boeing.wd1/external_subsidiary:Entry-Level-Simulation-Software-Engineer_JR2026516853": 1789164172,
   "workday:boeing.wd1/external_subsidiary:Mechanical-Ground-Support-Equipment-Engineer--Entry-Level----Millennium-Space-Systems_JR2026524385": 1789088653,
   "workday:boeing.wd1/external_subsidiary:Payload-Mechanical-Design-Engineer---Entry-Level_JR2026519663": 1788472811,
@@ -4478,6 +4481,7 @@
   "workday:chevron.wd5/University:XMLNAME-2026-2027-Petroleum-Engineer-Intern--previous-intern-_R000072341": 1788539216,
   "workday:chevron.wd5/University:XMLNAME-2026-2027-Petroleum-Engineer-Intern_R000072407": 1788442300,
   "workday:cisco.wd5/cisco_careers:Software-Consulting-Engineer-I--Intern--United-States_2025180": 1788936095,
+  "workday:clearwateranalytics.wd1/Clearwater_Analytics_Careers:Quant-Developer-Intern_R12182": 1789510068,
   "workday:clearwateranalytics.wd1/Clearwater_Analytics_Careers:Quantitative-Developer-I_R12046": 1788390279,
   "workday:clearwateranalytics.wd1/Clearwater_Analytics_Careers:Software-Development-Engineer-I_R12047": 1788390279,
   "workday:clearwateranalytics.wd1/Clearwater_Analytics_Careers:Software-Development-Engineer-I_R12059": 1788460756,
@@ -4953,5 +4957,6 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Junior-Algorithm-Engineer_R19377": 1788377927,
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148,
   "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541": 1789106107
- }
+ },
+ "updated_at": 1789510068
 }
