@@ -1,97 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789062742,
-   "company": "twitch",
-   "hours_open": 166.0,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1789062742,
-   "company": "CGI",
-   "hours_open": 48.7,
-   "title": "Conseiller en gouvernance de la cybersécurité",
-   "uid": "jobillico:analyste cybersecurite:17433756"
-  },
-  {
-   "closed_at": 1789062742,
-   "company": "Amazon",
-   "hours_open": 168.9,
-   "title": "Software Development Engineer, AWS OpenSearch Service",
-   "uid": "amazon:amazon:10522267"
-  },
-  {
-   "closed_at": 1789062742,
-   "company": "hive",
-   "hours_open": 166.0,
-   "title": "Systems Engineer / DevOps",
-   "uid": "lever:hive:efb68714-6896-4987-8d12-f06622323b2a"
-  },
-  {
-   "closed_at": 1789062742,
-   "company": "spacex",
-   "hours_open": 168.9,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1789062742,
-   "company": "spacex",
-   "hours_open": 167.2,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1789062742,
-   "company": "wyetechllc",
-   "hours_open": 196.9,
-   "title": "Software Engineer 1",
-   "uid": "lever:wyetechllc:a1dbedae-7905-44a0-99be-a6fadd39d0ad"
-  },
-  {
-   "closed_at": 1789063003,
-   "company": "Bosch Group",
-   "hours_open": 11.3,
-   "title": "[SX/BSV-VN] Embedded Test Engineer Intern",
-   "uid": "smartrecruiters:BoschGroup:744000148655057"
-  },
-  {
-   "closed_at": 1789063003,
-   "company": "AECOM",
-   "hours_open": 26.3,
-   "title": "Entry Level Transportation Engineer",
-   "uid": "smartrecruiters:AECOM2:744000148511949"
-  },
-  {
-   "closed_at": 1789064584,
-   "company": "Sia",
-   "hours_open": 26.1,
-   "title": "Junior engineer",
-   "uid": "smartrecruiters:Sia:744000148534422"
-  },
-  {
-   "closed_at": 1789064584,
-   "company": "doordashusa",
-   "hours_open": 150.1,
-   "title": "Software Engineer I, Entry-Level (Graduation Date: Fall 2026-Summer 2027) - US",
-   "uid": "greenhouse:doordashusa:8163709"
-  },
-  {
-   "closed_at": 1789064584,
-   "company": "Employee Owned Holdings, Inc.",
-   "hours_open": 19.0,
-   "title": "GCC Sales Engineer Summer Internship (North Carolina)",
-   "uid": "workable:employee-owned-holdings-inc:9464F255C9"
-  },
-  {
-   "closed_at": 1789064584,
-   "company": "Sopra Steria",
-   "hours_open": 49.0,
-   "title": "Ingénieur/e validation junior Cybersécurité - Défense & Sécurité - Le Plessis Robinson",
-   "uid": "smartrecruiters:SopraSteria1:744000147967341"
-  },
-  {
    "closed_at": 1789064584,
    "company": "BestEx Research",
    "hours_open": 169.1,
@@ -5599,8 +5508,99 @@
    "hours_open": 276.3,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1789451528,
+   "company": "CGI",
+   "hours_open": 156.7,
+   "title": "Conseiller en gouvernance de la cybersécurité",
+   "uid": "jobillico:analyste cybersecurite:17433756"
+  },
+  {
+   "closed_at": 1789451528,
+   "company": "Source Code",
+   "hours_open": 129.0,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:systems analyst:50252977"
+  },
+  {
+   "closed_at": 1789451528,
+   "company": "Global One Data Inc.",
+   "hours_open": 294.8,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50202663"
+  },
+  {
+   "closed_at": 1789451528,
+   "company": "Maarut",
+   "hours_open": 31.2,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:systems analyst:50279779"
+  },
+  {
+   "closed_at": 1789451528,
+   "company": "YO AI Labs",
+   "hours_open": 294.8,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50208770"
+  },
+  {
+   "closed_at": 1789451528,
+   "company": "Automated DesignWorks",
+   "hours_open": 294.8,
+   "title": "software developer",
+   "uid": "jobbank:entry level software developer:50197990"
+  },
+  {
+   "closed_at": 1789451528,
+   "company": "Nuglif",
+   "hours_open": 294.8,
+   "title": "developer, software",
+   "uid": "jobbank:junior software developer:50144483"
+  },
+  {
+   "closed_at": 1789451528,
+   "company": "ServiceNow",
+   "hours_open": 133.6,
+   "title": "Advisory Solution Consultant, Partner Fed Sales (Armis/Veza)",
+   "uid": "smartrecruiters:ServiceNow:744000148523289"
+  },
+  {
+   "closed_at": 1789451528,
+   "company": "Sika AG",
+   "hours_open": 133.6,
+   "title": "Sales Engineer - Main Contractors",
+   "uid": "smartrecruiters:SikaAG:744000148475829"
+  },
+  {
+   "closed_at": 1789451528,
+   "company": "Sika AG",
+   "hours_open": 133.6,
+   "title": "Sales Engineer – Building Finishing",
+   "uid": "smartrecruiters:SikaAG:744000148475423"
+  },
+  {
+   "closed_at": 1789451528,
+   "company": "Tomra",
+   "hours_open": 191.7,
+   "title": "Pre-Sales Engineer",
+   "uid": "smartrecruiters:Tomra:744000143312689"
+  },
+  {
+   "closed_at": 1789451528,
+   "company": "Source Code",
+   "hours_open": 73.4,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50271382"
+  },
+  {
+   "closed_at": 1789451528,
+   "company": "Credence",
+   "hours_open": 244.5,
+   "title": "AI Software Engineer",
+   "uid": "workable:credence:545B9377E4"
   }
  ],
- "count": 816,
- "updated_at": 1789450370
+ "count": 813,
+ "updated_at": 1789451529
 }
