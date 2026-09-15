@@ -1,90 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789139196,
-   "company": "mmc",
-   "hours_open": 207.0,
-   "title": "Junior Python Engineer @MarshTech",
-   "uid": "workday:mmc.wd1/mmc:Junior-Python-Engineer--MarshTech_R_362442-1"
-  },
-  {
-   "closed_at": 1789139196,
-   "company": "Amazon",
-   "hours_open": 64.2,
-   "title": "Software Development Engineer, AWS Elemental MediaTailor",
-   "uid": "amazon:amazon:10526542"
-  },
-  {
-   "closed_at": 1789139196,
-   "company": "lnw",
-   "hours_open": 43.8,
-   "title": "Associate Software Engineer",
-   "uid": "workday:lnw.wd5/lightwonderexternalcareers:Associate-Software-Engineer_R322683"
-  },
-  {
-   "closed_at": 1789139196,
-   "company": "drweng",
-   "hours_open": 190.2,
-   "title": "Systems Software Engineer",
-   "uid": "greenhouse:drweng:8120240"
-  },
-  {
-   "closed_at": 1789139196,
-   "company": "nvidia",
-   "hours_open": 18.0,
-   "title": "ASIC Design Engineer - New College Grad 2026",
-   "uid": "workday:nvidia.wd5/NVIDIAExternalCareerSite:ASIC-Design-Engineer---New-College-Grad-2026_JR2017581"
-  },
-  {
-   "closed_at": 1789139196,
-   "company": "nvidia",
-   "hours_open": 211.5,
-   "title": "GPU Verification Engineer - New College Grad 2026",
-   "uid": "workday:nvidia.wd5/NVIDIAExternalCareerSite:GPU-Verification-Engineer---New-College-Grad-2026_JR2023187"
-  },
-  {
-   "closed_at": 1789139196,
-   "company": "spacex",
-   "hours_open": 190.2,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1789139196,
-   "company": "spacex",
-   "hours_open": 190.2,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1789139196,
-   "company": "accenturefederalservices",
-   "hours_open": 190.2,
-   "title": "Cybersecurity Engineer",
-   "uid": "greenhouse:accenturefederalservices:4690064006"
-  },
-  {
-   "closed_at": 1789147006,
-   "company": "Gameloft",
-   "hours_open": 3.6,
-   "title": "developer, software",
-   "uid": "jobbank:junior programmer:50265243"
-  },
-  {
-   "closed_at": 1789147006,
-   "company": "YCSD Inc",
-   "hours_open": 3.6,
-   "title": "mobile applications developer",
-   "uid": "jobbank:junior programmer:50265227"
-  },
-  {
-   "closed_at": 1789147006,
-   "company": "Richard & Levesque Cuisines Salles de Bain",
-   "hours_open": 59.9,
-   "title": "Web developer",
-   "uid": "jobbank:developpeur junior:50247764"
-  },
-  {
    "closed_at": 1789147006,
    "company": "Groupe Mario Coté",
    "hours_open": 47.4,
@@ -5599,8 +5515,92 @@
    "hours_open": 291.9,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1789513197,
+   "company": "twitch",
+   "hours_open": 291.1,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1789513197,
+   "company": "oshkoshcorporation",
+   "hours_open": 95.6,
+   "title": "Electrical Integration Engineer Intern",
+   "uid": "workday:oshkoshcorporation.wd5/Oshkosh:Electrical-Integration-Engineer-Intern_R50260-1"
+  },
+  {
+   "closed_at": 1789513197,
+   "company": "myhrhome",
+   "hours_open": 147.6,
+   "title": "Software Developer Intern – Document Shared Services (Part-Time)",
+   "uid": "workday:myhrhome.wd1/OneMainCareers:Software-Developer-Intern---Document-Shared-Services--Part-Time-_R2608-52284"
+  },
+  {
+   "closed_at": 1789513197,
+   "company": "philips",
+   "hours_open": 289.0,
+   "title": "Co-op – Design Release Engineer - Cambridge, MA - Jan - Aug 2027",
+   "uid": "workday:philips.wd3/jobs-and-careers:Co-op---Design-Release-Engineer---Cambridge--MA---Jan---Aug-2027_590093"
+  },
+  {
+   "closed_at": 1789513197,
+   "company": "ngc",
+   "hours_open": 24.4,
+   "title": "2027 Intern Engineer - Product Support",
+   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Intern-Engineer---Product-Support_R10250306"
+  },
+  {
+   "closed_at": 1789513197,
+   "company": "ngc",
+   "hours_open": 24.4,
+   "title": "2027 Intern - Survivability Engineer",
+   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Intern---Survivability-Engineer_R10250713"
+  },
+  {
+   "closed_at": 1789513197,
+   "company": "ngc",
+   "hours_open": 24.4,
+   "title": "2027 Intern Software Engineer",
+   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Intern-Software-Engineer_R10250669"
+  },
+  {
+   "closed_at": 1789513197,
+   "company": "ngc",
+   "hours_open": 24.4,
+   "title": "Associate Engineer or Engineer Electronics - Field Operations",
+   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:Associate-Engineer-or-Engineer-Electronics---Field-Operations_R10247339"
+  },
+  {
+   "closed_at": 1789513197,
+   "company": "nvidia",
+   "hours_open": 121.9,
+   "title": "ASIC Design Engineer - New College Grad 2026",
+   "uid": "workday:nvidia.wd5/NVIDIAExternalCareerSite:ASIC-Design-Engineer---New-College-Grad-2026_JR2017581"
+  },
+  {
+   "closed_at": 1789513197,
+   "company": "paloaltonetworks",
+   "hours_open": 210.1,
+   "title": "Solutions Consultant 2 (FSI)",
+   "uid": "workday:paloaltonetworks.wd5/panwexternalcareers:Solutions-Consultant-2--FSI-_JR-019939"
+  },
+  {
+   "closed_at": 1789513197,
+   "company": "spacex",
+   "hours_open": 291.1,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1789513197,
+   "company": "spacex",
+   "hours_open": 293.8,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
   }
  ],
- "count": 815,
- "updated_at": 1789511758
+ "count": 812,
+ "updated_at": 1789513199
 }
