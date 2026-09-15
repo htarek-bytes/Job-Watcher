@@ -1,90 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789134442,
-   "company": "bmo",
-   "hours_open": 190.6,
-   "title": "Machine Learning Developer (New or Recent Graduate)",
-   "uid": "workday:bmo.wd3/Campus:Machine-Learning-Developer--New-or-Recent-Graduate-_R260024265-1"
-  },
-  {
-   "closed_at": 1789134442,
-   "company": "altera",
-   "hours_open": 162.4,
-   "title": "Junior Verification Engineer",
-   "uid": "workday:altera.wd1/altera:Junior-Verification-Engineer_R03078"
-  },
-  {
-   "closed_at": 1789134442,
-   "company": "abb",
-   "hours_open": 106.7,
-   "title": "Sales Engineer – Service Division",
-   "uid": "workday:abb.wd3/external_career_page:Service-Sales-specialist_JR00003209"
-  },
-  {
-   "closed_at": 1789134442,
-   "company": "barclays",
-   "hours_open": 43.8,
-   "title": "2027 Technology Developer Summer Internship Programme Northampton",
-   "uid": "workday:barclays.wd3/External_Career_Site_Barclays:XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-Northampton_JR-0000129379"
-  },
-  {
-   "closed_at": 1789134442,
-   "company": "datadog",
-   "hours_open": 106.7,
-   "title": "Security Sales Engineer",
-   "uid": "greenhouse:datadog:8141243"
-  },
-  {
-   "closed_at": 1789134442,
-   "company": "caci",
-   "hours_open": 17.8,
-   "title": "Software Engineering Intern - Summer 2027",
-   "uid": "workday:caci.wd1/external:Software-Engineering-Intern---Summer-2027_331543-1"
-  },
-  {
-   "closed_at": 1789134442,
-   "company": "spacex",
-   "hours_open": 185.9,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1789135501,
-   "company": "disney",
-   "hours_open": 18.0,
-   "title": "Software Engineer I",
-   "uid": "workday:disney.wd5/disneycareerdc:Software-Engineer-I_10158076-2"
-  },
-  {
-   "closed_at": 1789135501,
-   "company": "entegris",
-   "hours_open": 18.0,
-   "title": "Solutions Engineering Co-Op",
-   "uid": "workday:entegris.wd1/entegriscareers:Solutions-Engineering-Co-Op_REQ-14431"
-  },
-  {
-   "closed_at": 1789135501,
-   "company": "twitch",
-   "hours_open": 186.2,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1789135501,
-   "company": "cisco",
-   "hours_open": 55.4,
-   "title": "Software Consulting Engineer I (Intern) United States",
-   "uid": "workday:cisco.wd5/cisco_careers:Software-Consulting-Engineer-I--Intern--United-States_2025180"
-  },
-  {
-   "closed_at": 1789135501,
-   "company": "spacex",
-   "hours_open": 189.1,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
    "closed_at": 1789137582,
    "company": "abb",
    "hours_open": 107.6,
@@ -5599,8 +5515,92 @@
    "hours_open": 9.5,
    "title": "software developer",
    "uid": "jobbank:junior software developer:50290477"
+  },
+  {
+   "closed_at": 1789510394,
+   "company": "evergreenix",
+   "hours_open": 95.6,
+   "title": "Software Engineer I",
+   "uid": "workday:evergreenix.wd1/external-careers2:Software-Engineer-I_JR500748-1"
+  },
+  {
+   "closed_at": 1789510394,
+   "company": "globalhr",
+   "hours_open": 122.1,
+   "title": "Digital Hardware Design Engineer (2027 New College Graduate)",
+   "uid": "workday:globalhr.wd5/rec_rtx_ext_gateway:Digital-Hardware-Design-Engineer--2027-New-College-Graduate-_01873795"
+  },
+  {
+   "closed_at": 1789510394,
+   "company": "globalhr",
+   "hours_open": 122.1,
+   "title": "Software Engineering Intern (Summer 2027)",
+   "uid": "workday:globalhr.wd5/rec_rtx_ext_gateway:Software-Engineering-Intern--Summer-2027-_01869001"
+  },
+  {
+   "closed_at": 1789510394,
+   "company": "Amazon",
+   "hours_open": 261.2,
+   "title": "Software Development Engineer, AWS Infra Supply Chain Automation, AWS Infra Supply Chain Automation",
+   "uid": "amazon:amazon:10530587"
+  },
+  {
+   "closed_at": 1789510394,
+   "company": "globalfoundries",
+   "hours_open": 25.6,
+   "title": "Advanced Manufacturing Equipment Engineer (2027 New College Graduate)",
+   "uid": "workday:globalfoundries.wd1/External:Advanced-Manufacturing-Equipment-Engineer--2027-New-College-Graduate-_JR-2604708"
+  },
+  {
+   "closed_at": 1789510394,
+   "company": "globalhr",
+   "hours_open": 11.8,
+   "title": "Vision Systems, Test Engineer I",
+   "uid": "workday:globalhr.wd5/rec_rtx_ext_gateway:Vision-Systems--Test-Engineer-I_01874749"
+  },
+  {
+   "closed_at": 1789510394,
+   "company": "globalhr",
+   "hours_open": 156.3,
+   "title": "Life Cycle Systems Engineer I",
+   "uid": "workday:globalhr.wd5/rec_rtx_ext_gateway:Life-Cycle-Systems-Engineer-I_01872772-1"
+  },
+  {
+   "closed_at": 1789510394,
+   "company": "globalhr",
+   "hours_open": 11.8,
+   "title": "Software Engineering Co-op (Summer/Fall 2027)",
+   "uid": "workday:globalhr.wd5/rec_rtx_ext_gateway:Software-Engineering-Co-op--Summer-Fall-2027-_01873970"
+  },
+  {
+   "closed_at": 1789510394,
+   "company": "gnw",
+   "hours_open": 25.6,
+   "title": "Software Engineering Intern",
+   "uid": "workday:gnw.wd1/GNW:Software-Engineering-Intern_REQ-260367-1"
+  },
+  {
+   "closed_at": 1789510394,
+   "company": "T-Soft Consulting Inc",
+   "hours_open": 311.1,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50080344"
+  },
+  {
+   "closed_at": 1789510394,
+   "company": "spacex",
+   "hours_open": 293.0,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1789510394,
+   "company": "spacex",
+   "hours_open": 293.3,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 827,
- "updated_at": 1789510069
+ "count": 812,
+ "updated_at": 1789510395
 }
