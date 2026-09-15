@@ -1,5 +1,5 @@
 {
- "count": 4948,
+ "count": 4952,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -124,6 +124,7 @@
   "amazon:amazon:10542501": 1789498868,
   "amazon:amazon:10542663": 1789498868,
   "amazon:amazon:10543738": 1789498868,
+  "amazon:amazon:10543836": 1789503702,
   "ashby:1password:4ff46f84-a5c9-4232-84b6-1dfa8e737148": 1788750148,
   "ashby:1password:7f885c41-7572-439c-886f-bc508eb9a3d7": 1788454653,
   "ashby:1password:a5b083d5-5f82-4316-b5ef-a577f2edb493": 1788750148,
@@ -4340,6 +4341,7 @@
   "workday:amat.wd1/External:Software-Engineer--New-College-Grad--Master-s--Chandler--AZ-_R2627911": 1788472811,
   "workday:ameren.wd1/External:Grid-Solutions-Engineer_033944": 1788752332,
   "workday:analogdevices.wd1/External:Associate-Engineer--Embedded-Audio-Software_R263781": 1788368024,
+  "workday:analogdevices.wd1/External:Embedded-Software-Engineer-Intern_R266132": 1789503702,
   "workday:andersen.wd12/Andersen_External_Career_Site:Engineer-I_R-4416": 1788368024,
   "workday:andersen.wd12/Andersen_External_Career_Site:Quality-Engineer-I_R-8301": 1789065654,
   "workday:andersen.wd12/Andersen_External_Career_Site:RDI-Materials-Associate-Engineer_R-8110": 1788368024,
@@ -4348,6 +4350,7 @@
   "workday:assetmark.wd5/AssetMark_Careers:Associate-Engineer_Req-003966": 1789192988,
   "workday:assetmark.wd5/AssetMark_Careers:Junior-AWS-Operations-Engineer_Req-003729": 1789192988,
   "workday:att.wd1/ATTGeneral:Specialist-App-Prod-Support--Service-Now-Production-Support--Tier-1_R-114244": 1788368024,
+  "workday:autodesk.wd1/Ext:Intern--Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD101101-2": 1789503702,
   "workday:autostore.wd3/autostore:Co-Op---Software-Engineering_JR102692": 1789328085,
   "workday:autostore.wd3/autostore:Entry-Level-Software-Engineer_JR102691": 1789328085,
   "workday:avav.wd1/avav:Entry-Level-Software-Engineer_8010": 1788368024,
@@ -4358,6 +4361,7 @@
   "workday:avav.wd1/avav:Software-Engineering-Intern_8613": 1789134442,
   "workday:avav.wd1/avav:Summer-2027-Embedded-Software-Engineering-Intern_8388": 1788410216,
   "workday:avav.wd1/avav:Summer-2027-Software-Engineering-Intern_8611": 1788410216,
+  "workday:avnet.wd1/external:Technical-Sales-Engineer---AMD-Xilinx_JR-022673-1": 1789503702,
   "workday:avnet.wd1/external:Technical-Sales-Engineer-AMD-Xilinx_JR-022776-1": 1788752332,
   "workday:avnet.wd1/external:Technical-Sales-Engineer-Avnet-Silica_JR-023902": 1788752332,
   "workday:bah.wd1/Confidential:University---Systems-Engineer-Intern_R0248855": 1788898936,
@@ -4950,5 +4954,5 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148,
   "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541": 1789106107
  },
- "updated_at": 1789502158
+ "updated_at": 1789503702
 }
