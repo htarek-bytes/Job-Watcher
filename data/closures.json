@@ -1,62 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789074223,
-   "company": "spacex",
-   "hours_open": 172.1,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1789074223,
-   "company": "spacex",
-   "hours_open": 171.8,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1789074882,
-   "company": "coinbase",
-   "hours_open": 46.4,
-   "title": "Software Engineer- Money Movement ",
-   "uid": "greenhouse:coinbase:8177946"
-  },
-  {
-   "closed_at": 1789074882,
-   "company": "twitch",
-   "hours_open": 172.3,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1789074882,
-   "company": "tsc",
-   "hours_open": 189.1,
-   "title": "NPI Test Engineer I",
-   "uid": "workday:tsc.wd12/TSC-Careers:NPI-Test-Engineer-I_JR2763"
-  },
-  {
-   "closed_at": 1789074882,
-   "company": "spacex",
-   "hours_open": 169.3,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1789074882,
-   "company": "spacex",
-   "hours_open": 172.3,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1789079134,
-   "company": "twitch",
-   "hours_open": 170.5,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
    "closed_at": 1789079134,
    "company": "applied",
    "hours_open": 173.5,
@@ -5599,8 +5543,64 @@
    "hours_open": 304.2,
    "title": "software developer",
    "uid": "jobbank:junior software developer:50080344"
+  },
+  {
+   "closed_at": 1789491285,
+   "company": "Maarut",
+   "hours_open": 47.6,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:systems analyst:50256788"
+  },
+  {
+   "closed_at": 1789491285,
+   "company": "Article",
+   "hours_open": 90.3,
+   "title": "software developer",
+   "uid": "jobbank:entry level software developer:50269151"
+  },
+  {
+   "closed_at": 1789491285,
+   "company": "alayacare",
+   "hours_open": 288.0,
+   "title": "Full-Stack Developer (Python) - Clinical Care Enablement",
+   "uid": "greenhouse:alayacare:8587623002"
+  },
+  {
+   "closed_at": 1789491285,
+   "company": "Amazon",
+   "hours_open": 35.8,
+   "title": "Software Development Engineer, AWS Transform",
+   "uid": "amazon:amazon:10538318"
+  },
+  {
+   "closed_at": 1789491285,
+   "company": "Amazon",
+   "hours_open": 140.0,
+   "title": "Software Development Engineer, PostX - APEX",
+   "uid": "amazon:amazon:10532360"
+  },
+  {
+   "closed_at": 1789491285,
+   "company": "cloudflare",
+   "hours_open": 17.5,
+   "title": "Software Engineer, Enterprise Integrations",
+   "uid": "greenhouse:cloudflare:8155495"
+  },
+  {
+   "closed_at": 1789491285,
+   "company": "spacex",
+   "hours_open": 288.0,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1789491285,
+   "company": "spacex",
+   "hours_open": 286.3,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
- "count": 801,
- "updated_at": 1789485530
+ "count": 808,
+ "updated_at": 1789491285
 }
