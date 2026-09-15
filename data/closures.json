@@ -1,48 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789064584,
-   "company": "BestEx Research",
-   "hours_open": 169.1,
-   "title": "FIX Integration & Client Onboarding Engineer - Electronic Trading",
-   "uid": "workable:bestex-research:0D74C335E0"
-  },
-  {
-   "closed_at": 1789064584,
-   "company": "robinhood",
-   "hours_open": 52.6,
-   "title": "Security Engineer, Application Security",
-   "uid": "greenhouse:robinhood:7918258"
-  },
-  {
-   "closed_at": 1789064584,
-   "company": "andurilindustries",
-   "hours_open": 167.7,
-   "title": "System Engineer, Electrical Integration - Edge Compute and Communications",
-   "uid": "greenhouse:andurilindustries:5207557007"
-  },
-  {
-   "closed_at": 1789064584,
-   "company": "spacex",
-   "hours_open": 169.4,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1789065654,
-   "company": "spacex",
-   "hours_open": 169.7,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1789065654,
-   "company": "spacex",
-   "hours_open": 168.0,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
    "closed_at": 1789065654,
    "company": "Amazon",
    "hours_open": 49.5,
@@ -5599,8 +5557,50 @@
    "hours_open": 244.5,
    "title": "AI Software Engineer",
    "uid": "workable:credence:545B9377E4"
+  },
+  {
+   "closed_at": 1789454401,
+   "company": "twitch",
+   "hours_open": 274.8,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1789454401,
+   "company": "CANADIAN EASY TAX AND FINANCIAL SERVICES",
+   "hours_open": 82.8,
+   "title": "Web developer",
+   "uid": "jobbank:developpeur junior:50267136"
+  },
+  {
+   "closed_at": 1789454401,
+   "company": "IX Solutions Ltd.",
+   "hours_open": 157.5,
+   "title": "network system administrator",
+   "uid": "jobbank:systems administrator:50148565"
+  },
+  {
+   "closed_at": 1789454401,
+   "company": "KEYPLAN Measuring Inc.",
+   "hours_open": 295.6,
+   "title": "computer programmer",
+   "uid": "jobbank:junior programmer:49550591"
+  },
+  {
+   "closed_at": 1789454401,
+   "company": "spacex",
+   "hours_open": 277.7,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1789454401,
+   "company": "spacex",
+   "hours_open": 276.0,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
- "count": 813,
- "updated_at": 1789451529
+ "count": 806,
+ "updated_at": 1789454403
 }
