@@ -2,27 +2,6 @@
  "closed": [
   {
    "closed_at": 1789048465,
-   "company": "comstock",
-   "hours_open": 163.3,
-   "title": "Building Engineer- Mall ",
-   "uid": "greenhouse:comstock:4305947009"
-  },
-  {
-   "closed_at": 1789048465,
-   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
-   "hours_open": 44.8,
-   "title": "Administrateur Réseau TI",
-   "uid": "jobillico:analyste reseau:17386419"
-  },
-  {
-   "closed_at": 1789048465,
-   "company": "spacex",
-   "hours_open": 164.9,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1789048465,
    "company": "darkwolfsolutions",
    "hours_open": 44.8,
    "title": "Cloud Cybersecurity Analyst",
@@ -5599,8 +5578,29 @@
    "hours_open": 270.3,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1789436213,
+   "company": "twitch",
+   "hours_open": 272.7,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1789436213,
+   "company": "AeroVironment",
+   "hours_open": 309.3,
+   "title": "Entry-Level Software Engineer",
+   "uid": "simplify:listings:6e0e23c9-300a-4131-a50c-35417c91599a"
+  },
+  {
+   "closed_at": 1789436213,
+   "company": "spacex",
+   "hours_open": 269.7,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
   }
  ],
- "count": 804,
- "updated_at": 1789433687
+ "count": 803,
+ "updated_at": 1789436214
 }
