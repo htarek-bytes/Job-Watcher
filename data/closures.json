@@ -1,69 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789088653,
-   "company": "Alithya Canada Inc.",
-   "hours_open": 5.1,
-   "title": "Web developer",
-   "uid": "jobbank:developpeur junior:50257747"
-  },
-  {
-   "closed_at": 1789088653,
-   "company": "canadiantirecorporation",
-   "hours_open": 52.7,
-   "title": "Enterprise Data Visualization & BI Platform Analyst",
-   "uid": "workday:canadiantirecorporation.wd3/Enterprise_External_Careers_Site:Enterprise-Data-Visualization---BI-Platform-Analyst_JR163657-1"
-  },
-  {
-   "closed_at": 1789088653,
-   "company": "barclays",
-   "hours_open": 31.1,
-   "title": "2027 Technology Developer Summer Internship Programme London",
-   "uid": "workday:barclays.wd3/External_Career_Site_Barclays:XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-London_JR-0000129397"
-  },
-  {
-   "closed_at": 1789089172,
-   "company": "entegris",
-   "hours_open": 5.1,
-   "title": "Cybersecurity Engineer Co-Op",
-   "uid": "workday:entegris.wd1/entegriscareers:Cybersecurity-Engineer-Co-Op_REQ-14472-1"
-  },
-  {
-   "closed_at": 1789089172,
-   "company": "Alithya Canada Inc.",
-   "hours_open": 11.3,
-   "title": "Web developer",
-   "uid": "jobbank:junior programmer:50257747"
-  },
-  {
-   "closed_at": 1789089172,
-   "company": "Alithya Canada Inc.",
-   "hours_open": 0.1,
-   "title": "full stack Web developer",
-   "uid": "jobbank:developpeur junior:50257748"
-  },
-  {
-   "closed_at": 1789089172,
-   "company": "globalhr",
-   "hours_open": 5.1,
-   "title": "Software Engineering Intern (Summer 2027)",
-   "uid": "workday:globalhr.wd5/rec_rtx_ext_gateway:Software-Engineering-Intern--Summer-2027-_01869001"
-  },
-  {
-   "closed_at": 1789089172,
-   "company": "globalhr",
-   "hours_open": 13.4,
-   "title": "Systems Engineer Intern - Helmet Displays (Summer 2027) - Onsite",
-   "uid": "workday:globalhr.wd5/Private_Posting_No_TMP:Systems-Engineer-Intern---Helmet-Displays--Summer-2027----Onsite_01867411"
-  },
-  {
-   "closed_at": 1789102462,
-   "company": "Alithya Canada Inc.",
-   "hours_open": 8.9,
-   "title": "Web developer",
-   "uid": "jobbank:developpeur junior:50257747"
-  },
-  {
    "closed_at": 1789102462,
    "company": "kbr",
    "hours_open": 168.2,
@@ -5599,8 +5536,71 @@
    "hours_open": 288.5,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1789502157,
+   "company": "YO AI Labs",
+   "hours_open": 14.1,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50289053"
+  },
+  {
+   "closed_at": 1789502157,
+   "company": "Arora Enterprise Inc",
+   "hours_open": 98.7,
+   "title": "Web developer",
+   "uid": "jobbank:junior programmer:50266457"
+  },
+  {
+   "closed_at": 1789502157,
+   "company": "First Impressions",
+   "hours_open": 117.4,
+   "title": "cloud administrator",
+   "uid": "jobbank:cloud administrator:50259200"
+  },
+  {
+   "closed_at": 1789502157,
+   "company": "AlphaHire",
+   "hours_open": 95.2,
+   "title": "Project Engineer - Commercial Electrical Projects",
+   "uid": "workable:alphax:110D18F014"
+  },
+  {
+   "closed_at": 1789502157,
+   "company": "Western Digital",
+   "hours_open": 291.0,
+   "title": "Internship - Software Development (Embedded)",
+   "uid": "smartrecruiters:WesternDigital:744000146883869"
+  },
+  {
+   "closed_at": 1789502157,
+   "company": "T-Soft Consulting Inc",
+   "hours_open": 308.9,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50080344"
+  },
+  {
+   "closed_at": 1789502157,
+   "company": "cloudflare",
+   "hours_open": 291.0,
+   "title": "Network Deployment Engineer",
+   "uid": "greenhouse:cloudflare:8099671"
+  },
+  {
+   "closed_at": 1789502157,
+   "company": "spacex",
+   "hours_open": 288.0,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1789502157,
+   "company": "spacex",
+   "hours_open": 291.0,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
   }
  ],
- "count": 806,
- "updated_at": 1789499227
+ "count": 809,
+ "updated_at": 1789502158
 }
