@@ -1,5 +1,5 @@
 {
- "count": 4981,
+ "count": 4990,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -4791,6 +4791,8 @@
   "workday:ngc.wd1/Northrop_Grumman_External_Site:Sentinel---LEN-Systems-Engineer---14377-1_R10236367": 1788454653,
   "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027--Systems-Engineer-Intern---Colorado-Springs-CO_R10249777": 1788875395,
   "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Associate-Software-Engineer---Software-Engineer---Roy-UT_R10249844-1": 1788893085,
+  "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Cyber-Software-Engineer-Intern---Cincinnati-OH_R10249186": 1789513309,
+  "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Cyber-Systems-Engineer-Intern---Roy-UT_R10249471": 1789513309,
   "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Fall-Co-Op---Survivability-Engineer_R10250417": 1789102951,
   "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Intern---Survivability-Engineer_R10250713": 1789425451,
   "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Intern-Engineer---Product-Support_R10250061": 1788981683,
@@ -4811,6 +4813,7 @@
   "workday:ntrs.wd1/northerntrust:Technology-Intern---Software-Engineering_R160832-1": 1789002546,
   "workday:nvidia.wd5/NVIDIAExternalCareerSite:ASIC-Design-Engineer---New-College-Grad-2026_JR2017581": 1789074223,
   "workday:nvidia.wd5/NVIDIAExternalCareerSite:ASIC-Design-Engineer---New-College-Grad-2026_JR2020309": 1788377835,
+  "workday:nvidia.wd5/NVIDIAExternalCareerSite:ASIC-Design-Verification-Engineer---New-College-Grad-2026_JR2010391": 1789513309,
   "workday:nvidia.wd5/NVIDIAExternalCareerSite:ASIC-Floorplan-Design-Engineer---New-College-Grad-2026_JR2024651": 1788910845,
   "workday:nvidia.wd5/NVIDIAExternalCareerSite:ASIC-Verification-Engineer---New-College-Grad-2026_JR2020640": 1788377835,
   "workday:nvidia.wd5/NVIDIAExternalCareerSite:Architecture-Energy-Modeling-Engineer---New-College-Grad-2026_JR2023398": 1788910845,
@@ -4841,12 +4844,14 @@
   "workday:oshkoshcorporation.wd5/Oshkosh:Engineer-Intern---Software--Summer-2026-_R49786": 1788442554,
   "workday:oshkoshcorporation.wd5/Oshkosh:Robotics-Programming-Engineer-Intern_R49597": 1789425451,
   "workday:oshkoshcorporation.wd5/Oshkosh:Software-Engineer-Intern---Summer-2027_R50321": 1789425451,
+  "workday:oshkoshcorporation.wd5/Oshkosh:Software-Engineering-Intern_R49493": 1789513309,
   "workday:pae.wd1/amentum_careers:C-or-C---Junior-Developer_R0165501": 1788377835,
   "workday:pae.wd1/amentum_careers:Controls---Instrumentation-Engineer-Intern_R0169793": 1788470575,
   "workday:pae.wd1/amentum_careers:Engineer-1_R0169894": 1788890289,
   "workday:pae.wd1/amentum_careers:Entry-Level-Software-Engineer_R0148259": 1789102951,
   "workday:pae.wd1/amentum_careers:Software-Engineering-Intern_R0169322": 1788442554,
   "workday:pae.wd1/amentum_careers:Software-Programmer-Intern_R0169775": 1788984410,
+  "workday:pae.wd1/amentum_careers:Storage-Solutions-Engineer-IRES---SSFB_R0170571": 1789513309,
   "workday:paloaltonetworks.wd5/panwexternalcareers:Solutions-Consultant-1_JR-021918": 1788756975,
   "workday:paloaltonetworks.wd5/panwexternalcareers:Solutions-Consultant-2--FSI-_JR-019939": 1788756975,
   "workday:paloaltonetworks.wd5/panwexternalcareers:Solutions-Consultant_JR-020644": 1788756975,
@@ -4856,6 +4861,7 @@
   "workday:philips.wd3/jobs-and-careers:Co-op---Software-Engineer--R-D----Cambridge--MA---January---August-2027_588891": 1788472811,
   "workday:philips.wd3/jobs-and-careers:Co-op---Software-Engineering--APM----Cambridge--MA---Jan---Aug-2027_590097": 1788472811,
   "workday:philips.wd3/jobs-and-careers:Co-op---Software-Test-Automation-Engineer---Orange--OH---January-2027_581888": 1788472811,
+  "workday:philips.wd3/jobs-and-careers:Intern---R-D-Engineer---Plymouth--MN---Summer-2027_591610": 1789513309,
   "workday:philips.wd3/jobs-and-careers:Intern--Design-Assurance-Engineer---Colorado-Springs--CO---Summer-2027_591948": 1789171739,
   "workday:philips.wd3/jobs-and-careers:Software-Engineer-Intern_588645-1": 1788472811,
   "workday:pimco.wd1/pimco-careers:XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering_R106745": 1788442554,
@@ -4868,9 +4874,12 @@
   "workday:r1rcm.wd1/R1RCM:Software-Engineer-I_R260000003130": 1789003196,
   "workday:radiancetech.wd12/Radiance_External:Junior-Software-Engineer_HR102399": 1788984410,
   "workday:radiancetech.wd12/Radiance_External:Reverse-Engineer-Intern_HR102400": 1788984410,
+  "workday:rakuten.wd1/RakutenAmericas:Intern---Software-Engineering--AI-User-Experience_1031437": 1789513309,
   "workday:rbc.wd3/ExternalPrivatePostingStudents:Product-Engineer--New-Grad-_R-0000187092": 1788717457,
   "workday:reliaquest.wd5/ReliaQuest_Careers:Associate-Software-Engineer_R15047": 1788377835,
+  "workday:relx.wd3/LexisNexisLegal:Aspire-Tech-Graduate-Software-Engineer-I_R118694": 1789513309,
   "workday:relx.wd3/LexisNexisLegal:Software-Engineer-I_R117314": 1788377835,
+  "workday:relx.wd3/LexisNexisLegal:Software-Engineer-Internship_R118692": 1789513309,
   "workday:relx.wd3/RiskSolutions:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617": 1788386269,
   "workday:relx.wd3/RiskSolutions:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-1": 1788386269,
   "workday:relx.wd3/RiskSolutions:Tech-Accelerate-Graduate-Program---Software-Engineer--Boca-Raton---June-_R116023-2": 1788386269,
@@ -4983,5 +4992,5 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148,
   "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541": 1789106107
  },
- "updated_at": 1789511758
+ "updated_at": 1789513310
 }
