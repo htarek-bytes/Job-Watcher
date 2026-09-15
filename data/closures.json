@@ -1,55 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789070335,
-   "company": "barclays",
-   "hours_open": 26.0,
-   "title": "2027 Technology Developer Summer Internship Programme Knutsford",
-   "uid": "workday:barclays.wd3/External_Career_Site_Barclays:XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-Knutsford_JR-0000129381"
-  },
-  {
-   "closed_at": 1789070335,
-   "company": "barclays",
-   "hours_open": 26.0,
-   "title": "2027 Technology Developer Summer Internship Programme Glasgow",
-   "uid": "workday:barclays.wd3/External_Career_Site_Barclays:XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-Glasgow_JR-0000129387"
-  },
-  {
-   "closed_at": 1789070335,
-   "company": "launchdarkly",
-   "hours_open": 171.0,
-   "title": "Product Security Engineer",
-   "uid": "greenhouse:launchdarkly:7736270003"
-  },
-  {
-   "closed_at": 1789070335,
-   "company": "caci",
-   "hours_open": 25.3,
-   "title": "Software Engineering Intern – Summer 2027",
-   "uid": "workday:caci.wd1/external:Software-Engineering-Intern---Summer-2027_331742"
-  },
-  {
-   "closed_at": 1789070853,
-   "company": "CGI",
-   "hours_open": 51.0,
-   "title": "Conseiller en gouvernance de la cybersécurité",
-   "uid": "jobillico:analyste cybersecurite:17433756"
-  },
-  {
-   "closed_at": 1789070853,
-   "company": "dexcom",
-   "hours_open": 189.0,
-   "title": "Software Development Engineer 1",
-   "uid": "workday:dexcom.wd1/Dexcom:Software-Development-Engineer-1_JR120540"
-  },
-  {
-   "closed_at": 1789070853,
-   "company": "entegris",
-   "hours_open": 25.3,
-   "title": "Quality Engineer Co-Op",
-   "uid": "workday:entegris.wd1/entegriscareers:Quality-Engineer-Co-Op_REQ-14434"
-  },
-  {
    "closed_at": 1789070853,
    "company": "globalhr",
    "hours_open": 58.7,
@@ -5599,8 +5550,57 @@
    "hours_open": 284.8,
    "title": "Software Engineering Intern",
    "uid": "workday:kla.wd1/AnnArbor:Software-Engineering-Intern_2531653"
+  },
+  {
+   "closed_at": 1789468985,
+   "company": "micron",
+   "hours_open": 12.3,
+   "title": "Intern - PHY Digital Design & Automation Engineer, HBM",
+   "uid": "workday:micron.wd1/External:Intern---PHY-Digital-Design---Automation-Engineer--HBM_JR110641"
+  },
+  {
+   "closed_at": 1789468985,
+   "company": "micron",
+   "hours_open": 12.3,
+   "title": "Intern - IT Software Engineer",
+   "uid": "workday:micron.wd1/External:Intern---IT-Software-Engineer_JR111582"
+  },
+  {
+   "closed_at": 1789468985,
+   "company": "CGI",
+   "hours_open": 161.6,
+   "title": "Conseiller en gouvernance de la cybersécurité",
+   "uid": "jobillico:analyste cybersecurite:17433756"
+  },
+  {
+   "closed_at": 1789468985,
+   "company": "micron",
+   "hours_open": 135.4,
+   "title": "New College Grad - IC Package Layout Engineer",
+   "uid": "workday:micron.wd1/External:New-College-Grad---IC-Package-Layout-Engineer_JR108957"
+  },
+  {
+   "closed_at": 1789468985,
+   "company": "mmc",
+   "hours_open": 298.6,
+   "title": "Junior Python Engineer @MarshTech",
+   "uid": "workday:mmc.wd1/mmc:Junior-Python-Engineer--MarshTech_R_362442-1"
+  },
+  {
+   "closed_at": 1789468985,
+   "company": "Amazon",
+   "hours_open": 153.2,
+   "title": "Software Development Engineer, AWS Vulnerability Management (AVM)",
+   "uid": "amazon:amazon:10533656"
+  },
+  {
+   "closed_at": 1789468985,
+   "company": "cloudflare",
+   "hours_open": 281.8,
+   "title": "Systems Engineer - Global Resource Management (Data Residency)",
+   "uid": "greenhouse:cloudflare:8015230"
   }
  ],
- "count": 810,
- "updated_at": 1789467872
+ "count": 807,
+ "updated_at": 1789468985
 }
