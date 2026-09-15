@@ -2,34 +2,6 @@
  "closed": [
   {
    "closed_at": 1789048465,
-   "company": "G Square Builders Ltd.",
-   "hours_open": 182.8,
-   "title": "Web developer",
-   "uid": "jobbank:junior programmer:50199269"
-  },
-  {
-   "closed_at": 1789048465,
-   "company": "ms",
-   "hours_open": 164.9,
-   "title": "Associate, Software Engineer",
-   "uid": "workday:ms.wd5/External:Associate--Software-Engineer_JR031776"
-  },
-  {
-   "closed_at": 1789048465,
-   "company": "pathrobotics",
-   "hours_open": 163.3,
-   "title": "Software Engineer, Fleet Platform",
-   "uid": "greenhouse:pathrobotics:8631767002"
-  },
-  {
-   "closed_at": 1789048465,
-   "company": "thenuclearcompany",
-   "hours_open": 44.8,
-   "title": "Financial Analyst, FP&A Systems & Automation",
-   "uid": "greenhouse:thenuclearcompany:5367664008"
-  },
-  {
-   "closed_at": 1789048465,
    "company": "comstock",
    "hours_open": 163.3,
    "title": "Building Engineer- Mall ",
@@ -5599,8 +5571,36 @@
    "hours_open": 271.9,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1789433686,
+   "company": "sierra",
+   "hours_open": 115.0,
+   "title": "Software Engineer Intern, Agent (Winter 2027)",
+   "uid": "ashby:sierra:02e1c456-8489-4a74-9fe7-af8845b040e4"
+  },
+  {
+   "closed_at": 1789433686,
+   "company": "snowflake",
+   "hours_open": 268.9,
+   "title": "Forward Deployed Engineer, Applied AI",
+   "uid": "ashby:snowflake:a6a3e9d2-b045-466a-8074-1613c07891fe"
+  },
+  {
+   "closed_at": 1789433686,
+   "company": "spacex",
+   "hours_open": 272.0,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1789433686,
+   "company": "spacex",
+   "hours_open": 270.3,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
- "count": 814,
- "updated_at": 1789433491
+ "count": 804,
+ "updated_at": 1789433687
 }
