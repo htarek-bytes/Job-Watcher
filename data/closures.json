@@ -1,62 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789048465,
-   "company": "darkwolfsolutions",
-   "hours_open": 44.8,
-   "title": "Cloud Cybersecurity Analyst",
-   "uid": "greenhouse:darkwolfsolutions:7813054003"
-  },
-  {
-   "closed_at": 1789048465,
-   "company": "spacex",
-   "hours_open": 164.9,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1789048465,
-   "company": "spacex",
-   "hours_open": 163.3,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1789051055,
-   "company": "td",
-   "hours_open": 45.5,
-   "title": "Software Engineer Intern/Co-op (Winter 2027)",
-   "uid": "workday:td.wd3/TD_Bank_Careers:Software-Engineer-Co-op---Intern--Winter-2027-_R_1509790"
-  },
-  {
-   "closed_at": 1789051055,
-   "company": "tsc",
-   "hours_open": 142.2,
-   "title": "Junior Electrical Test Engineer",
-   "uid": "workday:tsc.wd12/TSC-Careers:Junior-Electrical-Test-Engineer_JR2773"
-  },
-  {
-   "closed_at": 1789051055,
-   "company": "salesforce",
-   "hours_open": 18.5,
-   "title": "Solution Engineer (Pre-Sales) - All Levels - Informatica",
-   "uid": "workday:salesforce.wd12/External_Career_Site:Solution-Engineer--Pre-Sales----Informatica_JR331878"
-  },
-  {
-   "closed_at": 1789051055,
-   "company": "twitch",
-   "hours_open": 165.7,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1789051055,
-   "company": "td",
-   "hours_open": 137.2,
-   "title": "Associate Software Engineer",
-   "uid": "workday:td.wd3/TD_Bank_Careers:Associate-Software-Engineer_R_1496579"
-  },
-  {
    "closed_at": 1789051055,
    "company": "top-hat",
    "hours_open": 178.2,
@@ -5599,8 +5543,64 @@
    "hours_open": 269.7,
    "title": "Security Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1789437141,
+   "company": "twitch",
+   "hours_open": 270.0,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1789437141,
+   "company": "spotify",
+   "hours_open": 270.0,
+   "title": "Software Engineer - Financial Engineering",
+   "uid": "lever:spotify:308d127c-e765-4895-9264-3765ddbfc620"
+  },
+  {
+   "closed_at": 1789437141,
+   "company": "weride",
+   "hours_open": 272.9,
+   "title": "Software Engineer - Mapping & Localization",
+   "uid": "lever:weride:acb82703-595c-48bc-9b7c-815a70d0c5a9"
+  },
+  {
+   "closed_at": 1789437141,
+   "company": "spacex",
+   "hours_open": 272.9,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1789437141,
+   "company": "spacex",
+   "hours_open": 272.9,
+   "title": "Operations Engineer (Material Flow)",
+   "uid": "greenhouse:spacex:8641455002"
+  },
+  {
+   "closed_at": 1789437141,
+   "company": "spacex",
+   "hours_open": 272.9,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1789437141,
+   "company": "spacex",
+   "hours_open": 272.9,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1789437141,
+   "company": "spacex",
+   "hours_open": 272.9,
+   "title": "Material Flow Engineer",
+   "uid": "greenhouse:spacex:8461337002"
   }
  ],
- "count": 803,
- "updated_at": 1789436214
+ "count": 808,
+ "updated_at": 1789437142
 }
