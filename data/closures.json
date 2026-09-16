@@ -1,83 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789164282,
-   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
-   "hours_open": 76.9,
-   "title": "Administrateur Réseau TI",
-   "uid": "jobillico:analyste reseau:17386419"
-  },
-  {
-   "closed_at": 1789164282,
-   "company": "spacex",
-   "hours_open": 195.4,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1789166059,
-   "company": "boeing",
-   "hours_open": 0.5,
-   "title": "Entry-Level Simulation Software Engineer",
-   "uid": "workday:boeing.wd1/external_subsidiary:Entry-Level-Simulation-Software-Engineer_JR2026516853"
-  },
-  {
-   "closed_at": 1789166059,
-   "company": "echo",
-   "hours_open": 21.4,
-   "title": "Associate Software Engineer",
-   "uid": "workday:echo.wd1/Echo_Logistics:Associate-Software-Engineer_R4691-1"
-  },
-  {
-   "closed_at": 1789166059,
-   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
-   "hours_open": 77.4,
-   "title": "Administrateur Réseau TI",
-   "uid": "jobillico:analyste reseau:17386419"
-  },
-  {
-   "closed_at": 1789166059,
-   "company": "spacex",
-   "hours_open": 194.7,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1789166059,
-   "company": "spacex",
-   "hours_open": 197.6,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1789166059,
-   "company": "spacex",
-   "hours_open": 197.6,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1789166954,
-   "company": "globalhr",
-   "hours_open": 8.2,
-   "title": "Internship - Winter 2027 - Software Developer Aerospace Control Systems & Web Applications",
-   "uid": "workday:globalhr.wd5/rec_rtx_ext_gateway:Internship---Winter-2027---Software-Developer-Aerospace-Control-Systems---Web-Applications_01874412"
-  },
-  {
-   "closed_at": 1789166954,
-   "company": "jabil",
-   "hours_open": 17.9,
-   "title": "Test Engineer I",
-   "uid": "workday:jabil.wd5/Jabil_Careers:Test-Engineer-I_J2454862"
-  },
-  {
-   "closed_at": 1789166954,
-   "company": "twitch",
-   "hours_open": 197.9,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
    "closed_at": 1789166954,
    "company": "graco",
    "hours_open": 52.0,
@@ -5599,8 +5522,85 @@
    "hours_open": 301.6,
    "title": "Reservoir Engineer Intern",
    "uid": "workday:repsol.wd3/Repsol:Reservoir-Engineer-Intern_83636-1"
+  },
+  {
+   "closed_at": 1789568688,
+   "company": "salesforce",
+   "hours_open": 14.1,
+   "title": "Business Development Associate, Early Career",
+   "uid": "workday:salesforce.wd12/External_Career_Site:Business-Development-Associate_JR347430-1"
+  },
+  {
+   "closed_at": 1789568688,
+   "company": "gotion",
+   "hours_open": 309.5,
+   "title": "Warehouse & Logistics Engineer ",
+   "uid": "greenhouse:gotion:8722325002"
+  },
+  {
+   "closed_at": 1789568688,
+   "company": "Scientific Research Corporation",
+   "hours_open": 123.7,
+   "title": "Software Developer 1",
+   "uid": "simplify:listings:6765f939-ce0a-421f-9d29-884dc3fe84a0"
+  },
+  {
+   "closed_at": 1789568688,
+   "company": "td",
+   "hours_open": 326.3,
+   "title": "Associate Software Engineer (Fullstack)",
+   "uid": "workday:td.wd3/TD_Bank_Careers:Associate-Software-Engineer--Fullstack-_R_1508672"
+  },
+  {
+   "closed_at": 1789568688,
+   "company": "altentechnologyusa",
+   "hours_open": 19.4,
+   "title": "Tool Technology Engineer",
+   "uid": "greenhouse:altentechnologyusa:5142454007"
+  },
+  {
+   "closed_at": 1789568688,
+   "company": "Mastercard",
+   "hours_open": 43.3,
+   "title": "Software Engineer 1",
+   "uid": "simplify:listings:6fc2b307-1b8e-46f9-aa14-0d528e6fd4a9"
+  },
+  {
+   "closed_at": 1789568688,
+   "company": "RTX",
+   "hours_open": 23.2,
+   "title": "Software Modernization Engineer 1",
+   "uid": "simplify:listings:d1eed041-7ca0-4a39-8adc-7011f5c8b2df"
+  },
+  {
+   "closed_at": 1789568688,
+   "company": "voyagertechnologiesinc",
+   "hours_open": 309.5,
+   "title": "Spacecraft Systems Engineer",
+   "uid": "greenhouse:voyagertechnologiesinc:4354492009"
+  },
+  {
+   "closed_at": 1789568688,
+   "company": "systemstechnologyresearch",
+   "hours_open": 302.5,
+   "title": "Autonomy Algorithms Software Engineer",
+   "uid": "greenhouse:systemstechnologyresearch:4704682006"
+  },
+  {
+   "closed_at": 1789568688,
+   "company": "spacex",
+   "hours_open": 309.5,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1789568688,
+   "company": "systemstechnologyresearch",
+   "hours_open": 189.3,
+   "title": "Cleared Systems Administrator",
+   "uid": "greenhouse:systemstechnologyresearch:4661065006"
   }
  ],
- "count": 807,
- "updated_at": 1789559826
+ "count": 811,
+ "updated_at": 1789568689
 }
