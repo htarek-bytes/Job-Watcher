@@ -2,13 +2,6 @@
  "closed": [
   {
    "closed_at": 1789156366,
-   "company": "Amazon",
-   "hours_open": 190.5,
-   "title": "Software Development Engineer, Amazon Quick",
-   "uid": "amazon:amazon:10529317"
-  },
-  {
-   "closed_at": 1789156366,
    "company": "generalmatter",
    "hours_open": 213.9,
    "title": "Electrical I&C Engineer (New Grad) ",
@@ -5599,8 +5592,15 @@
    "hours_open": 131.2,
    "title": "Software Engineer 1",
    "uid": "lever:wyetechllc:1fe7707e-a4c1-41ad-a189-893767e8d40e"
+  },
+  {
+   "closed_at": 1789536096,
+   "company": "YO AI Labs",
+   "hours_open": 16.7,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50290477"
   }
  ],
- "count": 802,
- "updated_at": 1789535224
+ "count": 801,
+ "updated_at": 1789536097
 }
