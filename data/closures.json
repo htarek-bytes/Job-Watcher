@@ -1,34 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789237820,
-   "company": "relx",
-   "hours_open": 236.5,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - June)",
-   "uid": "workday:relx.wd3/RiskSolutions:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-1"
-  },
-  {
-   "closed_at": 1789237820,
-   "company": "relx",
-   "hours_open": 236.5,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Boca Raton - June)",
-   "uid": "workday:relx.wd3/RiskSolutions:Tech-Accelerate-Graduate-Program---Software-Engineer--Boca-Raton---June-_R116023-2"
-  },
-  {
-   "closed_at": 1789237820,
-   "company": "spacex",
-   "hours_open": 217.5,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1789238759,
-   "company": "Logesco Informatique",
-   "hours_open": 97.6,
-   "title": "Administrateur de réseau",
-   "uid": "jobillico:analyste reseau:17188132"
-  },
-  {
    "closed_at": 1789238759,
    "company": "mmc",
    "hours_open": 234.7,
@@ -5599,8 +5571,36 @@
    "hours_open": 170.5,
    "title": "Embedded Software Engineer, Amazon Leo Optical Inter-Satellite Link ",
    "uid": "amazon:amazon:10535311"
+  },
+  {
+   "closed_at": 1789602602,
+   "company": "YO AI Labs",
+   "hours_open": 42.0,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50289053"
+  },
+  {
+   "closed_at": 1789602602,
+   "company": "kustomer",
+   "hours_open": 190.0,
+   "title": "Software Engineer, Full Stack (Early Career)",
+   "uid": "ashby:kustomer:4037272a-7fd3-4040-906b-47fde875a817"
+  },
+  {
+   "closed_at": 1789602602,
+   "company": "kustomer",
+   "hours_open": 190.0,
+   "title": "Tech Ops Systems Engineer/ SysAdmin (Mac)",
+   "uid": "ashby:kustomer:61dcb217-b513-4020-8eb8-211b0336c3db"
+  },
+  {
+   "closed_at": 1789602602,
+   "company": "spacex",
+   "hours_open": 318.9,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 811,
- "updated_at": 1789602353
+ "count": 804,
+ "updated_at": 1789602602
 }
