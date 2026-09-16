@@ -1,41 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789151465,
-   "company": "spacex",
-   "hours_open": 193.6,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1789156237,
-   "company": "CANADIAN EASY TAX AND FINANCIAL SERVICES",
-   "hours_open": 2.6,
-   "title": "Web developer",
-   "uid": "jobbank:junior programmer:50267136"
-  },
-  {
-   "closed_at": 1789156237,
-   "company": "Arora Enterprise Inc",
-   "hours_open": 2.6,
-   "title": "Web developer",
-   "uid": "jobbank:junior programmer:50266457"
-  },
-  {
-   "closed_at": 1789156237,
-   "company": "Richard & Levesque Cuisines Salles de Bain",
-   "hours_open": 62.5,
-   "title": "Web developer",
-   "uid": "jobbank:developpeur junior:50247764"
-  },
-  {
-   "closed_at": 1789156237,
-   "company": "wachter",
-   "hours_open": 76.7,
-   "title": "Professional Services Junior Engineer",
-   "uid": "lever:wachter:d6e087b3-90b6-447a-9b0d-fbe93f28c8a3"
-  },
-  {
    "closed_at": 1789156237,
    "company": "twitch",
    "hours_open": 191.9,
@@ -5599,8 +5564,43 @@
    "hours_open": 32.2,
    "title": "Test Engineer, Maritime Production",
    "uid": "greenhouse:andurilindustries:5236863007"
+  },
+  {
+   "closed_at": 1789521795,
+   "company": "Kronos Consulting",
+   "hours_open": 19.5,
+   "title": "network specialist - computer systems",
+   "uid": "jobbank:specialiste infrastructure:50289304"
+  },
+  {
+   "closed_at": 1789521795,
+   "company": "snowflake",
+   "hours_open": 214.3,
+   "title": "Solution Engineer - Insurance & Asset Management",
+   "uid": "ashby:snowflake:da9101c0-c661-4238-b9df-426fb1998bb4"
+  },
+  {
+   "closed_at": 1789521795,
+   "company": "snowflake",
+   "hours_open": 214.3,
+   "title": "Solution Engineer - Emerging Enterprise FS",
+   "uid": "ashby:snowflake:73e98b62-975a-4e3c-be44-daf4e832af25"
+  },
+  {
+   "closed_at": 1789521795,
+   "company": "twitch",
+   "hours_open": 293.5,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1789521795,
+   "company": "retell-ai",
+   "hours_open": 24.5,
+   "title": "Customer Success Engineer (Contract)",
+   "uid": "ashby:retell-ai:f492185e-32ed-407c-9aea-c87b0dbfec15"
   }
  ],
- "count": 802,
- "updated_at": 1789519602
+ "count": 805,
+ "updated_at": 1789521796
 }
