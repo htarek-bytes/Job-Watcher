@@ -1,5 +1,5 @@
 {
- "count": 5139,
+ "count": 5145,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -140,6 +140,8 @@
   "amazon:amazon:10547103": 1789582733,
   "amazon:amazon:10547124": 1789583487,
   "amazon:amazon:10547170": 1789586515,
+  "amazon:amazon:10550363": 1789596999,
+  "amazon:amazon:10550409": 1789596999,
   "ashby:1password:4ff46f84-a5c9-4232-84b6-1dfa8e737148": 1788750148,
   "ashby:1password:7f885c41-7572-439c-886f-bc508eb9a3d7": 1788454653,
   "ashby:1password:a5b083d5-5f82-4316-b5ef-a577f2edb493": 1788750148,
@@ -474,6 +476,7 @@
   "ashby:meticulous:e4f7bc5d-1aac-4ed7-a8c3-b4f96002d416": 1788465705,
   "ashby:miovision:8724e052-0a5f-4be3-a7fb-0966fe8cd7a1": 1788887337,
   "ashby:miovision:9f7b5969-c3fa-40b6-8d4f-e8f48d888c5c": 1788454653,
+  "ashby:miovision:b3fba46f-8c0b-412a-a141-ee4dbb430a15": 1789596999,
   "ashby:miovision:daac9fa8-0aac-4e06-8e0b-3ff327feb928": 1789061242,
   "ashby:modal:44b57790-528e-4f97-8613-03564316be8a": 1788750148,
   "ashby:modal:5113f35e-988d-41bc-a899-3261a9454e40": 1788454653,
@@ -2860,6 +2863,7 @@
   "jobbank:junior programmer:50279299": 1789328890,
   "jobbank:junior programmer:50286159": 1789424861,
   "jobbank:junior programmer:50299653": 1789574003,
+  "jobbank:junior programmer:50303075": 1789596999,
   "jobbank:junior software developer:49875004": 1788390279,
   "jobbank:junior software developer:50080344": 1788390279,
   "jobbank:junior software developer:50096282": 1788390279,
@@ -2923,6 +2927,7 @@
   "jobbank:network administrator:50248992": 1788947734,
   "jobbank:network administrator:50264218": 1789103977,
   "jobbank:network administrator:50271710": 1789187378,
+  "jobbank:network administrator:50302907": 1789596999,
   "jobbank:network analyst:50259233": 1789061242,
   "jobbank:scada:50203431": 1788887337,
   "jobbank:scada:50248622": 1788947734,
@@ -5043,6 +5048,7 @@
   "workday:sec.wd3/Samsung_Careers:AMHS-Entry-level-Engineer_R120379": 1789517822,
   "workday:sec.wd3/Samsung_Careers:XMLNAME-2027-New-Grad--SEED--Program_R119156-1": 1788377835,
   "workday:selinc.wd1/SEL:Associate-Software-Engineer---Vulnerability-Assessment_2026-22231": 1788539216,
+  "workday:selinc.wd1/SEL:Associate-Software-Engineer--Full-Stack-TypeScript-React-C-_2026-23005-1": 1789596999,
   "workday:selinc.wd1/SEL:Associate-Software-Engineer_2026-22492-1": 1789425451,
   "workday:selinc.wd1/SEL:Power-Engineer-Intern_2026-21156": 1788539216,
   "workday:selinc.wd1/SEL:Software-Engineering-Intern---Power-Systems_2026-22933": 1788539216,
@@ -5141,5 +5147,5 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148,
   "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541": 1789106107
  },
- "updated_at": 1789594680
+ "updated_at": 1789597001
 }

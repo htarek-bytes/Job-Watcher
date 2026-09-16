@@ -1,83 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789228004,
-   "company": "Groupe Mario Coté",
-   "hours_open": 22.5,
-   "title": "Administrateur de réseau",
-   "uid": "jobillico:analyste reseau:17520153"
-  },
-  {
-   "closed_at": 1789228004,
-   "company": "twitch",
-   "hours_open": 214.8,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1789228004,
-   "company": "spacex",
-   "hours_open": 214.5,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1789229564,
-   "company": "AdButler",
-   "hours_open": 233.1,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50112647"
-  },
-  {
-   "closed_at": 1789229643,
-   "company": "twitch",
-   "hours_open": 212.3,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1789229643,
-   "company": "AdButler",
-   "hours_open": 233.2,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50112647"
-  },
-  {
-   "closed_at": 1789229643,
-   "company": "spacex",
-   "hours_open": 215.3,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1789230897,
-   "company": "Logesco Informatique",
-   "hours_open": 95.4,
-   "title": "Administrateur de réseau",
-   "uid": "jobillico:analyste reseau:17188132"
-  },
-  {
-   "closed_at": 1789230897,
-   "company": "avav",
-   "hours_open": 26.8,
-   "title": "Software Engineering Intern",
-   "uid": "workday:avav.wd1/avav:Software-Engineering-Intern_8613"
-  },
-  {
-   "closed_at": 1789230897,
-   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
-   "hours_open": 95.4,
-   "title": "Administrateur Réseau TI",
-   "uid": "jobillico:analyste reseau:17386419"
-  },
-  {
-   "closed_at": 1789230897,
-   "company": "twitch",
-   "hours_open": 215.6,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
    "closed_at": 1789230897,
    "company": "spacex",
    "hours_open": 215.3,
@@ -5599,8 +5522,85 @@
    "hours_open": 338.1,
    "title": "Junior Software Engineer",
    "uid": "workday:kbr.wd5/KBR_Careers:Junior-Software-Engineer_R2122294"
+  },
+  {
+   "closed_at": 1789596999,
+   "company": "Foot Locker",
+   "hours_open": 17.3,
+   "title": "Associate Software Engineer - Merchandise Technology",
+   "uid": "simplify:listings:c47f3508-12e8-4e99-a154-587f29f76502"
+  },
+  {
+   "closed_at": 1789596999,
+   "company": "Astra North Infoteck Inc.",
+   "hours_open": 16.9,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:systems analyst:50297183"
+  },
+  {
+   "closed_at": 1789596999,
+   "company": "Nidec",
+   "hours_open": 354.0,
+   "title": "Software Development Engineer 1",
+   "uid": "simplify:listings:0197e8bf-8d8c-41f2-ba71-4d4a29b0a1be"
+  },
+  {
+   "closed_at": 1789596999,
+   "company": "Amazon",
+   "hours_open": 170.9,
+   "title": "Software Development Engineer -Control Plane, AWS Scalable Intent Driven Routing (SIDR)",
+   "uid": "amazon:amazon:10535019"
+  },
+  {
+   "closed_at": 1789596999,
+   "company": "Amazon",
+   "hours_open": 172.4,
+   "title": "Software Development Engineer, AWS CloudWatch OpenTelemetry",
+   "uid": "amazon:amazon:10534632"
+  },
+  {
+   "closed_at": 1789596999,
+   "company": "ngc",
+   "hours_open": 23.3,
+   "title": "2027 Cyber Software Engineer Intern - Cincinnati OH",
+   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Cyber-Software-Engineer-Intern---Cincinnati-OH_R10249186"
+  },
+  {
+   "closed_at": 1789596999,
+   "company": "ngc",
+   "hours_open": 145.2,
+   "title": "2027 Spring Co-op Cyber Software Engineer Intern - Cincinnati OH",
+   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Spring-Co-op-Cyber-Software-Engineer-Intern---Cincinnati-OH_R10250275-1"
+  },
+  {
+   "closed_at": 1789596999,
+   "company": "Forward Insurance Managers Ltd.",
+   "hours_open": 335.2,
+   "title": "Web programmer",
+   "uid": "jobbank:junior programmer:50129971"
+  },
+  {
+   "closed_at": 1789596999,
+   "company": "VIZDOM TECH ALBERTA LTD.",
+   "hours_open": 197.1,
+   "title": "network administrator",
+   "uid": "jobbank:network administrator:49542881"
+  },
+  {
+   "closed_at": 1789596999,
+   "company": "spacex",
+   "hours_open": 314.4,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1789596999,
+   "company": "spacex",
+   "hours_open": 317.0,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
   }
  ],
- "count": 806,
- "updated_at": 1789594681
+ "count": 811,
+ "updated_at": 1789597001
 }
