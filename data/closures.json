@@ -1,34 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789159269,
-   "company": "Amazon",
-   "hours_open": 195.7,
-   "title": "Software Development Engineer, Amazon Fulfillment Technologies (AFT)  - Platform Engineering & Services",
-   "uid": "amazon:amazon:10526509"
-  },
-  {
-   "closed_at": 1789159269,
-   "company": "Amazon",
-   "hours_open": 195.7,
-   "title": "Software Development Engineer, Amazon Leo for Government",
-   "uid": "amazon:amazon:10528281"
-  },
-  {
-   "closed_at": 1789159269,
-   "company": "datadog",
-   "hours_open": 208.1,
-   "title": "Software Engineering Intern (Winter)",
-   "uid": "greenhouse:datadog:8052095"
-  },
-  {
-   "closed_at": 1789159269,
-   "company": "rocketlab",
-   "hours_open": 188.7,
-   "title": "Test and Launch Operations Engineer I",
-   "uid": "greenhouse:rocketlab:7807138003"
-  },
-  {
    "closed_at": 1789161300,
    "company": "launchdarkly",
    "hours_open": 196.3,
@@ -5599,8 +5571,36 @@
    "hours_open": 305.0,
    "title": "Software Engineer",
    "uid": "greenhouse:coinbase:8003605"
+  },
+  {
+   "closed_at": 1789553105,
+   "company": "globalhr",
+   "hours_open": 11.9,
+   "title": "Stage - Hiver 2027-  Service Numériques pour les Moteurs – Ingénieur Système Sol / Internship - Winter 2027- Digital Engine Services (DES) – Ground system engineer",
+   "uid": "workday:globalhr.wd5/rec_rtx_ext_gateway:Stage---Hiver-2027---Service-Numriques-pour-les-Moteurs---Ingnieur-Systme-Sol---Internship---Winter-2027--Digital-Engine-Services--DES----Ground-system-engineer_01874393"
+  },
+  {
+   "closed_at": 1789553105,
+   "company": "globalhr",
+   "hours_open": 11.9,
+   "title": "Internship – Raytheon Systems Security Engineer -Onsite",
+   "uid": "workday:globalhr.wd5/rec_rtx_ext_gateway:Internship---Raytheon-Systems-Security-Engineer--Onsite_01874702"
+  },
+  {
+   "closed_at": 1789553105,
+   "company": "twitch",
+   "hours_open": 305.1,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1789553105,
+   "company": "globalhr",
+   "hours_open": 11.9,
+   "title": "Software Engineering Intern (Summer 2027)",
+   "uid": "workday:globalhr.wd5/rec_rtx_ext_gateway:Software-Engineering-Intern--Summer-2027-_01871987"
   }
  ],
- "count": 802,
- "updated_at": 1789552501
+ "count": 804,
+ "updated_at": 1789553105
 }
