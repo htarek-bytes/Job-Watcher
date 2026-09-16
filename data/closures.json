@@ -1,41 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789149391,
-   "company": "twitch",
-   "hours_open": 190.0,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1789149391,
-   "company": "spacex",
-   "hours_open": 190.0,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1789151465,
-   "company": "twitch",
-   "hours_open": 193.6,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1789151465,
-   "company": "Groupe Mario Coté",
-   "hours_open": 1.2,
-   "title": "Administrateur de réseau",
-   "uid": "jobillico:analyste reseau:17520153"
-  },
-  {
-   "closed_at": 1789151465,
-   "company": "pictonmahoney",
-   "hours_open": 72.8,
-   "title": "Trading Systems Support Analyst",
-   "uid": "bamboohr:pictonmahoney:360"
-  },
-  {
    "closed_at": 1789151465,
    "company": "gotion",
    "hours_open": 193.6,
@@ -5599,8 +5564,43 @@
    "hours_open": 290.9,
    "title": "Software Dev Engineer, Antenna System Validation, Amazon Leo",
    "uid": "amazon:amazon:10529262"
+  },
+  {
+   "closed_at": 1789518387,
+   "company": "cerebras",
+   "hours_open": 295.5,
+   "title": "AI Infrastructure Operations Engineer",
+   "uid": "ashby:cerebras:98ccea5d-d67a-4b58-a44a-168eb5012fe6"
+  },
+  {
+   "closed_at": 1789518387,
+   "company": "clasp-group",
+   "hours_open": 114.5,
+   "title": "University Partnership Development Associate",
+   "uid": "ashby:clasp-group:9425f592-09bf-4ec6-879c-ccc6c33b6f2e"
+  },
+  {
+   "closed_at": 1789518387,
+   "company": "contoro",
+   "hours_open": 292.5,
+   "title": "Data Engineer, Cloud Platform",
+   "uid": "ashby:contoro:82ee31ed-0418-4fc9-a07b-ebc5998bf5a1"
+  },
+  {
+   "closed_at": 1789518387,
+   "company": "contoro",
+   "hours_open": 292.5,
+   "title": "Robotics Engineer, Motion Planning",
+   "uid": "ashby:contoro:0f41e38e-ee2b-4abb-b232-7ee72e37509f"
+  },
+  {
+   "closed_at": 1789518387,
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
+   "hours_open": 175.3,
+   "title": "Administrateur Réseau TI",
+   "uid": "jobillico:analyste reseau:17386419"
   }
  ],
- "count": 823,
- "updated_at": 1789517822
+ "count": 805,
+ "updated_at": 1789518388
 }
