@@ -1,48 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789230897,
-   "company": "spacex",
-   "hours_open": 215.3,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1789235458,
-   "company": "Groupe Mario Coté",
-   "hours_open": 24.6,
-   "title": "Administrateur de réseau",
-   "uid": "jobillico:analyste reseau:17520153"
-  },
-  {
-   "closed_at": 1789235458,
-   "company": "twitch",
-   "hours_open": 213.9,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1789235458,
-   "company": "gevernova",
-   "hours_open": 238.2,
-   "title": "Early Career Traininship- Technical Applications Engineer",
-   "uid": "workday:gevernova.wd5/vernova_externalsite:Early-Career-Traininship--Technical-Applications-Engineer_R5050516"
-  },
-  {
-   "closed_at": 1789235458,
-   "company": "celonis",
-   "hours_open": 215.2,
-   "title": "Associate Value Engineer (AI-Driven Data Science & Analytics) - Orbit Program",
-   "uid": "greenhouse:celonis:7725788003"
-  },
-  {
-   "closed_at": 1789235458,
-   "company": "spacex",
-   "hours_open": 216.9,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
    "closed_at": 1789235634,
    "company": "twitch",
    "hours_open": 216.9,
@@ -5599,8 +5557,50 @@
    "hours_open": 317.0,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1789597556,
+   "company": "td",
+   "hours_open": 8.0,
+   "title": "Mobile Software Engineer Intern/Co-op​ (Winter 2027)",
+   "uid": "workday:td.wd3/TD_Bank_Careers:Mobile-Software-Engineer-Co-op---Intern---Winter-2027-_R_1509825"
+  },
+  {
+   "closed_at": 1789597556,
+   "company": "td",
+   "hours_open": 8.0,
+   "title": "2027 Spring Co-op - Global Technology & Solutions - Software Engineer (SWE)",
+   "uid": "workday:td.wd3/TD_Bank_Careers:XMLNAME-2027-Spring-Co-op---Global-Technology---Solutions---Software-Engineer--SWE-_R_1509773"
+  },
+  {
+   "closed_at": 1789597556,
+   "company": "target",
+   "hours_open": 145.2,
+   "title": "Software Engineering Summer Internship-Minneapolis, MN (Starting June 2027)",
+   "uid": "workday:target.wd5/targetcareers:Software-Engineering-Summer-Internship-Minneapolis--MN--Starting-June-2027-_R0000451082"
+  },
+  {
+   "closed_at": 1789597556,
+   "company": "wellsky",
+   "hours_open": 338.8,
+   "title": "Associate Software Engineer - DevOps Engineer",
+   "uid": "workday:wellsky.wd1/WellSkyCareers:Associate-Software-Engineer---DevOps-Engineer_JR5080"
+  },
+  {
+   "closed_at": 1789597556,
+   "company": "spacex",
+   "hours_open": 317.5,
+   "title": "IT Storage Engineer",
+   "uid": "greenhouse:spacex:8698258002"
+  },
+  {
+   "closed_at": 1789597556,
+   "company": "spacex",
+   "hours_open": 317.5,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 811,
- "updated_at": 1789597001
+ "count": 806,
+ "updated_at": 1789597556
 }

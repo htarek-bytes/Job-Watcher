@@ -1,5 +1,5 @@
 {
- "count": 5145,
+ "count": 5149,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -142,6 +142,7 @@
   "amazon:amazon:10547170": 1789586515,
   "amazon:amazon:10550363": 1789596999,
   "amazon:amazon:10550409": 1789596999,
+  "amazon:amazon:10550866": 1789597556,
   "ashby:1password:4ff46f84-a5c9-4232-84b6-1dfa8e737148": 1788750148,
   "ashby:1password:7f885c41-7572-439c-886f-bc508eb9a3d7": 1788454653,
   "ashby:1password:a5b083d5-5f82-4316-b5ef-a577f2edb493": 1788750148,
@@ -2329,6 +2330,7 @@
   "greenhouse:spacex:8697065002": 1788454653,
   "greenhouse:spacex:8697078002": 1788454653,
   "greenhouse:spacex:8697586002": 1788454653,
+  "greenhouse:spacex:8698173002": 1789597556,
   "greenhouse:spacex:8698258002": 1788454653,
   "greenhouse:spacex:8698331002": 1788454653,
   "greenhouse:spacex:8698618002": 1788887337,
@@ -5058,6 +5060,8 @@
   "workday:silabs.wd1/SiliconlabsCareers:Software-Engineer-I_21011-1": 1789428175,
   "workday:snc.wd1/snc_external_career_site:Software-Engineering-Intern--Summer-2027-_R0030761-1": 1788474010,
   "workday:sonyglobal.wd1/SonyGlobalCareers:Software-Engineer-Intern_JR-119282": 1788448251,
+  "workday:statestreet.wd1/Global:Junior-Software-Engineer_R-797359-2": 1789597556,
+  "workday:stryker.wd1/StrykerCareers:Commercial-Operations-Software-Engineering-Intern---Flower-Mound--TX_R572941": 1789597556,
   "workday:stryker.wd1/StrykerCareers:Summer-2027-Internship---Software-Engineering---California_R572624": 1788448251,
   "workday:stryker.wd1/StrykerCareers:Summer-2027-Internship---Software-Engineering---Florida_R572629-1": 1788448251,
   "workday:stryker.wd1/StrykerCareers:Summer-2027-Internship---Software-Engineering---Indiana_R572631": 1788448251,
@@ -5147,5 +5151,5 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148,
   "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541": 1789106107
  },
- "updated_at": 1789597001
+ "updated_at": 1789597556
 }
