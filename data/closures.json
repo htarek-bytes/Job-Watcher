@@ -1,48 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789218045,
-   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
-   "hours_open": 91.9,
-   "title": "Administrateur Réseau TI",
-   "uid": "jobillico:analyste reseau:17386419"
-  },
-  {
-   "closed_at": 1789218045,
-   "company": "spacex",
-   "hours_open": 212.1,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1789220842,
-   "company": "twitch",
-   "hours_open": 212.8,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1789220842,
-   "company": "spacex",
-   "hours_open": 212.6,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1789227672,
-   "company": "twitch",
-   "hours_open": 211.8,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1789227672,
-   "company": "spacex",
-   "hours_open": 214.7,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
    "closed_at": 1789228004,
    "company": "Groupe Mario Coté",
    "hours_open": 22.5,
@@ -5599,8 +5557,50 @@
    "hours_open": 338.0,
    "title": "Artificial Intelligence Engineer I",
    "uid": "workday:insperity.wd12/NSP:Artificial-Intelligence-Engineer-I_JR103100"
+  },
+  {
+   "closed_at": 1789594680,
+   "company": "massgeneralbrigham",
+   "hours_open": 64.5,
+   "title": "Application Analyst I",
+   "uid": "workday:massgeneralbrigham.wd1/mgbexternal:Application-Analyst-I_RQ4079181"
+  },
+  {
+   "closed_at": 1789594680,
+   "company": "moog",
+   "hours_open": 179.6,
+   "title": "Intern, Software Engineering",
+   "uid": "workday:moog.wd5/moog_external_career_site:Intern--Software-Engineering_R-26-19888-1"
+  },
+  {
+   "closed_at": 1789594680,
+   "company": "jj",
+   "hours_open": 23.0,
+   "title": "Mechatronics & Systems Integration Intern - R&D",
+   "uid": "workday:jj.wd5/JJ:Mechatronics---Systems-Integration-Intern---R-D_R-099833"
+  },
+  {
+   "closed_at": 1789594680,
+   "company": "jj",
+   "hours_open": 23.0,
+   "title": "Software Engineering Intern - Robotics R&D",
+   "uid": "workday:jj.wd5/JJ:Software-Engineering-Intern---Robotics-R-D_R-099919"
+  },
+  {
+   "closed_at": 1789594680,
+   "company": "micron",
+   "hours_open": 23.0,
+   "title": "Intern - Firmware Engineer",
+   "uid": "workday:micron.wd1/External:Intern---Firmware-Engineer_JR111584"
+  },
+  {
+   "closed_at": 1789594680,
+   "company": "kbr",
+   "hours_open": 338.1,
+   "title": "Junior Software Engineer",
+   "uid": "workday:kbr.wd5/KBR_Careers:Junior-Software-Engineer_R2122294"
   }
  ],
- "count": 805,
- "updated_at": 1789594468
+ "count": 806,
+ "updated_at": 1789594681
 }
