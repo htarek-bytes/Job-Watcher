@@ -2,48 +2,6 @@
  "closed": [
   {
    "closed_at": 1789156366,
-   "company": "generalmatter",
-   "hours_open": 213.9,
-   "title": "Electrical I&C Engineer (New Grad) ",
-   "uid": "greenhouse:generalmatter:5375939008"
-  },
-  {
-   "closed_at": 1789156366,
-   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
-   "hours_open": 74.7,
-   "title": "Administrateur Réseau TI",
-   "uid": "jobillico:analyste reseau:17386419"
-  },
-  {
-   "closed_at": 1789156366,
-   "company": "spacex",
-   "hours_open": 194.9,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1789156366,
-   "company": "wyetechllc",
-   "hours_open": 194.9,
-   "title": "DevOps Engineer - 28337",
-   "uid": "lever:wyetechllc:df737741-2aa9-4c97-8ba0-81d63fc9385c"
-  },
-  {
-   "closed_at": 1789156366,
-   "company": "wyetechllc",
-   "hours_open": 194.9,
-   "title": "DevOps Engineer - 29266",
-   "uid": "lever:wyetechllc:2527367f-e198-4cf9-ab42-b937df2a6208"
-  },
-  {
-   "closed_at": 1789156366,
-   "company": "wyetechllc",
-   "hours_open": 194.9,
-   "title": "DevOps Engineer - 28336",
-   "uid": "lever:wyetechllc:6791d735-b69f-429a-b902-0d9aec9c39e0"
-  },
-  {
-   "closed_at": 1789156366,
    "company": "Amazon",
    "hours_open": 185.5,
    "title": "Software Development Engineer, Amazon Dedicated Cloud, Early Career - 2026",
@@ -5599,8 +5557,50 @@
    "hours_open": 16.7,
    "title": "software developer",
    "uid": "jobbank:junior software developer:50290477"
+  },
+  {
+   "closed_at": 1789539533,
+   "company": "Sopra Steria",
+   "hours_open": 11.2,
+   "title": "Service Desk Junior Engineer-Service Support",
+   "uid": "smartrecruiters:SopraSteria1:744000149545149"
+  },
+  {
+   "closed_at": 1789539533,
+   "company": "YO AI Labs",
+   "hours_open": 24.4,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50289053"
+  },
+  {
+   "closed_at": 1789539533,
+   "company": "Rocket Lab USA",
+   "hours_open": 35.2,
+   "title": "Flight Software Engineer 1",
+   "uid": "simplify:listings:daabbb4b-3238-449b-a3f6-39e1681033a7"
+  },
+  {
+   "closed_at": 1789539533,
+   "company": "Tomra",
+   "hours_open": 216.1,
+   "title": "Pre-Sales Solutions Engineer",
+   "uid": "smartrecruiters:Tomra:744000144143929"
+  },
+  {
+   "closed_at": 1789539533,
+   "company": "CloudLabs",
+   "hours_open": 181.2,
+   "title": "systems analyst",
+   "uid": "jobbank:systems analyst:50053328"
+  },
+  {
+   "closed_at": 1789539533,
+   "company": "RTX",
+   "hours_open": 97.8,
+   "title": "Firmware Engineer 1",
+   "uid": "simplify:listings:bb98b63c-2ad3-4fe1-a884-6c7a092c1935"
   }
  ],
- "count": 801,
- "updated_at": 1789536097
+ "count": 806,
+ "updated_at": 1789539533
 }
