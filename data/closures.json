@@ -2,27 +2,6 @@
  "closed": [
   {
    "closed_at": 1789166954,
-   "company": "graco",
-   "hours_open": 52.0,
-   "title": "Manufacturing Engineering (Operational Technology) Co-op (January - August 2027)",
-   "uid": "workday:graco.wd501/Graco_Careers:Manufacturing-Engineering--Operational-Technology--Co-op--January---August-2027-_R0023574"
-  },
-  {
-   "closed_at": 1789166954,
-   "company": "hp",
-   "hours_open": 45.8,
-   "title": "Presales Technical Consultant",
-   "uid": "workday:hp.wd5/EXTEU-AC-CareerSite:Presales-Technical-Consultant_3165074"
-  },
-  {
-   "closed_at": 1789166954,
-   "company": "generalmotors",
-   "hours_open": 171.5,
-   "title": "Entry Level Software Design Release Engineer",
-   "uid": "workday:generalmotors.wd5/Careers_GM:Entry-Level-Software-Design-Release-Engineer_JR-202618509"
-  },
-  {
-   "closed_at": 1789166954,
    "company": "hpe",
    "hours_open": 113.9,
    "title": "Networking Presales Graduate - Belgium",
@@ -5599,8 +5578,29 @@
    "hours_open": 189.3,
    "title": "Cleared Systems Administrator",
    "uid": "greenhouse:systemstechnologyresearch:4661065006"
+  },
+  {
+   "closed_at": 1789569384,
+   "company": "YO AI Labs",
+   "hours_open": 25.9,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50290477"
+  },
+  {
+   "closed_at": 1789569384,
+   "company": "CGI",
+   "hours_open": 189.5,
+   "title": "Conseiller en gouvernance de la cybersécurité",
+   "uid": "jobillico:analyste cybersecurite:17433756"
+  },
+  {
+   "closed_at": 1789569384,
+   "company": "alta-ares",
+   "hours_open": 306.7,
+   "title": "Software Engineer — VIE  USA",
+   "uid": "ashby:alta-ares:ad4ace6a-823c-43ea-ae32-3d0711c33096"
   }
  ],
- "count": 811,
- "updated_at": 1789568689
+ "count": 803,
+ "updated_at": 1789569385
 }
