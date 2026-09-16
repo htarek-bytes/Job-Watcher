@@ -1,83 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789235634,
-   "company": "twitch",
-   "hours_open": 216.9,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1789235634,
-   "company": "spacex",
-   "hours_open": 216.7,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1789237713,
-   "company": "twitch",
-   "hours_open": 214.6,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1789237713,
-   "company": "relx",
-   "hours_open": 236.5,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - January)",
-   "uid": "workday:relx.wd3/RiskSolutions:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617"
-  },
-  {
-   "closed_at": 1789237713,
-   "company": "relx",
-   "hours_open": 236.5,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - June)",
-   "uid": "workday:relx.wd3/RiskSolutions:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-1"
-  },
-  {
-   "closed_at": 1789237713,
-   "company": "relx",
-   "hours_open": 236.5,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Boca Raton - June)",
-   "uid": "workday:relx.wd3/RiskSolutions:Tech-Accelerate-Graduate-Program---Software-Engineer--Boca-Raton---June-_R116023-2"
-  },
-  {
-   "closed_at": 1789237713,
-   "company": "mmc",
-   "hours_open": 108.2,
-   "title": "Junior Python Engineer @MarshTech",
-   "uid": "workday:mmc.wd1/MMC:Junior-Python-Engineer--MarshTech_R_362442-1"
-  },
-  {
-   "closed_at": 1789237713,
-   "company": "spacex",
-   "hours_open": 217.5,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1788911326,
-   "company": "relx",
-   "hours_open": 145.8,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - January)",
-   "uid": "workday:relx.wd3/RiskSolutions:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617"
-  },
-  {
-   "closed_at": 1789237820,
-   "company": "twitch",
-   "hours_open": 214.6,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1789237820,
-   "company": "relx",
-   "hours_open": 236.5,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - January)",
-   "uid": "workday:relx.wd3/RiskSolutions:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617"
-  },
-  {
    "closed_at": 1789237820,
    "company": "relx",
    "hours_open": 236.5,
@@ -5599,8 +5522,85 @@
    "hours_open": 317.5,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1789602352,
+   "company": "allen-control-systems",
+   "hours_open": 23.3,
+   "title": "Software Engineer – Enterprise Applications ",
+   "uid": "ashby:allen-control-systems:87abef03-ff94-4a7f-a944-5fad20f23daa"
+  },
+  {
+   "closed_at": 1789602352,
+   "company": "YO AI Labs",
+   "hours_open": 4.4,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50298491"
+  },
+  {
+   "closed_at": 1789602352,
+   "company": "allen-control-systems",
+   "hours_open": 315.9,
+   "title": "Power Electronics Engineer-All Levels",
+   "uid": "ashby:allen-control-systems:d58b7a40-797e-4baf-b7c1-8243eeb7588a"
+  },
+  {
+   "closed_at": 1789602352,
+   "company": "ramp",
+   "hours_open": 236.7,
+   "title": "Solutions Consultant, Post Sales, Commercial",
+   "uid": "ashby:ramp:8ca5c32b-e6c7-47e3-af23-291f122fa0f8"
+  },
+  {
+   "closed_at": 1789602352,
+   "company": "Qualcomm",
+   "hours_open": 355.4,
+   "title": "System AI Engineer New Grad - Display - ASICS Engineering",
+   "uid": "simplify:listings:2da5bc24-e216-4957-b76d-4e747a6795ef"
+  },
+  {
+   "closed_at": 1789602352,
+   "company": "The Nuclear Company",
+   "hours_open": 318.5,
+   "title": "Nuclear Engineer 1",
+   "uid": "simplify:listings:366b26f5-59ce-47c1-b9f4-4d13c1b61a49"
+  },
+  {
+   "closed_at": 1789602352,
+   "company": "rocketlab",
+   "hours_open": 2.3,
+   "title": "Security Analyst Intern Summer 2027",
+   "uid": "greenhouse:rocketlab:7986874003"
+  },
+  {
+   "closed_at": 1789602352,
+   "company": "rocketlab",
+   "hours_open": 2.3,
+   "title": "Security Analyst Intern Spring 2027",
+   "uid": "greenhouse:rocketlab:7986872003"
+  },
+  {
+   "closed_at": 1789602352,
+   "company": "spacex",
+   "hours_open": 318.8,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1789602352,
+   "company": "spacex",
+   "hours_open": 317.1,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1789602352,
+   "company": "Amazon",
+   "hours_open": 170.5,
+   "title": "Embedded Software Engineer, Amazon Leo Optical Inter-Satellite Link ",
+   "uid": "amazon:amazon:10535311"
   }
  ],
- "count": 806,
- "updated_at": 1789597556
+ "count": 811,
+ "updated_at": 1789602353
 }
