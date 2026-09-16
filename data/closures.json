@@ -1,69 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789189561,
-   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
-   "hours_open": 84.0,
-   "title": "Administrateur Réseau TI",
-   "uid": "jobillico:analyste reseau:17386419"
-  },
-  {
-   "closed_at": 1789189867,
-   "company": "twitch",
-   "hours_open": 201.3,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1789189867,
-   "company": "spacex",
-   "hours_open": 204.2,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1789192988,
-   "company": "Groupe Mario Coté",
-   "hours_open": 12.8,
-   "title": "Administrateur de réseau",
-   "uid": "jobillico:analyste reseau:17520153"
-  },
-  {
-   "closed_at": 1789192988,
-   "company": "AssetMark",
-   "hours_open": 5.9,
-   "title": "Associate Engineer",
-   "uid": "simplify:listings:3ee60348-39b1-4a67-b417-dfaf6fd38d00"
-  },
-  {
-   "closed_at": 1789202835,
-   "company": "Logesco Informatique",
-   "hours_open": 87.6,
-   "title": "Administrateur de réseau",
-   "uid": "jobillico:analyste reseau:17188132"
-  },
-  {
-   "closed_at": 1789202835,
-   "company": "caci",
-   "hours_open": 62.1,
-   "title": "Software Engineering Intern – Summer 2027",
-   "uid": "workday:caci.wd1/external:Software-Engineering-Intern---Summer-2027_331742"
-  },
-  {
-   "closed_at": 1789202835,
-   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
-   "hours_open": 87.6,
-   "title": "Administrateur Réseau TI",
-   "uid": "jobillico:analyste reseau:17386419"
-  },
-  {
-   "closed_at": 1789203086,
-   "company": "fmr",
-   "hours_open": 10.0,
-   "title": "Co-op, Software Engineer",
-   "uid": "workday:fmr.wd1/targeted:Co-op--Software-Engineer_2135200"
-  },
-  {
    "closed_at": 1789203086,
    "company": "globalhr",
    "hours_open": 70.9,
@@ -5599,8 +5536,71 @@
    "hours_open": 193.3,
    "title": "Network Systems Engineer (Pre-Sales)",
    "uid": "smartrecruiters:AristaNetworks:744000141514964"
+  },
+  {
+   "closed_at": 1789583487,
+   "company": "NielsenIQ",
+   "hours_open": 23.4,
+   "title": "Associate Software Engineer",
+   "uid": "smartrecruiters:NielsenIQ:744000149532505"
+  },
+  {
+   "closed_at": 1789583487,
+   "company": "Sia",
+   "hours_open": 49.9,
+   "title": "Junior Engineer",
+   "uid": "smartrecruiters:Sia:744000149341869"
+  },
+  {
+   "closed_at": 1789583487,
+   "company": "Sopra Steria",
+   "hours_open": 49.9,
+   "title": "FPGA Verification Engineer (Entry Level)",
+   "uid": "smartrecruiters:SopraSteria1:744000149337912"
+  },
+  {
+   "closed_at": 1789583487,
+   "company": "ServiceNow",
+   "hours_open": 117.8,
+   "title": "Forward Deployed Solution Engineer – Applied AI FDE",
+   "uid": "smartrecruiters:ServiceNow:744000149073920"
+  },
+  {
+   "closed_at": 1789583487,
+   "company": "Williams Racing",
+   "hours_open": 324.0,
+   "title": "Data Engineer Industrial Placement",
+   "uid": "smartrecruiters:WilliamsRacing:744000146954769"
+  },
+  {
+   "closed_at": 1789583487,
+   "company": "Amazon",
+   "hours_open": 168.7,
+   "title": "Software Development Engineer, AWS CloudWatch OpenTelemetry",
+   "uid": "amazon:amazon:10534632"
+  },
+  {
+   "closed_at": 1789583487,
+   "company": "spacex",
+   "hours_open": 313.6,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1789583487,
+   "company": "systemstechnologyresearch",
+   "hours_open": 193.4,
+   "title": "Autonomy Algorithms Software Engineer",
+   "uid": "greenhouse:systemstechnologyresearch:4704680006"
+  },
+  {
+   "closed_at": 1789583487,
+   "company": "spacex",
+   "hours_open": 313.6,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
   }
  ],
- "count": 805,
- "updated_at": 1789583204
+ "count": 809,
+ "updated_at": 1789583489
 }
