@@ -2,20 +2,6 @@
  "closed": [
   {
    "closed_at": 1789156366,
-   "company": "Echo Global Logistics",
-   "hours_open": 21.0,
-   "title": "Associate Software Engineer",
-   "uid": "simplify:listings:2873f43d-16b4-4fcf-b157-b9b935752e35"
-  },
-  {
-   "closed_at": 1789156366,
-   "company": "Light & Wonder",
-   "hours_open": 44.9,
-   "title": "Associate Software Engineer",
-   "uid": "simplify:listings:02502170-3121-44d4-bf17-fe903f70a51b"
-  },
-  {
-   "closed_at": 1789156366,
    "company": "Amazon",
    "hours_open": 190.5,
    "title": "Software Development Engineer, Amazon Quick",
@@ -5599,8 +5585,22 @@
    "hours_open": 179.8,
    "title": "Conseiller en gouvernance de la cybersécurité",
    "uid": "jobillico:analyste cybersecurite:17433756"
+  },
+  {
+   "closed_at": 1789535224,
+   "company": "YO AI Labs",
+   "hours_open": 23.2,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50289053"
+  },
+  {
+   "closed_at": 1789535224,
+   "company": "wyetechllc",
+   "hours_open": 131.2,
+   "title": "Software Engineer 1",
+   "uid": "lever:wyetechllc:1fe7707e-a4c1-41ad-a189-893767e8d40e"
   }
  ],
- "count": 817,
- "updated_at": 1789534727
+ "count": 802,
+ "updated_at": 1789535224
 }
