@@ -1,83 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789209684,
-   "company": "twitch",
-   "hours_open": 206.8,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1789209684,
-   "company": "td",
-   "hours_open": 89.0,
-   "title": "Associate Software Engineer",
-   "uid": "workday:td.wd3/TD_Bank_Careers:Associate-Software-Engineer_R_1509806"
-  },
-  {
-   "closed_at": 1789209684,
-   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
-   "hours_open": 89.5,
-   "title": "Administrateur Réseau TI",
-   "uid": "jobillico:analyste reseau:17386419"
-  },
-  {
-   "closed_at": 1789209684,
-   "company": "spacex",
-   "hours_open": 209.7,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1789215896,
-   "company": "Logesco Informatique",
-   "hours_open": 91.3,
-   "title": "Administrateur de réseau",
-   "uid": "jobillico:analyste reseau:17188132"
-  },
-  {
-   "closed_at": 1789215896,
-   "company": "twitch",
-   "hours_open": 211.5,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1789215896,
-   "company": "AdButler",
-   "hours_open": 229.3,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50112647"
-  },
-  {
-   "closed_at": 1789215896,
-   "company": "spacex",
-   "hours_open": 211.2,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1789216093,
-   "company": "retell-ai",
-   "hours_open": 236.6,
-   "title": "Forward Deployed Engineer, New Grad",
-   "uid": "ashby:retell-ai:7a23a933-cc70-43c9-a0d8-9f0c08ea4fd9"
-  },
-  {
-   "closed_at": 1789216093,
-   "company": "twitch",
-   "hours_open": 208.6,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1789216093,
-   "company": "spacex",
-   "hours_open": 211.5,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
    "closed_at": 1789217882,
    "company": "Groupe Mario Coté",
    "hours_open": 19.7,
@@ -5599,8 +5522,85 @@
    "hours_open": 313.1,
    "title": "Software Engineer, C++",
    "uid": "greenhouse:andurilindustries:5226943007"
+  },
+  {
+   "closed_at": 1789594041,
+   "company": "robinhood",
+   "hours_open": 190.6,
+   "title": "Web Developer ",
+   "uid": "greenhouse:robinhood:7543005"
+  },
+  {
+   "closed_at": 1789594041,
+   "company": "twitch",
+   "hours_open": 313.6,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1789594041,
+   "company": "bmo",
+   "hours_open": 196.1,
+   "title": "AI/Platform Analyst, 8 months (Co-op/Internship) - 8 months",
+   "uid": "workday:bmo.wd3/External:AI-Platform-Analyst--8-months--Co-op-Internship----8-months_R260026129-2"
+  },
+  {
+   "closed_at": 1789594041,
+   "company": "boeing",
+   "hours_open": 23.3,
+   "title": "Entry Level Command and Data Handling Network Engineer (Autonomous Navigation Systems)",
+   "uid": "workday:boeing.wd1/external_subsidiary:Command-and-Data-Handling-Network--Autonomous-Navigation-Systems-_JR2026523750"
+  },
+  {
+   "closed_at": 1789594041,
+   "company": "tebra",
+   "hours_open": 316.5,
+   "title": "Systems Analyst, Customer Operations",
+   "uid": "greenhouse:tebra:4700296005"
+  },
+  {
+   "closed_at": 1789594041,
+   "company": "ramp",
+   "hours_open": 234.4,
+   "title": "Solutions Consultant, Post Sales, Mid-Market",
+   "uid": "ashby:ramp:492823d8-9651-46cf-9d33-a632ef706879"
+  },
+  {
+   "closed_at": 1789594041,
+   "company": "cadence",
+   "hours_open": 340.6,
+   "title": "Adams Application Software Developer  (Recent Grad 2026)",
+   "uid": "workday:cadence.wd1/Univ_Careers:Adams-Application-Software-Developer---Recent-Grad-2026-_R55736-2"
+  },
+  {
+   "closed_at": 1789594041,
+   "company": "Insperity",
+   "hours_open": 353.1,
+   "title": "Artificial Intelligence Engineer 1",
+   "uid": "simplify:listings:a4ec4437-993b-4274-81e5-0ced8ce54e02"
+  },
+  {
+   "closed_at": 1789594041,
+   "company": "Kustomer",
+   "hours_open": 189.8,
+   "title": "Software Engineer – Early Career - Full Stack",
+   "uid": "simplify:listings:67fa641a-072c-4739-8ce6-46b35fd111a5"
+  },
+  {
+   "closed_at": 1789594041,
+   "company": "woolpert",
+   "hours_open": 304.5,
+   "title": "Embedded Systems & LIDAR Software Engineer",
+   "uid": "greenhouse:woolpert:4370881009"
+  },
+  {
+   "closed_at": 1789594041,
+   "company": "spacex",
+   "hours_open": 314.8,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
- "count": 806,
- "updated_at": 1789587979
+ "count": 811,
+ "updated_at": 1789594042
 }

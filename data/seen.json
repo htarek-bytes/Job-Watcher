@@ -1,5 +1,5 @@
 {
- "count": 5125,
+ "count": 5132,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -1756,6 +1756,7 @@
   "greenhouse:reddit:7997866": 1788454653,
   "greenhouse:reddit:8139781": 1788454653,
   "greenhouse:reddit:8148431": 1788454653,
+  "greenhouse:reddit:8172457": 1789594041,
   "greenhouse:reddit:8189317": 1789079134,
   "greenhouse:reddit:8194576": 1789102462,
   "greenhouse:reddit:8198102": 1789166059,
@@ -1832,6 +1833,8 @@
   "greenhouse:rocketlab:7978902003": 1788480892,
   "greenhouse:rocketlab:7985641003": 1789161300,
   "greenhouse:rocketlab:7985939003": 1789102462,
+  "greenhouse:rocketlab:7986872003": 1789594041,
+  "greenhouse:rocketlab:7986874003": 1789594041,
   "greenhouse:rocketlab:7992129003": 1789403727,
   "greenhouse:rocketlab:7993154003": 1789159269,
   "greenhouse:rocketlab:7993156003": 1789159269,
@@ -2766,6 +2769,7 @@
   "jobbank:cybersecurity analyst:49819441": 1788887337,
   "jobbank:cybersecurity analyst:49890153": 1788887337,
   "jobbank:cybersecurity analyst:50253155": 1788988461,
+  "jobbank:cybersecurity analyst:50302637": 1789594041,
   "jobbank:developpeur junior:50102680": 1788390279,
   "jobbank:developpeur junior:50103854": 1788390279,
   "jobbank:developpeur junior:50111833": 1788390279,
@@ -2949,6 +2953,7 @@
   "jobbank:systems administrator:50247905": 1788931288,
   "jobbank:systems administrator:50260080": 1789061242,
   "jobbank:systems administrator:50285632": 1789413651,
+  "jobbank:systems administrator:50302731": 1789594041,
   "jobbank:systems analyst:49858708": 1788887337,
   "jobbank:systems analyst:49966341": 1788887337,
   "jobbank:systems analyst:49969689": 1788931288,
@@ -4592,6 +4597,7 @@
   "workday:cae.wd3/career:C-IT-200-Product-Cybersecurity-Specialist-Intern_123542": 1788887337,
   "workday:campbellsoup.wd5/externalcareers_globalsite:Data-Engineer--DA-AI-Co-Op_Req-65838": 1788435390,
   "workday:campbellsoup.wd5/externalcareers_globalsite:Modeling-and-Visualization-Engineer-Co-Op_Req-65846": 1788435390,
+  "workday:canadiantirecorporation.wd3/Enterprise_External_Careers_Site:Analyst--Information-Security-Risk-Reporting_JR163997": 1789594041,
   "workday:canadiantirecorporation.wd3/Enterprise_External_Careers_Site:Business-Process---Automation-Specialist_JR163829": 1788979404,
   "workday:canadiantirecorporation.wd3/Enterprise_External_Careers_Site:Business-Systems-Engineer---AI_JR160709": 1788898936,
   "workday:canadiantirecorporation.wd3/Enterprise_External_Careers_Site:Enterprise-Data-Visualization---BI-Platform-Analyst_JR163657-1": 1788898936,
@@ -4636,6 +4642,7 @@
   "workday:crowdstrike.wd5/crowdstrikecareers:Engineer-I--Data-Scientist---New-Grad--Hybrid-_R29382-1": 1788390279,
   "workday:daikinapplied.wd1/Pre-Selected_Candidate_Site:Test-Engineer-I_R003050": 1788898936,
   "workday:deluxe.wd5/USA_CAN:Software-Engineer---Intern_261115WD": 1788898936,
+  "workday:dexcom.wd1/Dexcom:SW-Development-Engineer-1_JR121067": 1789594041,
   "workday:dexcom.wd1/Dexcom:Software-Development-Engineer-1_JR120540": 1788390279,
   "workday:dimensional.wd5/dfa_careers:Internship-in-Technology---Software-Engineer_2026-9022": 1788880168,
   "workday:disney.wd5/disneycareerdc:Software-Engineer-I_10158076-2": 1789070853,
@@ -5127,5 +5134,5 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148,
   "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541": 1789106107
  },
- "updated_at": 1789587978
+ "updated_at": 1789594042
 }
