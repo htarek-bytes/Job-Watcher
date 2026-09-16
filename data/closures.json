@@ -2,20 +2,6 @@
  "closed": [
   {
    "closed_at": 1789166954,
-   "company": "hpe",
-   "hours_open": 113.9,
-   "title": "Networking Presales Graduate - Belgium",
-   "uid": "workday:hpe.wd5/acjobsite:Networking-Presales-Graduate---Belgium_1210028"
-  },
-  {
-   "closed_at": 1789166954,
-   "company": "NVIDIA",
-   "hours_open": 203.2,
-   "title": "Circuit Design Engineer New Grad",
-   "uid": "simplify:listings:acdc834d-c47e-47e7-bef1-d25858f94848"
-  },
-  {
-   "closed_at": 1789166954,
    "company": "kbr",
    "hours_open": 219.2,
    "title": "Junior Software Engineer",
@@ -5599,8 +5585,22 @@
    "hours_open": 306.7,
    "title": "Software Engineer — VIE  USA",
    "uid": "ashby:alta-ares:ad4ace6a-823c-43ea-ae32-3d0711c33096"
+  },
+  {
+   "closed_at": 1789570388,
+   "company": "robinhood",
+   "hours_open": 141.4,
+   "title": "Software Engineer, Enterprise Build",
+   "uid": "greenhouse:robinhood:8120094"
+  },
+  {
+   "closed_at": 1789570388,
+   "company": "opengov",
+   "hours_open": 38.0,
+   "title": "Intern, Software Engineer",
+   "uid": "ashby:opengov:d036cfd6-5a01-41ed-af73-78fc32854849"
   }
  ],
- "count": 803,
- "updated_at": 1789569385
+ "count": 802,
+ "updated_at": 1789570388
 }
