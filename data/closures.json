@@ -2,20 +2,6 @@
  "closed": [
   {
    "closed_at": 1789151465,
-   "company": "gotion",
-   "hours_open": 193.6,
-   "title": "Battery Simulation Engineer",
-   "uid": "greenhouse:gotion:7049541002"
-  },
-  {
-   "closed_at": 1789151465,
-   "company": "spacex",
-   "hours_open": 193.6,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1789151465,
    "company": "spacex",
    "hours_open": 193.6,
    "title": "Software Engineer (Starship)",
@@ -5599,8 +5585,22 @@
    "hours_open": 175.3,
    "title": "Administrateur Réseau TI",
    "uid": "jobillico:analyste reseau:17386419"
+  },
+  {
+   "closed_at": 1789519602,
+   "company": "twitch",
+   "hours_open": 295.8,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1789519602,
+   "company": "andurilindustries",
+   "hours_open": 32.2,
+   "title": "Test Engineer, Maritime Production",
+   "uid": "greenhouse:andurilindustries:5236863007"
   }
  ],
- "count": 805,
- "updated_at": 1789518388
+ "count": 802,
+ "updated_at": 1789519602
 }
