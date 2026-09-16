@@ -1,48 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789204737,
-   "company": "spacex",
-   "hours_open": 208.1,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1789205072,
-   "company": "Groupe Mario Coté",
-   "hours_open": 16.1,
-   "title": "Administrateur de réseau",
-   "uid": "jobillico:analyste reseau:17520153"
-  },
-  {
-   "closed_at": 1789205072,
-   "company": "ngc",
-   "hours_open": 62.1,
-   "title": "2027 Intern Engineer - Product Support",
-   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Intern-Engineer---Product-Support_R10250061"
-  },
-  {
-   "closed_at": 1789205072,
-   "company": "ngc",
-   "hours_open": 56.3,
-   "title": "2027 Intern Software Engineer",
-   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Intern-Software-Engineer_R10250150"
-  },
-  {
-   "closed_at": 1789205072,
-   "company": "nvidia",
-   "hours_open": 229.8,
-   "title": "ASIC Design Engineer - New College Grad 2026",
-   "uid": "workday:nvidia.wd5/NVIDIAExternalCareerSite:ASIC-Design-Engineer---New-College-Grad-2026_JR2020309"
-  },
-  {
-   "closed_at": 1789209684,
-   "company": "Maarut",
-   "hours_open": 6.2,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50256481"
-  },
-  {
    "closed_at": 1789209684,
    "company": "twitch",
    "hours_open": 206.8,
@@ -5599,8 +5557,50 @@
    "hours_open": 312.7,
    "title": "Software Engineer, Air & Missile Defense ",
    "uid": "greenhouse:andurilindustries:5194551007"
+  },
+  {
+   "closed_at": 1789587978,
+   "company": "Bruno Independent Living Aids",
+   "hours_open": 19.5,
+   "title": "Junior Software Developer - AI Focus",
+   "uid": "simplify:listings:f65facdb-07b5-489d-bda0-a527041c6dd5"
+  },
+  {
+   "closed_at": 1789587978,
+   "company": "Town of Ladysmith",
+   "hours_open": 194.6,
+   "title": "communications specialist",
+   "uid": "jobbank:specialiste infrastructure:50176096"
+  },
+  {
+   "closed_at": 1789587978,
+   "company": "barclays",
+   "hours_open": 288.4,
+   "title": "2027 Technology Developer Graduate Program Whippany",
+   "uid": "workday:barclays.wd3/External_Career_Site_Barclays:XMLNAME-2027-Technology-Developer-Graduate-Program-Whippany_JR-0000123244"
+  },
+  {
+   "closed_at": 1789587978,
+   "company": "andurilindustries",
+   "hours_open": 313.1,
+   "title": "Scientific Software Engineer",
+   "uid": "greenhouse:andurilindustries:5226942007"
+  },
+  {
+   "closed_at": 1789587978,
+   "company": "spacex",
+   "hours_open": 314.8,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1789587978,
+   "company": "andurilindustries",
+   "hours_open": 313.1,
+   "title": "Software Engineer, C++",
+   "uid": "greenhouse:andurilindustries:5226943007"
   }
  ],
- "count": 807,
- "updated_at": 1789586517
+ "count": 806,
+ "updated_at": 1789587979
 }
