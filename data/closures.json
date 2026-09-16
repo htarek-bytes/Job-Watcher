@@ -2,20 +2,6 @@
  "closed": [
   {
    "closed_at": 1789159269,
-   "company": "Renesas Electronics",
-   "hours_open": 52.4,
-   "title": "Design Verification Engineer（SoC機能検証エンジニア）(1)",
-   "uid": "smartrecruiters:RenesasElectronics:744000148440069"
-  },
-  {
-   "closed_at": 1789159269,
-   "company": "AlphaHire",
-   "hours_open": 72.3,
-   "title": "Project Engineer - Commercial Electrical Projects",
-   "uid": "workable:alphax:EF08099F74"
-  },
-  {
-   "closed_at": 1789159269,
    "company": "Amazon",
    "hours_open": 195.7,
    "title": "Software Development Engineer, Amazon Fulfillment Technologies (AFT)  - Platform Engineering & Services",
@@ -5599,8 +5585,22 @@
    "hours_open": 13.5,
    "title": "Technical Sales Engineer - AMD/Xilinx",
    "uid": "workday:avnet.wd1/external:Technical-Sales-Engineer---AMD-Xilinx_JR-022673-1"
+  },
+  {
+   "closed_at": 1789552501,
+   "company": "bristolmyerssquibb",
+   "hours_open": 308.4,
+   "title": "Associate Software Engineer",
+   "uid": "workday:bristolmyerssquibb.wd5/bms:Associate-Software-Engineer_R1605676"
+  },
+  {
+   "closed_at": 1789552501,
+   "company": "coinbase",
+   "hours_open": 305.0,
+   "title": "Software Engineer",
+   "uid": "greenhouse:coinbase:8003605"
   }
  ],
- "count": 805,
- "updated_at": 1789552117
+ "count": 802,
+ "updated_at": 1789552501
 }
