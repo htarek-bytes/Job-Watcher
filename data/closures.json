@@ -1,125 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789173879,
-   "company": "spacex",
-   "hours_open": 199.5,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1789173879,
-   "company": "spacex",
-   "hours_open": 198.1,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1789176068,
-   "company": "OneImaging",
-   "hours_open": 2.0,
-   "title": "Full Stack Associate Software Engineer - Georgia Tech Only",
-   "uid": "simplify:listings:1acd5a07-50ab-4e8a-8cb2-be9a1ae33d8b"
-  },
-  {
-   "closed_at": 1789176068,
-   "company": "Groupe Mario Coté",
-   "hours_open": 8.1,
-   "title": "Administrateur de réseau",
-   "uid": "jobillico:analyste reseau:17520153"
-  },
-  {
-   "closed_at": 1789176068,
-   "company": "Logesco Informatique",
-   "hours_open": 80.2,
-   "title": "Administrateur de réseau",
-   "uid": "jobillico:analyste reseau:17188132"
-  },
-  {
-   "closed_at": 1789176068,
-   "company": "unitedsmarttech",
-   "hours_open": 219.4,
-   "title": "AI Engineer (Entry-Level)",
-   "uid": "bamboohr:unitedsmarttech:185"
-  },
-  {
-   "closed_at": 1789176068,
-   "company": "spacex",
-   "hours_open": 197.4,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1789176068,
-   "company": "spacex",
-   "hours_open": 200.4,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1789176068,
-   "company": "spacex",
-   "hours_open": 200.4,
-   "title": "Quality Systems Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8633640002"
-  },
-  {
-   "closed_at": 1789187378,
-   "company": "Maarut",
-   "hours_open": 83.3,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:systems analyst:50227656"
-  },
-  {
-   "closed_at": 1789187378,
-   "company": "LCBO",
-   "hours_open": 83.3,
-   "title": "network administrator",
-   "uid": "jobbank:network administrator:50135403"
-  },
-  {
-   "closed_at": 1789187378,
-   "company": "bluemetrix",
-   "hours_open": 203.5,
-   "title": "Developer - Big Data & CyberSecurity",
-   "uid": "bamboohr:bluemetrix:31"
-  },
-  {
-   "closed_at": 1789187378,
-   "company": "Maarut",
-   "hours_open": 42.7,
-   "title": "software developer",
-   "uid": "jobbank:junior programmer:50256826"
-  },
-  {
-   "closed_at": 1789187378,
-   "company": "Source Code",
-   "hours_open": 42.7,
-   "title": "software developer",
-   "uid": "jobbank:junior programmer:50256867"
-  },
-  {
-   "closed_at": 1789187378,
-   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
-   "hours_open": 83.3,
-   "title": "Administrateur Réseau TI",
-   "uid": "jobillico:analyste reseau:17386419"
-  },
-  {
-   "closed_at": 1789187378,
-   "company": "spacex",
-   "hours_open": 203.5,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1789187378,
-   "company": "andurilindustries",
-   "hours_open": 83.3,
-   "title": "Service Desk Analyst",
-   "uid": "greenhouse:andurilindustries:5063246007"
-  },
-  {
    "closed_at": 1789187936,
    "company": "Achieve",
    "hours_open": 5.8,
@@ -5599,8 +5480,127 @@
    "hours_open": 139.7,
    "title": "Software Development Engineer , Amazon Leo Commerce, Amazon Leo Commerce",
    "uid": "amazon:amazon:10536811"
+  },
+  {
+   "closed_at": 1789582733,
+   "company": "twitch",
+   "hours_open": 313.4,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1789582733,
+   "company": "genevatrading",
+   "hours_open": 311.7,
+   "title": "Quantitative Risk Developer / Analyst ",
+   "uid": "greenhouse:genevatrading:5217282007"
+  },
+  {
+   "closed_at": 1789582733,
+   "company": "privateai",
+   "hours_open": 313.4,
+   "title": "Platform Engineer",
+   "uid": "bamboohr:privateai:43"
+  },
+  {
+   "closed_at": 1789582733,
+   "company": "relayfi",
+   "hours_open": 193.2,
+   "title": "People Operations & Systems Specialist",
+   "uid": "ashby:relayfi:b80cea75-2bae-45b4-9171-218c983d30f8"
+  },
+  {
+   "closed_at": 1789582733,
+   "company": "mongodb",
+   "hours_open": 313.4,
+   "title": "Software Engineer 3, Atlas Search Systems",
+   "uid": "greenhouse:mongodb:7662950"
+  },
+  {
+   "closed_at": 1789582733,
+   "company": "Amazon",
+   "hours_open": 284.9,
+   "title": "Software Dev Engineer, GuardDuty",
+   "uid": "amazon:amazon:10530460"
+  },
+  {
+   "closed_at": 1789582733,
+   "company": "Amazon",
+   "hours_open": 166.2,
+   "title": "SDE, Neuron Inference, Neuron Inference",
+   "uid": "amazon:amazon:10535087"
+  },
+  {
+   "closed_at": 1789582733,
+   "company": "lyft",
+   "hours_open": 313.4,
+   "title": "Software Engineer, Fulfillment Core Services",
+   "uid": "greenhouse:lyft:8716222002"
+  },
+  {
+   "closed_at": 1789582733,
+   "company": "doordashusa",
+   "hours_open": 231.3,
+   "title": "Solution Engineer, Symbiosys",
+   "uid": "greenhouse:doordashusa:8046431"
+  },
+  {
+   "closed_at": 1789582733,
+   "company": "samsara",
+   "hours_open": 313.4,
+   "title": "GRC Automation Specialist (Governance, Risk & Compliance, TPRM)",
+   "uid": "greenhouse:samsara:7669236"
+  },
+  {
+   "closed_at": 1789582733,
+   "company": "Amazon",
+   "hours_open": 283.1,
+   "title": "Software Dev Engineer, AWS Elastic Container Service",
+   "uid": "amazon:amazon:10530555"
+  },
+  {
+   "closed_at": 1789582733,
+   "company": "spacex",
+   "hours_open": 313.4,
+   "title": "Hardware Reliability Engineer, Mechanical (Starshield)",
+   "uid": "greenhouse:spacex:8657631002"
+  },
+  {
+   "closed_at": 1789582733,
+   "company": "spacex",
+   "hours_open": 311.7,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1789582733,
+   "company": "accenturefederalservices",
+   "hours_open": 196.5,
+   "title": "Cloud Engineer",
+   "uid": "greenhouse:accenturefederalservices:4678454006"
+  },
+  {
+   "closed_at": 1789582733,
+   "company": "palantir",
+   "hours_open": 313.4,
+   "title": "Information Security Engineer - Insider Risk",
+   "uid": "lever:palantir:6bddf672-5920-46f3-8127-2a15a377cb99"
+  },
+  {
+   "closed_at": 1789582733,
+   "company": "accenturefederalservices",
+   "hours_open": 313.4,
+   "title": "Cloud DevOps Engineer",
+   "uid": "greenhouse:accenturefederalservices:4698889006"
+  },
+  {
+   "closed_at": 1789582733,
+   "company": "Amazon",
+   "hours_open": 165.1,
+   "title": "Embedded Software Engineer, Amazon Leo Optical Inter-Satellite Link ",
+   "uid": "amazon:amazon:10535311"
   }
  ],
- "count": 812,
- "updated_at": 1789577012
+ "count": 817,
+ "updated_at": 1789582735
 }
