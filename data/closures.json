@@ -1,55 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789164172,
-   "company": "mongodb",
-   "hours_open": 76.9,
-   "title": "Cloud Operations Engineer (2nd Shift, Weekend)",
-   "uid": "greenhouse:mongodb:8045688"
-  },
-  {
-   "closed_at": 1789164172,
-   "company": "spacex",
-   "hours_open": 195.4,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1789164282,
-   "company": "bmo",
-   "hours_open": 192.7,
-   "title": "Machine Learning Developer (New or Recent Graduate)",
-   "uid": "workday:bmo.wd3/External:Machine-Learning-Developer--New-or-Recent-Graduate-_R260024265"
-  },
-  {
-   "closed_at": 1789164282,
-   "company": "Amazon",
-   "hours_open": 194.2,
-   "title": "Software Development Engineer, RDS Oracle",
-   "uid": "amazon:amazon:10529117"
-  },
-  {
-   "closed_at": 1789164282,
-   "company": "boeing",
-   "hours_open": 21.0,
-   "title": "Mechanical Ground Support Equipment Engineer (Entry-Level) - Millennium Space Systems",
-   "uid": "workday:boeing.wd1/external_subsidiary:Mechanical-Ground-Support-Equipment-Engineer--Entry-Level----Millennium-Space-Systems_JR2026524385"
-  },
-  {
-   "closed_at": 1789164282,
-   "company": "boeing",
-   "hours_open": 26.1,
-   "title": "Associate Software Engineer, Phantom Works",
-   "uid": "workday:boeing.wd1/external_subsidiary:Associate-Software-Engineer--Phantom-Works_JR2026523287-1"
-  },
-  {
-   "closed_at": 1789164282,
-   "company": "mongodb",
-   "hours_open": 76.9,
-   "title": "Cloud Operations Engineer (2nd Shift, Weekend)",
-   "uid": "greenhouse:mongodb:8045688"
-  },
-  {
    "closed_at": 1789164282,
    "company": "General Dynamics Produits de défense et Systèmes Tactiques",
    "hours_open": 76.9,
@@ -5599,8 +5550,57 @@
    "hours_open": 328.2,
    "title": "Junior Software Engineer",
    "uid": "workday:kbr.wd5/kbr_careers:Junior-Software-Engineer_R2122294"
+  },
+  {
+   "closed_at": 1789559826,
+   "company": "rakuten",
+   "hours_open": 13.0,
+   "title": "Early Career AI Engineer (Contract)",
+   "uid": "workday:rakuten.wd1/RakutenAmericas:Intern---Software-Engineering--AI-User-Experience_1031437"
+  },
+  {
+   "closed_at": 1789559826,
+   "company": "ngc",
+   "hours_open": 13.0,
+   "title": "2027 Cyber Systems Engineer Intern - Roy UT",
+   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Cyber-Systems-Engineer-Intern---Roy-UT_R10249471"
+  },
+  {
+   "closed_at": 1789559826,
+   "company": "Groupe Mario Coté",
+   "hours_open": 114.7,
+   "title": "Administrateur de réseau",
+   "uid": "jobillico:analyste reseau:17520153"
+  },
+  {
+   "closed_at": 1789559826,
+   "company": "relx",
+   "hours_open": 328.3,
+   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - January)",
+   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617-1"
+  },
+  {
+   "closed_at": 1789559826,
+   "company": "relx",
+   "hours_open": 328.3,
+   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - June)",
+   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-2"
+  },
+  {
+   "closed_at": 1789559826,
+   "company": "relx",
+   "hours_open": 328.3,
+   "title": "Tech Accelerate Graduate Program - Software Engineer (Boca Raton - June)",
+   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Boca-Raton---June-_R116023"
+  },
+  {
+   "closed_at": 1789559826,
+   "company": "repsol",
+   "hours_open": 301.6,
+   "title": "Reservoir Engineer Intern",
+   "uid": "workday:repsol.wd3/Repsol:Reservoir-Engineer-Intern_83636-1"
   }
  ],
- "count": 810,
- "updated_at": 1789559505
+ "count": 807,
+ "updated_at": 1789559826
 }
