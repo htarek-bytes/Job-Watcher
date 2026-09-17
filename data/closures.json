@@ -1,55 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789403727,
-   "company": "spacex",
-   "hours_open": 263.6,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1789403727,
-   "company": "spacex",
-   "hours_open": 263.6,
-   "title": "Test Engineer, Oxygen",
-   "uid": "greenhouse:spacex:8628878002"
-  },
-  {
-   "closed_at": 1789403727,
-   "company": "freedomconsulting",
-   "hours_open": 143.4,
-   "title": "Network Engineer 719",
-   "uid": "greenhouse:freedomconsulting:5186880007"
-  },
-  {
-   "closed_at": 1789403727,
-   "company": "spacex",
-   "hours_open": 263.6,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1789403830,
-   "company": "twitch",
-   "hours_open": 260.7,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1789403830,
-   "company": "doordashusa",
-   "hours_open": 262.0,
-   "title": "Software Engineer, Unified Gateway",
-   "uid": "greenhouse:doordashusa:8146670"
-  },
-  {
-   "closed_at": 1789403830,
-   "company": "CGI",
-   "hours_open": 143.5,
-   "title": "Conseiller en gouvernance de la cybersécurité",
-   "uid": "jobillico:analyste cybersecurite:17433756"
-  },
-  {
    "closed_at": 1789403830,
    "company": "Sia",
    "hours_open": 94.2,
@@ -5599,8 +5550,57 @@
    "hours_open": 341.2,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1789685162,
+   "company": "adaption",
+   "hours_open": 10.5,
+   "title": "Engineer, ML Systems",
+   "uid": "ashby:adaption:0e5d4ef2-e59b-4213-9e6c-d72dbc9bc5cf"
+  },
+  {
+   "closed_at": 1789685162,
+   "company": "Groupe Mario Coté",
+   "hours_open": 149.5,
+   "title": "Administrateur de réseau",
+   "uid": "jobillico:analyste reseau:17520153"
+  },
+  {
+   "closed_at": 1789685162,
+   "company": "Valsoft Corporation",
+   "hours_open": 21.0,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50300619"
+  },
+  {
+   "closed_at": 1789685162,
+   "company": "troweprice",
+   "hours_open": 71.4,
+   "title": "2026 Global Technology - Associate Software Engineer",
+   "uid": "workday:troweprice.wd5/TRowePrice:XMLNAME-2026-Global-Technology---Associate-Software-Engineer_83580"
+  },
+  {
+   "closed_at": 1789685162,
+   "company": "zoll",
+   "hours_open": 363.1,
+   "title": "Junior Algorithm Engineer",
+   "uid": "workday:zoll.wd5/ZOLLMedicalCorp:Junior-Algorithm-Engineer_R19377"
+  },
+  {
+   "closed_at": 1789685162,
+   "company": "allen-control-systems",
+   "hours_open": 338.9,
+   "title": "IT Help Desk Engineer",
+   "uid": "ashby:allen-control-systems:54fe18db-3e7b-49f1-ba94-28ce15be2840"
+  },
+  {
+   "closed_at": 1789685162,
+   "company": "Amazon",
+   "hours_open": 7.6,
+   "title": "Software Development Engineer, Frontier Amazon Dedicated Cloud (ADC)",
+   "uid": "amazon:amazon:10551906"
   }
  ],
  "count": 807,
- "updated_at": 1789683100
+ "updated_at": 1789685162
 }
