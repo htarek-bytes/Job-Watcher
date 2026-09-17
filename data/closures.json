@@ -1,34 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789369918,
-   "company": "twitch",
-   "hours_open": 254.2,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1789369918,
-   "company": "spacex",
-   "hours_open": 254.2,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1789382247,
-   "company": "twitch",
-   "hours_open": 254.7,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1789382247,
-   "company": "REI Systems",
-   "hours_open": 59.8,
-   "title": "Associate Software Engineer - Java",
-   "uid": "simplify:listings:33b49b9d-1aed-41bb-ba49-d0567c7f2f94"
-  },
-  {
    "closed_at": 1789382247,
    "company": "doordashusa",
    "hours_open": 256.0,
@@ -5599,8 +5571,36 @@
    "hours_open": 338.1,
    "title": "Avionics Test Engineer (Starshield)",
    "uid": "greenhouse:spacex:8501166002"
+  },
+  {
+   "closed_at": 1789672119,
+   "company": "Valsoft Corporation",
+   "hours_open": 17.4,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50300619"
+  },
+  {
+   "closed_at": 1789672119,
+   "company": "Xodus Group",
+   "hours_open": 291.1,
+   "title": "Subsea and Marine Engineer",
+   "uid": "workable:xodus-group:160CA5656A"
+  },
+  {
+   "closed_at": 1789672119,
+   "company": "Validus Risk Management",
+   "hours_open": 331.2,
+   "title": "Full Stack Software Engineer (Python)",
+   "uid": "workable:validus-risk-management:F81DD0E33E"
+  },
+  {
+   "closed_at": 1789672119,
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
+   "hours_open": 218.0,
+   "title": "Administrateur Réseau TI",
+   "uid": "jobillico:analyste reseau:17386419"
   }
  ],
- "count": 821,
- "updated_at": 1789671829
+ "count": 804,
+ "updated_at": 1789672119
 }
