@@ -2,34 +2,6 @@
  "closed": [
   {
    "closed_at": 1789328085,
-   "company": "Autostore",
-   "hours_open": 1.4,
-   "title": "Entry Level Software Engineer",
-   "uid": "simplify:listings:f856788a-97a4-4332-a414-c568ed12438d"
-  },
-  {
-   "closed_at": 1789328085,
-   "company": "twitch",
-   "hours_open": 242.6,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1789328085,
-   "company": "spacex",
-   "hours_open": 242.6,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1789328085,
-   "company": "spacex",
-   "hours_open": 242.3,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1789328085,
    "company": "spacex",
    "hours_open": 240.9,
    "title": "Software Engineer (Starship)",
@@ -5599,8 +5571,36 @@
    "hours_open": 133.3,
    "title": "Entry Level Simulation Software Engineer",
    "uid": "simplify:listings:bf70e269-0f0c-4ba6-9c6d-ba877510df63"
+  },
+  {
+   "closed_at": 1789647197,
+   "company": "td",
+   "hours_open": 223.2,
+   "title": "2027 Summer Analyst - Software Engineering Rotational Program (Toronto)",
+   "uid": "workday:td.wd3/TD_Bank_Careers:XMLNAME-2027-Summer-Analyst---Software-Engineering-Rotational-Program--Toronto-_R_1509435"
+  },
+  {
+   "closed_at": 1789647197,
+   "company": "thermofisher",
+   "hours_open": 35.9,
+   "title": "Field Service Engineer I",
+   "uid": "workday:thermofisher.wd5/ThermoFisherCareers:Field-Service-Engineer-I_R-01365782"
+  },
+  {
+   "closed_at": 1789647197,
+   "company": "thermofisher",
+   "hours_open": 35.9,
+   "title": "Sales Engineer (m/f/d) Quality Control / Gauging",
+   "uid": "workday:thermofisher.wd5/ThermoFisherCareers:Sales-Engineer--m-f-d--Quality-Control---Gauging_R-01361891"
+  },
+  {
+   "closed_at": 1789647197,
+   "company": "synnex",
+   "hours_open": 352.6,
+   "title": "BMC Firmware Assistant Engineer (New College Grad)",
+   "uid": "workday:synnex.wd5/hyvecareers:BMC-Firmware-Assistant-Engineer---New-Graduate_R54988"
   }
  ],
  "count": 804,
- "updated_at": 1789646980
+ "updated_at": 1789647198
 }
