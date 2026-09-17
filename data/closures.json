@@ -2,41 +2,6 @@
  "closed": [
   {
    "closed_at": 1789274442,
-   "company": "EXFO inc",
-   "hours_open": 107.5,
-   "title": "Développeur logiciel embarqué – Télécommunications",
-   "uid": "jobillico:developpeur logiciel:17359277"
-  },
-  {
-   "closed_at": 1789274442,
-   "company": "Regroupement Loisir et Sport du Québec",
-   "hours_open": 107.5,
-   "title": "Technicien réseau",
-   "uid": "jobillico:analyste reseau:17441913"
-  },
-  {
-   "closed_at": 1789274442,
-   "company": "Ross Stores",
-   "hours_open": 264.4,
-   "title": "Engineer 1",
-   "uid": "simplify:listings:b9309db9-dccf-4bad-add7-a387f24df3c6"
-  },
-  {
-   "closed_at": 1789274442,
-   "company": "spacex",
-   "hours_open": 227.7,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1789274442,
-   "company": "spacex",
-   "hours_open": 227.4,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1789274442,
    "company": "spacex",
    "hours_open": 226.0,
    "title": "Software Engineer (Starship)",
@@ -5599,8 +5564,43 @@
    "hours_open": 324.4,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1789627670,
+   "company": "bmo",
+   "hours_open": 205.6,
+   "title": "AI/Platform Analyst, Winter 2027 (Co-op/Internship) - 8 months",
+   "uid": "workday:bmo.wd3/Campus:AI-Platform-Analyst--8-months--Co-op-Internship----8-months_R260026129-3"
+  },
+  {
+   "closed_at": 1789627670,
+   "company": "bmo",
+   "hours_open": 58.3,
+   "title": "Quantitative Developer (Alpha Research Team) - GAM, Summer 2027 (Co-op/Internship) - 12 months",
+   "uid": "workday:bmo.wd3/Campus:Quantitative-Developer--Alpha-Research-Team----GAM--Summer-2027--Co-op-Internship----12-months_R260026715"
+  },
+  {
+   "closed_at": 1789627670,
+   "company": "twitch",
+   "hours_open": 322.9,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1789627670,
+   "company": "NOVIPRO",
+   "hours_open": 205.6,
+   "title": "information technology (it) system administrator",
+   "uid": "jobbank:systems administrator:50161153"
+  },
+  {
+   "closed_at": 1789627670,
+   "company": "spacex",
+   "hours_open": 325.8,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
   }
  ],
- "count": 807,
- "updated_at": 1789623410
+ "count": 805,
+ "updated_at": 1789627671
 }
