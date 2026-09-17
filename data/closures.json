@@ -2,55 +2,6 @@
  "closed": [
   {
    "closed_at": 1789403727,
-   "company": "Amazon",
-   "hours_open": 259.2,
-   "title": "Software Development Engineer , Adaptive Search Relevance",
-   "uid": "amazon:amazon:10529253"
-  },
-  {
-   "closed_at": 1789403727,
-   "company": "datadog",
-   "hours_open": 263.6,
-   "title": "Systems Engineer 2, Technical Solutions (US-East)",
-   "uid": "greenhouse:datadog:8092973"
-  },
-  {
-   "closed_at": 1789403727,
-   "company": "accenturefederalservices",
-   "hours_open": 263.6,
-   "title": "Mid-Level ServiceNow Developer",
-   "uid": "greenhouse:accenturefederalservices:4697592006"
-  },
-  {
-   "closed_at": 1789403727,
-   "company": "drweng",
-   "hours_open": 263.6,
-   "title": "AI Engineer",
-   "uid": "greenhouse:drweng:6586001"
-  },
-  {
-   "closed_at": 1789403727,
-   "company": "rocketlab",
-   "hours_open": 83.7,
-   "title": "Flight Software Engineer I",
-   "uid": "greenhouse:rocketlab:7985939003"
-  },
-  {
-   "closed_at": 1789403727,
-   "company": "spacex",
-   "hours_open": 260.7,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1789403727,
-   "company": "voyagertechnologiesinc",
-   "hours_open": 263.6,
-   "title": "Electrical Integration and Test Engineer",
-   "uid": "greenhouse:voyagertechnologiesinc:4330066009"
-  },
-  {
-   "closed_at": 1789403727,
    "company": "spacex",
    "hours_open": 263.6,
    "title": "Wireless Software Engineer (Starlink)",
@@ -5599,8 +5550,57 @@
    "hours_open": 1.8,
    "title": "Software Development Engineer, Platform Engineering and Emerging Technologies",
    "uid": "amazon:amazon:10552635"
+  },
+  {
+   "closed_at": 1789683100,
+   "company": "sec",
+   "hours_open": 45.9,
+   "title": "AMHS Entry level Engineer",
+   "uid": "workday:sec.wd3/Samsung_Careers:AMHS-Entry-level-Engineer_R120379"
+  },
+  {
+   "closed_at": 1789683100,
+   "company": "Valsoft Corporation",
+   "hours_open": 41.2,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50296955"
+  },
+  {
+   "closed_at": 1789683100,
+   "company": "td",
+   "hours_open": 221.0,
+   "title": "Software Engineer Intern/Co-op (Winter 2027)",
+   "uid": "workday:td.wd3/TD_Bank_Careers:Software-Engineer-Co-op---Intern--Winter-2027-_R_1509790"
+  },
+  {
+   "closed_at": 1789683100,
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
+   "hours_open": 221.0,
+   "title": "Administrateur Réseau TI",
+   "uid": "jobillico:analyste reseau:17386419"
+  },
+  {
+   "closed_at": 1789683100,
+   "company": "spacex",
+   "hours_open": 341.2,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1789683100,
+   "company": "systemstechnologyresearch",
+   "hours_open": 334.3,
+   "title": "Autonomy Algorithms Software Engineer",
+   "uid": "greenhouse:systemstechnologyresearch:4704682006"
+  },
+  {
+   "closed_at": 1789683100,
+   "company": "spacex",
+   "hours_open": 341.2,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
   }
  ],
- "count": 821,
- "updated_at": 1789682887
+ "count": 807,
+ "updated_at": 1789683100
 }
