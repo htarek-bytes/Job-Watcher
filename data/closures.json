@@ -1,118 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789382247,
-   "company": "doordashusa",
-   "hours_open": 256.0,
-   "title": "Enterprise Security Engineer",
-   "uid": "greenhouse:doordashusa:7983583"
-  },
-  {
-   "closed_at": 1789382247,
-   "company": "spacex",
-   "hours_open": 256.0,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1789382354,
-   "company": "twitch",
-   "hours_open": 254.8,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1789382354,
-   "company": "REI Systems",
-   "hours_open": 59.8,
-   "title": "Associate Software Engineer - Java",
-   "uid": "simplify:listings:33b49b9d-1aed-41bb-ba49-d0567c7f2f94"
-  },
-  {
-   "closed_at": 1789382354,
-   "company": "doordashusa",
-   "hours_open": 256.0,
-   "title": "Enterprise Security Engineer",
-   "uid": "greenhouse:doordashusa:7983583"
-  },
-  {
-   "closed_at": 1789382354,
-   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
-   "hours_open": 137.5,
-   "title": "Administrateur Réseau TI",
-   "uid": "jobillico:analyste reseau:17386419"
-  },
-  {
-   "closed_at": 1789382354,
-   "company": "spacex",
-   "hours_open": 256.0,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1789382658,
-   "company": "twitch",
-   "hours_open": 257.8,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1789382658,
-   "company": "spacex",
-   "hours_open": 257.8,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1789394228,
-   "company": "sequence",
-   "hours_open": 261.0,
-   "title": "Product Engineer - NYC ",
-   "uid": "ashby:sequence:e1977983-8e05-4f62-b25c-3741d445b902"
-  },
-  {
-   "closed_at": 1789394228,
-   "company": "appdirect",
-   "hours_open": 261.0,
-   "title": "Software Developer",
-   "uid": "greenhouse:appdirect:8657363002"
-  },
-  {
-   "closed_at": 1789394228,
-   "company": "scaleai",
-   "hours_open": 237.5,
-   "title": "Software Engineering Intern (Summer 2027) ",
-   "uid": "greenhouse:scaleai:4730845005"
-  },
-  {
-   "closed_at": 1789394228,
-   "company": "scaleai",
-   "hours_open": 237.5,
-   "title": "Software Engineer - New Grad",
-   "uid": "greenhouse:scaleai:4730836005"
-  },
-  {
-   "closed_at": 1789394228,
-   "company": "CANADIAN EASY TAX AND FINANCIAL SERVICES",
-   "hours_open": 66.1,
-   "title": "Web developer",
-   "uid": "jobbank:developpeur junior:50267136"
-  },
-  {
-   "closed_at": 1789394228,
-   "company": "École nationale d'administration publique (ENAP)",
-   "hours_open": 278.9,
-   "title": "computer programmer",
-   "uid": "jobbank:junior programmer:50126979"
-  },
-  {
-   "closed_at": 1789394228,
-   "company": "Cisco",
-   "hours_open": 61.8,
-   "title": "Software Engineer 1",
-   "uid": "simplify:listings:748876fb-0603-4b73-b26c-469bc138674c"
-  },
-  {
    "closed_at": 1789394228,
    "company": "icapitalnetwork",
    "hours_open": 259.3,
@@ -5599,8 +5487,120 @@
    "hours_open": 218.0,
    "title": "Administrateur Réseau TI",
    "uid": "jobillico:analyste reseau:17386419"
+  },
+  {
+   "closed_at": 1789675213,
+   "company": "bmo",
+   "hours_open": 218.6,
+   "title": "AI/Platform Analyst, Winter 2027 (Co-op/Internship) - 8 months",
+   "uid": "workday:bmo.wd3/External:AI-Platform-Analyst--8-months--Co-op-Internship----8-months_R260026129-2"
+  },
+  {
+   "closed_at": 1789675213,
+   "company": "bmo",
+   "hours_open": 13.2,
+   "title": "Quantitative Developer (Alpha Research Team) - GAM, Summer 2027 (Co-op/Internship) - 12 months",
+   "uid": "workday:bmo.wd3/External:Quantitative-Developer--Alpha-Research-Team----GAM--Summer-2027--Co-op-Internship----12-months_R260026715-3"
+  },
+  {
+   "closed_at": 1789675213,
+   "company": "twitch",
+   "hours_open": 336.1,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1789675213,
+   "company": "openai",
+   "hours_open": 339.0,
+   "title": "Software Engineer, Trainium ",
+   "uid": "ashby:openai:2bf44c13-a463-4ec7-b152-b8367075246c"
+  },
+  {
+   "closed_at": 1789675213,
+   "company": "Drops of Jupiter",
+   "hours_open": 144.2,
+   "title": "electronic commerce (e-commerce) Web site developer",
+   "uid": "jobbank:junior programmer:50268296"
+  },
+  {
+   "closed_at": 1789675213,
+   "company": "Groupe Mario Coté",
+   "hours_open": 146.7,
+   "title": "Administrateur de réseau",
+   "uid": "jobillico:analyste reseau:17520153"
+  },
+  {
+   "closed_at": 1789675213,
+   "company": "cadence",
+   "hours_open": 332.1,
+   "title": "Software Engineer  (new college grad Dec 2026)",
+   "uid": "workday:cadence.wd1/Univ_Careers:Software-Engineer---new-college-grad-Dec-2026-_R55738-2"
+  },
+  {
+   "closed_at": 1789675213,
+   "company": "Amazon",
+   "hours_open": 168.0,
+   "title": "Software Development Engineer, Quick Governance Platform",
+   "uid": "amazon:amazon:10536501"
+  },
+  {
+   "closed_at": 1789675213,
+   "company": "Amazon",
+   "hours_open": 62.5,
+   "title": "Software Development Engineer, Eva Development Team",
+   "uid": "amazon:amazon:10541281"
+  },
+  {
+   "closed_at": 1789675213,
+   "company": "cadence",
+   "hours_open": 363.1,
+   "title": "Adams MultiBody Dynamics Application Software Developer (Recent Grad 2026)",
+   "uid": "workday:cadence.wd1/External_Careers:Adams-MultiBody-Dynamics-Application-Software-Developer--Recent-Grad-2026-_R55788"
+  },
+  {
+   "closed_at": 1789675213,
+   "company": "cadence",
+   "hours_open": 363.1,
+   "title": "Adams Application Software Developer  (Recent Grad 2026)",
+   "uid": "workday:cadence.wd1/Univ_Careers:Adams-Application-Software-Developer---Recent-Grad-2026-_R55736-2"
+  },
+  {
+   "closed_at": 1789675213,
+   "company": "caci",
+   "hours_open": 193.3,
+   "title": "Software Engineering Intern – Summer 2027",
+   "uid": "workday:caci.wd1/external:Software-Engineering-Intern---Summer-2027_331742"
+  },
+  {
+   "closed_at": 1789675213,
+   "company": "trueanomalyinc",
+   "hours_open": 351.7,
+   "title": "Software Engineer I, QA (New Grad)",
+   "uid": "greenhouse:trueanomalyinc:5219057007"
+  },
+  {
+   "closed_at": 1789675213,
+   "company": "spacex",
+   "hours_open": 339.0,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1789675213,
+   "company": "spacex",
+   "hours_open": 339.0,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1789675213,
+   "company": "spacex",
+   "hours_open": 337.3,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
- "count": 804,
- "updated_at": 1789672119
+ "count": 816,
+ "updated_at": 1789675213
 }
