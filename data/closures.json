@@ -1,153 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789349711,
-   "company": "spacex",
-   "hours_open": 248.6,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1789349711,
-   "company": "spacex",
-   "hours_open": 246.9,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1789350257,
-   "company": "twitch",
-   "hours_open": 245.8,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1789350257,
-   "company": "spacex",
-   "hours_open": 248.5,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1789350257,
-   "company": "spacex",
-   "hours_open": 248.8,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1789362342,
-   "company": "twitch",
-   "hours_open": 252.1,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1789362342,
-   "company": "cssmerge",
-   "hours_open": 252.1,
-   "title": "Business Development Associate",
-   "uid": "greenhouse:cssmerge:8738991002"
-  },
-  {
-   "closed_at": 1789362342,
-   "company": "Fed IT",
-   "hours_open": 131.9,
-   "title": "business systems specialist - computer systems",
-   "uid": "jobbank:specialiste infrastructure:50088534"
-  },
-  {
-   "closed_at": 1789362342,
-   "company": "highmarkhealth",
-   "hours_open": 80.3,
-   "title": "Associate Technical Analyst - A/V and Digital Media",
-   "uid": "workday:highmarkhealth.wd1/highmark:Associate-Technical-Analyst---A-V-and-Digital-Media_J286828"
-  },
-  {
-   "closed_at": 1789362342,
-   "company": "Amazon",
-   "hours_open": 220.1,
-   "title": "Software Development Engineer, AWS Infra Supply Chain Automation - Backbone planning",
-   "uid": "amazon:amazon:10530589"
-  },
-  {
-   "closed_at": 1789362342,
-   "company": "Amazon",
-   "hours_open": 110.9,
-   "title": "Software Development Engineer, Amazon Security Platform Engineering",
-   "uid": "amazon:amazon:10534042"
-  },
-  {
-   "closed_at": 1789362342,
-   "company": "kla",
-   "hours_open": 255.5,
-   "title": "Software Engineering Intern",
-   "uid": "workday:kla.wd1/AnnArbor:Software-Engineering-Intern_2531653"
-  },
-  {
-   "closed_at": 1789362342,
-   "company": "hpe",
-   "hours_open": 168.2,
-   "title": "Networking Presales Graduate - Belgium",
-   "uid": "workday:hpe.wd5/acjobsite:Networking-Presales-Graduate---Belgium_1210028"
-  },
-  {
-   "closed_at": 1789362342,
-   "company": "kbr",
-   "hours_open": 273.5,
-   "title": "Junior Software Engineer",
-   "uid": "workday:kbr.wd5/KBR_Careers:Junior-Software-Engineer_R2122294"
-  },
-  {
-   "closed_at": 1789362475,
-   "company": "twitch",
-   "hours_open": 249.2,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1789362475,
-   "company": "ngc",
-   "hours_open": 80.1,
-   "title": "2027 Spring Co-op Cyber Software Engineer Intern - Cincinnati OH",
-   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Spring-Co-op-Cyber-Software-Engineer-Intern---Cincinnati-OH_R10250275-1"
-  },
-  {
-   "closed_at": 1789362475,
-   "company": "ngc",
-   "hours_open": 105.8,
-   "title": "2027 Intern Engineer - Product Support",
-   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Intern-Engineer---Product-Support_R10250061"
-  },
-  {
-   "closed_at": 1789362475,
-   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
-   "hours_open": 132.0,
-   "title": "Administrateur Réseau TI",
-   "uid": "jobillico:analyste reseau:17386419"
-  },
-  {
-   "closed_at": 1789362475,
-   "company": "spacex",
-   "hours_open": 250.5,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1789369398,
-   "company": "usbank",
-   "hours_open": 9.2,
-   "title": ".NET Software Engineer 1",
-   "uid": "workday:usbank.wd1/US_Bank_Careers:XMLNAME-NET-Software-Engineer-1_2026-0026601-1"
-  },
-  {
-   "closed_at": 1789369398,
-   "company": "Study 2020 Consulting INC",
-   "hours_open": 133.9,
-   "title": "network security administrator",
-   "uid": "jobbank:network administrator:49613158"
-  },
-  {
    "closed_at": 1789369918,
    "company": "twitch",
    "hours_open": 254.2,
@@ -5599,8 +5452,155 @@
    "hours_open": 191.4,
    "title": "Software Dev Engineer, Nw Monitoring & Remediation",
    "uid": "amazon:amazon:10534634"
+  },
+  {
+   "closed_at": 1789671829,
+   "company": "andurilindustries",
+   "hours_open": 48.0,
+   "title": "Winter 2027 Test Automation Engineer Co-op",
+   "uid": "greenhouse:andurilindustries:5236573007"
+  },
+  {
+   "closed_at": 1789671829,
+   "company": "andurilindustries",
+   "hours_open": 48.0,
+   "title": "Winter 2027 Supply Chain Engineer Co-op",
+   "uid": "greenhouse:andurilindustries:5236594007"
+  },
+  {
+   "closed_at": 1789671829,
+   "company": "andurilindustries",
+   "hours_open": 48.0,
+   "title": "Winter 2027 PCB Layout Engineer Co-op",
+   "uid": "greenhouse:andurilindustries:5236579007"
+  },
+  {
+   "closed_at": 1789671829,
+   "company": "Sia",
+   "hours_open": 24.5,
+   "title": "Junior Engineer",
+   "uid": "smartrecruiters:Sia:744000149857979"
+  },
+  {
+   "closed_at": 1789671829,
+   "company": "SGS",
+   "hours_open": 24.5,
+   "title": "EPM Solution Engineer",
+   "uid": "smartrecruiters:SGS:744000149834159"
+  },
+  {
+   "closed_at": 1789671829,
+   "company": "SGS",
+   "hours_open": 47.9,
+   "title": "JUNIOR BUSINESS PROCESS ANALYST & SOLUTIONS DEVELOPER - GBS",
+   "uid": "smartrecruiters:SGS:744000149671790"
+  },
+  {
+   "closed_at": 1789671829,
+   "company": "Logesco Informatique",
+   "hours_open": 217.9,
+   "title": "Administrateur de réseau",
+   "uid": "jobillico:analyste reseau:17188132"
+  },
+  {
+   "closed_at": 1789671829,
+   "company": "Valsoft Corporation",
+   "hours_open": 38.1,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50296955"
+  },
+  {
+   "closed_at": 1789671829,
+   "company": "Wavestone",
+   "hours_open": 142.4,
+   "title": "Junior AI Engineer (Pittsburgh, PA)",
+   "uid": "smartrecruiters:Wavestone1:744000149017779"
+  },
+  {
+   "closed_at": 1789671829,
+   "company": "Sandisk",
+   "hours_open": 142.4,
+   "title": "Associate Software Engineer",
+   "uid": "smartrecruiters:Sandisk:744000149008929"
+  },
+  {
+   "closed_at": 1789671829,
+   "company": "Infleqtion",
+   "hours_open": 217.9,
+   "title": "IT Support Analyst",
+   "uid": "workable:coldquanta:307E2FDF55"
+  },
+  {
+   "closed_at": 1789671829,
+   "company": "ServiceNow",
+   "hours_open": 61.2,
+   "title": "Advisory Solution Consultant – Security, Identity & Exposure Management - East Coast-Banking (Armis/Veza)",
+   "uid": "smartrecruiters:ServiceNow:744000149408070"
+  },
+  {
+   "closed_at": 1789671829,
+   "company": "shifttechnology",
+   "hours_open": 331.1,
+   "title": "Data Scientist / Engineer (Healthcare Payment Integrity) ",
+   "uid": "greenhouse:shifttechnology:5843676003"
+  },
+  {
+   "closed_at": 1789671829,
+   "company": "Noblis",
+   "hours_open": 374.7,
+   "title": "Junior Software Developer",
+   "uid": "simplify:listings:a5a4c27f-4bc4-46d6-9141-f486732574b8"
+  },
+  {
+   "closed_at": 1789671829,
+   "company": "Genetec",
+   "hours_open": 337.8,
+   "title": "Développeur(euse) logiciel / Software Developer - Builds & Releases",
+   "uid": "workable:genetec-inc:43342F86F1"
+  },
+  {
+   "closed_at": 1789671829,
+   "company": "rocketlab",
+   "hours_open": 47.1,
+   "title": "Harness Design Engineer I",
+   "uid": "greenhouse:rocketlab:7996416003"
+  },
+  {
+   "closed_at": 1789671829,
+   "company": "andurilindustries",
+   "hours_open": 336.4,
+   "title": "Robotics Software Engineer, Omen",
+   "uid": "greenhouse:andurilindustries:5183150007"
+  },
+  {
+   "closed_at": 1789671829,
+   "company": "spacex",
+   "hours_open": 338.1,
+   "title": "Electrical Test Engineer (Starshield)",
+   "uid": "greenhouse:spacex:8643997002"
+  },
+  {
+   "closed_at": 1789671829,
+   "company": "spacex",
+   "hours_open": 337.8,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1789671829,
+   "company": "spacex",
+   "hours_open": 338.1,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1789671829,
+   "company": "spacex",
+   "hours_open": 338.1,
+   "title": "Avionics Test Engineer (Starshield)",
+   "uid": "greenhouse:spacex:8501166002"
   }
  ],
- "count": 804,
- "updated_at": 1789665208
+ "count": 821,
+ "updated_at": 1789671829
 }
