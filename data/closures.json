@@ -1,69 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789259744,
-   "company": "relx",
-   "hours_open": 245.0,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - January)",
-   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617-1"
-  },
-  {
-   "closed_at": 1789259744,
-   "company": "relx",
-   "hours_open": 245.0,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - June)",
-   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-2"
-  },
-  {
-   "closed_at": 1789259744,
-   "company": "relx",
-   "hours_open": 245.0,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Boca Raton - June)",
-   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Boca-Raton---June-_R116023"
-  },
-  {
-   "closed_at": 1789259744,
-   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
-   "hours_open": 103.4,
-   "title": "Administrateur Réseau TI",
-   "uid": "jobillico:analyste reseau:17386419"
-  },
-  {
-   "closed_at": 1789259744,
-   "company": "spacex",
-   "hours_open": 220.7,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1789260948,
-   "company": "Groupe Mario Coté",
-   "hours_open": 31.7,
-   "title": "Administrateur de réseau",
-   "uid": "jobillico:analyste reseau:17520153"
-  },
-  {
-   "closed_at": 1789260948,
-   "company": "twitch",
-   "hours_open": 221.0,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1789260948,
-   "company": "spacex",
-   "hours_open": 224.0,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1789261915,
-   "company": "Logesco Informatique",
-   "hours_open": 104.0,
-   "title": "Administrateur de réseau",
-   "uid": "jobillico:analyste reseau:17188132"
-  },
-  {
    "closed_at": 1789261915,
    "company": "General Dynamics Produits de défense et Systèmes Tactiques",
    "hours_open": 104.0,
@@ -5599,8 +5536,71 @@
    "hours_open": 20.5,
    "title": "information technology (IT) analyst",
    "uid": "jobbank:systems analyst:50297183"
+  },
+  {
+   "closed_at": 1789622931,
+   "company": "YO AI Labs",
+   "hours_open": 10.1,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50298491"
+  },
+  {
+   "closed_at": 1789622931,
+   "company": "Arora Enterprise Inc",
+   "hours_open": 129.6,
+   "title": "Web developer",
+   "uid": "jobbank:developpeur junior:50266457"
+  },
+  {
+   "closed_at": 1789622931,
+   "company": "Maarut",
+   "hours_open": 163.7,
+   "title": "software developer",
+   "uid": "jobbank:junior programmer:50256826"
+  },
+  {
+   "closed_at": 1789622931,
+   "company": "Valsoft Corporation",
+   "hours_open": 24.5,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50296955"
+  },
+  {
+   "closed_at": 1789622931,
+   "company": "Amazon",
+   "hours_open": 7.2,
+   "title": "Software Development Engineer",
+   "uid": "amazon:amazon:10550409"
+  },
+  {
+   "closed_at": 1789622931,
+   "company": "Amazon",
+   "hours_open": 178.1,
+   "title": "Software Development Engineer -Control Plane, AWS Scalable Intent Driven Routing (SIDR)",
+   "uid": "amazon:amazon:10535019"
+  },
+  {
+   "closed_at": 1789622931,
+   "company": "Amazon",
+   "hours_open": 179.6,
+   "title": "Software Development Engineer, AWS CloudWatch OpenTelemetry",
+   "uid": "amazon:amazon:10534632"
+  },
+  {
+   "closed_at": 1789622931,
+   "company": "Centre d'amitié autochtone de Val-d'Or inc.",
+   "hours_open": 204.3,
+   "title": "Technicien informatique",
+   "uid": "jobillico:technicien informatique:17451279"
+  },
+  {
+   "closed_at": 1789622931,
+   "company": "spacex",
+   "hours_open": 324.5,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
   }
  ],
- "count": 815,
- "updated_at": 1789609910
+ "count": 809,
+ "updated_at": 1789622931
 }
