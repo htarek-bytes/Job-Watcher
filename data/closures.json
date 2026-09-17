@@ -1,55 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789261915,
-   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
-   "hours_open": 104.0,
-   "title": "Administrateur Réseau TI",
-   "uid": "jobillico:analyste reseau:17386419"
-  },
-  {
-   "closed_at": 1789261915,
-   "company": "spacex",
-   "hours_open": 221.3,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1789261915,
-   "company": "spacex",
-   "hours_open": 224.2,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1789261915,
-   "company": "spacex",
-   "hours_open": 224.2,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1789274442,
-   "company": "CANADIAN EASY TAX AND FINANCIAL SERVICES",
-   "hours_open": 32.8,
-   "title": "Web developer",
-   "uid": "jobbank:developpeur junior:50267136"
-  },
-  {
-   "closed_at": 1789274442,
-   "company": "twitch",
-   "hours_open": 227.7,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1789274442,
-   "company": "City of Windsor",
-   "hours_open": 142.7,
-   "title": "programmer analyst",
-   "uid": "jobbank:junior programmer:50235536"
-  },
-  {
    "closed_at": 1789274442,
    "company": "EXFO inc",
    "hours_open": 107.5,
@@ -5599,8 +5550,57 @@
    "hours_open": 324.5,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1789623410,
+   "company": "twitch",
+   "hours_open": 324.7,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1789623410,
+   "company": "YO AI Labs",
+   "hours_open": 47.7,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50289053"
+  },
+  {
+   "closed_at": 1789623410,
+   "company": "Valsoft Corporation",
+   "hours_open": 3.8,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50300619"
+  },
+  {
+   "closed_at": 1789623410,
+   "company": "JeffreyM Consulting",
+   "hours_open": 46.9,
+   "title": "Full-Stack Software Engineer",
+   "uid": "workable:jeffreym-consulting:44CAA8DF6E"
+  },
+  {
+   "closed_at": 1789623410,
+   "company": "accenture",
+   "hours_open": 341.6,
+   "title": "Software Engineering New Associate (Fresh Diploma Graduate Program)",
+   "uid": "workday:accenture.wd103/AccentureCareers:Software-Engineering-New-Associate--Fresh-Diploma-Graduate-Program-_R00144534"
+  },
+  {
+   "closed_at": 1789623410,
+   "company": "accenture",
+   "hours_open": 341.6,
+   "title": "Junior .NET Developer - Fresh Graduates",
+   "uid": "workday:accenture.wd103/AccentureCareers:Junior-NET-Developer---Fresh-Graduates_R00332478"
+  },
+  {
+   "closed_at": 1789623410,
+   "company": "spacex",
+   "hours_open": 324.4,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
   }
  ],
- "count": 809,
- "updated_at": 1789622931
+ "count": 807,
+ "updated_at": 1789623410
 }
