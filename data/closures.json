@@ -1,55 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789339213,
-   "company": "spacex",
-   "hours_open": 245.4,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1789342398,
-   "company": "twitch",
-   "hours_open": 243.7,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1789342398,
-   "company": "Northrop Grumman",
-   "hours_open": 119.9,
-   "title": "Associate Software Engineer / Software Engineer",
-   "uid": "simplify:listings:12f91d14-7199-41fb-8000-006f95817281"
-  },
-  {
-   "closed_at": 1789342398,
-   "company": "spacex",
-   "hours_open": 246.6,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1789342959,
-   "company": "twitch",
-   "hours_open": 246.8,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1789344800,
-   "company": "twitch",
-   "hours_open": 244.3,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1789344800,
-   "company": "spacex",
-   "hours_open": 247.0,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
    "closed_at": 1789344800,
    "company": "spacex",
    "hours_open": 247.3,
@@ -5599,8 +5550,57 @@
    "hours_open": 334.3,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1789664284,
+   "company": "CANADIAN EASY TAX AND FINANCIAL SERVICES",
+   "hours_open": 143.7,
+   "title": "Web developer",
+   "uid": "jobbank:junior programmer:50267136"
+  },
+  {
+   "closed_at": 1789664284,
+   "company": "PolicyAdvisor Brokerage Inc.",
+   "hours_open": 163.7,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50244874"
+  },
+  {
+   "closed_at": 1789664284,
+   "company": "Global One Data Inc.",
+   "hours_open": 59.1,
+   "title": "software developer",
+   "uid": "jobbank:developpeur junior:50202663"
+  },
+  {
+   "closed_at": 1789664284,
+   "company": "Astra North Infoteck Inc.",
+   "hours_open": 35.6,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:systems analyst:50297183"
+  },
+  {
+   "closed_at": 1789664284,
+   "company": "Valsoft Corporation",
+   "hours_open": 36.0,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50296955"
+  },
+  {
+   "closed_at": 1789664284,
+   "company": "Amazon",
+   "hours_open": 26.4,
+   "title": "Software Development Engineer, AWS Marketplace",
+   "uid": "amazon:amazon:10544575"
+  },
+  {
+   "closed_at": 1789664284,
+   "company": "spacex",
+   "hours_open": 334.3,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
- "count": 803,
- "updated_at": 1789658258
+ "count": 807,
+ "updated_at": 1789664286
 }
