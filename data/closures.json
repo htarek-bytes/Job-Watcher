@@ -1,13 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789344800,
-   "company": "spacex",
-   "hours_open": 247.3,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
    "closed_at": 1789344910,
    "company": "General Dynamics Produits de défense et Systèmes Tactiques",
    "hours_open": 127.1,
@@ -5599,8 +5592,15 @@
    "hours_open": 334.3,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1789664608,
+   "company": "Valsoft Corporation",
+   "hours_open": 15.3,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50300619"
   }
  ],
- "count": 807,
- "updated_at": 1789664286
+ "count": 801,
+ "updated_at": 1789664609
 }
