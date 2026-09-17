@@ -1,5 +1,5 @@
 {
- "count": 5181,
+ "count": 5183,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -4666,7 +4666,9 @@
   "workday:cni.wd503/CNI:Junior-Security-Analyst_R9489": 1789417897,
   "workday:costar.wd1/CoStarCareers:Matterport---Software-Engineer-I_R39503": 1789089172,
   "workday:costar.wd1/Costar_Campus:Associate-Software-Engineer---Arlington--VA_R39668": 1789417897,
+  "workday:costar.wd1/Costar_Campus:Associate-Software-Engineer---Irvine--CA_R39736": 1789628034,
   "workday:costar.wd1/Costar_Campus:Associate-Software-Engineer---Richmond--VA_R39667": 1789417897,
+  "workday:costar.wd1/Costar_Campus:Associate-Software-Engineer---San-Diego--CA_R39674": 1789628034,
   "workday:costar.wd1/Costar_Campus:Security-Engineer-Intern---Arlington--VA_R39727": 1789417897,
   "workday:costar.wd1/Costar_Campus:Security-Engineer-Intern---Richmond--VA_R39726": 1789417897,
   "workday:cox.wd1/Cox_External_Career_Site_1:Application-Support-Engineering-Intern---Summer-2027_R202682358": 1789070853,
@@ -5182,5 +5184,6 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Junior-Algorithm-Engineer_R19377": 1788377927,
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148,
   "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541": 1789106107
- }
+ },
+ "updated_at": 1789628034
 }
