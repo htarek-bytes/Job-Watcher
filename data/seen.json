@@ -1,5 +1,5 @@
 {
- "count": 5237,
+ "count": 5241,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -156,6 +156,7 @@
   "amazon:amazon:10552584": 1789675213,
   "amazon:amazon:10552585": 1789675213,
   "amazon:amazon:10552602": 1789676073,
+  "amazon:amazon:10552635": 1789676545,
   "ashby:1password:4ff46f84-a5c9-4232-84b6-1dfa8e737148": 1788750148,
   "ashby:1password:7f885c41-7572-439c-886f-bc508eb9a3d7": 1788454653,
   "ashby:1password:a5b083d5-5f82-4316-b5ef-a577f2edb493": 1788750148,
@@ -4763,6 +4764,7 @@
   "workday:fifththird.wd5/53careers:Information-Security-Co-op---Code-Security---Spring-2027_R71575": 1788887337,
   "workday:fifththird.wd5/53careers:Information-Security-Co-op---Cyber-Threat-Interdiction---Summer-2027_R71582": 1788887337,
   "workday:fifththird.wd5/53careers:Software-Engineer-Co-Op---Enterprise-Finance-Applications---Spring-2027_R71587": 1788442300,
+  "workday:fis.wd5/searchjobs:C---Software-Engineer-I_JR0309472": 1789676545,
   "workday:flir.wd1/flircareers:Associate-Software-Engineer_REQ36189": 1788377607,
   "workday:flir.wd1/flircareers:EADSIM-Software-Engineering-Intern--Summer-2027-_REQ36667": 1788410216,
   "workday:flir.wd1/flircareers:NHRC-Software-Engineering-Internship--Summer-2027-_REQ36193": 1788410216,
@@ -4795,6 +4797,7 @@
   "workday:gevernova.wd5/only_confidential_executive_recruiting:GE-Vernova-Software-Engineering---Co-op---Spring-Summer-2027_R5051780-1": 1788465502,
   "workday:gevernova.wd5/only_confidential_executive_recruiting:GE-Vernova-Software-Engineering---Co-op--Summer---Fall_R5051794-1": 1788465502,
   "workday:gevernova.wd5/only_confidential_executive_recruiting:Grid-Engineer-1_R5052125-1": 1789166954,
+  "workday:gevernova.wd5/only_confidential_executive_recruiting:Ingnieur-junior-en-intgration-logicielle-GridOS---DevOps-F-H-----Junior-GridOS-Software-Integration-Engineer---DevOps_R5048048-1": 1789676545,
   "workday:gevernova.wd5/vernova_externalsite:Early-Career-Traininship--Technical-Applications-Engineer_R5050516": 1788377927,
   "workday:gevernova.wd5/vernova_externalsite:Field-Services-Engineer---Early-Career-Trainee_R5049070-3": 1788377927,
   "workday:gevernova.wd5/vernova_externalsite:GE-Vernova---Energy-Optimization-Software-Engineer-Intern---Summer-2027_R5050015-2": 1788979927,
@@ -4814,6 +4817,7 @@
   "workday:globalfoundries.wd1/External:Global-Tapeout-and-Mask-Operations--Biz-App-and-Data-Engineer--2026-New-College-Graduate-_JR-2502471-1": 1788377607,
   "workday:globalfoundries.wd1/External:Packaging-Design-Integration-Engineer--2026-New-College-Graduate-_JR-2603919": 1788377607,
   "workday:globalfoundries.wd1/External:Packaging-Integration-Engineer--2026-New-College-Graduate-_JR-2603869": 1788377607,
+  "workday:globalfoundries.wd1/External:Quantum-NCG-3DHI-Engineer_JR-2605426": 1789676545,
   "workday:globalfoundries.wd1/External:SoC-Design-Verification-Engineer--2026-New-College-Graduate-_JR-2601515": 1788377607,
   "workday:globalfoundries.wd1/External:Software-Engineer--Cloud-Platform--2027-New-College-Graduate-_JR-2604056": 1788548796,
   "workday:globalfoundries.wd1/External:Systems-Engineer--2027-New-College-Graduate-_JR-2604083": 1788898936,
@@ -5239,5 +5243,5 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148,
   "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541": 1789106107
  },
- "updated_at": 1789676073
+ "updated_at": 1789676545
 }
