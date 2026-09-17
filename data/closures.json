@@ -2,41 +2,6 @@
  "closed": [
   {
    "closed_at": 1789403830,
-   "company": "cohere",
-   "hours_open": 263.7,
-   "title": "Data Annotation Specialist, Software Engineering",
-   "uid": "ashby:cohere:5d31ba60-683a-4d59-8059-3f728b772a9e"
-  },
-  {
-   "closed_at": 1789403830,
-   "company": "Sika AG",
-   "hours_open": 151.1,
-   "title": "Sales Engineer",
-   "uid": "smartrecruiters:SikaAG:744000148164949"
-  },
-  {
-   "closed_at": 1789403830,
-   "company": "Amazon",
-   "hours_open": 259.2,
-   "title": "Software Development Engineer , Adaptive Search Relevance",
-   "uid": "amazon:amazon:10529253"
-  },
-  {
-   "closed_at": 1789403830,
-   "company": "datadog",
-   "hours_open": 263.7,
-   "title": "Systems Engineer 2, Technical Solutions (US-East)",
-   "uid": "greenhouse:datadog:8092973"
-  },
-  {
-   "closed_at": 1789403830,
-   "company": "accenturefederalservices",
-   "hours_open": 263.7,
-   "title": "Mid-Level ServiceNow Developer",
-   "uid": "greenhouse:accenturefederalservices:4697592006"
-  },
-  {
-   "closed_at": 1789403830,
    "company": "drweng",
    "hours_open": 263.7,
    "title": "AI Engineer",
@@ -5599,8 +5564,43 @@
    "hours_open": 221.7,
    "title": "Autonomy Algorithms Software Engineer",
    "uid": "greenhouse:systemstechnologyresearch:4704680006"
+  },
+  {
+   "closed_at": 1789685913,
+   "company": "retell-ai",
+   "hours_open": 342.0,
+   "title": "Applied AI Engineer (Customer Facing)",
+   "uid": "ashby:retell-ai:1fcd6e82-2a31-4e2f-abcf-be069ebb6e8c"
+  },
+  {
+   "closed_at": 1789685913,
+   "company": "Valsoft Corporation",
+   "hours_open": 21.2,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50300619"
+  },
+  {
+   "closed_at": 1789685913,
+   "company": "runsybil-jobs",
+   "hours_open": 367.1,
+   "title": "Software Engineer I",
+   "uid": "ashby:runsybil-jobs:fd733ce7-7892-4019-9f6d-b6a75ba2aa59"
+  },
+  {
+   "closed_at": 1789685913,
+   "company": "spacex",
+   "hours_open": 342.0,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1789685913,
+   "company": "systemstechnologyresearch",
+   "hours_open": 335.0,
+   "title": "Autonomy Algorithms Software Engineer",
+   "uid": "greenhouse:systemstechnologyresearch:4704682006"
   }
  ],
- "count": 804,
- "updated_at": 1789685600
+ "count": 805,
+ "updated_at": 1789685914
 }
