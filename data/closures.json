@@ -1,34 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789344910,
-   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
-   "hours_open": 127.1,
-   "title": "Administrateur Réseau TI",
-   "uid": "jobillico:analyste reseau:17386419"
-  },
-  {
-   "closed_at": 1789349711,
-   "company": "twitch",
-   "hours_open": 248.6,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1789349711,
-   "company": "cadence",
-   "hours_open": 272.7,
-   "title": "Adams Application Software Developer  (Recent Grad 2026)",
-   "uid": "workday:cadence.wd1/Univ_Careers:Adams-Application-Software-Developer---Recent-Grad-2026-_R55736-2"
-  },
-  {
-   "closed_at": 1789349711,
-   "company": "cloudflare",
-   "hours_open": 261.0,
-   "title": "Software Engineer Intern (Fall 2026) - Austin, TX",
-   "uid": "greenhouse:cloudflare:8052785"
-  },
-  {
    "closed_at": 1789349711,
    "company": "spacex",
    "hours_open": 248.6,
@@ -5599,8 +5571,36 @@
    "hours_open": 15.3,
    "title": "software developer",
    "uid": "jobbank:junior software developer:50300619"
+  },
+  {
+   "closed_at": 1789665208,
+   "company": "Bosch Group",
+   "hours_open": 15.4,
+   "title": "WEB DEVELOPER INTERN (PYTHON & AUTOMATION)",
+   "uid": "smartrecruiters:BoschGroup:744000149963299"
+  },
+  {
+   "closed_at": 1789665208,
+   "company": "Bosch Group",
+   "hours_open": 22.8,
+   "title": "Customer Solutions Engineer - Manufacturing Diagnostics",
+   "uid": "smartrecruiters:BoschGroup:744000149922334"
+  },
+  {
+   "closed_at": 1789665208,
+   "company": "City and County of San Francisco",
+   "hours_open": 167.3,
+   "title": "Electrical Junior Engineer – Power Enterprise (SFPUC) (5201) (164368)  ",
+   "uid": "smartrecruiters:CityAndCountyOfSanFrancisco1:3743990015174526"
+  },
+  {
+   "closed_at": 1789665208,
+   "company": "Amazon",
+   "hours_open": 191.4,
+   "title": "Software Dev Engineer, Nw Monitoring & Remediation",
+   "uid": "amazon:amazon:10534634"
   }
  ],
- "count": 801,
- "updated_at": 1789664609
+ "count": 804,
+ "updated_at": 1789665208
 }
