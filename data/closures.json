@@ -1,62 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789246462,
-   "company": "twitch",
-   "hours_open": 219.9,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1789246462,
-   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
-   "hours_open": 99.8,
-   "title": "Administrateur Réseau TI",
-   "uid": "jobillico:analyste reseau:17386419"
-  },
-  {
-   "closed_at": 1789246462,
-   "company": "spacex",
-   "hours_open": 219.7,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1789246981,
-   "company": "Groupe Mario Coté",
-   "hours_open": 27.8,
-   "title": "Administrateur de réseau",
-   "uid": "jobillico:analyste reseau:17520153"
-  },
-  {
-   "closed_at": 1789246981,
-   "company": "twitch",
-   "hours_open": 217.1,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1789246981,
-   "company": "spacex",
-   "hours_open": 220.1,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1789249248,
-   "company": "Logesco Informatique",
-   "hours_open": 100.5,
-   "title": "Administrateur de réseau",
-   "uid": "jobillico:analyste reseau:17188132"
-  },
-  {
-   "closed_at": 1789249248,
-   "company": "twitch",
-   "hours_open": 220.7,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
    "closed_at": 1789249248,
    "company": "General Dynamics Produits de défense et Systèmes Tactiques",
    "hours_open": 100.5,
@@ -5599,8 +5543,64 @@
    "hours_open": 316.9,
    "title": "Security Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1789609638,
+   "company": "twitch",
+   "hours_open": 320.8,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1789609638,
+   "company": "YO AI Labs",
+   "hours_open": 6.4,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50298491"
+  },
+  {
+   "closed_at": 1789609638,
+   "company": "TD Bank",
+   "hours_open": 194.1,
+   "title": "Associate Software Engineer",
+   "uid": "simplify:listings:bed9d031-2f7f-4c71-9417-37308c8a19ee"
+  },
+  {
+   "closed_at": 1789609638,
+   "company": "Valsoft Corporation",
+   "hours_open": 20.8,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50296955"
+  },
+  {
+   "closed_at": 1789609638,
+   "company": "CoStar Group",
+   "hours_open": 57.2,
+   "title": "Associate Software Engineer",
+   "uid": "simplify:listings:722f99a1-34ff-426d-8ea6-596d9b287119"
+  },
+  {
+   "closed_at": 1789609638,
+   "company": "spacex",
+   "hours_open": 320.8,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1789609638,
+   "company": "spacex",
+   "hours_open": 320.8,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1789609638,
+   "company": "spacex",
+   "hours_open": 319.1,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
- "count": 803,
- "updated_at": 1789606222
+ "count": 808,
+ "updated_at": 1789609640
 }
