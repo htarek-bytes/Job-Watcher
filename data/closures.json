@@ -2,20 +2,6 @@
  "closed": [
   {
    "closed_at": 1789394228,
-   "company": "icapitalnetwork",
-   "hours_open": 259.3,
-   "title": "UI Frontend Engineer - Associate",
-   "uid": "greenhouse:icapitalnetwork:8645574002"
-  },
-  {
-   "closed_at": 1789394228,
-   "company": "TikTok",
-   "hours_open": 297.6,
-   "title": "Software Engineer New Grad - Quality and Efficiency Technology",
-   "uid": "simplify:listings:dfb14959-39c2-4aaa-8ea0-a7f75c6dd02e"
-  },
-  {
-   "closed_at": 1789394228,
    "company": "shieldai",
    "hours_open": 140.8,
    "title": "Reliability Analyst (R5728)",
@@ -5599,8 +5585,22 @@
    "hours_open": 337.3,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1789676073,
+   "company": "dtna",
+   "hours_open": 150.2,
+   "title": "Integration and Coordination Engineer I",
+   "uid": "workday:dtna.wd5/dtna_affiliate:Integration-and-Coordination-Engineer-I_DT-19590-2"
+  },
+  {
+   "closed_at": 1789676073,
+   "company": "RunSybil",
+   "hours_open": 375.9,
+   "title": "Software Engineer 1",
+   "uid": "simplify:listings:47f143c4-cc55-4bd8-bbd7-34e02431fad7"
   }
  ],
- "count": 816,
- "updated_at": 1789675213
+ "count": 802,
+ "updated_at": 1789676073
 }
