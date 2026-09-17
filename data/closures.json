@@ -2,27 +2,6 @@
  "closed": [
   {
    "closed_at": 1789339213,
-   "company": "twitch",
-   "hours_open": 245.7,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1789339213,
-   "company": "Maarut",
-   "hours_open": 5.3,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:systems analyst:50256788"
-  },
-  {
-   "closed_at": 1789339213,
-   "company": "YO AI Labs",
-   "hours_open": 263.6,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50208770"
-  },
-  {
-   "closed_at": 1789339213,
    "company": "spacex",
    "hours_open": 245.4,
    "title": "Wireless Software Engineer (Starlink)",
@@ -5599,8 +5578,29 @@
    "hours_open": 332.5,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1789658258,
+   "company": "spacex",
+   "hours_open": 331.4,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1789658258,
+   "company": "systemstechnologyresearch",
+   "hours_open": 327.4,
+   "title": "Autonomy Algorithms Software Engineer",
+   "uid": "greenhouse:systemstechnologyresearch:4704682006"
+  },
+  {
+   "closed_at": 1789658258,
+   "company": "spacex",
+   "hours_open": 334.3,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 816,
- "updated_at": 1789657828
+ "count": 803,
+ "updated_at": 1789658258
 }
