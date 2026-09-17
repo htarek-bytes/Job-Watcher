@@ -2,20 +2,6 @@
  "closed": [
   {
    "closed_at": 1789246462,
-   "company": "twitch",
-   "hours_open": 219.9,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1789246462,
-   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
-   "hours_open": 99.8,
-   "title": "Administrateur Réseau TI",
-   "uid": "jobillico:analyste reseau:17386419"
-  },
-  {
-   "closed_at": 1789246462,
    "company": "spacex",
    "hours_open": 219.7,
    "title": "Wireless Software Engineer (Starlink)",
@@ -5599,8 +5585,22 @@
    "hours_open": 316.9,
    "title": "Security Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1789609770,
+   "company": "TD Bank",
+   "hours_open": 194.1,
+   "title": "Associate Software Engineer",
+   "uid": "simplify:listings:bed9d031-2f7f-4c71-9417-37308c8a19ee"
+  },
+  {
+   "closed_at": 1789609770,
+   "company": "CoStar Group",
+   "hours_open": 57.2,
+   "title": "Associate Software Engineer",
+   "uid": "simplify:listings:722f99a1-34ff-426d-8ea6-596d9b287119"
   }
  ],
- "count": 803,
- "updated_at": 1789606222
+ "count": 802,
+ "updated_at": 1789609770
 }
