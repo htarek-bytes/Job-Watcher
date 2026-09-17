@@ -1,76 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789299914,
-   "company": "ngc",
-   "hours_open": 62.7,
-   "title": "2027 Intern Engineer - Product Support",
-   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Intern-Engineer---Product-Support_R10250299"
-  },
-  {
-   "closed_at": 1789299914,
-   "company": "Aramark",
-   "hours_open": 242.8,
-   "title": "Junior Data Engineer",
-   "uid": "simplify:listings:aaa3bc85-9d65-4c72-a3c0-656079d3aa4a"
-  },
-  {
-   "closed_at": 1789307813,
-   "company": "twitch",
-   "hours_open": 237.0,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1789307813,
-   "company": "LCBO",
-   "hours_open": 116.8,
-   "title": "network administrator",
-   "uid": "jobbank:network administrator:50135403"
-  },
-  {
-   "closed_at": 1789307813,
-   "company": "spacex",
-   "hours_open": 237.0,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1789307813,
-   "company": "spacex",
-   "hours_open": 236.7,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1789307813,
-   "company": "spacex",
-   "hours_open": 235.3,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1789310006,
-   "company": "twitch",
-   "hours_open": 234.7,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1789310006,
-   "company": "td",
-   "hours_open": 254.4,
-   "title": "2027 Summer Analyst - Software Engineering Rotational Program (New York City)",
-   "uid": "workday:td.wd3/TD_Bank_Careers:XMLNAME-2027-Summer-Analyst---Software-Engineering-Rotational-Program--New-York-City-_R_1508053"
-  },
-  {
-   "closed_at": 1789310006,
-   "company": "spacex",
-   "hours_open": 234.7,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
    "closed_at": 1789310006,
    "company": "spacex",
    "hours_open": 237.6,
@@ -5599,8 +5529,78 @@
    "hours_open": 324.2,
    "title": "Adams Application Software Developer  (Recent Grad 2026)",
    "uid": "workday:cadence.wd1/University_Talent:Adams-Application-Software-Developer---Recent-Grad-2026-_R55736-1"
+  },
+  {
+   "closed_at": 1789640566,
+   "company": "G Square Builders Ltd.",
+   "hours_open": 164.5,
+   "title": "Web developer",
+   "uid": "jobbank:developpeur junior:50199269"
+  },
+  {
+   "closed_at": 1789640566,
+   "company": "Precision IT Consulting INC",
+   "hours_open": 209.2,
+   "title": "computer network technician",
+   "uid": "jobbank:linux administrator:50163764"
+  },
+  {
+   "closed_at": 1789640566,
+   "company": "Valsoft Corporation",
+   "hours_open": 8.6,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50300619"
+  },
+  {
+   "closed_at": 1789640566,
+   "company": "iberdrola",
+   "hours_open": 157.6,
+   "title": "Associate Engineer - Distribution Planning",
+   "uid": "workday:iberdrola.wd3/iberdrola:Associate-Engineer---Distribution-Planning_R-30914"
+  },
+  {
+   "closed_at": 1789640566,
+   "company": "AiPrise",
+   "hours_open": 289.1,
+   "title": "Software Engineer 1",
+   "uid": "simplify:listings:6c3fb746-2d33-44e9-b97d-ada170e96ef0"
+  },
+  {
+   "closed_at": 1789640566,
+   "company": "duettoresearch",
+   "hours_open": 207.6,
+   "title": "Application Support Specialist",
+   "uid": "greenhouse:duettoresearch:8074148"
+  },
+  {
+   "closed_at": 1789640566,
+   "company": "intercom",
+   "hours_open": 317.5,
+   "title": "IT Systems Engineer",
+   "uid": "greenhouse:intercom:7918638"
+  },
+  {
+   "closed_at": 1789640566,
+   "company": "V2X",
+   "hours_open": 366.1,
+   "title": "Embedded Firmware Engineer 1",
+   "uid": "simplify:listings:358d7057-e885-4d95-99ab-34cec9339ee9"
+  },
+  {
+   "closed_at": 1789640566,
+   "company": "Applied Intuition",
+   "hours_open": 329.4,
+   "title": "Scenario Engineer New Grad",
+   "uid": "simplify:listings:5e2b041d-3b5b-414f-8491-242be06bf425"
+  },
+  {
+   "closed_at": 1789640566,
+   "company": "Nuvei",
+   "hours_open": 329.4,
+   "title": "ML Engineer",
+   "uid": "workable:nuvei:1179069976"
   }
  ],
- "count": 812,
- "updated_at": 1789628034
+ "count": 810,
+ "updated_at": 1789640566
 }
