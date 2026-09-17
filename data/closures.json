@@ -1,34 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789320002,
-   "company": "Maarut",
-   "hours_open": 36.8,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:systems analyst:50271421"
-  },
-  {
-   "closed_at": 1789320002,
-   "company": "spacex",
-   "hours_open": 237.4,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1789320002,
-   "company": "spacex",
-   "hours_open": 240.4,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1789320002,
-   "company": "spacex",
-   "hours_open": 240.4,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
    "closed_at": 1789328085,
    "company": "Autostore",
    "hours_open": 1.4,
@@ -5599,8 +5571,36 @@
    "hours_open": 329.2,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1789646979,
+   "company": "RELX",
+   "hours_open": 10.4,
+   "title": "Software Engineer 1",
+   "uid": "simplify:listings:a9b9d8ee-e94d-4b1f-a542-48d5507be8ef"
+  },
+  {
+   "closed_at": 1789646979,
+   "company": "Daimler Truck",
+   "hours_open": 151.3,
+   "title": "Integration and Coordination Engineer 1",
+   "uid": "simplify:listings:c010600b-5c7e-4cc2-a27e-72fd2b3c75b8"
+  },
+  {
+   "closed_at": 1789646979,
+   "company": "pae",
+   "hours_open": 37.2,
+   "title": "Storage Solutions Engineer IRES - SSFB",
+   "uid": "workday:pae.wd1/amentum_careers:Storage-Solutions-Engineer-IRES---SSFB_R0170571"
+  },
+  {
+   "closed_at": 1789646979,
+   "company": "The Boeing Company",
+   "hours_open": 133.3,
+   "title": "Entry Level Simulation Software Engineer",
+   "uid": "simplify:listings:bf70e269-0f0c-4ba6-9c6d-ba877510df63"
   }
  ],
- "count": 807,
- "updated_at": 1789640815
+ "count": 804,
+ "updated_at": 1789646980
 }
