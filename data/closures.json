@@ -1,55 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789310006,
-   "company": "spacex",
-   "hours_open": 237.6,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1789310006,
-   "company": "spacex",
-   "hours_open": 237.6,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1789310634,
-   "company": "twitch",
-   "hours_open": 237.8,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1789310634,
-   "company": "spacex",
-   "hours_open": 237.8,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1789310634,
-   "company": "spacex",
-   "hours_open": 237.5,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1789310634,
-   "company": "spacex",
-   "hours_open": 236.1,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1789320002,
-   "company": "twitch",
-   "hours_open": 237.4,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
    "closed_at": 1789320002,
    "company": "Maarut",
    "hours_open": 36.8,
@@ -5599,8 +5550,57 @@
    "hours_open": 329.4,
    "title": "ML Engineer",
    "uid": "workable:nuvei:1179069976"
+  },
+  {
+   "closed_at": 1789640814,
+   "company": "twitch",
+   "hours_open": 329.5,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1789640814,
+   "company": "navcanada",
+   "hours_open": 190.7,
+   "title": "Cloud Infrastructure Analyst",
+   "uid": "workday:navcanada.wd10/NAV_Careers:Cloud-Infrastructure-Analyst_JR-8264"
+  },
+  {
+   "closed_at": 1789640814,
+   "company": "Valsoft Corporation",
+   "hours_open": 29.5,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50296955"
+  },
+  {
+   "closed_at": 1789640814,
+   "company": "marvell",
+   "hours_open": 299.2,
+   "title": "Physical Design Engineer Intern, BS - Summer 2027",
+   "uid": "workday:marvell.wd1/MarvellCareers:Physical-Design-Engineer-Intern--BS---Summer-2027_2604517-1"
+  },
+  {
+   "closed_at": 1789640814,
+   "company": "nvidia",
+   "hours_open": 35.4,
+   "title": "ASIC Design Verification Engineer - New College Grad 2026",
+   "uid": "workday:nvidia.wd5/NVIDIAExternalCareerSite:ASIC-Design-Verification-Engineer---New-College-Grad-2026_JR2010391"
+  },
+  {
+   "closed_at": 1789640814,
+   "company": "kbr",
+   "hours_open": 350.8,
+   "title": "Junior Software Engineer",
+   "uid": "workday:kbr.wd5/kbr_careers:Junior-Software-Engineer_R2122294"
+  },
+  {
+   "closed_at": 1789640814,
+   "company": "spacex",
+   "hours_open": 329.2,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
   }
  ],
- "count": 810,
- "updated_at": 1789640566
+ "count": 807,
+ "updated_at": 1789640815
 }
