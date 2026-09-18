@@ -1,20 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789418169,
-   "company": "Peraton",
-   "hours_open": 304.3,
-   "title": "Junior Web Developer",
-   "uid": "simplify:listings:beffc9df-d33a-4e8c-bd21-8ac5229e3ab7"
-  },
-  {
-   "closed_at": 1789424861,
-   "company": "twitch",
-   "hours_open": 269.5,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
    "closed_at": 1789424861,
    "company": "myhrabc",
    "hours_open": 71.1,
@@ -5599,8 +5585,22 @@
    "hours_open": 32.1,
    "title": "software developer",
    "uid": "jobbank:junior software developer:50300619"
+  },
+  {
+   "closed_at": 1789729510,
+   "company": "Groupe DCM",
+   "hours_open": 6.2,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534679"
+  },
+  {
+   "closed_at": 1789729510,
+   "company": "Valsoft Corporation",
+   "hours_open": 54.1,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50296955"
   }
  ],
- "count": 800,
- "updated_at": 1789725786
+ "count": 802,
+ "updated_at": 1789729510
 }
