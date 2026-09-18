@@ -2,34 +2,6 @@
  "closed": [
   {
    "closed_at": 1789412713,
-   "company": "twitch",
-   "hours_open": 263.2,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1789412713,
-   "company": "doordashcanada",
-   "hours_open": 241.4,
-   "title": "Software Engineer, Backend - Unified Gateway",
-   "uid": "greenhouse:doordashcanada:8052714"
-  },
-  {
-   "closed_at": 1789412713,
-   "company": "Amazon",
-   "hours_open": 266.1,
-   "title": "Software Dev Engineer, Publisher Ad Server",
-   "uid": "amazon:amazon:10528085"
-  },
-  {
-   "closed_at": 1789412713,
-   "company": "Amazon",
-   "hours_open": 142.7,
-   "title": "Software Development Engineer, Personalization, Amazon Personalization",
-   "uid": "amazon:amazon:10532576"
-  },
-  {
-   "closed_at": 1789412713,
    "company": "stripe",
    "hours_open": 266.1,
    "title": "Software Engineer, Authorization Infrastructure",
@@ -5599,8 +5571,36 @@
    "hours_open": 341.7,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1789691092,
+   "company": "twitch",
+   "hours_open": 340.5,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1789691092,
+   "company": "field-ai",
+   "hours_open": 340.5,
+   "title": "Embedded Systems Engineer, Humanoid Robotics",
+   "uid": "lever:field-ai:ae6ff0ce-0078-4836-aab1-7e44b1be1893"
+  },
+  {
+   "closed_at": 1789691092,
+   "company": "systemstechnologyresearch",
+   "hours_open": 336.5,
+   "title": "Autonomy Algorithms Software Engineer",
+   "uid": "greenhouse:systemstechnologyresearch:4704682006"
+  },
+  {
+   "closed_at": 1789691092,
+   "company": "spacex",
+   "hours_open": 343.5,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 809,
- "updated_at": 1789690751
+ "count": 804,
+ "updated_at": 1789691092
 }
