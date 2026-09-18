@@ -1,90 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789428521,
-   "company": "twitch",
-   "hours_open": 270.5,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1789428521,
-   "company": "alta-ares",
-   "hours_open": 267.6,
-   "title": "Pyrotechnics Engineer H/F",
-   "uid": "ashby:alta-ares:0bc1e7e8-55a6-47db-88b7-b82ac1165698"
-  },
-  {
-   "closed_at": 1789428521,
-   "company": "allen-control-systems",
-   "hours_open": 267.6,
-   "title": "Embedded Software Engineer",
-   "uid": "ashby:allen-control-systems:ad9baaab-496a-44e1-a5b0-ab991ed32f5f"
-  },
-  {
-   "closed_at": 1789428521,
-   "company": "spacex",
-   "hours_open": 270.2,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1789428521,
-   "company": "spacex",
-   "hours_open": 268.8,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1789433490,
-   "company": "alphafmcroles",
-   "hours_open": 8.3,
-   "title": "Solutions Consultant - Data Management",
-   "uid": "greenhouse:alphafmcroles:8790534002"
-  },
-  {
-   "closed_at": 1789433490,
-   "company": "kayak",
-   "hours_open": 271.9,
-   "title": "Java Software Engineer, Search team",
-   "uid": "ashby:kayak:9144a2ad-3bc6-4e82-8538-233de8438350"
-  },
-  {
-   "closed_at": 1789433490,
-   "company": "retell-ai",
-   "hours_open": 271.9,
-   "title": "Customer Success Engineer (Contract)",
-   "uid": "ashby:retell-ai:6ae071ab-8b07-4e8f-871a-04df97484f67"
-  },
-  {
-   "closed_at": 1789433490,
-   "company": "andurilindustries",
-   "hours_open": 270.2,
-   "title": "NPI Engineer, Actuators",
-   "uid": "greenhouse:andurilindustries:5116367007"
-  },
-  {
-   "closed_at": 1789433490,
-   "company": "Lennar Corporation",
-   "hours_open": 308.5,
-   "title": "Software Engineer 1",
-   "uid": "simplify:listings:54a06b84-67eb-4568-8969-1e478d303342"
-  },
-  {
-   "closed_at": 1789433490,
-   "company": "spacex",
-   "hours_open": 271.6,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1789433490,
-   "company": "twitch",
-   "hours_open": 269.0,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
    "closed_at": 1789433490,
    "company": "CGI",
    "hours_open": 151.7,
@@ -5599,8 +5515,92 @@
    "hours_open": 358.8,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1789752945,
+   "company": "jll",
+   "hours_open": 12.0,
+   "title": "Junior Reliability Engineer",
+   "uid": "workday:jll.wd1/jllcareers:Junior-Reliability-Engineer_REQ535710"
+  },
+  {
+   "closed_at": 1789752945,
+   "company": "gevernova",
+   "hours_open": 21.2,
+   "title": "Ingénieur junior en intégration logicielle GridOS – DevOps F/H  /  Junior GridOS Software Integration Engineer – DevOps",
+   "uid": "workday:gevernova.wd5/only_confidential_executive_recruiting:Ingnieur-junior-en-intgration-logicielle-GridOS---DevOps-F-H-----Junior-GridOS-Software-Integration-Engineer---DevOps_R5048048-1"
+  },
+  {
+   "closed_at": 1789752945,
+   "company": "globalhr",
+   "hours_open": 12.0,
+   "title": "HWIL Software Engineer I",
+   "uid": "workday:globalhr.wd5/rec_rtx_ext_gateway:HWIL-Software-Engineer-I_01874565"
+  },
+  {
+   "closed_at": 1789752945,
+   "company": "twitch",
+   "hours_open": 360.6,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1789752945,
+   "company": "iberdrola",
+   "hours_open": 67.0,
+   "title": "Associate Engineer - Gas Engineering",
+   "uid": "workday:iberdrola.wd3/iberdrola:Associate-Engineer---Gas-Engineering_R-23985"
+  },
+  {
+   "closed_at": 1789752945,
+   "company": "iqvia",
+   "hours_open": 12.0,
+   "title": "Data & AI Solutions Consultant",
+   "uid": "workday:iqvia.wd1/IQVIA:Data---AI-Solutions-Consultant_R1552230"
+  },
+  {
+   "closed_at": 1789752945,
+   "company": "generalmotors",
+   "hours_open": 162.8,
+   "title": "Machine Learning Engineer, AI Inference Solutions (Early in Career)",
+   "uid": "workday:generalmotors.wd5/Careers_GM:Machine-Learning-Engineer--AI-Inference-Solutions--University-Grad-_JR-202610103"
+  },
+  {
+   "closed_at": 1789752945,
+   "company": "globalhr",
+   "hours_open": 12.0,
+   "title": "Software Engineering Intern (Summer 2027)",
+   "uid": "workday:globalhr.wd5/Private_Posting_No_TMP:Software-Engineering-Intern--Summer-2027-_01876131"
+  },
+  {
+   "closed_at": 1789752945,
+   "company": "globalhr",
+   "hours_open": 44.0,
+   "title": "Receiver, Exciter, & Processing Architecture Software Engineer Intern (Summer 2027)",
+   "uid": "workday:globalhr.wd5/rec_rtx_ext_gateway:Receiver--Exciter----Processing-Architecture-Software-Engineer-Intern--Summer-2027-_01873484"
+  },
+  {
+   "closed_at": 1789752945,
+   "company": "spacex",
+   "hours_open": 357.7,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1789752945,
+   "company": "systemstechnologyresearch",
+   "hours_open": 353.7,
+   "title": "Autonomy Algorithms Software Engineer",
+   "uid": "greenhouse:systemstechnologyresearch:4704682006"
+  },
+  {
+   "closed_at": 1789752945,
+   "company": "spacex",
+   "hours_open": 360.6,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
   }
  ],
- "count": 809,
- "updated_at": 1789752320
+ "count": 812,
+ "updated_at": 1789752946
 }

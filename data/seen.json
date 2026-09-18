@@ -1,5 +1,5 @@
 {
- "count": 5362,
+ "count": 5365,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -4880,6 +4880,7 @@
   "workday:generalmotors.wd5/Careers_GM:XMLNAME-2027-Co-Op-Student---Manufacturing-Quality-Engineer_JR-202619309": 1788442300,
   "workday:gentex.wd5/Gentex:Machine-Vision-Development-Engineer-I_REQ026227": 1788377607,
   "workday:gevernova.wd5/only_confidential_executive_recruiting:Early-Career-Traininship--Technical-Applications-Engineer_R5050516-3": 1788377607,
+  "workday:gevernova.wd5/only_confidential_executive_recruiting:Engineering-Intern---Power-Conversion---Storage-AI-Tool-Developer--2027_R5049957-1": 1789752945,
   "workday:gevernova.wd5/only_confidential_executive_recruiting:Field-Services-Engineer---Early-Career-Trainee_R5049070-2": 1788377607,
   "workday:gevernova.wd5/only_confidential_executive_recruiting:GE-Vernova---Project-Engineer-Intern---Summer-2027_R5050026-1": 1788539216,
   "workday:gevernova.wd5/only_confidential_executive_recruiting:GE-Vernova-CIC-Systems-Engineer-Co-op---Spring---Summer-2027_R5051807-1": 1788465502,
@@ -4928,6 +4929,8 @@
   "workday:globalhr.wd5/Private_Posting_No_TMP:Systems-Engineer-Intern---Helmet-Displays--Summer-2027----Onsite_01867411": 1789041021,
   "workday:globalhr.wd5/Private_Posting_No_TMP:Technical-Publications-AI-ML-Technical-Developer-Intern--Summer-2027---Onsite-_01866027": 1788442300,
   "workday:globalhr.wd5/rec_rtx_ext_gateway:Digital-Hardware-Design-Engineer--2027-New-College-Graduate-_01873795": 1789070853,
+  "workday:globalhr.wd5/rec_rtx_ext_gateway:Digital-Hardware-Design-Engineer-Co-op--Spring-Summer-_01871518-1": 1789752945,
+  "workday:globalhr.wd5/rec_rtx_ext_gateway:Digital-Hardware-Design-Engineer-Co-op--Summer-Fall-2027--Onsite-_01871519": 1789752945,
   "workday:globalhr.wd5/rec_rtx_ext_gateway:HWIL-Software-Engineer-I_01874565": 1789709712,
   "workday:globalhr.wd5/rec_rtx_ext_gateway:Ingnieur---Programme-de-rotation-de-nouveaux-gradues-2027---Engineer---New-Graduate-Rotation-Program-2027_01870776-1": 1788377607,
   "workday:globalhr.wd5/rec_rtx_ext_gateway:Internship---Raytheon-Systems-Security-Engineer--Onsite_01874702": 1789510394,
@@ -5364,5 +5367,5 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148,
   "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541": 1789106107
  },
- "updated_at": 1789752320
+ "updated_at": 1789752946
 }
