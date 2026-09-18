@@ -1,90 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789437141,
-   "company": "twitch",
-   "hours_open": 270.0,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1789437141,
-   "company": "spotify",
-   "hours_open": 270.0,
-   "title": "Software Engineer - Financial Engineering",
-   "uid": "lever:spotify:308d127c-e765-4895-9264-3765ddbfc620"
-  },
-  {
-   "closed_at": 1789437141,
-   "company": "weride",
-   "hours_open": 272.9,
-   "title": "Software Engineer - Mapping & Localization",
-   "uid": "lever:weride:acb82703-595c-48bc-9b7c-815a70d0c5a9"
-  },
-  {
-   "closed_at": 1789437141,
-   "company": "spacex",
-   "hours_open": 272.9,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1789437141,
-   "company": "spacex",
-   "hours_open": 272.9,
-   "title": "Operations Engineer (Material Flow)",
-   "uid": "greenhouse:spacex:8641455002"
-  },
-  {
-   "closed_at": 1789437141,
-   "company": "spacex",
-   "hours_open": 272.9,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1789437141,
-   "company": "spacex",
-   "hours_open": 272.9,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1789437141,
-   "company": "spacex",
-   "hours_open": 272.9,
-   "title": "Material Flow Engineer",
-   "uid": "greenhouse:spacex:8461337002"
-  },
-  {
-   "closed_at": 1789450368,
-   "company": "twitch",
-   "hours_open": 276.6,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1789450368,
-   "company": "Bosch Group",
-   "hours_open": 81.4,
-   "title": "GenAI Junior Engineer",
-   "uid": "smartrecruiters:BoschGroup:744000149031611"
-  },
-  {
-   "closed_at": 1789450368,
-   "company": "Arista Networks",
-   "hours_open": 156.4,
-   "title": "Network Systems Engineer (Pre Sales) - Trading Platforms",
-   "uid": "smartrecruiters:AristaNetworks:744000145311011"
-  },
-  {
-   "closed_at": 1789450368,
-   "company": "General Dynamics Missions System International",
-   "hours_open": 252.6,
-   "title": "Co-op Winter 2027 - Software Engineering (TacCIS Solutions) -12 Months",
-   "uid": "smartrecruiters:GDMSI:744000147563929"
-  },
-  {
    "closed_at": 1789450368,
    "company": "General Dynamics Missions System International",
    "hours_open": 81.4,
@@ -5599,8 +5515,92 @@
    "hours_open": 232.7,
    "title": "Aerodynamics Engineer, Modeling and Optimization",
    "uid": "greenhouse:archer56:7740994003"
+  },
+  {
+   "closed_at": 1789760824,
+   "company": "New Market Group",
+   "hours_open": 2.5,
+   "title": "cloud developer",
+   "uid": "jobbank:developpeur junior:50314622"
+  },
+  {
+   "closed_at": 1789760824,
+   "company": "datadog",
+   "hours_open": 99.2,
+   "title": "Developer Advocate - Service Management EMEA",
+   "uid": "greenhouse:datadog:8161455"
+  },
+  {
+   "closed_at": 1789760824,
+   "company": "Astra North Infoteck Inc.",
+   "hours_open": 62.4,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:systems analyst:50297183"
+  },
+  {
+   "closed_at": 1789760824,
+   "company": "Amazon",
+   "hours_open": 52.9,
+   "title": "Software Development Engineer, AWS Security",
+   "uid": "amazon:amazon:10544608"
+  },
+  {
+   "closed_at": 1789760824,
+   "company": "visa",
+   "hours_open": 21.0,
+   "title": "2027 Sophomore Internship Program - Software Engineer Intern, Ashburn",
+   "uid": "workday:visa.wd5/Visa:XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Ashburn_REF088599W-1"
+  },
+  {
+   "closed_at": 1789760824,
+   "company": "visa",
+   "hours_open": 21.0,
+   "title": "2027 Sophomore Internship Program - Software Engineer Intern, Highlands Ranch",
+   "uid": "workday:visa.wd5/Visa:XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Highlands-Ranch_REF088597W-1"
+  },
+  {
+   "closed_at": 1789760824,
+   "company": "visa",
+   "hours_open": 21.0,
+   "title": "2027 Sophomore Internship Program - Software Engineer Intern, Austin",
+   "uid": "workday:visa.wd5/Visa:XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Austin_REF088596W-1"
+  },
+  {
+   "closed_at": 1789760824,
+   "company": "visa",
+   "hours_open": 21.0,
+   "title": "2027 Sophomore Internship Program - Software Engineer Intern, Bellevue",
+   "uid": "workday:visa.wd5/Visa:XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Bellevue_REF088594W-1"
+  },
+  {
+   "closed_at": 1789760824,
+   "company": "visa",
+   "hours_open": 21.0,
+   "title": "2027 Sophomore Internship Program - Software Engineer Intern, Foster City",
+   "uid": "workday:visa.wd5/Visa:XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Foster-City_REF088591W-1"
+  },
+  {
+   "closed_at": 1789760824,
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
+   "hours_open": 242.6,
+   "title": "Administrateur Réseau TI",
+   "uid": "jobillico:analyste reseau:17386419"
+  },
+  {
+   "closed_at": 1789760824,
+   "company": "accenturefederalservices",
+   "hours_open": 338.6,
+   "title": "DevOps Engineer ",
+   "uid": "greenhouse:accenturefederalservices:4708393006"
+  },
+  {
+   "closed_at": 1789760824,
+   "company": "spacex",
+   "hours_open": 362.8,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 809,
- "updated_at": 1789755481
+ "count": 812,
+ "updated_at": 1789760825
 }
