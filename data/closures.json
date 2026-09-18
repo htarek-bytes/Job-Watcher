@@ -2,69 +2,6 @@
  "closed": [
   {
    "closed_at": 1789485027,
-   "company": "altentechnologyusa",
-   "hours_open": 25.2,
-   "title": "Exterior Lighting Engineer",
-   "uid": "greenhouse:altentechnologyusa:5236008007"
-  },
-  {
-   "closed_at": 1789485027,
-   "company": "twitch",
-   "hours_open": 283.3,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1789485027,
-   "company": "alayacare",
-   "hours_open": 166.0,
-   "title": "Fullstack Developer (Python) - Onboarding Team",
-   "uid": "greenhouse:alayacare:8678579002"
-  },
-  {
-   "closed_at": 1789485027,
-   "company": "Amazon",
-   "hours_open": 34.1,
-   "title": "Software Development Engineer , Ads Nova",
-   "uid": "amazon:amazon:10538328"
-  },
-  {
-   "closed_at": 1789485027,
-   "company": "Amazon",
-   "hours_open": 286.2,
-   "title": "Software Development Engineer",
-   "uid": "amazon:amazon:10528280"
-  },
-  {
-   "closed_at": 1789485027,
-   "company": "kayak",
-   "hours_open": 311.3,
-   "title": "Associate Software Engineer",
-   "uid": "ashby:kayak:8333e351-7a08-4767-9966-f75411b78d80"
-  },
-  {
-   "closed_at": 1789485027,
-   "company": "Cerebras",
-   "hours_open": 322.8,
-   "title": "Simulation Engineer New Grad",
-   "uid": "simplify:listings:0e014b55-7295-4b7b-817a-ee4f8de89e5f"
-  },
-  {
-   "closed_at": 1789485027,
-   "company": "graymatter-robotics",
-   "hours_open": 279.1,
-   "title": "Robotics Engineer (New Grad): Government Projects",
-   "uid": "ashby:graymatter-robotics:0f5acd77-6b34-4444-9ddc-1ce91cad177c"
-  },
-  {
-   "closed_at": 1789485027,
-   "company": "systemstechnologyresearch",
-   "hours_open": 166.0,
-   "title": "Autonomy Algorithms Software Engineer",
-   "uid": "greenhouse:systemstechnologyresearch:4704680006"
-  },
-  {
-   "closed_at": 1789485027,
    "company": "YO AI Labs",
    "hours_open": 2.5,
    "title": "software developer",
@@ -5599,8 +5536,71 @@
    "hours_open": 74.6,
    "title": "Project Engineer - Commercial Electrical Projects",
    "uid": "workable:alphax:4830380A5D"
+  },
+  {
+   "closed_at": 1789773258,
+   "company": "twitch",
+   "hours_open": 366.3,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1789773258,
+   "company": "Cleveland Clinic",
+   "hours_open": 22.9,
+   "title": "Software Developer 1",
+   "uid": "simplify:listings:dd34ed1b-cf41-44bd-9472-b972eb6f8b8d"
+  },
+  {
+   "closed_at": 1789773258,
+   "company": "Bruno Independent Living Aids",
+   "hours_open": 71.0,
+   "title": "Junior Software Developer - AI Focus",
+   "uid": "simplify:listings:f65facdb-07b5-489d-bda0-a527041c6dd5"
+  },
+  {
+   "closed_at": 1789773258,
+   "company": "Amazon",
+   "hours_open": 22.9,
+   "title": "Software Development Engineer Intern - Summer 2027 (USA)",
+   "uid": "amazon:amazon:10552937"
+  },
+  {
+   "closed_at": 1789773258,
+   "company": "Amazon",
+   "hours_open": 76.2,
+   "title": "Software Development Engineer, Application Performance Monitoring",
+   "uid": "amazon:amazon:10542501"
+  },
+  {
+   "closed_at": 1789773258,
+   "company": "Leidos",
+   "hours_open": 402.9,
+   "title": "Junior EO/IR Algorithm Developer - Defense Systems",
+   "uid": "simplify:listings:a9d18a09-8c11-4691-becb-9e1f46437cfd"
+  },
+  {
+   "closed_at": 1789773258,
+   "company": "systemstechnologyresearch",
+   "hours_open": 246.1,
+   "title": "Autonomy Algorithms Software Engineer",
+   "uid": "greenhouse:systemstechnologyresearch:4704680006"
+  },
+  {
+   "closed_at": 1789773258,
+   "company": "spacex",
+   "hours_open": 366.0,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1789773258,
+   "company": "spacex",
+   "hours_open": 366.3,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 802,
- "updated_at": 1789770748
+ "count": 809,
+ "updated_at": 1789773259
 }
