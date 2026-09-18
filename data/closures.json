@@ -2,20 +2,6 @@
  "closed": [
   {
    "closed_at": 1789417897,
-   "company": "truveta",
-   "hours_open": 267.6,
-   "title": "Software Engineer - Live Link",
-   "uid": "greenhouse:truveta:6140479004"
-  },
-  {
-   "closed_at": 1789417897,
-   "company": "truveta",
-   "hours_open": 267.6,
-   "title": "Software Engineer - Person Matching",
-   "uid": "greenhouse:truveta:5817190004"
-  },
-  {
-   "closed_at": 1789417897,
    "company": "caci",
    "hours_open": 241.4,
    "title": "Software Engineer Intern - Summer 2027",
@@ -5599,8 +5585,22 @@
    "hours_open": 346.9,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1789711125,
+   "company": "ngc",
+   "hours_open": 7.8,
+   "title": "Sentinel GN&C Systems Engineer (Level 2/3) - 11781-1",
+   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:Sentinel-GN-C-Systems-Engineer--Level-2-3----11781-1_R10250258"
+  },
+  {
+   "closed_at": 1789711125,
+   "company": "Amazon",
+   "hours_open": 153.3,
+   "title": "Software Dev Engineer, Antenna System Validation",
+   "uid": "amazon:amazon:10538011"
   }
  ],
- "count": 808,
- "updated_at": 1789709713
+ "count": 802,
+ "updated_at": 1789711125
 }
