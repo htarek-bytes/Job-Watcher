@@ -2,20 +2,6 @@
  "closed": [
   {
    "closed_at": 1789424861,
-   "company": "Nexthop.ai",
-   "hours_open": 95.3,
-   "title": "Software Engineer New Grad",
-   "uid": "simplify:listings:4a0ac2bd-9aed-42eb-88de-3663340e79b5"
-  },
-  {
-   "closed_at": 1789424861,
-   "company": "Amazon",
-   "hours_open": 269.5,
-   "title": "Software Development Engineer, Measurement, AdTech, and Data Science",
-   "uid": "amazon:amazon:10526604"
-  },
-  {
-   "closed_at": 1789424861,
    "company": "sharkninjaoperatingllc",
    "hours_open": 262.5,
    "title": "Associate Product Developer - Home Environment",
@@ -5599,8 +5585,22 @@
    "hours_open": 171.1,
    "title": "Data Monitoring Analyst Intern",
    "uid": "smartrecruiters:Socotec:744000148921759"
+  },
+  {
+   "closed_at": 1789743494,
+   "company": "ag",
+   "hours_open": 169.3,
+   "title": "Junior Cloud & DevOps Engineer / Kubernetes Specialist (f/m/d)",
+   "uid": "workday:ag.wd3/Airbus:Junior-Cloud---DevOps-Engineer---Kubernetes-Specialist--f-m-d-_JR10430847"
+  },
+  {
+   "closed_at": 1789743494,
+   "company": "ag",
+   "hours_open": 213.0,
+   "title": "Junior Structural Design Engineer",
+   "uid": "workday:ag.wd3/Airbus:Junior-Structural-Design-Engineer_JR10428136-1"
   }
  ],
- "count": 803,
- "updated_at": 1789741526
+ "count": 802,
+ "updated_at": 1789743494
 }
