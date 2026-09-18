@@ -1,104 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789417897,
-   "company": "caci",
-   "hours_open": 241.4,
-   "title": "Software Engineer Intern - Summer 2027",
-   "uid": "workday:caci.wd1/external:Software-Engineer-Intern---Summer-2027_331648"
-  },
-  {
-   "closed_at": 1789417897,
-   "company": "andurilindustries",
-   "hours_open": 265.9,
-   "title": "Electrical Test Engineer",
-   "uid": "greenhouse:andurilindustries:5226710007"
-  },
-  {
-   "closed_at": 1789417897,
-   "company": "spacex",
-   "hours_open": 264.6,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1789417897,
-   "company": "systemstechnologyresearch",
-   "hours_open": 260.6,
-   "title": "Autonomy Algorithms Software Engineer",
-   "uid": "greenhouse:systemstechnologyresearch:4704682006"
-  },
-  {
-   "closed_at": 1789417897,
-   "company": "darkwolfsolutions",
-   "hours_open": 147.4,
-   "title": "Linux System Administrator",
-   "uid": "greenhouse:darkwolfsolutions:7817922003"
-  },
-  {
-   "closed_at": 1789418056,
-   "company": "globalhr",
-   "hours_open": 15.5,
-   "title": "Radar Systems Engineer I",
-   "uid": "workday:globalhr.wd5/rec_rtx_ext_gateway:Radar-Systems-Engineer-I_01874482"
-  },
-  {
-   "closed_at": 1789418056,
-   "company": "globalhr",
-   "hours_open": 15.5,
-   "title": "Production Support Engineering Co-op (Winter/Spring 2027)",
-   "uid": "workday:globalhr.wd5/rec_rtx_ext_gateway:Production-Support-Engineering-Co-op--Winter-Spring-2027-_01872654"
-  },
-  {
-   "closed_at": 1789418056,
-   "company": "globalhr",
-   "hours_open": 15.5,
-   "title": "Production Support Engineering Co-Op (Summer/Fall 2027)",
-   "uid": "workday:globalhr.wd5/rec_rtx_ext_gateway:Production-Support-Engineering-Co-Op--Summer-Fall-2027-_01872653"
-  },
-  {
-   "closed_at": 1789418056,
-   "company": "globalhr",
-   "hours_open": 33.9,
-   "title": "System Engineer I",
-   "uid": "workday:globalhr.wd5/rec_rtx_ext_gateway:System-Engineer-I_01866674"
-  },
-  {
-   "closed_at": 1789418056,
-   "company": "globalhr",
-   "hours_open": 33.9,
-   "title": "Systems Engineer I",
-   "uid": "workday:globalhr.wd5/rec_rtx_ext_gateway:Systems-Engineer-I_01866673"
-  },
-  {
-   "closed_at": 1789418056,
-   "company": "gevernova",
-   "hours_open": 69.8,
-   "title": "Grid Engineer-1",
-   "uid": "workday:gevernova.wd5/only_confidential_executive_recruiting:Grid-Engineer-1_R5052125-1"
-  },
-  {
-   "closed_at": 1789418056,
-   "company": "globalfoundries",
-   "hours_open": 289.0,
-   "title": "3D Heterogeneous Integration Design Enablement Engineer (2026 New College Graduate)",
-   "uid": "workday:globalfoundries.wd1/External:XMLNAME-3D-Heterogeneous-Integration-Design-Enablement-Engineer--2025-New-College-Graduate-_JR-2501678"
-  },
-  {
-   "closed_at": 1789418056,
-   "company": "systemstechnologyresearch",
-   "hours_open": 147.4,
-   "title": "Autonomy Algorithms Software Engineer",
-   "uid": "greenhouse:systemstechnologyresearch:4704680006"
-  },
-  {
-   "closed_at": 1789418056,
-   "company": "Peraton",
-   "hours_open": 304.2,
-   "title": "Junior Web Developer",
-   "uid": "simplify:listings:beffc9df-d33a-4e8c-bd21-8ac5229e3ab7"
-  },
-  {
    "closed_at": 1789418169,
    "company": "globalhr",
    "hours_open": 15.5,
@@ -5599,8 +5501,106 @@
    "hours_open": 153.3,
    "title": "Software Dev Engineer, Antenna System Validation",
    "uid": "amazon:amazon:10538011"
+  },
+  {
+   "closed_at": 1789723861,
+   "company": "twitch",
+   "hours_open": 349.6,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1789723861,
+   "company": "td",
+   "hours_open": 82.1,
+   "title": "Associate Software Engineer (nCino/Salesforce)",
+   "uid": "workday:td.wd3/TD_Bank_Careers:Associate-Software-Engineer--SQL--CI-CD--_R_1508918"
+  },
+  {
+   "closed_at": 1789723861,
+   "company": "Drops of Jupiter",
+   "hours_open": 13.5,
+   "title": "electronic commerce (e-commerce) Web site developer",
+   "uid": "jobbank:developpeur junior:50268296"
+  },
+  {
+   "closed_at": 1789723861,
+   "company": "ADNIKA TECH Inc.",
+   "hours_open": 349.6,
+   "title": "software development programmer",
+   "uid": "jobbank:junior programmer:50216439"
+  },
+  {
+   "closed_at": 1789723861,
+   "company": "relx",
+   "hours_open": 371.6,
+   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - January)",
+   "uid": "workday:relx.wd3/RiskSolutions:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617"
+  },
+  {
+   "closed_at": 1789723861,
+   "company": "relx",
+   "hours_open": 371.6,
+   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - June)",
+   "uid": "workday:relx.wd3/RiskSolutions:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-1"
+  },
+  {
+   "closed_at": 1789723861,
+   "company": "relx",
+   "hours_open": 371.6,
+   "title": "Tech Accelerate Graduate Program - Software Engineer (Boca Raton - June)",
+   "uid": "workday:relx.wd3/RiskSolutions:Tech-Accelerate-Graduate-Program---Software-Engineer--Boca-Raton---June-_R116023-2"
+  },
+  {
+   "closed_at": 1789723861,
+   "company": "Amazon",
+   "hours_open": 163.8,
+   "title": "Software Development Engineer 2, Prime Video Personalization and Discovery",
+   "uid": "amazon:amazon:10537310"
+  },
+  {
+   "closed_at": 1789723861,
+   "company": "Amazon",
+   "hours_open": 66.3,
+   "title": "Software Development Engineer, Ads Nova",
+   "uid": "amazon:amazon:10541733"
+  },
+  {
+   "closed_at": 1789723861,
+   "company": "td",
+   "hours_open": 21.3,
+   "title": "Associate Software Engineer-15",
+   "uid": "workday:td.wd3/TD_Bank_Careers:Associate-Software-Engineer-15_R_1502648"
+  },
+  {
+   "closed_at": 1789723861,
+   "company": "KEYPLAN Measuring Inc.",
+   "hours_open": 370.4,
+   "title": "computer programmer",
+   "uid": "jobbank:junior programmer:49550591"
+  },
+  {
+   "closed_at": 1789723861,
+   "company": "spacex",
+   "hours_open": 352.6,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1789723861,
+   "company": "systemstechnologyresearch",
+   "hours_open": 345.6,
+   "title": "Autonomy Algorithms Software Engineer",
+   "uid": "greenhouse:systemstechnologyresearch:4704682006"
+  },
+  {
+   "closed_at": 1789723861,
+   "company": "spacex",
+   "hours_open": 352.6,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 802,
- "updated_at": 1789711125
+ "count": 814,
+ "updated_at": 1789723862
 }
