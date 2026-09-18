@@ -1,69 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789437058,
-   "company": "Automated DesignWorks",
-   "hours_open": 290.8,
-   "title": "software developer",
-   "uid": "jobbank:entry level software developer:50197990"
-  },
-  {
-   "closed_at": 1789437058,
-   "company": "spotify",
-   "hours_open": 269.9,
-   "title": "Software Engineer - Financial Engineering",
-   "uid": "lever:spotify:308d127c-e765-4895-9264-3765ddbfc620"
-  },
-  {
-   "closed_at": 1789437058,
-   "company": "weride",
-   "hours_open": 272.9,
-   "title": "Software Engineer - Mapping & Localization",
-   "uid": "lever:weride:acb82703-595c-48bc-9b7c-815a70d0c5a9"
-  },
-  {
-   "closed_at": 1789437058,
-   "company": "spacex",
-   "hours_open": 272.9,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1789437058,
-   "company": "spacex",
-   "hours_open": 272.9,
-   "title": "Operations Engineer (Material Flow)",
-   "uid": "greenhouse:spacex:8641455002"
-  },
-  {
-   "closed_at": 1789437058,
-   "company": "spacex",
-   "hours_open": 272.9,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1789437058,
-   "company": "spacex",
-   "hours_open": 272.9,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1789437058,
-   "company": "spacex",
-   "hours_open": 272.9,
-   "title": "Material Flow Engineer",
-   "uid": "greenhouse:spacex:8461337002"
-  },
-  {
-   "closed_at": 1789051055,
-   "company": "top-hat",
-   "hours_open": 178.2,
-   "title": "Junior Analytics Engineer",
-   "uid": "ashby:top-hat:86f97853-9b2b-433e-9077-e977cf00e43b"
-  },
-  {
    "closed_at": 1789437141,
    "company": "twitch",
    "hours_open": 270.0,
@@ -5599,8 +5536,71 @@
    "hours_open": 360.6,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1789755481,
+   "company": "Logesco Informatique",
+   "hours_open": 241.2,
+   "title": "Administrateur de réseau",
+   "uid": "jobillico:analyste reseau:17188132"
+  },
+  {
+   "closed_at": 1789755481,
+   "company": "Alt Informatique",
+   "hours_open": 13.4,
+   "title": "Technicien informatique junior",
+   "uid": "jobillico:technicien informatique:17381391"
+  },
+  {
+   "closed_at": 1789755481,
+   "company": "relx",
+   "hours_open": 382.7,
+   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - January)",
+   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617-1"
+  },
+  {
+   "closed_at": 1789755481,
+   "company": "relx",
+   "hours_open": 382.7,
+   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - June)",
+   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-2"
+  },
+  {
+   "closed_at": 1789755481,
+   "company": "relx",
+   "hours_open": 382.7,
+   "title": "Tech Accelerate Graduate Program - Software Engineer (Boca Raton - June)",
+   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Boca-Raton---June-_R116023"
+  },
+  {
+   "closed_at": 1789755481,
+   "company": "pae",
+   "hours_open": 20.1,
+   "title": "Job Posting Title Junior Naval Systems Security Engineer",
+   "uid": "workday:pae.wd1/amentum_careers:Job-Posting-Title-Junior-Naval-Systems-Security-Engineer_R0170950"
+  },
+  {
+   "closed_at": 1789755481,
+   "company": "selinc",
+   "hours_open": 20.1,
+   "title": "Power Systems Sales Engineer – Caribbean & Central America",
+   "uid": "workday:selinc.wd1/SEL:Power-Systems-Sales-Engineer---Caribbean---Central-America_2026-19581"
+  },
+  {
+   "closed_at": 1789755481,
+   "company": "selinc",
+   "hours_open": 44.0,
+   "title": "Associate Software Engineer- Full Stack TypeScript/React/C#",
+   "uid": "workday:selinc.wd1/SEL:Associate-Software-Engineer--Full-Stack-TypeScript-React-C-_2026-23005-1"
+  },
+  {
+   "closed_at": 1789755481,
+   "company": "archer56",
+   "hours_open": 232.7,
+   "title": "Aerodynamics Engineer, Modeling and Optimization",
+   "uid": "greenhouse:archer56:7740994003"
   }
  ],
- "count": 810,
- "updated_at": 1789753664
+ "count": 809,
+ "updated_at": 1789755481
 }
