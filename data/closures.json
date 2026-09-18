@@ -1,20 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789475991,
-   "company": "YO AI Labs",
-   "hours_open": 6.8,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50289053"
-  },
-  {
-   "closed_at": 1789475991,
-   "company": "zebra",
-   "hours_open": 110.2,
-   "title": "Software Engineer, I",
-   "uid": "workday:zebra.wd501/Zebra_careers:Software-Engineer--I_JR103242-1"
-  },
-  {
    "closed_at": 1789485027,
    "company": "altentechnologyusa",
    "hours_open": 25.2,
@@ -5599,8 +5585,22 @@
    "hours_open": 358.6,
    "title": "Autonomy Algorithms Software Engineer",
    "uid": "greenhouse:systemstechnologyresearch:4704682006"
+  },
+  {
+   "closed_at": 1789770747,
+   "company": "ServiceNow",
+   "hours_open": 52.0,
+   "title": "Advisory Solution Consultant",
+   "uid": "smartrecruiters:ServiceNow:744000149912359"
+  },
+  {
+   "closed_at": 1789770747,
+   "company": "AlphaHire",
+   "hours_open": 74.6,
+   "title": "Project Engineer - Commercial Electrical Projects",
+   "uid": "workable:alphax:4830380A5D"
   }
  ],
- "count": 824,
- "updated_at": 1789770625
+ "count": 802,
+ "updated_at": 1789770748
 }
