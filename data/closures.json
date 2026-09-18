@@ -2,55 +2,6 @@
  "closed": [
   {
    "closed_at": 1789424861,
-   "company": "myhrabc",
-   "hours_open": 71.1,
-   "title": "Solutions Consultant, Community Pharmacy Solutions",
-   "uid": "workday:myhrabc.wd5/Global:Solutions-Consultant--Community-Pharmacy-Solutions_R2615710"
-  },
-  {
-   "closed_at": 1789424861,
-   "company": "labcorp",
-   "hours_open": 79.8,
-   "title": "Intern - Quality Engineer - Oncology",
-   "uid": "workday:labcorp.wd1/external:Intern---Quality-Engineer_2630918"
-  },
-  {
-   "closed_at": 1789424861,
-   "company": "CANADIAN EASY TAX AND FINANCIAL SERVICES",
-   "hours_open": 77.2,
-   "title": "Web developer",
-   "uid": "jobbank:junior programmer:50267136"
-  },
-  {
-   "closed_at": 1789424861,
-   "company": "Groupe Mario Coté",
-   "hours_open": 77.2,
-   "title": "Administrateur de réseau",
-   "uid": "jobillico:analyste reseau:17520153"
-  },
-  {
-   "closed_at": 1789424861,
-   "company": "Richard & Levesque Cuisines Salles de Bain",
-   "hours_open": 137.1,
-   "title": "Web developer",
-   "uid": "jobbank:developpeur junior:50247764"
-  },
-  {
-   "closed_at": 1789424861,
-   "company": "DLGL TECHNOLOGIES CORPORATION",
-   "hours_open": 287.4,
-   "title": "developer, software",
-   "uid": "jobbank:developpeur junior:50191592"
-  },
-  {
-   "closed_at": 1789424861,
-   "company": "stripe",
-   "hours_open": 269.5,
-   "title": "Software Engineer, Machine Learning Infrastructure",
-   "uid": "greenhouse:stripe:8084476"
-  },
-  {
-   "closed_at": 1789424861,
    "company": "micron",
    "hours_open": 123.1,
    "title": "New College Grad - Operations Improvement Engineer",
@@ -5599,8 +5550,57 @@
    "hours_open": 54.1,
    "title": "software developer",
    "uid": "jobbank:junior software developer:50296955"
+  },
+  {
+   "closed_at": 1789739297,
+   "company": "CANADIAN EASY TAX AND FINANCIAL SERVICES",
+   "hours_open": 162.0,
+   "title": "Web developer",
+   "uid": "jobbank:developpeur junior:50267136"
+  },
+  {
+   "closed_at": 1789739297,
+   "company": "Brightmark",
+   "hours_open": 219.9,
+   "title": "network administrator",
+   "uid": "jobbank:network administrator:50248661"
+  },
+  {
+   "closed_at": 1789739297,
+   "company": "Alt Informatique",
+   "hours_open": 8.9,
+   "title": "Technicien informatique junior",
+   "uid": "jobillico:technicien informatique:17381391"
+  },
+  {
+   "closed_at": 1789739297,
+   "company": "spacex",
+   "hours_open": 353.9,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1789739297,
+   "company": "accenturefederalservices",
+   "hours_open": 356.8,
+   "title": "Full Stack Developer",
+   "uid": "greenhouse:accenturefederalservices:4705965006"
+  },
+  {
+   "closed_at": 1789739297,
+   "company": "systemstechnologyresearch",
+   "hours_open": 236.7,
+   "title": "Autonomy Algorithms Software Engineer",
+   "uid": "greenhouse:systemstechnologyresearch:4704680006"
+  },
+  {
+   "closed_at": 1789739297,
+   "company": "spacex",
+   "hours_open": 355.2,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
- "count": 802,
- "updated_at": 1789729510
+ "count": 807,
+ "updated_at": 1789739297
 }
