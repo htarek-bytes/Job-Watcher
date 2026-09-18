@@ -2,34 +2,6 @@
  "closed": [
   {
    "closed_at": 1789418169,
-   "company": "twitch",
-   "hours_open": 267.6,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1789418169,
-   "company": "gevernova",
-   "hours_open": 69.8,
-   "title": "Grid Engineer-1",
-   "uid": "workday:gevernova.wd5/only_confidential_executive_recruiting:Grid-Engineer-1_R5052125-1"
-  },
-  {
-   "closed_at": 1789418169,
-   "company": "globalfoundries",
-   "hours_open": 289.0,
-   "title": "3D Heterogeneous Integration Design Enablement Engineer (2026 New College Graduate)",
-   "uid": "workday:globalfoundries.wd1/External:XMLNAME-3D-Heterogeneous-Integration-Design-Enablement-Engineer--2025-New-College-Graduate-_JR-2501678"
-  },
-  {
-   "closed_at": 1789418169,
-   "company": "spacex",
-   "hours_open": 267.6,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1789418169,
    "company": "Peraton",
    "hours_open": 304.3,
    "title": "Junior Web Developer",
@@ -5599,8 +5571,36 @@
    "hours_open": 232.5,
    "title": "cybersecurity analyst",
    "uid": "jobbank:cybersecurity analyst:49819441"
+  },
+  {
+   "closed_at": 1789725180,
+   "company": "OLYMPIC CONTROLS",
+   "hours_open": 232.7,
+   "title": "control systems engineer",
+   "uid": "jobbank:control systems analyst:50218591"
+  },
+  {
+   "closed_at": 1789725180,
+   "company": "interface-ai",
+   "hours_open": 345.8,
+   "title": "Software Engineer",
+   "uid": "ashby:interface-ai:abbcf39d-cac3-49ee-9279-82a59821c300"
+  },
+  {
+   "closed_at": 1789725180,
+   "company": "commure",
+   "hours_open": 153.3,
+   "title": "Business Intelligence Engineer (Bangladesh)",
+   "uid": "ashby:commure:2ae9c7b2-6fe3-4bc8-8ab0-be31450ca961"
+  },
+  {
+   "closed_at": 1789725180,
+   "company": "Valsoft Corporation",
+   "hours_open": 32.1,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50300619"
   }
  ],
- "count": 805,
- "updated_at": 1789724456
+ "count": 804,
+ "updated_at": 1789725181
 }
