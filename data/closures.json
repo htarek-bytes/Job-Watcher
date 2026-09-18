@@ -4,13 +4,6 @@
    "closed_at": 1789424861,
    "company": "micron",
    "hours_open": 123.1,
-   "title": "New College Grad - Operations Improvement Engineer",
-   "uid": "workday:micron.wd1/External:New-College-Grad---Operations-Improvement-Engineer_JR109576"
-  },
-  {
-   "closed_at": 1789424861,
-   "company": "micron",
-   "hours_open": 123.1,
    "title": "New College Grad - Photomask BEOL Sustaining Engineer",
    "uid": "workday:micron.wd1/External:New-College-Grad---Photomask-BEOL-Sustaining-Engineer_JR110914"
   },
@@ -5599,8 +5592,15 @@
    "hours_open": 355.2,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1789739659,
+   "company": "shyftlabs",
+   "hours_open": 356.9,
+   "title": "Technical Data Engineer (Databricks)",
+   "uid": "lever:shyftlabs:7d46b391-a417-4816-aa96-29d5c7e58330"
   }
  ],
- "count": 807,
- "updated_at": 1789739297
+ "count": 801,
+ "updated_at": 1789739659
 }
