@@ -2,34 +2,6 @@
  "closed": [
   {
    "closed_at": 1789451528,
-   "company": "ServiceNow",
-   "hours_open": 133.6,
-   "title": "Advisory Solution Consultant, Partner Fed Sales (Armis/Veza)",
-   "uid": "smartrecruiters:ServiceNow:744000148523289"
-  },
-  {
-   "closed_at": 1789451528,
-   "company": "Sika AG",
-   "hours_open": 133.6,
-   "title": "Sales Engineer - Main Contractors",
-   "uid": "smartrecruiters:SikaAG:744000148475829"
-  },
-  {
-   "closed_at": 1789451528,
-   "company": "Sika AG",
-   "hours_open": 133.6,
-   "title": "Sales Engineer – Building Finishing",
-   "uid": "smartrecruiters:SikaAG:744000148475423"
-  },
-  {
-   "closed_at": 1789451528,
-   "company": "Tomra",
-   "hours_open": 191.7,
-   "title": "Pre-Sales Engineer",
-   "uid": "smartrecruiters:Tomra:744000143312689"
-  },
-  {
-   "closed_at": 1789451528,
    "company": "Source Code",
    "hours_open": 73.4,
    "title": "software developer",
@@ -5599,8 +5571,36 @@
    "hours_open": 361.4,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1789765300,
+   "company": "lush",
+   "hours_open": 364.1,
+   "title": "Intermediate DevOps Engineer ",
+   "uid": "greenhouse:lush:8143093"
+  },
+  {
+   "closed_at": 1789765300,
+   "company": "twitch",
+   "hours_open": 364.1,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1789765300,
+   "company": "zensurance",
+   "hours_open": 243.9,
+   "title": "IT Systems Administrator (Remote First)",
+   "uid": "lever:zensurance:536b5fef-69d2-4f78-8388-405d1142167a"
+  },
+  {
+   "closed_at": 1789765300,
+   "company": "systemstechnologyresearch",
+   "hours_open": 357.1,
+   "title": "Autonomy Algorithms Software Engineer",
+   "uid": "greenhouse:systemstechnologyresearch:4704682006"
   }
  ],
- "count": 807,
- "updated_at": 1789761758
+ "count": 804,
+ "updated_at": 1789765300
 }
