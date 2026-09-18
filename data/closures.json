@@ -1,76 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789451528,
-   "company": "Source Code",
-   "hours_open": 73.4,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50271382"
-  },
-  {
-   "closed_at": 1789451528,
-   "company": "Credence",
-   "hours_open": 244.5,
-   "title": "AI Software Engineer",
-   "uid": "workable:credence:545B9377E4"
-  },
-  {
-   "closed_at": 1789454401,
-   "company": "twitch",
-   "hours_open": 274.8,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1789454401,
-   "company": "CANADIAN EASY TAX AND FINANCIAL SERVICES",
-   "hours_open": 82.8,
-   "title": "Web developer",
-   "uid": "jobbank:developpeur junior:50267136"
-  },
-  {
-   "closed_at": 1789454401,
-   "company": "IX Solutions Ltd.",
-   "hours_open": 157.5,
-   "title": "network system administrator",
-   "uid": "jobbank:systems administrator:50148565"
-  },
-  {
-   "closed_at": 1789454401,
-   "company": "KEYPLAN Measuring Inc.",
-   "hours_open": 295.6,
-   "title": "computer programmer",
-   "uid": "jobbank:junior programmer:49550591"
-  },
-  {
-   "closed_at": 1789454401,
-   "company": "spacex",
-   "hours_open": 277.7,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1789454401,
-   "company": "spacex",
-   "hours_open": 276.0,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1789455473,
-   "company": "avav",
-   "hours_open": 107.0,
-   "title": "Software Engineering Intern",
-   "uid": "workday:avav.wd1/avav:Software-Engineering-Intern_8593"
-  },
-  {
-   "closed_at": 1789467869,
-   "company": "kiongroup",
-   "hours_open": 11.9,
-   "title": "Controls Engineer (New Graduate - Early Career)",
-   "uid": "workday:kiongroup.wd3/kiongroup:Controls-Engineer--Early---Mid-Career-_JR-0093840-1"
-  },
-  {
    "closed_at": 1789467869,
    "company": "Article",
    "hours_open": 83.8,
@@ -5599,8 +5529,78 @@
    "hours_open": 357.1,
    "title": "Autonomy Algorithms Software Engineer",
    "uid": "greenhouse:systemstechnologyresearch:4704682006"
+  },
+  {
+   "closed_at": 1789768811,
+   "company": "miovision",
+   "hours_open": 47.7,
+   "title": "Technical Solution Engineer",
+   "uid": "ashby:miovision:b3fba46f-8c0b-412a-a141-ee4dbb430a15"
+  },
+  {
+   "closed_at": 1789768811,
+   "company": "AECOM",
+   "hours_open": 8.1,
+   "title": "Entry-Level Engineer - Water - Hiring Event with AECOM – Philadelphia, PA",
+   "uid": "smartrecruiters:AECOM2:744000150233379"
+  },
+  {
+   "closed_at": 1789768811,
+   "company": "appnovation",
+   "hours_open": 365.0,
+   "title": "Full-Stack AI Engineer",
+   "uid": "greenhouse:appnovation:8760795002"
+  },
+  {
+   "closed_at": 1789768811,
+   "company": "samsara",
+   "hours_open": 244.9,
+   "title": "IT Specialist",
+   "uid": "greenhouse:samsara:8154440"
+  },
+  {
+   "closed_at": 1789768811,
+   "company": "ADGA Group Consultants Inc",
+   "hours_open": 244.6,
+   "title": "Intelligence Mission Data Systems Analyst",
+   "uid": "smartrecruiters:ADGAGroupConsultantsInc1:744000146222969"
+  },
+  {
+   "closed_at": 1789768811,
+   "company": "Noom",
+   "hours_open": 401.7,
+   "title": "Agentic Engineer New Grad",
+   "uid": "simplify:listings:deebe837-33bf-4674-9b5a-57ef02b237bc"
+  },
+  {
+   "closed_at": 1789768811,
+   "company": "waabi",
+   "hours_open": 365.0,
+   "title": "Research Engineer, Learnable Planner (Integration)",
+   "uid": "lever:waabi:30f77194-6f1c-4ee2-8bb9-0eb9763250af"
+  },
+  {
+   "closed_at": 1789768811,
+   "company": "stripe",
+   "hours_open": 365.0,
+   "title": "Backend/API Engineer, Money as a Service",
+   "uid": "greenhouse:stripe:6176758"
+  },
+  {
+   "closed_at": 1789768811,
+   "company": "Brain Co.",
+   "hours_open": 401.7,
+   "title": "Early Career Machine Learning Engineer - Applied AI",
+   "uid": "simplify:listings:ca7d68ba-0e7b-411e-974e-de4b08bc123f"
+  },
+  {
+   "closed_at": 1789768811,
+   "company": "systemstechnologyresearch",
+   "hours_open": 244.9,
+   "title": "Autonomy Algorithms Software Engineer",
+   "uid": "greenhouse:systemstechnologyresearch:4704680006"
   }
  ],
- "count": 804,
- "updated_at": 1789765300
+ "count": 810,
+ "updated_at": 1789768813
 }
