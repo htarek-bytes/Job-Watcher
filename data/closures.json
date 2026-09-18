@@ -1,41 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789413651,
-   "company": "avav",
-   "hours_open": 290.5,
-   "title": "Entry-Level Software Engineer",
-   "uid": "workday:avav.wd1/avav:Entry-Level-Software-Engineer_8010"
-  },
-  {
-   "closed_at": 1789413651,
-   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
-   "hours_open": 146.2,
-   "title": "Administrateur Réseau TI",
-   "uid": "jobillico:analyste reseau:17386419"
-  },
-  {
-   "closed_at": 1789413651,
-   "company": "spacex",
-   "hours_open": 264.7,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1789413651,
-   "company": "andurilindustries",
-   "hours_open": 264.7,
-   "title": "Mission Analytics Engineer",
-   "uid": "greenhouse:andurilindustries:5130552007"
-  },
-  {
-   "closed_at": 1789417897,
-   "company": "twitch",
-   "hours_open": 264.6,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
    "closed_at": 1789417897,
    "company": "canadiantirecorporation",
    "hours_open": 144.2,
@@ -5599,8 +5564,43 @@
    "hours_open": 348.0,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1789707721,
+   "company": "cae",
+   "hours_open": 227.9,
+   "title": "C-IT-200 Product Cybersecurity Specialist Intern",
+   "uid": "workday:cae.wd3/career:C-IT-200-Product-Cybersecurity-Specialist-Intern_123542"
+  },
+  {
+   "closed_at": 1789707721,
+   "company": "cadence",
+   "hours_open": 296.3,
+   "title": "Software Engineer  (new college grad Dec 2026)",
+   "uid": "workday:cadence.wd1/University_Talent_NCG:Software-Engineer---new-college-grad-Dec-2026-_R55738"
+  },
+  {
+   "closed_at": 1789707721,
+   "company": "Valsoft Corporation",
+   "hours_open": 27.2,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50300619"
+  },
+  {
+   "closed_at": 1789707721,
+   "company": "cadence",
+   "hours_open": 326.9,
+   "title": "Adams MultiBody Dynamics Application Software Developer (Recent Grad 2026)",
+   "uid": "workday:cadence.wd1/University_Talent_NCG:Adams-MultiBody-Dynamics-Application-Software-Developer--Recent-Grad-2026-_R55788-2"
+  },
+  {
+   "closed_at": 1789707721,
+   "company": "cadence",
+   "hours_open": 327.7,
+   "title": "Adams Application Software Developer  (Recent Grad 2026)",
+   "uid": "workday:cadence.wd1/University_Talent_NCG:Adams-Application-Software-Developer---Recent-Grad-2026-_R55736"
   }
  ],
- "count": 811,
- "updated_at": 1789707345
+ "count": 805,
+ "updated_at": 1789707721
 }
