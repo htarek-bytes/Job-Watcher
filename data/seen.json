@@ -1,5 +1,5 @@
 {
- "count": 5308,
+ "count": 5314,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -4809,6 +4809,7 @@
   "workday:fifththird.wd5/53careers:Information-Security-Co-op---Cyber-Threat-Interdiction---Summer-2027_R71582": 1788887337,
   "workday:fifththird.wd5/53careers:Software-Engineer-Co-Op---Enterprise-Finance-Applications---Spring-2027_R71587": 1788442300,
   "workday:fis.wd5/searchjobs:C---Software-Engineer-I_JR0309472": 1789676545,
+  "workday:fis.wd5/searchjobs:Intern--Software-Engineer--FIS-University-Program_JR0309512": 1789709712,
   "workday:flir.wd1/flircareers:Associate-Software-Engineer_REQ36189": 1788377607,
   "workday:flir.wd1/flircareers:EADSIM-Software-Engineering-Intern--Summer-2027-_REQ36667": 1788410216,
   "workday:flir.wd1/flircareers:NHRC-Software-Engineering-Internship--Summer-2027-_REQ36193": 1788410216,
@@ -4876,9 +4877,12 @@
   "workday:globalhr.wd5/Private_Posting_No_TMP:Production-Test-Engineer-Intern--Summer-2027-_01870379": 1788470575,
   "workday:globalhr.wd5/Private_Posting_No_TMP:Software-Engineering-Intern--Summer-2027-_01870410": 1788947734,
   "workday:globalhr.wd5/Private_Posting_No_TMP:Software-Engineering-Intern--Summer-2027-_01871019": 1788442300,
+  "workday:globalhr.wd5/Private_Posting_No_TMP:Software-Engineering-Intern--Summer-2027-_01876131": 1789709712,
+  "workday:globalhr.wd5/Private_Posting_No_TMP:Spcialiste-en-automatisation-manufacturire---Manufacturing-Automation-Specialist_01869338-2": 1789709712,
   "workday:globalhr.wd5/Private_Posting_No_TMP:Systems-Engineer-Intern---Helmet-Displays--Summer-2027----Onsite_01867411": 1789041021,
   "workday:globalhr.wd5/Private_Posting_No_TMP:Technical-Publications-AI-ML-Technical-Developer-Intern--Summer-2027---Onsite-_01866027": 1788442300,
   "workday:globalhr.wd5/rec_rtx_ext_gateway:Digital-Hardware-Design-Engineer--2027-New-College-Graduate-_01873795": 1789070853,
+  "workday:globalhr.wd5/rec_rtx_ext_gateway:HWIL-Software-Engineer-I_01874565": 1789709712,
   "workday:globalhr.wd5/rec_rtx_ext_gateway:Ingnieur---Programme-de-rotation-de-nouveaux-gradues-2027---Engineer---New-Graduate-Rotation-Program-2027_01870776-1": 1788377607,
   "workday:globalhr.wd5/rec_rtx_ext_gateway:Internship---Raytheon-Systems-Security-Engineer--Onsite_01874702": 1789510394,
   "workday:globalhr.wd5/rec_rtx_ext_gateway:Internship---Winter-2027---Software-Developer-Aerospace-Control-Systems---Web-Applications_01874412": 1789137582,
@@ -4944,6 +4948,7 @@
   "workday:intel.wd1/external:Software-Development-Graduate-Intern_JR0285451-1": 1788472811,
   "workday:intel.wd1/external:Software-Engineering---Intern--Bachelor-s_JR0286834": 1788472811,
   "workday:intel.wd1/external:Software-Engineering---Intern--Graduate_JR0286836": 1788472811,
+  "workday:iqvia.wd1/IQVIA:Data---AI-Solutions-Consultant_R1552230": 1789709712,
   "workday:jabil.wd5/Jabil_Careers:Automation-Design-Engineer---Internship--12-months-_J2462833": 1788847246,
   "workday:jabil.wd5/Jabil_Careers:Test-Engineer-I_J2454860": 1788847246,
   "workday:jabil.wd5/Jabil_Careers:Test-Engineer-I_J2454862": 1789102462,
@@ -4964,6 +4969,7 @@
   "workday:jj.wd5/JJ:Mechatronics---Systems-Integration-Intern---R-D_R-099833": 1789511757,
   "workday:jj.wd5/JJ:Product-Development-Engineering-Intern_R-095154": 1789002050,
   "workday:jj.wd5/JJ:Software-Engineering-Intern---Robotics-R-D_R-099919": 1789511757,
+  "workday:jll.wd1/jllcareers:Junior-Reliability-Engineer_REQ535710": 1789709712,
   "workday:kbr.wd5/KBR_Careers:Junior-Software-Engineer_R2122294": 1788377607,
   "workday:kbr.wd5/KBR_Careers:Project-Engineer-I_R2129322": 1788442554,
   "workday:kbr.wd5/kbr_careers:Junior-Software-Engineer_R2122294": 1788377835,
@@ -5310,5 +5316,5 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148,
   "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541": 1789106107
  },
- "updated_at": 1789708734
+ "updated_at": 1789709713
 }
