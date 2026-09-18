@@ -1,76 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789433490,
-   "company": "CGI",
-   "hours_open": 151.7,
-   "title": "Conseiller en gouvernance de la cybersécurité",
-   "uid": "jobillico:analyste cybersecurite:17433756"
-  },
-  {
-   "closed_at": 1789433490,
-   "company": "spacex",
-   "hours_open": 271.9,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1789433686,
-   "company": "sierra",
-   "hours_open": 115.0,
-   "title": "Software Engineer Intern, Agent (Winter 2027)",
-   "uid": "ashby:sierra:02e1c456-8489-4a74-9fe7-af8845b040e4"
-  },
-  {
-   "closed_at": 1789433686,
-   "company": "snowflake",
-   "hours_open": 268.9,
-   "title": "Forward Deployed Engineer, Applied AI",
-   "uid": "ashby:snowflake:a6a3e9d2-b045-466a-8074-1613c07891fe"
-  },
-  {
-   "closed_at": 1789433686,
-   "company": "spacex",
-   "hours_open": 272.0,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1789433686,
-   "company": "spacex",
-   "hours_open": 270.3,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1789436213,
-   "company": "twitch",
-   "hours_open": 272.7,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1789436213,
-   "company": "AeroVironment",
-   "hours_open": 309.3,
-   "title": "Entry-Level Software Engineer",
-   "uid": "simplify:listings:6e0e23c9-300a-4131-a50c-35417c91599a"
-  },
-  {
-   "closed_at": 1789436213,
-   "company": "spacex",
-   "hours_open": 269.7,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1789437058,
-   "company": "twitch",
-   "hours_open": 269.9,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
    "closed_at": 1789437058,
    "company": "Automated DesignWorks",
    "hours_open": 290.8,
@@ -5599,8 +5529,78 @@
    "hours_open": 360.6,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1789753663,
+   "company": "ngc",
+   "hours_open": 19.7,
+   "title": "Associate Engineer Test\\Engineer Test-AHT",
+   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:Associate-Engineer-Test-Engineer-Test-AHT_R10251001-1"
+  },
+  {
+   "closed_at": 1789753663,
+   "company": "lumentum",
+   "hours_open": 19.7,
+   "title": "Embedded Software DevSecOps Engineer (Co-op Student)",
+   "uid": "workday:lumentum.wd5/LITE:Embedded-Software-DevSecOps-Engineer--Co-op-Student-_20261355"
+  },
+  {
+   "closed_at": 1789753663,
+   "company": "twitch",
+   "hours_open": 357.9,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1789753663,
+   "company": "kbr",
+   "hours_open": 382.2,
+   "title": "Junior Software Engineer",
+   "uid": "workday:kbr.wd5/KBR_Careers:Junior-Software-Engineer_R2122294"
+  },
+  {
+   "closed_at": 1789753663,
+   "company": "Amazon",
+   "hours_open": 49.1,
+   "title": "Software Development Engineer, Amazon Customer Service",
+   "uid": "amazon:amazon:10544728"
+  },
+  {
+   "closed_at": 1789753663,
+   "company": "Amazon",
+   "hours_open": 211.2,
+   "title": "Software Development Engineer, AWS Security Communications",
+   "uid": "amazon:amazon:10535504"
+  },
+  {
+   "closed_at": 1789753663,
+   "company": "mars",
+   "hours_open": 276.9,
+   "title": "Solution Engineer",
+   "uid": "workday:mars.wd3/external:Solution-Engineer_R161845-1"
+  },
+  {
+   "closed_at": 1789753663,
+   "company": "spacex",
+   "hours_open": 360.8,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1789753663,
+   "company": "systemstechnologyresearch",
+   "hours_open": 240.6,
+   "title": "Autonomy Algorithms Software Engineer",
+   "uid": "greenhouse:systemstechnologyresearch:4704680006"
+  },
+  {
+   "closed_at": 1789753663,
+   "company": "spacex",
+   "hours_open": 360.6,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
   }
  ],
- "count": 812,
- "updated_at": 1789752946
+ "count": 810,
+ "updated_at": 1789753664
 }
