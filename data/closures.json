@@ -1,111 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789424861,
-   "company": "sharkninjaoperatingllc",
-   "hours_open": 262.5,
-   "title": "Associate Product Developer - Home Environment",
-   "uid": "greenhouse:sharkninjaoperatingllc:4696640006"
-  },
-  {
-   "closed_at": 1789424861,
-   "company": "field-ai",
-   "hours_open": 266.6,
-   "title": "Field Service Engineer - Irvine, CA",
-   "uid": "lever:field-ai:319a8f2f-1a91-4ff5-a1cf-9d74796784b9"
-  },
-  {
-   "closed_at": 1789424861,
-   "company": "field-ai",
-   "hours_open": 266.6,
-   "title": "Project Engineer - Field Application Engineering",
-   "uid": "lever:field-ai:4fa98943-a378-403b-9062-b4a837f61432"
-  },
-  {
-   "closed_at": 1789424861,
-   "company": "kla",
-   "hours_open": 17.4,
-   "title": "Software Engineering Intern",
-   "uid": "workday:kla.wd1/annarbor:Software-Engineering-Intern_2531653"
-  },
-  {
-   "closed_at": 1789424861,
-   "company": "kbr",
-   "hours_open": 290.8,
-   "title": "Junior Software Engineer",
-   "uid": "workday:kbr.wd5/kbr_careers:Junior-Software-Engineer_R2122294"
-  },
-  {
-   "closed_at": 1789424861,
-   "company": "spacex",
-   "hours_open": 269.5,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1789424861,
-   "company": "systemstechnologyresearch",
-   "hours_open": 262.5,
-   "title": "Autonomy Algorithms Software Engineer",
-   "uid": "greenhouse:systemstechnologyresearch:4704682006"
-  },
-  {
-   "closed_at": 1789424861,
-   "company": "spacex",
-   "hours_open": 269.5,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1789425451,
-   "company": "salesforce",
-   "hours_open": 17.4,
-   "title": "Specialist Solution Engineer",
-   "uid": "workday:salesforce.wd12/External_Career_Site:Specialist-Solution-Engineer_JR358388-1"
-  },
-  {
-   "closed_at": 1789425451,
-   "company": "twitch",
-   "hours_open": 266.7,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1789425451,
-   "company": "CGI",
-   "hours_open": 149.5,
-   "title": "Conseiller en gouvernance de la cybersécurité",
-   "uid": "jobillico:analyste cybersecurite:17433756"
-  },
-  {
-   "closed_at": 1789425451,
-   "company": "paloaltonetworks",
-   "hours_open": 185.7,
-   "title": "Solutions Consultant 1",
-   "uid": "workday:paloaltonetworks.wd5/panwexternalcareers:Solutions-Consultant-1_JR-021918"
-  },
-  {
-   "closed_at": 1789425451,
-   "company": "pae",
-   "hours_open": 89.6,
-   "title": "Entry Level Software Engineer",
-   "uid": "workday:pae.wd1/amentum_careers:Entry-Level-Software-Engineer_R0148259"
-  },
-  {
-   "closed_at": 1789425451,
-   "company": "ngc",
-   "hours_open": 89.6,
-   "title": "2027 Fall Co-Op - Survivability Engineer",
-   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Fall-Co-Op---Survivability-Engineer_R10250417"
-  },
-  {
-   "closed_at": 1789425451,
-   "company": "radiancetech",
-   "hours_open": 122.5,
-   "title": "Junior Software Engineer",
-   "uid": "workday:radiancetech.wd12/Radiance_External:Junior-Software-Engineer_HR102399"
-  },
-  {
    "closed_at": 1789425451,
    "company": "selinc",
    "hours_open": 246.2,
@@ -5599,8 +5494,113 @@
    "hours_open": 213.0,
    "title": "Junior Structural Design Engineer",
    "uid": "workday:ag.wd3/Airbus:Junior-Structural-Design-Engineer_JR10428136-1"
+  },
+  {
+   "closed_at": 1789751981,
+   "company": "leagueinc",
+   "hours_open": 360.4,
+   "title": "Security Engineer",
+   "uid": "greenhouse:leagueinc:6172673004"
+  },
+  {
+   "closed_at": 1789751981,
+   "company": "Lancesoft",
+   "hours_open": 223.4,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50248430"
+  },
+  {
+   "closed_at": 1789751981,
+   "company": "PolicyAdvisor Brokerage Inc.",
+   "hours_open": 188.1,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50244874"
+  },
+  {
+   "closed_at": 1789751981,
+   "company": "City of Vancouver",
+   "hours_open": 240.2,
+   "title": "systems analyst",
+   "uid": "jobbank:systems analyst:50223007"
+  },
+  {
+   "closed_at": 1789751981,
+   "company": "MapleRecord",
+   "hours_open": 378.3,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50178415"
+  },
+  {
+   "closed_at": 1789751981,
+   "company": "Surrey Police Service",
+   "hours_open": 240.2,
+   "title": "systems analyst",
+   "uid": "jobbank:systems analyst:50179584"
+  },
+  {
+   "closed_at": 1789751981,
+   "company": "altentechnologyusa",
+   "hours_open": 358.7,
+   "title": "MLT Lab Test Engineer",
+   "uid": "greenhouse:altentechnologyusa:5206224007"
+  },
+  {
+   "closed_at": 1789751981,
+   "company": "stripe",
+   "hours_open": 360.4,
+   "title": "Software Engineer, Product Security Data Platforms",
+   "uid": "greenhouse:stripe:8039800"
+  },
+  {
+   "closed_at": 1789751981,
+   "company": "clearwayjobs",
+   "hours_open": 240.2,
+   "title": "IT Systems Specialist",
+   "uid": "greenhouse:clearwayjobs:5161610007"
+  },
+  {
+   "closed_at": 1789751981,
+   "company": "rocketlab",
+   "hours_open": 69.4,
+   "title": "RF Phased Array Engineer I",
+   "uid": "greenhouse:rocketlab:7996425003"
+  },
+  {
+   "closed_at": 1789751981,
+   "company": "andurilindustries",
+   "hours_open": 358.7,
+   "title": "Product Quality Engineer - Barracuda",
+   "uid": "greenhouse:andurilindustries:5201549007"
+  },
+  {
+   "closed_at": 1789751981,
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
+   "hours_open": 240.2,
+   "title": "Administrateur Réseau TI",
+   "uid": "jobillico:analyste reseau:17386419"
+  },
+  {
+   "closed_at": 1789751981,
+   "company": "spacex",
+   "hours_open": 360.4,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1789751981,
+   "company": "spacex",
+   "hours_open": 360.4,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1789751981,
+   "company": "accenturefederalservices",
+   "hours_open": 360.4,
+   "title": "SAP Process Integration (PI) Developer",
+   "uid": "greenhouse:accenturefederalservices:4681747006"
   }
  ],
- "count": 802,
- "updated_at": 1789743494
+ "count": 815,
+ "updated_at": 1789752087
 }
