@@ -1,69 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789403830,
-   "company": "drweng",
-   "hours_open": 263.7,
-   "title": "AI Engineer",
-   "uid": "greenhouse:drweng:6586001"
-  },
-  {
-   "closed_at": 1789403830,
-   "company": "rocketlab",
-   "hours_open": 83.7,
-   "title": "Flight Software Engineer I",
-   "uid": "greenhouse:rocketlab:7985939003"
-  },
-  {
-   "closed_at": 1789403830,
-   "company": "muonspace",
-   "hours_open": 263.7,
-   "title": "Microwave Instrument Engineer",
-   "uid": "greenhouse:muonspace:5226165007"
-  },
-  {
-   "closed_at": 1789403830,
-   "company": "andurilindustries",
-   "hours_open": 143.5,
-   "title": "Production Support Specialist - AIRS",
-   "uid": "greenhouse:andurilindustries:5220325007"
-  },
-  {
-   "closed_at": 1789403830,
-   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
-   "hours_open": 143.5,
-   "title": "Administrateur Réseau TI",
-   "uid": "jobillico:analyste reseau:17386419"
-  },
-  {
-   "closed_at": 1789403830,
-   "company": "voyagertechnologiesinc",
-   "hours_open": 263.7,
-   "title": "Electrical Integration and Test Engineer",
-   "uid": "greenhouse:voyagertechnologiesinc:4330066009"
-  },
-  {
-   "closed_at": 1789403830,
-   "company": "spacex",
-   "hours_open": 263.7,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1789403830,
-   "company": "spacex",
-   "hours_open": 263.7,
-   "title": "Test Engineer, Oxygen",
-   "uid": "greenhouse:spacex:8628878002"
-  },
-  {
-   "closed_at": 1789403830,
-   "company": "freedomconsulting",
-   "hours_open": 143.5,
-   "title": "Network Engineer 719",
-   "uid": "greenhouse:freedomconsulting:5186880007"
-  },
-  {
    "closed_at": 1789412713,
    "company": "twitch",
    "hours_open": 263.2,
@@ -5599,8 +5536,71 @@
    "hours_open": 335.0,
    "title": "Autonomy Algorithms Software Engineer",
    "uid": "greenhouse:systemstechnologyresearch:4704682006"
+  },
+  {
+   "closed_at": 1789690748,
+   "company": "lyft",
+   "hours_open": 2.2,
+   "title": "Software Engineer Intern, Fullstack (Summer 2027 - NYC)",
+   "uid": "greenhouse:lyft:8797837002"
+  },
+  {
+   "closed_at": 1789690748,
+   "company": "twitch",
+   "hours_open": 343.4,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1789690748,
+   "company": "lexical",
+   "hours_open": 201.8,
+   "title": "AI Solutions Engineer",
+   "uid": "bamboohr:lexical:82"
+  },
+  {
+   "closed_at": 1789690748,
+   "company": "ramp",
+   "hours_open": 261.3,
+   "title": "Solutions Consultant, Post Sales, Enterprise",
+   "uid": "ashby:ramp:971abc99-f20b-43f0-91d6-90bcbfa2c8d9"
+  },
+  {
+   "closed_at": 1789690748,
+   "company": "skildai-careers",
+   "hours_open": 336.4,
+   "title": "Software Engineer, AI Inference",
+   "uid": "greenhouse:skildai-careers:4136353008"
+  },
+  {
+   "closed_at": 1789690748,
+   "company": "trace3",
+   "hours_open": 198.3,
+   "title": "ISSE/ Cybersecurity Engineer I ",
+   "uid": "greenhouse:trace3:8189173"
+  },
+  {
+   "closed_at": 1789690748,
+   "company": "spacex",
+   "hours_open": 340.4,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1789690748,
+   "company": "systemstechnologyresearch",
+   "hours_open": 223.2,
+   "title": "Autonomy Algorithms Software Engineer",
+   "uid": "greenhouse:systemstechnologyresearch:4704680006"
+  },
+  {
+   "closed_at": 1789690748,
+   "company": "spacex",
+   "hours_open": 341.7,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
- "count": 805,
- "updated_at": 1789685914
+ "count": 809,
+ "updated_at": 1789690751
 }
