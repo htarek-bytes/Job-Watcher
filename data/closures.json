@@ -2,27 +2,6 @@
  "closed": [
   {
    "closed_at": 1789412713,
-   "company": "perscholashires",
-   "hours_open": 264.4,
-   "title": "Software Engineering Instructor (Continuous) ",
-   "uid": "greenhouse:perscholashires:4266645006"
-  },
-  {
-   "closed_at": 1789412713,
-   "company": "Amentum",
-   "hours_open": 86.2,
-   "title": "Entry Level Software Engineer",
-   "uid": "simplify:listings:037965da-859d-4532-a3b3-45dc8fd6220f"
-  },
-  {
-   "closed_at": 1789412713,
-   "company": "TP-Link Systems Inc.",
-   "hours_open": 285.1,
-   "title": "2026 Early Career QA Engineer",
-   "uid": "workable:tp-link-usa-corp:6201C2D261"
-  },
-  {
-   "closed_at": 1789412713,
    "company": "cloudflare",
    "hours_open": 171.7,
    "title": "Distributed Systems Engineer - Data Platform (Delivery, Database, Retrieval)",
@@ -5599,8 +5578,29 @@
    "hours_open": 343.9,
    "title": "Welding Automation Engineer, Chamber and Nozzle (Raptor) ",
    "uid": "greenhouse:spacex:8544608002"
+  },
+  {
+   "closed_at": 1789692983,
+   "company": "twitch",
+   "hours_open": 344.0,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1789692983,
+   "company": "systemstechnologyresearch",
+   "hours_open": 223.8,
+   "title": "Autonomy Algorithms Software Engineer",
+   "uid": "greenhouse:systemstechnologyresearch:4704680006"
+  },
+  {
+   "closed_at": 1789692983,
+   "company": "spacex",
+   "hours_open": 342.3,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
- "count": 802,
- "updated_at": 1789692564
+ "count": 803,
+ "updated_at": 1789692983
 }
