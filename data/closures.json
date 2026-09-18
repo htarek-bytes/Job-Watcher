@@ -1,76 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789485027,
-   "company": "YO AI Labs",
-   "hours_open": 2.5,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50290477"
-  },
-  {
-   "closed_at": 1789485530,
-   "company": "T-Soft Consulting Inc",
-   "hours_open": 304.2,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50080344"
-  },
-  {
-   "closed_at": 1789491285,
-   "company": "Maarut",
-   "hours_open": 47.6,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:systems analyst:50256788"
-  },
-  {
-   "closed_at": 1789491285,
-   "company": "Article",
-   "hours_open": 90.3,
-   "title": "software developer",
-   "uid": "jobbank:entry level software developer:50269151"
-  },
-  {
-   "closed_at": 1789491285,
-   "company": "alayacare",
-   "hours_open": 288.0,
-   "title": "Full-Stack Developer (Python) - Clinical Care Enablement",
-   "uid": "greenhouse:alayacare:8587623002"
-  },
-  {
-   "closed_at": 1789491285,
-   "company": "Amazon",
-   "hours_open": 35.8,
-   "title": "Software Development Engineer, AWS Transform",
-   "uid": "amazon:amazon:10538318"
-  },
-  {
-   "closed_at": 1789491285,
-   "company": "Amazon",
-   "hours_open": 140.0,
-   "title": "Software Development Engineer, PostX - APEX",
-   "uid": "amazon:amazon:10532360"
-  },
-  {
-   "closed_at": 1789491285,
-   "company": "cloudflare",
-   "hours_open": 17.5,
-   "title": "Software Engineer, Enterprise Integrations",
-   "uid": "greenhouse:cloudflare:8155495"
-  },
-  {
-   "closed_at": 1789491285,
-   "company": "spacex",
-   "hours_open": 288.0,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1789491285,
-   "company": "spacex",
-   "hours_open": 286.3,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
    "closed_at": 1789492688,
    "company": "asteralabs",
    "hours_open": 20.8,
@@ -5599,8 +5529,78 @@
    "hours_open": 366.3,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1789775648,
+   "company": "twitch",
+   "hours_open": 364.0,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1789775648,
+   "company": "Groupe DCM",
+   "hours_open": 12.8,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534670"
+  },
+  {
+   "closed_at": 1789775648,
+   "company": "avav",
+   "hours_open": 195.9,
+   "title": "Software Engineering Intern",
+   "uid": "workday:avav.wd1/avav:Software-Engineering-Intern_8593"
+  },
+  {
+   "closed_at": 1789775648,
+   "company": "bmo",
+   "hours_open": 246.8,
+   "title": "Wealth Management Development Associate, New Grad (Chicago, IL)",
+   "uid": "workday:bmo.wd3/Campus:Wealth-Management-Development-Associate--New-Grad--Chicago--IL-_R260026201-1"
+  },
+  {
+   "closed_at": 1789775648,
+   "company": "boeing",
+   "hours_open": 18.9,
+   "title": "Mission Analysis Engineer (Entry level) - Millennium Space Systems",
+   "uid": "workday:boeing.wd1/external_subsidiary:Mission-Analysis-Engineer--Entry-level----Millennium-Space-Systems_JR2026524528-1"
+  },
+  {
+   "closed_at": 1789775648,
+   "company": "cadence",
+   "hours_open": 345.8,
+   "title": "Adams MultiBody Dynamics Application Software Developer (Recent Grad 2026)",
+   "uid": "workday:cadence.wd1/University_Talent_NCG:Adams-MultiBody-Dynamics-Application-Software-Developer--Recent-Grad-2026-_R55788-2"
+  },
+  {
+   "closed_at": 1789775648,
+   "company": "bah",
+   "hours_open": 284.3,
+   "title": "Agentic Solutions Engineer",
+   "uid": "workday:bah.wd1/bah_jobs:Agentic-Solutions-Engineer_R0244800-1"
+  },
+  {
+   "closed_at": 1789775648,
+   "company": "spacex",
+   "hours_open": 364.0,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1789775648,
+   "company": "systemstechnologyresearch",
+   "hours_open": 360.0,
+   "title": "Autonomy Algorithms Software Engineer",
+   "uid": "greenhouse:systemstechnologyresearch:4704682006"
+  },
+  {
+   "closed_at": 1789775648,
+   "company": "spacex",
+   "hours_open": 365.2,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
- "count": 809,
- "updated_at": 1789773259
+ "count": 810,
+ "updated_at": 1789775649
 }
