@@ -1,48 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789513197,
-   "company": "ngc",
-   "hours_open": 24.4,
-   "title": "2027 Intern Software Engineer",
-   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Intern-Software-Engineer_R10250669"
-  },
-  {
-   "closed_at": 1789513197,
-   "company": "ngc",
-   "hours_open": 24.4,
-   "title": "Associate Engineer or Engineer Electronics - Field Operations",
-   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:Associate-Engineer-or-Engineer-Electronics---Field-Operations_R10247339"
-  },
-  {
-   "closed_at": 1789513197,
-   "company": "nvidia",
-   "hours_open": 121.9,
-   "title": "ASIC Design Engineer - New College Grad 2026",
-   "uid": "workday:nvidia.wd5/NVIDIAExternalCareerSite:ASIC-Design-Engineer---New-College-Grad-2026_JR2017581"
-  },
-  {
-   "closed_at": 1789513197,
-   "company": "paloaltonetworks",
-   "hours_open": 210.1,
-   "title": "Solutions Consultant 2 (FSI)",
-   "uid": "workday:paloaltonetworks.wd5/panwexternalcareers:Solutions-Consultant-2--FSI-_JR-019939"
-  },
-  {
-   "closed_at": 1789513197,
-   "company": "spacex",
-   "hours_open": 291.1,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1789513197,
-   "company": "spacex",
-   "hours_open": 293.8,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
    "closed_at": 1789513309,
    "company": "twitch",
    "hours_open": 291.1,
@@ -5599,8 +5557,50 @@
    "hours_open": 377.6,
    "title": "Autonomy Algorithms Software Engineer",
    "uid": "greenhouse:systemstechnologyresearch:4704682006"
+  },
+  {
+   "closed_at": 1789843792,
+   "company": "twitch",
+   "hours_open": 385.9,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1789843792,
+   "company": "Groupe DCM",
+   "hours_open": 31.7,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534670"
+  },
+  {
+   "closed_at": 1789843792,
+   "company": "Jobs for Humanity",
+   "hours_open": 380.3,
+   "title": "Junior Software Engineer",
+   "uid": "smartrecruiters:JobsForHumanity:744000147220729"
+  },
+  {
+   "closed_at": 1789843792,
+   "company": "spacex",
+   "hours_open": 385.9,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1789843792,
+   "company": "systemstechnologyresearch",
+   "hours_open": 265.7,
+   "title": "Autonomy Algorithms Software Engineer",
+   "uid": "greenhouse:systemstechnologyresearch:4704680006"
+  },
+  {
+   "closed_at": 1789843792,
+   "company": "spacex",
+   "hours_open": 384.2,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
- "count": 803,
- "updated_at": 1789838979
+ "count": 806,
+ "updated_at": 1789843792
 }
