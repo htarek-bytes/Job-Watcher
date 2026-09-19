@@ -1,48 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789510068,
-   "company": "spacex",
-   "hours_open": 293.2,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1789510068,
-   "company": "rocketlab",
-   "hours_open": 173.0,
-   "title": "Avionics Intern - Neutron Avionics Systems",
-   "uid": "greenhouse:rocketlab:7819822003"
-  },
-  {
-   "closed_at": 1789510068,
-   "company": "spacex",
-   "hours_open": 291.5,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1789510068,
-   "company": "accenturefederalservices",
-   "hours_open": 293.2,
-   "title": "Business Systems Analyst (Cleared)",
-   "uid": "greenhouse:accenturefederalservices:4684108006"
-  },
-  {
-   "closed_at": 1789510068,
-   "company": "YO AI Labs",
-   "hours_open": 9.5,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50290477"
-  },
-  {
-   "closed_at": 1789510394,
-   "company": "evergreenix",
-   "hours_open": 95.6,
-   "title": "Software Engineer I",
-   "uid": "workday:evergreenix.wd1/external-careers2:Software-Engineer-I_JR500748-1"
-  },
-  {
    "closed_at": 1789510394,
    "company": "globalhr",
    "hours_open": 122.1,
@@ -5599,8 +5557,50 @@
    "hours_open": 379.9,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1789823880,
+   "company": "twitch",
+   "hours_open": 377.4,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1789823880,
+   "company": "Groupe DCM",
+   "hours_open": 32.4,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534679"
+  },
+  {
+   "closed_at": 1789823880,
+   "company": "fmr",
+   "hours_open": 172.4,
+   "title": "Co-op, Software Engineer",
+   "uid": "workday:fmr.wd1/targeted:Co-op--Software-Engineer_2135230"
+  },
+  {
+   "closed_at": 1789823880,
+   "company": "globalhr",
+   "hours_open": 12.7,
+   "title": "Software Engineering Intern (Summer 2027)",
+   "uid": "workday:globalhr.wd5/rec_rtx_ext_gateway:Software-Engineering-Intern--Summer-2027-_01875780"
+  },
+  {
+   "closed_at": 1789823880,
+   "company": "systemstechnologyresearch",
+   "hours_open": 373.4,
+   "title": "Autonomy Algorithms Software Engineer",
+   "uid": "greenhouse:systemstechnologyresearch:4704682006"
+  },
+  {
+   "closed_at": 1789823880,
+   "company": "spacex",
+   "hours_open": 380.3,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
   }
  ],
- "count": 804,
- "updated_at": 1789823138
+ "count": 806,
+ "updated_at": 1789823881
 }
