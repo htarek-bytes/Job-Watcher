@@ -1,41 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789535224,
-   "company": "wyetechllc",
-   "hours_open": 131.2,
-   "title": "Software Engineer 1",
-   "uid": "lever:wyetechllc:1fe7707e-a4c1-41ad-a189-893767e8d40e"
-  },
-  {
-   "closed_at": 1789536096,
-   "company": "YO AI Labs",
-   "hours_open": 16.7,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50290477"
-  },
-  {
-   "closed_at": 1789539533,
-   "company": "Sopra Steria",
-   "hours_open": 11.2,
-   "title": "Service Desk Junior Engineer-Service Support",
-   "uid": "smartrecruiters:SopraSteria1:744000149545149"
-  },
-  {
-   "closed_at": 1789539533,
-   "company": "YO AI Labs",
-   "hours_open": 24.4,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50289053"
-  },
-  {
-   "closed_at": 1789539533,
-   "company": "Rocket Lab USA",
-   "hours_open": 35.2,
-   "title": "Flight Software Engineer 1",
-   "uid": "simplify:listings:daabbb4b-3238-449b-a3f6-39e1681033a7"
-  },
-  {
    "closed_at": 1789539533,
    "company": "Tomra",
    "hours_open": 216.1,
@@ -5599,8 +5564,43 @@
    "hours_open": 388.9,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1789860819,
+   "company": "twitch",
+   "hours_open": 390.6,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1789860819,
+   "company": "Groupe DCM",
+   "hours_open": 42.6,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534679"
+  },
+  {
+   "closed_at": 1789860819,
+   "company": "Valsoft Corporation",
+   "hours_open": 36.5,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50313403"
+  },
+  {
+   "closed_at": 1789860819,
+   "company": "systemstechnologyresearch",
+   "hours_open": 270.4,
+   "title": "Autonomy Algorithms Software Engineer",
+   "uid": "greenhouse:systemstechnologyresearch:4704680006"
+  },
+  {
+   "closed_at": 1789860819,
+   "company": "spacex",
+   "hours_open": 390.6,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 804,
- "updated_at": 1789860645
+ "count": 805,
+ "updated_at": 1789860820
 }
