@@ -2,20 +2,6 @@
  "closed": [
   {
    "closed_at": 1789503588,
-   "company": "accenture",
-   "hours_open": 308.3,
-   "title": "Software Engineering New Associate (Fresh Diploma Graduate Program)",
-   "uid": "workday:accenture.wd103/AccentureCareers:Software-Engineering-New-Associate--Fresh-Diploma-Graduate-Program-_R00144534"
-  },
-  {
-   "closed_at": 1789503588,
-   "company": "accenture",
-   "hours_open": 308.3,
-   "title": "Junior .NET Developer - Fresh Graduates",
-   "uid": "workday:accenture.wd103/AccentureCareers:Junior-NET-Developer---Fresh-Graduates_R00332478"
-  },
-  {
-   "closed_at": 1789503588,
    "company": "accenturefederalservices",
    "hours_open": 122.9,
    "title": "ServiceNow Engineer – Intermediate",
@@ -5599,8 +5585,22 @@
    "hours_open": 365.1,
    "title": "Data Center Operations Systems Engineer (Seattle)",
    "uid": "ashby:lambda:4621b314-965a-4626-a516-1b8ef42da21d"
+  },
+  {
+   "closed_at": 1789797632,
+   "company": "LYNKED Inc.",
+   "hours_open": 82.1,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50293998"
+  },
+  {
+   "closed_at": 1789797632,
+   "company": "Kronos Consulting",
+   "hours_open": 72.6,
+   "title": "network specialist - computer systems",
+   "uid": "jobbank:specialiste infrastructure:50297070"
   }
  ],
- "count": 804,
- "updated_at": 1789794324
+ "count": 802,
+ "updated_at": 1789797632
 }
