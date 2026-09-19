@@ -2,34 +2,6 @@
  "closed": [
   {
    "closed_at": 1789513309,
-   "company": "ngc",
-   "hours_open": 24.4,
-   "title": "2027 Intern - Survivability Engineer",
-   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Intern---Survivability-Engineer_R10250713"
-  },
-  {
-   "closed_at": 1789513309,
-   "company": "ngc",
-   "hours_open": 24.4,
-   "title": "2027 Intern Software Engineer",
-   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Intern-Software-Engineer_R10250669"
-  },
-  {
-   "closed_at": 1789513309,
-   "company": "ngc",
-   "hours_open": 24.4,
-   "title": "Associate Engineer or Engineer Electronics - Field Operations",
-   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:Associate-Engineer-or-Engineer-Electronics---Field-Operations_R10247339"
-  },
-  {
-   "closed_at": 1789513309,
-   "company": "nvidia",
-   "hours_open": 122.0,
-   "title": "ASIC Design Engineer - New College Grad 2026",
-   "uid": "workday:nvidia.wd5/NVIDIAExternalCareerSite:ASIC-Design-Engineer---New-College-Grad-2026_JR2017581"
-  },
-  {
-   "closed_at": 1789513309,
    "company": "paloaltonetworks",
    "hours_open": 210.1,
    "title": "Solutions Consultant 2 (FSI)",
@@ -5599,8 +5571,36 @@
    "hours_open": 386.4,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1789846270,
+   "company": "twitch",
+   "hours_open": 386.6,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1789846270,
+   "company": "systemstechnologyresearch",
+   "hours_open": 266.4,
+   "title": "Autonomy Algorithms Software Engineer",
+   "uid": "greenhouse:systemstechnologyresearch:4704680006"
+  },
+  {
+   "closed_at": 1789846270,
+   "company": "spacex",
+   "hours_open": 386.3,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1789846270,
+   "company": "spacex",
+   "hours_open": 384.9,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
- "count": 803,
- "updated_at": 1789845765
+ "count": 804,
+ "updated_at": 1789846270
 }
