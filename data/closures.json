@@ -3,20 +3,6 @@
   {
    "closed_at": 1789503588,
    "company": "ag",
-   "hours_open": 94.3,
-   "title": "Junior Backend Engineer (m/w/d)",
-   "uid": "workday:ag.wd3/Airbus:Junior-Backend-Engineer--m-w-d-_JR10434602-1"
-  },
-  {
-   "closed_at": 1789503588,
-   "company": "avav",
-   "hours_open": 102.5,
-   "title": "Software Engineering Intern",
-   "uid": "workday:avav.wd1/avav:Software-Engineering-Intern_8613"
-  },
-  {
-   "closed_at": 1789503588,
-   "company": "ag",
    "hours_open": 209.3,
    "title": "AI & Digital Airframe Structural Analysis Solutions Engineer Placement (12.5 months)",
    "uid": "workday:ag.wd3/Airbus:AI---Digital-Airframe-Structural-Analysis-Solutions-Engineer-Placement--125-Months-_JR10429419"
@@ -5599,8 +5585,22 @@
    "hours_open": 408.4,
    "title": "Entry Level Microelectronics Research and Development Engineer",
    "uid": "simplify:listings:2626df77-3e50-4e9d-9b74-5bcbdd516039"
+  },
+  {
+   "closed_at": 1789794088,
+   "company": "feathery",
+   "hours_open": 372.1,
+   "title": "Frontend Engineer",
+   "uid": "ashby:feathery:3c3828d6-1a6e-47d6-a7f4-f6eea2c2e36f"
+  },
+  {
+   "closed_at": 1789794088,
+   "company": "applied",
+   "hours_open": 76.6,
+   "title": "Software Integration Engineer, Vehicle OS",
+   "uid": "ashby:applied:4695aade-f5a3-4023-ba56-28a1a20678f5"
   }
  ],
- "count": 809,
- "updated_at": 1789792898
+ "count": 802,
+ "updated_at": 1789794088
 }
