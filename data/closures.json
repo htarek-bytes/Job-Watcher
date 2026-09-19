@@ -1,20 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789103977,
-   "company": "Logesco Informatique",
-   "hours_open": 49.3,
-   "title": "network administrator",
-   "uid": "jobbank:network administrator:49871595"
-  },
-  {
-   "closed_at": 1789503702,
-   "company": "Arora Enterprise Inc",
-   "hours_open": 96.5,
-   "title": "Web developer",
-   "uid": "jobbank:developpeur junior:50266457"
-  },
-  {
    "closed_at": 1789503702,
    "company": "ag",
    "hours_open": 94.3,
@@ -5599,8 +5585,22 @@
    "hours_open": 253.6,
    "title": "network system administrator",
    "uid": "jobbank:systems administrator:49984747"
+  },
+  {
+   "closed_at": 1789808480,
+   "company": "Groupe DCM",
+   "hours_open": 21.9,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534670"
+  },
+  {
+   "closed_at": 1789808480,
+   "company": "Valsoft Corporation",
+   "hours_open": 21.9,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50313403"
   }
  ],
- "count": 804,
- "updated_at": 1789800240
+ "count": 802,
+ "updated_at": 1789808480
 }
