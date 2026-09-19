@@ -1,41 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789503702,
-   "company": "accenturefederalservices",
-   "hours_open": 122.9,
-   "title": "ServiceNow Engineer – Intermediate",
-   "uid": "greenhouse:accenturefederalservices:4709263006"
-  },
-  {
-   "closed_at": 1789503702,
-   "company": "accenturefederalservices",
-   "hours_open": 270.2,
-   "title": "ServiceNow Engineer – Junior",
-   "uid": "greenhouse:accenturefederalservices:4709267006"
-  },
-  {
-   "closed_at": 1789503702,
-   "company": "spacex",
-   "hours_open": 291.4,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1789503702,
-   "company": "spacex",
-   "hours_open": 291.4,
-   "title": "Test Stand Design & Build Engineer (Structures/Fluid Systems)",
-   "uid": "greenhouse:spacex:8477422002"
-  },
-  {
-   "closed_at": 1789510068,
-   "company": "10alabs",
-   "hours_open": 286.2,
-   "title": "Software Engineer, Infrastructure & Platform",
-   "uid": "greenhouse:10alabs:4331389009"
-  },
-  {
    "closed_at": 1789510068,
    "company": "canadiantirecorporation",
    "hours_open": 147.4,
@@ -5599,8 +5564,43 @@
    "hours_open": 376.5,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1789814994,
+   "company": "Maarut",
+   "hours_open": 66.1,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:systems analyst:50300623"
+  },
+  {
+   "closed_at": 1789814994,
+   "company": "Zaber Technologies",
+   "hours_open": 29.9,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50248541"
+  },
+  {
+   "closed_at": 1789814994,
+   "company": "Valsoft Corporation",
+   "hours_open": 23.7,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50313403"
+  },
+  {
+   "closed_at": 1789814994,
+   "company": "Lakeland Roman Catholic Separate School Division",
+   "hours_open": 9.6,
+   "title": "computer systems analyst",
+   "uid": "jobbank:analyste de systemes:50064831"
+  },
+  {
+   "closed_at": 1789814994,
+   "company": "RTX",
+   "hours_open": 59.1,
+   "title": "System Integration Software Engineer 1 - System Integration Software Engineer I",
+   "uid": "simplify:listings:f0decac3-42e6-41b6-8f73-a954263e1bd7"
   }
  ],
- "count": 803,
- "updated_at": 1789810121
+ "count": 805,
+ "updated_at": 1789814995
 }
