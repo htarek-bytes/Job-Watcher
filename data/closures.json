@@ -1,41 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789511757,
-   "company": "spacex",
-   "hours_open": 293.6,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1789511757,
-   "company": "spacex",
-   "hours_open": 291.9,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1789513197,
-   "company": "twitch",
-   "hours_open": 291.1,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1789513197,
-   "company": "oshkoshcorporation",
-   "hours_open": 95.6,
-   "title": "Electrical Integration Engineer Intern",
-   "uid": "workday:oshkoshcorporation.wd5/Oshkosh:Electrical-Integration-Engineer-Intern_R50260-1"
-  },
-  {
-   "closed_at": 1789513197,
-   "company": "myhrhome",
-   "hours_open": 147.6,
-   "title": "Software Developer Intern – Document Shared Services (Part-Time)",
-   "uid": "workday:myhrhome.wd1/OneMainCareers:Software-Developer-Intern---Document-Shared-Services--Part-Time-_R2608-52284"
-  },
-  {
    "closed_at": 1789513197,
    "company": "philips",
    "hours_open": 289.0,
@@ -5599,8 +5564,43 @@
    "hours_open": 376.7,
    "title": "Autonomy Algorithms Software Engineer",
    "uid": "greenhouse:systemstechnologyresearch:4704682006"
+  },
+  {
+   "closed_at": 1789837993,
+   "company": "twitch",
+   "hours_open": 384.3,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1789837993,
+   "company": "Groupe DCM",
+   "hours_open": 36.3,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534679"
+  },
+  {
+   "closed_at": 1789837993,
+   "company": "Logesco Informatique",
+   "hours_open": 264.1,
+   "title": "Administrateur de réseau",
+   "uid": "jobillico:analyste reseau:17188132"
+  },
+  {
+   "closed_at": 1789837993,
+   "company": "Valsoft Corporation",
+   "hours_open": 30.1,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50313403"
+  },
+  {
+   "closed_at": 1789837993,
+   "company": "systemstechnologyresearch",
+   "hours_open": 264.1,
+   "title": "Autonomy Algorithms Software Engineer",
+   "uid": "greenhouse:systemstechnologyresearch:4704680006"
   }
  ],
- "count": 803,
- "updated_at": 1789836023
+ "count": 805,
+ "updated_at": 1789837993
 }
