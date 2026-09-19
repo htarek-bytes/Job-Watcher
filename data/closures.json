@@ -2,41 +2,6 @@
  "closed": [
   {
    "closed_at": 1789510394,
-   "company": "globalfoundries",
-   "hours_open": 25.6,
-   "title": "Advanced Manufacturing Equipment Engineer (2027 New College Graduate)",
-   "uid": "workday:globalfoundries.wd1/External:Advanced-Manufacturing-Equipment-Engineer--2027-New-College-Graduate-_JR-2604708"
-  },
-  {
-   "closed_at": 1789510394,
-   "company": "globalhr",
-   "hours_open": 11.8,
-   "title": "Vision Systems, Test Engineer I",
-   "uid": "workday:globalhr.wd5/rec_rtx_ext_gateway:Vision-Systems--Test-Engineer-I_01874749"
-  },
-  {
-   "closed_at": 1789510394,
-   "company": "globalhr",
-   "hours_open": 156.3,
-   "title": "Life Cycle Systems Engineer I",
-   "uid": "workday:globalhr.wd5/rec_rtx_ext_gateway:Life-Cycle-Systems-Engineer-I_01872772-1"
-  },
-  {
-   "closed_at": 1789510394,
-   "company": "globalhr",
-   "hours_open": 11.8,
-   "title": "Software Engineering Co-op (Summer/Fall 2027)",
-   "uid": "workday:globalhr.wd5/rec_rtx_ext_gateway:Software-Engineering-Co-op--Summer-Fall-2027-_01873970"
-  },
-  {
-   "closed_at": 1789510394,
-   "company": "gnw",
-   "hours_open": 25.6,
-   "title": "Software Engineering Intern",
-   "uid": "workday:gnw.wd1/GNW:Software-Engineering-Intern_REQ-260367-1"
-  },
-  {
-   "closed_at": 1789510394,
    "company": "T-Soft Consulting Inc",
    "hours_open": 311.1,
    "title": "software developer",
@@ -5599,8 +5564,43 @@
    "hours_open": 26.3,
    "title": "software developer",
    "uid": "jobbank:junior software developer:50313403"
+  },
+  {
+   "closed_at": 1789826536,
+   "company": "Groupe DCM",
+   "hours_open": 27.0,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534670"
+  },
+  {
+   "closed_at": 1789826536,
+   "company": "relx",
+   "hours_open": 400.1,
+   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - January)",
+   "uid": "workday:relx.wd3/RiskSolutions:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617"
+  },
+  {
+   "closed_at": 1789826536,
+   "company": "relx",
+   "hours_open": 400.1,
+   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - June)",
+   "uid": "workday:relx.wd3/RiskSolutions:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-1"
+  },
+  {
+   "closed_at": 1789826536,
+   "company": "relx",
+   "hours_open": 400.1,
+   "title": "Tech Accelerate Graduate Program - Software Engineer (Boca Raton - June)",
+   "uid": "workday:relx.wd3/RiskSolutions:Tech-Accelerate-Graduate-Program---Software-Engineer--Boca-Raton---June-_R116023-2"
+  },
+  {
+   "closed_at": 1789826536,
+   "company": "Valsoft Corporation",
+   "hours_open": 5.0,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50320295"
   }
  ],
- "count": 803,
- "updated_at": 1789824152
+ "count": 805,
+ "updated_at": 1789826537
 }
