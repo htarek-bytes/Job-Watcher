@@ -1,34 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789518387,
-   "company": "contoro",
-   "hours_open": 292.5,
-   "title": "Robotics Engineer, Motion Planning",
-   "uid": "ashby:contoro:0f41e38e-ee2b-4abb-b232-7ee72e37509f"
-  },
-  {
-   "closed_at": 1789518387,
-   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
-   "hours_open": 175.3,
-   "title": "Administrateur Réseau TI",
-   "uid": "jobillico:analyste reseau:17386419"
-  },
-  {
-   "closed_at": 1789519602,
-   "company": "twitch",
-   "hours_open": 295.8,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1789519602,
-   "company": "andurilindustries",
-   "hours_open": 32.2,
-   "title": "Test Engineer, Maritime Production",
-   "uid": "greenhouse:andurilindustries:5236863007"
-  },
-  {
    "closed_at": 1789521680,
    "company": "Kronos Consulting",
    "hours_open": 19.5,
@@ -5599,8 +5571,36 @@
    "hours_open": 388.6,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1789854047,
+   "company": "Alt Informatique",
+   "hours_open": 40.8,
+   "title": "Technicien informatique junior",
+   "uid": "jobillico:technicien informatique:17381391"
+  },
+  {
+   "closed_at": 1789854047,
+   "company": "Valsoft Corporation",
+   "hours_open": 12.7,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50320295"
+  },
+  {
+   "closed_at": 1789854047,
+   "company": "Idexia",
+   "hours_open": 223.8,
+   "title": "programmer analyst",
+   "uid": "jobbank:junior programmer:50257800"
+  },
+  {
+   "closed_at": 1789854047,
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
+   "hours_open": 268.5,
+   "title": "Administrateur Réseau TI",
+   "uid": "jobillico:analyste reseau:17386419"
   }
  ],
- "count": 809,
- "updated_at": 1789853670
+ "count": 804,
+ "updated_at": 1789854047
 }
