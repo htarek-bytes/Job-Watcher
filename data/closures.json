@@ -1,34 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789503588,
-   "company": "accenturefederalservices",
-   "hours_open": 122.9,
-   "title": "ServiceNow Engineer – Intermediate",
-   "uid": "greenhouse:accenturefederalservices:4709263006"
-  },
-  {
-   "closed_at": 1789503588,
-   "company": "accenturefederalservices",
-   "hours_open": 270.2,
-   "title": "ServiceNow Engineer – Junior",
-   "uid": "greenhouse:accenturefederalservices:4709267006"
-  },
-  {
-   "closed_at": 1789503588,
-   "company": "spacex",
-   "hours_open": 291.4,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1789503588,
-   "company": "spacex",
-   "hours_open": 291.4,
-   "title": "Test Stand Design & Build Engineer (Structures/Fluid Systems)",
-   "uid": "greenhouse:spacex:8477422002"
-  },
-  {
    "closed_at": 1789103977,
    "company": "Logesco Informatique",
    "hours_open": 49.3,
@@ -5599,8 +5571,36 @@
    "hours_open": 72.6,
    "title": "network specialist - computer systems",
    "uid": "jobbank:specialiste infrastructure:50297070"
+  },
+  {
+   "closed_at": 1789800239,
+   "company": "Source Code",
+   "hours_open": 6.1,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:systems analyst:50289543"
+  },
+  {
+   "closed_at": 1789800239,
+   "company": "Groupe DCM",
+   "hours_open": 25.8,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534679"
+  },
+  {
+   "closed_at": 1789800239,
+   "company": "Expera Information Technology Inc.",
+   "hours_open": 253.6,
+   "title": "systems analyst",
+   "uid": "jobbank:systems analyst:50176033"
+  },
+  {
+   "closed_at": 1789800239,
+   "company": "Study 2020 Consulting INC",
+   "hours_open": 253.6,
+   "title": "network system administrator",
+   "uid": "jobbank:systems administrator:49984747"
   }
  ],
- "count": 802,
- "updated_at": 1789797632
+ "count": 804,
+ "updated_at": 1789800240
 }
