@@ -1,76 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789498868,
-   "company": "andurilindustries",
-   "hours_open": 288.4,
-   "title": "Robotics Software Engineer, Behaviors",
-   "uid": "greenhouse:andurilindustries:5121816007"
-  },
-  {
-   "closed_at": 1789498868,
-   "company": "voyagertechnologiesinc",
-   "hours_open": 290.1,
-   "title": "Software Engineer",
-   "uid": "greenhouse:voyagertechnologiesinc:4206839009"
-  },
-  {
-   "closed_at": 1789499226,
-   "company": "twitch",
-   "hours_open": 287.2,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1789499226,
-   "company": "Sutherland",
-   "hours_open": 26.5,
-   "title": "Facilities Engineer (Entry Level)",
-   "uid": "smartrecruiters:Sutherland:744000149241549"
-  },
-  {
-   "closed_at": 1789499226,
-   "company": "ServiceNow",
-   "hours_open": 139.8,
-   "title": "Advisory Solution Consultant, Integrated Risk Management",
-   "uid": "smartrecruiters:ServiceNow:744000148592761"
-  },
-  {
-   "closed_at": 1789499226,
-   "company": "Hardin Design ",
-   "hours_open": 311.5,
-   "title": "Web Developer - Entry Level",
-   "uid": "smartrecruiters:HardinDesign:744000145322155"
-  },
-  {
-   "closed_at": 1789499226,
-   "company": "Analog Devices",
-   "hours_open": 326.8,
-   "title": "Junior Layout Design Engineer - Trainee",
-   "uid": "simplify:listings:523819c3-69f8-43ab-9ed1-81e28aea88f6"
-  },
-  {
-   "closed_at": 1789499226,
-   "company": "spacex",
-   "hours_open": 288.5,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1789502157,
-   "company": "YO AI Labs",
-   "hours_open": 14.1,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50289053"
-  },
-  {
-   "closed_at": 1789502157,
-   "company": "Arora Enterprise Inc",
-   "hours_open": 98.7,
-   "title": "Web developer",
-   "uid": "jobbank:junior programmer:50266457"
-  },
-  {
    "closed_at": 1789502157,
    "company": "First Impressions",
    "hours_open": 117.4,
@@ -5599,8 +5529,78 @@
    "hours_open": 20.3,
    "title": "Programmeur CNC / CNC Programmer",
    "uid": "jobillico:programmeur junior:17534679"
+  },
+  {
+   "closed_at": 1789782671,
+   "company": "onto",
+   "hours_open": 27.7,
+   "title": "Development Engineer 1",
+   "uid": "workday:onto.wd1/onto_careers:Development-Engineer-1_R-6389"
+  },
+  {
+   "closed_at": 1789782671,
+   "company": "twitch",
+   "hours_open": 366.0,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1789782671,
+   "company": "Source Code",
+   "hours_open": 92.0,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:systems analyst:50288780"
+  },
+  {
+   "closed_at": 1789782671,
+   "company": "Groupe DCM",
+   "hours_open": 14.8,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534670"
+  },
+  {
+   "closed_at": 1789782671,
+   "company": "Agari Kitchen",
+   "hours_open": 202.8,
+   "title": "electronics engineer",
+   "uid": "jobbank:control systems analyst:50258093"
+  },
+  {
+   "closed_at": 1789782671,
+   "company": "oshkoshcorporation",
+   "hours_open": 99.2,
+   "title": "Robotics Programming Engineer Intern",
+   "uid": "workday:oshkoshcorporation.wd5/Oshkosh:Robotics-Programming-Engineer-Intern_R49597"
+  },
+  {
+   "closed_at": 1789782671,
+   "company": "Lakeland Roman Catholic Separate School Division",
+   "hours_open": 0.6,
+   "title": "computer systems analyst",
+   "uid": "jobbank:analyste de systemes:50064831"
+  },
+  {
+   "closed_at": 1789782671,
+   "company": "D3 Security Management Systems Inc",
+   "hours_open": 3.3,
+   "title": "cybersecurity specialist",
+   "uid": "jobbank:specialiste infrastructure:50317565"
+  },
+  {
+   "closed_at": 1789782671,
+   "company": "systemstechnologyresearch",
+   "hours_open": 361.9,
+   "title": "Autonomy Algorithms Software Engineer",
+   "uid": "greenhouse:systemstechnologyresearch:4704682006"
+  },
+  {
+   "closed_at": 1789782671,
+   "company": "spacex",
+   "hours_open": 367.2,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
- "count": 819,
- "updated_at": 1789780565
+ "count": 810,
+ "updated_at": 1789782671
 }
