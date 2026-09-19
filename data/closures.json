@@ -2,27 +2,6 @@
  "closed": [
   {
    "closed_at": 1789510394,
-   "company": "globalhr",
-   "hours_open": 122.1,
-   "title": "Digital Hardware Design Engineer (2027 New College Graduate)",
-   "uid": "workday:globalhr.wd5/rec_rtx_ext_gateway:Digital-Hardware-Design-Engineer--2027-New-College-Graduate-_01873795"
-  },
-  {
-   "closed_at": 1789510394,
-   "company": "globalhr",
-   "hours_open": 122.1,
-   "title": "Software Engineering Intern (Summer 2027)",
-   "uid": "workday:globalhr.wd5/rec_rtx_ext_gateway:Software-Engineering-Intern--Summer-2027-_01869001"
-  },
-  {
-   "closed_at": 1789510394,
-   "company": "Amazon",
-   "hours_open": 261.2,
-   "title": "Software Development Engineer, AWS Infra Supply Chain Automation, AWS Infra Supply Chain Automation",
-   "uid": "amazon:amazon:10530587"
-  },
-  {
-   "closed_at": 1789510394,
    "company": "globalfoundries",
    "hours_open": 25.6,
    "title": "Advanced Manufacturing Equipment Engineer (2027 New College Graduate)",
@@ -5599,8 +5578,29 @@
    "hours_open": 380.3,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1789824152,
+   "company": "lumentum",
+   "hours_open": 86.8,
+   "title": "Embedded Software DevSecOps Engineer (Co-op Student)",
+   "uid": "workday:lumentum.wd5/LITE:Embedded-Software-DevSecOps-Engineer--Co-op-Student-_20261356"
+  },
+  {
+   "closed_at": 1789824152,
+   "company": "mastercard",
+   "hours_open": 383.8,
+   "title": "Software Engineer Intern, Summer 2027 – United States",
+   "uid": "workday:mastercard.wd1/Campus:Software-Engineer-Intern--Summer-2027---United-States_R-287618-1"
+  },
+  {
+   "closed_at": 1789824152,
+   "company": "Valsoft Corporation",
+   "hours_open": 26.3,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50313403"
   }
  ],
- "count": 806,
- "updated_at": 1789823881
+ "count": 803,
+ "updated_at": 1789824152
 }
