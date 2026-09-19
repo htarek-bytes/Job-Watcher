@@ -2,41 +2,6 @@
  "closed": [
   {
    "closed_at": 1789511757,
-   "company": "mastercard",
-   "hours_open": 24.1,
-   "title": "Software Engineer I",
-   "uid": "workday:mastercard.wd1/CorporateCareers:Software-Development-Engineer_R-284431"
-  },
-  {
-   "closed_at": 1789511757,
-   "company": "scaleai",
-   "hours_open": 173.4,
-   "title": "AI Infrastructure Engineer, Sandbox Platform",
-   "uid": "greenhouse:scaleai:4716453005"
-  },
-  {
-   "closed_at": 1789511757,
-   "company": "figureai",
-   "hours_open": 291.9,
-   "title": "Deployment Engineer - Commercial Site Team",
-   "uid": "greenhouse:figureai:4683846006"
-  },
-  {
-   "closed_at": 1789511757,
-   "company": "mars",
-   "hours_open": 209.7,
-   "title": "Solution Engineer",
-   "uid": "workday:mars.wd3/external:Solution-Engineer_R161845-1"
-  },
-  {
-   "closed_at": 1789511757,
-   "company": "kla",
-   "hours_open": 41.5,
-   "title": "Software Engineering Intern",
-   "uid": "workday:kla.wd1/annarbor:Software-Engineering-Intern_2531653"
-  },
-  {
-   "closed_at": 1789511757,
    "company": "Lentech Inc.",
    "hours_open": 330.3,
    "title": "Entry Level Web Developer - Multiple Teams",
@@ -5599,8 +5564,43 @@
    "hours_open": 383.5,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1789835699,
+   "company": "twitch",
+   "hours_open": 383.6,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1789835699,
+   "company": "Groupe DCM",
+   "hours_open": 29.5,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534670"
+  },
+  {
+   "closed_at": 1789835699,
+   "company": "people-culture-talent",
+   "hours_open": 300.9,
+   "title": "Customer Engineer",
+   "uid": "ashby:people-culture-talent:b7dcd37b-26c9-4c6a-824f-1e1eca2500ff"
+  },
+  {
+   "closed_at": 1789835699,
+   "company": "people-culture-talent",
+   "hours_open": 300.9,
+   "title": "Sales Engineer",
+   "uid": "ashby:people-culture-talent:8b9d13a0-c49e-4edb-bbdd-403628af3d75"
+  },
+  {
+   "closed_at": 1789835699,
+   "company": "systemstechnologyresearch",
+   "hours_open": 263.4,
+   "title": "Autonomy Algorithms Software Engineer",
+   "uid": "greenhouse:systemstechnologyresearch:4704680006"
   }
  ],
  "count": 805,
- "updated_at": 1789835368
+ "updated_at": 1789835699
 }
