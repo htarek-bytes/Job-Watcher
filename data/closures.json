@@ -2,41 +2,6 @@
  "closed": [
   {
    "closed_at": 1789503702,
-   "company": "ag",
-   "hours_open": 94.3,
-   "title": "Junior Backend Engineer (m/w/d)",
-   "uid": "workday:ag.wd3/Airbus:Junior-Backend-Engineer--m-w-d-_JR10434602-1"
-  },
-  {
-   "closed_at": 1789503702,
-   "company": "avav",
-   "hours_open": 102.6,
-   "title": "Software Engineering Intern",
-   "uid": "workday:avav.wd1/avav:Software-Engineering-Intern_8613"
-  },
-  {
-   "closed_at": 1789503702,
-   "company": "ag",
-   "hours_open": 209.3,
-   "title": "AI & Digital Airframe Structural Analysis Solutions Engineer Placement (12.5 months)",
-   "uid": "workday:ag.wd3/Airbus:AI---Digital-Airframe-Structural-Analysis-Solutions-Engineer-Placement--125-Months-_JR10429419"
-  },
-  {
-   "closed_at": 1789503702,
-   "company": "Amazon",
-   "hours_open": 99.1,
-   "title": "Software Development Engineer , Amazon Customer Service",
-   "uid": "amazon:amazon:10537511"
-  },
-  {
-   "closed_at": 1789503702,
-   "company": "BetterPro",
-   "hours_open": 99.1,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50267234"
-  },
-  {
-   "closed_at": 1789503702,
    "company": "avnet",
    "hours_open": 208.7,
    "title": "Technical Sales Engineer AMD/Xilinx",
@@ -5599,8 +5564,43 @@
    "hours_open": 21.9,
    "title": "software developer",
    "uid": "jobbank:junior software developer:50313403"
+  },
+  {
+   "closed_at": 1789809939,
+   "company": "twitch",
+   "hours_open": 376.5,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1789809939,
+   "company": "Alt Informatique",
+   "hours_open": 28.5,
+   "title": "Technicien informatique junior",
+   "uid": "jobillico:technicien informatique:17381391"
+  },
+  {
+   "closed_at": 1789809939,
+   "company": "Valsoft Corporation",
+   "hours_open": 0.4,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50320295"
+  },
+  {
+   "closed_at": 1789809939,
+   "company": "systemstechnologyresearch",
+   "hours_open": 256.3,
+   "title": "Autonomy Algorithms Software Engineer",
+   "uid": "greenhouse:systemstechnologyresearch:4704680006"
+  },
+  {
+   "closed_at": 1789809939,
+   "company": "spacex",
+   "hours_open": 376.2,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
   }
  ],
- "count": 802,
- "updated_at": 1789808480
+ "count": 805,
+ "updated_at": 1789809940
 }
