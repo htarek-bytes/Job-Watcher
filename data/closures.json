@@ -2,55 +2,6 @@
  "closed": [
   {
    "closed_at": 1789534725,
-   "company": "Gameloft",
-   "hours_open": 107.7,
-   "title": "developer, software",
-   "uid": "jobbank:developpeur junior:50265243"
-  },
-  {
-   "closed_at": 1789534725,
-   "company": "Richard & Levesque Cuisines Salles de Bain",
-   "hours_open": 167.6,
-   "title": "Web developer",
-   "uid": "jobbank:developpeur junior:50247764"
-  },
-  {
-   "closed_at": 1789534725,
-   "company": "City of Regina",
-   "hours_open": 317.9,
-   "title": "programmer analyst",
-   "uid": "jobbank:junior programmer:50207516"
-  },
-  {
-   "closed_at": 1789534725,
-   "company": "Article",
-   "hours_open": 102.4,
-   "title": "software developer",
-   "uid": "jobbank:entry level software developer:50269151"
-  },
-  {
-   "closed_at": 1789534725,
-   "company": "Astra North Infoteck Inc.",
-   "hours_open": 163.1,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:systems analyst:50248440"
-  },
-  {
-   "closed_at": 1789534725,
-   "company": "samsara",
-   "hours_open": 179.8,
-   "title": "People Technology Analyst - Workday",
-   "uid": "greenhouse:samsara:8083539"
-  },
-  {
-   "closed_at": 1789534725,
-   "company": "T-Soft Consulting Inc",
-   "hours_open": 317.9,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50080344"
-  },
-  {
-   "closed_at": 1789534725,
    "company": "Intelion Solutions INC",
    "hours_open": 317.9,
    "title": "software developer",
@@ -5599,8 +5550,57 @@
    "hours_open": 388.5,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1789860417,
+   "company": "roadrunner",
+   "hours_open": 79.6,
+   "title": "Forward Deployed Engineer (New Grad) ",
+   "uid": "ashby:roadrunner:eeeb9757-78e0-4776-889e-507a013e1fcf"
+  },
+  {
+   "closed_at": 1789860417,
+   "company": "twitch",
+   "hours_open": 390.5,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1789860417,
+   "company": "Alt Informatique",
+   "hours_open": 42.5,
+   "title": "Technicien informatique junior",
+   "uid": "jobillico:technicien informatique:17381391"
+  },
+  {
+   "closed_at": 1789860417,
+   "company": "Valsoft Corporation",
+   "hours_open": 36.4,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50313403"
+  },
+  {
+   "closed_at": 1789860417,
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
+   "hours_open": 270.3,
+   "title": "Administrateur Réseau TI",
+   "uid": "jobillico:analyste reseau:17386419"
+  },
+  {
+   "closed_at": 1789860417,
+   "company": "systemstechnologyresearch",
+   "hours_open": 270.3,
+   "title": "Autonomy Algorithms Software Engineer",
+   "uid": "greenhouse:systemstechnologyresearch:4704680006"
+  },
+  {
+   "closed_at": 1789860417,
+   "company": "spacex",
+   "hours_open": 390.5,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 804,
- "updated_at": 1789859310
+ "count": 807,
+ "updated_at": 1789860417
 }
