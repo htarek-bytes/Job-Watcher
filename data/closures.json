@@ -2,27 +2,6 @@
  "closed": [
   {
    "closed_at": 1789510068,
-   "company": "canadiantirecorporation",
-   "hours_open": 147.4,
-   "title": "Business Process & Automation Specialist",
-   "uid": "workday:canadiantirecorporation.wd3/Enterprise_External_Careers_Site:Business-Process---Automation-Specialist_JR163829"
-  },
-  {
-   "closed_at": 1789510068,
-   "company": "bird",
-   "hours_open": 169.8,
-   "title": "Student Technical Analyst",
-   "uid": "workday:bird.wd3/BirdConstructionCareers:Student-Technical-Analyst_JR-9432"
-  },
-  {
-   "closed_at": 1789510068,
-   "company": "boeing",
-   "hours_open": 96.1,
-   "title": "Entry-Level Simulation Software Engineer",
-   "uid": "workday:boeing.wd1/EXTERNAL_CAREERS:Entry-Level-Simulation-Software-Engineer_JR2026516853-1"
-  },
-  {
-   "closed_at": 1789510068,
    "company": "bakerhughes",
    "hours_open": 298.5,
    "title": "Intern – Reciprocating Compressor Engineer, Business Development – 2026 (M/F/D)",
@@ -5599,8 +5578,29 @@
    "hours_open": 59.1,
    "title": "System Integration Software Engineer 1 - System Integration Software Engineer I",
    "uid": "simplify:listings:f0decac3-42e6-41b6-8f73-a954263e1bd7"
+  },
+  {
+   "closed_at": 1789817754,
+   "company": "Alt Informatique",
+   "hours_open": 30.7,
+   "title": "Technicien informatique junior",
+   "uid": "jobillico:technicien informatique:17381391"
+  },
+  {
+   "closed_at": 1789817754,
+   "company": "avav",
+   "hours_open": 189.8,
+   "title": "Software Engineering Intern",
+   "uid": "workday:avav.wd1/avav:Software-Engineering-Intern_8613"
+  },
+  {
+   "closed_at": 1789817754,
+   "company": "Valsoft Corporation",
+   "hours_open": 2.6,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50320295"
   }
  ],
- "count": 805,
- "updated_at": 1789814995
+ "count": 803,
+ "updated_at": 1789817754
 }
