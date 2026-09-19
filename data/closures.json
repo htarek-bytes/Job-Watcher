@@ -1,34 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789534725,
-   "company": "Intelion Solutions INC",
-   "hours_open": 317.9,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50110030"
-  },
-  {
-   "closed_at": 1789534725,
-   "company": "rocketlab",
-   "hours_open": 36.4,
-   "title": "Flight Software Engineer I",
-   "uid": "greenhouse:rocketlab:7992129003"
-  },
-  {
-   "closed_at": 1789534725,
-   "company": "CGI",
-   "hours_open": 179.8,
-   "title": "Conseiller en gouvernance de la cybersécurité",
-   "uid": "jobillico:analyste cybersecurite:17433756"
-  },
-  {
-   "closed_at": 1789535224,
-   "company": "YO AI Labs",
-   "hours_open": 23.2,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50289053"
-  },
-  {
    "closed_at": 1789535224,
    "company": "wyetechllc",
    "hours_open": 131.2,
@@ -5599,8 +5571,36 @@
    "hours_open": 390.5,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1789860644,
+   "company": "twitch",
+   "hours_open": 387.6,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1789860644,
+   "company": "Valsoft Corporation",
+   "hours_open": 14.5,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50320295"
+  },
+  {
+   "closed_at": 1789860644,
+   "company": "systemstechnologyresearch",
+   "hours_open": 383.6,
+   "title": "Autonomy Algorithms Software Engineer",
+   "uid": "greenhouse:systemstechnologyresearch:4704682006"
+  },
+  {
+   "closed_at": 1789860644,
+   "company": "spacex",
+   "hours_open": 388.9,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
- "count": 807,
- "updated_at": 1789860417
+ "count": 804,
+ "updated_at": 1789860645
 }
