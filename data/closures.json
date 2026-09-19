@@ -2,41 +2,6 @@
  "closed": [
   {
    "closed_at": 1789511757,
-   "company": "twitch",
-   "hours_open": 293.6,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1789511757,
-   "company": "iberdrola",
-   "hours_open": 121.8,
-   "title": "Associate Engineer - Distribution Planning",
-   "uid": "workday:iberdrola.wd3/iberdrola:Associate-Engineer---Distribution-Planning_R-30914"
-  },
-  {
-   "closed_at": 1789511757,
-   "company": "Nexthop.ai",
-   "hours_open": 119.5,
-   "title": "Software Engineer New Grad",
-   "uid": "simplify:listings:4a0ac2bd-9aed-42eb-88de-3663340e79b5"
-  },
-  {
-   "closed_at": 1789511757,
-   "company": "Amazon",
-   "hours_open": 170.2,
-   "title": "Software Development Engineer, CreativeX",
-   "uid": "amazon:amazon:10532554"
-  },
-  {
-   "closed_at": 1789511757,
-   "company": "Amazon",
-   "hours_open": 267.5,
-   "title": "Software Development Engineer, Agent Platforms & Services",
-   "uid": "amazon:amazon:10530139"
-  },
-  {
-   "closed_at": 1789511757,
    "company": "mastercard",
    "hours_open": 24.1,
    "title": "Software Engineer I",
@@ -5599,8 +5564,43 @@
    "hours_open": 10.1,
    "title": "Imaging Engineer I",
    "uid": "workday:trimedx.wd1/TMX:Imaging-Engineer-I_R14980"
+  },
+  {
+   "closed_at": 1789835368,
+   "company": "Groupe Mario Coté",
+   "hours_open": 191.2,
+   "title": "Administrateur de réseau",
+   "uid": "jobillico:analyste reseau:17520153"
+  },
+  {
+   "closed_at": 1789835368,
+   "company": "Agari Kitchen",
+   "hours_open": 217.4,
+   "title": "electronics engineer",
+   "uid": "jobbank:control systems analyst:50258093"
+  },
+  {
+   "closed_at": 1789835368,
+   "company": "Valsoft Corporation",
+   "hours_open": 29.4,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50313403"
+  },
+  {
+   "closed_at": 1789835368,
+   "company": "rocketems",
+   "hours_open": 110.9,
+   "title": "Associate Test Engineer",
+   "uid": "greenhouse:rocketems:4398468009"
+  },
+  {
+   "closed_at": 1789835368,
+   "company": "spacex",
+   "hours_open": 383.5,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 803,
- "updated_at": 1789829168
+ "count": 805,
+ "updated_at": 1789835368
 }
