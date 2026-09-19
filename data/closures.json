@@ -1,55 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789521680,
-   "company": "Kronos Consulting",
-   "hours_open": 19.5,
-   "title": "network specialist - computer systems",
-   "uid": "jobbank:specialiste infrastructure:50289304"
-  },
-  {
-   "closed_at": 1789521680,
-   "company": "snowflake",
-   "hours_open": 214.3,
-   "title": "Solution Engineer - Insurance & Asset Management",
-   "uid": "ashby:snowflake:da9101c0-c661-4238-b9df-426fb1998bb4"
-  },
-  {
-   "closed_at": 1789521680,
-   "company": "snowflake",
-   "hours_open": 214.3,
-   "title": "Solution Engineer - Emerging Enterprise FS",
-   "uid": "ashby:snowflake:73e98b62-975a-4e3c-be44-daf4e832af25"
-  },
-  {
-   "closed_at": 1789521680,
-   "company": "retell-ai",
-   "hours_open": 24.5,
-   "title": "Customer Success Engineer (Contract)",
-   "uid": "ashby:retell-ai:f492185e-32ed-407c-9aea-c87b0dbfec15"
-  },
-  {
-   "closed_at": 1789521795,
-   "company": "Kronos Consulting",
-   "hours_open": 19.5,
-   "title": "network specialist - computer systems",
-   "uid": "jobbank:specialiste infrastructure:50289304"
-  },
-  {
-   "closed_at": 1789521795,
-   "company": "snowflake",
-   "hours_open": 214.3,
-   "title": "Solution Engineer - Insurance & Asset Management",
-   "uid": "ashby:snowflake:da9101c0-c661-4238-b9df-426fb1998bb4"
-  },
-  {
-   "closed_at": 1789521795,
-   "company": "snowflake",
-   "hours_open": 214.3,
-   "title": "Solution Engineer - Emerging Enterprise FS",
-   "uid": "ashby:snowflake:73e98b62-975a-4e3c-be44-daf4e832af25"
-  },
-  {
    "closed_at": 1789521795,
    "company": "twitch",
    "hours_open": 293.5,
@@ -5599,8 +5550,57 @@
    "hours_open": 268.5,
    "title": "Administrateur Réseau TI",
    "uid": "jobillico:analyste reseau:17386419"
+  },
+  {
+   "closed_at": 1789859088,
+   "company": "twitch",
+   "hours_open": 390.1,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1789859088,
+   "company": "Groupe DCM",
+   "hours_open": 36.0,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534670"
+  },
+  {
+   "closed_at": 1789859088,
+   "company": "Groupe Mario Coté",
+   "hours_open": 197.8,
+   "title": "Administrateur de réseau",
+   "uid": "jobillico:analyste reseau:17520153"
+  },
+  {
+   "closed_at": 1789859088,
+   "company": "Idexia",
+   "hours_open": 1.4,
+   "title": "programmer analyst",
+   "uid": "jobbank:programmeur junior:50257800"
+  },
+  {
+   "closed_at": 1789859088,
+   "company": "Media Resources",
+   "hours_open": 380.7,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50218652"
+  },
+  {
+   "closed_at": 1789859088,
+   "company": "Valsoft Corporation",
+   "hours_open": 36.0,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50313403"
+  },
+  {
+   "closed_at": 1789859088,
+   "company": "systemstechnologyresearch",
+   "hours_open": 269.9,
+   "title": "Autonomy Algorithms Software Engineer",
+   "uid": "greenhouse:systemstechnologyresearch:4704680006"
   }
  ],
- "count": 804,
- "updated_at": 1789854047
+ "count": 807,
+ "updated_at": 1789859088
 }
