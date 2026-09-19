@@ -1,69 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789517822,
-   "company": "Amazon",
-   "hours_open": 5.3,
-   "title": "Software Development Engineer, AWS Config, AWS Config",
-   "uid": "amazon:amazon:10542663"
-  },
-  {
-   "closed_at": 1789517822,
-   "company": "salesforce",
-   "hours_open": 43.0,
-   "title": "Specialist Solution Engineer",
-   "uid": "workday:salesforce.wd12/External_Career_Site:Specialist-Solution-Engineer_JR358388-1"
-  },
-  {
-   "closed_at": 1789517822,
-   "company": "selinc",
-   "hours_open": 25.7,
-   "title": "Associate Software Engineer",
-   "uid": "workday:selinc.wd1/SEL:Associate-Software-Engineer_2026-22492-1"
-  },
-  {
-   "closed_at": 1789517822,
-   "company": "truveta",
-   "hours_open": 295.3,
-   "title": "Software Engineer – Cerberus",
-   "uid": "greenhouse:truveta:6147526004"
-  },
-  {
-   "closed_at": 1789517822,
-   "company": "spacex",
-   "hours_open": 295.3,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1789517822,
-   "company": "Amazon",
-   "hours_open": 290.9,
-   "title": "Software Dev Engineer, Antenna System Validation, Amazon Leo",
-   "uid": "amazon:amazon:10529262"
-  },
-  {
-   "closed_at": 1789518387,
-   "company": "cerebras",
-   "hours_open": 295.5,
-   "title": "AI Infrastructure Operations Engineer",
-   "uid": "ashby:cerebras:98ccea5d-d67a-4b58-a44a-168eb5012fe6"
-  },
-  {
-   "closed_at": 1789518387,
-   "company": "clasp-group",
-   "hours_open": 114.5,
-   "title": "University Partnership Development Associate",
-   "uid": "ashby:clasp-group:9425f592-09bf-4ec6-879c-ccc6c33b6f2e"
-  },
-  {
-   "closed_at": 1789518387,
-   "company": "contoro",
-   "hours_open": 292.5,
-   "title": "Data Engineer, Cloud Platform",
-   "uid": "ashby:contoro:82ee31ed-0418-4fc9-a07b-ebc5998bf5a1"
-  },
-  {
    "closed_at": 1789518387,
    "company": "contoro",
    "hours_open": 292.5,
@@ -5599,8 +5536,71 @@
    "hours_open": 12.4,
    "title": "software developer",
    "uid": "jobbank:junior software developer:50320295"
+  },
+  {
+   "closed_at": 1789853670,
+   "company": "twitch",
+   "hours_open": 385.7,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1789853670,
+   "company": "Groupe DCM",
+   "hours_open": 40.6,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534679"
+  },
+  {
+   "closed_at": 1789853670,
+   "company": "relx",
+   "hours_open": 410.0,
+   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - January)",
+   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617-1"
+  },
+  {
+   "closed_at": 1789853670,
+   "company": "relx",
+   "hours_open": 410.0,
+   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - June)",
+   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-2"
+  },
+  {
+   "closed_at": 1789853670,
+   "company": "relx",
+   "hours_open": 410.0,
+   "title": "Tech Accelerate Graduate Program - Software Engineer (Boca Raton - June)",
+   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Boca-Raton---June-_R116023"
+  },
+  {
+   "closed_at": 1789853670,
+   "company": "Valsoft Corporation",
+   "hours_open": 34.5,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50313403"
+  },
+  {
+   "closed_at": 1789853670,
+   "company": "spacex",
+   "hours_open": 388.6,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1789853670,
+   "company": "systemstechnologyresearch",
+   "hours_open": 381.6,
+   "title": "Autonomy Algorithms Software Engineer",
+   "uid": "greenhouse:systemstechnologyresearch:4704682006"
+  },
+  {
+   "closed_at": 1789853670,
+   "company": "spacex",
+   "hours_open": 388.6,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 806,
- "updated_at": 1789853155
+ "count": 809,
+ "updated_at": 1789853670
 }
