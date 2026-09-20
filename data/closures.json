@@ -2,20 +2,6 @@
  "closed": [
   {
    "closed_at": 1789568688,
-   "company": "altentechnologyusa",
-   "hours_open": 19.4,
-   "title": "Tool Technology Engineer",
-   "uid": "greenhouse:altentechnologyusa:5142454007"
-  },
-  {
-   "closed_at": 1789568688,
-   "company": "Mastercard",
-   "hours_open": 43.3,
-   "title": "Software Engineer 1",
-   "uid": "simplify:listings:6fc2b307-1b8e-46f9-aa14-0d528e6fd4a9"
-  },
-  {
-   "closed_at": 1789568688,
    "company": "RTX",
    "hours_open": 23.2,
    "title": "Software Modernization Engineer 1",
@@ -5599,8 +5585,22 @@
    "hours_open": 48.6,
    "title": "software developer",
    "uid": "jobbank:junior software developer:50313403"
+  },
+  {
+   "closed_at": 1789905346,
+   "company": "Valsoft Corporation",
+   "hours_open": 26.9,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50320295"
+  },
+  {
+   "closed_at": 1789905346,
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
+   "hours_open": 282.8,
+   "title": "Administrateur Réseau TI",
+   "uid": "jobillico:analyste reseau:17386419"
   }
  ],
  "count": 802,
- "updated_at": 1789904302
+ "updated_at": 1789905347
 }
