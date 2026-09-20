@@ -1,20 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789586515,
-   "company": "andurilindustries",
-   "hours_open": 312.7,
-   "title": "Software Engineer, Air & Missile Defense ",
-   "uid": "greenhouse:andurilindustries:5194551007"
-  },
-  {
-   "closed_at": 1789587978,
-   "company": "Bruno Independent Living Aids",
-   "hours_open": 19.5,
-   "title": "Junior Software Developer - AI Focus",
-   "uid": "simplify:listings:f65facdb-07b5-489d-bda0-a527041c6dd5"
-  },
-  {
    "closed_at": 1789587978,
    "company": "Town of Ladysmith",
    "hours_open": 194.6,
@@ -5599,8 +5585,22 @@
    "hours_open": 431.2,
    "title": "Junior .NET Developer - Fresh Graduates",
    "uid": "workday:accenture.wd103/AccentureCareers:Junior-NET-Developer---Fresh-Graduates_R00332478"
+  },
+  {
+   "closed_at": 1789946406,
+   "company": "Valsoft Corporation",
+   "hours_open": 60.2,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50313403"
+  },
+  {
+   "closed_at": 1789946406,
+   "company": "avnet",
+   "hours_open": 331.7,
+   "title": "Technical Sales Engineer Avnet Silica",
+   "uid": "workday:avnet.wd1/external:Technical-Sales-Engineer-Avnet-Silica_JR-023902"
   }
  ],
  "count": 802,
- "updated_at": 1789946076
+ "updated_at": 1789946406
 }
