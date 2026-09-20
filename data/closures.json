@@ -1,27 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789574003,
-   "company": "systemstechnologyresearch",
-   "hours_open": 190.7,
-   "title": "Autonomy Algorithms Software Engineer",
-   "uid": "greenhouse:systemstechnologyresearch:4704680006"
-  },
-  {
-   "closed_at": 1789574003,
-   "company": "spacex",
-   "hours_open": 310.9,
-   "title": "Launch Operations Engineer (Starship)",
-   "uid": "greenhouse:spacex:8447293002"
-  },
-  {
-   "closed_at": 1789574003,
-   "company": "Amazon",
-   "hours_open": 23.0,
-   "title": "Software Development Engineer , Amazon Leo Commerce",
-   "uid": "amazon:amazon:10542215"
-  },
-  {
    "closed_at": 1789577011,
    "company": "Maarut",
    "hours_open": 23.8,
@@ -5599,8 +5578,29 @@
    "hours_open": 404.2,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1789917014,
+   "company": "twitch",
+   "hours_open": 406.2,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1789917014,
+   "company": "systemstechnologyresearch",
+   "hours_open": 286.0,
+   "title": "Autonomy Algorithms Software Engineer",
+   "uid": "greenhouse:systemstechnologyresearch:4704680006"
+  },
+  {
+   "closed_at": 1789917014,
+   "company": "spacex",
+   "hours_open": 406.2,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 805,
- "updated_at": 1789915993
+ "count": 803,
+ "updated_at": 1789917014
 }
