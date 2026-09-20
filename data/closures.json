@@ -1,48 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789583487,
-   "company": "systemstechnologyresearch",
-   "hours_open": 193.4,
-   "title": "Autonomy Algorithms Software Engineer",
-   "uid": "greenhouse:systemstechnologyresearch:4704680006"
-  },
-  {
-   "closed_at": 1789583487,
-   "company": "spacex",
-   "hours_open": 313.6,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1789586515,
-   "company": "YO AI Labs",
-   "hours_open": 37.5,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50289053"
-  },
-  {
-   "closed_at": 1789586515,
-   "company": "JeffreyM Consulting",
-   "hours_open": 36.7,
-   "title": "Forward Deployed Engineer",
-   "uid": "workable:jeffreym-consulting:3E649E3762"
-  },
-  {
-   "closed_at": 1789586515,
-   "company": "Sigma Defense",
-   "hours_open": 308.0,
-   "title": "1655 - Software Developer",
-   "uid": "workable:sigmadefense:0ECC18E5C5"
-  },
-  {
-   "closed_at": 1789586515,
-   "company": "andurilindustries",
-   "hours_open": 312.7,
-   "title": "Software Engineer, Battlespace Awareness",
-   "uid": "greenhouse:andurilindustries:5215627007"
-  },
-  {
    "closed_at": 1789586515,
    "company": "systemstechnologyresearch",
    "hours_open": 307.4,
@@ -5599,8 +5557,50 @@
    "hours_open": 221.4,
    "title": "Administrateur de réseau",
    "uid": "jobillico:analyste reseau:17520153"
+  },
+  {
+   "closed_at": 1789944328,
+   "company": "twitch",
+   "hours_open": 410.9,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1789944328,
+   "company": "Valsoft Corporation",
+   "hours_open": 37.7,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50320295"
+  },
+  {
+   "closed_at": 1789944328,
+   "company": "spacex",
+   "hours_open": 410.9,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1789944328,
+   "company": "systemstechnologyresearch",
+   "hours_open": 406.8,
+   "title": "Autonomy Algorithms Software Engineer",
+   "uid": "greenhouse:systemstechnologyresearch:4704682006"
+  },
+  {
+   "closed_at": 1789944328,
+   "company": "spacex",
+   "hours_open": 413.8,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1789944328,
+   "company": "spacex",
+   "hours_open": 412.1,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
- "count": 801,
- "updated_at": 1789944180
+ "count": 806,
+ "updated_at": 1789944328
 }
