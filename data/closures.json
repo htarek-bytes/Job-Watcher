@@ -2,48 +2,6 @@
  "closed": [
   {
    "closed_at": 1789582733,
-   "company": "doordashusa",
-   "hours_open": 231.3,
-   "title": "Solution Engineer, Symbiosys",
-   "uid": "greenhouse:doordashusa:8046431"
-  },
-  {
-   "closed_at": 1789582733,
-   "company": "samsara",
-   "hours_open": 313.4,
-   "title": "GRC Automation Specialist (Governance, Risk & Compliance, TPRM)",
-   "uid": "greenhouse:samsara:7669236"
-  },
-  {
-   "closed_at": 1789582733,
-   "company": "Amazon",
-   "hours_open": 283.1,
-   "title": "Software Dev Engineer, AWS Elastic Container Service",
-   "uid": "amazon:amazon:10530555"
-  },
-  {
-   "closed_at": 1789582733,
-   "company": "spacex",
-   "hours_open": 313.4,
-   "title": "Hardware Reliability Engineer, Mechanical (Starshield)",
-   "uid": "greenhouse:spacex:8657631002"
-  },
-  {
-   "closed_at": 1789582733,
-   "company": "spacex",
-   "hours_open": 311.7,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1789582733,
-   "company": "accenturefederalservices",
-   "hours_open": 196.5,
-   "title": "Cloud Engineer",
-   "uid": "greenhouse:accenturefederalservices:4678454006"
-  },
-  {
-   "closed_at": 1789582733,
    "company": "palantir",
    "hours_open": 313.4,
    "title": "Information Security Engineer - Insider Risk",
@@ -5599,8 +5557,50 @@
    "hours_open": 409.3,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1789930037,
+   "company": "twitch",
+   "hours_open": 409.8,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1789930037,
+   "company": "mmc",
+   "hours_open": 300.5,
+   "title": "Junior Python Engineer @MarshTech",
+   "uid": "workday:mmc.wd1/MMC:Junior-Python-Engineer--MarshTech_R_362442-1"
+  },
+  {
+   "closed_at": 1789930037,
+   "company": "Valsoft Corporation",
+   "hours_open": 55.7,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50313403"
+  },
+  {
+   "closed_at": 1789930037,
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
+   "hours_open": 289.6,
+   "title": "Administrateur Réseau TI",
+   "uid": "jobillico:analyste reseau:17386419"
+  },
+  {
+   "closed_at": 1789930037,
+   "company": "systemstechnologyresearch",
+   "hours_open": 289.6,
+   "title": "Autonomy Algorithms Software Engineer",
+   "uid": "greenhouse:systemstechnologyresearch:4704680006"
+  },
+  {
+   "closed_at": 1789930037,
+   "company": "spacex",
+   "hours_open": 409.6,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
   }
  ],
  "count": 806,
- "updated_at": 1789927954
+ "updated_at": 1789930038
 }
