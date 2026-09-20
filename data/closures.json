@@ -2,48 +2,6 @@
  "closed": [
   {
    "closed_at": 1789583487,
-   "company": "NielsenIQ",
-   "hours_open": 23.4,
-   "title": "Associate Software Engineer",
-   "uid": "smartrecruiters:NielsenIQ:744000149532505"
-  },
-  {
-   "closed_at": 1789583487,
-   "company": "Sia",
-   "hours_open": 49.9,
-   "title": "Junior Engineer",
-   "uid": "smartrecruiters:Sia:744000149341869"
-  },
-  {
-   "closed_at": 1789583487,
-   "company": "Sopra Steria",
-   "hours_open": 49.9,
-   "title": "FPGA Verification Engineer (Entry Level)",
-   "uid": "smartrecruiters:SopraSteria1:744000149337912"
-  },
-  {
-   "closed_at": 1789583487,
-   "company": "ServiceNow",
-   "hours_open": 117.8,
-   "title": "Forward Deployed Solution Engineer – Applied AI FDE",
-   "uid": "smartrecruiters:ServiceNow:744000149073920"
-  },
-  {
-   "closed_at": 1789583487,
-   "company": "Williams Racing",
-   "hours_open": 324.0,
-   "title": "Data Engineer Industrial Placement",
-   "uid": "smartrecruiters:WilliamsRacing:744000146954769"
-  },
-  {
-   "closed_at": 1789583487,
-   "company": "Amazon",
-   "hours_open": 168.7,
-   "title": "Software Development Engineer, AWS CloudWatch OpenTelemetry",
-   "uid": "amazon:amazon:10534632"
-  },
-  {
-   "closed_at": 1789583487,
    "company": "spacex",
    "hours_open": 313.6,
    "title": "Security Software Engineer (Starlink)",
@@ -5599,8 +5557,50 @@
    "hours_open": 36.3,
    "title": "software developer",
    "uid": "jobbank:junior software developer:50320295"
+  },
+  {
+   "closed_at": 1789941433,
+   "company": "twitch",
+   "hours_open": 413.0,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1789941433,
+   "company": "Valsoft Corporation",
+   "hours_open": 58.9,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50313403"
+  },
+  {
+   "closed_at": 1789941433,
+   "company": "spacex",
+   "hours_open": 413.0,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1789941433,
+   "company": "systemstechnologyresearch",
+   "hours_open": 292.8,
+   "title": "Autonomy Algorithms Software Engineer",
+   "uid": "greenhouse:systemstechnologyresearch:4704680006"
+  },
+  {
+   "closed_at": 1789941433,
+   "company": "spacex",
+   "hours_open": 412.7,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1789941433,
+   "company": "spacex",
+   "hours_open": 413.0,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 802,
- "updated_at": 1789939021
+ "count": 806,
+ "updated_at": 1789941433
 }
