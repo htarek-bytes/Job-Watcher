@@ -1,34 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789568688,
-   "company": "spacex",
-   "hours_open": 309.5,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1789568688,
-   "company": "systemstechnologyresearch",
-   "hours_open": 189.3,
-   "title": "Cleared Systems Administrator",
-   "uid": "greenhouse:systemstechnologyresearch:4661065006"
-  },
-  {
-   "closed_at": 1789569384,
-   "company": "YO AI Labs",
-   "hours_open": 25.9,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50290477"
-  },
-  {
-   "closed_at": 1789569384,
-   "company": "CGI",
-   "hours_open": 189.5,
-   "title": "Conseiller en gouvernance de la cybersécurité",
-   "uid": "jobillico:analyste cybersecurite:17433756"
-  },
-  {
    "closed_at": 1789569384,
    "company": "alta-ares",
    "hours_open": 306.7,
@@ -5599,8 +5571,36 @@
    "hours_open": 403.2,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1789906495,
+   "company": "twitch",
+   "hours_open": 400.3,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1789906495,
+   "company": "Groupe Mario Coté",
+   "hours_open": 211.0,
+   "title": "Administrateur de réseau",
+   "uid": "jobillico:analyste reseau:17520153"
+  },
+  {
+   "closed_at": 1789906495,
+   "company": "systemstechnologyresearch",
+   "hours_open": 396.3,
+   "title": "Autonomy Algorithms Software Engineer",
+   "uid": "greenhouse:systemstechnologyresearch:4704682006"
+  },
+  {
+   "closed_at": 1789906495,
+   "company": "spacex",
+   "hours_open": 401.6,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
- "count": 803,
- "updated_at": 1789906273
+ "count": 804,
+ "updated_at": 1789906495
 }
