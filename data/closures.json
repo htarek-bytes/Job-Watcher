@@ -2,27 +2,6 @@
  "closed": [
   {
    "closed_at": 1789568688,
-   "company": "RTX",
-   "hours_open": 23.2,
-   "title": "Software Modernization Engineer 1",
-   "uid": "simplify:listings:d1eed041-7ca0-4a39-8adc-7011f5c8b2df"
-  },
-  {
-   "closed_at": 1789568688,
-   "company": "voyagertechnologiesinc",
-   "hours_open": 309.5,
-   "title": "Spacecraft Systems Engineer",
-   "uid": "greenhouse:voyagertechnologiesinc:4354492009"
-  },
-  {
-   "closed_at": 1789568688,
-   "company": "systemstechnologyresearch",
-   "hours_open": 302.5,
-   "title": "Autonomy Algorithms Software Engineer",
-   "uid": "greenhouse:systemstechnologyresearch:4704682006"
-  },
-  {
-   "closed_at": 1789568688,
    "company": "spacex",
    "hours_open": 309.5,
    "title": "Wireless Software Engineer (Starlink)",
@@ -5599,8 +5578,29 @@
    "hours_open": 282.8,
    "title": "Administrateur Réseau TI",
    "uid": "jobillico:analyste reseau:17386419"
+  },
+  {
+   "closed_at": 1789906273,
+   "company": "twitch",
+   "hours_open": 403.2,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1789906273,
+   "company": "systemstechnologyresearch",
+   "hours_open": 283.0,
+   "title": "Autonomy Algorithms Software Engineer",
+   "uid": "greenhouse:systemstechnologyresearch:4704680006"
+  },
+  {
+   "closed_at": 1789906273,
+   "company": "spacex",
+   "hours_open": 403.2,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 802,
- "updated_at": 1789905347
+ "count": 803,
+ "updated_at": 1789906273
 }
