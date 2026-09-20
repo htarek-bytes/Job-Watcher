@@ -2,13 +2,6 @@
  "closed": [
   {
    "closed_at": 1789583487,
-   "company": "spacex",
-   "hours_open": 313.6,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1789583487,
    "company": "systemstechnologyresearch",
    "hours_open": 193.4,
    "title": "Autonomy Algorithms Software Engineer",
@@ -5599,8 +5592,15 @@
    "hours_open": 413.0,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1789944180,
+   "company": "Groupe Mario Coté",
+   "hours_open": 221.4,
+   "title": "Administrateur de réseau",
+   "uid": "jobillico:analyste reseau:17520153"
   }
  ],
- "count": 806,
- "updated_at": 1789941433
+ "count": 801,
+ "updated_at": 1789944180
 }
