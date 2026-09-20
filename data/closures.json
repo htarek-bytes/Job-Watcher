@@ -3,34 +3,6 @@
   {
    "closed_at": 1789577011,
    "company": "spacex",
-   "hours_open": 38.9,
-   "title": "Material Flow Engineer",
-   "uid": "greenhouse:spacex:8807509002"
-  },
-  {
-   "closed_at": 1789577011,
-   "company": "systemstechnologyresearch",
-   "hours_open": 304.8,
-   "title": "Autonomy Algorithms Software Engineer",
-   "uid": "greenhouse:systemstechnologyresearch:4704682006"
-  },
-  {
-   "closed_at": 1789577011,
-   "company": "spacex",
-   "hours_open": 311.5,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1789577011,
-   "company": "spacex",
-   "hours_open": 311.8,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1789577011,
-   "company": "spacex",
    "hours_open": 311.8,
    "title": "HVAC Programmer",
    "uid": "greenhouse:spacex:8647921002"
@@ -5599,8 +5571,36 @@
    "hours_open": 287.1,
    "title": "Administrateur Réseau TI",
    "uid": "jobillico:analyste reseau:17386419"
+  },
+  {
+   "closed_at": 1789926211,
+   "company": "Groupe Mario Coté",
+   "hours_open": 216.4,
+   "title": "Administrateur de réseau",
+   "uid": "jobillico:analyste reseau:17520153"
+  },
+  {
+   "closed_at": 1789926211,
+   "company": "Valsoft Corporation",
+   "hours_open": 54.6,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50313403"
+  },
+  {
+   "closed_at": 1789926211,
+   "company": "spacex",
+   "hours_open": 405.8,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1789926211,
+   "company": "spacex",
+   "hours_open": 408.8,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 803,
- "updated_at": 1789920987
+ "count": 804,
+ "updated_at": 1789926211
 }
