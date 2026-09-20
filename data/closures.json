@@ -2,20 +2,6 @@
  "closed": [
   {
    "closed_at": 1789586515,
-   "company": "systemstechnologyresearch",
-   "hours_open": 307.4,
-   "title": "Autonomy Algorithms Software Engineer",
-   "uid": "greenhouse:systemstechnologyresearch:4704682006"
-  },
-  {
-   "closed_at": 1789586515,
-   "company": "andurilindustries",
-   "hours_open": 312.7,
-   "title": "Software Engineer, Sensor Fusion",
-   "uid": "greenhouse:andurilindustries:5194560007"
-  },
-  {
-   "closed_at": 1789586515,
    "company": "andurilindustries",
    "hours_open": 312.7,
    "title": "Software Engineer, Air & Missile Defense ",
@@ -5599,8 +5585,22 @@
    "hours_open": 412.1,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1789946076,
+   "company": "accenture",
+   "hours_open": 431.2,
+   "title": "Software Engineering New Associate (Fresh Diploma Graduate Program)",
+   "uid": "workday:accenture.wd103/AccentureCareers:Software-Engineering-New-Associate--Fresh-Diploma-Graduate-Program-_R00144534"
+  },
+  {
+   "closed_at": 1789946076,
+   "company": "accenture",
+   "hours_open": 431.2,
+   "title": "Junior .NET Developer - Fresh Graduates",
+   "uid": "workday:accenture.wd103/AccentureCareers:Junior-NET-Developer---Fresh-Graduates_R00332478"
   }
  ],
- "count": 806,
- "updated_at": 1789944328
+ "count": 802,
+ "updated_at": 1789946076
 }
