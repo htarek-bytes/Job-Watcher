@@ -2,20 +2,6 @@
  "closed": [
   {
    "closed_at": 1789568688,
-   "company": "Scientific Research Corporation",
-   "hours_open": 123.7,
-   "title": "Software Developer 1",
-   "uid": "simplify:listings:6765f939-ce0a-421f-9d29-884dc3fe84a0"
-  },
-  {
-   "closed_at": 1789568688,
-   "company": "td",
-   "hours_open": 326.3,
-   "title": "Associate Software Engineer (Fullstack)",
-   "uid": "workday:td.wd3/TD_Bank_Careers:Associate-Software-Engineer--Fullstack-_R_1508672"
-  },
-  {
-   "closed_at": 1789568688,
    "company": "altentechnologyusa",
    "hours_open": 19.4,
    "title": "Tool Technology Engineer",
@@ -5599,8 +5585,22 @@
    "hours_open": 26.3,
    "title": "software developer",
    "uid": "jobbank:junior software developer:50320295"
+  },
+  {
+   "closed_at": 1789904302,
+   "company": "Groupe Mario Coté",
+   "hours_open": 210.4,
+   "title": "Administrateur de réseau",
+   "uid": "jobillico:analyste reseau:17520153"
+  },
+  {
+   "closed_at": 1789904302,
+   "company": "Valsoft Corporation",
+   "hours_open": 48.6,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50313403"
   }
  ],
- "count": 809,
- "updated_at": 1789903141
+ "count": 802,
+ "updated_at": 1789904302
 }
