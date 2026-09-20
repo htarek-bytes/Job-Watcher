@@ -1,34 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789582733,
-   "company": "palantir",
-   "hours_open": 313.4,
-   "title": "Information Security Engineer - Insider Risk",
-   "uid": "lever:palantir:6bddf672-5920-46f3-8127-2a15a377cb99"
-  },
-  {
-   "closed_at": 1789582733,
-   "company": "accenturefederalservices",
-   "hours_open": 313.4,
-   "title": "Cloud DevOps Engineer",
-   "uid": "greenhouse:accenturefederalservices:4698889006"
-  },
-  {
-   "closed_at": 1789582733,
-   "company": "Amazon",
-   "hours_open": 165.1,
-   "title": "Embedded Software Engineer, Amazon Leo Optical Inter-Satellite Link ",
-   "uid": "amazon:amazon:10535311"
-  },
-  {
-   "closed_at": 1789583204,
-   "company": "lightspeedhq",
-   "hours_open": 0.1,
-   "title": "ServiceNow Developer",
-   "uid": "ashby:lightspeedhq:3ee82623-e031-4368-8fd8-8642c60b037b"
-  },
-  {
    "closed_at": 1789583204,
    "company": "icapitalnetwork",
    "hours_open": 311.8,
@@ -5599,8 +5571,36 @@
    "hours_open": 409.6,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1789930506,
+   "company": "twitch",
+   "hours_open": 407.0,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1789930506,
+   "company": "systemstechnologyresearch",
+   "hours_open": 403.0,
+   "title": "Autonomy Algorithms Software Engineer",
+   "uid": "greenhouse:systemstechnologyresearch:4704682006"
+  },
+  {
+   "closed_at": 1789930506,
+   "company": "spacex",
+   "hours_open": 410.0,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1789930506,
+   "company": "spacex",
+   "hours_open": 408.3,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
- "count": 806,
- "updated_at": 1789930038
+ "count": 804,
+ "updated_at": 1789930506
 }
