@@ -1,34 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789539827,
-   "company": "CloudFactory",
-   "hours_open": 181.2,
-   "title": "IT Operations Analyst",
-   "uid": "workable:cloudfactory:E8BEE233AA"
-  },
-  {
-   "closed_at": 1789539827,
-   "company": "CloudFactory",
-   "hours_open": 181.2,
-   "title": "IT Operations Specialist",
-   "uid": "workable:cloudfactory:F8EBDCAE09"
-  },
-  {
-   "closed_at": 1789539827,
-   "company": "CloudFactory",
-   "hours_open": 301.2,
-   "title": "Software Engineer",
-   "uid": "workable:cloudfactory:52B0B7DA52"
-  },
-  {
-   "closed_at": 1789552116,
-   "company": "Rakuten International",
-   "hours_open": 11.2,
-   "title": "Early Career AI Engineer - Contract",
-   "uid": "simplify:listings:058f10b5-7e10-4926-bb72-004c74c2a665"
-  },
-  {
    "closed_at": 1789552116,
    "company": "YO AI Labs",
    "hours_open": 27.9,
@@ -5599,8 +5571,36 @@
    "hours_open": 390.9,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1789867988,
+   "company": "twitch",
+   "hours_open": 392.6,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1789867988,
+   "company": "avav",
+   "hours_open": 221.6,
+   "title": "Software Engineering Intern",
+   "uid": "workday:avav.wd1/avav:Software-Engineering-Intern_8593"
+  },
+  {
+   "closed_at": 1789867988,
+   "company": "systemstechnologyresearch",
+   "hours_open": 272.4,
+   "title": "Autonomy Algorithms Software Engineer",
+   "uid": "greenhouse:systemstechnologyresearch:4704680006"
+  },
+  {
+   "closed_at": 1789867988,
+   "company": "spacex",
+   "hours_open": 392.6,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
  "count": 804,
- "updated_at": 1789867915
+ "updated_at": 1789867988
 }
