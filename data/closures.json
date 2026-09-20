@@ -2,34 +2,6 @@
  "closed": [
   {
    "closed_at": 1789559505,
-   "company": "micron",
-   "hours_open": 135.1,
-   "title": "New College Grad - Ram Quality Engineer",
-   "uid": "workday:micron.wd1/External:New-College-Grad---Ram-Quality-Engineer_JR110448"
-  },
-  {
-   "closed_at": 1789559505,
-   "company": "iberdrola",
-   "hours_open": 13.3,
-   "title": "Associate Engineer - Distribution Planning",
-   "uid": "workday:iberdrola.wd3/iberdrola:Associate-Engineer---Distribution-Planning_R-29801"
-  },
-  {
-   "closed_at": 1789559505,
-   "company": "Aramark",
-   "hours_open": 314.9,
-   "title": "Junior Data Engineer",
-   "uid": "simplify:listings:aaa3bc85-9d65-4c72-a3c0-656079d3aa4a"
-  },
-  {
-   "closed_at": 1789559505,
-   "company": "jj",
-   "hours_open": 37.4,
-   "title": "Co-Op Automation Engineer",
-   "uid": "workday:jj.wd5/JJ:Co-Op-Automation-Engineer_R-096697-1"
-  },
-  {
-   "closed_at": 1789559505,
    "company": "kbr",
    "hours_open": 328.2,
    "title": "Junior Software Engineer",
@@ -5599,8 +5571,36 @@
    "hours_open": 43.2,
    "title": "software developer",
    "uid": "jobbank:junior software developer:50313403"
+  },
+  {
+   "closed_at": 1789887274,
+   "company": "twitch",
+   "hours_open": 398.0,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1789887274,
+   "company": "marvell",
+   "hours_open": 251.6,
+   "title": "Test Solutions Engineering Intern, BS - Summer 2027",
+   "uid": "workday:marvell.wd1/MarvellCareers:Test-Solutions-Engineering-Intern--BS---Summer-2027_2603835"
+  },
+  {
+   "closed_at": 1789887274,
+   "company": "systemstechnologyresearch",
+   "hours_open": 277.8,
+   "title": "Autonomy Algorithms Software Engineer",
+   "uid": "greenhouse:systemstechnologyresearch:4704680006"
+  },
+  {
+   "closed_at": 1789887274,
+   "company": "spacex",
+   "hours_open": 398.0,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 801,
- "updated_at": 1789885071
+ "count": 804,
+ "updated_at": 1789887274
 }
