@@ -2,13 +2,6 @@
  "closed": [
   {
    "closed_at": 1789583204,
-   "company": "icapitalnetwork",
-   "hours_open": 311.8,
-   "title": "Configuration Developer - Analyst",
-   "uid": "greenhouse:icapitalnetwork:8745868002"
-  },
-  {
-   "closed_at": 1789583204,
    "company": "Eurofins",
    "hours_open": 23.3,
    "title": "Junior Help Desk Engineer (Spanish, English and French)",
@@ -5599,8 +5592,15 @@
    "hours_open": 408.3,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1789936588,
+   "company": "Valsoft Corporation",
+   "hours_open": 35.6,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50320295"
   }
  ],
- "count": 800,
- "updated_at": 1789933719
+ "count": 801,
+ "updated_at": 1789936588
 }
