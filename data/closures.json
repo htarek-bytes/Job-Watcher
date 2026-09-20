@@ -2,20 +2,6 @@
  "closed": [
   {
    "closed_at": 1789539533,
-   "company": "Tomra",
-   "hours_open": 216.1,
-   "title": "Pre-Sales Solutions Engineer",
-   "uid": "smartrecruiters:Tomra:744000144143929"
-  },
-  {
-   "closed_at": 1789539533,
-   "company": "CloudLabs",
-   "hours_open": 181.2,
-   "title": "systems analyst",
-   "uid": "jobbank:systems analyst:50053328"
-  },
-  {
-   "closed_at": 1789539533,
    "company": "RTX",
    "hours_open": 97.8,
    "title": "Firmware Engineer 1",
@@ -5599,8 +5585,22 @@
    "hours_open": 390.6,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1789866187,
+   "company": "Groupe DCM",
+   "hours_open": 38.0,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534670"
+  },
+  {
+   "closed_at": 1789866187,
+   "company": "Groupe Mario Coté",
+   "hours_open": 199.8,
+   "title": "Administrateur de réseau",
+   "uid": "jobillico:analyste reseau:17520153"
   }
  ],
- "count": 805,
- "updated_at": 1789860820
+ "count": 802,
+ "updated_at": 1789866187
 }
