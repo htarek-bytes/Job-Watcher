@@ -2,34 +2,6 @@
  "closed": [
   {
    "closed_at": 1789587978,
-   "company": "Town of Ladysmith",
-   "hours_open": 194.6,
-   "title": "communications specialist",
-   "uid": "jobbank:specialiste infrastructure:50176096"
-  },
-  {
-   "closed_at": 1789587978,
-   "company": "barclays",
-   "hours_open": 288.4,
-   "title": "2027 Technology Developer Graduate Program Whippany",
-   "uid": "workday:barclays.wd3/External_Career_Site_Barclays:XMLNAME-2027-Technology-Developer-Graduate-Program-Whippany_JR-0000123244"
-  },
-  {
-   "closed_at": 1789587978,
-   "company": "andurilindustries",
-   "hours_open": 313.1,
-   "title": "Scientific Software Engineer",
-   "uid": "greenhouse:andurilindustries:5226942007"
-  },
-  {
-   "closed_at": 1789587978,
-   "company": "spacex",
-   "hours_open": 314.8,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1789587978,
    "company": "andurilindustries",
    "hours_open": 313.1,
    "title": "Software Engineer, C++",
@@ -5599,8 +5571,36 @@
    "hours_open": 331.7,
    "title": "Technical Sales Engineer Avnet Silica",
    "uid": "workday:avnet.wd1/external:Technical-Sales-Engineer-Avnet-Silica_JR-023902"
+  },
+  {
+   "closed_at": 1789948561,
+   "company": "fmr",
+   "hours_open": 207.1,
+   "title": "Co-op, Software Engineer",
+   "uid": "workday:fmr.wd1/targeted:Co-op--Software-Engineer_2135230"
+  },
+  {
+   "closed_at": 1789948561,
+   "company": "Valsoft Corporation",
+   "hours_open": 38.9,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50320295"
+  },
+  {
+   "closed_at": 1789948561,
+   "company": "spacex",
+   "hours_open": 415.0,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1789948561,
+   "company": "spacex",
+   "hours_open": 414.7,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
   }
  ],
- "count": 802,
- "updated_at": 1789946406
+ "count": 804,
+ "updated_at": 1789948561
 }
