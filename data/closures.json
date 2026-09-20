@@ -4,13 +4,6 @@
    "closed_at": 1789539827,
    "company": "CloudFactory",
    "hours_open": 181.2,
-   "title": "IT Operations Analyst",
-   "uid": "workable:cloudfactory:E8BEE233AA"
-  },
-  {
-   "closed_at": 1789539827,
-   "company": "CloudFactory",
-   "hours_open": 181.2,
    "title": "IT Operations Specialist",
    "uid": "workable:cloudfactory:F8EBDCAE09"
   },
@@ -5599,8 +5592,15 @@
    "hours_open": 390.9,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1789868075,
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
+   "hours_open": 272.4,
+   "title": "Administrateur Réseau TI",
+   "uid": "jobillico:analyste reseau:17386419"
   }
  ],
- "count": 804,
- "updated_at": 1789867915
+ "count": 801,
+ "updated_at": 1789868075
 }
