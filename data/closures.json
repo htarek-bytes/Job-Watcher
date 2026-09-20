@@ -2,41 +2,6 @@
  "closed": [
   {
    "closed_at": 1789574003,
-   "company": "Gameloft",
-   "hours_open": 122.2,
-   "title": "developer, software",
-   "uid": "jobbank:junior programmer:50265243"
-  },
-  {
-   "closed_at": 1789574003,
-   "company": "cscgeneration-2",
-   "hours_open": 228.8,
-   "title": "AI Solutions Engineer",
-   "uid": "lever:cscgeneration-2:a8647279-15ac-4658-bf5a-8172c4432c78"
-  },
-  {
-   "closed_at": 1789574003,
-   "company": "Amazon",
-   "hours_open": 165.2,
-   "title": "Software Dev Engineer, Supply Chain Security, AWS Hardware Supply Chain Security",
-   "uid": "amazon:amazon:10534694"
-  },
-  {
-   "closed_at": 1789574003,
-   "company": "spacex",
-   "hours_open": 308.0,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1789574003,
-   "company": "RTX",
-   "hours_open": 27.8,
-   "title": "Software Engineer 1",
-   "uid": "simplify:listings:bd56c51a-aae8-4121-98f4-cd683c6c4a85"
-  },
-  {
-   "closed_at": 1789574003,
    "company": "systemstechnologyresearch",
    "hours_open": 190.7,
    "title": "Autonomy Algorithms Software Engineer",
@@ -5599,8 +5564,43 @@
    "hours_open": 405.8,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1789915992,
+   "company": "twitch",
+   "hours_open": 403.0,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1789915992,
+   "company": "Groupe Mario Coté",
+   "hours_open": 213.6,
+   "title": "Administrateur de réseau",
+   "uid": "jobillico:analyste reseau:17520153"
+  },
+  {
+   "closed_at": 1789915992,
+   "company": "Valsoft Corporation",
+   "hours_open": 51.8,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50313403"
+  },
+  {
+   "closed_at": 1789915992,
+   "company": "systemstechnologyresearch",
+   "hours_open": 398.9,
+   "title": "Autonomy Algorithms Software Engineer",
+   "uid": "greenhouse:systemstechnologyresearch:4704682006"
+  },
+  {
+   "closed_at": 1789915992,
+   "company": "spacex",
+   "hours_open": 404.2,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
  "count": 805,
- "updated_at": 1789915586
+ "updated_at": 1789915993
 }
