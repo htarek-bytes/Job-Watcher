@@ -4,13 +4,6 @@
    "closed_at": 1789559505,
    "company": "micron",
    "hours_open": 135.1,
-   "title": "New College Grad - Process Integration Engineer",
-   "uid": "workday:micron.wd1/External:Process-Integration-Engineer_JR102569"
-  },
-  {
-   "closed_at": 1789559505,
-   "company": "micron",
-   "hours_open": 135.1,
    "title": "New College Grad - Ram Quality Engineer",
    "uid": "workday:micron.wd1/External:New-College-Grad---Ram-Quality-Engineer_JR110448"
   },
@@ -5599,8 +5592,15 @@
    "hours_open": 204.9,
    "title": "Administrateur de réseau",
    "uid": "jobillico:analyste reseau:17520153"
+  },
+  {
+   "closed_at": 1789885070,
+   "company": "Valsoft Corporation",
+   "hours_open": 43.2,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50313403"
   }
  ],
- "count": 814,
- "updated_at": 1789884487
+ "count": 801,
+ "updated_at": 1789885071
 }
