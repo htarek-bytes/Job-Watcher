@@ -1,20 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789583204,
-   "company": "Arista Networks",
-   "hours_open": 193.3,
-   "title": "Network Systems Engineer (Pre-Sales) - NYC",
-   "uid": "smartrecruiters:AristaNetworks:744000143561439"
-  },
-  {
-   "closed_at": 1789583204,
-   "company": "Arista Networks",
-   "hours_open": 193.3,
-   "title": "Network Systems Engineer (Pre-Sales)",
-   "uid": "smartrecruiters:AristaNetworks:744000141514964"
-  },
-  {
    "closed_at": 1789583487,
    "company": "NielsenIQ",
    "hours_open": 23.4,
@@ -5599,8 +5585,22 @@
    "hours_open": 58.0,
    "title": "software developer",
    "uid": "jobbank:junior software developer:50313403"
+  },
+  {
+   "closed_at": 1789939021,
+   "company": "field-ai",
+   "hours_open": 409.4,
+   "title": "Industrial Design & HRI Engineer, Robotics Hardware",
+   "uid": "lever:field-ai:1dd44b9b-e855-4bbc-b6a1-0c36d3954948"
+  },
+  {
+   "closed_at": 1789939021,
+   "company": "Valsoft Corporation",
+   "hours_open": 36.3,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50320295"
   }
  ],
- "count": 801,
- "updated_at": 1789938408
+ "count": 802,
+ "updated_at": 1789939021
 }
