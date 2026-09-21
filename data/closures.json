@@ -2,20 +2,6 @@
  "closed": [
   {
    "closed_at": 1789602602,
-   "company": "YO AI Labs",
-   "hours_open": 42.0,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50289053"
-  },
-  {
-   "closed_at": 1789602602,
-   "company": "kustomer",
-   "hours_open": 190.0,
-   "title": "Software Engineer, Full Stack (Early Career)",
-   "uid": "ashby:kustomer:4037272a-7fd3-4040-906b-47fde875a817"
-  },
-  {
-   "closed_at": 1789602602,
    "company": "kustomer",
    "hours_open": 190.0,
    "title": "Tech Ops Systems Engineer/ SysAdmin (Mac)",
@@ -5599,8 +5585,22 @@
    "hours_open": 425.9,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1789988563,
+   "company": "aep",
+   "hours_open": 47.4,
+   "title": "Real Time Operations Solutions Engineer Princi (Energy Management System)",
+   "uid": "workday:aep.wd1/AEPCareerSite:Real-Time-Operations-Solutions-Engineer-Principal--Lead_R15926"
+  },
+  {
+   "closed_at": 1789988563,
+   "company": "Valsoft Corporation",
+   "hours_open": 50.0,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50320295"
   }
  ],
- "count": 807,
- "updated_at": 1789987997
+ "count": 802,
+ "updated_at": 1789988563
 }
