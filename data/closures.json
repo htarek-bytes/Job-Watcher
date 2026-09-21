@@ -1,83 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789609910,
-   "company": "twitch",
-   "hours_open": 318.0,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1789609910,
-   "company": "YO AI Labs",
-   "hours_open": 44.0,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50289053"
-  },
-  {
-   "closed_at": 1789609910,
-   "company": "Valsoft Corporation",
-   "hours_open": 0.1,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50300619"
-  },
-  {
-   "closed_at": 1789609910,
-   "company": "spacex",
-   "hours_open": 318.0,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1789609910,
-   "company": "spacex",
-   "hours_open": 320.6,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1789609910,
-   "company": "spacex",
-   "hours_open": 320.9,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1789609910,
-   "company": "Astra North Infoteck Inc.",
-   "hours_open": 20.5,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:systems analyst:50297183"
-  },
-  {
-   "closed_at": 1789622931,
-   "company": "YO AI Labs",
-   "hours_open": 10.1,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50298491"
-  },
-  {
-   "closed_at": 1789622931,
-   "company": "Arora Enterprise Inc",
-   "hours_open": 129.6,
-   "title": "Web developer",
-   "uid": "jobbank:developpeur junior:50266457"
-  },
-  {
-   "closed_at": 1789622931,
-   "company": "Maarut",
-   "hours_open": 163.7,
-   "title": "software developer",
-   "uid": "jobbank:junior programmer:50256826"
-  },
-  {
-   "closed_at": 1789622931,
-   "company": "Valsoft Corporation",
-   "hours_open": 24.5,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50296955"
-  },
-  {
    "closed_at": 1789622931,
    "company": "Amazon",
    "hours_open": 7.2,
@@ -5599,8 +5522,85 @@
    "hours_open": 429.3,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1790008827,
+   "company": "samsara",
+   "hours_open": 311.5,
+   "title": "IT Specialist",
+   "uid": "greenhouse:samsara:8154440"
+  },
+  {
+   "closed_at": 1790008827,
+   "company": "ngc",
+   "hours_open": 70.9,
+   "title": "2027 Intern Tooling Engineer",
+   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Intern-Tooling-Engineer_R10251728"
+  },
+  {
+   "closed_at": 1790008827,
+   "company": "Scarborough Rehabilitation Clinic Inc.",
+   "hours_open": 140.7,
+   "title": "cloud administrator",
+   "uid": "jobbank:cloud administrator:50287141"
+  },
+  {
+   "closed_at": 1790008827,
+   "company": "District of Saanich",
+   "hours_open": 311.5,
+   "title": "geographic information systems (gis) analyst",
+   "uid": "jobbank:information systems analyst:50223741"
+  },
+  {
+   "closed_at": 1790008827,
+   "company": "nwis",
+   "hours_open": 453.1,
+   "title": "Software Engineer I",
+   "uid": "workday:nwis.wd12/NW:Software-Engineer-I_JR101958"
+  },
+  {
+   "closed_at": 1790008827,
+   "company": "Amazon",
+   "hours_open": 165.6,
+   "title": "Software Development Engineer, S3 Request Processing, S3 - Simple Storage Service",
+   "uid": "amazon:amazon:10539035"
+  },
+  {
+   "closed_at": 1790008827,
+   "company": "twitch",
+   "hours_open": 428.8,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1790008827,
+   "company": "andurilindustries",
+   "hours_open": 430.0,
+   "title": "Systems Engineer, Air Defense",
+   "uid": "greenhouse:andurilindustries:4843950007"
+  },
+  {
+   "closed_at": 1790008827,
+   "company": "spacex",
+   "hours_open": 428.8,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1790008827,
+   "company": "spacex",
+   "hours_open": 431.7,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1790008827,
+   "company": "Amazon",
+   "hours_open": 263.2,
+   "title": "Software Development Engineer , Amazon Leo , Amazon Leo Commerce",
+   "uid": "amazon:amazon:10536359"
   }
  ],
- "count": 814,
- "updated_at": 1790006172
+ "count": 811,
+ "updated_at": 1790008827
 }
