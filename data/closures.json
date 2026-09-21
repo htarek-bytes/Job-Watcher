@@ -1,48 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789605624,
-   "company": "Astra North Infoteck Inc.",
-   "hours_open": 19.3,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:systems analyst:50297183"
-  },
-  {
-   "closed_at": 1789606221,
-   "company": "YO AI Labs",
-   "hours_open": 43.0,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50289053"
-  },
-  {
-   "closed_at": 1789606221,
-   "company": "field-ai",
-   "hours_open": 316.9,
-   "title": "Robotics QA/QC Engineer",
-   "uid": "lever:field-ai:8df764f7-7451-4813-a4f3-69277b9fef76"
-  },
-  {
-   "closed_at": 1789606221,
-   "company": "spacex",
-   "hours_open": 316.9,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1789609638,
-   "company": "twitch",
-   "hours_open": 320.8,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1789609638,
-   "company": "YO AI Labs",
-   "hours_open": 6.4,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50298491"
-  },
-  {
    "closed_at": 1789609638,
    "company": "TD Bank",
    "hours_open": 194.1,
@@ -5599,8 +5557,50 @@
    "hours_open": 427.9,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1789996861,
+   "company": "Groupe DCM",
+   "hours_open": 74.3,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534670"
+  },
+  {
+   "closed_at": 1789996861,
+   "company": "cae",
+   "hours_open": 308.2,
+   "title": "C-IT-200 Product Cybersecurity Specialist Intern",
+   "uid": "workday:cae.wd3/career:C-IT-200-Product-Cybersecurity-Specialist-Intern_123542"
+  },
+  {
+   "closed_at": 1789996861,
+   "company": "cadence",
+   "hours_open": 421.4,
+   "title": "Software Engineer  (new college grad Dec 2026)",
+   "uid": "workday:cadence.wd1/Univ_Careers:Software-Engineer---new-college-grad-Dec-2026-_R55738-2"
+  },
+  {
+   "closed_at": 1789996861,
+   "company": "cadence",
+   "hours_open": 452.5,
+   "title": "Adams Application Software Developer  (Recent Grad 2026)",
+   "uid": "workday:cadence.wd1/Univ_Careers:Adams-Application-Software-Developer---Recent-Grad-2026-_R55736-2"
+  },
+  {
+   "closed_at": 1789996861,
+   "company": "cadence",
+   "hours_open": 452.5,
+   "title": "Adams MultiBody Dynamics Application Software Developer (Recent Grad 2026)",
+   "uid": "workday:cadence.wd1/External_Careers:Adams-MultiBody-Dynamics-Application-Software-Developer--Recent-Grad-2026-_R55788"
+  },
+  {
+   "closed_at": 1789996861,
+   "company": "Valsoft Corporation",
+   "hours_open": 52.3,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50320295"
   }
  ],
- "count": 807,
- "updated_at": 1789996229
+ "count": 806,
+ "updated_at": 1789996862
 }

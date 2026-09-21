@@ -1,5 +1,5 @@
 {
- "count": 5478,
+ "count": 5480,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -1731,6 +1731,7 @@
   "greenhouse:lgelectronics:5369133008": 1788460756,
   "greenhouse:lgelectronics:5394128008": 1788460756,
   "greenhouse:lgelectronics:5406238008": 1788460756,
+  "greenhouse:lgelectronics:5425926008": 1789996861,
   "greenhouse:ludorobotics:8679958002": 1788479777,
   "greenhouse:lush:8143093": 1788454653,
   "greenhouse:lyft:8396751002": 1788454653,
@@ -4889,6 +4890,7 @@
   "workday:cccis.wd1/broadbean_external:Senior-Solutions-Engineer--First-Party-Casualty_0014791": 1789000440,
   "workday:ccf.wd1/ClevelandClinicCareers:New-Grad-RN-Resident---Acute-Care-Telemetry-Unit_341168-1": 1789708733,
   "workday:ccf.wd1/ClevelandClinicCareers:New-Grad-RN-Resident---Med-Surg---Telemetry-Unit_350185": 1789708733,
+  "workday:ccf.wd1/ClevelandClinicCareers:New-Grad-RN-Resident---Stroke-Telemetry_338764-1": 1789996861,
   "workday:ccf.wd1/ClevelandClinicCareers:Software-Developer-I_334982": 1789708733,
   "workday:cdk.wd1/CDK:Associate-Software-Engineer_JR9201-1": 1788368024,
   "workday:cdk.wd1/CDK:Payments-Sales-Engineer_JR9247-1": 1788750148,
@@ -5480,5 +5482,5 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148,
   "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541": 1789106107
  },
- "updated_at": 1789996229
+ "updated_at": 1789996862
 }
