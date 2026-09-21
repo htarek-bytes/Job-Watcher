@@ -4,13 +4,6 @@
    "closed_at": 1789597556,
    "company": "td",
    "hours_open": 8.0,
-   "title": "Mobile Software Engineer Intern/Co-op​ (Winter 2027)",
-   "uid": "workday:td.wd3/TD_Bank_Careers:Mobile-Software-Engineer-Co-op---Intern---Winter-2027-_R_1509825"
-  },
-  {
-   "closed_at": 1789597556,
-   "company": "td",
-   "hours_open": 8.0,
    "title": "2027 Spring Co-op - Global Technology & Solutions - Software Engineer (SWE)",
    "uid": "workday:td.wd3/TD_Bank_Careers:XMLNAME-2027-Spring-Co-op---Global-Technology---Solutions---Software-Engineer--SWE-_R_1509773"
   },
@@ -5599,8 +5592,15 @@
    "hours_open": 420.4,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1789968444,
+   "company": "Valsoft Corporation",
+   "hours_open": 66.4,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50313403"
   }
  ],
- "count": 806,
- "updated_at": 1789968184
+ "count": 801,
+ "updated_at": 1789968444
 }
