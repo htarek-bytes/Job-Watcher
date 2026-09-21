@@ -1,118 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789640814,
-   "company": "twitch",
-   "hours_open": 329.5,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1789640814,
-   "company": "navcanada",
-   "hours_open": 190.7,
-   "title": "Cloud Infrastructure Analyst",
-   "uid": "workday:navcanada.wd10/NAV_Careers:Cloud-Infrastructure-Analyst_JR-8264"
-  },
-  {
-   "closed_at": 1789640814,
-   "company": "Valsoft Corporation",
-   "hours_open": 29.5,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50296955"
-  },
-  {
-   "closed_at": 1789640814,
-   "company": "marvell",
-   "hours_open": 299.2,
-   "title": "Physical Design Engineer Intern, BS - Summer 2027",
-   "uid": "workday:marvell.wd1/MarvellCareers:Physical-Design-Engineer-Intern--BS---Summer-2027_2604517-1"
-  },
-  {
-   "closed_at": 1789640814,
-   "company": "nvidia",
-   "hours_open": 35.4,
-   "title": "ASIC Design Verification Engineer - New College Grad 2026",
-   "uid": "workday:nvidia.wd5/NVIDIAExternalCareerSite:ASIC-Design-Verification-Engineer---New-College-Grad-2026_JR2010391"
-  },
-  {
-   "closed_at": 1789640814,
-   "company": "kbr",
-   "hours_open": 350.8,
-   "title": "Junior Software Engineer",
-   "uid": "workday:kbr.wd5/kbr_careers:Junior-Software-Engineer_R2122294"
-  },
-  {
-   "closed_at": 1789640814,
-   "company": "spacex",
-   "hours_open": 329.2,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1789646979,
-   "company": "RELX",
-   "hours_open": 10.4,
-   "title": "Software Engineer 1",
-   "uid": "simplify:listings:a9b9d8ee-e94d-4b1f-a542-48d5507be8ef"
-  },
-  {
-   "closed_at": 1789646979,
-   "company": "Daimler Truck",
-   "hours_open": 151.3,
-   "title": "Integration and Coordination Engineer 1",
-   "uid": "simplify:listings:c010600b-5c7e-4cc2-a27e-72fd2b3c75b8"
-  },
-  {
-   "closed_at": 1789646979,
-   "company": "pae",
-   "hours_open": 37.2,
-   "title": "Storage Solutions Engineer IRES - SSFB",
-   "uid": "workday:pae.wd1/amentum_careers:Storage-Solutions-Engineer-IRES---SSFB_R0170571"
-  },
-  {
-   "closed_at": 1789646979,
-   "company": "The Boeing Company",
-   "hours_open": 133.3,
-   "title": "Entry Level Simulation Software Engineer",
-   "uid": "simplify:listings:bf70e269-0f0c-4ba6-9c6d-ba877510df63"
-  },
-  {
-   "closed_at": 1789647197,
-   "company": "td",
-   "hours_open": 223.2,
-   "title": "2027 Summer Analyst - Software Engineering Rotational Program (Toronto)",
-   "uid": "workday:td.wd3/TD_Bank_Careers:XMLNAME-2027-Summer-Analyst---Software-Engineering-Rotational-Program--Toronto-_R_1509435"
-  },
-  {
-   "closed_at": 1789647197,
-   "company": "thermofisher",
-   "hours_open": 35.9,
-   "title": "Field Service Engineer I",
-   "uid": "workday:thermofisher.wd5/ThermoFisherCareers:Field-Service-Engineer-I_R-01365782"
-  },
-  {
-   "closed_at": 1789647197,
-   "company": "thermofisher",
-   "hours_open": 35.9,
-   "title": "Sales Engineer (m/f/d) Quality Control / Gauging",
-   "uid": "workday:thermofisher.wd5/ThermoFisherCareers:Sales-Engineer--m-f-d--Quality-Control---Gauging_R-01361891"
-  },
-  {
-   "closed_at": 1789647197,
-   "company": "synnex",
-   "hours_open": 352.6,
-   "title": "BMC Firmware Assistant Engineer (New College Grad)",
-   "uid": "workday:synnex.wd5/hyvecareers:BMC-Firmware-Assistant-Engineer---New-Graduate_R54988"
-  },
-  {
-   "closed_at": 1789647919,
-   "company": "spacex",
-   "hours_open": 331.5,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
    "closed_at": 1789657828,
    "company": "d2l",
    "hours_open": 191.8,
@@ -5599,8 +5487,120 @@
    "hours_open": 2.2,
    "title": "Systems Engineer, Air Defense ",
    "uid": "greenhouse:andurilindustries:5242787007"
+  },
+  {
+   "closed_at": 1790021842,
+   "company": "singlestore",
+   "hours_open": 1.4,
+   "title": "MIT- Software Engineer Intern |Helios|",
+   "uid": "greenhouse:singlestore:8220948"
+  },
+  {
+   "closed_at": 1790021842,
+   "company": "relativity",
+   "hours_open": 47.1,
+   "title": "Software Engineer I",
+   "uid": "greenhouse:relativity:8747134002"
+  },
+  {
+   "closed_at": 1790021842,
+   "company": "oneimaging",
+   "hours_open": 234.9,
+   "title": "Full Stack Associate Software Engineer (UF Only)",
+   "uid": "greenhouse:oneimaging:4403125009"
+  },
+  {
+   "closed_at": 1790021842,
+   "company": "oneimaging",
+   "hours_open": 234.9,
+   "title": "Full Stack Associate Software Engineer (Georgia Tech Only)",
+   "uid": "greenhouse:oneimaging:4403115009"
+  },
+  {
+   "closed_at": 1790021842,
+   "company": "openloophealth",
+   "hours_open": 315.1,
+   "title": "Financial Systems Administrator",
+   "uid": "ashby:openloophealth:89b9ca2d-0fec-4402-bd8d-517bf2954210"
+  },
+  {
+   "closed_at": 1790021842,
+   "company": "xai",
+   "hours_open": 423.4,
+   "title": "Mechanical Commissioning Engineer - Memphis",
+   "uid": "greenhouse:xai:5226371007"
+  },
+  {
+   "closed_at": 1790021842,
+   "company": "Amazon",
+   "hours_open": 118.0,
+   "title": "Software Development Engineer, Tax and Account Compliance Tech",
+   "uid": "amazon:amazon:10550363"
+  },
+  {
+   "closed_at": 1790021842,
+   "company": "twitch",
+   "hours_open": 432.4,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1790021842,
+   "company": "samsara",
+   "hours_open": 435.3,
+   "title": "AV Events Engineer",
+   "uid": "greenhouse:samsara:8129501"
+  },
+  {
+   "closed_at": 1790021842,
+   "company": "tulip",
+   "hours_open": 435.3,
+   "title": "Software Engineer, Edge",
+   "uid": "greenhouse:tulip:7748615003"
+  },
+  {
+   "closed_at": 1790021842,
+   "company": "andurilindustries",
+   "hours_open": 433.6,
+   "title": "Systems Engineer, Air Defense",
+   "uid": "greenhouse:andurilindustries:4843950007"
+  },
+  {
+   "closed_at": 1790021842,
+   "company": "rocketlab",
+   "hours_open": 239.6,
+   "title": "Spacecraft Propulsion Components Engineer I",
+   "uid": "greenhouse:rocketlab:7993154003"
+  },
+  {
+   "closed_at": 1790021842,
+   "company": "andurilindustries",
+   "hours_open": 433.6,
+   "title": "Hardware Test Engineer",
+   "uid": "greenhouse:andurilindustries:5226711007"
+  },
+  {
+   "closed_at": 1790021842,
+   "company": "andurilindustries",
+   "hours_open": 167.8,
+   "title": "Electrical Test Engineer",
+   "uid": "greenhouse:andurilindustries:5237987007"
+  },
+  {
+   "closed_at": 1790021842,
+   "company": "darkwolfsolutions",
+   "hours_open": 435.3,
+   "title": "Front End Developer",
+   "uid": "greenhouse:darkwolfsolutions:7837196003"
+  },
+  {
+   "closed_at": 1790021842,
+   "company": "voyagertechnologiesinc",
+   "hours_open": 435.3,
+   "title": "Accelerated Physics Simulation Engineer – Agentic Computational Engineering (ACE)",
+   "uid": "greenhouse:voyagertechnologiesinc:4079284009"
   }
  ],
- "count": 819,
- "updated_at": 1790016713
+ "count": 816,
+ "updated_at": 1790021843
 }
