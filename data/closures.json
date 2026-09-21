@@ -1,48 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789596999,
-   "company": "ngc",
-   "hours_open": 23.3,
-   "title": "2027 Cyber Software Engineer Intern - Cincinnati OH",
-   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Cyber-Software-Engineer-Intern---Cincinnati-OH_R10249186"
-  },
-  {
-   "closed_at": 1789596999,
-   "company": "ngc",
-   "hours_open": 145.2,
-   "title": "2027 Spring Co-op Cyber Software Engineer Intern - Cincinnati OH",
-   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Spring-Co-op-Cyber-Software-Engineer-Intern---Cincinnati-OH_R10250275-1"
-  },
-  {
-   "closed_at": 1789596999,
-   "company": "Forward Insurance Managers Ltd.",
-   "hours_open": 335.2,
-   "title": "Web programmer",
-   "uid": "jobbank:junior programmer:50129971"
-  },
-  {
-   "closed_at": 1789596999,
-   "company": "VIZDOM TECH ALBERTA LTD.",
-   "hours_open": 197.1,
-   "title": "network administrator",
-   "uid": "jobbank:network administrator:49542881"
-  },
-  {
-   "closed_at": 1789596999,
-   "company": "spacex",
-   "hours_open": 314.4,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1789596999,
-   "company": "spacex",
-   "hours_open": 317.0,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
    "closed_at": 1789597556,
    "company": "td",
    "hours_open": 8.0,
@@ -5599,8 +5557,50 @@
    "hours_open": 418.5,
    "title": "Software Engineer, Continuous Integration (Starship)",
    "uid": "greenhouse:spacex:8533859002"
+  },
+  {
+   "closed_at": 1789968184,
+   "company": "Amazon",
+   "hours_open": 84.2,
+   "title": "Software Development Engineer, AWS Partnerships",
+   "uid": "amazon:amazon:10552237"
+  },
+  {
+   "closed_at": 1789968184,
+   "company": "instabase",
+   "hours_open": 263.4,
+   "title": "Software Engineer - Agent Harness",
+   "uid": "greenhouse:instabase:8635719002"
+  },
+  {
+   "closed_at": 1789968184,
+   "company": "Alt Informatique",
+   "hours_open": 72.5,
+   "title": "Technicien informatique junior",
+   "uid": "jobillico:technicien informatique:17381391"
+  },
+  {
+   "closed_at": 1789968184,
+   "company": "CarePartners",
+   "hours_open": 2.0,
+   "title": "network administrator",
+   "uid": "jobbank:network administrator:50328930"
+  },
+  {
+   "closed_at": 1789968184,
+   "company": "spacex",
+   "hours_open": 420.4,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1789968184,
+   "company": "spacex",
+   "hours_open": 420.4,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 809,
- "updated_at": 1789961093
+ "count": 806,
+ "updated_at": 1789968184
 }
