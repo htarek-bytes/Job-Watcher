@@ -2,20 +2,6 @@
  "closed": [
   {
    "closed_at": 1789657828,
-   "company": "d2l",
-   "hours_open": 191.8,
-   "title": "Test Developer- Winter 2027 Co-op",
-   "uid": "greenhouse:d2l:8174477"
-  },
-  {
-   "closed_at": 1789657828,
-   "company": "d2l",
-   "hours_open": 191.8,
-   "title": "Software Developer - Winter 2027 Co-op",
-   "uid": "greenhouse:d2l:8174229"
-  },
-  {
-   "closed_at": 1789657828,
    "company": "YO AI Labs",
    "hours_open": 57.3,
    "title": "software developer",
@@ -5599,8 +5585,22 @@
    "hours_open": 435.3,
    "title": "Accelerated Physics Simulation Engineer – Agentic Computational Engineering (ACE)",
    "uid": "greenhouse:voyagertechnologiesinc:4079284009"
+  },
+  {
+   "closed_at": 1790023009,
+   "company": "nexthopai",
+   "hours_open": 163.7,
+   "title": "Software Engineer - Intern",
+   "uid": "bamboohr:nexthopai:64"
+  },
+  {
+   "closed_at": 1790023009,
+   "company": "Amazon",
+   "hours_open": 122.3,
+   "title": "Software Development Engineer, Humorphic Labs",
+   "uid": "amazon:amazon:10547103"
   }
  ],
- "count": 816,
- "updated_at": 1790021843
+ "count": 802,
+ "updated_at": 1790023010
 }
