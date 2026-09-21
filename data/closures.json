@@ -1,55 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789602602,
-   "company": "kustomer",
-   "hours_open": 190.0,
-   "title": "Tech Ops Systems Engineer/ SysAdmin (Mac)",
-   "uid": "ashby:kustomer:61dcb217-b513-4020-8eb8-211b0336c3db"
-  },
-  {
-   "closed_at": 1789602602,
-   "company": "spacex",
-   "hours_open": 318.9,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1789602704,
-   "company": "YO AI Labs",
-   "hours_open": 42.0,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50289053"
-  },
-  {
-   "closed_at": 1789602704,
-   "company": "kustomer",
-   "hours_open": 190.0,
-   "title": "Software Engineer, Full Stack (Early Career)",
-   "uid": "ashby:kustomer:4037272a-7fd3-4040-906b-47fde875a817"
-  },
-  {
-   "closed_at": 1789602704,
-   "company": "kustomer",
-   "hours_open": 190.0,
-   "title": "Tech Ops Systems Engineer/ SysAdmin (Mac)",
-   "uid": "ashby:kustomer:61dcb217-b513-4020-8eb8-211b0336c3db"
-  },
-  {
-   "closed_at": 1789602704,
-   "company": "spacex",
-   "hours_open": 318.9,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1789605624,
-   "company": "YO AI Labs",
-   "hours_open": 5.3,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50298491"
-  },
-  {
    "closed_at": 1789605624,
    "company": "Astra North Infoteck Inc.",
    "hours_open": 19.3,
@@ -5599,8 +5550,57 @@
    "hours_open": 50.0,
    "title": "software developer",
    "uid": "jobbank:junior software developer:50320295"
+  },
+  {
+   "closed_at": 1789996228,
+   "company": "Penticton & District Hospice Society",
+   "hours_open": 62.7,
+   "title": "cloud administrator",
+   "uid": "jobbank:cloud administrator:50318092"
+  },
+  {
+   "closed_at": 1789996228,
+   "company": "bmo",
+   "hours_open": 308.0,
+   "title": "AI/Platform Analyst, Winter 2027 (Co-op/Internship) - 8 months",
+   "uid": "workday:bmo.wd3/Campus:AI-Platform-Analyst--8-months--Co-op-Internship----8-months_R260026129-3"
+  },
+  {
+   "closed_at": 1789996228,
+   "company": "Source Code",
+   "hours_open": 151.3,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:systems analyst:50288780"
+  },
+  {
+   "closed_at": 1789996228,
+   "company": "Groupe DCM",
+   "hours_open": 80.2,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534679"
+  },
+  {
+   "closed_at": 1789996228,
+   "company": "barr",
+   "hours_open": 161.8,
+   "title": "Internship – Water Resources Engineer (Hybrid)",
+   "uid": "workday:barr.wd1/barrcareers:Internship---Water-Resources-Engineer--Hybrid-_R-102304"
+  },
+  {
+   "closed_at": 1789996228,
+   "company": "Valsoft Corporation",
+   "hours_open": 74.1,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50313403"
+  },
+  {
+   "closed_at": 1789996228,
+   "company": "spacex",
+   "hours_open": 427.9,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
   }
  ],
- "count": 802,
- "updated_at": 1789988563
+ "count": 807,
+ "updated_at": 1789996229
 }
