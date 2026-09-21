@@ -1,76 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789587978,
-   "company": "andurilindustries",
-   "hours_open": 313.1,
-   "title": "Software Engineer, C++",
-   "uid": "greenhouse:andurilindustries:5226943007"
-  },
-  {
-   "closed_at": 1789594041,
-   "company": "robinhood",
-   "hours_open": 190.6,
-   "title": "Web Developer ",
-   "uid": "greenhouse:robinhood:7543005"
-  },
-  {
-   "closed_at": 1789594041,
-   "company": "twitch",
-   "hours_open": 313.6,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1789594041,
-   "company": "bmo",
-   "hours_open": 196.1,
-   "title": "AI/Platform Analyst, 8 months (Co-op/Internship) - 8 months",
-   "uid": "workday:bmo.wd3/External:AI-Platform-Analyst--8-months--Co-op-Internship----8-months_R260026129-2"
-  },
-  {
-   "closed_at": 1789594041,
-   "company": "boeing",
-   "hours_open": 23.3,
-   "title": "Entry Level Command and Data Handling Network Engineer (Autonomous Navigation Systems)",
-   "uid": "workday:boeing.wd1/external_subsidiary:Command-and-Data-Handling-Network--Autonomous-Navigation-Systems-_JR2026523750"
-  },
-  {
-   "closed_at": 1789594041,
-   "company": "tebra",
-   "hours_open": 316.5,
-   "title": "Systems Analyst, Customer Operations",
-   "uid": "greenhouse:tebra:4700296005"
-  },
-  {
-   "closed_at": 1789594041,
-   "company": "ramp",
-   "hours_open": 234.4,
-   "title": "Solutions Consultant, Post Sales, Mid-Market",
-   "uid": "ashby:ramp:492823d8-9651-46cf-9d33-a632ef706879"
-  },
-  {
-   "closed_at": 1789594041,
-   "company": "cadence",
-   "hours_open": 340.6,
-   "title": "Adams Application Software Developer  (Recent Grad 2026)",
-   "uid": "workday:cadence.wd1/Univ_Careers:Adams-Application-Software-Developer---Recent-Grad-2026-_R55736-2"
-  },
-  {
-   "closed_at": 1789594041,
-   "company": "Insperity",
-   "hours_open": 353.1,
-   "title": "Artificial Intelligence Engineer 1",
-   "uid": "simplify:listings:a4ec4437-993b-4274-81e5-0ced8ce54e02"
-  },
-  {
-   "closed_at": 1789594041,
-   "company": "Kustomer",
-   "hours_open": 189.8,
-   "title": "Software Engineer – Early Career - Full Stack",
-   "uid": "simplify:listings:67fa641a-072c-4739-8ce6-46b35fd111a5"
-  },
-  {
    "closed_at": 1789594041,
    "company": "woolpert",
    "hours_open": 304.5,
@@ -5599,8 +5529,78 @@
    "hours_open": 414.7,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1789950743,
+   "company": "globalhr",
+   "hours_open": 54.9,
+   "title": "Digital Hardware Design Engineer Co-op (Summer/Fall 2027)(Onsite)",
+   "uid": "workday:globalhr.wd5/rec_rtx_ext_gateway:Digital-Hardware-Design-Engineer-Co-op--Summer-Fall-2027--Onsite-_01871519"
+  },
+  {
+   "closed_at": 1789950743,
+   "company": "globalhr",
+   "hours_open": 54.9,
+   "title": "Digital Hardware Design Engineer Co-op (Winter/Spring)(Onsite)",
+   "uid": "workday:globalhr.wd5/rec_rtx_ext_gateway:Digital-Hardware-Design-Engineer-Co-op--Spring-Summer-_01871518-1"
+  },
+  {
+   "closed_at": 1789950743,
+   "company": "intel",
+   "hours_open": 252.7,
+   "title": "Operations Research Engineer Intern",
+   "uid": "workday:intel.wd1/external:Operations-Research-Engineer-Intern_JR0286945"
+  },
+  {
+   "closed_at": 1789950743,
+   "company": "globalhr",
+   "hours_open": 47.9,
+   "title": "Software Engineering Intern (Summer 2027)",
+   "uid": "workday:globalhr.wd5/rec_rtx_ext_gateway:Software-Engineering-Intern--Summer-2027-_01875780"
+  },
+  {
+   "closed_at": 1789950743,
+   "company": "twitch",
+   "hours_open": 415.6,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1789950743,
+   "company": "Valsoft Corporation",
+   "hours_open": 61.5,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50313403"
+  },
+  {
+   "closed_at": 1789950743,
+   "company": "kla",
+   "hours_open": 163.4,
+   "title": "Software Engineering Intern",
+   "uid": "workday:kla.wd1/annarbor:Software-Engineering-Intern_2531653"
+  },
+  {
+   "closed_at": 1789950743,
+   "company": "NVIDIA",
+   "hours_open": 452.2,
+   "title": "Applied Machine Learning Engineer – New College Grad 2026 - Circuit Design",
+   "uid": "simplify:listings:2184ba51-9029-4b0d-956c-e66d880ffe74"
+  },
+  {
+   "closed_at": 1789950743,
+   "company": "spacex",
+   "hours_open": 412.6,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1789950743,
+   "company": "systemstechnologyresearch",
+   "hours_open": 295.4,
+   "title": "Autonomy Algorithms Software Engineer",
+   "uid": "greenhouse:systemstechnologyresearch:4704680006"
   }
  ],
- "count": 804,
- "updated_at": 1789948561
+ "count": 810,
+ "updated_at": 1789950743
 }
