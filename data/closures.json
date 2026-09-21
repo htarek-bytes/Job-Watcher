@@ -1,48 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789622931,
-   "company": "Amazon",
-   "hours_open": 7.2,
-   "title": "Software Development Engineer",
-   "uid": "amazon:amazon:10550409"
-  },
-  {
-   "closed_at": 1789622931,
-   "company": "Amazon",
-   "hours_open": 178.1,
-   "title": "Software Development Engineer -Control Plane, AWS Scalable Intent Driven Routing (SIDR)",
-   "uid": "amazon:amazon:10535019"
-  },
-  {
-   "closed_at": 1789622931,
-   "company": "Amazon",
-   "hours_open": 179.6,
-   "title": "Software Development Engineer, AWS CloudWatch OpenTelemetry",
-   "uid": "amazon:amazon:10534632"
-  },
-  {
-   "closed_at": 1789622931,
-   "company": "Centre d'amitié autochtone de Val-d'Or inc.",
-   "hours_open": 204.3,
-   "title": "Technicien informatique",
-   "uid": "jobillico:technicien informatique:17451279"
-  },
-  {
-   "closed_at": 1789622931,
-   "company": "spacex",
-   "hours_open": 324.5,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1789623410,
-   "company": "twitch",
-   "hours_open": 324.7,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
    "closed_at": 1789623410,
    "company": "YO AI Labs",
    "hours_open": 47.7,
@@ -5599,8 +5557,50 @@
    "hours_open": 263.2,
    "title": "Software Development Engineer , Amazon Leo , Amazon Leo Commerce",
    "uid": "amazon:amazon:10536359"
+  },
+  {
+   "closed_at": 1790010082,
+   "company": "xai",
+   "hours_open": 420.1,
+   "title": "Mechanical Commissioning Engineer - Memphis",
+   "uid": "greenhouse:xai:5226371007"
+  },
+  {
+   "closed_at": 1790010082,
+   "company": "Valsoft Corporation",
+   "hours_open": 77.9,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50313403"
+  },
+  {
+   "closed_at": 1790010082,
+   "company": "tulip",
+   "hours_open": 432.1,
+   "title": "Software Engineer, Edge",
+   "uid": "greenhouse:tulip:7748615003"
+  },
+  {
+   "closed_at": 1790010082,
+   "company": "Source Code",
+   "hours_open": 10.4,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:control systems analyst:50318451"
+  },
+  {
+   "closed_at": 1790010082,
+   "company": "darkwolfsolutions",
+   "hours_open": 432.1,
+   "title": "Front End Developer",
+   "uid": "greenhouse:darkwolfsolutions:7837196003"
+  },
+  {
+   "closed_at": 1790010082,
+   "company": "voyagertechnologiesinc",
+   "hours_open": 432.1,
+   "title": "Accelerated Physics Simulation Engineer – Agentic Computational Engineering (ACE)",
+   "uid": "greenhouse:voyagertechnologiesinc:4079284009"
   }
  ],
- "count": 811,
- "updated_at": 1790008827
+ "count": 806,
+ "updated_at": 1790010083
 }

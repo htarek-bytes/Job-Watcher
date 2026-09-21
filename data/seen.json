@@ -1,5 +1,5 @@
 {
- "count": 5499,
+ "count": 5506,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -1462,6 +1462,7 @@
   "greenhouse:darkwolfsolutions:7986712003": 1788541050,
   "greenhouse:darkwolfsolutions:7991157003": 1789048465,
   "greenhouse:darkwolfsolutions:7997573003": 1789682887,
+  "greenhouse:darkwolfsolutions:8001074003": 1790010082,
   "greenhouse:databricks:8012650002": 1788454653,
   "greenhouse:databricks:8012691002": 1788454653,
   "greenhouse:databricks:8732364002": 1788410216,
@@ -5314,13 +5315,16 @@
   "workday:oshkoshcorporation.wd5/Oshkosh:Engineer-Intern---Manufacturing--Summer-2027-_R49737": 1788442554,
   "workday:oshkoshcorporation.wd5/Oshkosh:Engineer-Intern---Mechanical--Summer-2027-_R49741": 1788442554,
   "workday:oshkoshcorporation.wd5/Oshkosh:Engineer-Intern---Mechanical--Summer-2027-_R49821": 1788442554,
+  "workday:oshkoshcorporation.wd5/Oshkosh:Engineer-Intern---Mechanical--Summer-2027-_R50502": 1790010082,
   "workday:oshkoshcorporation.wd5/Oshkosh:Engineer-Intern---Software--Summer-2026-_R49786": 1788442554,
   "workday:oshkoshcorporation.wd5/Oshkosh:Robotics-Programming-Engineer-Intern_R49597": 1789425451,
   "workday:oshkoshcorporation.wd5/Oshkosh:Software-Engineer-Intern---Summer-2027_R50321": 1789425451,
   "workday:oshkoshcorporation.wd5/Oshkosh:Software-Engineering-Intern_R49493": 1789513197,
+  "workday:pae.wd1/amentum_careers:Aeronautical-Engineer-I_R0171069": 1790010082,
   "workday:pae.wd1/amentum_careers:C-or-C---Junior-Developer_R0165501": 1788377835,
   "workday:pae.wd1/amentum_careers:Controls---Instrumentation-Engineer-Intern_R0169793": 1788470575,
   "workday:pae.wd1/amentum_careers:Engineer-1_R0169894": 1788890289,
+  "workday:pae.wd1/amentum_careers:Engineer-1_R0171106": 1790010082,
   "workday:pae.wd1/amentum_careers:Entry-Level-Software-Engineer_R0148259": 1789102951,
   "workday:pae.wd1/amentum_careers:Job-Posting-Title-Junior-Naval-Systems-Security-Engineer_R0170950": 1789683100,
   "workday:pae.wd1/amentum_careers:Software-Engineering-Intern_R0169322": 1788442554,
@@ -5345,6 +5349,7 @@
   "workday:pros.wd5/pros_careers:Software-Engineer-I_R3608": 1789559826,
   "workday:psu.wd1/PSU_Staff:Cybersecurity-Assurance-Intern_REQ_0000081843-1": 1788442554,
   "workday:psu.wd1/PSU_Staff:Research-and-Development-Engineer-Intern_REQ_0000082128": 1788442554,
+  "workday:pwc.wd3/Global_Campus_Careers:Junior-Power-Apps-Developer_763454WD": 1790010082,
   "workday:pwc.wd3/Global_Campus_Careers:Power-Automate-Developer--Junior-Middle-_755171WD": 1788377835,
   "workday:pwc.wd3/US_Entry_Level_Careers:Tax-Innovation-Delivery-Experience--TIDE----Software-Engineering---Intern---Summer-2027_756410WD": 1788442554,
   "workday:pwc.wd3/US_Entry_Level_Careers:Technology-Consulting---Geographic-Information-Systems-Intern---Summer-2027_757257WD": 1788887337,
@@ -5371,6 +5376,7 @@
   "workday:saabusa.wd1/saab_careers:Software-Engineering-Co-Op--Spring---Summer-2027-_R-03240-1": 1788550448,
   "workday:saabusa.wd1/saab_careers:Software-Engineering-Co-Op--Summer-2027-_R-03237-1": 1788474010,
   "workday:salesforce.wd12/External_Career_Site:Account-Solution-Engineer--Higher-Education_JR359265": 1789425451,
+  "workday:salesforce.wd12/External_Career_Site:Account-Solution-Engineer_JR360701": 1790010082,
   "workday:salesforce.wd12/External_Career_Site:Business-Development-Associate_JR347430-1": 1789517822,
   "workday:salesforce.wd12/External_Career_Site:Solution-Engineer--Pre-Sales----Informatica_JR331878": 1788984410,
   "workday:salesforce.wd12/External_Career_Site:Specialist-Solution-Engineer_JR358388-1": 1789362913,
@@ -5391,6 +5397,7 @@
   "workday:silabs.wd1/SiliconlabsCareers:Software-Engineer-I_21011-1": 1789428175,
   "workday:snc.wd1/snc_external_career_site:Software-Engineering-Intern--Summer-2027-_R0030761-1": 1788474010,
   "workday:sonyglobal.wd1/SonyGlobalCareers:Software-Engineer-Intern_JR-119282": 1788448251,
+  "workday:sralab.wd1/SRAlabCareers:Clinical-Applications-Analyst-I_JR-1065540-1": 1790010082,
   "workday:statestreet.wd1/Global:Junior-Software-Engineer_R-797359-2": 1789597556,
   "workday:stryker.wd1/StrykerCareers:Commercial-Operations-Software-Engineering-Intern---Flower-Mound--TX_R572941": 1789597556,
   "workday:stryker.wd1/StrykerCareers:Summer-2027-Internship---Software-Engineering---California_R572624": 1788448251,
@@ -5501,5 +5508,5 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148,
   "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541": 1789106107
  },
- "updated_at": 1790008827
+ "updated_at": 1790010083
 }
