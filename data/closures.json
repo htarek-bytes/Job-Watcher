@@ -2,13 +2,6 @@
  "closed": [
   {
    "closed_at": 1789594680,
-   "company": "moog",
-   "hours_open": 179.6,
-   "title": "Intern, Software Engineering",
-   "uid": "workday:moog.wd5/moog_external_career_site:Intern--Software-Engineering_R-26-19888-1"
-  },
-  {
-   "closed_at": 1789594680,
    "company": "jj",
    "hours_open": 23.0,
    "title": "Mechatronics & Systems Integration Intern - R&D",
@@ -5599,8 +5592,15 @@
    "hours_open": 416.2,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1789953545,
+   "company": "Valsoft Corporation",
+   "hours_open": 62.2,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50313403"
   }
  ],
- "count": 804,
- "updated_at": 1789953148
+ "count": 801,
+ "updated_at": 1789953545
 }
