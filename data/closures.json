@@ -1,34 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789594467,
-   "company": "gevernova",
-   "hours_open": 338.0,
-   "title": "Early Career Traininship- Technical Applications Engineer",
-   "uid": "workday:gevernova.wd5/only_confidential_executive_recruiting:Early-Career-Traininship--Technical-Applications-Engineer_R5050516-3"
-  },
-  {
-   "closed_at": 1789594467,
-   "company": "expedia",
-   "hours_open": 338.0,
-   "title": "Software Development Engineer I",
-   "uid": "workday:expedia.wd108/private:Software-Development-Engineer-I_R-108739-2"
-  },
-  {
-   "closed_at": 1789594467,
-   "company": "insperity",
-   "hours_open": 338.0,
-   "title": "Artificial Intelligence Engineer I",
-   "uid": "workday:insperity.wd12/NSP:Artificial-Intelligence-Engineer-I_JR103100"
-  },
-  {
-   "closed_at": 1789594680,
-   "company": "massgeneralbrigham",
-   "hours_open": 64.5,
-   "title": "Application Analyst I",
-   "uid": "workday:massgeneralbrigham.wd1/mgbexternal:Application-Analyst-I_RQ4079181"
-  },
-  {
    "closed_at": 1789594680,
    "company": "moog",
    "hours_open": 179.6,
@@ -5599,8 +5571,36 @@
    "hours_open": 408.6,
    "title": "Autonomy Algorithms Software Engineer",
    "uid": "greenhouse:systemstechnologyresearch:4704682006"
+  },
+  {
+   "closed_at": 1789953147,
+   "company": "twitch",
+   "hours_open": 416.2,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1789953147,
+   "company": "Valsoft Corporation",
+   "hours_open": 40.2,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50320295"
+  },
+  {
+   "closed_at": 1789953147,
+   "company": "systemstechnologyresearch",
+   "hours_open": 296.1,
+   "title": "Autonomy Algorithms Software Engineer",
+   "uid": "greenhouse:systemstechnologyresearch:4704680006"
+  },
+  {
+   "closed_at": 1789953147,
+   "company": "spacex",
+   "hours_open": 416.2,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
   }
  ],
  "count": 804,
- "updated_at": 1789950854
+ "updated_at": 1789953148
 }
