@@ -2,83 +2,6 @@
  "closed": [
   {
    "closed_at": 1789657828,
-   "company": "YO AI Labs",
-   "hours_open": 57.3,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50289053"
-  },
-  {
-   "closed_at": 1789657828,
-   "company": "Arora Enterprise Inc",
-   "hours_open": 141.9,
-   "title": "Web developer",
-   "uid": "jobbank:junior programmer:50266457"
-  },
-  {
-   "closed_at": 1789657828,
-   "company": "Valsoft Corporation",
-   "hours_open": 13.4,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50300619"
-  },
-  {
-   "closed_at": 1789657828,
-   "company": "Wavestone",
-   "hours_open": 144.5,
-   "title": "Junior AI Engineer - AI & Data Team",
-   "uid": "simplify:listings:0d140cac-82da-463a-bbfd-a2789c5ce07b"
-  },
-  {
-   "closed_at": 1789657828,
-   "company": "Amazon",
-   "hours_open": 139.3,
-   "title": "Software Development Engineer, Amazon Quick",
-   "uid": "amazon:amazon:10537935"
-  },
-  {
-   "closed_at": 1789657828,
-   "company": "Amazon",
-   "hours_open": 41.0,
-   "title": "Software Development Engineer, Real Time Visual Intelligence",
-   "uid": "amazon:amazon:10543914"
-  },
-  {
-   "closed_at": 1789657828,
-   "company": "point72",
-   "hours_open": 332.5,
-   "title": "Quantitative Developer Intern",
-   "uid": "greenhouse:point72:8721562002"
-  },
-  {
-   "closed_at": 1789657828,
-   "company": "mongodb",
-   "hours_open": 334.2,
-   "title": "Product Security Engineer, Server",
-   "uid": "greenhouse:mongodb:8098695"
-  },
-  {
-   "closed_at": 1789657828,
-   "company": "ASSYST",
-   "hours_open": 370.8,
-   "title": "Junior .NET Developer",
-   "uid": "simplify:listings:a8e9e244-d0b5-4ee1-a683-4b3d2d6ee8f6"
-  },
-  {
-   "closed_at": 1789657828,
-   "company": "spacex",
-   "hours_open": 334.2,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1789657828,
-   "company": "assystinc",
-   "hours_open": 353.2,
-   "title": " .NET Developer (Entry Level)",
-   "uid": "greenhouse:assystinc:4371586009"
-  },
-  {
-   "closed_at": 1789657828,
    "company": "systemstechnologyresearch",
    "hours_open": 214.0,
    "title": "Autonomy Algorithms Software Engineer",
@@ -5599,8 +5522,85 @@
    "hours_open": 122.3,
    "title": "Software Development Engineer, Humorphic Labs",
    "uid": "amazon:amazon:10547103"
+  },
+  {
+   "closed_at": 1790024422,
+   "company": "singlestore",
+   "hours_open": 2.3,
+   "title": "MIT-Software Engineer-New Grad |Helios|",
+   "uid": "greenhouse:singlestore:8220882"
+  },
+  {
+   "closed_at": 1790024422,
+   "company": "singlestore",
+   "hours_open": 2.3,
+   "title": "MIT-Software Engineer-New Grad |Engine|",
+   "uid": "greenhouse:singlestore:8220863"
+  },
+  {
+   "closed_at": 1790024422,
+   "company": "singlestore",
+   "hours_open": 2.3,
+   "title": "MIT- Software Engineer Intern | Engine",
+   "uid": "greenhouse:singlestore:8220919"
+  },
+  {
+   "closed_at": 1790024422,
+   "company": "singlestore",
+   "hours_open": 2.3,
+   "title": "MIT- Software Engineer Intern | Helios",
+   "uid": "greenhouse:singlestore:8220941"
+  },
+  {
+   "closed_at": 1790024422,
+   "company": "pathrobotics",
+   "hours_open": 4.3,
+   "title": "Software Engineer – ML Infrastructure",
+   "uid": "greenhouse:pathrobotics:8827576002"
+  },
+  {
+   "closed_at": 1790024422,
+   "company": "360insights",
+   "hours_open": 7.8,
+   "title": "Technical Analyst",
+   "uid": "rippling:360insights:881886d8-54d8-4921-87c3-901f86fa7f16"
+  },
+  {
+   "closed_at": 1790024422,
+   "company": "twitch",
+   "hours_open": 436.0,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1790024422,
+   "company": "accenturefederalservices",
+   "hours_open": 2.3,
+   "title": "Junior Forward Deployed AI Engineer   ",
+   "uid": "greenhouse:accenturefederalservices:4715182006"
+  },
+  {
+   "closed_at": 1790024422,
+   "company": "spacex",
+   "hours_open": 436.0,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1790024422,
+   "company": "spacex",
+   "hours_open": 436.0,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1790024422,
+   "company": "spacex",
+   "hours_open": 434.4,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
- "count": 802,
- "updated_at": 1790023010
+ "count": 811,
+ "updated_at": 1790024424
 }
