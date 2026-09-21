@@ -1,41 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789597556,
-   "company": "spacex",
-   "hours_open": 317.5,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1789602352,
-   "company": "allen-control-systems",
-   "hours_open": 23.3,
-   "title": "Software Engineer – Enterprise Applications ",
-   "uid": "ashby:allen-control-systems:87abef03-ff94-4a7f-a944-5fad20f23daa"
-  },
-  {
-   "closed_at": 1789602352,
-   "company": "YO AI Labs",
-   "hours_open": 4.4,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50298491"
-  },
-  {
-   "closed_at": 1789602352,
-   "company": "allen-control-systems",
-   "hours_open": 315.9,
-   "title": "Power Electronics Engineer-All Levels",
-   "uid": "ashby:allen-control-systems:d58b7a40-797e-4baf-b7c1-8243eeb7588a"
-  },
-  {
-   "closed_at": 1789602352,
-   "company": "ramp",
-   "hours_open": 236.7,
-   "title": "Solutions Consultant, Post Sales, Commercial",
-   "uid": "ashby:ramp:8ca5c32b-e6c7-47e3-af23-291f122fa0f8"
-  },
-  {
    "closed_at": 1789602352,
    "company": "Qualcomm",
    "hours_open": 355.4,
@@ -5599,8 +5564,43 @@
    "hours_open": 144.7,
    "title": "information technology (IT) analyst",
    "uid": "jobbank:systems analyst:50288780"
+  },
+  {
+   "closed_at": 1789981988,
+   "company": "Intel",
+   "hours_open": 250.4,
+   "title": "Junior CPU Verification Engineer",
+   "uid": "simplify:listings:1f28f575-6e2b-4367-85a1-26670bbb8e75"
+  },
+  {
+   "closed_at": 1789981988,
+   "company": "twitch",
+   "hours_open": 424.3,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1789981988,
+   "company": "Source Code",
+   "hours_open": 2.6,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:control systems analyst:50318451"
+  },
+  {
+   "closed_at": 1789981988,
+   "company": "systemstechnologyresearch",
+   "hours_open": 304.1,
+   "title": "Autonomy Algorithms Software Engineer",
+   "uid": "greenhouse:systemstechnologyresearch:4704680006"
+  },
+  {
+   "closed_at": 1789981988,
+   "company": "spacex",
+   "hours_open": 424.0,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
   }
  ],
- "count": 801,
- "updated_at": 1789972505
+ "count": 805,
+ "updated_at": 1789981989
 }
