@@ -1,55 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789602352,
-   "company": "Qualcomm",
-   "hours_open": 355.4,
-   "title": "System AI Engineer New Grad - Display - ASICS Engineering",
-   "uid": "simplify:listings:2da5bc24-e216-4957-b76d-4e747a6795ef"
-  },
-  {
-   "closed_at": 1789602352,
-   "company": "The Nuclear Company",
-   "hours_open": 318.5,
-   "title": "Nuclear Engineer 1",
-   "uid": "simplify:listings:366b26f5-59ce-47c1-b9f4-4d13c1b61a49"
-  },
-  {
-   "closed_at": 1789602352,
-   "company": "rocketlab",
-   "hours_open": 2.3,
-   "title": "Security Analyst Intern Summer 2027",
-   "uid": "greenhouse:rocketlab:7986874003"
-  },
-  {
-   "closed_at": 1789602352,
-   "company": "rocketlab",
-   "hours_open": 2.3,
-   "title": "Security Analyst Intern Spring 2027",
-   "uid": "greenhouse:rocketlab:7986872003"
-  },
-  {
-   "closed_at": 1789602352,
-   "company": "spacex",
-   "hours_open": 318.8,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1789602352,
-   "company": "spacex",
-   "hours_open": 317.1,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1789602352,
-   "company": "Amazon",
-   "hours_open": 170.5,
-   "title": "Embedded Software Engineer, Amazon Leo Optical Inter-Satellite Link ",
-   "uid": "amazon:amazon:10535311"
-  },
-  {
    "closed_at": 1789602602,
    "company": "YO AI Labs",
    "hours_open": 42.0,
@@ -5599,8 +5550,57 @@
    "hours_open": 424.0,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1789987997,
+   "company": "ALI TRAVEL",
+   "hours_open": 261.0,
+   "title": "Web developer",
+   "uid": "jobbank:developpeur junior:50229353"
+  },
+  {
+   "closed_at": 1789987997,
+   "company": "Sopra Steria",
+   "hours_open": 101.4,
+   "title": "Service Desk Junior Engineer-Service Support",
+   "uid": "smartrecruiters:SopraSteria1:744000150009599"
+  },
+  {
+   "closed_at": 1789987997,
+   "company": "T-Mobile",
+   "hours_open": 130.6,
+   "title": "Associate Engineer - Agentic AI",
+   "uid": "simplify:listings:d3b9d664-582b-4b4c-a7bb-70489dda21e2"
+  },
+  {
+   "closed_at": 1789987997,
+   "company": "twitch",
+   "hours_open": 423.0,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1789987997,
+   "company": "Valsoft Corporation",
+   "hours_open": 71.8,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50313403"
+  },
+  {
+   "closed_at": 1789987997,
+   "company": "systemstechnologyresearch",
+   "hours_open": 418.9,
+   "title": "Autonomy Algorithms Software Engineer",
+   "uid": "greenhouse:systemstechnologyresearch:4704682006"
+  },
+  {
+   "closed_at": 1789987997,
+   "company": "spacex",
+   "hours_open": 425.9,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
   }
  ],
- "count": 805,
- "updated_at": 1789981989
+ "count": 807,
+ "updated_at": 1789987997
 }
