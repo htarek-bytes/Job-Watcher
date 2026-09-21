@@ -2,27 +2,6 @@
  "closed": [
   {
    "closed_at": 1789675213,
-   "company": "Amazon",
-   "hours_open": 168.0,
-   "title": "Software Development Engineer, Quick Governance Platform",
-   "uid": "amazon:amazon:10536501"
-  },
-  {
-   "closed_at": 1789675213,
-   "company": "Amazon",
-   "hours_open": 62.5,
-   "title": "Software Development Engineer, Eva Development Team",
-   "uid": "amazon:amazon:10541281"
-  },
-  {
-   "closed_at": 1789675213,
-   "company": "cadence",
-   "hours_open": 363.1,
-   "title": "Adams MultiBody Dynamics Application Software Developer (Recent Grad 2026)",
-   "uid": "workday:cadence.wd1/External_Careers:Adams-MultiBody-Dynamics-Application-Software-Developer--Recent-Grad-2026-_R55788"
-  },
-  {
-   "closed_at": 1789675213,
    "company": "cadence",
    "hours_open": 363.1,
    "title": "Adams Application Software Developer  (Recent Grad 2026)",
@@ -5599,8 +5578,29 @@
    "hours_open": 438.4,
    "title": "Accelerated Physics Simulation Engineer – Agentic Computational Engineering (ACE)",
    "uid": "greenhouse:voyagertechnologiesinc:4079284009"
+  },
+  {
+   "closed_at": 1790033691,
+   "company": "CWILL",
+   "hours_open": 438.3,
+   "title": "DevOps/SRE Engineer - Bilingual Mandarin Required",
+   "uid": "workable:cwill-us:22BF5316AC"
+  },
+  {
+   "closed_at": 1790033691,
+   "company": "Source Code",
+   "hours_open": 161.7,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:systems analyst:50288780"
+  },
+  {
+   "closed_at": 1790033691,
+   "company": "Thorlabs",
+   "hours_open": 72.3,
+   "title": "Photonics Engineer I",
+   "uid": "workable:thorlabs:13C8B0C3FE"
   }
  ],
- "count": 823,
- "updated_at": 1790033006
+ "count": 803,
+ "updated_at": 1790033691
 }
