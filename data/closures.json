@@ -1,104 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789724456,
-   "company": "Glacier Digital Corp.",
-   "hours_open": 232.5,
-   "title": "cybersecurity analyst",
-   "uid": "jobbank:cybersecurity analyst:49819441"
-  },
-  {
-   "closed_at": 1789725180,
-   "company": "OLYMPIC CONTROLS",
-   "hours_open": 232.7,
-   "title": "control systems engineer",
-   "uid": "jobbank:control systems analyst:50218591"
-  },
-  {
-   "closed_at": 1789725180,
-   "company": "interface-ai",
-   "hours_open": 345.8,
-   "title": "Software Engineer",
-   "uid": "ashby:interface-ai:abbcf39d-cac3-49ee-9279-82a59821c300"
-  },
-  {
-   "closed_at": 1789725180,
-   "company": "commure",
-   "hours_open": 153.3,
-   "title": "Business Intelligence Engineer (Bangladesh)",
-   "uid": "ashby:commure:2ae9c7b2-6fe3-4bc8-8ab0-be31450ca961"
-  },
-  {
-   "closed_at": 1789725180,
-   "company": "Valsoft Corporation",
-   "hours_open": 32.1,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50300619"
-  },
-  {
-   "closed_at": 1789729510,
-   "company": "Groupe DCM",
-   "hours_open": 6.2,
-   "title": "Programmeur CNC / CNC Programmer",
-   "uid": "jobillico:programmeur junior:17534679"
-  },
-  {
-   "closed_at": 1789729510,
-   "company": "Valsoft Corporation",
-   "hours_open": 54.1,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50296955"
-  },
-  {
-   "closed_at": 1789739297,
-   "company": "CANADIAN EASY TAX AND FINANCIAL SERVICES",
-   "hours_open": 162.0,
-   "title": "Web developer",
-   "uid": "jobbank:developpeur junior:50267136"
-  },
-  {
-   "closed_at": 1789739297,
-   "company": "Brightmark",
-   "hours_open": 219.9,
-   "title": "network administrator",
-   "uid": "jobbank:network administrator:50248661"
-  },
-  {
-   "closed_at": 1789739297,
-   "company": "Alt Informatique",
-   "hours_open": 8.9,
-   "title": "Technicien informatique junior",
-   "uid": "jobillico:technicien informatique:17381391"
-  },
-  {
-   "closed_at": 1789739297,
-   "company": "spacex",
-   "hours_open": 353.9,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1789739297,
-   "company": "accenturefederalservices",
-   "hours_open": 356.8,
-   "title": "Full Stack Developer",
-   "uid": "greenhouse:accenturefederalservices:4705965006"
-  },
-  {
-   "closed_at": 1789739297,
-   "company": "systemstechnologyresearch",
-   "hours_open": 236.7,
-   "title": "Autonomy Algorithms Software Engineer",
-   "uid": "greenhouse:systemstechnologyresearch:4704680006"
-  },
-  {
-   "closed_at": 1789739297,
-   "company": "spacex",
-   "hours_open": 355.2,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
    "closed_at": 1789739659,
    "company": "shyftlabs",
    "hours_open": 356.9,
@@ -5599,8 +5501,106 @@
    "hours_open": 453.1,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1790096007,
+   "company": "interpublic",
+   "hours_open": 15.2,
+   "title": "Junior Data Engineer",
+   "uid": "workday:interpublic.wd5/omc:Junior-Data-Engineer_R12346"
+  },
+  {
+   "closed_at": 1790096007,
+   "company": "jj",
+   "hours_open": 15.2,
+   "title": "Development Engineer (GTO/SC) Spring Co-Op",
+   "uid": "workday:jj.wd5/JJ:Development-Engineer--GTO-SC--Spring-Co-Op_R-098772"
+  },
+  {
+   "closed_at": 1790096007,
+   "company": "globalhr",
+   "hours_open": 15.8,
+   "title": "Software Engineer Intern",
+   "uid": "workday:globalhr.wd5/rec_rtx_ext_gateway:Software-Engineer-Intern_01874282"
+  },
+  {
+   "closed_at": 1790096007,
+   "company": "globalhr",
+   "hours_open": 107.3,
+   "title": "Spécialiste en automatisation manufacturière / Manufacturing Automation Specialist",
+   "uid": "workday:globalhr.wd5/Private_Posting_No_TMP:Spcialiste-en-automatisation-manufacturire---Manufacturing-Automation-Specialist_01869338-2"
+  },
+  {
+   "closed_at": 1790096007,
+   "company": "Source Code",
+   "hours_open": 179.0,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:systems analyst:50288780"
+  },
+  {
+   "closed_at": 1790096007,
+   "company": "gevernova",
+   "hours_open": 95.3,
+   "title": "Engineering Intern - Power Conversion & Storage AI Tool Developer  2027",
+   "uid": "workday:gevernova.wd5/only_confidential_executive_recruiting:Engineering-Intern---Power-Conversion---Storage-AI-Tool-Developer--2027_R5049957-1"
+  },
+  {
+   "closed_at": 1790096007,
+   "company": "lowes",
+   "hours_open": 186.4,
+   "title": "Associate Software Engineer - Launchpad",
+   "uid": "workday:lowes.wd5/LWS_External_CS:Associate-Software-Engineer---Launchpad_JR-02641559"
+  },
+  {
+   "closed_at": 1790096007,
+   "company": "Amazon",
+   "hours_open": 2.7,
+   "title": "Software Development Engineer, Amazon Web Services (AWS) ",
+   "uid": "amazon:amazon:10556208"
+  },
+  {
+   "closed_at": 1790096007,
+   "company": "Amazon",
+   "hours_open": 20.3,
+   "title": "Software Development Engineer, Humorphic Labs",
+   "uid": "amazon:amazon:10555420"
+  },
+  {
+   "closed_at": 1790096007,
+   "company": "twitch",
+   "hours_open": 453.0,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1790096007,
+   "company": "spacex",
+   "hours_open": 455.9,
+   "title": "Operations Engineer",
+   "uid": "greenhouse:spacex:8766462002"
+  },
+  {
+   "closed_at": 1790096007,
+   "company": "systemstechnologyresearch",
+   "hours_open": 335.7,
+   "title": "Autonomy Algorithms Software Engineer",
+   "uid": "greenhouse:systemstechnologyresearch:4704680006"
+  },
+  {
+   "closed_at": 1790096007,
+   "company": "spacex",
+   "hours_open": 455.7,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1790096007,
+   "company": "spacex",
+   "hours_open": 455.9,
+   "title": "Critical Lift & Transport Engineer (Falcon)",
+   "uid": "greenhouse:spacex:8456320002"
   }
  ],
- "count": 808,
- "updated_at": 1790091944
+ "count": 814,
+ "updated_at": 1790096008
 }
