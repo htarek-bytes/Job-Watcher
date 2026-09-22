@@ -1,41 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789691092,
-   "company": "twitch",
-   "hours_open": 340.5,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1789691092,
-   "company": "field-ai",
-   "hours_open": 340.5,
-   "title": "Embedded Systems Engineer, Humanoid Robotics",
-   "uid": "lever:field-ai:ae6ff0ce-0078-4836-aab1-7e44b1be1893"
-  },
-  {
-   "closed_at": 1789691092,
-   "company": "systemstechnologyresearch",
-   "hours_open": 336.5,
-   "title": "Autonomy Algorithms Software Engineer",
-   "uid": "greenhouse:systemstechnologyresearch:4704682006"
-  },
-  {
-   "closed_at": 1789691092,
-   "company": "spacex",
-   "hours_open": 343.5,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1789692564,
-   "company": "spacex",
-   "hours_open": 343.9,
-   "title": "Manufacturing Automation Engineer, Chamber and Nozzle (Raptor) ",
-   "uid": "greenhouse:spacex:8544694002"
-  },
-  {
    "closed_at": 1789692564,
    "company": "spacex",
    "hours_open": 343.9,
@@ -5599,8 +5564,43 @@
    "hours_open": 442.1,
    "title": "Mechanical Design Engineer",
    "uid": "ashby:maticrobots:bfb0df27-bb17-46a1-919c-afd8c3d09a7d"
+  },
+  {
+   "closed_at": 1790059788,
+   "company": "singlestore",
+   "hours_open": 12.1,
+   "title": "MIT- Software Engineer Intern | Helios",
+   "uid": "greenhouse:singlestore:8220941"
+  },
+  {
+   "closed_at": 1790059788,
+   "company": "Source Code",
+   "hours_open": 169.0,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:systems analyst:50288780"
+  },
+  {
+   "closed_at": 1790059788,
+   "company": "twitch",
+   "hours_open": 445.9,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1790059788,
+   "company": "saronic",
+   "hours_open": 442.8,
+   "title": "Mission Operations Engineer",
+   "uid": "ashby:saronic:2e889023-7a6d-42d8-bc6a-27a60c7d22b1"
+  },
+  {
+   "closed_at": 1790059788,
+   "company": "Twyce",
+   "hours_open": 246.7,
+   "title": "network system administrator",
+   "uid": "jobbank:systems administrator:50096893"
   }
  ],
- "count": 801,
- "updated_at": 1790057400
+ "count": 805,
+ "updated_at": 1790059788
 }
