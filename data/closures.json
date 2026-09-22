@@ -1,62 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789723861,
-   "company": "KEYPLAN Measuring Inc.",
-   "hours_open": 370.4,
-   "title": "computer programmer",
-   "uid": "jobbank:junior programmer:49550591"
-  },
-  {
-   "closed_at": 1789723861,
-   "company": "spacex",
-   "hours_open": 352.6,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1789723861,
-   "company": "systemstechnologyresearch",
-   "hours_open": 345.6,
-   "title": "Autonomy Algorithms Software Engineer",
-   "uid": "greenhouse:systemstechnologyresearch:4704682006"
-  },
-  {
-   "closed_at": 1789723861,
-   "company": "spacex",
-   "hours_open": 352.6,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1789724456,
-   "company": "visa",
-   "hours_open": 21.5,
-   "title": "Software Engineer, New College Grad, Bellevue - 2027",
-   "uid": "workday:visa.wd5/Visa:Software-Engineer--New-College-Grad--Bellevue---2027_REF088530W-3"
-  },
-  {
-   "closed_at": 1789724456,
-   "company": "TD Bank",
-   "hours_open": 31.9,
-   "title": "Associate Software Engineer",
-   "uid": "simplify:listings:1de667fa-952d-4928-b99f-a5098dca9028"
-  },
-  {
-   "closed_at": 1789724456,
-   "company": "tjx",
-   "hours_open": 329.2,
-   "title": "IT Engineer Internship - Summer 2027",
-   "uid": "workday:tjx.wd1/tjx_external:IT-Engineer-Internship---Summer-2027_REQ153160"
-  },
-  {
-   "closed_at": 1789724456,
-   "company": "Valsoft Corporation",
-   "hours_open": 52.7,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50296955"
-  },
-  {
    "closed_at": 1789724456,
    "company": "Glacier Digital Corp.",
    "hours_open": 232.5,
@@ -5599,8 +5543,64 @@
    "hours_open": 334.4,
    "title": "Autonomy Algorithms Software Engineer",
    "uid": "greenhouse:systemstechnologyresearch:4704680006"
+  },
+  {
+   "closed_at": 1790091943,
+   "company": "fis",
+   "hours_open": 115.4,
+   "title": "C++ Software Engineer I",
+   "uid": "workday:fis.wd5/searchjobs:C---Software-Engineer-I_JR0309472"
+  },
+  {
+   "closed_at": 1790091943,
+   "company": "cox",
+   "hours_open": 161.5,
+   "title": "Entry Level Software Engineer - Austin, TX",
+   "uid": "workday:cox.wd1/Cox_External_Career_Site_1:Entry-Level-Software-Engineer---Austin--TX_R202682548-1"
+  },
+  {
+   "closed_at": 1790091943,
+   "company": "clearwateranalytics",
+   "hours_open": 453.1,
+   "title": "Software Development Engineer I",
+   "uid": "workday:clearwateranalytics.wd1/Clearwater_Analytics_Careers:Software-Development-Engineer-I_R12059"
+  },
+  {
+   "closed_at": 1790091943,
+   "company": "twitch",
+   "hours_open": 454.8,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1790091943,
+   "company": "spacex",
+   "hours_open": 451.9,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1790091943,
+   "company": "systemstechnologyresearch",
+   "hours_open": 447.8,
+   "title": "Autonomy Algorithms Software Engineer",
+   "uid": "greenhouse:systemstechnologyresearch:4704682006"
+  },
+  {
+   "closed_at": 1790091943,
+   "company": "spacex",
+   "hours_open": 454.8,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1790091943,
+   "company": "spacex",
+   "hours_open": 453.1,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
- "count": 810,
- "updated_at": 1790091113
+ "count": 808,
+ "updated_at": 1790091944
 }
