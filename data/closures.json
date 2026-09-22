@@ -2,41 +2,6 @@
  "closed": [
   {
    "closed_at": 1789752945,
-   "company": "iberdrola",
-   "hours_open": 67.0,
-   "title": "Associate Engineer - Gas Engineering",
-   "uid": "workday:iberdrola.wd3/iberdrola:Associate-Engineer---Gas-Engineering_R-23985"
-  },
-  {
-   "closed_at": 1789752945,
-   "company": "iqvia",
-   "hours_open": 12.0,
-   "title": "Data & AI Solutions Consultant",
-   "uid": "workday:iqvia.wd1/IQVIA:Data---AI-Solutions-Consultant_R1552230"
-  },
-  {
-   "closed_at": 1789752945,
-   "company": "generalmotors",
-   "hours_open": 162.8,
-   "title": "Machine Learning Engineer, AI Inference Solutions (Early in Career)",
-   "uid": "workday:generalmotors.wd5/Careers_GM:Machine-Learning-Engineer--AI-Inference-Solutions--University-Grad-_JR-202610103"
-  },
-  {
-   "closed_at": 1789752945,
-   "company": "globalhr",
-   "hours_open": 12.0,
-   "title": "Software Engineering Intern (Summer 2027)",
-   "uid": "workday:globalhr.wd5/Private_Posting_No_TMP:Software-Engineering-Intern--Summer-2027-_01876131"
-  },
-  {
-   "closed_at": 1789752945,
-   "company": "globalhr",
-   "hours_open": 44.0,
-   "title": "Receiver, Exciter, & Processing Architecture Software Engineer Intern (Summer 2027)",
-   "uid": "workday:globalhr.wd5/rec_rtx_ext_gateway:Receiver--Exciter----Processing-Architecture-Software-Engineer-Intern--Summer-2027-_01873484"
-  },
-  {
-   "closed_at": 1789752945,
    "company": "spacex",
    "hours_open": 357.7,
    "title": "Security Software Engineer (Starlink)",
@@ -5599,8 +5564,43 @@
    "hours_open": 451.3,
    "title": "Software Engineer, Machine Learning",
    "uid": "ashby:ema:9728a171-9617-4533-9f03-10c14c3b6ca5"
+  },
+  {
+   "closed_at": 1790107030,
+   "company": "applydigital",
+   "hours_open": 459.0,
+   "title": "Site Reliability Engineer (SRE)",
+   "uid": "lever:applydigital:8ab8a148-86f7-4fdd-b7fe-882c2d2ac4bf"
+  },
+  {
+   "closed_at": 1790107030,
+   "company": "meow",
+   "hours_open": 105.9,
+   "title": "Software Engineer - New graduate",
+   "uid": "ashby:meow:56e3b840-11a0-4e98-baca-44e8e26b5218"
+  },
+  {
+   "closed_at": 1790107030,
+   "company": "siftstack",
+   "hours_open": 455.9,
+   "title": "Software Engineer, Infrastructure",
+   "uid": "ashby:siftstack:a58c387f-d08e-4609-8ce3-eed5c624e61b"
+  },
+  {
+   "closed_at": 1790107030,
+   "company": "spacex",
+   "hours_open": 458.7,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1790107030,
+   "company": "spacex",
+   "hours_open": 459.0,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
  "count": 805,
- "updated_at": 1790104722
+ "updated_at": 1790107031
 }
