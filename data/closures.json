@@ -1,55 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789755481,
-   "company": "archer56",
-   "hours_open": 232.7,
-   "title": "Aerodynamics Engineer, Modeling and Optimization",
-   "uid": "greenhouse:archer56:7740994003"
-  },
-  {
-   "closed_at": 1789760824,
-   "company": "New Market Group",
-   "hours_open": 2.5,
-   "title": "cloud developer",
-   "uid": "jobbank:developpeur junior:50314622"
-  },
-  {
-   "closed_at": 1789760824,
-   "company": "datadog",
-   "hours_open": 99.2,
-   "title": "Developer Advocate - Service Management EMEA",
-   "uid": "greenhouse:datadog:8161455"
-  },
-  {
-   "closed_at": 1789760824,
-   "company": "Astra North Infoteck Inc.",
-   "hours_open": 62.4,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:systems analyst:50297183"
-  },
-  {
-   "closed_at": 1789760824,
-   "company": "Amazon",
-   "hours_open": 52.9,
-   "title": "Software Development Engineer, AWS Security",
-   "uid": "amazon:amazon:10544608"
-  },
-  {
-   "closed_at": 1789760824,
-   "company": "visa",
-   "hours_open": 21.0,
-   "title": "2027 Sophomore Internship Program - Software Engineer Intern, Ashburn",
-   "uid": "workday:visa.wd5/Visa:XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Ashburn_REF088599W-1"
-  },
-  {
-   "closed_at": 1789760824,
-   "company": "visa",
-   "hours_open": 21.0,
-   "title": "2027 Sophomore Internship Program - Software Engineer Intern, Highlands Ranch",
-   "uid": "workday:visa.wd5/Visa:XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Highlands-Ranch_REF088597W-1"
-  },
-  {
    "closed_at": 1789760824,
    "company": "visa",
    "hours_open": 21.0,
@@ -5599,8 +5550,57 @@
    "hours_open": 497.8,
    "title": "GPU Architecture Engineer New Grad",
    "uid": "simplify:listings:935d5e2a-2962-45cf-b6cc-08183fc2b835"
+  },
+  {
+   "closed_at": 1790115654,
+   "company": "Bosch Group",
+   "hours_open": 11.1,
+   "title": "Q-Teamer | Production Quality Engineer - MSE3.1",
+   "uid": "smartrecruiters:BoschGroup:744000150980496"
+  },
+  {
+   "closed_at": 1790115654,
+   "company": "Source Code",
+   "hours_open": 184.5,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:systems analyst:50288780"
+  },
+  {
+   "closed_at": 1790115654,
+   "company": "Source Code",
+   "hours_open": 16.4,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50337559"
+  },
+  {
+   "closed_at": 1790115654,
+   "company": "Lakeland Roman Catholic Separate School Division",
+   "hours_open": 341.2,
+   "title": "computer systems analyst",
+   "uid": "jobbank:systems analyst:50064831"
+  },
+  {
+   "closed_at": 1790115654,
+   "company": "General Dynamics Missions System International",
+   "hours_open": 435.2,
+   "title": "Copy of Co-op Winter 2027 - Software Engineering - 4-8 months",
+   "uid": "smartrecruiters:GDMSI:744000147583700"
+  },
+  {
+   "closed_at": 1790115654,
+   "company": "General Dynamics Missions System International",
+   "hours_open": 441.0,
+   "title": "Co-op Winter 2027 - Software Engineering - 4-8 months",
+   "uid": "smartrecruiters:GDMSI:744000147511629"
+  },
+  {
+   "closed_at": 1790115654,
+   "company": "spacex",
+   "hours_open": 461.1,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
   }
  ],
- "count": 809,
- "updated_at": 1790114730
+ "count": 807,
+ "updated_at": 1790115655
 }
