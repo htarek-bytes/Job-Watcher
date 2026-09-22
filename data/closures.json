@@ -2,20 +2,6 @@
  "closed": [
   {
    "closed_at": 1789707344,
-   "company": "EXFO inc",
-   "hours_open": 341.5,
-   "title": "Concepteur logiciel / Software Design Engineer",
-   "uid": "jobillico:software developer:17294693"
-  },
-  {
-   "closed_at": 1789707344,
-   "company": "SM Informatique inc.",
-   "hours_open": 224.4,
-   "title": "technicien informatique réseautique",
-   "uid": "jobillico:technicien informatique:12325078"
-  },
-  {
-   "closed_at": 1789707344,
    "company": "spacex",
    "hours_open": 348.0,
    "title": "Security Software Engineer (Starlink)",
@@ -5599,8 +5585,22 @@
    "hours_open": 448.6,
    "title": "Accelerated Physics Simulation Engineer – Agentic Computational Engineering (ACE)",
    "uid": "greenhouse:voyagertechnologiesinc:4079284009"
+  },
+  {
+   "closed_at": 1790075663,
+   "company": "Groupe DCM",
+   "hours_open": 102.3,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534679"
+  },
+  {
+   "closed_at": 1790075663,
+   "company": "Boeing",
+   "hours_open": 1.7,
+   "title": "Entry Level ASIC/FPGA Design Engineer - Space Electronics",
+   "uid": "simplify:listings:225c073c-c7cc-420b-a859-6c087a72388a"
   }
  ],
- "count": 811,
- "updated_at": 1790069500
+ "count": 802,
+ "updated_at": 1790075663
 }
