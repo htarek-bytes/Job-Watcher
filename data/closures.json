@@ -1,62 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789760824,
-   "company": "visa",
-   "hours_open": 21.0,
-   "title": "2027 Sophomore Internship Program - Software Engineer Intern, Austin",
-   "uid": "workday:visa.wd5/Visa:XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Austin_REF088596W-1"
-  },
-  {
-   "closed_at": 1789760824,
-   "company": "visa",
-   "hours_open": 21.0,
-   "title": "2027 Sophomore Internship Program - Software Engineer Intern, Bellevue",
-   "uid": "workday:visa.wd5/Visa:XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Bellevue_REF088594W-1"
-  },
-  {
-   "closed_at": 1789760824,
-   "company": "visa",
-   "hours_open": 21.0,
-   "title": "2027 Sophomore Internship Program - Software Engineer Intern, Foster City",
-   "uid": "workday:visa.wd5/Visa:XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Foster-City_REF088591W-1"
-  },
-  {
-   "closed_at": 1789760824,
-   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
-   "hours_open": 242.6,
-   "title": "Administrateur Réseau TI",
-   "uid": "jobillico:analyste reseau:17386419"
-  },
-  {
-   "closed_at": 1789760824,
-   "company": "accenturefederalservices",
-   "hours_open": 338.6,
-   "title": "DevOps Engineer ",
-   "uid": "greenhouse:accenturefederalservices:4708393006"
-  },
-  {
-   "closed_at": 1789760824,
-   "company": "spacex",
-   "hours_open": 362.8,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1789761517,
-   "company": "twitch",
-   "hours_open": 363.0,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1789761517,
-   "company": "andurilindustries",
-   "hours_open": 361.3,
-   "title": "Product Quality Engineer",
-   "uid": "greenhouse:andurilindustries:5225891007"
-  },
-  {
    "closed_at": 1789761517,
    "company": "systemstechnologyresearch",
    "hours_open": 356.0,
@@ -5599,8 +5543,64 @@
    "hours_open": 461.1,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1790116916,
+   "company": "Sopra Steria",
+   "hours_open": 35.8,
+   "title": "Network Engineer [26168]",
+   "uid": "smartrecruiters:SopraSteria1:744000150651800"
+  },
+  {
+   "closed_at": 1790116916,
+   "company": "Source Code",
+   "hours_open": 23.1,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:control systems analyst:50335113"
+  },
+  {
+   "closed_at": 1790116916,
+   "company": "AlphaHire",
+   "hours_open": 96.2,
+   "title": "Project Engineer - Commercial Electrical Projects",
+   "uid": "workable:alphax:94D7F42D8C"
+  },
+  {
+   "closed_at": 1790116916,
+   "company": "figureai",
+   "hours_open": 341.5,
+   "title": "Power Systems Integration Intern [Fall 2026]",
+   "uid": "greenhouse:figureai:4702104006"
+  },
+  {
+   "closed_at": 1790116916,
+   "company": "alarmcom",
+   "hours_open": 379.7,
+   "title": "Sales Engineer",
+   "uid": "greenhouse:alarmcom:8609316002"
+  },
+  {
+   "closed_at": 1790116916,
+   "company": "spacex",
+   "hours_open": 458.8,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1790116916,
+   "company": "spacex",
+   "hours_open": 461.7,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1790116916,
+   "company": "spacex",
+   "hours_open": 460.0,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
- "count": 807,
- "updated_at": 1790115655
+ "count": 808,
+ "updated_at": 1790116916
 }
