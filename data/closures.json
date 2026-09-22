@@ -1,83 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789692983,
-   "company": "systemstechnologyresearch",
-   "hours_open": 223.8,
-   "title": "Autonomy Algorithms Software Engineer",
-   "uid": "greenhouse:systemstechnologyresearch:4704680006"
-  },
-  {
-   "closed_at": 1789692983,
-   "company": "spacex",
-   "hours_open": 342.3,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1789694005,
-   "company": "InterImage",
-   "hours_open": 6.1,
-   "title": "RPA Developer",
-   "uid": "workable:interimage:F2999E85BD"
-  },
-  {
-   "closed_at": 1789694005,
-   "company": "AM/PM Service - Point of Sale & Service",
-   "hours_open": 175.8,
-   "title": "Internet systems administrator",
-   "uid": "jobbank:systems administrator:50260080"
-  },
-  {
-   "closed_at": 1789694005,
-   "company": "andurilindustries",
-   "hours_open": 342.6,
-   "title": "UI Engineer, Lattice C2",
-   "uid": "greenhouse:andurilindustries:5106773007"
-  },
-  {
-   "closed_at": 1789707344,
-   "company": "Maarut",
-   "hours_open": 12.0,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50307568"
-  },
-  {
-   "closed_at": 1789707344,
-   "company": "twitch",
-   "hours_open": 345.0,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1789707344,
-   "company": "Groupe DCM",
-   "hours_open": 365.9,
-   "title": "Programmeur CNC / CNC Programmer",
-   "uid": "jobillico:programmeur junior:17357741"
-  },
-  {
-   "closed_at": 1789707344,
-   "company": "Zaber Technologies",
-   "hours_open": 211.0,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50248855"
-  },
-  {
-   "closed_at": 1789707344,
-   "company": "Université de Montréal",
-   "hours_open": 224.6,
-   "title": "network administrator",
-   "uid": "jobbank:network administrator:50243830"
-  },
-  {
-   "closed_at": 1789707344,
-   "company": "Valsoft Corporation",
-   "hours_open": 47.9,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50296955"
-  },
-  {
    "closed_at": 1789707344,
    "company": "EXFO inc",
    "hours_open": 341.5,
@@ -5599,8 +5522,85 @@
    "hours_open": 7.3,
    "title": "information technology (IT) analyst",
    "uid": "jobbank:control systems analyst:50335113"
+  },
+  {
+   "closed_at": 1790069500,
+   "company": "singlestore",
+   "hours_open": 14.7,
+   "title": "MIT- Software Engineer Intern |Helios|",
+   "uid": "greenhouse:singlestore:8220948"
+  },
+  {
+   "closed_at": 1790069500,
+   "company": "FiscalNote",
+   "hours_open": 10.1,
+   "title": "Associate Software Engineer",
+   "uid": "simplify:listings:e659b76b-dfdc-4b49-bcc0-27140e26325d"
+  },
+  {
+   "closed_at": 1790069500,
+   "company": "xai",
+   "hours_open": 436.6,
+   "title": "Mechanical Commissioning Engineer - Memphis",
+   "uid": "greenhouse:xai:5226371007"
+  },
+  {
+   "closed_at": 1790069500,
+   "company": "Valsoft Corporation",
+   "hours_open": 94.4,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50313403"
+  },
+  {
+   "closed_at": 1790069500,
+   "company": "TD Bank",
+   "hours_open": 321.8,
+   "title": "Associate Software Engineer",
+   "uid": "simplify:listings:bed9d031-2f7f-4c71-9417-37308c8a19ee"
+  },
+  {
+   "closed_at": 1790069500,
+   "company": "Boeing",
+   "hours_open": 485.2,
+   "title": "Entry Level ASIC/FPGA Design Engineer - Space Electronics",
+   "uid": "simplify:listings:ee871fc2-a48b-4f6f-8b78-4f13099021ca"
+  },
+  {
+   "closed_at": 1790069500,
+   "company": "Nightwing Intelligence Solutions",
+   "hours_open": 485.2,
+   "title": "Software Engineer 1",
+   "uid": "simplify:listings:dead17d4-de13-40ac-923b-ac8d41bdaba0"
+  },
+  {
+   "closed_at": 1790069500,
+   "company": "twitch",
+   "hours_open": 445.6,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1790069500,
+   "company": "Source Code",
+   "hours_open": 171.7,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:systems analyst:50288780"
+  },
+  {
+   "closed_at": 1790069500,
+   "company": "Repligen",
+   "hours_open": 485.2,
+   "title": "Software Developer 1",
+   "uid": "simplify:listings:9b28f741-a7e8-4acb-8697-fb44335ee538"
+  },
+  {
+   "closed_at": 1790069500,
+   "company": "voyagertechnologiesinc",
+   "hours_open": 448.6,
+   "title": "Accelerated Physics Simulation Engineer – Agentic Computational Engineering (ACE)",
+   "uid": "greenhouse:voyagertechnologiesinc:4079284009"
   }
  ],
- "count": 802,
- "updated_at": 1790059941
+ "count": 811,
+ "updated_at": 1790069500
 }
