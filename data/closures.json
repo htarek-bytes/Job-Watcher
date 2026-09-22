@@ -1,90 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789751981,
-   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
-   "hours_open": 240.2,
-   "title": "Administrateur Réseau TI",
-   "uid": "jobillico:analyste reseau:17386419"
-  },
-  {
-   "closed_at": 1789751981,
-   "company": "spacex",
-   "hours_open": 360.4,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1789751981,
-   "company": "spacex",
-   "hours_open": 360.4,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1789751981,
-   "company": "accenturefederalservices",
-   "hours_open": 360.4,
-   "title": "SAP Process Integration (PI) Developer",
-   "uid": "greenhouse:accenturefederalservices:4681747006"
-  },
-  {
-   "closed_at": 1789752320,
-   "company": "ccf",
-   "hours_open": 12.1,
-   "title": "New Grad RN Resident – Acute Care Telemetry Unit",
-   "uid": "workday:ccf.wd1/ClevelandClinicCareers:New-Grad-RN-Resident---Acute-Care-Telemetry-Unit_341168-1"
-  },
-  {
-   "closed_at": 1789752320,
-   "company": "ccf",
-   "hours_open": 12.1,
-   "title": "New Grad RN Resident – Med/Surg & Telemetry Unit",
-   "uid": "workday:ccf.wd1/ClevelandClinicCareers:New-Grad-RN-Resident---Med-Surg---Telemetry-Unit_350185"
-  },
-  {
-   "closed_at": 1789752320,
-   "company": "capitalone",
-   "hours_open": 384.5,
-   "title": "Associate, Software Engineer, New Grad Card Expansion",
-   "uid": "workday:capitalone.wd12/Capital_One:Associate--Software-Engineer--New-Grad-Card-Expansion_R247320"
-  },
-  {
-   "closed_at": 1789752320,
-   "company": "Brightmark",
-   "hours_open": 223.5,
-   "title": "network administrator",
-   "uid": "jobbank:network administrator:50248661"
-  },
-  {
-   "closed_at": 1789752320,
-   "company": "cadence",
-   "hours_open": 353.5,
-   "title": "Software Engineer  (new college grad Dec 2026)",
-   "uid": "workday:cadence.wd1/Univ_Careers:Software-Engineer---new-college-grad-Dec-2026-_R55738-2"
-  },
-  {
-   "closed_at": 1789752320,
-   "company": "cadence",
-   "hours_open": 384.5,
-   "title": "Adams MultiBody Dynamics Application Software Developer (Recent Grad 2026)",
-   "uid": "workday:cadence.wd1/External_Careers:Adams-MultiBody-Dynamics-Application-Software-Developer--Recent-Grad-2026-_R55788"
-  },
-  {
-   "closed_at": 1789752320,
-   "company": "cadence",
-   "hours_open": 384.5,
-   "title": "Adams Application Software Developer  (Recent Grad 2026)",
-   "uid": "workday:cadence.wd1/Univ_Careers:Adams-Application-Software-Developer---Recent-Grad-2026-_R55736-2"
-  },
-  {
-   "closed_at": 1789752320,
-   "company": "spacex",
-   "hours_open": 360.2,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
    "closed_at": 1789752320,
    "company": "spacex",
    "hours_open": 358.8,
@@ -5599,8 +5515,92 @@
    "hours_open": 456.9,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1790104008,
+   "company": "Alt Informatique",
+   "hours_open": 110.2,
+   "title": "Technicien informatique junior",
+   "uid": "jobillico:technicien informatique:17381391"
+  },
+  {
+   "closed_at": 1790104008,
+   "company": "SRC Can",
+   "hours_open": 19.7,
+   "title": "software developer",
+   "uid": "jobbank:entry level software developer:50320464"
+  },
+  {
+   "closed_at": 1790104008,
+   "company": "visa",
+   "hours_open": 116.3,
+   "title": "Software Engineer, New College Grad - 2027 Foster City, CA",
+   "uid": "workday:visa.wd5/Visa:Software-Engineer--New-College-Grad---2027-Foster-City--CA_REF088543W-1"
+  },
+  {
+   "closed_at": 1790104008,
+   "company": "visa",
+   "hours_open": 116.3,
+   "title": "Software Engineer, New College Grad - 2027, Austin, TX",
+   "uid": "workday:visa.wd5/Visa:Software-Engineer--New-College-Grad---2027--Austin--TX_REF088586W"
+  },
+  {
+   "closed_at": 1790104008,
+   "company": "Amazon",
+   "hours_open": 97.3,
+   "title": "Software Development Engineer, Amazon Customer Service",
+   "uid": "amazon:amazon:10553745"
+  },
+  {
+   "closed_at": 1790104008,
+   "company": "Amazon",
+   "hours_open": 144.6,
+   "title": "Software Development Engineer, IaC Provider Experience, Provider Experience - Coverage",
+   "uid": "amazon:amazon:10547124"
+  },
+  {
+   "closed_at": 1790104008,
+   "company": "Amazon",
+   "hours_open": 264.6,
+   "title": "Software Development Engineer, Amazon Optics",
+   "uid": "amazon:amazon:10537818"
+  },
+  {
+   "closed_at": 1790104008,
+   "company": "scaleai",
+   "hours_open": 458.2,
+   "title": "Forward Deployed Engineer, GenAI ",
+   "uid": "greenhouse:scaleai:4593571005"
+  },
+  {
+   "closed_at": 1790104008,
+   "company": "scaleai",
+   "hours_open": 458.2,
+   "title": "Software Engineer, Gen AI",
+   "uid": "greenhouse:scaleai:4591300005"
+  },
+  {
+   "closed_at": 1790104008,
+   "company": "Resideo",
+   "hours_open": 494.8,
+   "title": "Firmware Engineer 1",
+   "uid": "simplify:listings:620df5f1-110c-447c-8999-cf2d664001e9"
+  },
+  {
+   "closed_at": 1790104008,
+   "company": "spacex",
+   "hours_open": 458.2,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1790104008,
+   "company": "accenturefederalservices",
+   "hours_open": 144.8,
+   "title": "Cloud DevOps Engineer",
+   "uid": "greenhouse:accenturefederalservices:4703600006"
   }
  ],
- "count": 808,
- "updated_at": 1790100521
+ "count": 812,
+ "updated_at": 1790104009
 }
