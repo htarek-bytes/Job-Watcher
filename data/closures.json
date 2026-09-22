@@ -1,83 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789739659,
-   "company": "shyftlabs",
-   "hours_open": 356.9,
-   "title": "Technical Data Engineer (Databricks)",
-   "uid": "lever:shyftlabs:7d46b391-a417-4816-aa96-29d5c7e58330"
-  },
-  {
-   "closed_at": 1789739781,
-   "company": "Renesas Electronics",
-   "hours_open": 32.5,
-   "title": "Software Engineer Intern",
-   "uid": "smartrecruiters:RenesasElectronics:744000149952164"
-  },
-  {
-   "closed_at": 1789739781,
-   "company": "General Dynamics Missions System International",
-   "hours_open": 378.3,
-   "title": "Junior Hardware Engineering Developer ",
-   "uid": "smartrecruiters:GDMSI:744000142894435"
-  },
-  {
-   "closed_at": 1789741525,
-   "company": "Maarut",
-   "hours_open": 9.5,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50311884"
-  },
-  {
-   "closed_at": 1789741525,
-   "company": "Sutherland",
-   "hours_open": 93.8,
-   "title": "Facilies Engineer (entry level) - Pili CamSur",
-   "uid": "smartrecruiters:Sutherland:744000149246599"
-  },
-  {
-   "closed_at": 1789741525,
-   "company": "SOCOTEC",
-   "hours_open": 171.1,
-   "title": "Data Monitoring Analyst Intern",
-   "uid": "smartrecruiters:Socotec:744000148921759"
-  },
-  {
-   "closed_at": 1789743494,
-   "company": "ag",
-   "hours_open": 169.3,
-   "title": "Junior Cloud & DevOps Engineer / Kubernetes Specialist (f/m/d)",
-   "uid": "workday:ag.wd3/Airbus:Junior-Cloud---DevOps-Engineer---Kubernetes-Specialist--f-m-d-_JR10430847"
-  },
-  {
-   "closed_at": 1789743494,
-   "company": "ag",
-   "hours_open": 213.0,
-   "title": "Junior Structural Design Engineer",
-   "uid": "workday:ag.wd3/Airbus:Junior-Structural-Design-Engineer_JR10428136-1"
-  },
-  {
-   "closed_at": 1789751981,
-   "company": "leagueinc",
-   "hours_open": 360.4,
-   "title": "Security Engineer",
-   "uid": "greenhouse:leagueinc:6172673004"
-  },
-  {
-   "closed_at": 1789751981,
-   "company": "Lancesoft",
-   "hours_open": 223.4,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50248430"
-  },
-  {
-   "closed_at": 1789751981,
-   "company": "PolicyAdvisor Brokerage Inc.",
-   "hours_open": 188.1,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50244874"
-  },
-  {
    "closed_at": 1789751981,
    "company": "City of Vancouver",
    "hours_open": 240.2,
@@ -5599,8 +5522,85 @@
    "hours_open": 455.9,
    "title": "Critical Lift & Transport Engineer (Falcon)",
    "uid": "greenhouse:spacex:8456320002"
+  },
+  {
+   "closed_at": 1790096131,
+   "company": "pae",
+   "hours_open": 23.9,
+   "title": "Engineer 1",
+   "uid": "workday:pae.wd1/amentum_careers:Engineer-1_R0171106"
+  },
+  {
+   "closed_at": 1790096131,
+   "company": "ngc",
+   "hours_open": 24.3,
+   "title": "2027 Embedded Software Engineer Intern - Camarillo CA",
+   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Embedded-Software-Engineer-Intern---Camarillo-CA_R10251835"
+  },
+  {
+   "closed_at": 1790096131,
+   "company": "ngc",
+   "hours_open": 24.3,
+   "title": "2027 Digital Engineer Intern - Baltimore MD",
+   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Digital-Engineer-Intern---Baltimore-MD_R10251150-1"
+  },
+  {
+   "closed_at": 1790096131,
+   "company": "ngc",
+   "hours_open": 24.3,
+   "title": "2027 Embedded Software Engineer Intern - Baltimore MD",
+   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Embedded-Software-Engineer-Intern---Baltimore-MD_R10251464"
+  },
+  {
+   "closed_at": 1790096131,
+   "company": "Groupe DCM",
+   "hours_open": 108.0,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534679"
+  },
+  {
+   "closed_at": 1790096131,
+   "company": "mmc",
+   "hours_open": 346.6,
+   "title": "Junior Python Engineer @MarshTech",
+   "uid": "workday:mmc.wd1/MMC:Junior-Python-Engineer--MarshTech_R_362442-1"
+  },
+  {
+   "closed_at": 1790096131,
+   "company": "nidec",
+   "hours_open": 373.9,
+   "title": "Sales Engineer - MI",
+   "uid": "workday:nidec.wd1/nidec:Sales-Engineer---MI_R0013538-1"
+  },
+  {
+   "closed_at": 1790096131,
+   "company": "twitch",
+   "hours_open": 456.0,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1790096131,
+   "company": "Source Code",
+   "hours_open": 17.3,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:control systems analyst:50335113"
+  },
+  {
+   "closed_at": 1790096131,
+   "company": "systemstechnologyresearch",
+   "hours_open": 449.0,
+   "title": "Autonomy Algorithms Software Engineer",
+   "uid": "greenhouse:systemstechnologyresearch:4704682006"
+  },
+  {
+   "closed_at": 1790096131,
+   "company": "spacex",
+   "hours_open": 456.0,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
   }
  ],
- "count": 814,
- "updated_at": 1790096008
+ "count": 811,
+ "updated_at": 1790096133
 }
