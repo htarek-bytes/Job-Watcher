@@ -1,55 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789685162,
-   "company": "allen-control-systems",
-   "hours_open": 338.9,
-   "title": "IT Help Desk Engineer",
-   "uid": "ashby:allen-control-systems:54fe18db-3e7b-49f1-ba94-28ce15be2840"
-  },
-  {
-   "closed_at": 1789685162,
-   "company": "Amazon",
-   "hours_open": 7.6,
-   "title": "Software Development Engineer, Frontier Amazon Dedicated Cloud (ADC)",
-   "uid": "amazon:amazon:10551906"
-  },
-  {
-   "closed_at": 1789685600,
-   "company": "Valsoft Corporation",
-   "hours_open": 41.9,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50296955"
-  },
-  {
-   "closed_at": 1789685600,
-   "company": "handshake",
-   "hours_open": 334.9,
-   "title": "Software Engineer I, Handshake AI ",
-   "uid": "ashby:handshake:9a93ec72-d396-4971-8d4c-222094f9c5a3"
-  },
-  {
-   "closed_at": 1789685600,
-   "company": "spacex",
-   "hours_open": 339.0,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1789685600,
-   "company": "systemstechnologyresearch",
-   "hours_open": 221.7,
-   "title": "Autonomy Algorithms Software Engineer",
-   "uid": "greenhouse:systemstechnologyresearch:4704680006"
-  },
-  {
-   "closed_at": 1789685913,
-   "company": "retell-ai",
-   "hours_open": 342.0,
-   "title": "Applied AI Engineer (Customer Facing)",
-   "uid": "ashby:retell-ai:1fcd6e82-2a31-4e2f-abcf-be069ebb6e8c"
-  },
-  {
    "closed_at": 1789685913,
    "company": "Valsoft Corporation",
    "hours_open": 21.2,
@@ -5599,8 +5550,57 @@
    "hours_open": 439.2,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1790052462,
+   "company": "Great Lakes Group",
+   "hours_open": 3.1,
+   "title": "hardware engineer",
+   "uid": "jobbank:scada:50336012"
+  },
+  {
+   "closed_at": 1790052462,
+   "company": "td",
+   "hours_open": 160.7,
+   "title": "Associate Software Engineer",
+   "uid": "workday:td.wd3/TD_Bank_Careers:Associate-Software-Engineer_R_1509910-1"
+  },
+  {
+   "closed_at": 1790052462,
+   "company": "selinc",
+   "hours_open": 126.5,
+   "title": "Associate Software Engineer- Full Stack TypeScript/React/C#",
+   "uid": "workday:selinc.wd1/SEL:Associate-Software-Engineer--Full-Stack-TypeScript-React-C-_2026-23005-1"
+  },
+  {
+   "closed_at": 1790052462,
+   "company": "linear",
+   "hours_open": 361.8,
+   "title": "Solutions Engineer, Growth",
+   "uid": "ashby:linear:a8041e0e-350e-47d0-9190-454089216fb8"
+  },
+  {
+   "closed_at": 1790052462,
+   "company": "Source Code",
+   "hours_open": 5.2,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:control systems analyst:50335113"
+  },
+  {
+   "closed_at": 1790052462,
+   "company": "Forage FTE",
+   "hours_open": 323.6,
+   "title": "Technicien informatique",
+   "uid": "jobillico:technicien informatique:4390857"
+  },
+  {
+   "closed_at": 1790052462,
+   "company": "spacex",
+   "hours_open": 443.8,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 811,
- "updated_at": 1790041774
+ "count": 807,
+ "updated_at": 1790052462
 }
