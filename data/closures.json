@@ -1,13 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789707344,
-   "company": "spacex",
-   "hours_open": 348.0,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
    "closed_at": 1789707721,
    "company": "cae",
    "hours_open": 227.9,
@@ -5599,8 +5592,15 @@
    "hours_open": 330.7,
    "title": "Administrateur Réseau TI",
    "uid": "jobillico:analyste reseau:17386419"
+  },
+  {
+   "closed_at": 1790078949,
+   "company": "FIBROTEK MATÉRIAUX AVANCÉS INC.",
+   "hours_open": 181.7,
+   "title": "mobile applications developer",
+   "uid": "jobbank:developpeur junior:50286599"
   }
  ],
- "count": 802,
- "updated_at": 1790077752
+ "count": 801,
+ "updated_at": 1790078949
 }
