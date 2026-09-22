@@ -2,27 +2,6 @@
  "closed": [
   {
    "closed_at": 1789682887,
-   "company": "marvell",
-   "hours_open": 310.9,
-   "title": "Physical Design Engineer Intern, MS - Summer 2027",
-   "uid": "workday:marvell.wd1/MarvellCareers:Physical-Design-Engineer-Intern--MS---Summer-2027_2604518-1"
-  },
-  {
-   "closed_at": 1789682887,
-   "company": "nvidia",
-   "hours_open": 214.5,
-   "title": "ASIC Floorplan Design Engineer - New College Grad 2026",
-   "uid": "workday:nvidia.wd5/NVIDIAExternalCareerSite:ASIC-Floorplan-Design-Engineer---New-College-Grad-2026_JR2024651"
-  },
-  {
-   "closed_at": 1789682887,
-   "company": "Amazon",
-   "hours_open": 29.4,
-   "title": "Software Development Engineer, Infrastructure Reliability Engineering",
-   "uid": "amazon:amazon:10545098"
-  },
-  {
-   "closed_at": 1789682887,
    "company": "Amazon",
    "hours_open": 165.8,
    "title": " Software Development Engineer, AWS OpenSearch",
@@ -5599,8 +5578,29 @@
    "hours_open": 440.0,
    "title": "Software Engineer, Simulations (Application Software)",
    "uid": "greenhouse:spacex:8487534002"
+  },
+  {
+   "closed_at": 1790039053,
+   "company": "globalhr",
+   "hours_open": 9.1,
+   "title": "Systems Engineer I",
+   "uid": "workday:globalhr.wd5/rec_rtx_ext_gateway:Systems-Engineer-I_01857537"
+  },
+  {
+   "closed_at": 1790039053,
+   "company": "globalhr",
+   "hours_open": 9.1,
+   "title": "Software Engineering Intern (Summer 2027)",
+   "uid": "workday:globalhr.wd5/rec_rtx_ext_gateway:Software-Engineering-Intern--Summer-2027-_01875725"
+  },
+  {
+   "closed_at": 1790039053,
+   "company": "globalhr",
+   "hours_open": 277.2,
+   "title": "Systems Engineer Intern - Helmet Displays (Summer 2027) - Onsite",
+   "uid": "workday:globalhr.wd5/Private_Posting_No_TMP:Systems-Engineer-Intern---Helmet-Displays--Summer-2027----Onsite_01867411"
   }
  ],
- "count": 819,
- "updated_at": 1790038576
+ "count": 803,
+ "updated_at": 1790039055
 }
