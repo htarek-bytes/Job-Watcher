@@ -3,20 +3,6 @@
   {
    "closed_at": 1789752945,
    "company": "spacex",
-   "hours_open": 357.7,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1789752945,
-   "company": "systemstechnologyresearch",
-   "hours_open": 353.7,
-   "title": "Autonomy Algorithms Software Engineer",
-   "uid": "greenhouse:systemstechnologyresearch:4704682006"
-  },
-  {
-   "closed_at": 1789752945,
-   "company": "spacex",
    "hours_open": 360.6,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637826002"
@@ -5599,8 +5585,22 @@
    "hours_open": 459.0,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1790107300,
+   "company": "Amazon",
+   "hours_open": 177.6,
+   "title": "Software Development Engineer, AI Studios Engineering",
+   "uid": "amazon:amazon:10541530"
+  },
+  {
+   "closed_at": 1790107300,
+   "company": "Amazon",
+   "hours_open": 263.3,
+   "title": "Software Development Engineer, AWS Intent Driven Networking (AIDN)",
+   "uid": "amazon:amazon:10538018"
   }
  ],
- "count": 805,
- "updated_at": 1790107031
+ "count": 802,
+ "updated_at": 1790107300
 }
