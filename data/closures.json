@@ -1,13 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789690748,
-   "company": "spacex",
-   "hours_open": 341.7,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
    "closed_at": 1789691092,
    "company": "twitch",
    "hours_open": 340.5,
@@ -5599,8 +5592,15 @@
    "hours_open": 445.0,
    "title": "Accelerated Physics Simulation Engineer – Agentic Computational Engineering (ACE)",
    "uid": "greenhouse:voyagertechnologiesinc:4079284009"
+  },
+  {
+   "closed_at": 1790057399,
+   "company": "maticrobots",
+   "hours_open": 442.1,
+   "title": "Mechanical Design Engineer",
+   "uid": "ashby:maticrobots:bfb0df27-bb17-46a1-919c-afd8c3d09a7d"
   }
  ],
- "count": 812,
- "updated_at": 1790056559
+ "count": 801,
+ "updated_at": 1790057400
 }
