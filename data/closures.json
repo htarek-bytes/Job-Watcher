@@ -1,48 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789761758,
-   "company": "systemstechnologyresearch",
-   "hours_open": 242.9,
-   "title": "Autonomy Algorithms Software Engineer",
-   "uid": "greenhouse:systemstechnologyresearch:4704680006"
-  },
-  {
-   "closed_at": 1789761758,
-   "company": "spacex",
-   "hours_open": 363.1,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1789761758,
-   "company": "spacex",
-   "hours_open": 361.4,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1789765300,
-   "company": "lush",
-   "hours_open": 364.1,
-   "title": "Intermediate DevOps Engineer ",
-   "uid": "greenhouse:lush:8143093"
-  },
-  {
-   "closed_at": 1789765300,
-   "company": "twitch",
-   "hours_open": 364.1,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1789765300,
-   "company": "zensurance",
-   "hours_open": 243.9,
-   "title": "IT Systems Administrator (Remote First)",
-   "uid": "lever:zensurance:536b5fef-69d2-4f78-8388-405d1142167a"
-  },
-  {
    "closed_at": 1789765300,
    "company": "systemstechnologyresearch",
    "hours_open": 357.1,
@@ -5599,8 +5557,50 @@
    "hours_open": 184.2,
    "title": "Application Security Engineer",
    "uid": "workable:scitec:F09ABB200B"
+  },
+  {
+   "closed_at": 1790120419,
+   "company": "bmo",
+   "hours_open": 22.7,
+   "title": "Software Developer, Winter 2027 (Internship) - 4 months",
+   "uid": "workday:bmo.wd3/External:Software-Developer--Winter-2027--Internship----4-months_R260027197-2"
+  },
+  {
+   "closed_at": 1790120419,
+   "company": "avav",
+   "hours_open": 344.5,
+   "title": "Software Engineer I",
+   "uid": "workday:avav.wd1/avav:Software-Engineer-I_8682"
+  },
+  {
+   "closed_at": 1790120419,
+   "company": "amat",
+   "hours_open": 486.8,
+   "title": "EHS Safety Engineer New College Grad (Bachelors - Santa Clara, CA)",
+   "uid": "workday:amat.wd1/External:EHS-Safety-Engineer-New-College-Grad--Bachelors---Santa-Clara--CA-_R2626244"
+  },
+  {
+   "closed_at": 1790120419,
+   "company": "spacex",
+   "hours_open": 5.5,
+   "title": "Business Systems Analyst",
+   "uid": "greenhouse:spacex:8829779002"
+  },
+  {
+   "closed_at": 1790120419,
+   "company": "spacex",
+   "hours_open": 459.8,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1790120419,
+   "company": "spacex",
+   "hours_open": 462.7,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
   }
  ],
- "count": 805,
- "updated_at": 1790117695
+ "count": 806,
+ "updated_at": 1790120419
 }
