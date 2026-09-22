@@ -1,69 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789753663,
-   "company": "spacex",
-   "hours_open": 360.6,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1789755481,
-   "company": "Logesco Informatique",
-   "hours_open": 241.2,
-   "title": "Administrateur de réseau",
-   "uid": "jobillico:analyste reseau:17188132"
-  },
-  {
-   "closed_at": 1789755481,
-   "company": "Alt Informatique",
-   "hours_open": 13.4,
-   "title": "Technicien informatique junior",
-   "uid": "jobillico:technicien informatique:17381391"
-  },
-  {
-   "closed_at": 1789755481,
-   "company": "relx",
-   "hours_open": 382.7,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - January)",
-   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617-1"
-  },
-  {
-   "closed_at": 1789755481,
-   "company": "relx",
-   "hours_open": 382.7,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - June)",
-   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-2"
-  },
-  {
-   "closed_at": 1789755481,
-   "company": "relx",
-   "hours_open": 382.7,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Boca Raton - June)",
-   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Boca-Raton---June-_R116023"
-  },
-  {
-   "closed_at": 1789755481,
-   "company": "pae",
-   "hours_open": 20.1,
-   "title": "Job Posting Title Junior Naval Systems Security Engineer",
-   "uid": "workday:pae.wd1/amentum_careers:Job-Posting-Title-Junior-Naval-Systems-Security-Engineer_R0170950"
-  },
-  {
-   "closed_at": 1789755481,
-   "company": "selinc",
-   "hours_open": 20.1,
-   "title": "Power Systems Sales Engineer – Caribbean & Central America",
-   "uid": "workday:selinc.wd1/SEL:Power-Systems-Sales-Engineer---Caribbean---Central-America_2026-19581"
-  },
-  {
-   "closed_at": 1789755481,
-   "company": "selinc",
-   "hours_open": 44.0,
-   "title": "Associate Software Engineer- Full Stack TypeScript/React/C#",
-   "uid": "workday:selinc.wd1/SEL:Associate-Software-Engineer--Full-Stack-TypeScript-React-C-_2026-23005-1"
-  },
-  {
    "closed_at": 1789755481,
    "company": "archer56",
    "hours_open": 232.7,
@@ -5599,8 +5536,71 @@
    "hours_open": 460.4,
    "title": "Data Engineer",
    "uid": "greenhouse:accenturefederalservices:4680730006"
+  },
+  {
+   "closed_at": 1790114729,
+   "company": "AECOM",
+   "hours_open": 23.7,
+   "title": "Civil/Highway Engineer Intern - Hiring Event with AECOM - Philadelphia",
+   "uid": "smartrecruiters:AECOM2:744000150786409"
+  },
+  {
+   "closed_at": 1790114729,
+   "company": "AECOM",
+   "hours_open": 23.7,
+   "title": "Entry-Level Civil/Highway Engineer - Hiring Event with AECOM - Philadelphia",
+   "uid": "smartrecruiters:AECOM2:744000150784950"
+  },
+  {
+   "closed_at": 1790114729,
+   "company": "AECOM",
+   "hours_open": 23.7,
+   "title": "Entry-Level Water Resources Engineer – Remediation - Networking Event with AECOM – Boston, MA",
+   "uid": "smartrecruiters:AECOM2:744000150759509"
+  },
+  {
+   "closed_at": 1790114729,
+   "company": "citylogix",
+   "hours_open": 340.4,
+   "title": "IT Specialist / Spécialiste en informatique",
+   "uid": "rippling:citylogix:f74798da-9934-4d64-8660-5512053ec908"
+  },
+  {
+   "closed_at": 1790114729,
+   "company": "Amazon",
+   "hours_open": 136.6,
+   "title": "Software Development Engineer",
+   "uid": "amazon:amazon:10551443"
+  },
+  {
+   "closed_at": 1790114729,
+   "company": "Amazon",
+   "hours_open": 173.2,
+   "title": "Software Development Engineer, AWS Transform",
+   "uid": "amazon:amazon:10541974"
+  },
+  {
+   "closed_at": 1790114729,
+   "company": "Source Code",
+   "hours_open": 22.5,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:control systems analyst:50335113"
+  },
+  {
+   "closed_at": 1790114729,
+   "company": "LMI",
+   "hours_open": 497.8,
+   "title": "Junior Android Engineer - RFID",
+   "uid": "simplify:listings:8c7fce06-656d-49d9-bf64-703e487b5cac"
+  },
+  {
+   "closed_at": 1790114729,
+   "company": "NVIDIA",
+   "hours_open": 497.8,
+   "title": "GPU Architecture Engineer New Grad",
+   "uid": "simplify:listings:935d5e2a-2962-45cf-b6cc-08183fc2b835"
   }
  ],
- "count": 810,
- "updated_at": 1790111964
+ "count": 809,
+ "updated_at": 1790114730
 }
