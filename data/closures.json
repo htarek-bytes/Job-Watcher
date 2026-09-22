@@ -4,20 +4,6 @@
    "closed_at": 1789707344,
    "company": "spacex",
    "hours_open": 348.0,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1789707344,
-   "company": "systemstechnologyresearch",
-   "hours_open": 341.0,
-   "title": "Autonomy Algorithms Software Engineer",
-   "uid": "greenhouse:systemstechnologyresearch:4704682006"
-  },
-  {
-   "closed_at": 1789707344,
-   "company": "spacex",
-   "hours_open": 348.0,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
   },
@@ -5599,8 +5585,22 @@
    "hours_open": 1.7,
    "title": "Entry Level ASIC/FPGA Design Engineer - Space Electronics",
    "uid": "simplify:listings:225c073c-c7cc-420b-a859-6c087a72388a"
+  },
+  {
+   "closed_at": 1790077752,
+   "company": "Groupe DCM",
+   "hours_open": 96.7,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534670"
+  },
+  {
+   "closed_at": 1790077752,
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
+   "hours_open": 330.7,
+   "title": "Administrateur Réseau TI",
+   "uid": "jobillico:analyste reseau:17386419"
   }
  ],
  "count": 802,
- "updated_at": 1790075663
+ "updated_at": 1790077752
 }
