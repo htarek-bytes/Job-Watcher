@@ -1,41 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789761517,
-   "company": "systemstechnologyresearch",
-   "hours_open": 356.0,
-   "title": "Autonomy Algorithms Software Engineer",
-   "uid": "greenhouse:systemstechnologyresearch:4704682006"
-  },
-  {
-   "closed_at": 1789761758,
-   "company": "twitch",
-   "hours_open": 360.1,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1789761758,
-   "company": "Brightmark",
-   "hours_open": 226.1,
-   "title": "network administrator",
-   "uid": "jobbank:network administrator:50248661"
-  },
-  {
-   "closed_at": 1789761758,
-   "company": "felix",
-   "hours_open": 363.1,
-   "title": "Software Engineer, Website",
-   "uid": "ashby:felix:a43109b9-8620-421b-95d0-53ddb18ab543"
-  },
-  {
-   "closed_at": 1789761758,
-   "company": "subseacraft",
-   "hours_open": 382.1,
-   "title": "Junior Enterprise Developer",
-   "uid": "bamboohr:subseacraft:260"
-  },
-  {
    "closed_at": 1789761758,
    "company": "systemstechnologyresearch",
    "hours_open": 242.9,
@@ -5599,8 +5564,43 @@
    "hours_open": 460.0,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1790117695,
+   "company": "adobe",
+   "hours_open": 467.3,
+   "title": "2027 Intern - Machine Learning Engineer",
+   "uid": "workday:adobe.wd5/external_experienced:XMLNAME-2027-Intern---Machine-Learning-Engineer_R171519"
+  },
+  {
+   "closed_at": 1790117695,
+   "company": "spacex",
+   "hours_open": 462.0,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1790117695,
+   "company": "spacex",
+   "hours_open": 461.7,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1790117695,
+   "company": "spacex",
+   "hours_open": 462.0,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1790117695,
+   "company": "SciTec",
+   "hours_open": 184.2,
+   "title": "Application Security Engineer",
+   "uid": "workable:scitec:F09ABB200B"
   }
  ],
- "count": 808,
- "updated_at": 1790116916
+ "count": 805,
+ "updated_at": 1790117695
 }
