@@ -2,62 +2,6 @@
  "closed": [
   {
    "closed_at": 1789751981,
-   "company": "City of Vancouver",
-   "hours_open": 240.2,
-   "title": "systems analyst",
-   "uid": "jobbank:systems analyst:50223007"
-  },
-  {
-   "closed_at": 1789751981,
-   "company": "MapleRecord",
-   "hours_open": 378.3,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50178415"
-  },
-  {
-   "closed_at": 1789751981,
-   "company": "Surrey Police Service",
-   "hours_open": 240.2,
-   "title": "systems analyst",
-   "uid": "jobbank:systems analyst:50179584"
-  },
-  {
-   "closed_at": 1789751981,
-   "company": "altentechnologyusa",
-   "hours_open": 358.7,
-   "title": "MLT Lab Test Engineer",
-   "uid": "greenhouse:altentechnologyusa:5206224007"
-  },
-  {
-   "closed_at": 1789751981,
-   "company": "stripe",
-   "hours_open": 360.4,
-   "title": "Software Engineer, Product Security Data Platforms",
-   "uid": "greenhouse:stripe:8039800"
-  },
-  {
-   "closed_at": 1789751981,
-   "company": "clearwayjobs",
-   "hours_open": 240.2,
-   "title": "IT Systems Specialist",
-   "uid": "greenhouse:clearwayjobs:5161610007"
-  },
-  {
-   "closed_at": 1789751981,
-   "company": "rocketlab",
-   "hours_open": 69.4,
-   "title": "RF Phased Array Engineer I",
-   "uid": "greenhouse:rocketlab:7996425003"
-  },
-  {
-   "closed_at": 1789751981,
-   "company": "andurilindustries",
-   "hours_open": 358.7,
-   "title": "Product Quality Engineer - Barracuda",
-   "uid": "greenhouse:andurilindustries:5201549007"
-  },
-  {
-   "closed_at": 1789751981,
    "company": "General Dynamics Produits de défense et Systèmes Tactiques",
    "hours_open": 240.2,
    "title": "Administrateur Réseau TI",
@@ -5599,8 +5543,64 @@
    "hours_open": 456.0,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1790100520,
+   "company": "salesforce",
+   "hours_open": 25.1,
+   "title": "Account Solution Engineer",
+   "uid": "workday:salesforce.wd12/External_Career_Site:Account-Solution-Engineer_JR360701"
+  },
+  {
+   "closed_at": 1790100520,
+   "company": "Arcfield",
+   "hours_open": 493.8,
+   "title": "Model Based Systems Engineer 1",
+   "uid": "simplify:listings:80ebf08c-0c7a-4d4e-972a-91adbc6e5509"
+  },
+  {
+   "closed_at": 1790100520,
+   "company": "twitch",
+   "hours_open": 454.2,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1790100520,
+   "company": "Maarut",
+   "hours_open": 18.8,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50335128"
+  },
+  {
+   "closed_at": 1790100520,
+   "company": "salesforce",
+   "hours_open": 478.5,
+   "title": "Software Engineering AMTS (College Grad)",
+   "uid": "workday:salesforce.wd12/Futureforce_NewGradRoles:Software-Engineering-AMTS--College-Grad-_JR355250"
+  },
+  {
+   "closed_at": 1790100520,
+   "company": "General Dynamics Mission Systems",
+   "hours_open": 426.9,
+   "title": "Entry Level Software Engineer",
+   "uid": "simplify:listings:ace2a03a-1f53-4778-8e95-2ca42b7a7d5a"
+  },
+  {
+   "closed_at": 1790100520,
+   "company": "systemstechnologyresearch",
+   "hours_open": 337.0,
+   "title": "Autonomy Algorithms Software Engineer",
+   "uid": "greenhouse:systemstechnologyresearch:4704680006"
+  },
+  {
+   "closed_at": 1790100520,
+   "company": "spacex",
+   "hours_open": 456.9,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
   }
  ],
- "count": 811,
- "updated_at": 1790096133
+ "count": 808,
+ "updated_at": 1790100521
 }
