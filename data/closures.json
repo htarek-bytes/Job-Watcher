@@ -1,41 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789752320,
-   "company": "spacex",
-   "hours_open": 358.8,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1789752945,
-   "company": "jll",
-   "hours_open": 12.0,
-   "title": "Junior Reliability Engineer",
-   "uid": "workday:jll.wd1/jllcareers:Junior-Reliability-Engineer_REQ535710"
-  },
-  {
-   "closed_at": 1789752945,
-   "company": "gevernova",
-   "hours_open": 21.2,
-   "title": "Ingénieur junior en intégration logicielle GridOS – DevOps F/H  /  Junior GridOS Software Integration Engineer – DevOps",
-   "uid": "workday:gevernova.wd5/only_confidential_executive_recruiting:Ingnieur-junior-en-intgration-logicielle-GridOS---DevOps-F-H-----Junior-GridOS-Software-Integration-Engineer---DevOps_R5048048-1"
-  },
-  {
-   "closed_at": 1789752945,
-   "company": "globalhr",
-   "hours_open": 12.0,
-   "title": "HWIL Software Engineer I",
-   "uid": "workday:globalhr.wd5/rec_rtx_ext_gateway:HWIL-Software-Engineer-I_01874565"
-  },
-  {
-   "closed_at": 1789752945,
-   "company": "twitch",
-   "hours_open": 360.6,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
    "closed_at": 1789752945,
    "company": "iberdrola",
    "hours_open": 67.0,
@@ -5599,8 +5564,43 @@
    "hours_open": 144.8,
    "title": "Cloud DevOps Engineer",
    "uid": "greenhouse:accenturefederalservices:4703600006"
+  },
+  {
+   "closed_at": 1790104722,
+   "company": "Brightmark",
+   "hours_open": 321.4,
+   "title": "network administrator",
+   "uid": "jobbank:network administrator:50248661"
+  },
+  {
+   "closed_at": 1790104722,
+   "company": "Amazon",
+   "hours_open": 22.3,
+   "title": "Software Development Engineer, Alexa Excellence, Alexa LLM Inference, Capacity, & Efficiency",
+   "uid": "amazon:amazon:10555428"
+  },
+  {
+   "closed_at": 1790104722,
+   "company": "torcrobotics",
+   "hours_open": 451.4,
+   "title": "Systems Engineer I - Test Automation",
+   "uid": "greenhouse:torcrobotics:8554813002"
+  },
+  {
+   "closed_at": 1790104722,
+   "company": "ema",
+   "hours_open": 451.3,
+   "title": "Software Engineer, DevOps",
+   "uid": "ashby:ema:6394f5e3-6952-4f0e-9e6c-4e9556549f3a"
+  },
+  {
+   "closed_at": 1790104722,
+   "company": "ema",
+   "hours_open": 451.3,
+   "title": "Software Engineer, Machine Learning",
+   "uid": "ashby:ema:9728a171-9617-4533-9f03-10c14c3b6ca5"
   }
  ],
- "count": 812,
- "updated_at": 1790104009
+ "count": 805,
+ "updated_at": 1790104722
 }
