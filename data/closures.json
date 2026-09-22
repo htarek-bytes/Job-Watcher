@@ -1,90 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789685913,
-   "company": "Valsoft Corporation",
-   "hours_open": 21.2,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50300619"
-  },
-  {
-   "closed_at": 1789685913,
-   "company": "runsybil-jobs",
-   "hours_open": 367.1,
-   "title": "Software Engineer I",
-   "uid": "ashby:runsybil-jobs:fd733ce7-7892-4019-9f6d-b6a75ba2aa59"
-  },
-  {
-   "closed_at": 1789685913,
-   "company": "spacex",
-   "hours_open": 342.0,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1789685913,
-   "company": "systemstechnologyresearch",
-   "hours_open": 335.0,
-   "title": "Autonomy Algorithms Software Engineer",
-   "uid": "greenhouse:systemstechnologyresearch:4704682006"
-  },
-  {
-   "closed_at": 1789690748,
-   "company": "lyft",
-   "hours_open": 2.2,
-   "title": "Software Engineer Intern, Fullstack (Summer 2027 - NYC)",
-   "uid": "greenhouse:lyft:8797837002"
-  },
-  {
-   "closed_at": 1789690748,
-   "company": "twitch",
-   "hours_open": 343.4,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1789690748,
-   "company": "lexical",
-   "hours_open": 201.8,
-   "title": "AI Solutions Engineer",
-   "uid": "bamboohr:lexical:82"
-  },
-  {
-   "closed_at": 1789690748,
-   "company": "ramp",
-   "hours_open": 261.3,
-   "title": "Solutions Consultant, Post Sales, Enterprise",
-   "uid": "ashby:ramp:971abc99-f20b-43f0-91d6-90bcbfa2c8d9"
-  },
-  {
-   "closed_at": 1789690748,
-   "company": "skildai-careers",
-   "hours_open": 336.4,
-   "title": "Software Engineer, AI Inference",
-   "uid": "greenhouse:skildai-careers:4136353008"
-  },
-  {
-   "closed_at": 1789690748,
-   "company": "trace3",
-   "hours_open": 198.3,
-   "title": "ISSE/ Cybersecurity Engineer I ",
-   "uid": "greenhouse:trace3:8189173"
-  },
-  {
-   "closed_at": 1789690748,
-   "company": "spacex",
-   "hours_open": 340.4,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1789690748,
-   "company": "systemstechnologyresearch",
-   "hours_open": 223.2,
-   "title": "Autonomy Algorithms Software Engineer",
-   "uid": "greenhouse:systemstechnologyresearch:4704680006"
-  },
-  {
    "closed_at": 1789690748,
    "company": "spacex",
    "hours_open": 341.7,
@@ -5599,8 +5515,92 @@
    "hours_open": 443.8,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1790056558,
+   "company": "singlestore",
+   "hours_open": 11.1,
+   "title": "MIT- Software Engineer Intern |Helios|",
+   "uid": "greenhouse:singlestore:8220948"
+  },
+  {
+   "closed_at": 1790056558,
+   "company": "xai",
+   "hours_open": 433.0,
+   "title": "Mechanical Commissioning Engineer - Memphis",
+   "uid": "greenhouse:xai:5226371007"
+  },
+  {
+   "closed_at": 1790056558,
+   "company": "Amazon",
+   "hours_open": 177.4,
+   "title": "Software Development Engineer, Agentic Workspaces - Watchtower",
+   "uid": "amazon:amazon:10539269"
+  },
+  {
+   "closed_at": 1790056558,
+   "company": "twitch",
+   "hours_open": 442.0,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1790056558,
+   "company": "tulip",
+   "hours_open": 445.0,
+   "title": "Software Engineer, Edge",
+   "uid": "greenhouse:tulip:7748615003"
+  },
+  {
+   "closed_at": 1790056558,
+   "company": "Source Code",
+   "hours_open": 6.5,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50334960"
+  },
+  {
+   "closed_at": 1790056558,
+   "company": "spacex",
+   "hours_open": 442.0,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1790056558,
+   "company": "darkwolfsolutions",
+   "hours_open": 445.0,
+   "title": "Front End Developer",
+   "uid": "greenhouse:darkwolfsolutions:7837196003"
+  },
+  {
+   "closed_at": 1790056558,
+   "company": "spacex",
+   "hours_open": 444.7,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1790056558,
+   "company": "spacex",
+   "hours_open": 443.3,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1790056558,
+   "company": "trueanomalyinc",
+   "hours_open": 5.9,
+   "title": "Harness Engineer (P2) or P3), Mechanical/Electrical",
+   "uid": "greenhouse:trueanomalyinc:5111885007"
+  },
+  {
+   "closed_at": 1790056558,
+   "company": "voyagertechnologiesinc",
+   "hours_open": 445.0,
+   "title": "Accelerated Physics Simulation Engineer – Agentic Computational Engineering (ACE)",
+   "uid": "greenhouse:voyagertechnologiesinc:4079284009"
   }
  ],
- "count": 807,
- "updated_at": 1790052462
+ "count": 812,
+ "updated_at": 1790056559
 }
