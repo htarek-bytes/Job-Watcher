@@ -1,41 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789826536,
-   "company": "relx",
-   "hours_open": 400.1,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Boca Raton - June)",
-   "uid": "workday:relx.wd3/RiskSolutions:Tech-Accelerate-Graduate-Program---Software-Engineer--Boca-Raton---June-_R116023-2"
-  },
-  {
-   "closed_at": 1789826536,
-   "company": "Valsoft Corporation",
-   "hours_open": 5.0,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50320295"
-  },
-  {
-   "closed_at": 1789829167,
-   "company": "Groupe DCM",
-   "hours_open": 33.8,
-   "title": "Programmeur CNC / CNC Programmer",
-   "uid": "jobillico:programmeur junior:17534679"
-  },
-  {
-   "closed_at": 1789829167,
-   "company": "stryker",
-   "hours_open": 64.3,
-   "title": "Summer 2027 Internship -  Software Engineering, Commercial Operations - Texas",
-   "uid": "workday:stryker.wd1/StrykerCareers:Commercial-Operations-Software-Engineering-Intern---Flower-Mound--TX_R572941"
-  },
-  {
-   "closed_at": 1789829167,
-   "company": "trimedx",
-   "hours_open": 10.1,
-   "title": "Imaging Engineer I",
-   "uid": "workday:trimedx.wd1/TMX:Imaging-Engineer-I_R14980"
-  },
-  {
    "closed_at": 1789835368,
    "company": "Groupe Mario Coté",
    "hours_open": 191.2,
@@ -5599,8 +5564,43 @@
    "hours_open": 480.0,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1790190016,
+   "company": "sharkninjaoperatingllc",
+   "hours_open": 475.1,
+   "title": "Associate Product Developer - Corded/Cordless",
+   "uid": "greenhouse:sharkninjaoperatingllc:4707165006"
+  },
+  {
+   "closed_at": 1790190016,
+   "company": "FIBROTEK MATÉRIAUX AVANCÉS INC.",
+   "hours_open": 30.9,
+   "title": "mobile applications developer",
+   "uid": "jobbank:junior programmer:50286599"
+  },
+  {
+   "closed_at": 1790190016,
+   "company": "Amazon",
+   "hours_open": 168.7,
+   "title": "Software Development Engineer, Agentic AI, Velocity Labs",
+   "uid": "amazon:amazon:10545829"
+  },
+  {
+   "closed_at": 1790190016,
+   "company": "spacex",
+   "hours_open": 481.8,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1790190016,
+   "company": "spacex",
+   "hours_open": 482.0,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 811,
- "updated_at": 1790188909
+ "count": 805,
+ "updated_at": 1790190017
 }
