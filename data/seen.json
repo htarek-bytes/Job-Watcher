@@ -1,5 +1,5 @@
 {
- "count": 5779,
+ "count": 5790,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -5352,6 +5352,12 @@
   "workday:icf.wd5/icfexternal_career_site:Computer-Scientist---Software-Developer--Junior---Security-Clearance-Required_R2600165": 1788948248,
   "workday:icf.wd5/icfexternal_career_site:Junior-Software-Engineer--Entry-level---Remote-US-_R2603054": 1789594467,
   "workday:insperity.wd12/NSP:Artificial-Intelligence-Engineer-I_JR103100": 1788377607,
+  "workday:intactfc.wd3/intactfc:AI-Developer---4-Month-Internship-Co-op--Winter-2027--_R155234": 1790175954,
+  "workday:intactfc.wd3/intactfc:DevOps-I---4-months-Co-op-Internship--Winter-2027-_R155186-1": 1790175954,
+  "workday:intactfc.wd3/intactfc:Developer-DevOPS---4-months-Co-op-Internship_R155352": 1790175954,
+  "workday:intactfc.wd3/intactfc:Dveloppeur-logiciel-I---4-mois-Coop-Stagiaire--Hiver-2027-_R155561": 1790175954,
+  "workday:intactfc.wd3/intactfc:Software-Developer-I---4-Month-Co-op-Internship--Winter-2027-_R155112": 1790175954,
+  "workday:intactfc.wd3/intactfc:Test-Automation-Developer---4-months-Internship-Coop--Winter-2027--_R155565": 1790175954,
   "workday:integritymarketing.wd1/Integrity:Software-Engineer-I_JR4072": 1788377607,
   "workday:intel.wd1/external:AI-Software-Engineering-Intern_JR0282641": 1788472811,
   "workday:intel.wd1/external:NMSI-Module-Engineer--Entry-Level_JR0286667-1": 1788377607,
@@ -5394,6 +5400,8 @@
   "workday:kiongroup.wd3/KION_SCS:Controls-Engineer--Early---Mid-Career-_JR-0093840": 1789467869,
   "workday:kiongroup.wd3/kiongroup:Controls-Engineer--Early---Mid-Career-_JR-0093840-1": 1789424861,
   "workday:kla.wd1/AnnArbor:Software-Engineering-Intern_2531653": 1788442554,
+  "workday:kla.wd1/UR:Algorithm-Engineering-Intern--AI--Computer-Vision---Software-Engineering-_2641392-1": 1790175954,
+  "workday:kla.wd1/UR:Software-Engineering-Intern--C----Unix-_2641325": 1790175954,
   "workday:kla.wd1/annarbor:Software-Engineering-Intern_2531653": 1789362342,
   "workday:kyndryl.wd5/KyndrylEarlyCareers:Early-Career-Consult-Program---Associate-AI-Engineer_R-66739": 1788377607,
   "workday:kyndryl.wd5/KyndrylEarlyCareers:Early-Career-Consult-Program---Cybersecurity-Engineer_R-67304-1": 1788377607,
@@ -5416,6 +5424,8 @@
   "workday:lplfinancial.wd1/university:Summer-Intern-2027--Platform-Engineer_R-052920-1": 1788442554,
   "workday:lplfinancial.wd1/university:Summer-Intern-2027--Software-Engineer_R-052921": 1788442554,
   "workday:lthc.wd1/ExcellusBCBSCareers:College-Intern---Software-Engineering---Fall-2026--Multiple-Openings-_JR103878-2": 1789102462,
+  "workday:lthc.wd1/ExcellusBCBSCareers:College-Intern---Summer-2027---Mobile-Software-Engineering-Team_JR104025-3": 1790175954,
+  "workday:lthc.wd1/ExcellusBCBSCareers:College-Intern---Summer-2027---Software-Engineering--Multiple-Openings-Available-_JR104022-1": 1790175954,
   "workday:lthc.wd1/ExcellusBCBSCareers:College-Intern---Telecommunications-Team---Fall-2026_JR103882-2": 1789102462,
   "workday:lumentum.wd5/LITE:Embedded-Software-DevSecOps-Engineer--Co-op-Student-_20261355": 1789682887,
   "workday:lumentum.wd5/LITE:Embedded-Software-DevSecOps-Engineer--Co-op-Student-_20261356": 1789511757,
@@ -5435,6 +5445,7 @@
   "workday:marvell.wd1/MarvellCareers:Physical-Design-Engineer-Intern--BS---Summer-2027_2604517-1": 1788563552,
   "workday:marvell.wd1/MarvellCareers:Physical-Design-Engineer-Intern--MS---Summer-2027_2604518-1": 1788563552,
   "workday:marvell.wd1/MarvellCareers:SRAM-Software-Engineer-Intern--BS---Summer-2027_2603760-1": 1789682887,
+  "workday:marvell.wd1/MarvellCareers:Security-Verification-Validation-Engineer-Intern--BS---Summer-2027_2604148-1": 1790175954,
   "workday:marvell.wd1/MarvellCareers:Software-Firmware-Engineer-Intern_2604053": 1790096131,
   "workday:marvell.wd1/MarvellCareers:Technical-Sales-Intern--BS---Summer-2027_2603806-1": 1789594680,
   "workday:marvell.wd1/MarvellCareers:Test-Equipment-Engineer-Intern_2603826-1": 1790041362,
@@ -5781,5 +5792,5 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148,
   "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541": 1789106107
  },
- "updated_at": 1790174709
+ "updated_at": 1790175957
 }
