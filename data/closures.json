@@ -1,146 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789794324,
-   "company": "Groupe DCM",
-   "hours_open": 18.0,
-   "title": "Programmeur CNC / CNC Programmer",
-   "uid": "jobillico:programmeur junior:17534670"
-  },
-  {
-   "closed_at": 1789794324,
-   "company": "Brightmark",
-   "hours_open": 235.2,
-   "title": "network administrator",
-   "uid": "jobbank:network administrator:50248661"
-  },
-  {
-   "closed_at": 1789794324,
-   "company": "Alt Informatique",
-   "hours_open": 24.2,
-   "title": "Technicien informatique junior",
-   "uid": "jobillico:technicien informatique:17381391"
-  },
-  {
-   "closed_at": 1789794324,
-   "company": "lambda",
-   "hours_open": 365.1,
-   "title": "Data Center Operations Systems Engineer (Seattle)",
-   "uid": "ashby:lambda:4621b314-965a-4626-a516-1b8ef42da21d"
-  },
-  {
-   "closed_at": 1789797632,
-   "company": "LYNKED Inc.",
-   "hours_open": 82.1,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50293998"
-  },
-  {
-   "closed_at": 1789797632,
-   "company": "Kronos Consulting",
-   "hours_open": 72.6,
-   "title": "network specialist - computer systems",
-   "uid": "jobbank:specialiste infrastructure:50297070"
-  },
-  {
-   "closed_at": 1789800239,
-   "company": "Source Code",
-   "hours_open": 6.1,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:systems analyst:50289543"
-  },
-  {
-   "closed_at": 1789800239,
-   "company": "Groupe DCM",
-   "hours_open": 25.8,
-   "title": "Programmeur CNC / CNC Programmer",
-   "uid": "jobillico:programmeur junior:17534679"
-  },
-  {
-   "closed_at": 1789800239,
-   "company": "Expera Information Technology Inc.",
-   "hours_open": 253.6,
-   "title": "systems analyst",
-   "uid": "jobbank:systems analyst:50176033"
-  },
-  {
-   "closed_at": 1789800239,
-   "company": "Study 2020 Consulting INC",
-   "hours_open": 253.6,
-   "title": "network system administrator",
-   "uid": "jobbank:systems administrator:49984747"
-  },
-  {
-   "closed_at": 1789808480,
-   "company": "Groupe DCM",
-   "hours_open": 21.9,
-   "title": "Programmeur CNC / CNC Programmer",
-   "uid": "jobillico:programmeur junior:17534670"
-  },
-  {
-   "closed_at": 1789808480,
-   "company": "Valsoft Corporation",
-   "hours_open": 21.9,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50313403"
-  },
-  {
-   "closed_at": 1789809939,
-   "company": "twitch",
-   "hours_open": 376.5,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1789809939,
-   "company": "Alt Informatique",
-   "hours_open": 28.5,
-   "title": "Technicien informatique junior",
-   "uid": "jobillico:technicien informatique:17381391"
-  },
-  {
-   "closed_at": 1789809939,
-   "company": "Valsoft Corporation",
-   "hours_open": 0.4,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50320295"
-  },
-  {
-   "closed_at": 1789809939,
-   "company": "systemstechnologyresearch",
-   "hours_open": 256.3,
-   "title": "Autonomy Algorithms Software Engineer",
-   "uid": "greenhouse:systemstechnologyresearch:4704680006"
-  },
-  {
-   "closed_at": 1789809939,
-   "company": "spacex",
-   "hours_open": 376.2,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1789810121,
-   "company": "twitch",
-   "hours_open": 373.6,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1789810121,
-   "company": "systemstechnologyresearch",
-   "hours_open": 369.5,
-   "title": "Autonomy Algorithms Software Engineer",
-   "uid": "greenhouse:systemstechnologyresearch:4704682006"
-  },
-  {
-   "closed_at": 1789810121,
-   "company": "spacex",
-   "hours_open": 376.5,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
    "closed_at": 1789814994,
    "company": "Maarut",
    "hours_open": 66.1,
@@ -277,7 +137,7 @@
    "closed_at": 1789824152,
    "company": "mastercard",
    "hours_open": 383.8,
-   "title": "Software Engineer Intern, Summer 2027 \u2013 United States",
+   "title": "Software Engineer Intern, Summer 2027 – United States",
    "uid": "workday:mastercard.wd1/Campus:Software-Engineer-Intern--Summer-2027---United-States_R-287618-1"
   },
   {
@@ -345,9 +205,9 @@
   },
   {
    "closed_at": 1789835368,
-   "company": "Groupe Mario Cot\u00e9",
+   "company": "Groupe Mario Coté",
    "hours_open": 191.2,
-   "title": "Administrateur de r\u00e9seau",
+   "title": "Administrateur de réseau",
    "uid": "jobillico:analyste reseau:17520153"
   },
   {
@@ -452,7 +312,7 @@
    "closed_at": 1789837993,
    "company": "Logesco Informatique",
    "hours_open": 264.1,
-   "title": "Administrateur de r\u00e9seau",
+   "title": "Administrateur de réseau",
    "uid": "jobillico:analyste reseau:17188132"
   },
   {
@@ -597,9 +457,9 @@
   },
   {
    "closed_at": 1789852217,
-   "company": "General Dynamics Produits de d\u00e9fense et Syst\u00e8mes Tactiques",
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
    "hours_open": 268.0,
-   "title": "Administrateur R\u00e9seau TI",
+   "title": "Administrateur Réseau TI",
    "uid": "jobillico:analyste reseau:17386419"
   },
   {
@@ -611,9 +471,9 @@
   },
   {
    "closed_at": 1789852326,
-   "company": "Groupe Mario Cot\u00e9",
+   "company": "Groupe Mario Coté",
    "hours_open": 195.9,
-   "title": "Administrateur de r\u00e9seau",
+   "title": "Administrateur de réseau",
    "uid": "jobillico:analyste reseau:17520153"
   },
   {
@@ -632,9 +492,9 @@
   },
   {
    "closed_at": 1789853155,
-   "company": "Groupe Mario Cot\u00e9",
+   "company": "Groupe Mario Coté",
    "hours_open": 196.2,
-   "title": "Administrateur de r\u00e9seau",
+   "title": "Administrateur de réseau",
    "uid": "jobillico:analyste reseau:17520153"
   },
   {
@@ -737,9 +597,9 @@
   },
   {
    "closed_at": 1789854047,
-   "company": "General Dynamics Produits de d\u00e9fense et Syst\u00e8mes Tactiques",
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
    "hours_open": 268.5,
-   "title": "Administrateur R\u00e9seau TI",
+   "title": "Administrateur Réseau TI",
    "uid": "jobillico:analyste reseau:17386419"
   },
   {
@@ -758,9 +618,9 @@
   },
   {
    "closed_at": 1789859088,
-   "company": "Groupe Mario Cot\u00e9",
+   "company": "Groupe Mario Coté",
    "hours_open": 197.8,
-   "title": "Administrateur de r\u00e9seau",
+   "title": "Administrateur de réseau",
    "uid": "jobillico:analyste reseau:17520153"
   },
   {
@@ -849,9 +709,9 @@
   },
   {
    "closed_at": 1789860417,
-   "company": "General Dynamics Produits de d\u00e9fense et Syst\u00e8mes Tactiques",
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
    "hours_open": 270.3,
-   "title": "Administrateur R\u00e9seau TI",
+   "title": "Administrateur Réseau TI",
    "uid": "jobillico:analyste reseau:17386419"
   },
   {
@@ -940,9 +800,9 @@
   },
   {
    "closed_at": 1789866187,
-   "company": "Groupe Mario Cot\u00e9",
+   "company": "Groupe Mario Coté",
    "hours_open": 199.8,
-   "title": "Administrateur de r\u00e9seau",
+   "title": "Administrateur de réseau",
    "uid": "jobillico:analyste reseau:17520153"
   },
   {
@@ -1024,9 +884,9 @@
   },
   {
    "closed_at": 1789868075,
-   "company": "General Dynamics Produits de d\u00e9fense et Syst\u00e8mes Tactiques",
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
    "hours_open": 272.4,
-   "title": "Administrateur R\u00e9seau TI",
+   "title": "Administrateur Réseau TI",
    "uid": "jobillico:analyste reseau:17386419"
   },
   {
@@ -1075,7 +935,7 @@
    "closed_at": 1789884487,
    "company": "EXFO inc",
    "hours_open": 409.5,
-   "title": "Stagiaire ing\u00e9nieur logiciel / Software Engineer Intern",
+   "title": "Stagiaire ingénieur logiciel / Software Engineer Intern",
    "uid": "jobillico:software developer:17462697"
   },
   {
@@ -1094,9 +954,9 @@
   },
   {
    "closed_at": 1789884487,
-   "company": "Groupe Mario Cot\u00e9",
+   "company": "Groupe Mario Coté",
    "hours_open": 204.9,
-   "title": "Administrateur de r\u00e9seau",
+   "title": "Administrateur de réseau",
    "uid": "jobillico:analyste reseau:17520153"
   },
   {
@@ -1178,9 +1038,9 @@
   },
   {
    "closed_at": 1789903141,
-   "company": "General Dynamics Produits de d\u00e9fense et Syst\u00e8mes Tactiques",
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
    "hours_open": 282.2,
-   "title": "Administrateur R\u00e9seau TI",
+   "title": "Administrateur Réseau TI",
    "uid": "jobillico:analyste reseau:17386419"
   },
   {
@@ -1206,9 +1066,9 @@
   },
   {
    "closed_at": 1789904302,
-   "company": "Groupe Mario Cot\u00e9",
+   "company": "Groupe Mario Coté",
    "hours_open": 210.4,
-   "title": "Administrateur de r\u00e9seau",
+   "title": "Administrateur de réseau",
    "uid": "jobillico:analyste reseau:17520153"
   },
   {
@@ -1227,9 +1087,9 @@
   },
   {
    "closed_at": 1789905346,
-   "company": "General Dynamics Produits de d\u00e9fense et Syst\u00e8mes Tactiques",
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
    "hours_open": 282.8,
-   "title": "Administrateur R\u00e9seau TI",
+   "title": "Administrateur Réseau TI",
    "uid": "jobillico:analyste reseau:17386419"
   },
   {
@@ -1262,9 +1122,9 @@
   },
   {
    "closed_at": 1789906495,
-   "company": "Groupe Mario Cot\u00e9",
+   "company": "Groupe Mario Coté",
    "hours_open": 211.0,
-   "title": "Administrateur de r\u00e9seau",
+   "title": "Administrateur de réseau",
    "uid": "jobillico:analyste reseau:17520153"
   },
   {
@@ -1297,9 +1157,9 @@
   },
   {
    "closed_at": 1789915586,
-   "company": "General Dynamics Produits de d\u00e9fense et Syst\u00e8mes Tactiques",
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
    "hours_open": 285.6,
-   "title": "Administrateur R\u00e9seau TI",
+   "title": "Administrateur Réseau TI",
    "uid": "jobillico:analyste reseau:17386419"
   },
   {
@@ -1325,9 +1185,9 @@
   },
   {
    "closed_at": 1789915992,
-   "company": "Groupe Mario Cot\u00e9",
+   "company": "Groupe Mario Coté",
    "hours_open": 213.6,
-   "title": "Administrateur de r\u00e9seau",
+   "title": "Administrateur de réseau",
    "uid": "jobillico:analyste reseau:17520153"
   },
   {
@@ -1409,16 +1269,16 @@
   },
   {
    "closed_at": 1789920987,
-   "company": "General Dynamics Produits de d\u00e9fense et Syst\u00e8mes Tactiques",
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
    "hours_open": 287.1,
-   "title": "Administrateur R\u00e9seau TI",
+   "title": "Administrateur Réseau TI",
    "uid": "jobillico:analyste reseau:17386419"
   },
   {
    "closed_at": 1789926211,
-   "company": "Groupe Mario Cot\u00e9",
+   "company": "Groupe Mario Coté",
    "hours_open": 216.4,
-   "title": "Administrateur de r\u00e9seau",
+   "title": "Administrateur de réseau",
    "uid": "jobillico:analyste reseau:17520153"
   },
   {
@@ -1535,9 +1395,9 @@
   },
   {
    "closed_at": 1789930037,
-   "company": "General Dynamics Produits de d\u00e9fense et Syst\u00e8mes Tactiques",
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
    "hours_open": 289.6,
-   "title": "Administrateur R\u00e9seau TI",
+   "title": "Administrateur Réseau TI",
    "uid": "jobillico:analyste reseau:17386419"
   },
   {
@@ -1654,9 +1514,9 @@
   },
   {
    "closed_at": 1789944180,
-   "company": "Groupe Mario Cot\u00e9",
+   "company": "Groupe Mario Coté",
    "hours_open": 221.4,
-   "title": "Administrateur de r\u00e9seau",
+   "title": "Administrateur de réseau",
    "uid": "jobillico:analyste reseau:17520153"
   },
   {
@@ -1810,7 +1670,7 @@
    "closed_at": 1789950743,
    "company": "NVIDIA",
    "hours_open": 452.2,
-   "title": "Applied Machine Learning Engineer \u2013 New College Grad 2026 - Circuit Design",
+   "title": "Applied Machine Learning Engineer – New College Grad 2026 - Circuit Design",
    "uid": "simplify:listings:2184ba51-9029-4b0d-956c-e66d880ffe74"
   },
   {
@@ -2160,7 +2020,7 @@
    "closed_at": 1789996228,
    "company": "barr",
    "hours_open": 161.8,
-   "title": "Internship \u2013 Water Resources Engineer (Hybrid)",
+   "title": "Internship – Water Resources Engineer (Hybrid)",
    "uid": "workday:barr.wd1/barrcareers:Internship---Water-Resources-Engineer--Hybrid-_R-102304"
   },
   {
@@ -2244,7 +2104,7 @@
    "closed_at": 1790006170,
    "company": "Logesco Informatique",
    "hours_open": 310.8,
-   "title": "Administrateur de r\u00e9seau",
+   "title": "Administrateur de réseau",
    "uid": "jobillico:analyste reseau:17188132"
   },
   {
@@ -2433,7 +2293,7 @@
    "closed_at": 1790010082,
    "company": "voyagertechnologiesinc",
    "hours_open": 432.1,
-   "title": "Accelerated Physics Simulation Engineer \u2013 Agentic Computational Engineering (ACE)",
+   "title": "Accelerated Physics Simulation Engineer – Agentic Computational Engineering (ACE)",
    "uid": "greenhouse:voyagertechnologiesinc:4079284009"
   },
   {
@@ -2447,14 +2307,14 @@
    "closed_at": 1790016169,
    "company": "zebra",
    "hours_open": 124.1,
-   "title": "Firmware/Software Engineer, Professional I - Ing\u00e9nieur(e) en micrologiciel / logiciel, professionnel(le) I",
+   "title": "Firmware/Software Engineer, Professional I - Ingénieur(e) en micrologiciel / logiciel, professionnel(le) I",
    "uid": "workday:zebra.wd501/Zebra_careers:Firmware-Software-Engineer--Professional-I---Ingnieur-e--en-micrologiciel---logiciel--professionnel-le--I_JR103049"
   },
   {
    "closed_at": 1790016169,
-   "company": "Groupe Mario Cot\u00e9",
+   "company": "Groupe Mario Coté",
    "hours_open": 241.4,
-   "title": "Administrateur de r\u00e9seau",
+   "title": "Administrateur de réseau",
    "uid": "jobillico:analyste reseau:17520153"
   },
   {
@@ -2566,7 +2426,7 @@
    "closed_at": 1790016713,
    "company": "pathrobotics",
    "hours_open": 2.2,
-   "title": "Software Engineer \u2013 ML Infrastructure",
+   "title": "Software Engineer – ML Infrastructure",
    "uid": "greenhouse:pathrobotics:8827576002"
   },
   {
@@ -2776,7 +2636,7 @@
    "closed_at": 1790021842,
    "company": "voyagertechnologiesinc",
    "hours_open": 435.3,
-   "title": "Accelerated Physics Simulation Engineer \u2013 Agentic Computational Engineering (ACE)",
+   "title": "Accelerated Physics Simulation Engineer – Agentic Computational Engineering (ACE)",
    "uid": "greenhouse:voyagertechnologiesinc:4079284009"
   },
   {
@@ -2825,7 +2685,7 @@
    "closed_at": 1790024422,
    "company": "pathrobotics",
    "hours_open": 4.3,
-   "title": "Software Engineer \u2013 ML Infrastructure",
+   "title": "Software Engineer – ML Infrastructure",
    "uid": "greenhouse:pathrobotics:8827576002"
   },
   {
@@ -2965,7 +2825,7 @@
    "closed_at": 1790029104,
    "company": "voyagertechnologiesinc",
    "hours_open": 437.3,
-   "title": "Accelerated Physics Simulation Engineer \u2013 Agentic Computational Engineering (ACE)",
+   "title": "Accelerated Physics Simulation Engineer – Agentic Computational Engineering (ACE)",
    "uid": "greenhouse:voyagertechnologiesinc:4079284009"
   },
   {
@@ -3000,7 +2860,7 @@
    "closed_at": 1790029519,
    "company": "pathrobotics",
    "hours_open": 5.7,
-   "title": "Software Engineer \u2013 ML Infrastructure",
+   "title": "Software Engineer – ML Infrastructure",
    "uid": "greenhouse:pathrobotics:8827576002"
   },
   {
@@ -3014,7 +2874,7 @@
    "closed_at": 1790029519,
    "company": "Bosch Group",
    "hours_open": 80.5,
-   "title": "[EJV] Junior Telematics Software Engineer \u2014 Embedded Android",
+   "title": "[EJV] Junior Telematics Software Engineer — Embedded Android",
    "uid": "smartrecruiters:BoschGroup:744000150340229"
   },
   {
@@ -3217,7 +3077,7 @@
    "closed_at": 1790033004,
    "company": "voyagertechnologiesinc",
    "hours_open": 438.4,
-   "title": "Accelerated Physics Simulation Engineer \u2013 Agentic Computational Engineering (ACE)",
+   "title": "Accelerated Physics Simulation Engineer – Agentic Computational Engineering (ACE)",
    "uid": "greenhouse:voyagertechnologiesinc:4079284009"
   },
   {
@@ -3252,7 +3112,7 @@
    "closed_at": 1790035386,
    "company": "ag",
    "hours_open": 81.1,
-   "title": "Embedded Software Development Engineer \u2013 Entry-level Software developer (m/f)",
+   "title": "Embedded Software Development Engineer – Entry-level Software developer (m/f)",
    "uid": "workday:ag.wd3/Airbus:Embedded-Software-Development-Engineer---Entry-level-Software-developer--m-f-_JR10427609-2"
   },
   {
@@ -3287,7 +3147,7 @@
    "closed_at": 1790038575,
    "company": "ccf",
    "hours_open": 11.6,
-   "title": "New Grad RN Resident \u2013 Stroke/Telemetry",
+   "title": "New Grad RN Resident – Stroke/Telemetry",
    "uid": "workday:ccf.wd1/ClevelandClinicCareers:New-Grad-RN-Resident---Stroke-Telemetry_338764-1"
   },
   {
@@ -3700,7 +3560,7 @@
    "closed_at": 1790056558,
    "company": "voyagertechnologiesinc",
    "hours_open": 445.0,
-   "title": "Accelerated Physics Simulation Engineer \u2013 Agentic Computational Engineering (ACE)",
+   "title": "Accelerated Physics Simulation Engineer – Agentic Computational Engineering (ACE)",
    "uid": "greenhouse:voyagertechnologiesinc:4079284009"
   },
   {
@@ -3833,7 +3693,7 @@
    "closed_at": 1790069500,
    "company": "voyagertechnologiesinc",
    "hours_open": 448.6,
-   "title": "Accelerated Physics Simulation Engineer \u2013 Agentic Computational Engineering (ACE)",
+   "title": "Accelerated Physics Simulation Engineer – Agentic Computational Engineering (ACE)",
    "uid": "greenhouse:voyagertechnologiesinc:4079284009"
   },
   {
@@ -3859,14 +3719,14 @@
   },
   {
    "closed_at": 1790077752,
-   "company": "General Dynamics Produits de d\u00e9fense et Syst\u00e8mes Tactiques",
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
    "hours_open": 330.7,
-   "title": "Administrateur R\u00e9seau TI",
+   "title": "Administrateur Réseau TI",
    "uid": "jobillico:analyste reseau:17386419"
   },
   {
    "closed_at": 1790078873,
-   "company": "FIBROTEK MAT\u00c9RIAUX AVANC\u00c9S INC.",
+   "company": "FIBROTEK MATÉRIAUX AVANCÉS INC.",
    "hours_open": 181.7,
    "title": "mobile applications developer",
    "uid": "jobbank:developpeur junior:50286599"
@@ -3887,7 +3747,7 @@
   },
   {
    "closed_at": 1790078949,
-   "company": "FIBROTEK MAT\u00c9RIAUX AVANC\u00c9S INC.",
+   "company": "FIBROTEK MATÉRIAUX AVANCÉS INC.",
    "hours_open": 181.7,
    "title": "mobile applications developer",
    "uid": "jobbank:developpeur junior:50286599"
@@ -3908,9 +3768,9 @@
   },
   {
    "closed_at": 1790086284,
-   "company": "Groupe Mario Cot\u00e9",
+   "company": "Groupe Mario Coté",
    "hours_open": 260.9,
-   "title": "Administrateur de r\u00e9seau",
+   "title": "Administrateur de réseau",
    "uid": "jobillico:analyste reseau:17520153"
   },
   {
@@ -4013,7 +3873,7 @@
   },
   {
    "closed_at": 1790091113,
-   "company": "Ciment Qu\u00e9bec inc.",
+   "company": "Ciment Québec inc.",
    "hours_open": 264.9,
    "title": "Technicien en informatique",
    "uid": "jobillico:technicien informatique:17496390"
@@ -4141,7 +4001,7 @@
    "closed_at": 1790096007,
    "company": "globalhr",
    "hours_open": 107.3,
-   "title": "Sp\u00e9cialiste en automatisation manufacturi\u00e8re / Manufacturing Automation Specialist",
+   "title": "Spécialiste en automatisation manufacturière / Manufacturing Automation Specialist",
    "uid": "workday:globalhr.wd5/Private_Posting_No_TMP:Spcialiste-en-automatisation-manufacturire---Manufacturing-Automation-Specialist_01869338-2"
   },
   {
@@ -4603,14 +4463,14 @@
    "closed_at": 1790114729,
    "company": "AECOM",
    "hours_open": 23.7,
-   "title": "Entry-Level Water Resources Engineer \u2013 Remediation - Networking Event with AECOM \u2013 Boston, MA",
+   "title": "Entry-Level Water Resources Engineer – Remediation - Networking Event with AECOM – Boston, MA",
    "uid": "smartrecruiters:AECOM2:744000150759509"
   },
   {
    "closed_at": 1790114729,
    "company": "citylogix",
    "hours_open": 340.4,
-   "title": "IT Specialist / Sp\u00e9cialiste en informatique",
+   "title": "IT Specialist / Spécialiste en informatique",
    "uid": "rippling:citylogix:f74798da-9934-4d64-8660-5512053ec908"
   },
   {
@@ -5086,7 +4946,7 @@
    "closed_at": 1790128196,
    "company": "Aquatic Capital Management",
    "hours_open": 501.5,
-   "title": "Software Engineer \u2013 Early Career",
+   "title": "Software Engineer – Early Career",
    "uid": "simplify:listings:d54312d4-b724-4f31-8edc-89a45c0f4ef5"
   },
   {
@@ -5163,7 +5023,7 @@
    "closed_at": 1790139835,
    "company": "EvenUp",
    "hours_open": 504.7,
-   "title": "Software Engineer \u2013 New Grad - Cases Product",
+   "title": "Software Engineer – New Grad - Cases Product",
    "uid": "simplify:listings:37510038-1f6f-4be0-bfe7-50811c1ee137"
   },
   {
@@ -5289,7 +5149,7 @@
    "closed_at": 1790157350,
    "company": "AECOM",
    "hours_open": 11.8,
-   "title": "Entry-Level Water Resources Engineer \u2013 Remediation - Networking Event with AECOM \u2013 Boston, MA",
+   "title": "Entry-Level Water Resources Engineer – Remediation - Networking Event with AECOM – Boston, MA",
    "uid": "smartrecruiters:AECOM2:744000151062739"
   },
   {
@@ -5548,7 +5408,7 @@
    "closed_at": 1790174707,
    "company": "accenturefederalservices",
    "hours_open": 357.6,
-   "title": "System Administrator \u2013 Databricks",
+   "title": "System Administrator – Databricks",
    "uid": "greenhouse:accenturefederalservices:4701229006"
   },
   {
@@ -5627,6 +5487,120 @@
    "hours_open": 394.2,
    "title": "Solution Engineer",
    "uid": "workday:mars.wd3/external:Solution-Engineer_R161845-1"
+  },
+  {
+   "closed_at": 1790177509,
+   "company": "onto",
+   "hours_open": 137.4,
+   "title": "Development Engineer 1",
+   "uid": "workday:onto.wd1/onto_careers:Development-Engineer-1_R-6389"
+  },
+  {
+   "closed_at": 1790177509,
+   "company": "ngc",
+   "hours_open": 14.6,
+   "title": "2027 Cyber Software Engineer Intern - Tampa FL",
+   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Cyber-Software-Engineer-Intern---Tampa-FL_R10249530"
+  },
+  {
+   "closed_at": 1790177509,
+   "company": "ngc",
+   "hours_open": 22.6,
+   "title": "2027 Cyber Systems Engineer Intern-Tampa FL",
+   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Cyber-Systems-Engineer-Intern-Tampa-FL_R10249196"
+  },
+  {
+   "closed_at": 1790177509,
+   "company": "ngc",
+   "hours_open": 22.6,
+   "title": "2027 Software Engineer Intern - San Diego CA",
+   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Software-Engineer-Intern---San-Diego-CA_R10252150"
+  },
+  {
+   "closed_at": 1790177509,
+   "company": "ngc",
+   "hours_open": 14.6,
+   "title": "2026 Associate Engineer Electrical/Engineer Electrical (Level 1/2)",
+   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2026-Associate-Engineer-Electrical-Engineer-Electrical--Level-1-2-_R10251593-1"
+  },
+  {
+   "closed_at": 1790177509,
+   "company": "RemoteJobsOne",
+   "hours_open": 16.8,
+   "title": "server administrator",
+   "uid": "jobbank:linux administrator:50344594"
+  },
+  {
+   "closed_at": 1790177509,
+   "company": "Groupe DCM",
+   "hours_open": 124.4,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534670"
+  },
+  {
+   "closed_at": 1790177509,
+   "company": "micron",
+   "hours_open": 137.4,
+   "title": "New College Grad - AI Infrastructure & HBM Architecture Engineer",
+   "uid": "workday:micron.wd1/External:New-College-Grad---AI-Infrastructure---HBM-Architecture-Engineer_JR109578"
+  },
+  {
+   "closed_at": 1790177509,
+   "company": "kla",
+   "hours_open": 226.4,
+   "title": "Software Engineering Intern",
+   "uid": "workday:kla.wd1/annarbor:Software-Engineering-Intern_2531653"
+  },
+  {
+   "closed_at": 1790177509,
+   "company": "mastercard",
+   "hours_open": 481.9,
+   "title": "Software Engineer Intern, Summer 2027 – United States",
+   "uid": "workday:mastercard.wd1/Campus:Software-Engineer-Intern--Summer-2027---United-States_R-287618-1"
+  },
+  {
+   "closed_at": 1790177509,
+   "company": "micron",
+   "hours_open": 37.8,
+   "title": "Intern- ID1 Equipment Engineer",
+   "uid": "workday:micron.wd1/External:Intern--ID1-Equipment-Engineer_JR111232"
+  },
+  {
+   "closed_at": 1790177509,
+   "company": "oshkoshcorporation",
+   "hours_open": 46.5,
+   "title": "Engineer Intern - Mechanical (Summer 2027)",
+   "uid": "workday:oshkoshcorporation.wd5/Oshkosh:Engineer-Intern---Mechanical--Summer-2027-_R50502"
+  },
+  {
+   "closed_at": 1790177509,
+   "company": "twitch",
+   "hours_open": 478.6,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1790177509,
+   "company": "philips",
+   "hours_open": 473.5,
+   "title": "Software Engineer Intern",
+   "uid": "workday:philips.wd3/jobs-and-careers:Software-Engineer-Intern_588645-1"
+  },
+  {
+   "closed_at": 1790177509,
+   "company": "spacex",
+   "hours_open": 377.7,
+   "title": "Full Stack Software Engineer",
+   "uid": "greenhouse:spacex:8785505002"
+  },
+  {
+   "closed_at": 1790177509,
+   "company": "spacex",
+   "hours_open": 475.6,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
   }
- ]
+ ],
+ "count": 820,
+ "updated_at": 1790177511
 }
