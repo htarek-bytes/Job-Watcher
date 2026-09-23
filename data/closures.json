@@ -2,27 +2,6 @@
  "closed": [
   {
    "closed_at": 1789853670,
-   "company": "relx",
-   "hours_open": 410.0,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - June)",
-   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-2"
-  },
-  {
-   "closed_at": 1789853670,
-   "company": "relx",
-   "hours_open": 410.0,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Boca Raton - June)",
-   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Boca-Raton---June-_R116023"
-  },
-  {
-   "closed_at": 1789853670,
-   "company": "Valsoft Corporation",
-   "hours_open": 34.5,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50313403"
-  },
-  {
-   "closed_at": 1789853670,
    "company": "spacex",
    "hours_open": 388.6,
    "title": "Security Software Engineer (Starlink)",
@@ -5599,8 +5578,29 @@
    "hours_open": 485.0,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1790201965,
+   "company": "Source Code",
+   "hours_open": 0.2,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:control systems analyst:50290573"
+  },
+  {
+   "closed_at": 1790201965,
+   "company": "adobe",
+   "hours_open": 23.4,
+   "title": "2027 University Graduate - AI Forward Deployed Engineer",
+   "uid": "workday:adobe.wd5/external_experienced:XMLNAME-2027-University-Graduate---AI-Forward-Deployed-Engineer_R172018"
+  },
+  {
+   "closed_at": 1790201965,
+   "company": "SciTec",
+   "hours_open": 46.7,
+   "title": "Cybersecurity Asset Engineer (Clearance Required)",
+   "uid": "workable:scitec:0941E0F014"
   }
  ],
- "count": 811,
- "updated_at": 1790201768
+ "count": 803,
+ "updated_at": 1790201966
 }
