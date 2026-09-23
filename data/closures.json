@@ -2,48 +2,6 @@
  "closed": [
   {
    "closed_at": 1789768687,
-   "company": "ADGA Group Consultants Inc",
-   "hours_open": 244.6,
-   "title": "Intelligence Mission Data Systems Analyst",
-   "uid": "smartrecruiters:ADGAGroupConsultantsInc1:744000146222969"
-  },
-  {
-   "closed_at": 1789768687,
-   "company": "Noom",
-   "hours_open": 401.6,
-   "title": "Agentic Engineer New Grad",
-   "uid": "simplify:listings:deebe837-33bf-4674-9b5a-57ef02b237bc"
-  },
-  {
-   "closed_at": 1789768687,
-   "company": "stripe",
-   "hours_open": 365.0,
-   "title": "Backend/API Engineer, Money as a Service",
-   "uid": "greenhouse:stripe:6176758"
-  },
-  {
-   "closed_at": 1789768687,
-   "company": "Brain Co.",
-   "hours_open": 401.6,
-   "title": "Early Career Machine Learning Engineer - Applied AI",
-   "uid": "simplify:listings:ca7d68ba-0e7b-411e-974e-de4b08bc123f"
-  },
-  {
-   "closed_at": 1789768687,
-   "company": "spacex",
-   "hours_open": 362.1,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1789768687,
-   "company": "spacex",
-   "hours_open": 364.7,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1789768687,
    "company": "spacex",
    "hours_open": 365.0,
    "title": "Software Engineer (Starship)",
@@ -5599,8 +5557,50 @@
    "hours_open": 461.8,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1790124503,
+   "company": "gevernova",
+   "hours_open": 7.9,
+   "title": "Engineering Intern - Power Conversion & Storage AI Tool Developer  2027",
+   "uid": "workday:gevernova.wd5/vernova_externalsite:Engineering-Intern---Power-Conversion---Storage-AI-Tool-Developer--2027_R5049957-2"
+  },
+  {
+   "closed_at": 1790124503,
+   "company": "haier",
+   "hours_open": 467.3,
+   "title": "Software Engineering Co-op_Summer 2027",
+   "uid": "workday:haier.wd3/ge_appliances:Software-Engineering-Co-op-Summer-2027_REQ-26427"
+  },
+  {
+   "closed_at": 1790124503,
+   "company": "globalhr",
+   "hours_open": 326.9,
+   "title": "Software Engineering Intern (Summer 2027)",
+   "uid": "workday:globalhr.wd5/Private_Posting_No_TMP:Software-Engineering-Intern--Summer-2027-_01870410"
+  },
+  {
+   "closed_at": 1790124503,
+   "company": "globalhr",
+   "hours_open": 301.0,
+   "title": "Systems Engineer Intern - Helmet Displays (Summer 2027) - Onsite",
+   "uid": "workday:globalhr.wd5/Private_Posting_No_TMP:Systems-Engineer-Intern---Helmet-Displays--Summer-2027----Onsite_01867411"
+  },
+  {
+   "closed_at": 1790124503,
+   "company": "spacex",
+   "hours_open": 343.7,
+   "title": "IT Network Infrastructure Technician (Weekend Shift)",
+   "uid": "greenhouse:spacex:8771106002"
+  },
+  {
+   "closed_at": 1790124503,
+   "company": "spacex",
+   "hours_open": 463.8,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 807,
- "updated_at": 1790123243
+ "count": 806,
+ "updated_at": 1790124504
 }
