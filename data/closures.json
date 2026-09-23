@@ -2,13 +2,6 @@
  "closed": [
   {
    "closed_at": 1789780564,
-   "company": "Source Code",
-   "hours_open": 0.7,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:systems analyst:50289543"
-  },
-  {
-   "closed_at": 1789780564,
    "company": "kiongroup",
    "hours_open": 86.9,
    "title": "Controls Engineer (New Graduate - Early Career)",
@@ -5599,8 +5592,15 @@
    "hours_open": 353.0,
    "title": "Autonomy Algorithms Software Engineer",
    "uid": "greenhouse:systemstechnologyresearch:4704680006"
+  },
+  {
+   "closed_at": 1790158475,
+   "company": "Groupe DCM",
+   "hours_open": 119.2,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534670"
   }
  ],
- "count": 803,
- "updated_at": 1790158184
+ "count": 801,
+ "updated_at": 1790158475
 }
