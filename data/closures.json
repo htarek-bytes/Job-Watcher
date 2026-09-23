@@ -1,104 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789768687,
-   "company": "spacex",
-   "hours_open": 365.0,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1789467869,
-   "company": "Article",
-   "hours_open": 83.8,
-   "title": "software developer",
-   "uid": "jobbank:entry level software developer:50269151"
-  },
-  {
-   "closed_at": 1789467869,
-   "company": "Nexthop.ai",
-   "hours_open": 11.9,
-   "title": "Software Engineer New Grad",
-   "uid": "simplify:listings:36340c4d-5f81-4c62-876c-3159e88b62c3"
-  },
-  {
-   "closed_at": 1789467869,
-   "company": "globalhr",
-   "hours_open": 281.4,
-   "title": "Cyber/EW Research Developer, Intern (Onsite)",
-   "uid": "workday:globalhr.wd5/Private_Posting_No_TMP:Cyber-EW-Research-Developer--Intern--Onsite-_01863674"
-  },
-  {
-   "closed_at": 1789768811,
-   "company": "miovision",
-   "hours_open": 47.7,
-   "title": "Technical Solution Engineer",
-   "uid": "ashby:miovision:b3fba46f-8c0b-412a-a141-ee4dbb430a15"
-  },
-  {
-   "closed_at": 1789768811,
-   "company": "AECOM",
-   "hours_open": 8.1,
-   "title": "Entry-Level Engineer - Water - Hiring Event with AECOM – Philadelphia, PA",
-   "uid": "smartrecruiters:AECOM2:744000150233379"
-  },
-  {
-   "closed_at": 1789768811,
-   "company": "appnovation",
-   "hours_open": 365.0,
-   "title": "Full-Stack AI Engineer",
-   "uid": "greenhouse:appnovation:8760795002"
-  },
-  {
-   "closed_at": 1789768811,
-   "company": "samsara",
-   "hours_open": 244.9,
-   "title": "IT Specialist",
-   "uid": "greenhouse:samsara:8154440"
-  },
-  {
-   "closed_at": 1789768811,
-   "company": "ADGA Group Consultants Inc",
-   "hours_open": 244.6,
-   "title": "Intelligence Mission Data Systems Analyst",
-   "uid": "smartrecruiters:ADGAGroupConsultantsInc1:744000146222969"
-  },
-  {
-   "closed_at": 1789768811,
-   "company": "Noom",
-   "hours_open": 401.7,
-   "title": "Agentic Engineer New Grad",
-   "uid": "simplify:listings:deebe837-33bf-4674-9b5a-57ef02b237bc"
-  },
-  {
-   "closed_at": 1789768811,
-   "company": "waabi",
-   "hours_open": 365.0,
-   "title": "Research Engineer, Learnable Planner (Integration)",
-   "uid": "lever:waabi:30f77194-6f1c-4ee2-8bb9-0eb9763250af"
-  },
-  {
-   "closed_at": 1789768811,
-   "company": "stripe",
-   "hours_open": 365.0,
-   "title": "Backend/API Engineer, Money as a Service",
-   "uid": "greenhouse:stripe:6176758"
-  },
-  {
-   "closed_at": 1789768811,
-   "company": "Brain Co.",
-   "hours_open": 401.7,
-   "title": "Early Career Machine Learning Engineer - Applied AI",
-   "uid": "simplify:listings:ca7d68ba-0e7b-411e-974e-de4b08bc123f"
-  },
-  {
-   "closed_at": 1789768811,
-   "company": "systemstechnologyresearch",
-   "hours_open": 244.9,
-   "title": "Autonomy Algorithms Software Engineer",
-   "uid": "greenhouse:systemstechnologyresearch:4704680006"
-  },
-  {
    "closed_at": 1789770624,
    "company": "Arista Networks",
    "hours_open": 44.6,
@@ -5599,8 +5501,106 @@
    "hours_open": 463.8,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1790125084,
+   "company": "marvell",
+   "hours_open": 8.0,
+   "title": "Software/Firmware Engineer Intern",
+   "uid": "workday:marvell.wd1/MarvellCareers:Software-Firmware-Engineer-Intern_2604053"
+  },
+  {
+   "closed_at": 1790125084,
+   "company": "Groupe DCM",
+   "hours_open": 109.9,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534670"
+  },
+  {
+   "closed_at": 1790125084,
+   "company": "nvidia",
+   "hours_open": 122.8,
+   "title": "Software QA Engineer- New College Grad 2026",
+   "uid": "workday:nvidia.wd5/NVIDIAExternalCareerSite:Software-QA-Engineer--New-College-Grad-2026_JR2025900"
+  },
+  {
+   "closed_at": 1790125084,
+   "company": "nvidia",
+   "hours_open": 485.3,
+   "title": "GPU Architecture Engineer - New College Grad 2026",
+   "uid": "workday:nvidia.wd5/NVIDIAExternalCareerSite:GPU-Architecture-Engineer---New-College-Grad-2026_JR2021615"
+  },
+  {
+   "closed_at": 1790125084,
+   "company": "jj",
+   "hours_open": 23.3,
+   "title": "Development Engineer (GTO/SC) Summer Intern",
+   "uid": "workday:jj.wd5/JJ:Development-Engineer--GTO-SC--Summer-Intern_R-098779"
+  },
+  {
+   "closed_at": 1790125084,
+   "company": "marvell",
+   "hours_open": 23.3,
+   "title": "Test Equipment Engineer Intern",
+   "uid": "workday:marvell.wd1/MarvellCareers:Test-Equipment-Engineer-Intern_2603826-1"
+  },
+  {
+   "closed_at": 1790125084,
+   "company": "marvell",
+   "hours_open": 23.3,
+   "title": "Board Product Engineer Intern, BS - Summer 2027",
+   "uid": "workday:marvell.wd1/MarvellCareers:Board-Product-Engineer-Intern--BS---Summer-2027_2603833-1"
+  },
+  {
+   "closed_at": 1790125084,
+   "company": "twitch",
+   "hours_open": 461.1,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1790125084,
+   "company": "ncr",
+   "hours_open": 194.5,
+   "title": "Customer Engineer",
+   "uid": "workday:ncr.wd1/ext_us:Customer-Engineer_R0157376-1"
+  },
+  {
+   "closed_at": 1790125084,
+   "company": "nvidia",
+   "hours_open": 485.3,
+   "title": "Formal Verification Engineer - New College Grad 2026",
+   "uid": "workday:nvidia.wd5/NVIDIAExternalCareerSite:Formal-Verification-Engineer---New-College-Grad-2026_JR2020837"
+  },
+  {
+   "closed_at": 1790125084,
+   "company": "spacex",
+   "hours_open": 464.0,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1790125084,
+   "company": "systemstechnologyresearch",
+   "hours_open": 343.8,
+   "title": "Autonomy Algorithms Software Engineer",
+   "uid": "greenhouse:systemstechnologyresearch:4704680006"
+  },
+  {
+   "closed_at": 1790125084,
+   "company": "spacex",
+   "hours_open": 464.0,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1790125084,
+   "company": "spacex",
+   "hours_open": 462.3,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
- "count": 806,
- "updated_at": 1790124504
+ "count": 814,
+ "updated_at": 1790125085
 }
