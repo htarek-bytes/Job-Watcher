@@ -1,83 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789823880,
-   "company": "Groupe DCM",
-   "hours_open": 32.4,
-   "title": "Programmeur CNC / CNC Programmer",
-   "uid": "jobillico:programmeur junior:17534679"
-  },
-  {
-   "closed_at": 1789823880,
-   "company": "fmr",
-   "hours_open": 172.4,
-   "title": "Co-op, Software Engineer",
-   "uid": "workday:fmr.wd1/targeted:Co-op--Software-Engineer_2135230"
-  },
-  {
-   "closed_at": 1789823880,
-   "company": "globalhr",
-   "hours_open": 12.7,
-   "title": "Software Engineering Intern (Summer 2027)",
-   "uid": "workday:globalhr.wd5/rec_rtx_ext_gateway:Software-Engineering-Intern--Summer-2027-_01875780"
-  },
-  {
-   "closed_at": 1789823880,
-   "company": "systemstechnologyresearch",
-   "hours_open": 373.4,
-   "title": "Autonomy Algorithms Software Engineer",
-   "uid": "greenhouse:systemstechnologyresearch:4704682006"
-  },
-  {
-   "closed_at": 1789823880,
-   "company": "spacex",
-   "hours_open": 380.3,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1789824152,
-   "company": "lumentum",
-   "hours_open": 86.8,
-   "title": "Embedded Software DevSecOps Engineer (Co-op Student)",
-   "uid": "workday:lumentum.wd5/LITE:Embedded-Software-DevSecOps-Engineer--Co-op-Student-_20261356"
-  },
-  {
-   "closed_at": 1789824152,
-   "company": "mastercard",
-   "hours_open": 383.8,
-   "title": "Software Engineer Intern, Summer 2027 – United States",
-   "uid": "workday:mastercard.wd1/Campus:Software-Engineer-Intern--Summer-2027---United-States_R-287618-1"
-  },
-  {
-   "closed_at": 1789824152,
-   "company": "Valsoft Corporation",
-   "hours_open": 26.3,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50313403"
-  },
-  {
-   "closed_at": 1789826536,
-   "company": "Groupe DCM",
-   "hours_open": 27.0,
-   "title": "Programmeur CNC / CNC Programmer",
-   "uid": "jobillico:programmeur junior:17534670"
-  },
-  {
-   "closed_at": 1789826536,
-   "company": "relx",
-   "hours_open": 400.1,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - January)",
-   "uid": "workday:relx.wd3/RiskSolutions:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617"
-  },
-  {
-   "closed_at": 1789826536,
-   "company": "relx",
-   "hours_open": 400.1,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - June)",
-   "uid": "workday:relx.wd3/RiskSolutions:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-1"
-  },
-  {
    "closed_at": 1789826536,
    "company": "relx",
    "hours_open": 400.1,
@@ -5599,8 +5522,85 @@
    "hours_open": 360.3,
    "title": "Autonomy Algorithms Software Engineer",
    "uid": "greenhouse:systemstechnologyresearch:4704680006"
+  },
+  {
+   "closed_at": 1790188909,
+   "company": "Alt Informatique",
+   "hours_open": 133.8,
+   "title": "Technicien informatique junior",
+   "uid": "jobillico:technicien informatique:17381391"
+  },
+  {
+   "closed_at": 1790188909,
+   "company": "Groupe DCM",
+   "hours_open": 133.8,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534679"
+  },
+  {
+   "closed_at": 1790188909,
+   "company": "twitch",
+   "hours_open": 478.8,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1790188909,
+   "company": "lgelectronics",
+   "hours_open": 480.0,
+   "title": "Embodied AI Engineer",
+   "uid": "greenhouse:lgelectronics:5369133008"
+  },
+  {
+   "closed_at": 1790188909,
+   "company": "systemstechnologyresearch",
+   "hours_open": 172.3,
+   "title": "Cleared Systems Administrator",
+   "uid": "greenhouse:systemstechnologyresearch:4713796006"
+  },
+  {
+   "closed_at": 1790188909,
+   "company": "spacex",
+   "hours_open": 481.7,
+   "title": "Aviation Development Engineer, Networking (Starlink) ",
+   "uid": "greenhouse:spacex:8731929002"
+  },
+  {
+   "closed_at": 1790188909,
+   "company": "spacex",
+   "hours_open": 478.8,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1790188909,
+   "company": "systemstechnologyresearch",
+   "hours_open": 474.8,
+   "title": "Autonomy Algorithms Software Engineer",
+   "uid": "greenhouse:systemstechnologyresearch:4704682006"
+  },
+  {
+   "closed_at": 1790188909,
+   "company": "muonspace",
+   "hours_open": 500.7,
+   "title": "Software Engineer, Entry-Level",
+   "uid": "greenhouse:muonspace:5204498007"
+  },
+  {
+   "closed_at": 1790188909,
+   "company": "RTX",
+   "hours_open": 170.8,
+   "title": "Software Engineer 1",
+   "uid": "simplify:listings:289798f6-332d-4b16-b177-1466651e2548"
+  },
+  {
+   "closed_at": 1790188909,
+   "company": "spacex",
+   "hours_open": 480.0,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
- "count": 813,
- "updated_at": 1790184573
+ "count": 811,
+ "updated_at": 1790188909
 }
