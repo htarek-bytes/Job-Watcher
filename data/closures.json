@@ -2,20 +2,6 @@
  "closed": [
   {
    "closed_at": 1789835368,
-   "company": "Groupe Mario Coté",
-   "hours_open": 191.2,
-   "title": "Administrateur de réseau",
-   "uid": "jobillico:analyste reseau:17520153"
-  },
-  {
-   "closed_at": 1789835368,
-   "company": "Agari Kitchen",
-   "hours_open": 217.4,
-   "title": "electronics engineer",
-   "uid": "jobbank:control systems analyst:50258093"
-  },
-  {
-   "closed_at": 1789835368,
    "company": "Valsoft Corporation",
    "hours_open": 29.4,
    "title": "software developer",
@@ -5599,8 +5585,22 @@
    "hours_open": 482.0,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1790190182,
+   "company": "tapcart",
+   "hours_open": 474.9,
+   "title": "AI Ops Engineer - GTM",
+   "uid": "ashby:tapcart:a2be92a5-27fb-443b-93ba-08d53dd7ca09"
+  },
+  {
+   "closed_at": 1790190182,
+   "company": "notion",
+   "hours_open": 482.1,
+   "title": "Software Engineer, AI Platform",
+   "uid": "ashby:notion:a9d4a192-d31c-48d2-8156-e2a75d98eec1"
   }
  ],
- "count": 805,
- "updated_at": 1790190017
+ "count": 802,
+ "updated_at": 1790190182
 }
