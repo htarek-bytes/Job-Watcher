@@ -1,62 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789844324,
-   "company": "systemstechnologyresearch",
-   "hours_open": 379.0,
-   "title": "Autonomy Algorithms Software Engineer",
-   "uid": "greenhouse:systemstechnologyresearch:4704682006"
-  },
-  {
-   "closed_at": 1789845764,
-   "company": "Alt Informatique",
-   "hours_open": 38.5,
-   "title": "Technicien informatique junior",
-   "uid": "jobillico:technicien informatique:17381391"
-  },
-  {
-   "closed_at": 1789845764,
-   "company": "spacex",
-   "hours_open": 383.5,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1789845764,
-   "company": "spacex",
-   "hours_open": 386.4,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1789846270,
-   "company": "twitch",
-   "hours_open": 386.6,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1789846270,
-   "company": "systemstechnologyresearch",
-   "hours_open": 266.4,
-   "title": "Autonomy Algorithms Software Engineer",
-   "uid": "greenhouse:systemstechnologyresearch:4704680006"
-  },
-  {
-   "closed_at": 1789846270,
-   "company": "spacex",
-   "hours_open": 386.3,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1789846270,
-   "company": "spacex",
-   "hours_open": 384.9,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
    "closed_at": 1789852217,
    "company": "General Dynamics Produits de défense et Systèmes Tactiques",
    "hours_open": 268.0,
@@ -5599,8 +5543,64 @@
    "hours_open": 150.7,
    "title": "Software Development Engineer, Commerce Platform ADC, Team Mercury",
    "uid": "amazon:amazon:10551902"
+  },
+  {
+   "closed_at": 1790201317,
+   "company": "Tyson Foods",
+   "hours_open": 30.6,
+   "title": "Data Engineer 1",
+   "uid": "simplify:listings:d50d1577-1658-457d-a65f-f577f9996936"
+  },
+  {
+   "closed_at": 1790201317,
+   "company": "Agari Kitchen",
+   "hours_open": 319.1,
+   "title": "electronics engineer",
+   "uid": "jobbank:control systems analyst:50258093"
+  },
+  {
+   "closed_at": 1790201317,
+   "company": "twitch",
+   "hours_open": 485.2,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1790201317,
+   "company": "spacex",
+   "hours_open": 485.2,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1790201317,
+   "company": "General Dynamics Missions System International",
+   "hours_open": 506.5,
+   "title": "Junior Hardware Engineering Developer ",
+   "uid": "smartrecruiters:GDMSI:744000142894435"
+  },
+  {
+   "closed_at": 1790201317,
+   "company": "spacex",
+   "hours_open": 485.2,
+   "title": "Operations Engineer (Construction)",
+   "uid": "greenhouse:spacex:8645119002"
+  },
+  {
+   "closed_at": 1790201317,
+   "company": "spacex",
+   "hours_open": 485.2,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1790201317,
+   "company": "spacex",
+   "hours_open": 485.2,
+   "title": "Operations Engineer (Facilities)",
+   "uid": "greenhouse:spacex:8551671002"
   }
  ],
- "count": 811,
- "updated_at": 1790200202
+ "count": 808,
+ "updated_at": 1790201318
 }
