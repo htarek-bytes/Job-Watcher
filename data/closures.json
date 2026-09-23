@@ -1,41 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789770624,
-   "company": "spacex",
-   "hours_open": 365.5,
-   "title": "AI Software Engineer (Vehicle Engineering)",
-   "uid": "greenhouse:spacex:8559015002"
-  },
-  {
-   "closed_at": 1789770624,
-   "company": "twitch",
-   "hours_open": 362.6,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1789770624,
-   "company": "Groupe Mario Coté",
-   "hours_open": 173.2,
-   "title": "Administrateur de réseau",
-   "uid": "jobillico:analyste reseau:17520153"
-  },
-  {
-   "closed_at": 1789770624,
-   "company": "systemstechnologyresearch",
-   "hours_open": 358.6,
-   "title": "Autonomy Algorithms Software Engineer",
-   "uid": "greenhouse:systemstechnologyresearch:4704682006"
-  },
-  {
-   "closed_at": 1789770747,
-   "company": "ServiceNow",
-   "hours_open": 52.0,
-   "title": "Advisory Solution Consultant",
-   "uid": "smartrecruiters:ServiceNow:744000149912359"
-  },
-  {
    "closed_at": 1789770747,
    "company": "AlphaHire",
    "hours_open": 74.6,
@@ -5599,8 +5564,43 @@
    "hours_open": 466.0,
    "title": "Software Engineer Intern",
    "uid": "workday:sonyglobal.wd1/SonyGlobalCareers:Software-Engineer-Intern_JR-119282"
+  },
+  {
+   "closed_at": 1790128196,
+   "company": "Keysight Technologies",
+   "hours_open": 291.0,
+   "title": "R&D Engineer 1",
+   "uid": "simplify:listings:70e0cf6f-abc6-4b38-ad63-795ce7e872cc"
+  },
+  {
+   "closed_at": 1790128196,
+   "company": "AeroVironment",
+   "hours_open": 339.0,
+   "title": "Software Engineer 1",
+   "uid": "simplify:listings:fc94fb9b-cff2-4c87-9214-c77b2a7d6d59"
+  },
+  {
+   "closed_at": 1790128196,
+   "company": "Aquatic Capital Management",
+   "hours_open": 501.5,
+   "title": "Software Engineer – Early Career",
+   "uid": "simplify:listings:d54312d4-b724-4f31-8edc-89a45c0f4ef5"
+  },
+  {
+   "closed_at": 1790128196,
+   "company": "spacex",
+   "hours_open": 461.9,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1790128196,
+   "company": "spacex",
+   "hours_open": 464.9,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 807,
- "updated_at": 1790125949
+ "count": 805,
+ "updated_at": 1790128197
 }
