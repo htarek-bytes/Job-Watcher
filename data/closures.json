@@ -1,104 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789835368,
-   "company": "rocketems",
-   "hours_open": 110.9,
-   "title": "Associate Test Engineer",
-   "uid": "greenhouse:rocketems:4398468009"
-  },
-  {
-   "closed_at": 1789835368,
-   "company": "spacex",
-   "hours_open": 383.5,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1789835699,
-   "company": "twitch",
-   "hours_open": 383.6,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1789835699,
-   "company": "Groupe DCM",
-   "hours_open": 29.5,
-   "title": "Programmeur CNC / CNC Programmer",
-   "uid": "jobillico:programmeur junior:17534670"
-  },
-  {
-   "closed_at": 1789835699,
-   "company": "people-culture-talent",
-   "hours_open": 300.9,
-   "title": "Customer Engineer",
-   "uid": "ashby:people-culture-talent:b7dcd37b-26c9-4c6a-824f-1e1eca2500ff"
-  },
-  {
-   "closed_at": 1789835699,
-   "company": "people-culture-talent",
-   "hours_open": 300.9,
-   "title": "Sales Engineer",
-   "uid": "ashby:people-culture-talent:8b9d13a0-c49e-4edb-bbdd-403628af3d75"
-  },
-  {
-   "closed_at": 1789835699,
-   "company": "systemstechnologyresearch",
-   "hours_open": 263.4,
-   "title": "Autonomy Algorithms Software Engineer",
-   "uid": "greenhouse:systemstechnologyresearch:4704680006"
-  },
-  {
-   "closed_at": 1789836023,
-   "company": "twitch",
-   "hours_open": 380.8,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1789836023,
-   "company": "Valsoft Corporation",
-   "hours_open": 7.7,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50320295"
-  },
-  {
-   "closed_at": 1789836023,
-   "company": "systemstechnologyresearch",
-   "hours_open": 376.7,
-   "title": "Autonomy Algorithms Software Engineer",
-   "uid": "greenhouse:systemstechnologyresearch:4704682006"
-  },
-  {
-   "closed_at": 1789837993,
-   "company": "twitch",
-   "hours_open": 384.3,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1789837993,
-   "company": "Groupe DCM",
-   "hours_open": 36.3,
-   "title": "Programmeur CNC / CNC Programmer",
-   "uid": "jobillico:programmeur junior:17534679"
-  },
-  {
-   "closed_at": 1789837993,
-   "company": "Logesco Informatique",
-   "hours_open": 264.1,
-   "title": "Administrateur de réseau",
-   "uid": "jobillico:analyste reseau:17188132"
-  },
-  {
-   "closed_at": 1789837993,
-   "company": "Valsoft Corporation",
-   "hours_open": 30.1,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50313403"
-  },
-  {
    "closed_at": 1789837993,
    "company": "systemstechnologyresearch",
    "hours_open": 264.1,
@@ -5599,8 +5501,106 @@
    "hours_open": 518.9,
    "title": "Junior Application Developer",
    "uid": "simplify:listings:d8f01940-000a-4963-a53a-a8ecc213ca07"
+  },
+  {
+   "closed_at": 1790196061,
+   "company": "trace3",
+   "hours_open": 286.6,
+   "title": "Software Engineer",
+   "uid": "greenhouse:trace3:8197955"
+  },
+  {
+   "closed_at": 1790196061,
+   "company": "Groupe Mario Coté",
+   "hours_open": 291.4,
+   "title": "Administrateur de réseau",
+   "uid": "jobillico:analyste reseau:17520153"
+  },
+  {
+   "closed_at": 1790196061,
+   "company": "Logesco Informatique",
+   "hours_open": 363.5,
+   "title": "Administrateur de réseau",
+   "uid": "jobillico:analyste reseau:17188132"
+  },
+  {
+   "closed_at": 1790196061,
+   "company": "Le groupe Desfor",
+   "hours_open": 363.5,
+   "title": "Technicien informatique",
+   "uid": "jobillico:technicien informatique:10592761"
+  },
+  {
+   "closed_at": 1790196061,
+   "company": "Amazon",
+   "hours_open": 214.2,
+   "title": "Software Development Engineer, Catalog System Services - SPCL ",
+   "uid": "amazon:amazon:10539357"
+  },
+  {
+   "closed_at": 1790196061,
+   "company": "transmarketgroup",
+   "hours_open": 491.6,
+   "title": "Software Engineering Intern",
+   "uid": "greenhouse:transmarketgroup:5212335007"
+  },
+  {
+   "closed_at": 1790196061,
+   "company": "impact",
+   "hours_open": 483.7,
+   "title": "Site Reliability Engineer",
+   "uid": "greenhouse:impact:8545895002"
+  },
+  {
+   "closed_at": 1790196061,
+   "company": "innodatainc",
+   "hours_open": 401.6,
+   "title": "Robotics Solutions Engineer – Robotics Data Collection & Physical AI",
+   "uid": "greenhouse:innodatainc:4282301009"
+  },
+  {
+   "closed_at": 1790196061,
+   "company": "openai",
+   "hours_open": 483.7,
+   "title": "Data Engineer, People Innovation Labs",
+   "uid": "ashby:openai:579595e5-0b16-485e-b7c5-102fc7467def"
+  },
+  {
+   "closed_at": 1790196061,
+   "company": "Svab Insurance Inc.",
+   "hours_open": 363.5,
+   "title": "cloud administrator",
+   "uid": "jobbank:cloud administrator:50147703"
+  },
+  {
+   "closed_at": 1790196061,
+   "company": "NVIDIA",
+   "hours_open": 520.4,
+   "title": "Backend Compiler Engineer New Grad",
+   "uid": "simplify:listings:58e0500b-3577-4e69-9d43-b710f8155f10"
+  },
+  {
+   "closed_at": 1790196061,
+   "company": "spacex",
+   "hours_open": 483.7,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1790196061,
+   "company": "andurilindustries",
+   "hours_open": 482.0,
+   "title": "Manufacturing Process Development Engineer, Intelligence Systems",
+   "uid": "greenhouse:andurilindustries:5067299007"
+  },
+  {
+   "closed_at": 1790196061,
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
+   "hours_open": 363.5,
+   "title": "Administrateur Réseau TI",
+   "uid": "jobillico:analyste reseau:17386419"
   }
  ],
- "count": 801,
- "updated_at": 1790190760
+ "count": 814,
+ "updated_at": 1790196062
 }
