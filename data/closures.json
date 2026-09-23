@@ -1,97 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789814994,
-   "company": "Maarut",
-   "hours_open": 66.1,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:systems analyst:50300623"
-  },
-  {
-   "closed_at": 1789814994,
-   "company": "Zaber Technologies",
-   "hours_open": 29.9,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50248541"
-  },
-  {
-   "closed_at": 1789814994,
-   "company": "Valsoft Corporation",
-   "hours_open": 23.7,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50313403"
-  },
-  {
-   "closed_at": 1789814994,
-   "company": "Lakeland Roman Catholic Separate School Division",
-   "hours_open": 9.6,
-   "title": "computer systems analyst",
-   "uid": "jobbank:analyste de systemes:50064831"
-  },
-  {
-   "closed_at": 1789814994,
-   "company": "RTX",
-   "hours_open": 59.1,
-   "title": "System Integration Software Engineer 1 - System Integration Software Engineer I",
-   "uid": "simplify:listings:f0decac3-42e6-41b6-8f73-a954263e1bd7"
-  },
-  {
-   "closed_at": 1789817754,
-   "company": "Alt Informatique",
-   "hours_open": 30.7,
-   "title": "Technicien informatique junior",
-   "uid": "jobillico:technicien informatique:17381391"
-  },
-  {
-   "closed_at": 1789817754,
-   "company": "avav",
-   "hours_open": 189.8,
-   "title": "Software Engineering Intern",
-   "uid": "workday:avav.wd1/avav:Software-Engineering-Intern_8613"
-  },
-  {
-   "closed_at": 1789817754,
-   "company": "Valsoft Corporation",
-   "hours_open": 2.6,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50320295"
-  },
-  {
-   "closed_at": 1789823137,
-   "company": "twitch",
-   "hours_open": 380.1,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1789823137,
-   "company": "cadence",
-   "hours_open": 392.9,
-   "title": "Adams MultiBody Dynamics Application Software Developer (Recent Grad 2026)",
-   "uid": "workday:cadence.wd1/University_Talent:Adams-MultiBody-Dynamics-Application-Software-Developer--Recent-Grad-2026-_R55788-3"
-  },
-  {
-   "closed_at": 1789823137,
-   "company": "systemstechnologyresearch",
-   "hours_open": 259.9,
-   "title": "Autonomy Algorithms Software Engineer",
-   "uid": "greenhouse:systemstechnologyresearch:4704680006"
-  },
-  {
-   "closed_at": 1789823137,
-   "company": "spacex",
-   "hours_open": 379.9,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1789823880,
-   "company": "twitch",
-   "hours_open": 377.4,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
    "closed_at": 1789823880,
    "company": "Groupe DCM",
    "hours_open": 32.4,
@@ -5599,8 +5508,99 @@
    "hours_open": 475.6,
    "title": "Security Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1790184571,
+   "company": "purestorage",
+   "hours_open": 144.4,
+   "title": "Machine Learning Engineer, Digital Experience",
+   "uid": "greenhouse:purestorage:8209527"
+  },
+  {
+   "closed_at": 1790184571,
+   "company": "altentechnologyusa",
+   "hours_open": 44.5,
+   "title": "Junior Fuel Injection Design Engineer",
+   "uid": "greenhouse:altentechnologyusa:5240150007"
+  },
+  {
+   "closed_at": 1790184571,
+   "company": "td",
+   "hours_open": 171.1,
+   "title": "Mobile Software Engineer Intern/Co-op​ (Winter 2027)",
+   "uid": "workday:td.wd3/TD_Bank_Careers:Mobile-Software-Engineer-Co-op---Intern---Winter-2027-_R_1509825"
+  },
+  {
+   "closed_at": 1790184571,
+   "company": "radiancetech",
+   "hours_open": 333.4,
+   "title": "Reverse Engineer Intern",
+   "uid": "workday:radiancetech.wd12/Radiance_External:Reverse-Engineer-Intern_HR102400"
+  },
+  {
+   "closed_at": 1790184571,
+   "company": "td",
+   "hours_open": 128.0,
+   "title": "2027 Summer Internship Program - Global Technology & Solutions - Software Engineer (SWE)",
+   "uid": "workday:td.wd3/TD_Bank_Careers:XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Software-Engineer--SWE-_R_1510796-1"
+  },
+  {
+   "closed_at": 1790184571,
+   "company": "td",
+   "hours_open": 171.1,
+   "title": "2027 Spring Co-op - Global Technology & Solutions - Software Engineer (SWE)",
+   "uid": "workday:td.wd3/TD_Bank_Careers:XMLNAME-2027-Spring-Co-op---Global-Technology---Solutions---Software-Engineer--SWE-_R_1509773"
+  },
+  {
+   "closed_at": 1790184571,
+   "company": "stryker",
+   "hours_open": 163.1,
+   "title": "Summer 2027 Internship -  Software Engineering, Commercial Operations - Texas",
+   "uid": "workday:stryker.wd1/StrykerCareers:Commercial-Operations-Software-Engineering-Intern---Flower-Mound--TX_R572941"
+  },
+  {
+   "closed_at": 1790184571,
+   "company": "CesiumAstro",
+   "hours_open": 469.1,
+   "title": "FPGA Engineer 1",
+   "uid": "simplify:listings:74f8cdd1-ec7b-4441-a2a4-3d02ef77418a"
+  },
+  {
+   "closed_at": 1790184571,
+   "company": "PayIt",
+   "hours_open": 517.2,
+   "title": "Associate Software Engineer",
+   "uid": "simplify:listings:896a2ce6-0e75-40f5-9b7e-811079dfe6bb"
+  },
+  {
+   "closed_at": 1790184571,
+   "company": "Amazon",
+   "hours_open": 23.3,
+   "title": "Software Development Engineer, Conversational Ads Experience",
+   "uid": "amazon:amazon:10554916"
+  },
+  {
+   "closed_at": 1790184571,
+   "company": "Amazon",
+   "hours_open": 167.2,
+   "title": "Software Development Engineer, Amazon DSP, Amazon Ad Exchange",
+   "uid": "amazon:amazon:10547074"
+  },
+  {
+   "closed_at": 1790184571,
+   "company": "spacex",
+   "hours_open": 480.5,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1790184571,
+   "company": "systemstechnologyresearch",
+   "hours_open": 360.3,
+   "title": "Autonomy Algorithms Software Engineer",
+   "uid": "greenhouse:systemstechnologyresearch:4704680006"
   }
  ],
- "count": 820,
- "updated_at": 1790177511
+ "count": 813,
+ "updated_at": 1790184573
 }
