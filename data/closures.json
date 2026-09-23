@@ -1,69 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789853670,
-   "company": "spacex",
-   "hours_open": 388.6,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1789853670,
-   "company": "systemstechnologyresearch",
-   "hours_open": 381.6,
-   "title": "Autonomy Algorithms Software Engineer",
-   "uid": "greenhouse:systemstechnologyresearch:4704682006"
-  },
-  {
-   "closed_at": 1789853670,
-   "company": "spacex",
-   "hours_open": 388.6,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1789854047,
-   "company": "Alt Informatique",
-   "hours_open": 40.8,
-   "title": "Technicien informatique junior",
-   "uid": "jobillico:technicien informatique:17381391"
-  },
-  {
-   "closed_at": 1789854047,
-   "company": "Valsoft Corporation",
-   "hours_open": 12.7,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50320295"
-  },
-  {
-   "closed_at": 1789854047,
-   "company": "Idexia",
-   "hours_open": 223.8,
-   "title": "programmer analyst",
-   "uid": "jobbank:junior programmer:50257800"
-  },
-  {
-   "closed_at": 1789854047,
-   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
-   "hours_open": 268.5,
-   "title": "Administrateur Réseau TI",
-   "uid": "jobillico:analyste reseau:17386419"
-  },
-  {
-   "closed_at": 1789859088,
-   "company": "twitch",
-   "hours_open": 390.1,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1789859088,
-   "company": "Groupe DCM",
-   "hours_open": 36.0,
-   "title": "Programmeur CNC / CNC Programmer",
-   "uid": "jobillico:programmeur junior:17534670"
-  },
-  {
    "closed_at": 1789859088,
    "company": "Groupe Mario Coté",
    "hours_open": 197.8,
@@ -5599,8 +5536,71 @@
    "hours_open": 46.7,
    "title": "Cybersecurity Asset Engineer (Clearance Required)",
    "uid": "workable:scitec:0941E0F014"
+  },
+  {
+   "closed_at": 1790205166,
+   "company": "bmo",
+   "hours_open": 218.7,
+   "title": "Quantitative Developer (Alpha Research Team) - GAM, Summer 2027 (Co-op/Internship) - 12 months",
+   "uid": "workday:bmo.wd3/Campus:Quantitative-Developer--Alpha-Research-Team----GAM--Summer-2027--Co-op-Internship----12-months_R260026715"
+  },
+  {
+   "closed_at": 1790205166,
+   "company": "bmo",
+   "hours_open": 119.3,
+   "title": "Software Developer, Winter 2027 (Internship) - 4 months",
+   "uid": "workday:bmo.wd3/Campus:Software-Developer--Winter-2027--Internship----4-months_R260027197-3"
+  },
+  {
+   "closed_at": 1790205166,
+   "company": "Boeing",
+   "hours_open": 218.6,
+   "title": "Entry-level Digital Electronics Circuit & Unit Hardware Design Engineer - Space Digital Products & Electronics",
+   "uid": "simplify:listings:638f7b48-645b-4838-b62d-be92a72bb467"
+  },
+  {
+   "closed_at": 1790205166,
+   "company": "bpinternational",
+   "hours_open": 491.6,
+   "title": "Summer Internship - Wells Engineer – Houston, TX",
+   "uid": "workday:bpinternational.wd3/bpEarlyCareers:Summer-Intern---Wells-Engineer---Houston--TX_RQ114709-1"
+  },
+  {
+   "closed_at": 1790205166,
+   "company": "RELX",
+   "hours_open": 522.9,
+   "title": "Software Engineer New Grad",
+   "uid": "simplify:listings:32f14a18-130e-4911-a7f1-80e6010eba5e"
+  },
+  {
+   "closed_at": 1790205166,
+   "company": "LexisNexis Risk Solutions",
+   "hours_open": 522.9,
+   "title": "Software Engineer New Grad",
+   "uid": "simplify:listings:90b7dcd2-ef8d-4a60-891d-0978390afa8e"
+  },
+  {
+   "closed_at": 1790205166,
+   "company": "Amazon",
+   "hours_open": 152.0,
+   "title": "Software Development Engineer, Amazon Vulnerability Management Service (AVMS)",
+   "uid": "amazon:amazon:10551950"
+  },
+  {
+   "closed_at": 1790205166,
+   "company": "Tevora",
+   "hours_open": 522.9,
+   "title": "Associate Developer 1",
+   "uid": "simplify:listings:72d55dcb-e320-4394-ba68-2a4ea45c18f3"
+  },
+  {
+   "closed_at": 1790205166,
+   "company": "RTX",
+   "hours_open": 203.1,
+   "title": "Software Engineer 1",
+   "uid": "simplify:listings:bd56c51a-aae8-4121-98f4-cd683c6c4a85"
   }
  ],
- "count": 803,
- "updated_at": 1790201966
+ "count": 809,
+ "updated_at": 1790205166
 }
