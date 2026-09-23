@@ -1,27 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789778235,
-   "company": "spacex",
-   "hours_open": 367.7,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1789778235,
-   "company": "spacex",
-   "hours_open": 367.4,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1789780564,
-   "company": "twitch",
-   "hours_open": 368.3,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
    "closed_at": 1789780564,
    "company": "Source Code",
    "hours_open": 0.7,
@@ -5599,8 +5578,29 @@
    "hours_open": 466.0,
    "title": "Autonomy Algorithms Software Engineer",
    "uid": "greenhouse:systemstechnologyresearch:4704682006"
+  },
+  {
+   "closed_at": 1790158184,
+   "company": "Sopra Steria",
+   "hours_open": 34.8,
+   "title": "Junior Network Engineer",
+   "uid": "smartrecruiters:SopraSteria1:744000150736719"
+  },
+  {
+   "closed_at": 1790158184,
+   "company": "twitch",
+   "hours_open": 470.3,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1790158184,
+   "company": "systemstechnologyresearch",
+   "hours_open": 353.0,
+   "title": "Autonomy Algorithms Software Engineer",
+   "uid": "greenhouse:systemstechnologyresearch:4704680006"
   }
  ],
- "count": 809,
- "updated_at": 1790157351
+ "count": 803,
+ "updated_at": 1790158184
 }
