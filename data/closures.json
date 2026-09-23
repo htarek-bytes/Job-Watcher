@@ -1,55 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789765300,
-   "company": "systemstechnologyresearch",
-   "hours_open": 357.1,
-   "title": "Autonomy Algorithms Software Engineer",
-   "uid": "greenhouse:systemstechnologyresearch:4704682006"
-  },
-  {
-   "closed_at": 1789768687,
-   "company": "miovision",
-   "hours_open": 47.7,
-   "title": "Technical Solution Engineer",
-   "uid": "ashby:miovision:b3fba46f-8c0b-412a-a141-ee4dbb430a15"
-  },
-  {
-   "closed_at": 1789768687,
-   "company": "AECOM",
-   "hours_open": 8.1,
-   "title": "Entry-Level Engineer - Water - Hiring Event with AECOM – Philadelphia, PA",
-   "uid": "smartrecruiters:AECOM2:744000150233379"
-  },
-  {
-   "closed_at": 1789768687,
-   "company": "appnovation",
-   "hours_open": 365.0,
-   "title": "Full-Stack AI Engineer",
-   "uid": "greenhouse:appnovation:8760795002"
-  },
-  {
-   "closed_at": 1789768687,
-   "company": "samsara",
-   "hours_open": 244.8,
-   "title": "IT Specialist",
-   "uid": "greenhouse:samsara:8154440"
-  },
-  {
-   "closed_at": 1789768687,
-   "company": "twitch",
-   "hours_open": 362.1,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1789768687,
-   "company": "Groupe Mario Coté",
-   "hours_open": 172.7,
-   "title": "Administrateur de réseau",
-   "uid": "jobillico:analyste reseau:17520153"
-  },
-  {
    "closed_at": 1789768687,
    "company": "ADGA Group Consultants Inc",
    "hours_open": 244.6,
@@ -5599,8 +5550,57 @@
    "hours_open": 462.7,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1790123242,
+   "company": "cox",
+   "hours_open": 435.0,
+   "title": "Software Engineering Intern - Summer 2027 (North Hills, NY)",
+   "uid": "workday:cox.wd1/Cox_External_Career_Site_1:Software-Engineering-Intern---Summer-2027--North-Hills--NY-_R202682171-1"
+  },
+  {
+   "closed_at": 1790123242,
+   "company": "cadence",
+   "hours_open": 487.6,
+   "title": "Adams MultiBody Dynamics Application Software Developer (Recent Grad 2026)",
+   "uid": "workday:cadence.wd1/External_Careers:Adams-MultiBody-Dynamics-Application-Software-Developer--Recent-Grad-2026-_R55788"
+  },
+  {
+   "closed_at": 1790123242,
+   "company": "Amazon",
+   "hours_open": 175.5,
+   "title": "Software Development Engineer, AWS Transform",
+   "uid": "amazon:amazon:10541974"
+  },
+  {
+   "closed_at": 1790123242,
+   "company": "twitch",
+   "hours_open": 463.5,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1790123242,
+   "company": "systemstechnologyresearch",
+   "hours_open": 456.5,
+   "title": "Autonomy Algorithms Software Engineer",
+   "uid": "greenhouse:systemstechnologyresearch:4704682006"
+  },
+  {
+   "closed_at": 1790123242,
+   "company": "spacex",
+   "hours_open": 463.2,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1790123242,
+   "company": "spacex",
+   "hours_open": 461.8,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
- "count": 806,
- "updated_at": 1790120419
+ "count": 807,
+ "updated_at": 1790123243
 }
