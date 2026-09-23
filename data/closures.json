@@ -2,27 +2,6 @@
  "closed": [
   {
    "closed_at": 1789775648,
-   "company": "bah",
-   "hours_open": 284.3,
-   "title": "Agentic Solutions Engineer",
-   "uid": "workday:bah.wd1/bah_jobs:Agentic-Solutions-Engineer_R0244800-1"
-  },
-  {
-   "closed_at": 1789775648,
-   "company": "spacex",
-   "hours_open": 364.0,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1789775648,
-   "company": "systemstechnologyresearch",
-   "hours_open": 360.0,
-   "title": "Autonomy Algorithms Software Engineer",
-   "uid": "greenhouse:systemstechnologyresearch:4704682006"
-  },
-  {
-   "closed_at": 1789775648,
    "company": "spacex",
    "hours_open": 365.2,
    "title": "Software Engineer (Starship)",
@@ -5599,8 +5578,29 @@
    "hours_open": 461.6,
    "title": "Autonomy Algorithms Software Engineer",
    "uid": "greenhouse:systemstechnologyresearch:4704682006"
+  },
+  {
+   "closed_at": 1790143258,
+   "company": "twitch",
+   "hours_open": 466.1,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1790143258,
+   "company": "field-ai",
+   "hours_open": 387.0,
+   "title": "Network Solutions Engineer",
+   "uid": "lever:field-ai:ef963639-72d7-4c4f-942b-955f9c5c710d"
+  },
+  {
+   "closed_at": 1790143258,
+   "company": "systemstechnologyresearch",
+   "hours_open": 348.9,
+   "title": "Autonomy Algorithms Software Engineer",
+   "uid": "greenhouse:systemstechnologyresearch:4704680006"
   }
  ],
  "count": 803,
- "updated_at": 1790141369
+ "updated_at": 1790143259
 }
