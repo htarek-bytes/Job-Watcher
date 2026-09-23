@@ -1,5 +1,5 @@
 {
- "count": 5769,
+ "count": 5779,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -197,6 +197,8 @@
   "amazon:amazon:10557066": 1790114729,
   "amazon:amazon:10557186": 1790125949,
   "amazon:amazon:10557302": 1790139835,
+  "amazon:amazon:10557545": 1790174707,
+  "amazon:amazon:10557546": 1790174707,
   "ashby:1password:4ff46f84-a5c9-4232-84b6-1dfa8e737148": 1788750148,
   "ashby:1password:7f885c41-7572-439c-886f-bc508eb9a3d7": 1788454653,
   "ashby:1password:a5b083d5-5f82-4316-b5ef-a577f2edb493": 1788750148,
@@ -3292,6 +3294,7 @@
   "jobbank:systems administrator:50302731": 1789594041,
   "jobbank:systems administrator:50310437": 1789690748,
   "jobbank:systems administrator:50342628": 1790104722,
+  "jobbank:systems administrator:50348569": 1790174707,
   "jobbank:systems analyst:49858708": 1788887337,
   "jobbank:systems analyst:49966341": 1788887337,
   "jobbank:systems analyst:49969689": 1788931288,
@@ -4416,6 +4419,7 @@
   "simplify:listings:e90bb9b3-2e96-47e0-80c1-169bb7a56849": 1788865873,
   "simplify:listings:e950fd58-36dd-4bbd-8aa3-314216e6e315": 1788322770,
   "simplify:listings:ea3f3cbc-74b2-495a-b20d-db469c9ce81e": 1788322770,
+  "simplify:listings:ea902b82-59c8-4454-b4d9-e8acf43bf75b": 1790174707,
   "simplify:listings:eb3814c7-6fd3-4e58-852c-6cc00005cf9a": 1788322770,
   "simplify:listings:ebce0ffb-1748-4999-b952-a7dbc9f36aae": 1788410216,
   "simplify:listings:ec674790-bb38-423e-bf36-84796ef90847": 1788322770,
@@ -5175,6 +5179,8 @@
   "workday:entegris.wd1/entegriscareers:Quality-Engineer-Co-Op_REQ-14434": 1788979927,
   "workday:entegris.wd1/entegriscareers:Reliability-Engineer-Co-Op_REQ-14399": 1789089172,
   "workday:entegris.wd1/entegriscareers:Solutions-Engineering-Co-Op_REQ-14431": 1789070853,
+  "workday:entrust.wd1/entrustcareers:Intern--Software-Development---Hybrid-in-Ottawa_R004360": 1790174707,
+  "workday:entrust.wd1/entrustcareers:XMLNAME--Intern---Software-Development----8-months---Hybrid-Ottawa_R004359": 1790174707,
   "workday:equifax.wd5/UR_External:Site-Reliability-Engineer-Intern_J00178674": 1788442300,
   "workday:evergreenix.wd1/external-careers2:Software-Engineer-I_JR500748-1": 1789166059,
   "workday:eversource.wd1/ExternalSite:Associate-Engineer--Maintenance-Support_R-031423": 1788512368,
@@ -5191,6 +5197,7 @@
   "workday:fifththird.wd5/53careers:Information-Security-Co-op---Cyber-Threat-Interdiction---Summer-2027_R71582": 1788887337,
   "workday:fifththird.wd5/53careers:Software-Engineer-Co-Op---Enterprise-Finance-Applications---Spring-2027_R71587": 1788442300,
   "workday:fis.wd5/searchjobs:C---Software-Engineer-I_JR0309472": 1789676545,
+  "workday:fis.wd5/searchjobs:HPNS-Engineer-Sr-Lead--Software_JR0308900": 1790174707,
   "workday:fis.wd5/searchjobs:Intern--Software-Engineer--FIS-University-Program_JR0309512": 1789709712,
   "workday:fis.wd5/searchjobs:SDET-Specialist_JR0307882": 1790091943,
   "workday:fis.wd5/searchjobs:Senior-Business-Solutions-Consultant---Working-Capital-Solutions_JR0308489-1": 1790006170,
@@ -5274,6 +5281,7 @@
   "workday:globalhr.wd5/rec_rtx_ext_gateway:Digital-Hardware-Design-Engineer--2027-New-College-Graduate-_01873795": 1789070853,
   "workday:globalhr.wd5/rec_rtx_ext_gateway:Digital-Hardware-Design-Engineer-Co-op--Spring-Summer-_01871518-1": 1789752945,
   "workday:globalhr.wd5/rec_rtx_ext_gateway:Digital-Hardware-Design-Engineer-Co-op--Summer-Fall-2027--Onsite-_01871519": 1789752945,
+  "workday:globalhr.wd5/rec_rtx_ext_gateway:Factory-Enablement-Digital-Engineer--Spring-Summer-Co-op-_01876473": 1790174707,
   "workday:globalhr.wd5/rec_rtx_ext_gateway:HWIL-Software-Engineer-I_01874565": 1789709712,
   "workday:globalhr.wd5/rec_rtx_ext_gateway:Ingnieur---Programme-de-rotation-de-nouveaux-gradues-2027---Engineer---New-Graduate-Rotation-Program-2027_01870776-1": 1788377607,
   "workday:globalhr.wd5/rec_rtx_ext_gateway:Internship---Raytheon-Systems-Security-Engineer--Onsite_01874702": 1789510394,
@@ -5288,6 +5296,7 @@
   "workday:globalhr.wd5/rec_rtx_ext_gateway:Receiver--Exciter----Processing-Architecture-Software-Engineer-Intern--Summer-2027-_01873484": 1789594467,
   "workday:globalhr.wd5/rec_rtx_ext_gateway:Software-Engineer-Co-op--Summer-Fall-2027----Onsite_01871347": 1788898936,
   "workday:globalhr.wd5/rec_rtx_ext_gateway:Software-Engineer-Intern---Summer-2027-_01870613": 1788893085,
+  "workday:globalhr.wd5/rec_rtx_ext_gateway:Software-Engineer-Intern--Summer-2027-_01873556": 1790174707,
   "workday:globalhr.wd5/rec_rtx_ext_gateway:Software-Engineer-Intern_01874282": 1790039053,
   "workday:globalhr.wd5/rec_rtx_ext_gateway:Software-Engineering-Co-op--Fall-Spring-2027-_01872683": 1788903151,
   "workday:globalhr.wd5/rec_rtx_ext_gateway:Software-Engineering-Co-op--Summer--Fall-2027-_01873293": 1789070853,
@@ -5303,6 +5312,7 @@
   "workday:globalhr.wd5/rec_rtx_ext_gateway:Software-Engineering-Intern--Summer-2027-_01875780": 1789778130,
   "workday:globalhr.wd5/rec_rtx_ext_gateway:Software-Engineering-Intern--Summer-Fall-2027-_01873006": 1788887337,
   "workday:globalhr.wd5/rec_rtx_ext_gateway:Software-Project-Engineer-Intern--Summer-2027--Onsite_01872660": 1789823880,
+  "workday:globalhr.wd5/rec_rtx_ext_gateway:Stage---Hiver-2027---Dveloppeur-de-simulation-de-systmes-de-contrle-moteur---Internship---Winter-2027---Engine-Control-System-Simulation-Developer_01876605": 1790174707,
   "workday:globalhr.wd5/rec_rtx_ext_gateway:Stage---Hiver-2027---Service-Numriques-pour-les-Moteurs---Ingnieur-Systme-Sol---Internship---Winter-2027--Digital-Engine-Services--DES----Ground-system-engineer_01874393": 1789510394,
   "workday:globalhr.wd5/rec_rtx_ext_gateway:System-Engineer-I_01866674": 1789296051,
   "workday:globalhr.wd5/rec_rtx_ext_gateway:Systems-Engineer-I_01857537": 1790006170,
@@ -5771,5 +5781,5 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148,
   "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541": 1789106107
  },
- "updated_at": 1790167181
+ "updated_at": 1790174709
 }
