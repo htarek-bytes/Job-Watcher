@@ -1,90 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789770747,
-   "company": "AlphaHire",
-   "hours_open": 74.6,
-   "title": "Project Engineer - Commercial Electrical Projects",
-   "uid": "workable:alphax:4830380A5D"
-  },
-  {
-   "closed_at": 1789773258,
-   "company": "twitch",
-   "hours_open": 366.3,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1789773258,
-   "company": "Cleveland Clinic",
-   "hours_open": 22.9,
-   "title": "Software Developer 1",
-   "uid": "simplify:listings:dd34ed1b-cf41-44bd-9472-b972eb6f8b8d"
-  },
-  {
-   "closed_at": 1789773258,
-   "company": "Bruno Independent Living Aids",
-   "hours_open": 71.0,
-   "title": "Junior Software Developer - AI Focus",
-   "uid": "simplify:listings:f65facdb-07b5-489d-bda0-a527041c6dd5"
-  },
-  {
-   "closed_at": 1789773258,
-   "company": "Amazon",
-   "hours_open": 22.9,
-   "title": "Software Development Engineer Intern - Summer 2027 (USA)",
-   "uid": "amazon:amazon:10552937"
-  },
-  {
-   "closed_at": 1789773258,
-   "company": "Amazon",
-   "hours_open": 76.2,
-   "title": "Software Development Engineer, Application Performance Monitoring",
-   "uid": "amazon:amazon:10542501"
-  },
-  {
-   "closed_at": 1789773258,
-   "company": "Leidos",
-   "hours_open": 402.9,
-   "title": "Junior EO/IR Algorithm Developer - Defense Systems",
-   "uid": "simplify:listings:a9d18a09-8c11-4691-becb-9e1f46437cfd"
-  },
-  {
-   "closed_at": 1789773258,
-   "company": "systemstechnologyresearch",
-   "hours_open": 246.1,
-   "title": "Autonomy Algorithms Software Engineer",
-   "uid": "greenhouse:systemstechnologyresearch:4704680006"
-  },
-  {
-   "closed_at": 1789773258,
-   "company": "spacex",
-   "hours_open": 366.0,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1789773258,
-   "company": "spacex",
-   "hours_open": 366.3,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1789775648,
-   "company": "twitch",
-   "hours_open": 364.0,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1789775648,
-   "company": "Groupe DCM",
-   "hours_open": 12.8,
-   "title": "Programmeur CNC / CNC Programmer",
-   "uid": "jobillico:programmeur junior:17534670"
-  },
-  {
    "closed_at": 1789775648,
    "company": "avav",
    "hours_open": 195.9,
@@ -5599,8 +5515,92 @@
    "hours_open": 464.9,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1790139835,
+   "company": "RAD Torque Systems",
+   "hours_open": 161.2,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50298327"
+  },
+  {
+   "closed_at": 1790139835,
+   "company": "Groupe DCM",
+   "hours_open": 120.1,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534679"
+  },
+  {
+   "closed_at": 1790139835,
+   "company": "SRC Can",
+   "hours_open": 95.1,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50320464"
+  },
+  {
+   "closed_at": 1790139835,
+   "company": "Amazon",
+   "hours_open": 202.0,
+   "title": "Software Development Engineer, Inventory Genealogy",
+   "uid": "amazon:amazon:10538987"
+  },
+  {
+   "closed_at": 1790139835,
+   "company": "brainco",
+   "hours_open": 468.1,
+   "title": "AI Platform Engineer, Capabilities ",
+   "uid": "ashby:brainco:b9b965a7-39e8-4164-bfad-209fe7f5889b"
+  },
+  {
+   "closed_at": 1790139835,
+   "company": "YO AI Labs",
+   "hours_open": 29.7,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50315108"
+  },
+  {
+   "closed_at": 1790139835,
+   "company": "Source Code",
+   "hours_open": 6.7,
+   "title": "software developer",
+   "uid": "jobbank:entry level software developer:50344770"
+  },
+  {
+   "closed_at": 1790139835,
+   "company": "zoll",
+   "hours_open": 489.4,
+   "title": "Junior Algorithm Engineer",
+   "uid": "workday:zoll.wd5/ZOLLMedicalCorp:Junior-Algorithm-Engineer_R19377"
+  },
+  {
+   "closed_at": 1790139835,
+   "company": "EvenUp",
+   "hours_open": 504.7,
+   "title": "Software Engineer – New Grad - Cases Product",
+   "uid": "simplify:listings:37510038-1f6f-4be0-bfe7-50811c1ee137"
+  },
+  {
+   "closed_at": 1790139835,
+   "company": "spacex",
+   "hours_open": 468.1,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1790139835,
+   "company": "spacex",
+   "hours_open": 467.8,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1790139835,
+   "company": "spacex",
+   "hours_open": 466.4,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
- "count": 805,
- "updated_at": 1790128197
+ "count": 812,
+ "updated_at": 1790139835
 }
