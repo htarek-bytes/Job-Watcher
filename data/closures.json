@@ -1,83 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789837993,
-   "company": "systemstechnologyresearch",
-   "hours_open": 264.1,
-   "title": "Autonomy Algorithms Software Engineer",
-   "uid": "greenhouse:systemstechnologyresearch:4704680006"
-  },
-  {
-   "closed_at": 1789838979,
-   "company": "twitch",
-   "hours_open": 381.6,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1789838979,
-   "company": "Valsoft Corporation",
-   "hours_open": 8.5,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50320295"
-  },
-  {
-   "closed_at": 1789838979,
-   "company": "systemstechnologyresearch",
-   "hours_open": 377.6,
-   "title": "Autonomy Algorithms Software Engineer",
-   "uid": "greenhouse:systemstechnologyresearch:4704682006"
-  },
-  {
-   "closed_at": 1789843792,
-   "company": "twitch",
-   "hours_open": 385.9,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1789843792,
-   "company": "Groupe DCM",
-   "hours_open": 31.7,
-   "title": "Programmeur CNC / CNC Programmer",
-   "uid": "jobillico:programmeur junior:17534670"
-  },
-  {
-   "closed_at": 1789843792,
-   "company": "Jobs for Humanity",
-   "hours_open": 380.3,
-   "title": "Junior Software Engineer",
-   "uid": "smartrecruiters:JobsForHumanity:744000147220729"
-  },
-  {
-   "closed_at": 1789843792,
-   "company": "spacex",
-   "hours_open": 385.9,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1789843792,
-   "company": "systemstechnologyresearch",
-   "hours_open": 265.7,
-   "title": "Autonomy Algorithms Software Engineer",
-   "uid": "greenhouse:systemstechnologyresearch:4704680006"
-  },
-  {
-   "closed_at": 1789843792,
-   "company": "spacex",
-   "hours_open": 384.2,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1789844324,
-   "company": "twitch",
-   "hours_open": 383.1,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
    "closed_at": 1789844324,
    "company": "systemstechnologyresearch",
    "hours_open": 379.0,
@@ -5599,8 +5522,85 @@
    "hours_open": 363.5,
    "title": "Administrateur Réseau TI",
    "uid": "jobillico:analyste reseau:17386419"
+  },
+  {
+   "closed_at": 1790200201,
+   "company": "Babysoft Telecommunication",
+   "hours_open": 1.1,
+   "title": "front-end developer",
+   "uid": "jobbank:developpeur junior:50352026"
+  },
+  {
+   "closed_at": 1790200201,
+   "company": "AECOM",
+   "hours_open": 11.9,
+   "title": "Entry-Level Water Resources Dam Safety Engineer",
+   "uid": "smartrecruiters:AECOM2:744000151150179"
+  },
+  {
+   "closed_at": 1790200201,
+   "company": "KAMARA",
+   "hours_open": 44.1,
+   "title": "Web application developer",
+   "uid": "jobbank:junior programmer:50336009"
+  },
+  {
+   "closed_at": 1790200201,
+   "company": "Alt Informatique",
+   "hours_open": 136.9,
+   "title": "Technicien informatique junior",
+   "uid": "jobillico:technicien informatique:17381391"
+  },
+  {
+   "closed_at": 1790200201,
+   "company": "AECOM",
+   "hours_open": 11.9,
+   "title": "Entry-Level Engineer - Water - Hiring Event with AECOM – Boston, MA",
+   "uid": "smartrecruiters:AECOM2:744000151151559"
+  },
+  {
+   "closed_at": 1790200201,
+   "company": "Groupe DCM",
+   "hours_open": 130.7,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534670"
+  },
+  {
+   "closed_at": 1790200201,
+   "company": "thinkahead",
+   "hours_open": 108.8,
+   "title": "SIEM and Data Management Engineer – Managed Security",
+   "uid": "lever:thinkahead:c3ad8a46-695d-426d-beb4-aa58fefd0fc4"
+  },
+  {
+   "closed_at": 1790200201,
+   "company": "tsmg",
+   "hours_open": 335.3,
+   "title": "Self-Driving Systems Specialist (SDS Specialist)",
+   "uid": "lever:tsmg:808bd8ff-da84-4fb7-b12d-a41246e56967"
+  },
+  {
+   "closed_at": 1790200201,
+   "company": "spacex",
+   "hours_open": 484.6,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1790200201,
+   "company": "spacex",
+   "hours_open": 483.2,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1790200201,
+   "company": "Amazon",
+   "hours_open": 150.7,
+   "title": "Software Development Engineer, Commerce Platform ADC, Team Mercury",
+   "uid": "amazon:amazon:10551902"
   }
  ],
- "count": 814,
- "updated_at": 1790196062
+ "count": 811,
+ "updated_at": 1790200202
 }
