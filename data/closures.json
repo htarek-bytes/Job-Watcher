@@ -2,13 +2,6 @@
  "closed": [
   {
    "closed_at": 1789835368,
-   "company": "Valsoft Corporation",
-   "hours_open": 29.4,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50313403"
-  },
-  {
-   "closed_at": 1789835368,
    "company": "rocketems",
    "hours_open": 110.9,
    "title": "Associate Test Engineer",
@@ -5599,8 +5592,15 @@
    "hours_open": 482.1,
    "title": "Software Engineer, AI Platform",
    "uid": "ashby:notion:a9d4a192-d31c-48d2-8156-e2a75d98eec1"
+  },
+  {
+   "closed_at": 1790190760,
+   "company": "CACI",
+   "hours_open": 518.9,
+   "title": "Junior Application Developer",
+   "uid": "simplify:listings:d8f01940-000a-4963-a53a-a8ecc213ca07"
   }
  ],
- "count": 802,
- "updated_at": 1790190182
+ "count": 801,
+ "updated_at": 1790190760
 }
