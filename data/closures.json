@@ -2,27 +2,6 @@
  "closed": [
   {
    "closed_at": 1789775648,
-   "company": "bmo",
-   "hours_open": 246.8,
-   "title": "Wealth Management Development Associate, New Grad (Chicago, IL)",
-   "uid": "workday:bmo.wd3/Campus:Wealth-Management-Development-Associate--New-Grad--Chicago--IL-_R260026201-1"
-  },
-  {
-   "closed_at": 1789775648,
-   "company": "boeing",
-   "hours_open": 18.9,
-   "title": "Mission Analysis Engineer (Entry level) - Millennium Space Systems",
-   "uid": "workday:boeing.wd1/external_subsidiary:Mission-Analysis-Engineer--Entry-level----Millennium-Space-Systems_JR2026524528-1"
-  },
-  {
-   "closed_at": 1789775648,
-   "company": "cadence",
-   "hours_open": 345.8,
-   "title": "Adams MultiBody Dynamics Application Software Developer (Recent Grad 2026)",
-   "uid": "workday:cadence.wd1/University_Talent_NCG:Adams-MultiBody-Dynamics-Application-Software-Developer--Recent-Grad-2026-_R55788-2"
-  },
-  {
-   "closed_at": 1789775648,
    "company": "bah",
    "hours_open": 284.3,
    "title": "Agentic Solutions Engineer",
@@ -5599,8 +5578,29 @@
    "hours_open": 120.4,
    "title": "Technicien informatique junior",
    "uid": "jobillico:technicien informatique:17381391"
+  },
+  {
+   "closed_at": 1790141368,
+   "company": "twitch",
+   "hours_open": 468.5,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1790141368,
+   "company": "rivet",
+   "hours_open": 476.4,
+   "title": "Software Engineer Intern, XR Team (Fall 2026)",
+   "uid": "ashby:rivet:4e02461a-9f6c-4d3c-a511-6d54f31999bc"
+  },
+  {
+   "closed_at": 1790141368,
+   "company": "systemstechnologyresearch",
+   "hours_open": 461.6,
+   "title": "Autonomy Algorithms Software Engineer",
+   "uid": "greenhouse:systemstechnologyresearch:4704682006"
   }
  ],
- "count": 801,
- "updated_at": 1790140751
+ "count": 803,
+ "updated_at": 1790141369
 }
