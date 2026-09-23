@@ -1,69 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789778130,
-   "company": "Groupe DCM",
-   "hours_open": 19.7,
-   "title": "Programmeur CNC / CNC Programmer",
-   "uid": "jobillico:programmeur junior:17534679"
-  },
-  {
-   "closed_at": 1789778130,
-   "company": "fmr",
-   "hours_open": 169.8,
-   "title": "Co-op, Software Engineer",
-   "uid": "workday:fmr.wd1/targeted:Co-op--Software-Engineer_2135200"
-  },
-  {
-   "closed_at": 1789778130,
-   "company": "globalhr",
-   "hours_open": 230.7,
-   "title": "Software Engineering Intern (Summer 2027)",
-   "uid": "workday:globalhr.wd5/Private_Posting_No_TMP:Software-Engineering-Intern--Summer-2027-_01870410"
-  },
-  {
-   "closed_at": 1789778130,
-   "company": "spacex",
-   "hours_open": 367.6,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1789778130,
-   "company": "spacex",
-   "hours_open": 367.4,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1789492820,
-   "company": "Amazon",
-   "hours_open": 142.5,
-   "title": "SDE 2, Amazon S3, Amazon S3",
-   "uid": "amazon:amazon:10534994"
-  },
-  {
-   "closed_at": 1789778235,
-   "company": "Agari Kitchen",
-   "hours_open": 201.6,
-   "title": "electronics engineer",
-   "uid": "jobbank:control systems analyst:50258093"
-  },
-  {
-   "closed_at": 1789778235,
-   "company": "fmr",
-   "hours_open": 169.8,
-   "title": "Co-op, Software Engineer",
-   "uid": "workday:fmr.wd1/targeted:Co-op--Software-Engineer_2135200"
-  },
-  {
-   "closed_at": 1789778235,
-   "company": "globalhr",
-   "hours_open": 230.7,
-   "title": "Software Engineering Intern (Summer 2027)",
-   "uid": "workday:globalhr.wd5/Private_Posting_No_TMP:Software-Engineering-Intern--Summer-2027-_01870410"
-  },
-  {
    "closed_at": 1789778235,
    "company": "spacex",
    "hours_open": 367.7,
@@ -5599,8 +5536,71 @@
    "hours_open": 349.8,
    "title": "network system administrator",
    "uid": "jobbank:systems administrator:49967696"
+  },
+  {
+   "closed_at": 1790157350,
+   "company": "AECOM",
+   "hours_open": 11.8,
+   "title": "Entry-Level Water Resources Engineer – Remediation - Networking Event with AECOM – Boston, MA",
+   "uid": "smartrecruiters:AECOM2:744000151062739"
+  },
+  {
+   "closed_at": 1790157350,
+   "company": "Alt Informatique",
+   "hours_open": 125.0,
+   "title": "Technicien informatique junior",
+   "uid": "jobillico:technicien informatique:17381391"
+  },
+  {
+   "closed_at": 1790157350,
+   "company": "samsara",
+   "hours_open": 112.6,
+   "title": "Software Engineer I, External Platform EMEA (Poland, Remote)",
+   "uid": "greenhouse:samsara:8210695"
+  },
+  {
+   "closed_at": 1790157350,
+   "company": "intersystems",
+   "hours_open": 44.8,
+   "title": "Application Analyst ",
+   "uid": "greenhouse:intersystems:7983319003"
+  },
+  {
+   "closed_at": 1790157350,
+   "company": "Source Code",
+   "hours_open": 34.3,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:control systems analyst:50335113"
+  },
+  {
+   "closed_at": 1790157350,
+   "company": "Amazon",
+   "hours_open": 120.4,
+   "title": "Software Development Engineer, Prime Video ML Infrastructure",
+   "uid": "amazon:amazon:10553195"
+  },
+  {
+   "closed_at": 1790157350,
+   "company": "twitch",
+   "hours_open": 473.0,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1790157350,
+   "company": "Arista Networks",
+   "hours_open": 387.9,
+   "title": "Technical Solutions Engineer - Cloud, Hyperscalers and AI networks",
+   "uid": "smartrecruiters:AristaNetworks:744000141561647"
+  },
+  {
+   "closed_at": 1790157350,
+   "company": "systemstechnologyresearch",
+   "hours_open": 466.0,
+   "title": "Autonomy Algorithms Software Engineer",
+   "uid": "greenhouse:systemstechnologyresearch:4704682006"
   }
  ],
- "count": 807,
- "updated_at": 1790146560
+ "count": 809,
+ "updated_at": 1790157351
 }
