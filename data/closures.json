@@ -2,62 +2,6 @@
  "closed": [
   {
    "closed_at": 1789780564,
-   "company": "kiongroup",
-   "hours_open": 86.9,
-   "title": "Controls Engineer (New Graduate - Early Career)",
-   "uid": "workday:kiongroup.wd3/KION_SCS:Controls-Engineer--Early---Mid-Career-_JR-0093840"
-  },
-  {
-   "closed_at": 1789780564,
-   "company": "Lakeland Roman Catholic Separate School Division",
-   "hours_open": 248.1,
-   "title": "computer systems analyst",
-   "uid": "jobbank:systems analyst:50064831"
-  },
-  {
-   "closed_at": 1789780564,
-   "company": "Wolverine Trading",
-   "hours_open": 404.9,
-   "title": "Entry Level C++ Software Engineer",
-   "uid": "simplify:listings:13e63ccc-9879-4a3a-a29a-f10688ec7ba6"
-  },
-  {
-   "closed_at": 1789780564,
-   "company": "kbr",
-   "hours_open": 389.6,
-   "title": "Junior Software Engineer",
-   "uid": "workday:kbr.wd5/kbr_careers:Junior-Software-Engineer_R2122294"
-  },
-  {
-   "closed_at": 1789780564,
-   "company": "spacex",
-   "hours_open": 365.4,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1789780564,
-   "company": "systemstechnologyresearch",
-   "hours_open": 248.1,
-   "title": "Autonomy Algorithms Software Engineer",
-   "uid": "greenhouse:systemstechnologyresearch:4704680006"
-  },
-  {
-   "closed_at": 1789780564,
-   "company": "spacex",
-   "hours_open": 368.3,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1789780564,
-   "company": "spacex",
-   "hours_open": 368.3,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1789780564,
    "company": "RTX",
    "hours_open": 404.9,
    "title": "Digital Hardware Engineer 1",
@@ -5599,8 +5543,64 @@
    "hours_open": 119.2,
    "title": "Programmeur CNC / CNC Programmer",
    "uid": "jobillico:programmeur junior:17534670"
+  },
+  {
+   "closed_at": 1790162664,
+   "company": "ag",
+   "hours_open": 21.2,
+   "title": "Junior Software Platform Integration Engineer",
+   "uid": "workday:ag.wd3/Airbus:Junior-Software-Platform-Integration-Engineer_JR10430085-1"
+  },
+  {
+   "closed_at": 1790162664,
+   "company": "Groupe DCM",
+   "hours_open": 126.5,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534679"
+  },
+  {
+   "closed_at": 1790162664,
+   "company": "Liburdi",
+   "hours_open": 101.4,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50320488"
+  },
+  {
+   "closed_at": 1790162664,
+   "company": "avav",
+   "hours_open": 303.4,
+   "title": "Software Engineering Intern",
+   "uid": "workday:avav.wd1/avav:Software-Engineering-Intern_8593"
+  },
+  {
+   "closed_at": 1790162664,
+   "company": "Amazon",
+   "hours_open": 208.3,
+   "title": "Software Development Engineer, Inventory Genealogy",
+   "uid": "amazon:amazon:10538987"
+  },
+  {
+   "closed_at": 1790162664,
+   "company": "sharkninjaoperatingllc",
+   "hours_open": 467.5,
+   "title": "Associate Product Developer - Skincare",
+   "uid": "greenhouse:sharkninjaoperatingllc:4695485006"
+  },
+  {
+   "closed_at": 1790162664,
+   "company": "YO AI Labs",
+   "hours_open": 36.0,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50315108"
+  },
+  {
+   "closed_at": 1790162664,
+   "company": "analogdevices",
+   "hours_open": 498.5,
+   "title": "Associate Engineer: Embedded Audio Software",
+   "uid": "workday:analogdevices.wd1/External:Associate-Engineer--Embedded-Audio-Software_R263781"
   }
  ],
- "count": 801,
- "updated_at": 1790158475
+ "count": 808,
+ "updated_at": 1790162664
 }
