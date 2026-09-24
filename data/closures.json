@@ -1,41 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789904302,
-   "company": "Groupe Mario Coté",
-   "hours_open": 210.4,
-   "title": "Administrateur de réseau",
-   "uid": "jobillico:analyste reseau:17520153"
-  },
-  {
-   "closed_at": 1789904302,
-   "company": "Valsoft Corporation",
-   "hours_open": 48.6,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50313403"
-  },
-  {
-   "closed_at": 1789905346,
-   "company": "Valsoft Corporation",
-   "hours_open": 26.9,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50320295"
-  },
-  {
-   "closed_at": 1789905346,
-   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
-   "hours_open": 282.8,
-   "title": "Administrateur Réseau TI",
-   "uid": "jobillico:analyste reseau:17386419"
-  },
-  {
-   "closed_at": 1789906273,
-   "company": "twitch",
-   "hours_open": 403.2,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
    "closed_at": 1789906273,
    "company": "systemstechnologyresearch",
    "hours_open": 283.0,
@@ -5599,8 +5564,43 @@
    "hours_open": 497.1,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1790245109,
+   "company": "Alt Informatique",
+   "hours_open": 149.4,
+   "title": "Technicien informatique junior",
+   "uid": "jobillico:technicien informatique:17381391"
+  },
+  {
+   "closed_at": 1790245109,
+   "company": "Sasamans (Our Children) Society",
+   "hours_open": 348.5,
+   "title": "cloud administrator",
+   "uid": "jobbank:cloud administrator:50252701"
+  },
+  {
+   "closed_at": 1790245109,
+   "company": "Renesas Electronics",
+   "hours_open": 140.4,
+   "title": "Design Verification Engineer（SoC機能検証エンジニア）(1)",
+   "uid": "smartrecruiters:RenesasElectronics:744000150277759"
+  },
+  {
+   "closed_at": 1790245109,
+   "company": "Sandisk",
+   "hours_open": 233.7,
+   "title": "(New College Graduate) Engineer, Technology Development Engineering_MH",
+   "uid": "smartrecruiters:Sandisk:744000149285853"
+  },
+  {
+   "closed_at": 1790245109,
+   "company": "spacex",
+   "hours_open": 495.7,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
- "count": 803,
- "updated_at": 1790244143
+ "count": 805,
+ "updated_at": 1790245109
 }
