@@ -1,41 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789906495,
-   "company": "twitch",
-   "hours_open": 400.3,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1789906495,
-   "company": "Groupe Mario Coté",
-   "hours_open": 211.0,
-   "title": "Administrateur de réseau",
-   "uid": "jobillico:analyste reseau:17520153"
-  },
-  {
-   "closed_at": 1789906495,
-   "company": "systemstechnologyresearch",
-   "hours_open": 396.3,
-   "title": "Autonomy Algorithms Software Engineer",
-   "uid": "greenhouse:systemstechnologyresearch:4704682006"
-  },
-  {
-   "closed_at": 1789906495,
-   "company": "spacex",
-   "hours_open": 401.6,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1789915586,
-   "company": "twitch",
-   "hours_open": 405.8,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
    "closed_at": 1789915586,
    "company": "SimpleK division de ASSA ABLOY High Security Group Inc.",
    "hours_open": 423.7,
@@ -5599,8 +5564,43 @@
    "hours_open": 497.5,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1790252334,
+   "company": "Alt Informatique",
+   "hours_open": 151.4,
+   "title": "Technicien informatique junior",
+   "uid": "jobillico:technicien informatique:17381391"
+  },
+  {
+   "closed_at": 1790252334,
+   "company": "U.S. Bank",
+   "hours_open": 229.7,
+   "title": "Associate Software Engineer - C# - .NET Core",
+   "uid": "simplify:listings:63c995b0-3122-45a1-8d57-e418f2c90068"
+  },
+  {
+   "closed_at": 1790252334,
+   "company": "freedomconsulting",
+   "hours_open": 379.2,
+   "title": "Database Administrator 683",
+   "uid": "greenhouse:freedomconsulting:5160931007"
+  },
+  {
+   "closed_at": 1790252334,
+   "company": "spacex",
+   "hours_open": 497.7,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1790252334,
+   "company": "freedomconsulting",
+   "hours_open": 518.3,
+   "title": "Junior Systems Engineer 609",
+   "uid": "greenhouse:freedomconsulting:5067514007"
   }
  ],
- "count": 802,
- "updated_at": 1790245653
+ "count": 805,
+ "updated_at": 1790252334
 }
