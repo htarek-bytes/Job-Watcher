@@ -1,41 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789860644,
-   "company": "spacex",
-   "hours_open": 388.9,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1789860819,
-   "company": "twitch",
-   "hours_open": 390.6,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1789860819,
-   "company": "Groupe DCM",
-   "hours_open": 42.6,
-   "title": "Programmeur CNC / CNC Programmer",
-   "uid": "jobillico:programmeur junior:17534679"
-  },
-  {
-   "closed_at": 1789860819,
-   "company": "Valsoft Corporation",
-   "hours_open": 36.5,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50313403"
-  },
-  {
-   "closed_at": 1789860819,
-   "company": "systemstechnologyresearch",
-   "hours_open": 270.4,
-   "title": "Autonomy Algorithms Software Engineer",
-   "uid": "greenhouse:systemstechnologyresearch:4704680006"
-  },
-  {
    "closed_at": 1789860819,
    "company": "spacex",
    "hours_open": 390.6,
@@ -5599,8 +5564,43 @@
    "hours_open": 487.5,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1790210206,
+   "company": "micron",
+   "hours_open": 126.8,
+   "title": "New College Grad - Design Engineer",
+   "uid": "workday:micron.wd1/External:Senior-Design-Engineer_JR105872"
+  },
+  {
+   "closed_at": 1790210206,
+   "company": "micron",
+   "hours_open": 146.5,
+   "title": "New College Grad - Engineer, ASIC Digital Design",
+   "uid": "workday:micron.wd1/External:New-College-Grad---Engineer--ASIC-Digital-Design_JR112164"
+  },
+  {
+   "closed_at": 1790210206,
+   "company": "kbr",
+   "hours_open": 509.1,
+   "title": "Junior Software Engineer",
+   "uid": "workday:kbr.wd5/KBR_Careers:Junior-Software-Engineer_R2122294"
+  },
+  {
+   "closed_at": 1790210206,
+   "company": "spacex",
+   "hours_open": 487.7,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1790210206,
+   "company": "spacex",
+   "hours_open": 487.4,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
   }
  ],
- "count": 812,
- "updated_at": 1790209734
+ "count": 805,
+ "updated_at": 1790210206
 }
