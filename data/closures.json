@@ -2,20 +2,6 @@
  "closed": [
   {
    "closed_at": 1789903141,
-   "company": "RTX",
-   "hours_open": 107.0,
-   "title": "Vision Systems Test Engineer 1",
-   "uid": "simplify:listings:1ecbece2-8bbd-45f2-b804-065bfabb8b21"
-  },
-  {
-   "closed_at": 1789903141,
-   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
-   "hours_open": 282.2,
-   "title": "Administrateur Réseau TI",
-   "uid": "jobillico:analyste reseau:17386419"
-  },
-  {
-   "closed_at": 1789903141,
    "company": "systemstechnologyresearch",
    "hours_open": 395.4,
    "title": "Autonomy Algorithms Software Engineer",
@@ -5599,8 +5585,22 @@
    "hours_open": 345.8,
    "title": "programmer analyst",
    "uid": "jobbank:junior programmer:50253129"
+  },
+  {
+   "closed_at": 1790242475,
+   "company": "tevora",
+   "hours_open": 524.6,
+   "title": "Associate Developer I",
+   "uid": "lever:tevora:e6dea5d8-d882-448f-80cd-e0f4a3b0589d"
+  },
+  {
+   "closed_at": 1790242475,
+   "company": "State Street",
+   "hours_open": 10.4,
+   "title": "Junior SIEM Data Engineer",
+   "uid": "simplify:listings:a1b78398-f928-4540-906d-107312019bc7"
   }
  ],
- "count": 803,
- "updated_at": 1790232148
+ "count": 802,
+ "updated_at": 1790242476
 }
