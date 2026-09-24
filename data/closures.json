@@ -1,118 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789953147,
-   "company": "systemstechnologyresearch",
-   "hours_open": 296.1,
-   "title": "Autonomy Algorithms Software Engineer",
-   "uid": "greenhouse:systemstechnologyresearch:4704680006"
-  },
-  {
-   "closed_at": 1789953147,
-   "company": "spacex",
-   "hours_open": 416.2,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1789953545,
-   "company": "Valsoft Corporation",
-   "hours_open": 62.2,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50313403"
-  },
-  {
-   "closed_at": 1789961092,
-   "company": "Brightmark",
-   "hours_open": 281.5,
-   "title": "network administrator",
-   "uid": "jobbank:network administrator:50248661"
-  },
-  {
-   "closed_at": 1789961092,
-   "company": "General Motors",
-   "hours_open": 455.1,
-   "title": "Entry Level Software Engineer",
-   "uid": "simplify:listings:a1e1af65-a476-480b-a455-15fd4e1d10ce"
-  },
-  {
-   "closed_at": 1789961092,
-   "company": "twitch",
-   "hours_open": 415.5,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1789961092,
-   "company": "openai",
-   "hours_open": 418.5,
-   "title": "Data Engineer, Core Experimentation",
-   "uid": "ashby:openai:2796d32a-9f7c-4008-a2c5-50dd53b0f2fe"
-  },
-  {
-   "closed_at": 1789961092,
-   "company": "Valsoft Corporation",
-   "hours_open": 42.4,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50320295"
-  },
-  {
-   "closed_at": 1789961092,
-   "company": "spacex",
-   "hours_open": 415.5,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1789961092,
-   "company": "systemstechnologyresearch",
-   "hours_open": 411.5,
-   "title": "Autonomy Algorithms Software Engineer",
-   "uid": "greenhouse:systemstechnologyresearch:4704682006"
-  },
-  {
-   "closed_at": 1789961092,
-   "company": "spacex",
-   "hours_open": 418.2,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1789961092,
-   "company": "spacex",
-   "hours_open": 418.5,
-   "title": "Software Engineer, Continuous Integration (Starship)",
-   "uid": "greenhouse:spacex:8533859002"
-  },
-  {
-   "closed_at": 1789968184,
-   "company": "Amazon",
-   "hours_open": 84.2,
-   "title": "Software Development Engineer, AWS Partnerships",
-   "uid": "amazon:amazon:10552237"
-  },
-  {
-   "closed_at": 1789968184,
-   "company": "instabase",
-   "hours_open": 263.4,
-   "title": "Software Engineer - Agent Harness",
-   "uid": "greenhouse:instabase:8635719002"
-  },
-  {
-   "closed_at": 1789968184,
-   "company": "Alt Informatique",
-   "hours_open": 72.5,
-   "title": "Technicien informatique junior",
-   "uid": "jobillico:technicien informatique:17381391"
-  },
-  {
-   "closed_at": 1789968184,
-   "company": "CarePartners",
-   "hours_open": 2.0,
-   "title": "network administrator",
-   "uid": "jobbank:network administrator:50328930"
-  },
-  {
    "closed_at": 1789968184,
    "company": "spacex",
    "hours_open": 420.4,
@@ -5599,8 +5487,120 @@
    "hours_open": 504.8,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1790282422,
+   "company": "airbnb",
+   "hours_open": 22.8,
+   "title": "Software Engineer, Application Platform",
+   "uid": "greenhouse:airbnb:8227620"
+  },
+  {
+   "closed_at": 1790282422,
+   "company": "appdirect",
+   "hours_open": 246.7,
+   "title": "Software Developer",
+   "uid": "greenhouse:appdirect:8795491002"
+  },
+  {
+   "closed_at": 1790282422,
+   "company": "waabi",
+   "hours_open": 507.7,
+   "title": "Applied AI Security Engineer",
+   "uid": "lever:waabi:c4559ea4-1912-4d77-a32c-1a32849e86a0"
+  },
+  {
+   "closed_at": 1790282422,
+   "company": "Filgo",
+   "hours_open": 387.5,
+   "title": "Technicien informatique",
+   "uid": "jobillico:technicien informatique:17488314"
+  },
+  {
+   "closed_at": 1790282422,
+   "company": "Amazon",
+   "hours_open": 43.5,
+   "title": "Software Development Engineer, AWS Infrastructure Supply Chain Automation",
+   "uid": "amazon:amazon:10557186"
+  },
+  {
+   "closed_at": 1790282422,
+   "company": "Amazon",
+   "hours_open": 168.7,
+   "title": "Software Dev Engineer, Benefits Experience & Technology (BXT)",
+   "uid": "amazon:amazon:10552585"
+  },
+  {
+   "closed_at": 1790282422,
+   "company": "Amazon",
+   "hours_open": 144.9,
+   "title": "Software Development Engineer, Advengers - Amazon Ads Brand & Video",
+   "uid": "amazon:amazon:10553871"
+  },
+  {
+   "closed_at": 1790282422,
+   "company": "Amazon",
+   "hours_open": 54.5,
+   "title": "Software Development Engineer, AFX - Core Experiences",
+   "uid": "amazon:amazon:10556215"
+  },
+  {
+   "closed_at": 1790282422,
+   "company": "Amazon",
+   "hours_open": 142.7,
+   "title": "Software Development Engineer, AWS Analytics Engineering",
+   "uid": "amazon:amazon:10553986"
+  },
+  {
+   "closed_at": 1790282422,
+   "company": "twitch",
+   "hours_open": 507.7,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1790282422,
+   "company": "asana",
+   "hours_open": 425.6,
+   "title": "Enterprise Solutions Engineer, Service Management",
+   "uid": "greenhouse:asana:8027416"
+  },
+  {
+   "closed_at": 1790282422,
+   "company": "General Motors",
+   "hours_open": 544.3,
+   "title": "Software Engineer – Early Career - Autonomous Vehicles Software Systems",
+   "uid": "simplify:listings:7f07b83f-6b6f-4722-9fc9-391681b0c844"
+  },
+  {
+   "closed_at": 1790282422,
+   "company": "spacex",
+   "hours_open": 504.8,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1790282422,
+   "company": "systemstechnologyresearch",
+   "hours_open": 387.5,
+   "title": "Autonomy Algorithms Software Engineer",
+   "uid": "greenhouse:systemstechnologyresearch:4704680006"
+  },
+  {
+   "closed_at": 1790282422,
+   "company": "spacex",
+   "hours_open": 507.4,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1790282422,
+   "company": "Amazon",
+   "hours_open": 183.2,
+   "title": "Software Development Engineer , Ground Control Console (GC2)",
+   "uid": "amazon:amazon:10551480"
   }
  ],
- "count": 803,
- "updated_at": 1790278140
+ "count": 816,
+ "updated_at": 1790282423
 }
