@@ -1,20 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789860644,
-   "company": "spacex",
-   "hours_open": 388.9,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1789860819,
-   "company": "twitch",
-   "hours_open": 390.6,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
    "closed_at": 1789860819,
    "company": "Groupe DCM",
    "hours_open": 42.6,
@@ -5599,8 +5585,22 @@
    "hours_open": 487.5,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1790210316,
+   "company": "micron",
+   "hours_open": 126.8,
+   "title": "New College Grad - Design Engineer",
+   "uid": "workday:micron.wd1/External:Senior-Design-Engineer_JR105872"
+  },
+  {
+   "closed_at": 1790210316,
+   "company": "micron",
+   "hours_open": 146.5,
+   "title": "New College Grad - Engineer, ASIC Digital Design",
+   "uid": "workday:micron.wd1/External:New-College-Grad---Engineer--ASIC-Digital-Design_JR112164"
   }
  ],
- "count": 812,
- "updated_at": 1790209734
+ "count": 802,
+ "updated_at": 1790210316
 }
