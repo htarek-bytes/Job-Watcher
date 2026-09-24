@@ -1,83 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789927954,
-   "company": "Valsoft Corporation",
-   "hours_open": 33.2,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50320295"
-  },
-  {
-   "closed_at": 1789927954,
-   "company": "kla",
-   "hours_open": 412.6,
-   "title": "Software Engineering Intern",
-   "uid": "workday:kla.wd1/AnnArbor:Software-Engineering-Intern_2531653"
-  },
-  {
-   "closed_at": 1789927954,
-   "company": "systemstechnologyresearch",
-   "hours_open": 402.3,
-   "title": "Autonomy Algorithms Software Engineer",
-   "uid": "greenhouse:systemstechnologyresearch:4704682006"
-  },
-  {
-   "closed_at": 1789927954,
-   "company": "spacex",
-   "hours_open": 409.3,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1789930037,
-   "company": "twitch",
-   "hours_open": 409.8,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1789930037,
-   "company": "mmc",
-   "hours_open": 300.5,
-   "title": "Junior Python Engineer @MarshTech",
-   "uid": "workday:mmc.wd1/MMC:Junior-Python-Engineer--MarshTech_R_362442-1"
-  },
-  {
-   "closed_at": 1789930037,
-   "company": "Valsoft Corporation",
-   "hours_open": 55.7,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50313403"
-  },
-  {
-   "closed_at": 1789930037,
-   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
-   "hours_open": 289.6,
-   "title": "Administrateur Réseau TI",
-   "uid": "jobillico:analyste reseau:17386419"
-  },
-  {
-   "closed_at": 1789930037,
-   "company": "systemstechnologyresearch",
-   "hours_open": 289.6,
-   "title": "Autonomy Algorithms Software Engineer",
-   "uid": "greenhouse:systemstechnologyresearch:4704680006"
-  },
-  {
-   "closed_at": 1789930037,
-   "company": "spacex",
-   "hours_open": 409.6,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1789930506,
-   "company": "twitch",
-   "hours_open": 407.0,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
    "closed_at": 1789930506,
    "company": "systemstechnologyresearch",
    "hours_open": 403.0,
@@ -5599,8 +5522,85 @@
    "hours_open": 192.5,
    "title": "Production Software Engineer",
    "uid": "greenhouse:andurilindustries:5239701007"
+  },
+  {
+   "closed_at": 1790263026,
+   "company": "gevernova",
+   "hours_open": 14.8,
+   "title": "Développeur de logiciels embarqués pour éléments de protection  F/H - Protection Element Embedded SW Developer-1",
+   "uid": "workday:gevernova.wd5/only_confidential_executive_recruiting:Dveloppeur-de-logiciels-embarqus-pour-lments-de-protection--F-H---Protection-Element-Embedded-SW-Developer-1_R5053315-1"
+  },
+  {
+   "closed_at": 1790263026,
+   "company": "gevernova",
+   "hours_open": 141.7,
+   "title": "Engineering Intern - Power Conversion & Storage AI Tool Developer  2027",
+   "uid": "workday:gevernova.wd5/only_confidential_executive_recruiting:Engineering-Intern---Power-Conversion---Storage-AI-Tool-Developer--2027_R5049957-1"
+  },
+  {
+   "closed_at": 1790263026,
+   "company": "iqvia",
+   "hours_open": 153.7,
+   "title": "Data & AI Solutions Consultant",
+   "uid": "workday:iqvia.wd1/IQVIA:Data---AI-Solutions-Consultant_R1552230"
+  },
+  {
+   "closed_at": 1790263026,
+   "company": "intel",
+   "hours_open": 339.4,
+   "title": "Operations Research Engineer Intern",
+   "uid": "workday:intel.wd1/external:Operations-Research-Engineer-Intern_JR0286945"
+  },
+  {
+   "closed_at": 1790263026,
+   "company": "globalhr",
+   "hours_open": 312.6,
+   "title": "Intern- Systems Engineer (Onsite)",
+   "uid": "workday:globalhr.wd5/Private_Posting_No_TMP:Intern--Systems-Engineer--Onsite-_01869114"
+  },
+  {
+   "closed_at": 1790263026,
+   "company": "gehc",
+   "hours_open": 47.5,
+   "title": "Full-Stack Software Engineering Intern – MIM Commercialized Web Applications",
+   "uid": "workday:gehc.wd5/GEHC_ExternalSite:Full-Stack-Software-Engineering-Intern---MIM-Commercialized-Web-Applications_R4046583-1"
+  },
+  {
+   "closed_at": 1790263026,
+   "company": "bluecatnetworks",
+   "hours_open": 502.3,
+   "title": "Python Developer",
+   "uid": "lever:bluecatnetworks:3678f5b7-31e1-4c5b-982e-34a9dbfe12c2"
+  },
+  {
+   "closed_at": 1790263026,
+   "company": "Fort McMurray Toyota",
+   "hours_open": 382.1,
+   "title": "network administrator",
+   "uid": "jobbank:network administrator:50024638"
+  },
+  {
+   "closed_at": 1790263026,
+   "company": "generac",
+   "hours_open": 523.7,
+   "title": "Application Engineer I",
+   "uid": "workday:generac.wd5/external:Application-Engineer-I_JR15688"
+  },
+  {
+   "closed_at": 1790263026,
+   "company": "kbr",
+   "hours_open": 523.7,
+   "title": "Junior Software Engineer",
+   "uid": "workday:kbr.wd5/kbr_careers:Junior-Software-Engineer_R2122294"
+  },
+  {
+   "closed_at": 1790263026,
+   "company": "spacex",
+   "hours_open": 500.6,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
- "count": 806,
- "updated_at": 1790261695
+ "count": 811,
+ "updated_at": 1790263027
 }
