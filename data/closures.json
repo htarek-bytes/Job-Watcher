@@ -1,69 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789968184,
-   "company": "spacex",
-   "hours_open": 420.4,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1789968184,
-   "company": "spacex",
-   "hours_open": 420.4,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1789968444,
-   "company": "Valsoft Corporation",
-   "hours_open": 66.4,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50313403"
-  },
-  {
-   "closed_at": 1789971901,
-   "company": "Red House Realty, Brokerage",
-   "hours_open": 104.8,
-   "title": "cloud administrator",
-   "uid": "jobbank:cloud administrator:50300205"
-  },
-  {
-   "closed_at": 1789971901,
-   "company": "Valsoft Corporation",
-   "hours_open": 45.4,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50320295"
-  },
-  {
-   "closed_at": 1789971901,
-   "company": "Superior Property Management",
-   "hours_open": 301.3,
-   "title": "network system administrator",
-   "uid": "jobbank:systems administrator:49651763"
-  },
-  {
-   "closed_at": 1789972504,
-   "company": "Source Code",
-   "hours_open": 144.7,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:systems analyst:50288780"
-  },
-  {
-   "closed_at": 1789981988,
-   "company": "Intel",
-   "hours_open": 250.4,
-   "title": "Junior CPU Verification Engineer",
-   "uid": "simplify:listings:1f28f575-6e2b-4367-85a1-26670bbb8e75"
-  },
-  {
-   "closed_at": 1789981988,
-   "company": "twitch",
-   "hours_open": 424.3,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
    "closed_at": 1789981988,
    "company": "Source Code",
    "hours_open": 2.6,
@@ -5599,8 +5536,71 @@
    "hours_open": 183.2,
    "title": "Software Development Engineer , Ground Control Console (GC2)",
    "uid": "amazon:amazon:10551480"
+  },
+  {
+   "closed_at": 1790286428,
+   "company": "Groupe DCM",
+   "hours_open": 154.7,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534670"
+  },
+  {
+   "closed_at": 1790286428,
+   "company": "twitch",
+   "hours_open": 505.9,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1790286428,
+   "company": "asana",
+   "hours_open": 508.8,
+   "title": "Software Engineer",
+   "uid": "greenhouse:asana:7961475"
+  },
+  {
+   "closed_at": 1790286428,
+   "company": "Radiance Technologies",
+   "hours_open": 545.5,
+   "title": "Entry-level Microelectronics R&D Engineer",
+   "uid": "simplify:listings:4d33364c-c685-48f1-bdaf-675e93d5a63b"
+  },
+  {
+   "closed_at": 1790286428,
+   "company": "spacex",
+   "hours_open": 508.8,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1790286428,
+   "company": "spacex",
+   "hours_open": 508.8,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1790286428,
+   "company": "spacex",
+   "hours_open": 508.8,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1790286428,
+   "company": "andurilindustries",
+   "hours_open": 507.1,
+   "title": "Robotics Software Engineer",
+   "uid": "greenhouse:andurilindustries:5179580007"
+  },
+  {
+   "closed_at": 1790286428,
+   "company": "Amazon",
+   "hours_open": 195.5,
+   "title": "Software Development Engineer , Leo Commerce Data Platform",
+   "uid": "amazon:amazon:10547041"
   }
  ],
- "count": 816,
- "updated_at": 1790282423
+ "count": 809,
+ "updated_at": 1790286428
 }
