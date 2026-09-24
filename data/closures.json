@@ -1,27 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789930506,
-   "company": "systemstechnologyresearch",
-   "hours_open": 403.0,
-   "title": "Autonomy Algorithms Software Engineer",
-   "uid": "greenhouse:systemstechnologyresearch:4704682006"
-  },
-  {
-   "closed_at": 1789930506,
-   "company": "spacex",
-   "hours_open": 410.0,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1789930506,
-   "company": "spacex",
-   "hours_open": 408.3,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
    "closed_at": 1789936588,
    "company": "Valsoft Corporation",
    "hours_open": 35.6,
@@ -5599,8 +5578,29 @@
    "hours_open": 500.6,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1790263709,
+   "company": "ngc",
+   "hours_open": 23.9,
+   "title": "2027 Software Engineer Intern – Woodland Hills CA",
+   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Software-Engineer-Intern---Woodland-Hills-CA_R10249359"
+  },
+  {
+   "closed_at": 1790263709,
+   "company": "Groupe DCM",
+   "hours_open": 154.5,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534679"
+  },
+  {
+   "closed_at": 1790263709,
+   "company": "navcanada",
+   "hours_open": 356.1,
+   "title": "Surveillance Systems Engineer",
+   "uid": "workday:navcanada.wd10/NAV_Careers:Surveillance-System-Engineer_JR-8332"
   }
  ],
- "count": 811,
- "updated_at": 1790263027
+ "count": 803,
+ "updated_at": 1790263710
 }
