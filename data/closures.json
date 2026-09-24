@@ -1,90 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789859310,
-   "company": "systemstechnologyresearch",
-   "hours_open": 383.2,
-   "title": "Autonomy Algorithms Software Engineer",
-   "uid": "greenhouse:systemstechnologyresearch:4704682006"
-  },
-  {
-   "closed_at": 1789859310,
-   "company": "spacex",
-   "hours_open": 388.5,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1789860417,
-   "company": "roadrunner",
-   "hours_open": 79.6,
-   "title": "Forward Deployed Engineer (New Grad) ",
-   "uid": "ashby:roadrunner:eeeb9757-78e0-4776-889e-507a013e1fcf"
-  },
-  {
-   "closed_at": 1789860417,
-   "company": "twitch",
-   "hours_open": 390.5,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1789860417,
-   "company": "Alt Informatique",
-   "hours_open": 42.5,
-   "title": "Technicien informatique junior",
-   "uid": "jobillico:technicien informatique:17381391"
-  },
-  {
-   "closed_at": 1789860417,
-   "company": "Valsoft Corporation",
-   "hours_open": 36.4,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50313403"
-  },
-  {
-   "closed_at": 1789860417,
-   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
-   "hours_open": 270.3,
-   "title": "Administrateur Réseau TI",
-   "uid": "jobillico:analyste reseau:17386419"
-  },
-  {
-   "closed_at": 1789860417,
-   "company": "systemstechnologyresearch",
-   "hours_open": 270.3,
-   "title": "Autonomy Algorithms Software Engineer",
-   "uid": "greenhouse:systemstechnologyresearch:4704680006"
-  },
-  {
-   "closed_at": 1789860417,
-   "company": "spacex",
-   "hours_open": 390.5,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1789860644,
-   "company": "twitch",
-   "hours_open": 387.6,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1789860644,
-   "company": "Valsoft Corporation",
-   "hours_open": 14.5,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50320295"
-  },
-  {
-   "closed_at": 1789860644,
-   "company": "systemstechnologyresearch",
-   "hours_open": 383.6,
-   "title": "Autonomy Algorithms Software Engineer",
-   "uid": "greenhouse:systemstechnologyresearch:4704682006"
-  },
-  {
    "closed_at": 1789860644,
    "company": "spacex",
    "hours_open": 388.9,
@@ -5599,8 +5515,92 @@
    "hours_open": 487.1,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1790209733,
+   "company": "globalhr",
+   "hours_open": 9.7,
+   "title": "Stage - Hiver 2027 - Développeur de simulation de systèmes de contrôle moteur / Internship - Winter 2027 - Engine Control System Simulation Developer",
+   "uid": "workday:globalhr.wd5/rec_rtx_ext_gateway:Stage---Hiver-2027---Dveloppeur-de-simulation-de-systmes-de-contrle-moteur---Internship---Winter-2027---Engine-Control-System-Simulation-Developer_01876605"
+  },
+  {
+   "closed_at": 1790209733,
+   "company": "globalhr",
+   "hours_open": 9.7,
+   "title": "Software Engineer Intern (Summer 2027)",
+   "uid": "workday:globalhr.wd5/rec_rtx_ext_gateway:Software-Engineer-Intern--Summer-2027-_01873556"
+  },
+  {
+   "closed_at": 1790209733,
+   "company": "globalhr",
+   "hours_open": 9.7,
+   "title": "Factory Enablement Digital Engineer (Spring/Summer Co-op)",
+   "uid": "workday:globalhr.wd5/rec_rtx_ext_gateway:Factory-Enablement-Digital-Engineer--Spring-Summer-Co-op-_01876473"
+  },
+  {
+   "closed_at": 1790209733,
+   "company": "gehc",
+   "hours_open": 47.4,
+   "title": "Software Engineering Summer Intern 2027",
+   "uid": "workday:gehc.wd5/GEHC_ExternalSite:Software-Engineering-Summer-Intern-2027_R4046481-1"
+  },
+  {
+   "closed_at": 1790209733,
+   "company": "fis",
+   "hours_open": 56.5,
+   "title": "Business Solutions Consultant - Supply Chain Finance",
+   "uid": "workday:fis.wd5/searchjobs:Senior-Business-Solutions-Consultant---Working-Capital-Solutions_JR0308489-1"
+  },
+  {
+   "closed_at": 1790209733,
+   "company": "Groupe DCM",
+   "hours_open": 139.6,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534679"
+  },
+  {
+   "closed_at": 1790209733,
+   "company": "gevernova",
+   "hours_open": 31.6,
+   "title": "Engineering Intern - Power Conversion & Storage AI Tool Developer  2027",
+   "uid": "workday:gevernova.wd5/vernova_externalsite:Engineering-Intern---Power-Conversion---Storage-AI-Tool-Developer--2027_R5049957-2"
+  },
+  {
+   "closed_at": 1790209733,
+   "company": "fis",
+   "hours_open": 138.9,
+   "title": "Intern, Software Engineer, FIS University Program",
+   "uid": "workday:fis.wd5/searchjobs:Intern--Software-Engineer--FIS-University-Program_JR0309512"
+  },
+  {
+   "closed_at": 1790209733,
+   "company": "Boeing",
+   "hours_open": 1.3,
+   "title": "Entry-level Digital Electronics Circuit & Unit Hardware Design Engineer - Space Digital Products & Electronics",
+   "uid": "simplify:listings:56278d8a-c505-46f4-a85b-5be6b79b6e44"
+  },
+  {
+   "closed_at": 1790209733,
+   "company": "fmr",
+   "hours_open": 289.7,
+   "title": "Co-op, Software Engineer",
+   "uid": "workday:fmr.wd1/targeted:Co-op--Software-Engineer_2135200"
+  },
+  {
+   "closed_at": 1790209733,
+   "company": "globalhr",
+   "hours_open": 324.6,
+   "title": "Systems Engineer Intern - Helmet Displays (Summer 2027) - Onsite",
+   "uid": "workday:globalhr.wd5/Private_Posting_No_TMP:Systems-Engineer-Intern---Helmet-Displays--Summer-2027----Onsite_01867411"
+  },
+  {
+   "closed_at": 1790209733,
+   "company": "spacex",
+   "hours_open": 487.5,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 807,
- "updated_at": 1790208212
+ "count": 812,
+ "updated_at": 1790209734
 }

@@ -1,5 +1,5 @@
 {
- "count": 5881,
+ "count": 5884,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -5266,6 +5266,7 @@
   "workday:eversource.wd1/ExternalSite:Associate-Engineer--Maintenance-Support_R-031423": 1788512368,
   "workday:eversource.wd1/ExternalSite:Associate-Engineer--Transmission-System-Planning--MA--CT--NH-_R-031081": 1789510394,
   "workday:eversource.wd1/ExternalSite:Associate-Engineer-Grid-Operations-Technology--Hybrid-Schedule-_R-031790-1": 1788530938,
+  "workday:eversource.wd1/ExternalSite:Associate-Engineer-Grid-Operations-Technology--Hybrid-_R-031666": 1790209733,
   "workday:exelixis.wd1/exel:AI-and-Agentic-Engineer-I_JR7022-1": 1788377607,
   "workday:exelixis.wd1/exel:Associate-Engineer---AI-and-Agentic_JR7031": 1788377607,
   "workday:expedia.wd108/private:Software-Development-Engineer-I_R-108739-2": 1788377607,
@@ -5303,9 +5304,11 @@
   "workday:generac.wd5/external:Entry-Level-Electrical-Design-Engineer---Switchgear---Generator-Control-Systems_JR15958": 1788377607,
   "workday:generalmotors.wd5/Careers_GM:Entry-Level-Software-Design-Release-Engineer_JR-202618509": 1788549636,
   "workday:generalmotors.wd5/Careers_GM:Machine-Learning-Engineer--AI-Inference-Solutions--University-Grad-_JR-202610103": 1789166954,
+  "workday:generalmotors.wd5/Careers_GM:Software-Engineer-AV-HIL-Platform-and-Services--University-Grad-_JR-202604577": 1790209733,
   "workday:generalmotors.wd5/Careers_GM:XMLNAME-2027-Co-Op---Manufacturing-Controls-Engineer_JR-202618863": 1788442300,
   "workday:generalmotors.wd5/Careers_GM:XMLNAME-2027-Co-Op-Student---Manufacturing-Quality-Engineer_JR-202619309": 1788442300,
   "workday:gentex.wd5/Gentex:Machine-Vision-Development-Engineer-I_REQ026227": 1788377607,
+  "workday:gevernova.wd5/only_confidential_executive_recruiting:Dveloppeur-de-logiciels-embarqus-pour-lments-de-protection--F-H---Protection-Element-Embedded-SW-Developer-1_R5053315-1": 1790209733,
   "workday:gevernova.wd5/only_confidential_executive_recruiting:Early-Career-Traininship--Technical-Applications-Engineer_R5050516-3": 1788377607,
   "workday:gevernova.wd5/only_confidential_executive_recruiting:Engineering-Intern---Power-Conversion---Storage-AI-Tool-Developer--2027_R5049957-1": 1789752945,
   "workday:gevernova.wd5/only_confidential_executive_recruiting:Field-Services-Engineer---Early-Career-Trainee_R5049070-2": 1788377607,
@@ -5883,5 +5886,5 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148,
   "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541": 1789106107
  },
- "updated_at": 1790208212
+ "updated_at": 1790209734
 }
