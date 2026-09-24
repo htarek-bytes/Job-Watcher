@@ -2,27 +2,6 @@
  "closed": [
   {
    "closed_at": 1789903141,
-   "company": "twitch",
-   "hours_open": 399.4,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1789903141,
-   "company": "U.S. Bank",
-   "hours_open": 132.7,
-   "title": "Associate Software Engineer - C# - .NET Core",
-   "uid": "simplify:listings:63c995b0-3122-45a1-8d57-e418f2c90068"
-  },
-  {
-   "closed_at": 1789903141,
-   "company": "trimedx",
-   "hours_open": 419.2,
-   "title": "Imaging Engineer I",
-   "uid": "workday:trimedx.wd1/TMX:Imaging-Engineer-I_R14875"
-  },
-  {
-   "closed_at": 1789903141,
    "company": "RTX",
    "hours_open": 107.0,
    "title": "Vision Systems Test Engineer 1",
@@ -5599,8 +5578,29 @@
    "hours_open": 490.6,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1790232147,
+   "company": "FIBROTEK MATÉRIAUX AVANCÉS INC.",
+   "hours_open": 224.2,
+   "title": "mobile applications developer",
+   "uid": "jobbank:developpeur junior:50286599"
+  },
+  {
+   "closed_at": 1790232147,
+   "company": "Drops of Jupiter",
+   "hours_open": 154.7,
+   "title": "electronic commerce (e-commerce) Web site developer",
+   "uid": "jobbank:developpeur junior:50268296"
+  },
+  {
+   "closed_at": 1790232147,
+   "company": "CATSA",
+   "hours_open": 345.8,
+   "title": "programmer analyst",
+   "uid": "jobbank:junior programmer:50253129"
   }
  ],
- "count": 800,
- "updated_at": 1790227625
+ "count": 803,
+ "updated_at": 1790232148
 }
