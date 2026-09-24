@@ -1,34 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789996228,
-   "company": "Valsoft Corporation",
-   "hours_open": 74.1,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50313403"
-  },
-  {
-   "closed_at": 1789996228,
-   "company": "spacex",
-   "hours_open": 427.9,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1789996861,
-   "company": "Groupe DCM",
-   "hours_open": 74.3,
-   "title": "Programmeur CNC / CNC Programmer",
-   "uid": "jobillico:programmeur junior:17534670"
-  },
-  {
-   "closed_at": 1789996861,
-   "company": "cae",
-   "hours_open": 308.2,
-   "title": "C-IT-200 Product Cybersecurity Specialist Intern",
-   "uid": "workday:cae.wd3/career:C-IT-200-Product-Cybersecurity-Specialist-Intern_123542"
-  },
-  {
    "closed_at": 1789996861,
    "company": "cadence",
    "hours_open": 421.4,
@@ -5599,8 +5571,36 @@
    "hours_open": 5.2,
    "title": "Security Software Engineer, Endpoint Security",
    "uid": "greenhouse:andurilindustries:5002801007"
+  },
+  {
+   "closed_at": 1790289837,
+   "company": "Alt Informatique",
+   "hours_open": 161.8,
+   "title": "Technicien informatique junior",
+   "uid": "jobillico:technicien informatique:17381391"
+  },
+  {
+   "closed_at": 1790289837,
+   "company": "Cooptel",
+   "hours_open": 389.6,
+   "title": "Administrateur réseau",
+   "uid": "jobillico:analyste reseau:17185045"
+  },
+  {
+   "closed_at": 1790289837,
+   "company": "JeffreyM Consulting",
+   "hours_open": 232.1,
+   "title": "Full-Stack Software Engineer",
+   "uid": "workable:jeffreym-consulting:44CAA8DF6E"
+  },
+  {
+   "closed_at": 1790289837,
+   "company": "Trexquant Investment",
+   "hours_open": 502.8,
+   "title": "IT Systems Engineer - End-User Support (USA)",
+   "uid": "workable:trexquant:8B045B8554"
   }
  ],
- "count": 810,
- "updated_at": 1790289151
+ "count": 804,
+ "updated_at": 1790289838
 }
