@@ -1,5 +1,5 @@
 {
- "count": 5876,
+ "count": 5881,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -2045,6 +2045,7 @@
   "greenhouse:roboforce:5181554008": 1788479777,
   "greenhouse:rocketems:4398468009": 1789436213,
   "greenhouse:rocketlab:6286833003": 1790196061,
+  "greenhouse:rocketlab:7482231003": 1790208212,
   "greenhouse:rocketlab:7598183003": 1789517822,
   "greenhouse:rocketlab:7703264003": 1789768687,
   "greenhouse:rocketlab:7724321003": 1788479777,
@@ -5159,9 +5160,11 @@
   "workday:caci.wd1/external:Software-Engineering-Co-op---Fall-2026_331472": 1788435390,
   "workday:caci.wd1/external:Software-Engineering-Intern---Summer-2027_331543-1": 1789070335,
   "workday:caci.wd1/external:Software-Engineering-Intern---Summer-2027_331742": 1788979404,
+  "workday:caci.wd1/external:Software-Engineering-Intern---Summer-2027_332041": 1790208212,
   "workday:caci.wd1/external:Software-Engineering-Intern---Summer-2027_332372": 1790167181,
   "workday:caci.wd1/external:Software-Engineering-Intern---Summer-2027_332386": 1790120419,
   "workday:cadence.wd1/External_Careers:Adams-MultiBody-Dynamics-Application-Software-Developer--Recent-Grad-2026-_R55788": 1788368024,
+  "workday:cadence.wd1/External_Careers:Intern--Software-Engineering--Hardware-Verification-R-D_R56477": 1790208212,
   "workday:cadence.wd1/Univ_Careers:Adams-Application-Software-Developer---Recent-Grad-2026-_R55736-2": 1788368024,
   "workday:cadence.wd1/Univ_Careers:Distributed-Systems-Engineer_R53233": 1788887337,
   "workday:cadence.wd1/Univ_Careers:Graduate-Student-Intern---Software-Engineering_R56028": 1788410216,
@@ -5176,6 +5179,7 @@
   "workday:cadence.wd1/University_Talent_NCG:Software-Engineer---new-college-grad-Dec-2026-_R55738": 1788640954,
   "workday:cae.wd3/career:C-FIN-275-Software-Engineering-Intern--AI--Automation-and-Business-Intelligence_123477-1": 1788435390,
   "workday:cae.wd3/career:C-IT-200-Product-Cybersecurity-Specialist-Intern_123542": 1788887337,
+  "workday:cae.wd3/career:Product-Cybersecurity-Specialist_123467": 1790208212,
   "workday:campbellsoup.wd5/externalcareers_globalsite:Data-Engineer--DA-AI-Co-Op_Req-65838": 1788435390,
   "workday:campbellsoup.wd5/externalcareers_globalsite:Modeling-and-Visualization-Engineer-Co-Op_Req-65846": 1788435390,
   "workday:canadiantirecorporation.wd3/Enterprise_External_Careers_Site:Analyst--Information-Security-Risk-Reporting_JR163997": 1789594041,
@@ -5204,6 +5208,7 @@
   "workday:chevron.wd5/University:XMLNAME-2026-2027-Petroleum-Engineer-Intern--previous-intern-_R000072341": 1788539216,
   "workday:chevron.wd5/University:XMLNAME-2026-2027-Petroleum-Engineer-Intern_R000072407": 1788442300,
   "workday:cisco.wd5/cisco_careers:Software-Consulting-Engineer-I--Intern--United-States_2025180": 1788936095,
+  "workday:cisco.wd5/cisco_careers:Solutions-Engineer--Enterprise_2024723-1": 1790208212,
   "workday:clearwateranalytics.wd1/Clearwater_Analytics_Careers:Quant-Developer-Intern_R12182": 1789510068,
   "workday:clearwateranalytics.wd1/Clearwater_Analytics_Careers:Quantitative-Developer-I_R12046": 1788390279,
   "workday:clearwateranalytics.wd1/Clearwater_Analytics_Careers:Quantitative-Developer-I_R12180": 1790123242,
@@ -5878,5 +5883,5 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148,
   "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541": 1789106107
  },
- "updated_at": 1790205166
+ "updated_at": 1790208212
 }
