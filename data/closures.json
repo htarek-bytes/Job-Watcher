@@ -1,48 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789926967,
-   "company": "twitch",
-   "hours_open": 409.0,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1789926967,
-   "company": "fmr",
-   "hours_open": 211.1,
-   "title": "Co-op, Software Engineer",
-   "uid": "workday:fmr.wd1/targeted:Co-op--Software-Engineer_2135200"
-  },
-  {
-   "closed_at": 1789926967,
-   "company": "systemstechnologyresearch",
-   "hours_open": 288.8,
-   "title": "Autonomy Algorithms Software Engineer",
-   "uid": "greenhouse:systemstechnologyresearch:4704680006"
-  },
-  {
-   "closed_at": 1789926967,
-   "company": "spacex",
-   "hours_open": 408.7,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1789927954,
-   "company": "twitch",
-   "hours_open": 406.3,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1789927954,
-   "company": "globalhr",
-   "hours_open": 272.3,
-   "title": "Software Engineering Intern (Summer 2027)",
-   "uid": "workday:globalhr.wd5/Private_Posting_No_TMP:Software-Engineering-Intern--Summer-2027-_01870410"
-  },
-  {
    "closed_at": 1789927954,
    "company": "Valsoft Corporation",
    "hours_open": 33.2,
@@ -5599,8 +5557,50 @@
    "hours_open": 520.4,
    "title": "Entry-Level Engineer – Anti-Tamper (AT) Support, TS/SCI",
    "uid": "greenhouse:blueskyinnovators:5210882008"
+  },
+  {
+   "closed_at": 1790261695,
+   "company": "ffive",
+   "hours_open": 61.8,
+   "title": "Software Development Engineer I (Former Summer 2026 Interns)",
+   "uid": "workday:ffive.wd5/f5jobs:Software-Development-Engineer-I--Former-Summer-2026-Interns-_RP1038795"
+  },
+  {
+   "closed_at": 1790261695,
+   "company": "fmr",
+   "hours_open": 294.1,
+   "title": "Co-op, Software Engineer",
+   "uid": "workday:fmr.wd1/targeted:Co-op--Software-Engineer_2135230"
+  },
+  {
+   "closed_at": 1790261695,
+   "company": "Amazon",
+   "hours_open": 145.1,
+   "title": "Software Development Engineer, SageMaker Unified Studio",
+   "uid": "amazon:amazon:10553306"
+  },
+  {
+   "closed_at": 1790261695,
+   "company": "fis",
+   "hours_open": 47.2,
+   "title": "Junior QA Automation",
+   "uid": "workday:fis.wd5/searchjobs:SDET-Specialist_JR0307882"
+  },
+  {
+   "closed_at": 1790261695,
+   "company": "RTX",
+   "hours_open": 37.1,
+   "title": "Hardware Test Engineer 1",
+   "uid": "simplify:listings:3cd2d4bf-83be-48d7-8ec6-013ff39cecab"
+  },
+  {
+   "closed_at": 1790261695,
+   "company": "andurilindustries",
+   "hours_open": 192.5,
+   "title": "Production Software Engineer",
+   "uid": "greenhouse:andurilindustries:5239701007"
   }
  ],
- "count": 822,
- "updated_at": 1790259923
+ "count": 806,
+ "updated_at": 1790261695
 }
