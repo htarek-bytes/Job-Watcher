@@ -1,5 +1,5 @@
 {
- "count": 5988,
+ "count": 5999,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -3975,7 +3975,9 @@
   "simplify:listings:221f4f27-c95d-4fa4-98c1-bbb7b8aa79aa": 1788322770,
   "simplify:listings:22286d2e-ab8f-421b-9e32-02038a5bffa4": 1788322770,
   "simplify:listings:225c073c-c7cc-420b-a859-6c087a72388a": 1790069500,
+  "simplify:listings:228de40c-38b3-44c3-8ac5-a7d93bc664d7": 1790292621,
   "simplify:listings:22a10269-db51-459d-b8ce-872e7a7ac070": 1789511757,
+  "simplify:listings:22af1ba3-8de5-4e6a-8ffd-10425883c086": 1790292621,
   "simplify:listings:22f4cbf0-ea63-4e72-9fba-4319ef8415c3": 1788322770,
   "simplify:listings:238b4335-e95e-471b-ad55-a3d3da60a5f6": 1788563552,
   "simplify:listings:242a72e5-306f-4aee-83bf-394d30551f34": 1788322770,
@@ -4147,6 +4149,7 @@
   "simplify:listings:5e9a3fb3-b8d1-440b-b8cb-3725a201cdf0": 1789171739,
   "simplify:listings:5ea2c9a9-5fc0-47a9-9ae2-f5f63daa4272": 1788322770,
   "simplify:listings:5f62b02a-d87f-4a82-9762-6fdf7588a8f1": 1789227672,
+  "simplify:listings:5fb1595f-945f-47e2-89dc-05bd4bf09da3": 1790292621,
   "simplify:listings:6052a761-2d5c-44a7-a666-f6975df25f03": 1788322770,
   "simplify:listings:60eedf32-89b8-4de4-b2e1-d69503416974": 1790184571,
   "simplify:listings:6106a504-c0e8-4770-a4a1-09edf4a03049": 1788416995,
@@ -4173,6 +4176,7 @@
   "simplify:listings:65c39cac-49f5-4b67-b714-c4885e03f9c0": 1790128196,
   "simplify:listings:660449bd-9e7f-4df6-b706-492893464ccb": 1788435390,
   "simplify:listings:6677ee34-5236-4d72-a9f0-40a1b0ec9227": 1788322770,
+  "simplify:listings:6760a173-39b3-42f0-bd2a-6e007b814c65": 1790292621,
   "simplify:listings:6765f939-ce0a-421f-9d29-884dc3fe84a0": 1789123332,
   "simplify:listings:67918f68-ac64-470f-a00b-81c89c23d4d3": 1788322770,
   "simplify:listings:67cb7477-5a0e-4d1b-bf05-1a12423d92b9": 1788322770,
@@ -4216,6 +4220,7 @@
   "simplify:listings:744bd093-3680-4a50-a5b9-ded493ae37f6": 1788495756,
   "simplify:listings:747ae80c-8fa8-4c88-8563-d5535105608f": 1788322770,
   "simplify:listings:748876fb-0603-4b73-b26c-469bc138674c": 1789171739,
+  "simplify:listings:74f5d04c-5dd5-4838-8c22-2cef8a0d48c0": 1790292621,
   "simplify:listings:74f8cdd1-ec7b-4441-a2a4-3d02ef77418a": 1788495756,
   "simplify:listings:75042e8a-2126-4f9c-8363-aa0aa0fe281c": 1789517822,
   "simplify:listings:758096a9-4c7d-4e36-80f2-2a6e3bc55385": 1789000440,
@@ -4326,6 +4331,7 @@
   "simplify:listings:99de05ac-50e2-401f-a62d-db4d99b5221e": 1788322770,
   "simplify:listings:9a334ffd-3252-4f69-a5fc-d3e16083784e": 1788322770,
   "simplify:listings:9a8dfe52-a8c8-4604-9197-455c8a8630c0": 1788448251,
+  "simplify:listings:9ac8fdf1-ae90-4f20-8e32-7a3f2c0d52e9": 1790292621,
   "simplify:listings:9b28f741-a7e8-4acb-8697-fb44335ee538": 1788322770,
   "simplify:listings:9bc9d1a9-759f-43c7-ac8f-311f7220b7e7": 1788322770,
   "simplify:listings:9bd1f0ee-ed84-41a2-b228-773d27d10ff2": 1788455648,
@@ -4413,6 +4419,7 @@
   "simplify:listings:b670db2d-c732-42ce-9b3c-0ba2e7ebe208": 1788322770,
   "simplify:listings:b70dd956-6085-4758-b5b8-1a3509421369": 1790289151,
   "simplify:listings:b75d9a5e-5bbf-4016-8d19-1384e5528fdf": 1790041362,
+  "simplify:listings:b7c09e6c-300b-44d7-979c-ffb2447b3c5b": 1790292621,
   "simplify:listings:b8b5d32f-0c43-4547-a9ec-f624bbd9213e": 1788322770,
   "simplify:listings:b8e99c43-8e02-4d04-89d1-f5bd150c6cfc": 1789168928,
   "simplify:listings:b9309db9-dccf-4bad-add7-a387f24df3c6": 1788322770,
@@ -4592,6 +4599,7 @@
   "simplify:listings:f0b72df2-45e6-4ab7-a7f9-f45c59ba884d": 1788442300,
   "simplify:listings:f0c09f25-6461-4b5e-8bce-950aa917c086": 1788322770,
   "simplify:listings:f0decac3-42e6-41b6-8f73-a954263e1bd7": 1789602352,
+  "simplify:listings:f14b8354-3c07-49c5-96e8-d199167864cf": 1790292621,
   "simplify:listings:f18e1c6b-1286-4e39-af87-b217d7a605a7": 1788322770,
   "simplify:listings:f19b1b6b-457a-436b-9a2a-d6488e452bbd": 1789000440,
   "simplify:listings:f2b3f4f3-c1b5-4b79-8638-f261cac4e0ec": 1788435390,
@@ -5119,6 +5127,8 @@
   "workday:adobe.wd5/external_experienced:XMLNAME-2027-Intern---Machine-Learning-Engineer_R171519": 1788435390,
   "workday:adobe.wd5/external_experienced:XMLNAME-2027-Intern---Software-Engineer_R171666": 1788454653,
   "workday:adobe.wd5/external_experienced:XMLNAME-2027-University-Graduate---AI-Forward-Deployed-Engineer_R172018": 1790117695,
+  "workday:adobe.wd5/external_experienced:XMLNAME-2027-University-Graduate---Machine-Learning-Engineer_R172085": 1790292621,
+  "workday:adobe.wd5/external_experienced:XMLNAME-2027-University-Graduate---Software-Engineer_R172083": 1790292621,
   "workday:aep.wd1/AEPCareerSite:Real-Time-Operations-Solutions-Engineer-Principal--Lead_R15926": 1789817754,
   "workday:aero.wd5/external:Junior-Frontend-Designer---Developer_R016551": 1789087251,
   "workday:aero.wd5/external:XMLNAME-2027-Aerospace-Software-Engineer-Undergraduate-Intern_R016605": 1789552116,
@@ -5139,6 +5149,7 @@
   "workday:amat.wd1/External:Software-Engineer--New-College-Grad--Master-s--Chandler--AZ-_R2627911": 1788472811,
   "workday:amat.wd1/External:XMLNAME-2027-Software-Engineer-New-College-Grad--Bachelor-s----Gloucester--MA_R2625914": 1789946076,
   "workday:ameren.wd1/External:Grid-Solutions-Engineer_033944": 1788752332,
+  "workday:ameren.wd1/External:Intern--Robotics--AI--OT--Software-development-_033945-1": 1790292621,
   "workday:analogdevices.wd1/External:Associate-Engineer--Embedded-Audio-Software_R263781": 1788368024,
   "workday:analogdevices.wd1/External:Embedded-Software-Engineer-Intern_R266132": 1789503588,
   "workday:andersen.wd12/Andersen_External_Career_Site:Engineer-I_R-4416": 1788368024,
@@ -5990,5 +6001,5 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148,
   "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541": 1789106107
  },
- "updated_at": 1790289837
+ "updated_at": 1790292622
 }
