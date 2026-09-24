@@ -1,20 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789906273,
-   "company": "systemstechnologyresearch",
-   "hours_open": 283.0,
-   "title": "Autonomy Algorithms Software Engineer",
-   "uid": "greenhouse:systemstechnologyresearch:4704680006"
-  },
-  {
-   "closed_at": 1789906273,
-   "company": "spacex",
-   "hours_open": 403.2,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
    "closed_at": 1789906495,
    "company": "twitch",
    "hours_open": 400.3,
@@ -5599,8 +5585,22 @@
    "hours_open": 495.7,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1790245652,
+   "company": "Arondite",
+   "hours_open": 497.5,
+   "title": "AI Engineer (Agents)",
+   "uid": "workable:arondite:B90A63A44A"
+  },
+  {
+   "closed_at": 1790245652,
+   "company": "spacex",
+   "hours_open": 497.5,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 805,
- "updated_at": 1790245109
+ "count": 802,
+ "updated_at": 1790245653
 }
