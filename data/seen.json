@@ -1,5 +1,5 @@
 {
- "count": 5906,
+ "count": 5915,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -206,6 +206,7 @@
   "amazon:amazon:10558292": 1790196061,
   "amazon:amazon:10558429": 1790205166,
   "amazon:amazon:10558915": 1790244142,
+  "amazon:amazon:10559049": 1790259920,
   "ashby:1password:4ff46f84-a5c9-4232-84b6-1dfa8e737148": 1788750148,
   "ashby:1password:7f885c41-7572-439c-886f-bc508eb9a3d7": 1788454653,
   "ashby:1password:a5b083d5-5f82-4316-b5ef-a577f2edb493": 1788750148,
@@ -2168,6 +2169,7 @@
   "greenhouse:singlestore:7526463": 1789534725,
   "greenhouse:singlestore:8142139": 1789534725,
   "greenhouse:singlestore:8154399": 1789981988,
+  "greenhouse:singlestore:8185163": 1790259920,
   "greenhouse:singlestore:8205389": 1790100520,
   "greenhouse:singlestore:8205427": 1789534725,
   "greenhouse:singlestore:8205514": 1789534725,
@@ -3014,6 +3016,7 @@
   "greenhouse:virtu:8657286002": 1788426255,
   "greenhouse:virtu:8657500002": 1788426255,
   "greenhouse:voloridgeinvestmentmanagement:4224862009": 1788426255,
+  "greenhouse:voloridgeinvestmentmanagement:4419326009": 1790259920,
   "greenhouse:voyagertechnologiesinc:4079284009": 1788454653,
   "greenhouse:voyagertechnologiesinc:4206839009": 1788454653,
   "greenhouse:voyagertechnologiesinc:4251267009": 1790021842,
@@ -3145,6 +3148,7 @@
   "jobbank:developpeur junior:50267136": 1789156237,
   "jobbank:developpeur junior:50268296": 1789675213,
   "jobbank:developpeur junior:50286599": 1789424861,
+  "jobbank:developpeur junior:50299653": 1790259920,
   "jobbank:developpeur junior:50314622": 1789751981,
   "jobbank:developpeur junior:50336009": 1790200201,
   "jobbank:developpeur junior:50352026": 1790196061,
@@ -3221,6 +3225,9 @@
   "jobbank:junior programmer:50309180": 1789675213,
   "jobbank:junior programmer:50336009": 1790041362,
   "jobbank:junior programmer:50347385": 1790146560,
+  "jobbank:junior programmer:50357103": 1790259920,
+  "jobbank:junior programmer:50357104": 1790259920,
+  "jobbank:junior programmer:50357248": 1790259920,
   "jobbank:junior software developer:49875004": 1788390279,
   "jobbank:junior software developer:50080344": 1788390279,
   "jobbank:junior software developer:50096282": 1788390279,
@@ -5090,6 +5097,7 @@
   "workday:avnet.wd1/external:Technical-Sales-Engineer---AMD-Xilinx_JR-022673-1": 1789503588,
   "workday:avnet.wd1/external:Technical-Sales-Engineer-AMD-Xilinx_JR-022776-1": 1788752332,
   "workday:avnet.wd1/external:Technical-Sales-Engineer-Avnet-Silica_JR-023902": 1788752332,
+  "workday:avnet.wd1/external:Technical-Sales-Engineer_JR-022739": 1790259920,
   "workday:axcelis.wd1/axcelis:Co-Op---Manufacturing-Software-Development-_12019": 1789675213,
   "workday:bah.wd1/Confidential:University---Systems-Engineer-Intern_R0248855": 1788898936,
   "workday:bah.wd1/Confidential:University--Applied-AI-Software-Development-Intern_R0248854": 1788898936,
@@ -5176,6 +5184,7 @@
   "workday:caci.wd1/external:Junior-PeopleSoft-Developer_331656": 1788539216,
   "workday:caci.wd1/external:Junior-Systems-Engineer_332029": 1789417897,
   "workday:caci.wd1/external:Software-Developer-Data-Scientist-Intern---Summer-2027_331120": 1788979404,
+  "workday:caci.wd1/external:Software-Engineer---Early-Career---Cloud_330679": 1790259920,
   "workday:caci.wd1/external:Software-Engineer-Intern---Summer-2027_331648": 1788548796,
   "workday:caci.wd1/external:Software-Engineering-Co-op---Fall-2026_331472": 1788435390,
   "workday:caci.wd1/external:Software-Engineering-Intern---Summer-2027_331543-1": 1789070335,
@@ -5908,5 +5917,5 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148,
   "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541": 1789106107
  },
- "updated_at": 1790252334
+ "updated_at": 1790259923
 }
