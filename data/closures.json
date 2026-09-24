@@ -1,55 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789981988,
-   "company": "Source Code",
-   "hours_open": 2.6,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:control systems analyst:50318451"
-  },
-  {
-   "closed_at": 1789981988,
-   "company": "systemstechnologyresearch",
-   "hours_open": 304.1,
-   "title": "Autonomy Algorithms Software Engineer",
-   "uid": "greenhouse:systemstechnologyresearch:4704680006"
-  },
-  {
-   "closed_at": 1789981988,
-   "company": "spacex",
-   "hours_open": 424.0,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1789987997,
-   "company": "ALI TRAVEL",
-   "hours_open": 261.0,
-   "title": "Web developer",
-   "uid": "jobbank:developpeur junior:50229353"
-  },
-  {
-   "closed_at": 1789987997,
-   "company": "Sopra Steria",
-   "hours_open": 101.4,
-   "title": "Service Desk Junior Engineer-Service Support",
-   "uid": "smartrecruiters:SopraSteria1:744000150009599"
-  },
-  {
-   "closed_at": 1789987997,
-   "company": "T-Mobile",
-   "hours_open": 130.6,
-   "title": "Associate Engineer - Agentic AI",
-   "uid": "simplify:listings:d3b9d664-582b-4b4c-a7bb-70489dda21e2"
-  },
-  {
-   "closed_at": 1789987997,
-   "company": "twitch",
-   "hours_open": 423.0,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
    "closed_at": 1789987997,
    "company": "Valsoft Corporation",
    "hours_open": 71.8,
@@ -5599,8 +5550,57 @@
    "hours_open": 195.5,
    "title": "Software Development Engineer , Leo Commerce Data Platform",
    "uid": "amazon:amazon:10547041"
+  },
+  {
+   "closed_at": 1790286678,
+   "company": "Bosch Group",
+   "hours_open": 11.8,
+   "title": "[ETA] 3 Junior Java Developer (1-3 years of experience)",
+   "uid": "smartrecruiters:BoschGroup:744000151526859"
+  },
+  {
+   "closed_at": 1790286678,
+   "company": "Alt Informatique",
+   "hours_open": 160.9,
+   "title": "Technicien informatique junior",
+   "uid": "jobillico:technicien informatique:17381391"
+  },
+  {
+   "closed_at": 1790286678,
+   "company": "Groupe DCM",
+   "hours_open": 160.9,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534679"
+  },
+  {
+   "closed_at": 1790286678,
+   "company": "Arista Networks",
+   "hours_open": 423.8,
+   "title": "Technical Solutions Engineer - Cloud, Hyperscalers and AI networks",
+   "uid": "smartrecruiters:AristaNetworks:744000141561647"
+  },
+  {
+   "closed_at": 1790286678,
+   "company": "General Dynamics Missions System International",
+   "hours_open": 530.2,
+   "title": "Junior Software Engineer",
+   "uid": "smartrecruiters:GDMSI:744000147008250"
+  },
+  {
+   "closed_at": 1790286678,
+   "company": "General Dynamics Missions System International",
+   "hours_open": 530.2,
+   "title": "Junior Supportability Engineer",
+   "uid": "smartrecruiters:GDMSI:744000143097219"
+  },
+  {
+   "closed_at": 1790286678,
+   "company": "andurilindustries",
+   "hours_open": 527.9,
+   "title": "2026 Early Career Flight Test Engineer, Mission Autonomy",
+   "uid": "greenhouse:andurilindustries:5185089007"
   }
  ],
- "count": 809,
- "updated_at": 1790286428
+ "count": 807,
+ "updated_at": 1790286679
 }
