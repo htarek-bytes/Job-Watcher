@@ -1,27 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789887274,
-   "company": "spacex",
-   "hours_open": 398.0,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1789887469,
-   "company": "Valsoft Corporation",
-   "hours_open": 21.9,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50320295"
-  },
-  {
-   "closed_at": 1789559505,
-   "company": "kbr",
-   "hours_open": 328.2,
-   "title": "Junior Software Engineer",
-   "uid": "workday:kbr.wd5/kbr_careers:Junior-Software-Engineer_R2122294"
-  },
-  {
    "closed_at": 1789903141,
    "company": "twitch",
    "hours_open": 399.4,
@@ -5599,8 +5578,29 @@
    "hours_open": 491.7,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1790226820,
+   "company": "astro-mechanica",
+   "hours_open": 492.3,
+   "title": "Mechanical Integration Engineer",
+   "uid": "ashby:astro-mechanica:a9858492-8c5e-4d88-b847-d5d4ab8e069b"
+  },
+  {
+   "closed_at": 1790226820,
+   "company": "Altice USA",
+   "hours_open": 528.9,
+   "title": "Software Development Engineer 1",
+   "uid": "simplify:listings:ed1c1803-cea0-4778-8d48-8ba69bc0716a"
+  },
+  {
+   "closed_at": 1790226820,
+   "company": "spacex",
+   "hours_open": 490.6,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
- "count": 811,
- "updated_at": 1790224746
+ "count": 803,
+ "updated_at": 1790226820
 }
