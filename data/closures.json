@@ -1,34 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1789950743,
-   "company": "systemstechnologyresearch",
-   "hours_open": 295.4,
-   "title": "Autonomy Algorithms Software Engineer",
-   "uid": "greenhouse:systemstechnologyresearch:4704680006"
-  },
-  {
-   "closed_at": 1789950854,
-   "company": "mmc",
-   "hours_open": 432.5,
-   "title": "Junior Python Engineer @MarshTech",
-   "uid": "workday:mmc.wd1/mmc:Junior-Python-Engineer--MarshTech_R_362442-1"
-  },
-  {
-   "closed_at": 1789950854,
-   "company": "twitch",
-   "hours_open": 412.7,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1789950854,
-   "company": "spacex",
-   "hours_open": 415.6,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
    "closed_at": 1789950854,
    "company": "systemstechnologyresearch",
    "hours_open": 408.6,
@@ -5599,8 +5571,36 @@
    "hours_open": 505.8,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1790277491,
+   "company": "lyft",
+   "hours_open": 506.3,
+   "title": "Software Engineer, Pricing - Rider Engagement",
+   "uid": "greenhouse:lyft:8743259002"
+  },
+  {
+   "closed_at": 1790277491,
+   "company": "NXP Semiconductors",
+   "hours_open": 307.9,
+   "title": "Entry Level Semiconductor Test Engineer",
+   "uid": "simplify:listings:b8e99c43-8e02-4d04-89d1-f5bd150c6cfc"
+  },
+  {
+   "closed_at": 1790277491,
+   "company": "revel",
+   "hours_open": 531.4,
+   "title": "Full Stack Software Engineer (Entry-Junior)",
+   "uid": "ashby:revel:49e46e96-e266-4ef6-8b62-e056d695dc52"
+  },
+  {
+   "closed_at": 1790277491,
+   "company": "spacex",
+   "hours_open": 506.3,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 807,
- "updated_at": 1790275542
+ "count": 804,
+ "updated_at": 1790277491
 }
