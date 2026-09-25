@@ -1,90 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1790033004,
-   "company": "darkwolfsolutions",
-   "hours_open": 438.4,
-   "title": "Front End Developer",
-   "uid": "greenhouse:darkwolfsolutions:7837196003"
-  },
-  {
-   "closed_at": 1790033004,
-   "company": "spacex",
-   "hours_open": 438.2,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1790033004,
-   "company": "andurilindustries",
-   "hours_open": 436.7,
-   "title": "Electrical Systems Engineer, C2 Integration",
-   "uid": "greenhouse:andurilindustries:5180570007"
-  },
-  {
-   "closed_at": 1790033004,
-   "company": "spacex",
-   "hours_open": 438.4,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1790033004,
-   "company": "andurilindustries",
-   "hours_open": 436.7,
-   "title": "Product Operations Technical Specialist, Ghost",
-   "uid": "greenhouse:andurilindustries:5122154007"
-  },
-  {
-   "closed_at": 1790033004,
-   "company": "spacex",
-   "hours_open": 172.3,
-   "title": "Information Security Analyst",
-   "uid": "greenhouse:spacex:8806094002"
-  },
-  {
-   "closed_at": 1790033004,
-   "company": "andurilindustries",
-   "hours_open": 436.7,
-   "title": "Flight Test Engineer",
-   "uid": "greenhouse:andurilindustries:5023717007"
-  },
-  {
-   "closed_at": 1790033004,
-   "company": "spacex",
-   "hours_open": 318.2,
-   "title": "IT Network Infrastructure Technician",
-   "uid": "greenhouse:spacex:8707320002"
-  },
-  {
-   "closed_at": 1790033004,
-   "company": "voyagertechnologiesinc",
-   "hours_open": 438.4,
-   "title": "Accelerated Physics Simulation Engineer – Agentic Computational Engineering (ACE)",
-   "uid": "greenhouse:voyagertechnologiesinc:4079284009"
-  },
-  {
-   "closed_at": 1790033691,
-   "company": "CWILL",
-   "hours_open": 438.3,
-   "title": "DevOps/SRE Engineer - Bilingual Mandarin Required",
-   "uid": "workable:cwill-us:22BF5316AC"
-  },
-  {
-   "closed_at": 1790033691,
-   "company": "Source Code",
-   "hours_open": 161.7,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:systems analyst:50288780"
-  },
-  {
-   "closed_at": 1790033691,
-   "company": "Thorlabs",
-   "hours_open": 72.3,
-   "title": "Photonics Engineer I",
-   "uid": "workable:thorlabs:13C8B0C3FE"
-  },
-  {
    "closed_at": 1790035386,
    "company": "Valsoft Corporation",
    "hours_open": 63.0,
@@ -5599,8 +5515,92 @@
    "hours_open": 525.3,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1790357765,
+   "company": "VILLE DE SAINTE-MARGUERITE-DU-LAC- MASSON",
+   "hours_open": 2.8,
+   "title": "network infrastructure engineer",
+   "uid": "jobbank:specialiste infrastructure:50365083"
+  },
+  {
+   "closed_at": 1790357765,
+   "company": "rockwellautomation",
+   "hours_open": 12.8,
+   "title": "Co-op, Embedded Software Engineer (Spring or Fall 2027)",
+   "uid": "workday:rockwellautomation.wd1/External_Rockwell_Automation:Spring-2027-Co-op--Embedded-Software-Engineer--January-2027---August-2027-_R26-3473-1"
+  },
+  {
+   "closed_at": 1790357765,
+   "company": "RemoteJobsOne",
+   "hours_open": 67.3,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:systems analyst:50344427"
+  },
+  {
+   "closed_at": 1790357765,
+   "company": "Source Code",
+   "hours_open": 43.5,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:control systems analyst:50290573"
+  },
+  {
+   "closed_at": 1790357765,
+   "company": "Groupe DCM",
+   "hours_open": 180.7,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534679"
+  },
+  {
+   "closed_at": 1790357765,
+   "company": "Protech Group",
+   "hours_open": 329.5,
+   "title": "Junior Application Developer - Database Orientation",
+   "uid": "simplify:listings:7cb90b67-c1af-4e1f-a9a9-e50dc88da299"
+  },
+  {
+   "closed_at": 1790357765,
+   "company": "philips",
+   "hours_open": 87.8,
+   "title": "Intern – Medical Imaging Software Engineering, IVUS – Plymouth, MN – Summer 2027",
+   "uid": "workday:philips.wd3/jobs-and-careers:Intern---Software-Engineering---Plymouth--MN---Summer-2027_590403"
+  },
+  {
+   "closed_at": 1790357765,
+   "company": "YO AI Labs",
+   "hours_open": 168.3,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50315027"
+  },
+  {
+   "closed_at": 1790357765,
+   "company": "GetHearth.com",
+   "hours_open": 565.3,
+   "title": "Junior GTM Engineer",
+   "uid": "simplify:listings:3588169e-17ec-4faf-a06f-498add51cc22"
+  },
+  {
+   "closed_at": 1790357765,
+   "company": "accenturefederalservices",
+   "hours_open": 502.0,
+   "title": "Cloud Infrastructure Engineer",
+   "uid": "greenhouse:accenturefederalservices:4711336006"
+  },
+  {
+   "closed_at": 1790357765,
+   "company": "andurilindustries",
+   "hours_open": 526.9,
+   "title": "Laser Test Engineer",
+   "uid": "greenhouse:andurilindustries:5196584007"
+  },
+  {
+   "closed_at": 1790357765,
+   "company": "spacex",
+   "hours_open": 528.6,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 817,
- "updated_at": 1790351918
+ "count": 812,
+ "updated_at": 1790357766
 }
