@@ -4,20 +4,6 @@
    "closed_at": 1790021842,
    "company": "andurilindustries",
    "hours_open": 433.6,
-   "title": "Systems Engineer, Air Defense",
-   "uid": "greenhouse:andurilindustries:4843950007"
-  },
-  {
-   "closed_at": 1790021842,
-   "company": "rocketlab",
-   "hours_open": 239.6,
-   "title": "Spacecraft Propulsion Components Engineer I",
-   "uid": "greenhouse:rocketlab:7993154003"
-  },
-  {
-   "closed_at": 1790021842,
-   "company": "andurilindustries",
-   "hours_open": 433.6,
    "title": "Hardware Test Engineer",
    "uid": "greenhouse:andurilindustries:5226711007"
   },
@@ -5599,8 +5585,22 @@
    "hours_open": 516.4,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1790329998,
+   "company": "Great Lakes Group",
+   "hours_open": 77.1,
+   "title": "hardware engineer",
+   "uid": "jobbank:scada:50336048"
+  },
+  {
+   "closed_at": 1790329998,
+   "company": "field-ai",
+   "hours_open": 518.0,
+   "title": "Product QA & Data Engineer",
+   "uid": "lever:field-ai:bbb7838b-7eb5-4899-ac38-f2d95285a84d"
   }
  ],
- "count": 808,
- "updated_at": 1790319681
+ "count": 802,
+ "updated_at": 1790330000
 }
