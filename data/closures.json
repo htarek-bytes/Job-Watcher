@@ -2,27 +2,6 @@
  "closed": [
   {
    "closed_at": 1790016713,
-   "company": "andurilindustries",
-   "hours_open": 0.2,
-   "title": "Production Hardware Test Engineer",
-   "uid": "greenhouse:andurilindustries:5244116007"
-  },
-  {
-   "closed_at": 1790016713,
-   "company": "andurilindustries",
-   "hours_open": 0.2,
-   "title": "Hardware Test Engineer",
-   "uid": "greenhouse:andurilindustries:5244110007"
-  },
-  {
-   "closed_at": 1790016713,
-   "company": "accenturefederalservices",
-   "hours_open": 0.2,
-   "title": "Junior Forward Deployed AI Engineer   ",
-   "uid": "greenhouse:accenturefederalservices:4715182006"
-  },
-  {
-   "closed_at": 1790016713,
    "company": "darkwolfsolutions",
    "hours_open": 1.8,
    "title": "Front End Engineer",
@@ -5599,8 +5578,29 @@
    "hours_open": 515.9,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1790311902,
+   "company": "cerebras",
+   "hours_open": 515.9,
+   "title": "Manufacturing Automation Engineer",
+   "uid": "ashby:cerebras:20010f8f-5ede-469a-b432-c38dc223e11c"
+  },
+  {
+   "closed_at": 1790311902,
+   "company": "adaption",
+   "hours_open": 70.9,
+   "title": "Research Engineer",
+   "uid": "ashby:adaption:868d0683-33f9-4bc3-b724-37963b44d3e7"
+  },
+  {
+   "closed_at": 1790311902,
+   "company": "Source Code",
+   "hours_open": 30.7,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:control systems analyst:50290573"
   }
  ],
- "count": 807,
- "updated_at": 1790311774
+ "count": 803,
+ "updated_at": 1790311902
 }
