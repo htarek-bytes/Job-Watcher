@@ -1,125 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1790029519,
-   "company": "accenturefederalservices",
-   "hours_open": 3.7,
-   "title": "Junior Forward Deployed AI Engineer   ",
-   "uid": "greenhouse:accenturefederalservices:4715182006"
-  },
-  {
-   "closed_at": 1790029519,
-   "company": "spacex",
-   "hours_open": 437.5,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1790029519,
-   "company": "spacex",
-   "hours_open": 435.8,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1790033004,
-   "company": "singlestore",
-   "hours_open": 4.5,
-   "title": "MIT- Software Engineer Intern |Helios|",
-   "uid": "greenhouse:singlestore:8220948"
-  },
-  {
-   "closed_at": 1790033004,
-   "company": "Maarut",
-   "hours_open": 66.7,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50320192"
-  },
-  {
-   "closed_at": 1790033004,
-   "company": "xai",
-   "hours_open": 426.5,
-   "title": "Mechanical Commissioning Engineer - Memphis",
-   "uid": "greenhouse:xai:5226371007"
-  },
-  {
-   "closed_at": 1790033004,
-   "company": "SRC Can",
-   "hours_open": 65.4,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50320464"
-  },
-  {
-   "closed_at": 1790033004,
-   "company": "stripe",
-   "hours_open": 438.4,
-   "title": "Backend Engineer, Billing/Tax",
-   "uid": "greenhouse:stripe:7217048"
-  },
-  {
-   "closed_at": 1790033004,
-   "company": "twitch",
-   "hours_open": 435.5,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1790033004,
-   "company": "tulip",
-   "hours_open": 438.4,
-   "title": "Software Engineer, Edge",
-   "uid": "greenhouse:tulip:7748615003"
-  },
-  {
-   "closed_at": 1790033004,
-   "company": "innodatainc",
-   "hours_open": 436.7,
-   "title": "AI/ML Research Engineer, LLM Post-Training & Evaluation",
-   "uid": "greenhouse:innodatainc:4330331009"
-  },
-  {
-   "closed_at": 1790033004,
-   "company": "airbnb",
-   "hours_open": 124.9,
-   "title": "Machine Learning Engineer, Relevance and Personalization",
-   "uid": "greenhouse:airbnb:7708224"
-  },
-  {
-   "closed_at": 1790033004,
-   "company": "YO AI Labs",
-   "hours_open": 78.1,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50315027"
-  },
-  {
-   "closed_at": 1790033004,
-   "company": "Source Code",
-   "hours_open": 161.5,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50289634"
-  },
-  {
-   "closed_at": 1790033004,
-   "company": "andurilindustries",
-   "hours_open": 436.7,
-   "title": "Product Operations Technical Specialist, Small Drones",
-   "uid": "greenhouse:andurilindustries:5227310007"
-  },
-  {
-   "closed_at": 1790033004,
-   "company": "andurilindustries",
-   "hours_open": 436.7,
-   "title": "Project Engineer, C2 Integration",
-   "uid": "greenhouse:andurilindustries:5179712007"
-  },
-  {
-   "closed_at": 1790033004,
-   "company": "voyagertechnologiesinc",
-   "hours_open": 318.2,
-   "title": "Electro-Optical Systems Engineer",
-   "uid": "greenhouse:voyagertechnologiesinc:4355120009"
-  },
-  {
    "closed_at": 1790033004,
    "company": "darkwolfsolutions",
    "hours_open": 438.4,
@@ -5599,8 +5480,127 @@
    "hours_open": 526.5,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1790351918,
+   "company": "intel",
+   "hours_open": 24.7,
+   "title": "Intern Systems Software Development Engineer",
+   "uid": "workday:intel.wd1/external:Intern-Systems-Software-Development-Engineer_JR0286936"
+  },
+  {
+   "closed_at": 1790351918,
+   "company": "Great Lakes Group",
+   "hours_open": 6.1,
+   "title": "hardware engineer",
+   "uid": "jobbank:scada:50336045"
+  },
+  {
+   "closed_at": 1790351918,
+   "company": "intactfc",
+   "hours_open": 48.9,
+   "title": "Developer DevOPS - 4 months Co-op Internship (Winter 2027)",
+   "uid": "workday:intactfc.wd3/intactfc:Developer-DevOPS---4-months-Co-op-Internship_R155352"
+  },
+  {
+   "closed_at": 1790351918,
+   "company": "Cooptel",
+   "hours_open": 406.8,
+   "title": "Administrateur réseau",
+   "uid": "jobillico:analyste reseau:17185045"
+  },
+  {
+   "closed_at": 1790351918,
+   "company": "intactfc",
+   "hours_open": 48.9,
+   "title": "Software Developer I - 4 Month Co-op/Internship (Winter 2027)",
+   "uid": "workday:intactfc.wd3/intactfc:Software-Developer-I---4-Month-Co-op-Internship--Winter-2027-_R155112"
+  },
+  {
+   "closed_at": 1790351918,
+   "company": "N.A.B Technologies Inc",
+   "hours_open": 406.8,
+   "title": "automation engineer",
+   "uid": "jobbank:scada:50203431"
+  },
+  {
+   "closed_at": 1790351918,
+   "company": "intactfc",
+   "hours_open": 48.9,
+   "title": "Software Developer I - 4 months Coop/Internship (Winter 2027)",
+   "uid": "workday:intactfc.wd3/intactfc:Dveloppeur-logiciel-I---4-mois-Coop-Stagiaire--Hiver-2027-_R155561"
+  },
+  {
+   "closed_at": 1790351918,
+   "company": "intactfc",
+   "hours_open": 48.9,
+   "title": "Test Automation Developer – 4 months Internship/Coop (Winter 2027) ",
+   "uid": "workday:intactfc.wd3/intactfc:Test-Automation-Developer---4-months-Internship-Coop--Winter-2027--_R155565"
+  },
+  {
+   "closed_at": 1790351918,
+   "company": "intactfc",
+   "hours_open": 48.9,
+   "title": "DevOps I - 4 months Co-op/Internship (Winter 2027)",
+   "uid": "workday:intactfc.wd3/intactfc:DevOps-I---4-months-Co-op-Internship--Winter-2027-_R155186-1"
+  },
+  {
+   "closed_at": 1790351918,
+   "company": "jainglobal",
+   "hours_open": 548.4,
+   "title": "Junior Developer, Compliance",
+   "uid": "workday:jainglobal.wd5/ExternalSite:Junior-Compliance-Developer_JR100329"
+  },
+  {
+   "closed_at": 1790351918,
+   "company": "micron",
+   "hours_open": 48.4,
+   "title": "Intern - ID1 Equipment Engineer",
+   "uid": "workday:micron.wd1/External:Intern---ID1-Equipment-Engineer_JR113286"
+  },
+  {
+   "closed_at": 1790351918,
+   "company": "twitch",
+   "hours_open": 524.1,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1790351918,
+   "company": "jumio",
+   "hours_open": 444.9,
+   "title": "Pre Sales Solutions Engineer",
+   "uid": "greenhouse:jumio:4713587005"
+  },
+  {
+   "closed_at": 1790351918,
+   "company": "kla",
+   "hours_open": 530.4,
+   "title": "Software Engineering Intern",
+   "uid": "workday:kla.wd1/AnnArbor:Software-Engineering-Intern_2531653"
+  },
+  {
+   "closed_at": 1790351918,
+   "company": "kbr",
+   "hours_open": 548.4,
+   "title": "Junior Software Engineer",
+   "uid": "workday:kbr.wd5/KBR_Careers:Junior-Software-Engineer_R2122294"
+  },
+  {
+   "closed_at": 1790351918,
+   "company": "spacex",
+   "hours_open": 526.7,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1790351918,
+   "company": "spacex",
+   "hours_open": 525.3,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
- "count": 809,
- "updated_at": 1790350198
+ "count": 817,
+ "updated_at": 1790351918
 }
