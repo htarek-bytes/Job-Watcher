@@ -1,41 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1790016169,
-   "company": "andurilindustries",
-   "hours_open": 166.2,
-   "title": "Electrical Test Engineer",
-   "uid": "greenhouse:andurilindustries:5237987007"
-  },
-  {
-   "closed_at": 1790016169,
-   "company": "systemstechnologyresearch",
-   "hours_open": 426.8,
-   "title": "Autonomy Algorithms Software Engineer",
-   "uid": "greenhouse:systemstechnologyresearch:4704682006"
-  },
-  {
-   "closed_at": 1790016169,
-   "company": "Amazon",
-   "hours_open": 264.0,
-   "title": "Software Development Engineer , Leo Commerce, Leo Commerce",
-   "uid": "amazon:amazon:10536497"
-  },
-  {
-   "closed_at": 1790016713,
-   "company": "singlestore",
-   "hours_open": 0.2,
-   "title": "MIT-Software Engineer-New Grad |Helios|",
-   "uid": "greenhouse:singlestore:8220882"
-  },
-  {
-   "closed_at": 1790016713,
-   "company": "singlestore",
-   "hours_open": 0.2,
-   "title": "MIT-Software Engineer-New Grad |Engine|",
-   "uid": "greenhouse:singlestore:8220863"
-  },
-  {
    "closed_at": 1790016713,
    "company": "singlestore",
    "hours_open": 0.2,
@@ -5599,8 +5564,43 @@
    "hours_open": 511.7,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1790301121,
+   "company": "Groupe DCM",
+   "hours_open": 158.8,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534670"
+  },
+  {
+   "closed_at": 1790301121,
+   "company": "ngc",
+   "hours_open": 81.2,
+   "title": "2027 Digital Engineer Intern - Baltimore MD",
+   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Digital-Engineer-Intern---Baltimore-MD_R10251150-1"
+  },
+  {
+   "closed_at": 1790301121,
+   "company": "twitch",
+   "hours_open": 510.0,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1790301121,
+   "company": "ncr",
+   "hours_open": 243.4,
+   "title": "Customer Engineer",
+   "uid": "workday:ncr.wd1/ext_us:Customer-Engineer_R0157376-1"
+  },
+  {
+   "closed_at": 1790301121,
+   "company": "spacex",
+   "hours_open": 511.2,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
  "count": 805,
- "updated_at": 1790297813
+ "updated_at": 1790301121
 }
