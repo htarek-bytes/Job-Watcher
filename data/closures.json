@@ -1,48 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1790029104,
-   "company": "Valsoft Corporation",
-   "hours_open": 61.3,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50320295"
-  },
-  {
-   "closed_at": 1790029104,
-   "company": "spacex",
-   "hours_open": 434.4,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1790029104,
-   "company": "darkwolfsolutions",
-   "hours_open": 437.3,
-   "title": "Front End Developer",
-   "uid": "greenhouse:darkwolfsolutions:7837196003"
-  },
-  {
-   "closed_at": 1790029104,
-   "company": "spacex",
-   "hours_open": 437.3,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1790029104,
-   "company": "voyagertechnologiesinc",
-   "hours_open": 437.3,
-   "title": "Accelerated Physics Simulation Engineer – Agentic Computational Engineering (ACE)",
-   "uid": "greenhouse:voyagertechnologiesinc:4079284009"
-  },
-  {
-   "closed_at": 1790029519,
-   "company": "singlestore",
-   "hours_open": 3.7,
-   "title": "MIT-Software Engineer-New Grad |Helios|",
-   "uid": "greenhouse:singlestore:8220882"
-  },
-  {
    "closed_at": 1790029519,
    "company": "singlestore",
    "hours_open": 3.7,
@@ -5599,8 +5557,50 @@
    "hours_open": 405.7,
    "title": "Systems Administrator-Cleared",
    "uid": "greenhouse:voyagertechnologiesinc:4284391009"
+  },
+  {
+   "closed_at": 1790348521,
+   "company": "singlestore",
+   "hours_open": 24.6,
+   "title": "Software Engineer | Observability ",
+   "uid": "greenhouse:singlestore:8185163"
+  },
+  {
+   "closed_at": 1790348521,
+   "company": "Alt Informatique",
+   "hours_open": 178.1,
+   "title": "Technicien informatique junior",
+   "uid": "jobillico:technicien informatique:17381391"
+  },
+  {
+   "closed_at": 1790348521,
+   "company": "Orillia Sports Medicine",
+   "hours_open": 165.7,
+   "title": "cloud administrator",
+   "uid": "jobbank:cloud administrator:50314590"
+  },
+  {
+   "closed_at": 1790348521,
+   "company": "Cooptel",
+   "hours_open": 405.9,
+   "title": "Administrateur réseau",
+   "uid": "jobillico:analyste reseau:17185045"
+  },
+  {
+   "closed_at": 1790348521,
+   "company": "cox",
+   "hours_open": 86.1,
+   "title": "Entry Level Software Engineer - Atlanta, GA",
+   "uid": "workday:cox.wd1/Cox_External_Career_Site_1:Entry-Level-Software-Engineer---Atlanta--GA_R202682766"
+  },
+  {
+   "closed_at": 1790348521,
+   "company": "caci",
+   "hours_open": 380.3,
+   "title": "Software Engineering Intern – Summer 2027",
+   "uid": "workday:caci.wd1/external:Software-Engineering-Intern---Summer-2027_331742"
   }
  ],
- "count": 809,
- "updated_at": 1790347722
+ "count": 806,
+ "updated_at": 1790348521
 }
