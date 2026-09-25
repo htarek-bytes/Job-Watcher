@@ -1,83 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1790041773,
-   "company": "spacex",
-   "hours_open": 440.9,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1790041773,
-   "company": "spacex",
-   "hours_open": 440.9,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1790041773,
-   "company": "spacex",
-   "hours_open": 439.2,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1790052462,
-   "company": "Great Lakes Group",
-   "hours_open": 3.1,
-   "title": "hardware engineer",
-   "uid": "jobbank:scada:50336012"
-  },
-  {
-   "closed_at": 1790052462,
-   "company": "td",
-   "hours_open": 160.7,
-   "title": "Associate Software Engineer",
-   "uid": "workday:td.wd3/TD_Bank_Careers:Associate-Software-Engineer_R_1509910-1"
-  },
-  {
-   "closed_at": 1790052462,
-   "company": "selinc",
-   "hours_open": 126.5,
-   "title": "Associate Software Engineer- Full Stack TypeScript/React/C#",
-   "uid": "workday:selinc.wd1/SEL:Associate-Software-Engineer--Full-Stack-TypeScript-React-C-_2026-23005-1"
-  },
-  {
-   "closed_at": 1790052462,
-   "company": "linear",
-   "hours_open": 361.8,
-   "title": "Solutions Engineer, Growth",
-   "uid": "ashby:linear:a8041e0e-350e-47d0-9190-454089216fb8"
-  },
-  {
-   "closed_at": 1790052462,
-   "company": "Source Code",
-   "hours_open": 5.2,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:control systems analyst:50335113"
-  },
-  {
-   "closed_at": 1790052462,
-   "company": "Forage FTE",
-   "hours_open": 323.6,
-   "title": "Technicien informatique",
-   "uid": "jobillico:technicien informatique:4390857"
-  },
-  {
-   "closed_at": 1790052462,
-   "company": "spacex",
-   "hours_open": 443.8,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1790056558,
-   "company": "singlestore",
-   "hours_open": 11.1,
-   "title": "MIT- Software Engineer Intern |Helios|",
-   "uid": "greenhouse:singlestore:8220948"
-  },
-  {
    "closed_at": 1790056558,
    "company": "xai",
    "hours_open": 433.0,
@@ -5599,8 +5522,85 @@
    "hours_open": 193.7,
    "title": "Software Development Engineer , Amazon Leo Commerce",
    "uid": "amazon:amazon:10552346"
+  },
+  {
+   "closed_at": 1790373608,
+   "company": "VILLE DE SAINTE-MARGUERITE-DU-LAC- MASSON",
+   "hours_open": 7.2,
+   "title": "network infrastructure engineer",
+   "uid": "jobbank:specialiste infrastructure:50365083"
+  },
+  {
+   "closed_at": 1790373608,
+   "company": "Isolocity",
+   "hours_open": 27.2,
+   "title": "cloud infrastructure engineer",
+   "uid": "jobbank:specialiste infrastructure:50358308"
+  },
+  {
+   "closed_at": 1790373608,
+   "company": "Amazon",
+   "hours_open": 9.3,
+   "title": "Quality Assurance Engineer I, Amazon Connect Decission",
+   "uid": "amazon:amazon:10560276"
+  },
+  {
+   "closed_at": 1790373608,
+   "company": "palantir",
+   "hours_open": 533.0,
+   "title": "Embedded Legal Engineer",
+   "uid": "lever:palantir:2d2f0ed7-134a-4f24-af89-cfb8583d796a"
+  },
+  {
+   "closed_at": 1790373608,
+   "company": "Source Code",
+   "hours_open": 63.1,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50347574"
+  },
+  {
+   "closed_at": 1790373608,
+   "company": "purvis",
+   "hours_open": 383.5,
+   "title": "Software Developer (202609 ASP)",
+   "uid": "lever:purvis:bd0748db-5f15-4ec8-927e-f192f9fea855"
+  },
+  {
+   "closed_at": 1790373608,
+   "company": "accenturefederalservices",
+   "hours_open": 4.4,
+   "title": "Cloud Infrastructure Engineer",
+   "uid": "greenhouse:accenturefederalservices:4716696006"
+  },
+  {
+   "closed_at": 1790373608,
+   "company": "accenturefederalservices",
+   "hours_open": 412.9,
+   "title": "Cloud Systems Administrator ",
+   "uid": "greenhouse:accenturefederalservices:4688931006"
+  },
+  {
+   "closed_at": 1790373608,
+   "company": "spacex",
+   "hours_open": 533.0,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1790373608,
+   "company": "accenturefederalservices",
+   "hours_open": 74.9,
+   "title": "Cloud DevOps Engineer",
+   "uid": "greenhouse:accenturefederalservices:4715587006"
+  },
+  {
+   "closed_at": 1790373608,
+   "company": "Amazon",
+   "hours_open": 219.7,
+   "title": "Software Development Engineer , Inventory Accounting",
+   "uid": "amazon:amazon:10546898"
   }
  ],
- "count": 805,
- "updated_at": 1790369185
+ "count": 811,
+ "updated_at": 1790373608
 }
