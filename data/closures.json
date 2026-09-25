@@ -1,62 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1790056558,
-   "company": "trueanomalyinc",
-   "hours_open": 5.9,
-   "title": "Harness Engineer (P2) or P3), Mechanical/Electrical",
-   "uid": "greenhouse:trueanomalyinc:5111885007"
-  },
-  {
-   "closed_at": 1790056558,
-   "company": "voyagertechnologiesinc",
-   "hours_open": 445.0,
-   "title": "Accelerated Physics Simulation Engineer – Agentic Computational Engineering (ACE)",
-   "uid": "greenhouse:voyagertechnologiesinc:4079284009"
-  },
-  {
-   "closed_at": 1790057399,
-   "company": "maticrobots",
-   "hours_open": 442.1,
-   "title": "Mechanical Design Engineer",
-   "uid": "ashby:maticrobots:bfb0df27-bb17-46a1-919c-afd8c3d09a7d"
-  },
-  {
-   "closed_at": 1790059788,
-   "company": "singlestore",
-   "hours_open": 12.1,
-   "title": "MIT- Software Engineer Intern | Helios",
-   "uid": "greenhouse:singlestore:8220941"
-  },
-  {
-   "closed_at": 1790059788,
-   "company": "Source Code",
-   "hours_open": 169.0,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:systems analyst:50288780"
-  },
-  {
-   "closed_at": 1790059788,
-   "company": "twitch",
-   "hours_open": 445.9,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1790059788,
-   "company": "saronic",
-   "hours_open": 442.8,
-   "title": "Mission Operations Engineer",
-   "uid": "ashby:saronic:2e889023-7a6d-42d8-bc6a-27a60c7d22b1"
-  },
-  {
-   "closed_at": 1790059788,
-   "company": "Twyce",
-   "hours_open": 246.7,
-   "title": "network system administrator",
-   "uid": "jobbank:systems administrator:50096893"
-  },
-  {
    "closed_at": 1790059940,
    "company": "Valsoft Corporation",
    "hours_open": 69.8,
@@ -5599,8 +5543,64 @@
    "hours_open": 17.0,
    "title": "software developer",
    "uid": "jobbank:entry level software developer:50353185"
+  },
+  {
+   "closed_at": 1790376272,
+   "company": "ServiceNow",
+   "hours_open": 60.6,
+   "title": "Advisory Solution Consultant",
+   "uid": "smartrecruiters:ServiceNow:744000151306689"
+  },
+  {
+   "closed_at": 1790376272,
+   "company": "ServiceNow",
+   "hours_open": 72.4,
+   "title": "Advisory Solution Consultant, Integrated Risk Management",
+   "uid": "smartrecruiters:ServiceNow:744000151139039"
+  },
+  {
+   "closed_at": 1790376272,
+   "company": "Jobs for Humanity",
+   "hours_open": 528.2,
+   "title": "Junior Software Engineer",
+   "uid": "smartrecruiters:JobsForHumanity:744000147220729"
+  },
+  {
+   "closed_at": 1790376272,
+   "company": "twitch",
+   "hours_open": 533.8,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1790376272,
+   "company": "trace3",
+   "hours_open": 405.2,
+   "title": "Software Engineer BM/SRM (26-216)",
+   "uid": "greenhouse:trace3:8003848"
+  },
+  {
+   "closed_at": 1790376272,
+   "company": "trace3",
+   "hours_open": 365.3,
+   "title": "Cyber Assessment and Authorization Engineer (26-367)",
+   "uid": "greenhouse:trace3:8191626"
+  },
+  {
+   "closed_at": 1790376272,
+   "company": "astranis",
+   "hours_open": 552.8,
+   "title": "Radiation Effects Associate Engineer (Fall 2026)",
+   "uid": "greenhouse:astranis:4694883006"
+  },
+  {
+   "closed_at": 1790376272,
+   "company": "astranis",
+   "hours_open": 541.7,
+   "title": "Radiation Effects Engineer Intern (Fall 2026)",
+   "uid": "greenhouse:astranis:4694853006"
   }
  ],
- "count": 809,
- "updated_at": 1790375314
+ "count": 808,
+ "updated_at": 1790376274
 }
