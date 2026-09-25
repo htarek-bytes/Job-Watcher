@@ -2,69 +2,6 @@
  "closed": [
   {
    "closed_at": 1790029104,
-   "company": "singlestore",
-   "hours_open": 3.4,
-   "title": "MIT- Software Engineer Intern |Helios|",
-   "uid": "greenhouse:singlestore:8220948"
-  },
-  {
-   "closed_at": 1790029104,
-   "company": "Sonepar",
-   "hours_open": 6.4,
-   "title": "Systems Developer 1",
-   "uid": "simplify:listings:e88bb384-45aa-403a-b601-0bf579e8baf1"
-  },
-  {
-   "closed_at": 1790029104,
-   "company": "xai",
-   "hours_open": 425.4,
-   "title": "Mechanical Commissioning Engineer - Memphis",
-   "uid": "greenhouse:xai:5226371007"
-  },
-  {
-   "closed_at": 1790029104,
-   "company": "shieldai",
-   "hours_open": 72.3,
-   "title": "Aerodynamics & Performance Engineer (R5732)",
-   "uid": "lever:shieldai:938a7ddf-521f-4581-b5ba-c3ba29f9308a"
-  },
-  {
-   "closed_at": 1790029104,
-   "company": "Commure",
-   "hours_open": 238.2,
-   "title": "Software Engineer - Early Career",
-   "uid": "simplify:listings:5e9a3fb3-b8d1-440b-b8cb-3725a201cdf0"
-  },
-  {
-   "closed_at": 1790029104,
-   "company": "OneImaging",
-   "hours_open": 238.9,
-   "title": "Associate Software Engineer - UF Only",
-   "uid": "simplify:listings:d35dd23b-846b-4263-be1b-ff94fdfab2e5"
-  },
-  {
-   "closed_at": 1790029104,
-   "company": "Amazon",
-   "hours_open": 267.9,
-   "title": "Software Development Engineer, AWS",
-   "uid": "amazon:amazon:10536479"
-  },
-  {
-   "closed_at": 1790029104,
-   "company": "twitch",
-   "hours_open": 434.4,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1790029104,
-   "company": "tulip",
-   "hours_open": 437.3,
-   "title": "Software Engineer, Edge",
-   "uid": "greenhouse:tulip:7748615003"
-  },
-  {
-   "closed_at": 1790029104,
    "company": "Valsoft Corporation",
    "hours_open": 61.3,
    "title": "software developer",
@@ -5599,8 +5536,71 @@
    "hours_open": 522.1,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1790347721,
+   "company": "bmo",
+   "hours_open": 14.7,
+   "title": "AI Engineer, Winter 2027 (Co-op/Internship) - 8 months",
+   "uid": "workday:bmo.wd3/External:AI-Engineer--Winter-2027--Co-op-Internship----8-months_R260027622-1"
+  },
+  {
+   "closed_at": 1790347721,
+   "company": "ag",
+   "hours_open": 72.6,
+   "title": "Internship in Avionics Systems - Database Architecture",
+   "uid": "workday:ag.wd3/Airbus:Internship-in-Avionics-Systems---Database-Architecture_JR10434356"
+  },
+  {
+   "closed_at": 1790347721,
+   "company": "Groupe DCM",
+   "hours_open": 171.7,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534670"
+  },
+  {
+   "closed_at": 1790347721,
+   "company": "barr",
+   "hours_open": 97.6,
+   "title": "Internship – Water Resources Engineer (Hybrid)",
+   "uid": "workday:barr.wd1/barrcareers:Internship---Water-Resources-Engineer--Hybrid-_R-102303"
+  },
+  {
+   "closed_at": 1790347721,
+   "company": "altentechnologyusa",
+   "hours_open": 524.2,
+   "title": "Design and Release Engineer",
+   "uid": "greenhouse:altentechnologyusa:5165806007"
+  },
+  {
+   "closed_at": 1790347721,
+   "company": "boeing",
+   "hours_open": 14.7,
+   "title": "Associate Software Engineer",
+   "uid": "workday:boeing.wd1/EXTERNAL_CAREERS:Associate-Software-Engineer_JR2026520254-1"
+  },
+  {
+   "closed_at": 1790347721,
+   "company": "spacex",
+   "hours_open": 522.9,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1790347721,
+   "company": "spacex",
+   "hours_open": 525.6,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1790347721,
+   "company": "voyagertechnologiesinc",
+   "hours_open": 405.7,
+   "title": "Systems Administrator-Cleared",
+   "uid": "greenhouse:voyagertechnologiesinc:4284391009"
   }
  ],
- "count": 807,
- "updated_at": 1790340300
+ "count": 809,
+ "updated_at": 1790347722
 }
