@@ -2,62 +2,6 @@
  "closed": [
   {
    "closed_at": 1790021842,
-   "company": "oneimaging",
-   "hours_open": 234.9,
-   "title": "Full Stack Associate Software Engineer (UF Only)",
-   "uid": "greenhouse:oneimaging:4403125009"
-  },
-  {
-   "closed_at": 1790021842,
-   "company": "oneimaging",
-   "hours_open": 234.9,
-   "title": "Full Stack Associate Software Engineer (Georgia Tech Only)",
-   "uid": "greenhouse:oneimaging:4403115009"
-  },
-  {
-   "closed_at": 1790021842,
-   "company": "openloophealth",
-   "hours_open": 315.1,
-   "title": "Financial Systems Administrator",
-   "uid": "ashby:openloophealth:89b9ca2d-0fec-4402-bd8d-517bf2954210"
-  },
-  {
-   "closed_at": 1790021842,
-   "company": "xai",
-   "hours_open": 423.4,
-   "title": "Mechanical Commissioning Engineer - Memphis",
-   "uid": "greenhouse:xai:5226371007"
-  },
-  {
-   "closed_at": 1790021842,
-   "company": "Amazon",
-   "hours_open": 118.0,
-   "title": "Software Development Engineer, Tax and Account Compliance Tech",
-   "uid": "amazon:amazon:10550363"
-  },
-  {
-   "closed_at": 1790021842,
-   "company": "twitch",
-   "hours_open": 432.4,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1790021842,
-   "company": "samsara",
-   "hours_open": 435.3,
-   "title": "AV Events Engineer",
-   "uid": "greenhouse:samsara:8129501"
-  },
-  {
-   "closed_at": 1790021842,
-   "company": "tulip",
-   "hours_open": 435.3,
-   "title": "Software Engineer, Edge",
-   "uid": "greenhouse:tulip:7748615003"
-  },
-  {
-   "closed_at": 1790021842,
    "company": "andurilindustries",
    "hours_open": 433.6,
    "title": "Systems Engineer, Air Defense",
@@ -5599,8 +5543,64 @@
    "hours_open": 396.9,
    "title": "automation engineer",
    "uid": "jobbank:scada:50203431"
+  },
+  {
+   "closed_at": 1790319681,
+   "company": "Alt Informatique",
+   "hours_open": 170.1,
+   "title": "Technicien informatique junior",
+   "uid": "jobillico:technicien informatique:17381391"
+  },
+  {
+   "closed_at": 1790319681,
+   "company": "Cybernetic Consulting",
+   "hours_open": 347.0,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50261298"
+  },
+  {
+   "closed_at": 1790319681,
+   "company": "Idexia",
+   "hours_open": 353.1,
+   "title": "programmer analyst",
+   "uid": "jobbank:junior programmer:50257800"
+  },
+  {
+   "closed_at": 1790319681,
+   "company": "F J Construction specialties ltd",
+   "hours_open": 349.6,
+   "title": "information systems analyst - computer systems",
+   "uid": "jobbank:systems analyst:50260015"
+  },
+  {
+   "closed_at": 1790319681,
+   "company": "twitch",
+   "hours_open": 515.1,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1790319681,
+   "company": "Source Code",
+   "hours_open": 1.5,
+   "title": "software developer",
+   "uid": "jobbank:entry level software developer:50353185"
+  },
+  {
+   "closed_at": 1790319681,
+   "company": "spacex",
+   "hours_open": 518.1,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1790319681,
+   "company": "spacex",
+   "hours_open": 516.4,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
- "count": 801,
- "updated_at": 1790316216
+ "count": 808,
+ "updated_at": 1790319681
 }
