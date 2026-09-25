@@ -2,69 +2,6 @@
  "closed": [
   {
    "closed_at": 1790056558,
-   "company": "xai",
-   "hours_open": 433.0,
-   "title": "Mechanical Commissioning Engineer - Memphis",
-   "uid": "greenhouse:xai:5226371007"
-  },
-  {
-   "closed_at": 1790056558,
-   "company": "Amazon",
-   "hours_open": 177.4,
-   "title": "Software Development Engineer, Agentic Workspaces - Watchtower",
-   "uid": "amazon:amazon:10539269"
-  },
-  {
-   "closed_at": 1790056558,
-   "company": "twitch",
-   "hours_open": 442.0,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1790056558,
-   "company": "tulip",
-   "hours_open": 445.0,
-   "title": "Software Engineer, Edge",
-   "uid": "greenhouse:tulip:7748615003"
-  },
-  {
-   "closed_at": 1790056558,
-   "company": "Source Code",
-   "hours_open": 6.5,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50334960"
-  },
-  {
-   "closed_at": 1790056558,
-   "company": "spacex",
-   "hours_open": 442.0,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1790056558,
-   "company": "darkwolfsolutions",
-   "hours_open": 445.0,
-   "title": "Front End Developer",
-   "uid": "greenhouse:darkwolfsolutions:7837196003"
-  },
-  {
-   "closed_at": 1790056558,
-   "company": "spacex",
-   "hours_open": 444.7,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1790056558,
-   "company": "spacex",
-   "hours_open": 443.3,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1790056558,
    "company": "trueanomalyinc",
    "hours_open": 5.9,
    "title": "Harness Engineer (P2) or P3), Mechanical/Electrical",
@@ -5599,8 +5536,71 @@
    "hours_open": 219.7,
    "title": "Software Development Engineer , Inventory Accounting",
    "uid": "amazon:amazon:10546898"
+  },
+  {
+   "closed_at": 1790375314,
+   "company": "zoox",
+   "hours_open": 530.6,
+   "title": "Software Engineer, Operational Tools",
+   "uid": "lever:zoox:998ca0ca-4e3a-409f-bc84-f364d5451e01"
+  },
+  {
+   "closed_at": 1790375314,
+   "company": "Bosch Group",
+   "hours_open": 24.6,
+   "title": "Extracurricular Internship in Computer Science / Information Systems (f/m/div.)",
+   "uid": "smartrecruiters:BoschGroup:744000151644699"
+  },
+  {
+   "closed_at": 1790375314,
+   "company": "EXFO inc",
+   "hours_open": 545.9,
+   "title": "Stagiaire ingénieur logiciel / Software Engineer Intern",
+   "uid": "jobillico:software developer:17462697"
+  },
+  {
+   "closed_at": 1790375314,
+   "company": "Groupe DCM",
+   "hours_open": 185.5,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534679"
+  },
+  {
+   "closed_at": 1790375314,
+   "company": "Cooptel",
+   "hours_open": 413.3,
+   "title": "Administrateur réseau",
+   "uid": "jobillico:analyste reseau:17185045"
+  },
+  {
+   "closed_at": 1790375314,
+   "company": "Alithya Canada Inc.",
+   "hours_open": 357.4,
+   "title": "full stack Web developer",
+   "uid": "jobbank:developpeur junior:50257748"
+  },
+  {
+   "closed_at": 1790375314,
+   "company": "Arista Networks",
+   "hours_open": 256.9,
+   "title": "Network Systems Engineer (Pre Sales) - Trading Platforms",
+   "uid": "smartrecruiters:AristaNetworks:744000149421437"
+  },
+  {
+   "closed_at": 1790375314,
+   "company": "hearth-careers",
+   "hours_open": 552.5,
+   "title": "Junior GTM Engineer",
+   "uid": "rippling:hearth-careers:1c9a88a3-3dde-4081-a4d4-293af5af6ea1"
+  },
+  {
+   "closed_at": 1790375314,
+   "company": "Source Code",
+   "hours_open": 17.0,
+   "title": "software developer",
+   "uid": "jobbank:entry level software developer:50353185"
   }
  ],
- "count": 811,
- "updated_at": 1790373608
+ "count": 809,
+ "updated_at": 1790375314
 }
