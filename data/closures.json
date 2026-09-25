@@ -2,20 +2,6 @@
  "closed": [
   {
    "closed_at": 1790041773,
-   "company": "ngc",
-   "hours_open": 9.2,
-   "title": "2027 Systems Engineer Intern - Baltimore MD",
-   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Systems-Engineer-Intern---Baltimore-MD_R10251094"
-  },
-  {
-   "closed_at": 1790041773,
-   "company": "ngc",
-   "hours_open": 80.0,
-   "title": "2027 Intern Software Engineer",
-   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Intern-Software-Engineer_R10239275"
-  },
-  {
-   "closed_at": 1790041773,
    "company": "nvidia",
    "hours_open": 99.7,
    "title": "AI Compiler Engineer- New College Grad 2027",
@@ -5599,8 +5585,22 @@
    "hours_open": 555.6,
    "title": "RF & Antenna Systems Engineer (Early Career)",
    "uid": "ashby:northwoodspace:11992bc2-5ec9-4143-9b64-e70be5b13726"
+  },
+  {
+   "closed_at": 1790366439,
+   "company": "Groupe DCM",
+   "hours_open": 183.1,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534679"
+  },
+  {
+   "closed_at": 1790366439,
+   "company": "probook",
+   "hours_open": 528.0,
+   "title": "Founding Design Engineer",
+   "uid": "ashby:probook:a03afa74-a8ad-4f2c-ae3b-87cef88b4c34"
   }
  ],
- "count": 806,
- "updated_at": 1790364562
+ "count": 802,
+ "updated_at": 1790366439
 }
