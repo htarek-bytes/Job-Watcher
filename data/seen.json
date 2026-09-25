@@ -1,5 +1,5 @@
 {
- "count": 6075,
+ "count": 6080,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -1063,6 +1063,7 @@
   "greenhouse:accenturefederalservices:4715548006": 1790347721,
   "greenhouse:accenturefederalservices:4715587006": 1790104008,
   "greenhouse:accenturefederalservices:4715640006": 1790111963,
+  "greenhouse:accenturefederalservices:4715780006": 1790362723,
   "greenhouse:accenturefederalservices:4715781006": 1790125084,
   "greenhouse:accenturefederalservices:4716696006": 1790357765,
   "greenhouse:advancedtechnologyservices:4700009006": 1788460756,
@@ -1329,6 +1330,7 @@
   "greenhouse:andurilindustries:5235253007": 1789086102,
   "greenhouse:andurilindustries:5235711007": 1789168928,
   "greenhouse:andurilindustries:5236276007": 1789171739,
+  "greenhouse:andurilindustries:5236296007": 1790362723,
   "greenhouse:andurilindustries:5236563007": 1789498868,
   "greenhouse:andurilindustries:5236573007": 1789498868,
   "greenhouse:andurilindustries:5236577007": 1789498868,
@@ -3234,6 +3236,7 @@
   "jobbank:entry level software developer:50208511": 1788390279,
   "jobbank:entry level software developer:50208653": 1788390279,
   "jobbank:entry level software developer:50213421": 1788425964,
+  "jobbank:entry level software developer:50231594": 1790362723,
   "jobbank:entry level software developer:50244359": 1788898936,
   "jobbank:entry level software developer:50248430": 1789751981,
   "jobbank:entry level software developer:50252698": 1788987242,
@@ -5949,6 +5952,7 @@
   "workday:selinc.wd1/SEL:Associate-Software-Engineer_2026-22492-1": 1789425451,
   "workday:selinc.wd1/SEL:Power-Engineer-Intern_2026-21156": 1788539216,
   "workday:selinc.wd1/SEL:Power-Systems-Sales-Engineer---Caribbean---Central-America_2026-19581": 1789683100,
+  "workday:selinc.wd1/SEL:Software-Engineer-Intern_2026-23076": 1790362723,
   "workday:selinc.wd1/SEL:Software-Engineering-Intern---Power-Systems_2026-22933": 1788539216,
   "workday:silabs.wd1/SiliconlabsCareers:DevOps-Platform-Engineer_21029-1": 1788880168,
   "workday:silabs.wd1/SiliconlabsCareers:Dveloppeur-logiciel-I---Software-Engineer-I_20984-1": 1788377835,
@@ -6040,6 +6044,7 @@
   "workday:usaa.wd1/USAAJOBSWD:Infrastructure-Engineer-Intern_R0121153": 1790128196,
   "workday:usaa.wd1/USAAJOBSWD:Visualization-Engineer-Intern_R0121201": 1790128196,
   "workday:usbank.wd1/US_Bank_Careers:XMLNAME-NET-Software-Engineer-1_2026-0026601-1": 1789336246,
+  "workday:usc.wd5/ExternalUSCCareers:Credit-Union-Network-Engineer-I_REQ20181374": 1790362723,
   "workday:usc.wd5/ExternalUSCCareers:Programmer-Analyst-I_REQ20180180": 1789074882,
   "workday:vanguard.wd5/vanguard_external:College-to-Corporate-IT-Internship---Risk---Security---Engineer_181851": 1788410216,
   "workday:vermeer.wd5/externalcareersite:Design-Engineer-Intern---Summer-2027_REQ-22139": 1788410216,
@@ -6077,5 +6082,5 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148,
   "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541": 1789106107
  },
- "updated_at": 1790357766
+ "updated_at": 1790362723
 }
