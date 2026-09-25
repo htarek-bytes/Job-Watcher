@@ -2,55 +2,6 @@
  "closed": [
   {
    "closed_at": 1790016713,
-   "company": "singlestore",
-   "hours_open": 0.2,
-   "title": "MIT- Software Engineer Intern | Engine",
-   "uid": "greenhouse:singlestore:8220919"
-  },
-  {
-   "closed_at": 1790016713,
-   "company": "singlestore",
-   "hours_open": 0.2,
-   "title": "MIT- Software Engineer Intern | Helios",
-   "uid": "greenhouse:singlestore:8220941"
-  },
-  {
-   "closed_at": 1790016713,
-   "company": "pathrobotics",
-   "hours_open": 2.2,
-   "title": "Software Engineer – ML Infrastructure",
-   "uid": "greenhouse:pathrobotics:8827576002"
-  },
-  {
-   "closed_at": 1790016713,
-   "company": "commure",
-   "hours_open": 234.2,
-   "title": "Software Engineer, Early Career 2027",
-   "uid": "ashby:commure:c6a735ef-3d84-4447-94a9-9e8b2dfefced"
-  },
-  {
-   "closed_at": 1790016713,
-   "company": "commure",
-   "hours_open": 234.2,
-   "title": "Software Engineering Intern, Summer 2027",
-   "uid": "ashby:commure:62841aa1-3ee5-4547-8380-637b737b2cb3"
-  },
-  {
-   "closed_at": 1790016713,
-   "company": "twitch",
-   "hours_open": 433.9,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1790016713,
-   "company": "Source Code",
-   "hours_open": 12.3,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:control systems analyst:50318451"
-  },
-  {
-   "closed_at": 1790016713,
    "company": "andurilindustries",
    "hours_open": 0.2,
    "title": "Production Hardware Test Engineer",
@@ -5599,8 +5550,57 @@
    "hours_open": 511.2,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1790311773,
+   "company": "Sabre Systems",
+   "hours_open": 6.1,
+   "title": "Metrology Junior Electronics Engineer",
+   "uid": "simplify:listings:ed272437-aba4-4a92-8804-b4d3c53922b4"
+  },
+  {
+   "closed_at": 1790311773,
+   "company": "Groupe DCM",
+   "hours_open": 167.9,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534679"
+  },
+  {
+   "closed_at": 1790311773,
+   "company": "CIeNET International",
+   "hours_open": 186.4,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50305461"
+  },
+  {
+   "closed_at": 1790311773,
+   "company": "thehartford",
+   "hours_open": 376.9,
+   "title": "Tech & Data Program Summer 2027 – Data Engineer Intern (Charlotte)",
+   "uid": "workday:thehartford.wd5/Careers_External:Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Charlotte-_R2626648"
+  },
+  {
+   "closed_at": 1790311773,
+   "company": "thehartford",
+   "hours_open": 376.9,
+   "title": "Tech & Data Program Summer 2027 - Software Engineer Intern (Charlotte)",
+   "uid": "workday:thehartford.wd5/Careers_External:Tech---Data-Program-Summer-2027---Software-Engineer-Intern--Charlotte-_R2626649"
+  },
+  {
+   "closed_at": 1790311773,
+   "company": "SpaceX",
+   "hours_open": 552.5,
+   "title": "New Graduate Engineer - Silicon Engineering",
+   "uid": "simplify:listings:1e5443b7-9106-40cd-ace8-a45d3bfe8afe"
+  },
+  {
+   "closed_at": 1790311773,
+   "company": "spacex",
+   "hours_open": 515.9,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
   }
  ],
- "count": 805,
- "updated_at": 1790301121
+ "count": 807,
+ "updated_at": 1790311774
 }

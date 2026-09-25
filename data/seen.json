@@ -1,5 +1,5 @@
 {
- "count": 6021,
+ "count": 6025,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -2852,6 +2852,7 @@
   "greenhouse:spacex:8842822002": 1790270603,
   "greenhouse:spacex:8843640002": 1790297185,
   "greenhouse:spacex:8843919002": 1790301121,
+  "greenhouse:spacex:8843951002": 1790311773,
   "greenhouse:stripe:6042172": 1788454653,
   "greenhouse:stripe:6176758": 1788454653,
   "greenhouse:stripe:6567104": 1788454653,
@@ -5872,15 +5873,18 @@
   "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Boca-Raton---June-_R116023": 1788377835,
   "workday:repligen.wd108/Repligen_Careers:Software-Developer-I_R-583": 1788377835,
   "workday:repsol.wd3/Repsol:Reservoir-Engineer-Intern_83636-1": 1788474010,
+  "workday:resmed.wd3/ResMed_External_Careers:Associate-Software-Engineer_JR_052316-1": 1790311773,
   "workday:resmed.wd3/ResMed_External_Careers:Associate-Software-Engineer_JR_053125": 1788377835,
   "workday:rockwellautomation.wd1/External_Rockwell_Automation:Intern--Technical-Sales---Consulting--Canada-_R26-5965-2": 1790041773,
   "workday:rockwellautomation.wd1/External_Rockwell_Automation:Intern--Technical-Sales---Consulting--USA-_R26-5962-2": 1790041773,
+  "workday:rockwellautomation.wd1/External_Rockwell_Automation:Spring-2027-Co-op--Embedded-Software-Engineer--January-2027---August-2027-_R26-3473-1": 1790311773,
   "workday:saabusa.wd1/saab_careers:Software-Engineer-Co-Op--Summer-2027-_R-03264-1": 1789425451,
   "workday:saabusa.wd1/saab_careers:Software-Engineering-Co-Op--Spring---Summer-2027-_R-03240-1": 1788550448,
   "workday:saabusa.wd1/saab_careers:Software-Engineering-Co-Op--Summer-2027-_R-03237-1": 1788474010,
   "workday:salesforce.wd12/External_Career_Site:Account-Solution-Engineer--Higher-Education_JR359265": 1789425451,
   "workday:salesforce.wd12/External_Career_Site:Account-Solution-Engineer_JR360701": 1790010082,
   "workday:salesforce.wd12/External_Career_Site:Business-Development-Associate_JR347430-1": 1789517822,
+  "workday:salesforce.wd12/External_Career_Site:Software-Engineering-AMTS--College-Grad-_JR355250-1": 1790311773,
   "workday:salesforce.wd12/External_Career_Site:Solution-Engineer--Pre-Sales----Informatica_JR331878": 1788984410,
   "workday:salesforce.wd12/External_Career_Site:Solution-Engineer--Public-Sector--Canada_JR360224": 1790100520,
   "workday:salesforce.wd12/External_Career_Site:Specialist-Solution-Engineer_JR358388-1": 1789362913,
@@ -6023,5 +6027,5 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148,
   "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541": 1789106107
  },
- "updated_at": 1790301121
+ "updated_at": 1790311774
 }
