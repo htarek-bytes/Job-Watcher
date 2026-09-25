@@ -1,48 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1790041362,
-   "company": "jj",
-   "hours_open": 73.1,
-   "title": "Spring R&D Engineer Co-op, INTO",
-   "uid": "workday:jj.wd5/JJ:Spring-R-D-Engineer-Co-op--INTO_R-099005"
-  },
-  {
-   "closed_at": 1790041362,
-   "company": "altentechnologyusa",
-   "hours_open": 439.1,
-   "title": "Validation Engineer, Low Voltage Components",
-   "uid": "greenhouse:altentechnologyusa:5145842007"
-  },
-  {
-   "closed_at": 1790041362,
-   "company": "spacex",
-   "hours_open": 168.1,
-   "title": "Network Engineer, AI Infrastructure (Starshield)",
-   "uid": "greenhouse:spacex:8808182002"
-  },
-  {
-   "closed_at": 1790041362,
-   "company": "spacex",
-   "hours_open": 168.1,
-   "title": "Site Reliability Engineer, AI Infrastructure (Starshield)",
-   "uid": "greenhouse:spacex:8807795002"
-  },
-  {
-   "closed_at": 1790041362,
-   "company": "spacex",
-   "hours_open": 437.8,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1790041773,
-   "company": "singlestore",
-   "hours_open": 7.1,
-   "title": "MIT- Software Engineer Intern | Helios",
-   "uid": "greenhouse:singlestore:8220941"
-  },
-  {
    "closed_at": 1790041773,
    "company": "ngc",
    "hours_open": 9.2,
@@ -5599,8 +5557,50 @@
    "hours_open": 530.3,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1790364562,
+   "company": "handshake",
+   "hours_open": 382.3,
+   "title": "Software Engineer I, Quality",
+   "uid": "ashby:handshake:2f936add-3a94-48d9-9759-90c1e2c64d3e"
+  },
+  {
+   "closed_at": 1790364562,
+   "company": "Metro Vancouver",
+   "hours_open": 45.2,
+   "title": "software developer",
+   "uid": "jobbank:scada:50301806"
+  },
+  {
+   "closed_at": 1790364562,
+   "company": "Groupe DCM",
+   "hours_open": 176.4,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534670"
+  },
+  {
+   "closed_at": 1790364562,
+   "company": "McCain Foods",
+   "hours_open": 364.0,
+   "title": "software developer",
+   "uid": "jobbank:scada:50258975"
+  },
+  {
+   "closed_at": 1790364562,
+   "company": "Agari Kitchen",
+   "hours_open": 364.4,
+   "title": "electronics engineer",
+   "uid": "jobbank:control systems analyst:50258093"
+  },
+  {
+   "closed_at": 1790364562,
+   "company": "northwoodspace",
+   "hours_open": 555.6,
+   "title": "RF & Antenna Systems Engineer (Early Career)",
+   "uid": "ashby:northwoodspace:11992bc2-5ec9-4143-9b64-e70be5b13726"
   }
  ],
- "count": 816,
- "updated_at": 1790363670
+ "count": 806,
+ "updated_at": 1790364562
 }
