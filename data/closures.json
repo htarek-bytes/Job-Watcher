@@ -2,41 +2,6 @@
  "closed": [
   {
    "closed_at": 1790016169,
-   "company": "Amazon",
-   "hours_open": 252.8,
-   "title": "Software Development Engineer, Sponsored Products and Brands",
-   "uid": "amazon:amazon:10537085"
-  },
-  {
-   "closed_at": 1790016169,
-   "company": "Source Code",
-   "hours_open": 156.8,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:systems analyst:50288780"
-  },
-  {
-   "closed_at": 1790016169,
-   "company": "Solutions GA",
-   "hours_open": 313.6,
-   "title": "network administrator",
-   "uid": "jobbank:network administrator:49761351"
-  },
-  {
-   "closed_at": 1790016169,
-   "company": "rocketlab",
-   "hours_open": 142.8,
-   "title": "Systems Engineer I",
-   "uid": "greenhouse:rocketlab:7996430003"
-  },
-  {
-   "closed_at": 1790016169,
-   "company": "andurilindustries",
-   "hours_open": 432.1,
-   "title": "Hardware Test Engineer",
-   "uid": "greenhouse:andurilindustries:5226711007"
-  },
-  {
-   "closed_at": 1790016169,
    "company": "andurilindustries",
    "hours_open": 166.2,
    "title": "Electrical Test Engineer",
@@ -5599,8 +5564,43 @@
    "hours_open": 6.2,
    "title": "Software Engineer- Machine Learning",
    "uid": "greenhouse:andurilindustries:5124403007"
+  },
+  {
+   "closed_at": 1790297811,
+   "company": "Groupe DCM",
+   "hours_open": 164.0,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534679"
+  },
+  {
+   "closed_at": 1790297811,
+   "company": "icf",
+   "hours_open": 195.4,
+   "title": "Junior Software Engineer (Entry level - Remote US)",
+   "uid": "workday:icf.wd5/icfexternal_career_site:Junior-Software-Engineer--Entry-level---Remote-US-_R2603054"
+  },
+  {
+   "closed_at": 1790297811,
+   "company": "twitch",
+   "hours_open": 512.0,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1790297811,
+   "company": "spacex",
+   "hours_open": 512.0,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1790297811,
+   "company": "spacex",
+   "hours_open": 511.7,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
   }
  ],
- "count": 820,
- "updated_at": 1790297186
+ "count": 805,
+ "updated_at": 1790297813
 }

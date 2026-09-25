@@ -1,5 +1,5 @@
 {
- "count": 6009,
+ "count": 6017,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -5591,6 +5591,7 @@
   "workday:jj.wd5/JJ:Junior-Industrial-IT-Systems-Engineer_R-096807": 1788512368,
   "workday:jj.wd5/JJ:Mechatronics---Systems-Integration-Intern---R-D_R-099833": 1789511757,
   "workday:jj.wd5/JJ:Product-Development-Engineering-Intern_R-095154": 1789002050,
+  "workday:jj.wd5/JJ:Software-Engineering-Co-Op_R-098277": 1790297811,
   "workday:jj.wd5/JJ:Software-Engineering-Intern---Robotics-R-D_R-099919": 1789511757,
   "workday:jj.wd5/JJ:Spring-R-D-Engineer-Co-op--INTO_R-099005": 1789778130,
   "workday:jll.wd1/jllcareers:Junior-Reliability-Engineer_REQ535710": 1789709712,
@@ -5637,7 +5638,13 @@
   "workday:manulife.wd3/MFCJH_Jobs:Summer-Intern-2027---Software-Engineering_JR26081684": 1788442554,
   "workday:manulife.wd3/MFCJH_Jobs:Winter-Co-op-2027---Software-Engineering_JR26081663": 1790263709,
   "workday:mars.wd3/external:Solution-Engineer_R161845-1": 1788756975,
+  "workday:marvell.wd1/MarvellCareers2:Board-Product-Engineer-Intern--BS---Summer-2027_2603833": 1790297811,
+  "workday:marvell.wd1/MarvellCareers2:IC-Validation-Engineer-Intern_2603925": 1790297811,
+  "workday:marvell.wd1/MarvellCareers2:Physical-Design-Engineer-Intern--BS---Summer-2027_2604517": 1790297811,
+  "workday:marvell.wd1/MarvellCareers2:Physical-Design-Engineer-Intern--MS---Summer-2027_2604518": 1790297811,
+  "workday:marvell.wd1/MarvellCareers2:Test-Equipment-Engineer-Intern_2603826": 1790297811,
   "workday:marvell.wd1/MarvellCareers:AI-Infrastructure-Engineer-Intern_2604499": 1788859705,
+  "workday:marvell.wd1/MarvellCareers:AMS-Layout-Engineer-Intern---BS---2027-Co-Op_2604790": 1790297811,
   "workday:marvell.wd1/MarvellCareers:Application-Engineer-Intern--MS---Summer-2027_2604509": 1788551622,
   "workday:marvell.wd1/MarvellCareers:Board-Product-Engineer-Intern--BS---Summer-2027_2603833-1": 1790041362,
   "workday:marvell.wd1/MarvellCareers:Firmware-Engineer-Intern--BS---Summer-2027_2604461": 1788558581,
@@ -5692,6 +5699,7 @@
   "workday:micron.wd1/External:Photolithography-MDE-Shift-Engineer_JR111985": 1790041362,
   "workday:micron.wd1/External:Process-Integration-Engineer_JR102569": 1789073222,
   "workday:micron.wd1/External:Senior-Design-Engineer_JR105872": 1789753663,
+  "workday:micron.wd1/External:Senior-or-Staff-HBM-PYE-Product-Development-Failure-Analysis-Engineer_JR110624": 1790297811,
   "workday:micron.wd1/External:Sr-Design-Engineer--DEG-Design-Method_JR104060": 1790210206,
   "workday:micron.wd1/External:Sr-Engineer--DPG-Compute-PE-Y-Q_JR98974": 1790210206,
   "workday:micron.wd1/External:Staff-Engineer--Circuit-Design_JR94667": 1788425964,
@@ -6011,5 +6019,5 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148,
   "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541": 1789106107
  },
- "updated_at": 1790297185
+ "updated_at": 1790297813
 }
