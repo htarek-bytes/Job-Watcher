@@ -2,69 +2,6 @@
  "closed": [
   {
    "closed_at": 1790029519,
-   "company": "singlestore",
-   "hours_open": 3.7,
-   "title": "MIT-Software Engineer-New Grad |Engine|",
-   "uid": "greenhouse:singlestore:8220863"
-  },
-  {
-   "closed_at": 1790029519,
-   "company": "singlestore",
-   "hours_open": 3.7,
-   "title": "MIT- Software Engineer Intern | Engine",
-   "uid": "greenhouse:singlestore:8220919"
-  },
-  {
-   "closed_at": 1790029519,
-   "company": "singlestore",
-   "hours_open": 3.7,
-   "title": "MIT- Software Engineer Intern | Helios",
-   "uid": "greenhouse:singlestore:8220941"
-  },
-  {
-   "closed_at": 1790029519,
-   "company": "pathrobotics",
-   "hours_open": 5.7,
-   "title": "Software Engineer – ML Infrastructure",
-   "uid": "greenhouse:pathrobotics:8827576002"
-  },
-  {
-   "closed_at": 1790029519,
-   "company": "Bosch Group",
-   "hours_open": 80.5,
-   "title": "Junior Project Engineer Services ",
-   "uid": "smartrecruiters:BoschGroup:744000150349009"
-  },
-  {
-   "closed_at": 1790029519,
-   "company": "Bosch Group",
-   "hours_open": 80.5,
-   "title": "[EJV] Junior Telematics Software Engineer — Embedded Android",
-   "uid": "smartrecruiters:BoschGroup:744000150340229"
-  },
-  {
-   "closed_at": 1790029519,
-   "company": "Achieve",
-   "hours_open": 233.8,
-   "title": "Associate AI Solutions Engineer",
-   "uid": "smartrecruiters:Achieve1:3743990015218506"
-  },
-  {
-   "closed_at": 1790029519,
-   "company": "twitch",
-   "hours_open": 437.5,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1790029519,
-   "company": "Valsoft Corporation",
-   "hours_open": 83.3,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50313403"
-  },
-  {
-   "closed_at": 1790029519,
    "company": "accenturefederalservices",
    "hours_open": 3.7,
    "title": "Junior Forward Deployed AI Engineer   ",
@@ -5599,8 +5536,71 @@
    "hours_open": 380.3,
    "title": "Software Engineering Intern – Summer 2027",
    "uid": "workday:caci.wd1/external:Software-Engineering-Intern---Summer-2027_331742"
+  },
+  {
+   "closed_at": 1790350197,
+   "company": "gevernova",
+   "hours_open": 70.6,
+   "title": "Engineering Intern - Power Conversion & Storage AI Tool Developer  2027",
+   "uid": "workday:gevernova.wd5/vernova_externalsite:Engineering-Intern---Power-Conversion---Storage-AI-Tool-Developer--2027_R5049957-2"
+  },
+  {
+   "closed_at": 1790350197,
+   "company": "iberdrola",
+   "hours_open": 232.9,
+   "title": "Associate Engineer - Distribution Planning",
+   "uid": "workday:iberdrola.wd3/iberdrola:Associate-Engineer---Distribution-Planning_R-29801"
+  },
+  {
+   "closed_at": 1790350197,
+   "company": "fmr",
+   "hours_open": 328.7,
+   "title": "Co-op, Software Engineer",
+   "uid": "workday:fmr.wd1/targeted:Co-op--Software-Engineer_2135200"
+  },
+  {
+   "closed_at": 1790350197,
+   "company": "fis",
+   "hours_open": 48.7,
+   "title": "HPNS/ Tandem Junior Engineer",
+   "uid": "workday:fis.wd5/searchjobs:HPNS-Engineer-Sr-Lead--Software_JR0308900"
+  },
+  {
+   "closed_at": 1790350197,
+   "company": "twitch",
+   "hours_open": 526.5,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1790350197,
+   "company": "thenuclearcompany",
+   "hours_open": 526.5,
+   "title": "AI Engineer 1 - Platform Integration & AI/Data ",
+   "uid": "greenhouse:thenuclearcompany:5285585008"
+  },
+  {
+   "closed_at": 1790350197,
+   "company": "andurilindustries",
+   "hours_open": 406.4,
+   "title": "Systems Engineer, Thunder",
+   "uid": "greenhouse:andurilindustries:5209525007"
+  },
+  {
+   "closed_at": 1790350197,
+   "company": "spacex",
+   "hours_open": 526.5,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1790350197,
+   "company": "spacex",
+   "hours_open": 526.5,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 806,
- "updated_at": 1790348521
+ "count": 809,
+ "updated_at": 1790350198
 }
