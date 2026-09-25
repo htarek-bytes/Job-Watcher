@@ -1,5 +1,5 @@
 {
- "count": 6049,
+ "count": 6052,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -222,6 +222,7 @@
   "amazon:amazon:10559746": 1790289151,
   "amazon:amazon:10559762": 1790289151,
   "amazon:amazon:10560115": 1790297185,
+  "amazon:amazon:10560276": 1790340300,
   "ashby:1password:4ff46f84-a5c9-4232-84b6-1dfa8e737148": 1788750148,
   "ashby:1password:7f885c41-7572-439c-886f-bc508eb9a3d7": 1788454653,
   "ashby:1password:a5b083d5-5f82-4316-b5ef-a577f2edb493": 1788750148,
@@ -3367,6 +3368,7 @@
   "jobbank:junior software developer:50354932": 1790224745,
   "jobbank:junior software developer:50363075": 1790314156,
   "jobbank:junior software developer:50363577": 1790314156,
+  "jobbank:junior software developer:50364672": 1790340300,
   "jobbank:linux administrator:49626621": 1789082121,
   "jobbank:linux administrator:50163764": 1788887337,
   "jobbank:linux administrator:50205276": 1788887337,
@@ -5155,6 +5157,7 @@
   "workday:accenture.wd103/AccentureCareers:Junior-NET-Developer---Fresh-Graduates_R00332478": 1788393810,
   "workday:accenture.wd103/AccentureCareers:Software-Engineer-Intern_R00342918-1": 1788528828,
   "workday:accenture.wd103/AccentureCareers:Software-Engineering-New-Associate--Fresh-Diploma-Graduate-Program-_R00144534": 1788393810,
+  "workday:accenture.wd103/AccentureCareers:XMLNAME--Junior--AI-Native-Software-Engineer---all-genders-_R00359893-1": 1790340300,
   "workday:adobe.wd5/external_experienced:XMLNAME-2027-Intern---Machine-Learning-Engineer_R171519": 1788435390,
   "workday:adobe.wd5/external_experienced:XMLNAME-2027-Intern---Software-Engineer_R171666": 1788454653,
   "workday:adobe.wd5/external_experienced:XMLNAME-2027-University-Graduate---AI-Forward-Deployed-Engineer_R172018": 1790117695,
@@ -6051,5 +6054,5 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148,
   "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541": 1789106107
  },
- "updated_at": 1790336784
+ "updated_at": 1790340300
 }

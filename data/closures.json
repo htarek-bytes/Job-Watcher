@@ -1,55 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1790024422,
-   "company": "pathrobotics",
-   "hours_open": 4.3,
-   "title": "Software Engineer – ML Infrastructure",
-   "uid": "greenhouse:pathrobotics:8827576002"
-  },
-  {
-   "closed_at": 1790024422,
-   "company": "360insights",
-   "hours_open": 7.8,
-   "title": "Technical Analyst",
-   "uid": "rippling:360insights:881886d8-54d8-4921-87c3-901f86fa7f16"
-  },
-  {
-   "closed_at": 1790024422,
-   "company": "twitch",
-   "hours_open": 436.0,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1790024422,
-   "company": "accenturefederalservices",
-   "hours_open": 2.3,
-   "title": "Junior Forward Deployed AI Engineer   ",
-   "uid": "greenhouse:accenturefederalservices:4715182006"
-  },
-  {
-   "closed_at": 1790024422,
-   "company": "spacex",
-   "hours_open": 436.0,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1790024422,
-   "company": "spacex",
-   "hours_open": 436.0,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1790024422,
-   "company": "spacex",
-   "hours_open": 434.4,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
    "closed_at": 1790029104,
    "company": "singlestore",
    "hours_open": 3.4,
@@ -5599,8 +5550,57 @@
    "hours_open": 522.8,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1790340300,
+   "company": "Babysoft Telecommunication",
+   "hours_open": 40.1,
+   "title": "front-end developer",
+   "uid": "jobbank:developpeur junior:50352026"
+  },
+  {
+   "closed_at": 1790340300,
+   "company": "Cooptel",
+   "hours_open": 403.6,
+   "title": "Administrateur réseau",
+   "uid": "jobillico:analyste reseau:17185045"
+  },
+  {
+   "closed_at": 1790340300,
+   "company": "Amazon",
+   "hours_open": 228.5,
+   "title": "Software Development Engineer, Amazon Ads Demand Tech, Forecasting and Guidance",
+   "uid": "amazon:amazon:10544074"
+  },
+  {
+   "closed_at": 1790340300,
+   "company": "twitch",
+   "hours_open": 520.8,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1790340300,
+   "company": "Source Code",
+   "hours_open": 53.8,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50347574"
+  },
+  {
+   "closed_at": 1790340300,
+   "company": "spacex",
+   "hours_open": 523.8,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1790340300,
+   "company": "spacex",
+   "hours_open": 522.1,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
  "count": 807,
- "updated_at": 1790336784
+ "updated_at": 1790340300
 }
