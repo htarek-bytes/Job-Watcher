@@ -1,76 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1790059940,
-   "company": "Valsoft Corporation",
-   "hours_open": 69.8,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50320295"
-  },
-  {
-   "closed_at": 1790059940,
-   "company": "Source Code",
-   "hours_open": 7.3,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:control systems analyst:50335113"
-  },
-  {
-   "closed_at": 1790069500,
-   "company": "singlestore",
-   "hours_open": 14.7,
-   "title": "MIT- Software Engineer Intern |Helios|",
-   "uid": "greenhouse:singlestore:8220948"
-  },
-  {
-   "closed_at": 1790069500,
-   "company": "FiscalNote",
-   "hours_open": 10.1,
-   "title": "Associate Software Engineer",
-   "uid": "simplify:listings:e659b76b-dfdc-4b49-bcc0-27140e26325d"
-  },
-  {
-   "closed_at": 1790069500,
-   "company": "xai",
-   "hours_open": 436.6,
-   "title": "Mechanical Commissioning Engineer - Memphis",
-   "uid": "greenhouse:xai:5226371007"
-  },
-  {
-   "closed_at": 1790069500,
-   "company": "Valsoft Corporation",
-   "hours_open": 94.4,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50313403"
-  },
-  {
-   "closed_at": 1790069500,
-   "company": "TD Bank",
-   "hours_open": 321.8,
-   "title": "Associate Software Engineer",
-   "uid": "simplify:listings:bed9d031-2f7f-4c71-9417-37308c8a19ee"
-  },
-  {
-   "closed_at": 1790069500,
-   "company": "Boeing",
-   "hours_open": 485.2,
-   "title": "Entry Level ASIC/FPGA Design Engineer - Space Electronics",
-   "uid": "simplify:listings:ee871fc2-a48b-4f6f-8b78-4f13099021ca"
-  },
-  {
-   "closed_at": 1790069500,
-   "company": "Nightwing Intelligence Solutions",
-   "hours_open": 485.2,
-   "title": "Software Engineer 1",
-   "uid": "simplify:listings:dead17d4-de13-40ac-923b-ac8d41bdaba0"
-  },
-  {
-   "closed_at": 1790069500,
-   "company": "twitch",
-   "hours_open": 445.6,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
    "closed_at": 1790069500,
    "company": "Source Code",
    "hours_open": 171.7,
@@ -5599,8 +5529,78 @@
    "hours_open": 541.7,
    "title": "Radiation Effects Engineer Intern (Fall 2026)",
    "uid": "greenhouse:astranis:4694853006"
+  },
+  {
+   "closed_at": 1790378233,
+   "company": "Sopra Steria",
+   "hours_open": 49.0,
+   "title": "Cyber Security Specialist (Blue Team)",
+   "uid": "smartrecruiters:SopraSteria1:744000151354959"
+  },
+  {
+   "closed_at": 1790378233,
+   "company": "Alt Informatique",
+   "hours_open": 186.4,
+   "title": "Technicien informatique junior",
+   "uid": "jobillico:technicien informatique:17381391"
+  },
+  {
+   "closed_at": 1790378233,
+   "company": "Groupe DCM",
+   "hours_open": 180.2,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534670"
+  },
+  {
+   "closed_at": 1790378233,
+   "company": "AlphaHire",
+   "hours_open": 72.6,
+   "title": "Project Engineer - Commercial Electrical Projects",
+   "uid": "workable:alphax:A4B61A3D05"
+  },
+  {
+   "closed_at": 1790378233,
+   "company": "Visa",
+   "hours_open": 200.1,
+   "title": "Software Engineer New Grad",
+   "uid": "simplify:listings:008bd1b1-83ef-4bce-b3d4-bdab9f25b76d"
+  },
+  {
+   "closed_at": 1790378233,
+   "company": "Employee Owned Holdings, Inc.",
+   "hours_open": 268.2,
+   "title": "Sales Engineer",
+   "uid": "workable:employee-owned-holdings-inc:1114978D05"
+  },
+  {
+   "closed_at": 1790378233,
+   "company": "twitch",
+   "hours_open": 531.4,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1790378233,
+   "company": "AMAX",
+   "hours_open": 534.3,
+   "title": "Quality Engineer",
+   "uid": "workable:amax-1:6EFEFF4B11"
+  },
+  {
+   "closed_at": 1790378233,
+   "company": "spacex",
+   "hours_open": 534.3,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1790378233,
+   "company": "RTX",
+   "hours_open": 23.8,
+   "title": "Software Engineer 1",
+   "uid": "simplify:listings:f14b8354-3c07-49c5-96e8-d199167864cf"
   }
  ],
- "count": 808,
- "updated_at": 1790376274
+ "count": 810,
+ "updated_at": 1790378233
 }
