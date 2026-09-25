@@ -2,27 +2,6 @@
  "closed": [
   {
    "closed_at": 1790021842,
-   "company": "andurilindustries",
-   "hours_open": 433.6,
-   "title": "Hardware Test Engineer",
-   "uid": "greenhouse:andurilindustries:5226711007"
-  },
-  {
-   "closed_at": 1790021842,
-   "company": "andurilindustries",
-   "hours_open": 167.8,
-   "title": "Electrical Test Engineer",
-   "uid": "greenhouse:andurilindustries:5237987007"
-  },
-  {
-   "closed_at": 1790021842,
-   "company": "darkwolfsolutions",
-   "hours_open": 435.3,
-   "title": "Front End Developer",
-   "uid": "greenhouse:darkwolfsolutions:7837196003"
-  },
-  {
-   "closed_at": 1790021842,
    "company": "voyagertechnologiesinc",
    "hours_open": 435.3,
    "title": "Accelerated Physics Simulation Engineer – Agentic Computational Engineering (ACE)",
@@ -5599,8 +5578,29 @@
    "hours_open": 518.0,
    "title": "Product QA & Data Engineer",
    "uid": "lever:field-ai:bbb7838b-7eb5-4899-ac38-f2d95285a84d"
+  },
+  {
+   "closed_at": 1790332184,
+   "company": "Bosch Group",
+   "hours_open": 12.6,
+   "title": "Junior Digital Verification Engineer",
+   "uid": "smartrecruiters:BoschGroup:744000151594720"
+  },
+  {
+   "closed_at": 1790332184,
+   "company": "Alt Informatique",
+   "hours_open": 173.6,
+   "title": "Technicien informatique junior",
+   "uid": "jobillico:technicien informatique:17381391"
+  },
+  {
+   "closed_at": 1790332184,
+   "company": "Bertelsmann-Jobs",
+   "hours_open": 84.1,
+   "title": "Junior AI Engineer (Open to remote)",
+   "uid": "smartrecruiters:Bertelsmann-Jobs:744000150793144"
   }
  ],
- "count": 800,
- "updated_at": 1790330142
+ "count": 803,
+ "updated_at": 1790332184
 }
