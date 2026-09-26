@@ -2,27 +2,6 @@
  "closed": [
   {
    "closed_at": 1790114729,
-   "company": "citylogix",
-   "hours_open": 340.4,
-   "title": "IT Specialist / Spécialiste en informatique",
-   "uid": "rippling:citylogix:f74798da-9934-4d64-8660-5512053ec908"
-  },
-  {
-   "closed_at": 1790114729,
-   "company": "Amazon",
-   "hours_open": 136.6,
-   "title": "Software Development Engineer",
-   "uid": "amazon:amazon:10551443"
-  },
-  {
-   "closed_at": 1790114729,
-   "company": "Amazon",
-   "hours_open": 173.2,
-   "title": "Software Development Engineer, AWS Transform",
-   "uid": "amazon:amazon:10541974"
-  },
-  {
-   "closed_at": 1790114729,
    "company": "Source Code",
    "hours_open": 22.5,
    "title": "information technology (IT) analyst",
@@ -5599,8 +5578,29 @@
    "hours_open": 436.5,
    "title": "Administrateur réseau",
    "uid": "jobillico:analyste reseau:17185045"
+  },
+  {
+   "closed_at": 1790460624,
+   "company": "abb",
+   "hours_open": 475.1,
+   "title": "Sales Engineer – Service Division",
+   "uid": "workday:abb.wd3/external_career_page:Service-Sales-specialist_JR00003209"
+  },
+  {
+   "closed_at": 1790460624,
+   "company": "spacex",
+   "hours_open": 557.2,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1790460624,
+   "company": "spacex",
+   "hours_open": 557.2,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
   }
  ],
  "count": 803,
- "updated_at": 1790458745
+ "updated_at": 1790460625
 }
