@@ -2,13 +2,6 @@
  "closed": [
   {
    "closed_at": 1790096131,
-   "company": "systemstechnologyresearch",
-   "hours_open": 449.0,
-   "title": "Autonomy Algorithms Software Engineer",
-   "uid": "greenhouse:systemstechnologyresearch:4704682006"
-  },
-  {
-   "closed_at": 1790096131,
    "company": "spacex",
    "hours_open": 456.0,
    "title": "Wireless Software Engineer (Starlink)",
@@ -5599,8 +5592,15 @@
    "hours_open": 422.5,
    "title": "Administrateur réseau",
    "uid": "jobillico:analyste reseau:17185045"
+  },
+  {
+   "closed_at": 1790419248,
+   "company": "Groupe DCM",
+   "hours_open": 191.6,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534670"
   }
  ],
- "count": 800,
- "updated_at": 1790417804
+ "count": 801,
+ "updated_at": 1790419248
 }
