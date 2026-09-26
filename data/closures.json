@@ -2,20 +2,6 @@
  "closed": [
   {
    "closed_at": 1790115654,
-   "company": "Bosch Group",
-   "hours_open": 11.1,
-   "title": "Q-Teamer | Production Quality Engineer - MSE3.1",
-   "uid": "smartrecruiters:BoschGroup:744000150980496"
-  },
-  {
-   "closed_at": 1790115654,
-   "company": "Source Code",
-   "hours_open": 184.5,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:systems analyst:50288780"
-  },
-  {
-   "closed_at": 1790115654,
    "company": "Source Code",
    "hours_open": 16.4,
    "title": "software developer",
@@ -5599,8 +5585,22 @@
    "hours_open": 557.6,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1790465654,
+   "company": "Groupe DCM",
+   "hours_open": 210.6,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534679"
+  },
+  {
+   "closed_at": 1790465654,
+   "company": "Cooptel",
+   "hours_open": 438.4,
+   "title": "Administrateur réseau",
+   "uid": "jobillico:analyste reseau:17185045"
   }
  ],
- "count": 803,
- "updated_at": 1790462849
+ "count": 802,
+ "updated_at": 1790465654
 }
