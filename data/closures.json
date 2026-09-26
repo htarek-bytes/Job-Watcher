@@ -1,27 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1790114729,
-   "company": "Source Code",
-   "hours_open": 22.5,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:control systems analyst:50335113"
-  },
-  {
-   "closed_at": 1790114729,
-   "company": "LMI",
-   "hours_open": 497.8,
-   "title": "Junior Android Engineer - RFID",
-   "uid": "simplify:listings:8c7fce06-656d-49d9-bf64-703e487b5cac"
-  },
-  {
-   "closed_at": 1790114729,
-   "company": "NVIDIA",
-   "hours_open": 497.8,
-   "title": "GPU Architecture Engineer New Grad",
-   "uid": "simplify:listings:935d5e2a-2962-45cf-b6cc-08183fc2b835"
-  },
-  {
    "closed_at": 1790115654,
    "company": "Bosch Group",
    "hours_open": 11.1,
@@ -5599,8 +5578,29 @@
    "hours_open": 557.2,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1790462849,
+   "company": "Groupe DCM",
+   "hours_open": 203.7,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534670"
+  },
+  {
+   "closed_at": 1790462849,
+   "company": "spacex",
+   "hours_open": 554.9,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1790462849,
+   "company": "spacex",
+   "hours_open": 557.6,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
   }
  ],
  "count": 803,
- "updated_at": 1790460625
+ "updated_at": 1790462849
 }
