@@ -1,41 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1790104722,
-   "company": "torcrobotics",
-   "hours_open": 451.4,
-   "title": "Systems Engineer I - Test Automation",
-   "uid": "greenhouse:torcrobotics:8554813002"
-  },
-  {
-   "closed_at": 1790104722,
-   "company": "ema",
-   "hours_open": 451.3,
-   "title": "Software Engineer, DevOps",
-   "uid": "ashby:ema:6394f5e3-6952-4f0e-9e6c-4e9556549f3a"
-  },
-  {
-   "closed_at": 1790104722,
-   "company": "ema",
-   "hours_open": 451.3,
-   "title": "Software Engineer, Machine Learning",
-   "uid": "ashby:ema:9728a171-9617-4533-9f03-10c14c3b6ca5"
-  },
-  {
-   "closed_at": 1790107030,
-   "company": "applydigital",
-   "hours_open": 459.0,
-   "title": "Site Reliability Engineer (SRE)",
-   "uid": "lever:applydigital:8ab8a148-86f7-4fdd-b7fe-882c2d2ac4bf"
-  },
-  {
-   "closed_at": 1790107030,
-   "company": "meow",
-   "hours_open": 105.9,
-   "title": "Software Engineer - New graduate",
-   "uid": "ashby:meow:56e3b840-11a0-4e98-baca-44e8e26b5218"
-  },
-  {
    "closed_at": 1790107030,
    "company": "siftstack",
    "hours_open": 455.9,
@@ -5599,8 +5564,43 @@
    "hours_open": 298.6,
    "title": "Software Engineering Intern",
    "uid": "workday:kla.wd1/annarbor:Software-Engineering-Intern_2531653"
+  },
+  {
+   "closed_at": 1790440926,
+   "company": "radiancetech",
+   "hours_open": 14.7,
+   "title": "Junior Software Engineer",
+   "uid": "workday:radiancetech.wd12/Radiance_External:Junior-Software-Engineer_HR102450"
+  },
+  {
+   "closed_at": 1790440926,
+   "company": "relx",
+   "hours_open": 570.7,
+   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - January)",
+   "uid": "workday:relx.wd3/RiskSolutions:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617"
+  },
+  {
+   "closed_at": 1790440926,
+   "company": "relx",
+   "hours_open": 570.7,
+   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - June)",
+   "uid": "workday:relx.wd3/RiskSolutions:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-1"
+  },
+  {
+   "closed_at": 1790440926,
+   "company": "relx",
+   "hours_open": 570.7,
+   "title": "Tech Accelerate Graduate Program - Software Engineer (Boca Raton - June)",
+   "uid": "workday:relx.wd3/RiskSolutions:Tech-Accelerate-Graduate-Program---Software-Engineer--Boca-Raton---June-_R116023-2"
+  },
+  {
+   "closed_at": 1790440926,
+   "company": "pwc",
+   "hours_open": 431.6,
+   "title": "Technology Consulting - Geographic Information Systems Intern - Summer 2027",
+   "uid": "workday:pwc.wd3/US_Entry_Level_Careers:Technology-Consulting---Geographic-Information-Systems-Intern---Summer-2027_757257WD"
   }
  ],
  "count": 805,
- "updated_at": 1790437287
+ "updated_at": 1790440926
 }
