@@ -1,20 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1790096131,
-   "company": "spacex",
-   "hours_open": 456.0,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1790100520,
-   "company": "salesforce",
-   "hours_open": 25.1,
-   "title": "Account Solution Engineer",
-   "uid": "workday:salesforce.wd12/External_Career_Site:Account-Solution-Engineer_JR360701"
-  },
-  {
    "closed_at": 1790100520,
    "company": "Arcfield",
    "hours_open": 493.8,
@@ -5599,8 +5585,22 @@
    "hours_open": 191.6,
    "title": "Programmeur CNC / CNC Programmer",
    "uid": "jobillico:programmeur junior:17534670"
+  },
+  {
+   "closed_at": 1790423533,
+   "company": "Alt Informatique",
+   "hours_open": 198.9,
+   "title": "Technicien informatique junior",
+   "uid": "jobillico:technicien informatique:17381391"
+  },
+  {
+   "closed_at": 1790423533,
+   "company": "Citadel",
+   "hours_open": 583.5,
+   "title": "Software Engineer – University Graduate",
+   "uid": "simplify:listings:410b28b6-b357-4b72-9480-bad83701b4cb"
   }
  ],
- "count": 801,
- "updated_at": 1790419248
+ "count": 802,
+ "updated_at": 1790423533
 }
