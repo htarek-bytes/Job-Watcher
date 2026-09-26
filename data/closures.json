@@ -2,27 +2,6 @@
  "closed": [
   {
    "closed_at": 1790091943,
-   "company": "clearwateranalytics",
-   "hours_open": 453.1,
-   "title": "Software Development Engineer I",
-   "uid": "workday:clearwateranalytics.wd1/Clearwater_Analytics_Careers:Software-Development-Engineer-I_R12059"
-  },
-  {
-   "closed_at": 1790091943,
-   "company": "twitch",
-   "hours_open": 454.8,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1790091943,
-   "company": "spacex",
-   "hours_open": 451.9,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1790091943,
    "company": "systemstechnologyresearch",
    "hours_open": 447.8,
    "title": "Autonomy Algorithms Software Engineer",
@@ -5599,8 +5578,29 @@
    "hours_open": 536.8,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1790388104,
+   "company": "radiancetech",
+   "hours_open": 56.5,
+   "title": "Junior Software Engineer",
+   "uid": "workday:radiancetech.wd12/Radiance_External:Junior-Software-Engineer_HR102428"
+  },
+  {
+   "closed_at": 1790388104,
+   "company": "Groupe DCM",
+   "hours_open": 182.9,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534670"
+  },
+  {
+   "closed_at": 1790388104,
+   "company": "Alithya Canada Inc.",
+   "hours_open": 2.7,
+   "title": "full stack Web developer",
+   "uid": "jobbank:programmeur junior:50257748"
   }
  ],
- "count": 810,
- "updated_at": 1790386985
+ "count": 803,
+ "updated_at": 1790388105
 }
