@@ -2,41 +2,6 @@
  "closed": [
   {
    "closed_at": 1790111963,
-   "company": "shyftlabs",
-   "hours_open": 103.4,
-   "title": "Forward Deployed Engineer",
-   "uid": "lever:shyftlabs:2f147c43-3899-41f1-9b0b-cf850de065e8"
-  },
-  {
-   "closed_at": 1790111963,
-   "company": "altentechnologyusa",
-   "hours_open": 170.2,
-   "title": "Triage Engineer - Infotainment",
-   "uid": "greenhouse:altentechnologyusa:5239011007"
-  },
-  {
-   "closed_at": 1790111963,
-   "company": "Source Code",
-   "hours_open": 183.5,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:systems analyst:50288780"
-  },
-  {
-   "closed_at": 1790111963,
-   "company": "Liquor, Gaming and Cannabis Authority of Manitoba (LGCA)",
-   "hours_open": 340.2,
-   "title": "digital communications specialist",
-   "uid": "jobbank:specialiste infrastructure:50241850"
-  },
-  {
-   "closed_at": 1790111963,
-   "company": "datalabusa",
-   "hours_open": 477.4,
-   "title": "Production Programmer - Entry Level SQL Developer",
-   "uid": "lever:datalabusa:dd9a80d9-a296-4ea9-a231-b68bf268e8ea"
-  },
-  {
-   "closed_at": 1790111963,
    "company": "aquaticcapitalmanagement",
    "hours_open": 479.3,
    "title": "Software Engineer, Early Career",
@@ -5599,8 +5564,43 @@
    "hours_open": 432.9,
    "title": "Administrateur réseau",
    "uid": "jobillico:analyste reseau:17185045"
+  },
+  {
+   "closed_at": 1790450904,
+   "company": "Groupe DCM",
+   "hours_open": 200.4,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534670"
+  },
+  {
+   "closed_at": 1790450904,
+   "company": "spacex",
+   "hours_open": 554.5,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1790450904,
+   "company": "spacex",
+   "hours_open": 554.5,
+   "title": "Full Stack Software Engineer, Manufacturing",
+   "uid": "greenhouse:spacex:8650988002"
+  },
+  {
+   "closed_at": 1790450904,
+   "company": "spacex",
+   "hours_open": 554.5,
+   "title": "Full Stack Software Engineer, Manufacturing Systems ",
+   "uid": "greenhouse:spacex:8703540002"
+  },
+  {
+   "closed_at": 1790450904,
+   "company": "spacex",
+   "hours_open": 554.5,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 800,
- "updated_at": 1790448321
+ "count": 805,
+ "updated_at": 1790450904
 }
