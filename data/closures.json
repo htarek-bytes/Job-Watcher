@@ -1,41 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1790078873,
-   "company": "Source Code",
-   "hours_open": 12.6,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:control systems analyst:50335113"
-  },
-  {
-   "closed_at": 1789707721,
-   "company": "cae",
-   "hours_open": 227.9,
-   "title": "C-IT-200 Product Cybersecurity Specialist Intern",
-   "uid": "workday:cae.wd3/career:C-IT-200-Product-Cybersecurity-Specialist-Intern_123542"
-  },
-  {
-   "closed_at": 1790078949,
-   "company": "FIBROTEK MATÉRIAUX AVANCÉS INC.",
-   "hours_open": 181.7,
-   "title": "mobile applications developer",
-   "uid": "jobbank:developpeur junior:50286599"
-  },
-  {
-   "closed_at": 1790086284,
-   "company": "singlestore",
-   "hours_open": 14.8,
-   "title": "MIT- Software Engineer Intern | Engine",
-   "uid": "greenhouse:singlestore:8221924"
-  },
-  {
-   "closed_at": 1790086284,
-   "company": "Groupe DCM",
-   "hours_open": 105.3,
-   "title": "Programmeur CNC / CNC Programmer",
-   "uid": "jobillico:programmeur junior:17534679"
-  },
-  {
    "closed_at": 1790086284,
    "company": "Groupe Mario Coté",
    "hours_open": 260.9,
@@ -5599,8 +5564,43 @@
    "hours_open": 534.7,
    "title": "Mobile App Development Engineer, Android/iOS - Enterprise",
    "uid": "workable:tp-link-usa-corp:95EDA017A5"
+  },
+  {
+   "closed_at": 1790382445,
+   "company": "bmo",
+   "hours_open": 9.6,
+   "title": "Business & Operations Development Specialist (New Grad)",
+   "uid": "workday:bmo.wd3/External:Business---Operations-Development-Specialist--New-Grad-_R260027681"
+  },
+  {
+   "closed_at": 1790382445,
+   "company": "Groupe DCM",
+   "hours_open": 181.4,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534670"
+  },
+  {
+   "closed_at": 1790382445,
+   "company": "amat",
+   "hours_open": 530.5,
+   "title": "Software Engineer, New College Grad- Master's (Chandler, AZ)",
+   "uid": "workday:amat.wd1/External:Software-Engineer--New-College-Grad--Master-s--Chandler--AZ-_R2627911"
+  },
+  {
+   "closed_at": 1790382445,
+   "company": "twitch",
+   "hours_open": 535.5,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1790382445,
+   "company": "spacex",
+   "hours_open": 532.6,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
   }
  ],
- "count": 808,
- "updated_at": 1790379536
+ "count": 805,
+ "updated_at": 1790382446
 }
