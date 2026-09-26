@@ -2,20 +2,6 @@
  "closed": [
   {
    "closed_at": 1790104008,
-   "company": "SRC Can",
-   "hours_open": 19.7,
-   "title": "software developer",
-   "uid": "jobbank:entry level software developer:50320464"
-  },
-  {
-   "closed_at": 1790104008,
-   "company": "visa",
-   "hours_open": 116.3,
-   "title": "Software Engineer, New College Grad - 2027 Foster City, CA",
-   "uid": "workday:visa.wd5/Visa:Software-Engineer--New-College-Grad---2027-Foster-City--CA_REF088543W-1"
-  },
-  {
-   "closed_at": 1790104008,
    "company": "visa",
    "hours_open": 116.3,
    "title": "Software Engineer, New College Grad - 2027, Austin, TX",
@@ -5599,8 +5585,22 @@
    "hours_open": 118.1,
    "title": "Embedded Software Engineer 1",
    "uid": "simplify:listings:551e52f2-65d3-4921-b08d-5f686b953112"
+  },
+  {
+   "closed_at": 1790433343,
+   "company": "dtna",
+   "hours_open": 13.8,
+   "title": "Manufacturing Systems Engineer - Advanced Manufacturing & AI I",
+   "uid": "workday:dtna.wd5/dtna_affiliate:Manufacturing-Systems-Engineer---Advanced-Manufacturing---AI-I_DT-19263"
+  },
+  {
+   "closed_at": 1790433343,
+   "company": "VILLE DE SAINTE-MARGUERITE-DU-LAC- MASSON",
+   "hours_open": 23.8,
+   "title": "network infrastructure engineer",
+   "uid": "jobbank:specialiste infrastructure:50365083"
   }
  ],
- "count": 808,
- "updated_at": 1790431473
+ "count": 802,
+ "updated_at": 1790433343
 }
