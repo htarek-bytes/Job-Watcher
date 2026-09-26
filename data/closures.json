@@ -1,13 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1790111963,
-   "company": "accenturefederalservices",
-   "hours_open": 460.4,
-   "title": "Data Engineer",
-   "uid": "greenhouse:accenturefederalservices:4680730006"
-  },
-  {
    "closed_at": 1790114729,
    "company": "AECOM",
    "hours_open": 23.7,
@@ -5599,8 +5592,15 @@
    "hours_open": 208.1,
    "title": "Programmeur CNC / CNC Programmer",
    "uid": "jobillico:programmeur junior:17534679"
+  },
+  {
+   "closed_at": 1790456756,
+   "company": "Groupe DCM",
+   "hours_open": 202.0,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534670"
   }
  ],
  "count": 801,
- "updated_at": 1790456649
+ "updated_at": 1790456756
 }
