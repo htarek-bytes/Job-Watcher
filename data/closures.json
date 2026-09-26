@@ -2,20 +2,6 @@
  "closed": [
   {
    "closed_at": 1790096131,
-   "company": "mmc",
-   "hours_open": 346.6,
-   "title": "Junior Python Engineer @MarshTech",
-   "uid": "workday:mmc.wd1/MMC:Junior-Python-Engineer--MarshTech_R_362442-1"
-  },
-  {
-   "closed_at": 1790096131,
-   "company": "nidec",
-   "hours_open": 373.9,
-   "title": "Sales Engineer - MI",
-   "uid": "workday:nidec.wd1/nidec:Sales-Engineer---MI_R0013538-1"
-  },
-  {
-   "closed_at": 1790096131,
    "company": "twitch",
    "hours_open": 456.0,
    "title": "Software Development Engineer, Security Platform",
@@ -5599,8 +5585,22 @@
    "hours_open": 537.7,
    "title": "Software Engineer I, Storage",
    "uid": "ashby:crusoe:4f5d34ed-0c05-4eec-b8f8-14663e114b02"
+  },
+  {
+   "closed_at": 1790402075,
+   "company": "Groupe DCM",
+   "hours_open": 193.0,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534679"
+  },
+  {
+   "closed_at": 1790402075,
+   "company": "Cooptel",
+   "hours_open": 420.8,
+   "title": "Administrateur réseau",
+   "uid": "jobillico:analyste reseau:17185045"
   }
  ],
- "count": 803,
- "updated_at": 1790401105
+ "count": 802,
+ "updated_at": 1790402075
 }
