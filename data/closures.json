@@ -2,13 +2,6 @@
  "closed": [
   {
    "closed_at": 1790096131,
-   "company": "twitch",
-   "hours_open": 456.0,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1790096131,
    "company": "Source Code",
    "hours_open": 17.3,
    "title": "information technology (IT) analyst",
@@ -5599,8 +5592,15 @@
    "hours_open": 420.8,
    "title": "Administrateur réseau",
    "uid": "jobillico:analyste reseau:17185045"
+  },
+  {
+   "closed_at": 1790404952,
+   "company": "quantcast",
+   "hours_open": 538.7,
+   "title": "Software Engineer (Full Stack)",
+   "uid": "ashby:quantcast:09271839-e273-472b-948d-3d362867f809"
   }
  ],
- "count": 802,
- "updated_at": 1790402075
+ "count": 801,
+ "updated_at": 1790404953
 }
