@@ -3,13 +3,6 @@
   {
    "closed_at": 1790107300,
    "company": "Amazon",
-   "hours_open": 177.6,
-   "title": "Software Development Engineer, AI Studios Engineering",
-   "uid": "amazon:amazon:10541530"
-  },
-  {
-   "closed_at": 1790107300,
-   "company": "Amazon",
    "hours_open": 263.3,
    "title": "Software Development Engineer, AWS Intent Driven Networking (AIDN)",
    "uid": "amazon:amazon:10538018"
@@ -5599,8 +5592,15 @@
    "hours_open": 432.6,
    "title": "Administrateur réseau",
    "uid": "jobillico:analyste reseau:17185045"
+  },
+  {
+   "closed_at": 1790445699,
+   "company": "Alt Informatique",
+   "hours_open": 205.1,
+   "title": "Technicien informatique junior",
+   "uid": "jobillico:technicien informatique:17381391"
   }
  ],
- "count": 803,
- "updated_at": 1790444688
+ "count": 801,
+ "updated_at": 1790445699
 }
