@@ -1,5 +1,5 @@
 {
- "count": 6130,
+ "count": 6137,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -3265,6 +3265,7 @@
   "jobbank:entry level software developer:50344770": 1790115654,
   "jobbank:entry level software developer:50353185": 1790314156,
   "jobbank:entry level software developer:50364353": 1790332184,
+  "jobbank:entry level software developer:50370646": 1790399844,
   "jobbank:information systems analyst:49969689": 1788887337,
   "jobbank:information systems analyst:50112346": 1788887337,
   "jobbank:information systems analyst:50163724": 1788887337,
@@ -3404,6 +3405,10 @@
   "jobbank:junior software developer:50363577": 1790314156,
   "jobbank:junior software developer:50364672": 1790340300,
   "jobbank:junior software developer:50368572": 1790373608,
+  "jobbank:junior software developer:50370694": 1790399844,
+  "jobbank:junior software developer:50370793": 1790399844,
+  "jobbank:junior software developer:50370881": 1790399844,
+  "jobbank:junior software developer:50371059": 1790399844,
   "jobbank:linux administrator:49626621": 1789082121,
   "jobbank:linux administrator:50163764": 1788887337,
   "jobbank:linux administrator:50205276": 1788887337,
@@ -6007,6 +6012,7 @@
   "workday:silabs.wd1/SiliconlabsCareers:Dveloppeur-logiciel-I---Software-Engineer-I_20984-1": 1788377835,
   "workday:silabs.wd1/SiliconlabsCareers:RFIC-Design-Engineer-I_20918-1": 1789051055,
   "workday:silabs.wd1/SiliconlabsCareers:Software-Engineer-I_21011-1": 1789428175,
+  "workday:snapfinance.wd1/snap_external_careers:Software-Engineer-I_R-2796": 1790399844,
   "workday:snc.wd1/snc_external_career_site:Software-Engineering-Intern--Summer-2027-_R0030761-1": 1788474010,
   "workday:sonyglobal.wd1/SonyGlobalCareers:Software-Engineer-Intern_JR-119282": 1788448251,
   "workday:spgi.wd5/SPGI_Careers:Software-Engineer---Summer-Intern-2027_331717-2": 1790184571,
@@ -6048,6 +6054,7 @@
   "workday:td.wd3/TD_Bank_Careers:Software-Engineer-Co-op---Intern--Winter-2027-_R_1509790": 1788887337,
   "workday:td.wd3/TD_Bank_Careers:Software-Engineer-I_R_1505519": 1788394042,
   "workday:td.wd3/TD_Bank_Careers:Software-Engineer-I_R_1508757": 1790016169,
+  "workday:td.wd3/TD_Bank_Careers:Software-Engineer-I_R_1511144": 1790399844,
   "workday:td.wd3/TD_Bank_Careers:XMLNAME-2027-Spring-Co-op---Global-Technology---Solutions---Software-Engineer--SWE-_R_1509773": 1789568688,
   "workday:td.wd3/TD_Bank_Careers:XMLNAME-2027-Summer-Analyst---Software-Engineering-Rotational-Program--New-York-City-_R_1508053": 1788394042,
   "workday:td.wd3/TD_Bank_Careers:XMLNAME-2027-Summer-Analyst---Software-Engineering-Rotational-Program--Toronto-_R_1509435": 1788843732,
@@ -6132,5 +6139,5 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148,
   "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541": 1789106107
  },
- "updated_at": 1790388104
+ "updated_at": 1790399845
 }
