@@ -2,62 +2,6 @@
  "closed": [
   {
    "closed_at": 1790086284,
-   "company": "Groupe Mario Coté",
-   "hours_open": 260.9,
-   "title": "Administrateur de réseau",
-   "uid": "jobillico:analyste reseau:17520153"
-  },
-  {
-   "closed_at": 1790086284,
-   "company": "avav",
-   "hours_open": 14.1,
-   "title": "Software Engineering Intern",
-   "uid": "workday:avav.wd1/avav:Software-Engineering-Intern_8813"
-  },
-  {
-   "closed_at": 1790086284,
-   "company": "Amazon",
-   "hours_open": 111.4,
-   "title": "Software Development Engineer, Agentic AI DevOps",
-   "uid": "amazon:amazon:10552775"
-  },
-  {
-   "closed_at": 1790086284,
-   "company": "Amazon",
-   "hours_open": 185.7,
-   "title": "Software Development Engineer, Agentic Workspaces - Watchtower",
-   "uid": "amazon:amazon:10539269"
-  },
-  {
-   "closed_at": 1790086284,
-   "company": "twitch",
-   "hours_open": 453.2,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1790086284,
-   "company": "stripe",
-   "hours_open": 453.2,
-   "title": "Security Incident Response Engineer",
-   "uid": "greenhouse:stripe:8142302"
-  },
-  {
-   "closed_at": 1790086284,
-   "company": "altentechnologyusa",
-   "hours_open": 117.2,
-   "title": " Junior ADAS Validation Engineer",
-   "uid": "greenhouse:altentechnologyusa:5204290007"
-  },
-  {
-   "closed_at": 1790086284,
-   "company": "Source Code",
-   "hours_open": 176.3,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:systems analyst:50288780"
-  },
-  {
-   "closed_at": 1790086284,
    "company": "WallStreetQuants",
    "hours_open": 472.2,
    "title": "Entry-Level Quantitative Developer",
@@ -5599,8 +5543,64 @@
    "hours_open": 532.6,
    "title": "Security Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1790383779,
+   "company": "Alt Informatique",
+   "hours_open": 187.9,
+   "title": "Technicien informatique junior",
+   "uid": "jobillico:technicien informatique:17381391"
+  },
+  {
+   "closed_at": 1790383779,
+   "company": "Groupe DCM",
+   "hours_open": 187.9,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534679"
+  },
+  {
+   "closed_at": 1790383779,
+   "company": "Cooptel",
+   "hours_open": 415.7,
+   "title": "Administrateur réseau",
+   "uid": "jobillico:analyste reseau:17185045"
+  },
+  {
+   "closed_at": 1790383779,
+   "company": "cadence",
+   "hours_open": 528.9,
+   "title": "Software Engineer  (new college grad Dec 2026)",
+   "uid": "workday:cadence.wd1/Univ_Careers:Software-Engineer---new-college-grad-Dec-2026-_R55738-2"
+  },
+  {
+   "closed_at": 1790383779,
+   "company": "cadence",
+   "hours_open": 559.9,
+   "title": "Adams Application Software Developer  (Recent Grad 2026)",
+   "uid": "workday:cadence.wd1/Univ_Careers:Adams-Application-Software-Developer---Recent-Grad-2026-_R55736-2"
+  },
+  {
+   "closed_at": 1790383779,
+   "company": "cadence",
+   "hours_open": 559.9,
+   "title": "Adams MultiBody Dynamics Application Software Developer (Recent Grad 2026)",
+   "uid": "workday:cadence.wd1/External_Careers:Adams-MultiBody-Dynamics-Application-Software-Developer--Recent-Grad-2026-_R55788"
+  },
+  {
+   "closed_at": 1790383779,
+   "company": "clearwateranalytics",
+   "hours_open": 24.7,
+   "title": "Gen AI Solutions Engineer, Investment Solutions",
+   "uid": "workday:clearwateranalytics.wd1/Clearwater_Analytics_Careers:Gen-AI-Solutions-Engineer--Investment-Solutions_R11973-1"
+  },
+  {
+   "closed_at": 1790383779,
+   "company": "spacex",
+   "hours_open": 535.9,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
   }
  ],
- "count": 805,
- "updated_at": 1790382446
+ "count": 808,
+ "updated_at": 1790383780
 }
