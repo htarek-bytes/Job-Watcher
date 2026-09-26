@@ -1,27 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1790107030,
-   "company": "siftstack",
-   "hours_open": 455.9,
-   "title": "Software Engineer, Infrastructure",
-   "uid": "ashby:siftstack:a58c387f-d08e-4609-8ce3-eed5c624e61b"
-  },
-  {
-   "closed_at": 1790107030,
-   "company": "spacex",
-   "hours_open": 458.7,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1790107030,
-   "company": "spacex",
-   "hours_open": 459.0,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
    "closed_at": 1790107300,
    "company": "Amazon",
    "hours_open": 177.6,
@@ -5599,8 +5578,29 @@
    "hours_open": 431.6,
    "title": "Technology Consulting - Geographic Information Systems Intern - Summer 2027",
    "uid": "workday:pwc.wd3/US_Entry_Level_Careers:Technology-Consulting---Geographic-Information-Systems-Intern---Summer-2027_757257WD"
+  },
+  {
+   "closed_at": 1790444688,
+   "company": "VILLE DE SAINTE-MARGUERITE-DU-LAC- MASSON",
+   "hours_open": 26.9,
+   "title": "network infrastructure engineer",
+   "uid": "jobbank:specialiste infrastructure:50365083"
+  },
+  {
+   "closed_at": 1790444688,
+   "company": "td",
+   "hours_open": 12.5,
+   "title": "Software Engineer I",
+   "uid": "workday:td.wd3/TD_Bank_Careers:Software-Engineer-I_R_1511144"
+  },
+  {
+   "closed_at": 1790444688,
+   "company": "Cooptel",
+   "hours_open": 432.6,
+   "title": "Administrateur réseau",
+   "uid": "jobillico:analyste reseau:17185045"
   }
  ],
- "count": 805,
- "updated_at": 1790440926
+ "count": 803,
+ "updated_at": 1790444688
 }
