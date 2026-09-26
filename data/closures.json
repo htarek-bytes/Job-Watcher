@@ -2,13 +2,6 @@
  "closed": [
   {
    "closed_at": 1790096131,
-   "company": "Source Code",
-   "hours_open": 17.3,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:control systems analyst:50335113"
-  },
-  {
-   "closed_at": 1790096131,
    "company": "systemstechnologyresearch",
    "hours_open": 449.0,
    "title": "Autonomy Algorithms Software Engineer",
@@ -5599,8 +5592,15 @@
    "hours_open": 538.7,
    "title": "Software Engineer (Full Stack)",
    "uid": "ashby:quantcast:09271839-e273-472b-948d-3d362867f809"
+  },
+  {
+   "closed_at": 1790408162,
+   "company": "Cooptel",
+   "hours_open": 422.5,
+   "title": "Administrateur réseau",
+   "uid": "jobillico:analyste reseau:17185045"
   }
  ],
  "count": 801,
- "updated_at": 1790404953
+ "updated_at": 1790408162
 }
