@@ -1,76 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1790091113,
-   "company": "SaskTel",
-   "hours_open": 333.8,
-   "title": "programmer analyst",
-   "uid": "jobbank:junior programmer:50242898"
-  },
-  {
-   "closed_at": 1790091113,
-   "company": "Ciment Québec inc.",
-   "hours_open": 264.9,
-   "title": "Technicien en informatique",
-   "uid": "jobillico:technicien informatique:17496390"
-  },
-  {
-   "closed_at": 1790091113,
-   "company": "bmo",
-   "hours_open": 334.4,
-   "title": "Wealth Management Development Associate, New Grad (Chicago, IL)",
-   "uid": "workday:bmo.wd3/Campus:Wealth-Management-Development-Associate--New-Grad--Chicago--IL-_R260026201-1"
-  },
-  {
-   "closed_at": 1790091113,
-   "company": "twitch",
-   "hours_open": 451.6,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1790091113,
-   "company": "Source Code",
-   "hours_open": 16.0,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:control systems analyst:50335113"
-  },
-  {
-   "closed_at": 1790091113,
-   "company": "boeing",
-   "hours_open": 478.6,
-   "title": "Associate Software Engineer",
-   "uid": "workday:boeing.wd1/EXTERNAL_CAREERS:Associate-Software-Engineer_JR2026522810-1"
-  },
-  {
-   "closed_at": 1790091113,
-   "company": "spacex",
-   "hours_open": 454.6,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1790091113,
-   "company": "systemstechnologyresearch",
-   "hours_open": 334.4,
-   "title": "Autonomy Algorithms Software Engineer",
-   "uid": "greenhouse:systemstechnologyresearch:4704680006"
-  },
-  {
-   "closed_at": 1790091943,
-   "company": "fis",
-   "hours_open": 115.4,
-   "title": "C++ Software Engineer I",
-   "uid": "workday:fis.wd5/searchjobs:C---Software-Engineer-I_JR0309472"
-  },
-  {
-   "closed_at": 1790091943,
-   "company": "cox",
-   "hours_open": 161.5,
-   "title": "Entry Level Software Engineer - Austin, TX",
-   "uid": "workday:cox.wd1/Cox_External_Career_Site_1:Entry-Level-Software-Engineer---Austin--TX_R202682548-1"
-  },
-  {
    "closed_at": 1790091943,
    "company": "clearwateranalytics",
    "hours_open": 453.1,
@@ -5599,8 +5529,78 @@
    "hours_open": 534.3,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1790386984,
+   "company": "micron",
+   "hours_open": 49.1,
+   "title": "New College Grad - Design Engineer, DEG Design Method",
+   "uid": "workday:micron.wd1/External:Sr-Design-Engineer--DEG-Design-Method_JR104060"
+  },
+  {
+   "closed_at": 1790386984,
+   "company": "Groupe DCM",
+   "hours_open": 188.8,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534679"
+  },
+  {
+   "closed_at": 1790386984,
+   "company": "Cooptel",
+   "hours_open": 416.6,
+   "title": "Administrateur réseau",
+   "uid": "jobillico:analyste reseau:17185045"
+  },
+  {
+   "closed_at": 1790386984,
+   "company": "micron",
+   "hours_open": 96.0,
+   "title": "New College Grad - Manufacturing Shift Equipment Engineer",
+   "uid": "workday:micron.wd1/External:Engineer--Shift-Equipment_JR89034"
+  },
+  {
+   "closed_at": 1790386984,
+   "company": "labcorp",
+   "hours_open": 168.4,
+   "title": "Intern - IT Operations",
+   "uid": "workday:labcorp.wd1/external:Intern---IT-Operations_2631321"
+  },
+  {
+   "closed_at": 1790386984,
+   "company": "lthc",
+   "hours_open": 356.8,
+   "title": "College Intern - Telecommunications Team - Fall 2026",
+   "uid": "workday:lthc.wd1/ExcellusBCBSCareers:College-Intern---Telecommunications-Team---Fall-2026_JR103882-2"
+  },
+  {
+   "closed_at": 1790386984,
+   "company": "kbr",
+   "hours_open": 558.1,
+   "title": "Junior Software Engineer",
+   "uid": "workday:kbr.wd5/kbr_careers:Junior-Software-Engineer_R2122294"
+  },
+  {
+   "closed_at": 1790386984,
+   "company": "spacex",
+   "hours_open": 536.8,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1790386984,
+   "company": "spacex",
+   "hours_open": 536.5,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1790386984,
+   "company": "spacex",
+   "hours_open": 536.8,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 806,
- "updated_at": 1790384196
+ "count": 810,
+ "updated_at": 1790386985
 }

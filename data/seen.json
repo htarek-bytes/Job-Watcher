@@ -1,5 +1,5 @@
 {
- "count": 6119,
+ "count": 6126,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -2891,6 +2891,8 @@
   "greenhouse:spacex:8843951002": 1790311773,
   "greenhouse:spacex:8843974002": 1790357765,
   "greenhouse:spacex:8845089002": 1790347721,
+  "greenhouse:spacex:8846233002": 1790386984,
+  "greenhouse:spacex:8847094002": 1790386984,
   "greenhouse:stripe:6042172": 1788454653,
   "greenhouse:stripe:6176758": 1788454653,
   "greenhouse:stripe:6567104": 1788454653,
@@ -4123,6 +4125,7 @@
   "simplify:listings:3cd2d4bf-83be-48d7-8ec6-013ff39cecab": 1790128196,
   "simplify:listings:3d4bb444-d328-44a8-9c50-2a5c0e35d574": 1788322770,
   "simplify:listings:3e1957cd-768a-47fc-9140-cae0d35bb273": 1788322770,
+  "simplify:listings:3ecd14db-e4e2-468a-9cdf-c4007834664b": 1790386984,
   "simplify:listings:3ee60348-39b1-4a67-b417-dfaf6fd38d00": 1789171739,
   "simplify:listings:3f232600-1023-4500-a3d7-7740abb084a3": 1788454653,
   "simplify:listings:3f2de24b-8f96-4412-93d4-eedb22a6d3f5": 1789166954,
@@ -4524,6 +4527,7 @@
   "simplify:listings:c0479012-54e4-478d-922f-1948cd356ac4": 1788322770,
   "simplify:listings:c056d7df-fdde-419f-8c90-d5405fb5557b": 1788322770,
   "simplify:listings:c0df5c48-fda6-47f9-84e2-35b9b6afa3e7": 1788435390,
+  "simplify:listings:c142ee8b-0f3a-4016-8d97-2c454fca6b26": 1790386984,
   "simplify:listings:c192d7cd-8e41-43d0-9f80-86b20fa05310": 1788563552,
   "simplify:listings:c1d4dc63-07f0-4311-aa1c-e9e89586839f": 1788322770,
   "simplify:listings:c26d8252-d97c-43cd-a297-d22043b04581": 1789602352,
@@ -5694,6 +5698,7 @@
   "workday:kiongroup.wd3/KION_SCS:Controls-Engineer--Early---Mid-Career-_JR-0093840": 1789467869,
   "workday:kiongroup.wd3/kiongroup:Controls-Engineer--Early---Mid-Career-_JR-0093840-1": 1789424861,
   "workday:kla.wd1/AnnArbor:Software-Engineering-Intern_2531653": 1788442554,
+  "workday:kla.wd1/UR:AI-Solutions-Engineer--NPI-Function-_2641335": 1790386984,
   "workday:kla.wd1/UR:Algorithm-Engineering-Intern--AI--Computer-Vision---Software-Engineering-_2641392-1": 1790175830,
   "workday:kla.wd1/UR:Software-Engineering-Intern--C----Unix-_2641325": 1790175830,
   "workday:kla.wd1/annarbor:Software-Engineering-Intern_2531653": 1789362342,
@@ -5768,6 +5773,7 @@
   "workday:micron.wd1/External:Intern---IT-Software-Engineer_JR111582": 1789424861,
   "workday:micron.wd1/External:Intern---Node-Development-Product-Engineer---DRAM-Technology_JR111846": 1789511757,
   "workday:micron.wd1/External:Intern---PHY-Digital-Design---Automation-Engineer--HBM_JR110641": 1789424861,
+  "workday:micron.wd1/External:Intern---Process-Development-Engineer--DRAM-Thin-Films_JR107203": 1790386984,
   "workday:micron.wd1/External:Intern---Software-Engineer_JR108550": 1788859705,
   "workday:micron.wd1/External:Intern---Systems-Performance-Engineer_JR109583": 1788410216,
   "workday:micron.wd1/External:Intern--ID1-Equipment-Engineer_JR111232": 1790041362,
@@ -5809,6 +5815,7 @@
   "workday:ms.wd5/External:Associate--Software-Engineer_JR036259": 1790351918,
   "workday:ms.wd5/External:Associate--Software-Engineer_JR036749": 1788409442,
   "workday:msd.wd5/searchjobs:XMLNAME-2026-Future-Talent-Program---Associate-Specialist--Process-Engineer---Global-Engineering-Solutions-Co-op--Summer-Fall-2026-Start-_R392762": 1790177509,
+  "workday:myhrabc.wd5/Global:EDI-IT-Software-Developer-Intern_R2612376": 1790386984,
   "workday:myhrabc.wd5/Global:Solutions-Consultant--Community-Pharmacy-Solutions_R2615710": 1789168928,
   "workday:myhrhome.wd1/OneMainCareers:Software-Developer-Intern---Document-Shared-Services--Part-Time-_R2608-52284": 1788981683,
   "workday:myview.wd3/paradox_careers:Software-Development---Co-op-Student_R2000699845": 1788848313,
@@ -6121,5 +6128,5 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148,
   "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541": 1789106107
  },
- "updated_at": 1790384196
+ "updated_at": 1790386985
 }
