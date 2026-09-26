@@ -1,41 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1790104008,
-   "company": "Resideo",
-   "hours_open": 494.8,
-   "title": "Firmware Engineer 1",
-   "uid": "simplify:listings:620df5f1-110c-447c-8999-cf2d664001e9"
-  },
-  {
-   "closed_at": 1790104008,
-   "company": "spacex",
-   "hours_open": 458.2,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1790104008,
-   "company": "accenturefederalservices",
-   "hours_open": 144.8,
-   "title": "Cloud DevOps Engineer",
-   "uid": "greenhouse:accenturefederalservices:4703600006"
-  },
-  {
-   "closed_at": 1790104722,
-   "company": "Brightmark",
-   "hours_open": 321.4,
-   "title": "network administrator",
-   "uid": "jobbank:network administrator:50248661"
-  },
-  {
-   "closed_at": 1790104722,
-   "company": "Amazon",
-   "hours_open": 22.3,
-   "title": "Software Development Engineer, Alexa Excellence, Alexa LLM Inference, Capacity, & Efficiency",
-   "uid": "amazon:amazon:10555428"
-  },
-  {
    "closed_at": 1790104722,
    "company": "torcrobotics",
    "hours_open": 451.4,
@@ -5599,8 +5564,43 @@
    "hours_open": 545.4,
    "title": "Production Test Engineer Intern (Summer 2027)",
    "uid": "workday:globalhr.wd5/Private_Posting_No_TMP:Production-Test-Engineer-Intern--Summer-2027-_01870379"
+  },
+  {
+   "closed_at": 1790437287,
+   "company": "VILLE DE SAINTE-MARGUERITE-DU-LAC- MASSON",
+   "hours_open": 24.9,
+   "title": "network infrastructure engineer",
+   "uid": "jobbank:specialiste infrastructure:50365083"
+  },
+  {
+   "closed_at": 1790437287,
+   "company": "Groupe DCM",
+   "hours_open": 202.8,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534679"
+  },
+  {
+   "closed_at": 1790437287,
+   "company": "Cooptel",
+   "hours_open": 430.5,
+   "title": "Administrateur réseau",
+   "uid": "jobillico:analyste reseau:17185045"
+  },
+  {
+   "closed_at": 1790437287,
+   "company": "nationwide",
+   "hours_open": 378.6,
+   "title": "Consultant, Cybersecurity (Agentic Solutions Engineer)",
+   "uid": "workday:nationwide.wd1/Nationwide_Career:Consultant--Cybersecurity--Agentic-Solutions-Engineer-_099562"
+  },
+  {
+   "closed_at": 1790437287,
+   "company": "kla",
+   "hours_open": 298.6,
+   "title": "Software Engineering Intern",
+   "uid": "workday:kla.wd1/annarbor:Software-Engineering-Intern_2531653"
   }
  ],
- "count": 806,
- "updated_at": 1790433946
+ "count": 805,
+ "updated_at": 1790437287
 }
