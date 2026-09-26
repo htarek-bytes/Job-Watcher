@@ -2,13 +2,6 @@
  "closed": [
   {
    "closed_at": 1790111963,
-   "company": "spacex",
-   "hours_open": 460.4,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1790111963,
    "company": "accenturefederalservices",
    "hours_open": 460.4,
    "title": "Data Engineer",
@@ -5599,8 +5592,15 @@
    "hours_open": 553.5,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1790456648,
+   "company": "Groupe DCM",
+   "hours_open": 208.1,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534679"
   }
  ],
- "count": 803,
- "updated_at": 1790453479
+ "count": 801,
+ "updated_at": 1790456649
 }
