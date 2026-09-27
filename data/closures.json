@@ -2,20 +2,6 @@
  "closed": [
   {
    "closed_at": 1790188909,
-   "company": "spacex",
-   "hours_open": 478.8,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1790188909,
-   "company": "systemstechnologyresearch",
-   "hours_open": 474.8,
-   "title": "Autonomy Algorithms Software Engineer",
-   "uid": "greenhouse:systemstechnologyresearch:4704682006"
-  },
-  {
-   "closed_at": 1790188909,
    "company": "muonspace",
    "hours_open": 500.7,
    "title": "Software Engineer, Entry-Level",
@@ -5599,8 +5585,22 @@
    "hours_open": 576.0,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1790530972,
+   "company": "VILLE DE SAINTE-MARGUERITE-DU-LAC- MASSON",
+   "hours_open": 50.9,
+   "title": "network infrastructure engineer",
+   "uid": "jobbank:specialiste infrastructure:50365083"
+  },
+  {
+   "closed_at": 1790530972,
+   "company": "Groupe DCM",
+   "hours_open": 228.8,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534679"
   }
  ],
- "count": 805,
- "updated_at": 1790528084
+ "count": 802,
+ "updated_at": 1790530972
 }
