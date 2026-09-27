@@ -1,27 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1790196061,
-   "company": "spacex",
-   "hours_open": 483.7,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1790196061,
-   "company": "andurilindustries",
-   "hours_open": 482.0,
-   "title": "Manufacturing Process Development Engineer, Intelligence Systems",
-   "uid": "greenhouse:andurilindustries:5067299007"
-  },
-  {
-   "closed_at": 1790196061,
-   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
-   "hours_open": 363.5,
-   "title": "Administrateur Réseau TI",
-   "uid": "jobillico:analyste reseau:17386419"
-  },
-  {
    "closed_at": 1790200201,
    "company": "Babysoft Telecommunication",
    "hours_open": 1.1,
@@ -5599,8 +5578,29 @@
    "hours_open": 571.9,
    "title": "Frontend Engineer Intern",
    "uid": "ashby:dexmate:eac26b6f-1a53-441f-8e52-ee0a0b1bc119"
+  },
+  {
+   "closed_at": 1790540827,
+   "company": "Groupe DCM",
+   "hours_open": 225.4,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534670"
+  },
+  {
+   "closed_at": 1790540827,
+   "company": "spacex",
+   "hours_open": 576.5,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1790540827,
+   "company": "spacex",
+   "hours_open": 579.2,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
   }
  ],
  "count": 803,
- "updated_at": 1790539002
+ "updated_at": 1790540827
 }
