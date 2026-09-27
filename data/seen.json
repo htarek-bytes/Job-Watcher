@@ -1,5 +1,5 @@
 {
- "count": 6154,
+ "count": 6161,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -3278,6 +3278,7 @@
   "jobbank:entry level software developer:50335198": 1790100520,
   "jobbank:entry level software developer:50344770": 1790115654,
   "jobbank:entry level software developer:50353185": 1790314156,
+  "jobbank:entry level software developer:50354932": 1790535986,
   "jobbank:entry level software developer:50364353": 1790332184,
   "jobbank:entry level software developer:50370646": 1790399844,
   "jobbank:information systems analyst:49969689": 1788887337,
@@ -5969,6 +5970,7 @@
   "workday:psu.wd1/PSU_Staff:Cybersecurity-Assurance-Intern_REQ_0000081843-1": 1788442554,
   "workday:psu.wd1/PSU_Staff:Research-and-Development-Engineer-Intern_REQ_0000082128": 1788442554,
   "workday:psu.wd1/PSU_Staff:Systems-Administrator-Intern_REQ_0000082540-2": 1790270603,
+  "workday:psu.wd1/PSU_Staff:Systems-Engineer-Intern_REQ_0000082601-1": 1790535986,
   "workday:pwc.wd3/Global_Campus_Careers:Junior-Power-Apps-Developer_763454WD": 1790010082,
   "workday:pwc.wd3/Global_Campus_Careers:Power-Automate-Developer--Junior-Middle-_755171WD": 1788377835,
   "workday:pwc.wd3/US_Entry_Level_Careers:Tax-Innovation-Delivery-Experience--TIDE----Software-Engineering---Intern---Summer-2027_756410WD": 1788442554,
@@ -5997,6 +5999,11 @@
   "workday:repsol.wd3/Repsol:Reservoir-Engineer-Intern_83636-1": 1788474010,
   "workday:resmed.wd3/ResMed_External_Careers:Associate-Software-Engineer_JR_052316-1": 1790311773,
   "workday:resmed.wd3/ResMed_External_Careers:Associate-Software-Engineer_JR_053125": 1788377835,
+  "workday:rockwellautomation.wd1/External-Rockwell-Automation-Early-Careers:Co-op--AI-Software-Engineering--6-8-months-_R26-6982": 1790535986,
+  "workday:rockwellautomation.wd1/External-Rockwell-Automation-Early-Careers:Co-op--Technical-Sales--OTTO-by-Rockwell-Automation-_R26-6218": 1790535986,
+  "workday:rockwellautomation.wd1/External-Rockwell-Automation-Early-Careers:Intern--AI-Software-Engineering--June-August-2027-_R26-6980": 1790535986,
+  "workday:rockwellautomation.wd1/External-Rockwell-Automation-Early-Careers:Intern--Technical-Sales---Consulting--Canada-_R26-5965-1": 1790535986,
+  "workday:rockwellautomation.wd1/External-Rockwell-Automation-Early-Careers:Intern--Technical-Sales---Consulting--USA-_R26-5962-1": 1790535986,
   "workday:rockwellautomation.wd1/External_Rockwell_Automation:Co-op--AI-Software-Engineering--6-8-months-_R26-6982-1": 1790388104,
   "workday:rockwellautomation.wd1/External_Rockwell_Automation:Intern--AI-Software-Engineering--June-August-2027-_R26-6980-1": 1790388104,
   "workday:rockwellautomation.wd1/External_Rockwell_Automation:Intern--Technical-Sales---Consulting--Canada-_R26-5965-2": 1790041773,
@@ -6155,5 +6162,6 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Junior-Algorithm-Engineer_R19377": 1788377927,
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148,
   "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541": 1789106107
- }
+ },
+ "updated_at": 1790535987
 }

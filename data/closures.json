@@ -1,101 +1,17 @@
 {
  "closed": [
   {
-   "closed_at": 1790188909,
-   "company": "muonspace",
-   "hours_open": 500.7,
-   "title": "Software Engineer, Entry-Level",
-   "uid": "greenhouse:muonspace:5204498007"
-  },
-  {
-   "closed_at": 1790188909,
-   "company": "RTX",
-   "hours_open": 170.8,
-   "title": "Software Engineer 1",
-   "uid": "simplify:listings:289798f6-332d-4b16-b177-1466651e2548"
-  },
-  {
-   "closed_at": 1790188909,
-   "company": "spacex",
-   "hours_open": 480.0,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1790190016,
-   "company": "sharkninjaoperatingllc",
-   "hours_open": 475.1,
-   "title": "Associate Product Developer - Corded/Cordless",
-   "uid": "greenhouse:sharkninjaoperatingllc:4707165006"
-  },
-  {
-   "closed_at": 1790190016,
-   "company": "FIBROTEK MAT\u00c9RIAUX AVANC\u00c9S INC.",
-   "hours_open": 30.9,
-   "title": "mobile applications developer",
-   "uid": "jobbank:junior programmer:50286599"
-  },
-  {
-   "closed_at": 1790190016,
-   "company": "Amazon",
-   "hours_open": 168.7,
-   "title": "Software Development Engineer, Agentic AI, Velocity Labs",
-   "uid": "amazon:amazon:10545829"
-  },
-  {
-   "closed_at": 1790190016,
-   "company": "spacex",
-   "hours_open": 481.8,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1790190016,
-   "company": "spacex",
-   "hours_open": 482.0,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1790190182,
-   "company": "tapcart",
-   "hours_open": 474.9,
-   "title": "AI Ops Engineer - GTM",
-   "uid": "ashby:tapcart:a2be92a5-27fb-443b-93ba-08d53dd7ca09"
-  },
-  {
-   "closed_at": 1790190182,
-   "company": "notion",
-   "hours_open": 482.1,
-   "title": "Software Engineer, AI Platform",
-   "uid": "ashby:notion:a9d4a192-d31c-48d2-8156-e2a75d98eec1"
-  },
-  {
-   "closed_at": 1790190760,
-   "company": "CACI",
-   "hours_open": 518.9,
-   "title": "Junior Application Developer",
-   "uid": "simplify:listings:d8f01940-000a-4963-a53a-a8ecc213ca07"
-  },
-  {
    "closed_at": 1790196061,
-   "company": "trace3",
-   "hours_open": 286.6,
-   "title": "Software Engineer",
-   "uid": "greenhouse:trace3:8197955"
-  },
-  {
-   "closed_at": 1790196061,
-   "company": "Groupe Mario Cot\u00e9",
+   "company": "Groupe Mario Coté",
    "hours_open": 291.4,
-   "title": "Administrateur de r\u00e9seau",
+   "title": "Administrateur de réseau",
    "uid": "jobillico:analyste reseau:17520153"
   },
   {
    "closed_at": 1790196061,
    "company": "Logesco Informatique",
    "hours_open": 363.5,
-   "title": "Administrateur de r\u00e9seau",
+   "title": "Administrateur de réseau",
    "uid": "jobillico:analyste reseau:17188132"
   },
   {
@@ -130,7 +46,7 @@
    "closed_at": 1790196061,
    "company": "innodatainc",
    "hours_open": 401.6,
-   "title": "Robotics Solutions Engineer \u2013 Robotics Data Collection & Physical AI",
+   "title": "Robotics Solutions Engineer – Robotics Data Collection & Physical AI",
    "uid": "greenhouse:innodatainc:4282301009"
   },
   {
@@ -170,9 +86,9 @@
   },
   {
    "closed_at": 1790196061,
-   "company": "General Dynamics Produits de d\u00e9fense et Syst\u00e8mes Tactiques",
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
    "hours_open": 363.5,
-   "title": "Administrateur R\u00e9seau TI",
+   "title": "Administrateur Réseau TI",
    "uid": "jobillico:analyste reseau:17386419"
   },
   {
@@ -207,7 +123,7 @@
    "closed_at": 1790200201,
    "company": "AECOM",
    "hours_open": 11.9,
-   "title": "Entry-Level Engineer - Water - Hiring Event with AECOM \u2013 Boston, MA",
+   "title": "Entry-Level Engineer - Water - Hiring Event with AECOM – Boston, MA",
    "uid": "smartrecruiters:AECOM2:744000151151559"
   },
   {
@@ -221,7 +137,7 @@
    "closed_at": 1790200201,
    "company": "thinkahead",
    "hours_open": 108.8,
-   "title": "SIEM and Data Management Engineer \u2013 Managed Security",
+   "title": "SIEM and Data Management Engineer – Managed Security",
    "uid": "lever:thinkahead:c3ad8a46-695d-426d-beb4-aa58fefd0fc4"
   },
   {
@@ -431,7 +347,7 @@
    "closed_at": 1790205166,
    "company": "bpinternational",
    "hours_open": 491.6,
-   "title": "Summer Internship - Wells Engineer \u2013 Houston, TX",
+   "title": "Summer Internship - Wells Engineer – Houston, TX",
    "uid": "workday:bpinternational.wd3/bpEarlyCareers:Summer-Intern---Wells-Engineer---Houston--TX_RQ114709-1"
   },
   {
@@ -522,7 +438,7 @@
    "closed_at": 1790209733,
    "company": "globalhr",
    "hours_open": 9.7,
-   "title": "Stage - Hiver 2027 - D\u00e9veloppeur de simulation de syst\u00e8mes de contr\u00f4le moteur / Internship - Winter 2027 - Engine Control System Simulation Developer",
+   "title": "Stage - Hiver 2027 - Développeur de simulation de systèmes de contrôle moteur / Internship - Winter 2027 - Engine Control System Simulation Developer",
    "uid": "workday:globalhr.wd5/rec_rtx_ext_gateway:Stage---Hiver-2027---Dveloppeur-de-simulation-de-systmes-de-contrle-moteur---Internship---Winter-2027---Engine-Control-System-Simulation-Developer_01876605"
   },
   {
@@ -809,7 +725,7 @@
    "closed_at": 1790224745,
    "company": "thehartford",
    "hours_open": 352.8,
-   "title": "Tech & Data Program Summer 2027 \u2013 Data Engineer Intern (Hartford)",
+   "title": "Tech & Data Program Summer 2027 – Data Engineer Intern (Hartford)",
    "uid": "workday:thehartford.wd5/Careers_External:Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Hartford-_R2626103-1"
   },
   {
@@ -863,7 +779,7 @@
   },
   {
    "closed_at": 1790232147,
-   "company": "FIBROTEK MAT\u00c9RIAUX AVANC\u00c9S INC.",
+   "company": "FIBROTEK MATÉRIAUX AVANCÉS INC.",
    "hours_open": 224.2,
    "title": "mobile applications developer",
    "uid": "jobbank:developpeur junior:50286599"
@@ -900,7 +816,7 @@
    "closed_at": 1790244142,
    "company": "Bosch Group",
    "hours_open": 24.1,
-   "title": "Sales Engineer - H\u00e4gglunds",
+   "title": "Sales Engineer - Hägglunds",
    "uid": "smartrecruiters:BoschGroup:744000151150254"
   },
   {
@@ -935,7 +851,7 @@
    "closed_at": 1790245109,
    "company": "Renesas Electronics",
    "hours_open": 140.4,
-   "title": "Design Verification Engineer\uff08SoC\u6a5f\u80fd\u691c\u8a3c\u30a8\u30f3\u30b8\u30cb\u30a2\uff09(1)",
+   "title": "Design Verification Engineer（SoC機能検証エンジニア）(1)",
    "uid": "smartrecruiters:RenesasElectronics:744000150277759"
   },
   {
@@ -1031,7 +947,7 @@
   },
   {
    "closed_at": 1790259920,
-   "company": "FIBROTEK MAT\u00c9RIAUX AVANC\u00c9S INC.",
+   "company": "FIBROTEK MATÉRIAUX AVANCÉS INC.",
    "hours_open": 50.3,
    "title": "mobile applications developer",
    "uid": "jobbank:junior programmer:50286599"
@@ -1047,7 +963,7 @@
    "closed_at": 1790259920,
    "company": "Cooptel",
    "hours_open": 381.3,
-   "title": "Administrateur r\u00e9seau",
+   "title": "Administrateur réseau",
    "uid": "jobillico:analyste reseau:17185045"
   },
   {
@@ -1152,7 +1068,7 @@
    "closed_at": 1790259920,
    "company": "blueskyinnovators",
    "hours_open": 520.4,
-   "title": "Entry-Level Engineer \u2013 Anti-Tamper (AT) Support, TS/SCI",
+   "title": "Entry-Level Engineer – Anti-Tamper (AT) Support, TS/SCI",
    "uid": "greenhouse:blueskyinnovators:5210882008"
   },
   {
@@ -1201,7 +1117,7 @@
    "closed_at": 1790263026,
    "company": "gevernova",
    "hours_open": 14.8,
-   "title": "D\u00e9veloppeur de logiciels embarqu\u00e9s pour \u00e9l\u00e9ments de protection  F/H - Protection Element Embedded SW Developer-1",
+   "title": "Développeur de logiciels embarqués pour éléments de protection  F/H - Protection Element Embedded SW Developer-1",
    "uid": "workday:gevernova.wd5/only_confidential_executive_recruiting:Dveloppeur-de-logiciels-embarqus-pour-lments-de-protection--F-H---Protection-Element-Embedded-SW-Developer-1_R5053315-1"
   },
   {
@@ -1236,7 +1152,7 @@
    "closed_at": 1790263026,
    "company": "gehc",
    "hours_open": 47.5,
-   "title": "Full-Stack Software Engineering Intern \u2013 MIM Commercialized Web Applications",
+   "title": "Full-Stack Software Engineering Intern – MIM Commercialized Web Applications",
    "uid": "workday:gehc.wd5/GEHC_ExternalSite:Full-Stack-Software-Engineering-Intern---MIM-Commercialized-Web-Applications_R4046583-1"
   },
   {
@@ -1278,7 +1194,7 @@
    "closed_at": 1790263709,
    "company": "ngc",
    "hours_open": 23.9,
-   "title": "2027 Software Engineer Intern \u2013 Woodland Hills CA",
+   "title": "2027 Software Engineer Intern – Woodland Hills CA",
    "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Software-Engineer-Intern---Woodland-Hills-CA_R10249359"
   },
   {
@@ -1334,7 +1250,7 @@
    "closed_at": 1790270603,
    "company": "philips",
    "hours_open": 197.4,
-   "title": "Intern \u2013 New Product Development Engineer \u2013 Colorado Springs, CO \u2013 Summer 2027",
+   "title": "Intern – New Product Development Engineer – Colorado Springs, CO – Summer 2027",
    "uid": "workday:philips.wd3/jobs-and-careers:Intern---New-Product-Development-Engineer---Colorado-Springs--CO---Summer-2027_591779"
   },
   {
@@ -1663,7 +1579,7 @@
    "closed_at": 1790282422,
    "company": "General Motors",
    "hours_open": 544.3,
-   "title": "Software Engineer \u2013 Early Career - Autonomous Vehicles Software Systems",
+   "title": "Software Engineer – Early Career - Autonomous Vehicles Software Systems",
    "uid": "simplify:listings:7f07b83f-6b6f-4722-9fc9-391681b0c844"
   },
   {
@@ -1887,7 +1803,7 @@
    "closed_at": 1790289837,
    "company": "Cooptel",
    "hours_open": 389.6,
-   "title": "Administrateur r\u00e9seau",
+   "title": "Administrateur réseau",
    "uid": "jobillico:analyste reseau:17185045"
   },
   {
@@ -1915,7 +1831,7 @@
    "closed_at": 1790292621,
    "company": "ag",
    "hours_open": 25.2,
-   "title": "Junior Engineer Structural Analysis (d/m/w) \u2013 A400M Fuselage",
+   "title": "Junior Engineer Structural Analysis (d/m/w) – A400M Fuselage",
    "uid": "workday:ag.wd3/Airbus:Junior-Engineer-Structural-Analysis--d-m-w----A400M-Fuselage_JR10436284"
   },
   {
@@ -2286,7 +2202,7 @@
    "closed_at": 1790311773,
    "company": "thehartford",
    "hours_open": 376.9,
-   "title": "Tech & Data Program Summer 2027 \u2013 Data Engineer Intern (Charlotte)",
+   "title": "Tech & Data Program Summer 2027 – Data Engineer Intern (Charlotte)",
    "uid": "workday:thehartford.wd5/Careers_External:Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Charlotte-_R2626648"
   },
   {
@@ -2545,7 +2461,7 @@
    "closed_at": 1790340300,
    "company": "Cooptel",
    "hours_open": 403.6,
-   "title": "Administrateur r\u00e9seau",
+   "title": "Administrateur réseau",
    "uid": "jobillico:analyste reseau:17185045"
   },
   {
@@ -2608,7 +2524,7 @@
    "closed_at": 1790347721,
    "company": "barr",
    "hours_open": 97.6,
-   "title": "Internship \u2013 Water Resources Engineer (Hybrid)",
+   "title": "Internship – Water Resources Engineer (Hybrid)",
    "uid": "workday:barr.wd1/barrcareers:Internship---Water-Resources-Engineer--Hybrid-_R-102303"
   },
   {
@@ -2671,7 +2587,7 @@
    "closed_at": 1790348521,
    "company": "Cooptel",
    "hours_open": 405.9,
-   "title": "Administrateur r\u00e9seau",
+   "title": "Administrateur réseau",
    "uid": "jobillico:analyste reseau:17185045"
   },
   {
@@ -2685,7 +2601,7 @@
    "closed_at": 1790348521,
    "company": "caci",
    "hours_open": 380.3,
-   "title": "Software Engineering Intern \u2013 Summer 2027",
+   "title": "Software Engineering Intern – Summer 2027",
    "uid": "workday:caci.wd1/external:Software-Engineering-Intern---Summer-2027_331742"
   },
   {
@@ -2776,7 +2692,7 @@
    "closed_at": 1790351918,
    "company": "Cooptel",
    "hours_open": 406.8,
-   "title": "Administrateur r\u00e9seau",
+   "title": "Administrateur réseau",
    "uid": "jobillico:analyste reseau:17185045"
   },
   {
@@ -2804,7 +2720,7 @@
    "closed_at": 1790351918,
    "company": "intactfc",
    "hours_open": 48.9,
-   "title": "Test Automation Developer \u2013 4 months Internship/Coop (Winter 2027)\u202f",
+   "title": "Test Automation Developer – 4 months Internship/Coop (Winter 2027) ",
    "uid": "workday:intactfc.wd3/intactfc:Test-Automation-Developer---4-months-Internship-Coop--Winter-2027--_R155565"
   },
   {
@@ -2916,7 +2832,7 @@
    "closed_at": 1790357765,
    "company": "philips",
    "hours_open": 87.8,
-   "title": "Intern \u2013 Medical Imaging Software Engineering, IVUS \u2013 Plymouth, MN \u2013 Summer 2027",
+   "title": "Intern – Medical Imaging Software Engineering, IVUS – Plymouth, MN – Summer 2027",
    "uid": "workday:philips.wd3/jobs-and-careers:Intern---Software-Engineering---Plymouth--MN---Summer-2027_590403"
   },
   {
@@ -3021,7 +2937,7 @@
    "closed_at": 1790362723,
    "company": "talentmanagementsolution",
    "hours_open": 445.0,
-   "title": "Sales Solutions Consultant \u2013 Account Management",
+   "title": "Sales Solutions Consultant – Account Management",
    "uid": "workday:talentmanagementsolution.wd3/perseus-careers:Sales-Solutions-Consultant---Account-Management_R52865"
   },
   {
@@ -3245,7 +3161,7 @@
    "closed_at": 1790369185,
    "company": "Cooptel",
    "hours_open": 411.6,
-   "title": "Administrateur r\u00e9seau",
+   "title": "Administrateur réseau",
    "uid": "jobillico:analyste reseau:17185045"
   },
   {
@@ -3357,7 +3273,7 @@
    "closed_at": 1790375314,
    "company": "EXFO inc",
    "hours_open": 545.9,
-   "title": "Stagiaire ing\u00e9nieur logiciel / Software Engineer Intern",
+   "title": "Stagiaire ingénieur logiciel / Software Engineer Intern",
    "uid": "jobillico:software developer:17462697"
   },
   {
@@ -3371,7 +3287,7 @@
    "closed_at": 1790375314,
    "company": "Cooptel",
    "hours_open": 413.3,
-   "title": "Administrateur r\u00e9seau",
+   "title": "Administrateur réseau",
    "uid": "jobillico:analyste reseau:17185045"
   },
   {
@@ -3539,7 +3455,7 @@
    "closed_at": 1790379536,
    "company": "Cooptel",
    "hours_open": 414.5,
-   "title": "Administrateur r\u00e9seau",
+   "title": "Administrateur réseau",
    "uid": "jobillico:analyste reseau:17185045"
   },
   {
@@ -3637,7 +3553,7 @@
    "closed_at": 1790383779,
    "company": "Cooptel",
    "hours_open": 415.7,
-   "title": "Administrateur r\u00e9seau",
+   "title": "Administrateur réseau",
    "uid": "jobillico:analyste reseau:17185045"
   },
   {
@@ -3686,7 +3602,7 @@
    "closed_at": 1790384195,
    "company": "globalhr",
    "hours_open": 242.7,
-   "title": "Internship \u2013 Raytheon Systems Security Engineer -Onsite",
+   "title": "Internship – Raytheon Systems Security Engineer -Onsite",
    "uid": "workday:globalhr.wd5/rec_rtx_ext_gateway:Internship---Raytheon-Systems-Security-Engineer--Onsite_01874702"
   },
   {
@@ -3735,7 +3651,7 @@
    "closed_at": 1790386984,
    "company": "Cooptel",
    "hours_open": 416.6,
-   "title": "Administrateur r\u00e9seau",
+   "title": "Administrateur réseau",
    "uid": "jobillico:analyste reseau:17185045"
   },
   {
@@ -3973,7 +3889,7 @@
    "closed_at": 1790402075,
    "company": "Cooptel",
    "hours_open": 420.8,
-   "title": "Administrateur r\u00e9seau",
+   "title": "Administrateur réseau",
    "uid": "jobillico:analyste reseau:17185045"
   },
   {
@@ -3987,7 +3903,7 @@
    "closed_at": 1790408162,
    "company": "Cooptel",
    "hours_open": 422.5,
-   "title": "Administrateur r\u00e9seau",
+   "title": "Administrateur réseau",
    "uid": "jobillico:analyste reseau:17185045"
   },
   {
@@ -4008,7 +3924,7 @@
    "closed_at": 1790423533,
    "company": "Citadel",
    "hours_open": 583.5,
-   "title": "Software Engineer \u2013 University Graduate",
+   "title": "Software Engineer – University Graduate",
    "uid": "simplify:listings:410b28b6-b357-4b72-9480-bad83701b4cb"
   },
   {
@@ -4022,7 +3938,7 @@
    "closed_at": 1790431472,
    "company": "Cooptel",
    "hours_open": 428.9,
-   "title": "Administrateur r\u00e9seau",
+   "title": "Administrateur réseau",
    "uid": "jobillico:analyste reseau:17185045"
   },
   {
@@ -4092,7 +4008,7 @@
    "closed_at": 1790433946,
    "company": "intactfc",
    "hours_open": 71.7,
-   "title": "AI Developer \u2013 4-Month Internship/Co-op (Winter 2027)\u202f",
+   "title": "AI Developer – 4-Month Internship/Co-op (Winter 2027) ",
    "uid": "workday:intactfc.wd3/intactfc:AI-Developer---4-Month-Internship-Co-op--Winter-2027--_R155234"
   },
   {
@@ -4141,7 +4057,7 @@
    "closed_at": 1790437287,
    "company": "Cooptel",
    "hours_open": 430.5,
-   "title": "Administrateur r\u00e9seau",
+   "title": "Administrateur réseau",
    "uid": "jobillico:analyste reseau:17185045"
   },
   {
@@ -4211,7 +4127,7 @@
    "closed_at": 1790444688,
    "company": "Cooptel",
    "hours_open": 432.6,
-   "title": "Administrateur r\u00e9seau",
+   "title": "Administrateur réseau",
    "uid": "jobillico:analyste reseau:17185045"
   },
   {
@@ -4225,7 +4141,7 @@
    "closed_at": 1790445941,
    "company": "Cooptel",
    "hours_open": 432.9,
-   "title": "Administrateur r\u00e9seau",
+   "title": "Administrateur réseau",
    "uid": "jobillico:analyste reseau:17185045"
   },
   {
@@ -4316,14 +4232,14 @@
    "closed_at": 1790458745,
    "company": "Cooptel",
    "hours_open": 436.5,
-   "title": "Administrateur r\u00e9seau",
+   "title": "Administrateur réseau",
    "uid": "jobillico:analyste reseau:17185045"
   },
   {
    "closed_at": 1790460624,
    "company": "abb",
    "hours_open": 475.1,
-   "title": "Sales Engineer \u2013 Service Division",
+   "title": "Sales Engineer – Service Division",
    "uid": "workday:abb.wd3/external_career_page:Service-Sales-specialist_JR00003209"
   },
   {
@@ -4372,7 +4288,7 @@
    "closed_at": 1790465654,
    "company": "Cooptel",
    "hours_open": 438.4,
-   "title": "Administrateur r\u00e9seau",
+   "title": "Administrateur réseau",
    "uid": "jobillico:analyste reseau:17185045"
   },
   {
@@ -4393,7 +4309,7 @@
    "closed_at": 1790465759,
    "company": "Cooptel",
    "hours_open": 438.5,
-   "title": "Administrateur r\u00e9seau",
+   "title": "Administrateur réseau",
    "uid": "jobillico:analyste reseau:17185045"
   },
   {
@@ -4874,7 +4790,7 @@
   },
   {
    "closed_at": 1790485380,
-   "company": "FIBROTEK MAT\u00c9RIAUX AVANC\u00c9S INC.",
+   "company": "FIBROTEK MATÉRIAUX AVANCÉS INC.",
    "hours_open": 294.6,
    "title": "mobile applications developer",
    "uid": "jobbank:developpeur junior:50286599"
@@ -5415,7 +5331,7 @@
    "closed_at": 1790485380,
    "company": "Cooptel",
    "hours_open": 443.9,
-   "title": "Administrateur r\u00e9seau",
+   "title": "Administrateur réseau",
    "uid": "jobillico:analyste reseau:17185045"
   },
   {
@@ -5450,7 +5366,7 @@
    "closed_at": 1790489648,
    "company": "Cooptel",
    "hours_open": 445.1,
-   "title": "Administrateur r\u00e9seau",
+   "title": "Administrateur réseau",
    "uid": "jobillico:analyste reseau:17185045"
   },
   {
@@ -5499,7 +5415,7 @@
    "closed_at": 1790505187,
    "company": "Cooptel",
    "hours_open": 449.4,
-   "title": "Administrateur r\u00e9seau",
+   "title": "Administrateur réseau",
    "uid": "jobillico:analyste reseau:17185045"
   },
   {
@@ -5613,6 +5529,78 @@
    "hours_open": 474.8,
    "title": "Autonomy Algorithms Software Engineer",
    "uid": "greenhouse:systemstechnologyresearch:4704682006"
+  },
+  {
+   "closed_at": 1790535986,
+   "company": "radiancetech",
+   "hours_open": 97.6,
+   "title": "Junior Software Engineer",
+   "uid": "workday:radiancetech.wd12/Radiance_External:Junior-Software-Engineer_HR102428"
+  },
+  {
+   "closed_at": 1790535986,
+   "company": "rockwellautomation",
+   "hours_open": 137.3,
+   "title": "Intern, Technical Sales & Consulting (USA)",
+   "uid": "workday:rockwellautomation.wd1/External_Rockwell_Automation:Intern--Technical-Sales---Consulting--USA-_R26-5962-2"
+  },
+  {
+   "closed_at": 1790535986,
+   "company": "rockwellautomation",
+   "hours_open": 137.3,
+   "title": "Intern, Technical Sales & Consulting (Canada)",
+   "uid": "workday:rockwellautomation.wd1/External_Rockwell_Automation:Intern--Technical-Sales---Consulting--Canada-_R26-5965-2"
+  },
+  {
+   "closed_at": 1790535986,
+   "company": "rockwellautomation",
+   "hours_open": 41.1,
+   "title": "Intern, AI Software Engineering (June-August 2027)",
+   "uid": "workday:rockwellautomation.wd1/External_Rockwell_Automation:Intern--AI-Software-Engineering--June-August-2027-_R26-6980-1"
+  },
+  {
+   "closed_at": 1790535986,
+   "company": "rockwellautomation",
+   "hours_open": 41.1,
+   "title": "Co-op, AI Software Engineering (6-8 months)",
+   "uid": "workday:rockwellautomation.wd1/External_Rockwell_Automation:Co-op--AI-Software-Engineering--6-8-months-_R26-6982-1"
+  },
+  {
+   "closed_at": 1790535986,
+   "company": "Maarut",
+   "hours_open": 61.6,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50363075"
+  },
+  {
+   "closed_at": 1790535986,
+   "company": "Source Code",
+   "hours_open": 108.2,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50347574"
+  },
+  {
+   "closed_at": 1790535986,
+   "company": "spacex",
+   "hours_open": 575.2,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1790535986,
+   "company": "spacex",
+   "hours_open": 577.9,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1790535986,
+   "company": "Groupe DCM",
+   "hours_open": 230.2,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534679"
   }
- ]
+ ],
+ "count": 812,
+ "updated_at": 1790535988
 }
