@@ -2,13 +2,6 @@
  "closed": [
   {
    "closed_at": 1790201317,
-   "company": "Tyson Foods",
-   "hours_open": 30.6,
-   "title": "Data Engineer 1",
-   "uid": "simplify:listings:d50d1577-1658-457d-a65f-f577f9996936"
-  },
-  {
-   "closed_at": 1790201317,
    "company": "Agari Kitchen",
    "hours_open": 319.1,
    "title": "electronics engineer",
@@ -5599,8 +5592,15 @@
    "hours_open": 581.1,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1790549211,
+   "company": "Cooptel",
+   "hours_open": 461.6,
+   "title": "Administrateur réseau",
+   "uid": "jobillico:analyste reseau:17185045"
   }
  ],
- "count": 804,
- "updated_at": 1790547722
+ "count": 801,
+ "updated_at": 1790549211
 }
