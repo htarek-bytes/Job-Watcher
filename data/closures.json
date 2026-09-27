@@ -2,27 +2,6 @@
  "closed": [
   {
    "closed_at": 1790177509,
-   "company": "twitch",
-   "hours_open": 478.6,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1790177509,
-   "company": "philips",
-   "hours_open": 473.5,
-   "title": "Software Engineer Intern",
-   "uid": "workday:philips.wd3/jobs-and-careers:Software-Engineer-Intern_588645-1"
-  },
-  {
-   "closed_at": 1790177509,
-   "company": "spacex",
-   "hours_open": 377.7,
-   "title": "Full Stack Software Engineer",
-   "uid": "greenhouse:spacex:8785505002"
-  },
-  {
-   "closed_at": 1790177509,
    "company": "spacex",
    "hours_open": 475.6,
    "title": "Security Software Engineer (Starlink)",
@@ -5599,8 +5578,29 @@
    "hours_open": 443.9,
    "title": "computer systems analyst",
    "uid": "jobbank:systems analyst:50064831"
+  },
+  {
+   "closed_at": 1790488160,
+   "company": "Johns Hopkins Applied Physics Laboratory",
+   "hours_open": 390.7,
+   "title": "Software Engineer New Grad - Multiple Teams",
+   "uid": "simplify:listings:9d7967bf-9168-4534-85c7-1b7cb6ebb568"
+  },
+  {
+   "closed_at": 1790488160,
+   "company": "spacex",
+   "hours_open": 561.9,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1790488160,
+   "company": "spacex",
+   "hours_open": 564.6,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
   }
  ],
- "count": 935,
- "updated_at": 1790485380
+ "count": 803,
+ "updated_at": 1790488160
 }
