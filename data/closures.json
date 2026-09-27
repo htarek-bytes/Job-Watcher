@@ -1,34 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1790200201,
-   "company": "tsmg",
-   "hours_open": 335.3,
-   "title": "Self-Driving Systems Specialist (SDS Specialist)",
-   "uid": "lever:tsmg:808bd8ff-da84-4fb7-b12d-a41246e56967"
-  },
-  {
-   "closed_at": 1790200201,
-   "company": "spacex",
-   "hours_open": 484.6,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1790200201,
-   "company": "spacex",
-   "hours_open": 483.2,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1790200201,
-   "company": "Amazon",
-   "hours_open": 150.7,
-   "title": "Software Development Engineer, Commerce Platform ADC, Team Mercury",
-   "uid": "amazon:amazon:10551902"
-  },
-  {
    "closed_at": 1790201317,
    "company": "Tyson Foods",
    "hours_open": 30.6,
@@ -5599,8 +5571,36 @@
    "hours_open": 140.4,
    "title": "hardware engineer",
    "uid": "jobbank:scada:50336012"
+  },
+  {
+   "closed_at": 1790547721,
+   "company": "Great Lakes Group",
+   "hours_open": 60.5,
+   "title": "hardware engineer",
+   "uid": "jobbank:scada:50336045"
+  },
+  {
+   "closed_at": 1790547721,
+   "company": "Groupe DCM",
+   "hours_open": 227.3,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534670"
+  },
+  {
+   "closed_at": 1790547721,
+   "company": "spacex",
+   "hours_open": 578.5,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1790547721,
+   "company": "spacex",
+   "hours_open": 581.1,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
   }
  ],
- "count": 807,
- "updated_at": 1790546945
+ "count": 804,
+ "updated_at": 1790547722
 }
