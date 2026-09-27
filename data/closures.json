@@ -1,13 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1790184571,
-   "company": "systemstechnologyresearch",
-   "hours_open": 360.3,
-   "title": "Autonomy Algorithms Software Engineer",
-   "uid": "greenhouse:systemstechnologyresearch:4704680006"
-  },
-  {
    "closed_at": 1790188909,
    "company": "Alt Informatique",
    "hours_open": 133.8,
@@ -5599,8 +5592,15 @@
    "hours_open": 450.9,
    "title": "network security administrator",
    "uid": "jobbank:network administrator:49613158"
+  },
+  {
+   "closed_at": 1790514216,
+   "company": "Groupe DCM",
+   "hours_open": 218.0,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534670"
   }
  ],
- "count": 805,
- "updated_at": 1790510698
+ "count": 801,
+ "updated_at": 1790514216
 }
