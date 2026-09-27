@@ -2,27 +2,6 @@
  "closed": [
   {
    "closed_at": 1790196061,
-   "company": "openai",
-   "hours_open": 483.7,
-   "title": "Data Engineer, People Innovation Labs",
-   "uid": "ashby:openai:579595e5-0b16-485e-b7c5-102fc7467def"
-  },
-  {
-   "closed_at": 1790196061,
-   "company": "Svab Insurance Inc.",
-   "hours_open": 363.5,
-   "title": "cloud administrator",
-   "uid": "jobbank:cloud administrator:50147703"
-  },
-  {
-   "closed_at": 1790196061,
-   "company": "NVIDIA",
-   "hours_open": 520.4,
-   "title": "Backend Compiler Engineer New Grad",
-   "uid": "simplify:listings:58e0500b-3577-4e69-9d43-b710f8155f10"
-  },
-  {
-   "closed_at": 1790196061,
    "company": "spacex",
    "hours_open": 483.7,
    "title": "Wireless Software Engineer (Starlink)",
@@ -5599,8 +5578,29 @@
    "hours_open": 578.3,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1790539001,
+   "company": "VILLE DE SAINTE-MARGUERITE-DU-LAC- MASSON",
+   "hours_open": 53.1,
+   "title": "network infrastructure engineer",
+   "uid": "jobbank:specialiste infrastructure:50365083"
+  },
+  {
+   "closed_at": 1790539001,
+   "company": "Groupe DCM",
+   "hours_open": 231.0,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534679"
+  },
+  {
+   "closed_at": 1790539001,
+   "company": "dexmate",
+   "hours_open": 571.9,
+   "title": "Frontend Engineer Intern",
+   "uid": "ashby:dexmate:eac26b6f-1a53-441f-8e52-ee0a0b1bc119"
   }
  ],
- "count": 807,
- "updated_at": 1790536524
+ "count": 803,
+ "updated_at": 1790539002
 }
