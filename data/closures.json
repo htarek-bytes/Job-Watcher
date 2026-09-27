@@ -1,41 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1790117695,
-   "company": "adobe",
-   "hours_open": 467.3,
-   "title": "2027 Intern - Machine Learning Engineer",
-   "uid": "workday:adobe.wd5/external_experienced:XMLNAME-2027-Intern---Machine-Learning-Engineer_R171519"
-  },
-  {
-   "closed_at": 1790117695,
-   "company": "spacex",
-   "hours_open": 462.0,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1790117695,
-   "company": "spacex",
-   "hours_open": 461.7,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1790117695,
-   "company": "spacex",
-   "hours_open": 462.0,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1790117695,
-   "company": "SciTec",
-   "hours_open": 184.2,
-   "title": "Application Security Engineer",
-   "uid": "workable:scitec:F09ABB200B"
-  },
-  {
    "closed_at": 1790120419,
    "company": "bmo",
    "hours_open": 22.7,
@@ -5599,8 +5564,43 @@
    "hours_open": 439.8,
    "title": "computer systems analyst",
    "uid": "jobbank:systems analyst:50064831"
+  },
+  {
+   "closed_at": 1790473635,
+   "company": "swa",
+   "hours_open": 80.3,
+   "title": "Associate Software Engineer - Direct College Hire",
+   "uid": "workday:swa.wd1/external:Associate-Software-Engineer---Direct-College-Hire_R-2026-72886"
+  },
+  {
+   "closed_at": 1790473635,
+   "company": "General Motors",
+   "hours_open": 597.5,
+   "title": "Entry Level Software Design Release Engineer",
+   "uid": "simplify:listings:251dd790-b5bc-48d9-ab3e-9deb38e21b46"
+  },
+  {
+   "closed_at": 1790473635,
+   "company": "Lakeland Roman Catholic Separate School Division",
+   "hours_open": 192.5,
+   "title": "computer systems analyst",
+   "uid": "jobbank:analyste de systemes:50064831"
+  },
+  {
+   "closed_at": 1790473635,
+   "company": "spacex",
+   "hours_open": 560.8,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1790473635,
+   "company": "spacex",
+   "hours_open": 560.8,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
   }
  ],
- "count": 804,
- "updated_at": 1790470687
+ "count": 805,
+ "updated_at": 1790473635
 }
