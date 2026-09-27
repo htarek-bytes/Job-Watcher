@@ -2,55 +2,6 @@
  "closed": [
   {
    "closed_at": 1790196061,
-   "company": "Groupe Mario Coté",
-   "hours_open": 291.4,
-   "title": "Administrateur de réseau",
-   "uid": "jobillico:analyste reseau:17520153"
-  },
-  {
-   "closed_at": 1790196061,
-   "company": "Logesco Informatique",
-   "hours_open": 363.5,
-   "title": "Administrateur de réseau",
-   "uid": "jobillico:analyste reseau:17188132"
-  },
-  {
-   "closed_at": 1790196061,
-   "company": "Le groupe Desfor",
-   "hours_open": 363.5,
-   "title": "Technicien informatique",
-   "uid": "jobillico:technicien informatique:10592761"
-  },
-  {
-   "closed_at": 1790196061,
-   "company": "Amazon",
-   "hours_open": 214.2,
-   "title": "Software Development Engineer, Catalog System Services - SPCL ",
-   "uid": "amazon:amazon:10539357"
-  },
-  {
-   "closed_at": 1790196061,
-   "company": "transmarketgroup",
-   "hours_open": 491.6,
-   "title": "Software Engineering Intern",
-   "uid": "greenhouse:transmarketgroup:5212335007"
-  },
-  {
-   "closed_at": 1790196061,
-   "company": "impact",
-   "hours_open": 483.7,
-   "title": "Site Reliability Engineer",
-   "uid": "greenhouse:impact:8545895002"
-  },
-  {
-   "closed_at": 1790196061,
-   "company": "innodatainc",
-   "hours_open": 401.6,
-   "title": "Robotics Solutions Engineer – Robotics Data Collection & Physical AI",
-   "uid": "greenhouse:innodatainc:4282301009"
-  },
-  {
-   "closed_at": 1790196061,
    "company": "openai",
    "hours_open": 483.7,
    "title": "Data Engineer, People Innovation Labs",
@@ -5599,8 +5550,57 @@
    "hours_open": 230.2,
    "title": "Programmeur CNC / CNC Programmer",
    "uid": "jobillico:programmeur junior:17534679"
+  },
+  {
+   "closed_at": 1790536524,
+   "company": "td",
+   "hours_open": 144.5,
+   "title": "Software Engineer I",
+   "uid": "workday:td.wd3/TD_Bank_Careers:Software-Engineer-I_R_1508757"
+  },
+  {
+   "closed_at": 1790536524,
+   "company": "Great Lakes Group",
+   "hours_open": 137.5,
+   "title": "hardware engineer",
+   "uid": "jobbank:scada:50336012"
+  },
+  {
+   "closed_at": 1790536524,
+   "company": "Groupe DCM",
+   "hours_open": 224.2,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534670"
+  },
+  {
+   "closed_at": 1790536524,
+   "company": "Maarut",
+   "hours_open": 0.1,
+   "title": "software developer",
+   "uid": "jobbank:entry level software developer:50354932"
+  },
+  {
+   "closed_at": 1790536524,
+   "company": "Source Code",
+   "hours_open": 61.8,
+   "title": "software developer",
+   "uid": "jobbank:entry level software developer:50353185"
+  },
+  {
+   "closed_at": 1790536524,
+   "company": "spacex",
+   "hours_open": 578.3,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1790536524,
+   "company": "spacex",
+   "hours_open": 578.3,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
   }
  ],
- "count": 812,
- "updated_at": 1790535988
+ "count": 807,
+ "updated_at": 1790536524
 }
