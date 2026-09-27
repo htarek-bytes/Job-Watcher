@@ -2,13 +2,6 @@
  "closed": [
   {
    "closed_at": 1790188909,
-   "company": "Alt Informatique",
-   "hours_open": 133.8,
-   "title": "Technicien informatique junior",
-   "uid": "jobillico:technicien informatique:17381391"
-  },
-  {
-   "closed_at": 1790188909,
    "company": "Groupe DCM",
    "hours_open": 133.8,
    "title": "Programmeur CNC / CNC Programmer",
@@ -5599,8 +5592,15 @@
    "hours_open": 218.0,
    "title": "Programmeur CNC / CNC Programmer",
    "uid": "jobillico:programmeur junior:17534670"
+  },
+  {
+   "closed_at": 1790523115,
+   "company": "ffive",
+   "hours_open": 110.7,
+   "title": "Software Engineer I",
+   "uid": "workday:ffive.wd5/f5jobs:Software-Engineer-I_RP1038827-1"
   }
  ],
- "count": 800,
- "updated_at": 1790522306
+ "count": 801,
+ "updated_at": 1790523115
 }
