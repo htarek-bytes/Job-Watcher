@@ -2,41 +2,6 @@
  "closed": [
   {
    "closed_at": 1790188909,
-   "company": "Groupe DCM",
-   "hours_open": 133.8,
-   "title": "Programmeur CNC / CNC Programmer",
-   "uid": "jobillico:programmeur junior:17534679"
-  },
-  {
-   "closed_at": 1790188909,
-   "company": "twitch",
-   "hours_open": 478.8,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1790188909,
-   "company": "lgelectronics",
-   "hours_open": 480.0,
-   "title": "Embodied AI Engineer",
-   "uid": "greenhouse:lgelectronics:5369133008"
-  },
-  {
-   "closed_at": 1790188909,
-   "company": "systemstechnologyresearch",
-   "hours_open": 172.3,
-   "title": "Cleared Systems Administrator",
-   "uid": "greenhouse:systemstechnologyresearch:4713796006"
-  },
-  {
-   "closed_at": 1790188909,
-   "company": "spacex",
-   "hours_open": 481.7,
-   "title": "Aviation Development Engineer, Networking (Starlink) ",
-   "uid": "greenhouse:spacex:8731929002"
-  },
-  {
-   "closed_at": 1790188909,
    "company": "spacex",
    "hours_open": 478.8,
    "title": "Security Software Engineer (Starlink)",
@@ -5599,8 +5564,43 @@
    "hours_open": 110.7,
    "title": "Software Engineer I",
    "uid": "workday:ffive.wd5/f5jobs:Software-Engineer-I_RP1038827-1"
+  },
+  {
+   "closed_at": 1790528084,
+   "company": "gevernova",
+   "hours_open": 120.0,
+   "title": "Engineering Intern - Power Conversion & Storage AI Tool Developer  2027",
+   "uid": "workday:gevernova.wd5/vernova_externalsite:Engineering-Intern---Power-Conversion---Storage-AI-Tool-Developer--2027_R5049957-2"
+  },
+  {
+   "closed_at": 1790528084,
+   "company": "iberdrola",
+   "hours_open": 282.3,
+   "title": "Associate Engineer - Distribution Planning",
+   "uid": "workday:iberdrola.wd3/iberdrola:Associate-Engineer---Distribution-Planning_R-29801"
+  },
+  {
+   "closed_at": 1790528084,
+   "company": "kla",
+   "hours_open": 323.8,
+   "title": "Software Engineering Intern",
+   "uid": "workday:kla.wd1/annarbor:Software-Engineering-Intern_2531653"
+  },
+  {
+   "closed_at": 1790528084,
+   "company": "spacex",
+   "hours_open": 576.0,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1790528084,
+   "company": "spacex",
+   "hours_open": 576.0,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
   }
  ],
- "count": 801,
- "updated_at": 1790523115
+ "count": 805,
+ "updated_at": 1790528084
 }
