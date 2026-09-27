@@ -2,41 +2,6 @@
  "closed": [
   {
    "closed_at": 1790184571,
-   "company": "CesiumAstro",
-   "hours_open": 469.1,
-   "title": "FPGA Engineer 1",
-   "uid": "simplify:listings:74f8cdd1-ec7b-4441-a2a4-3d02ef77418a"
-  },
-  {
-   "closed_at": 1790184571,
-   "company": "PayIt",
-   "hours_open": 517.2,
-   "title": "Associate Software Engineer",
-   "uid": "simplify:listings:896a2ce6-0e75-40f5-9b7e-811079dfe6bb"
-  },
-  {
-   "closed_at": 1790184571,
-   "company": "Amazon",
-   "hours_open": 23.3,
-   "title": "Software Development Engineer, Conversational Ads Experience",
-   "uid": "amazon:amazon:10554916"
-  },
-  {
-   "closed_at": 1790184571,
-   "company": "Amazon",
-   "hours_open": 167.2,
-   "title": "Software Development Engineer, Amazon DSP, Amazon Ad Exchange",
-   "uid": "amazon:amazon:10547074"
-  },
-  {
-   "closed_at": 1790184571,
-   "company": "spacex",
-   "hours_open": 480.5,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1790184571,
    "company": "systemstechnologyresearch",
    "hours_open": 360.3,
    "title": "Autonomy Algorithms Software Engineer",
@@ -5599,8 +5564,43 @@
    "hours_open": 449.4,
    "title": "Administrateur réseau",
    "uid": "jobillico:analyste reseau:17185045"
+  },
+  {
+   "closed_at": 1790510698,
+   "company": "VILLE DE SAINTE-MARGUERITE-DU-LAC- MASSON",
+   "hours_open": 45.3,
+   "title": "network infrastructure engineer",
+   "uid": "jobbank:specialiste infrastructure:50365083"
+  },
+  {
+   "closed_at": 1790510698,
+   "company": "Great Lakes Group",
+   "hours_open": 50.2,
+   "title": "hardware engineer",
+   "uid": "jobbank:scada:50336045"
+  },
+  {
+   "closed_at": 1790510698,
+   "company": "Arora Enterprise Inc",
+   "hours_open": 376.2,
+   "title": "Web developer",
+   "uid": "jobbank:developpeur junior:50266457"
+  },
+  {
+   "closed_at": 1790510698,
+   "company": "Kraft Berger LLP",
+   "hours_open": 450.9,
+   "title": "network administrator",
+   "uid": "jobbank:network administrator:49654254"
+  },
+  {
+   "closed_at": 1790510698,
+   "company": "Study 2020 Consulting INC",
+   "hours_open": 450.9,
+   "title": "network security administrator",
+   "uid": "jobbank:network administrator:49613158"
   }
  ],
- "count": 800,
- "updated_at": 1790506405
+ "count": 805,
+ "updated_at": 1790510698
 }
