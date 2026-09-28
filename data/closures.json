@@ -1,48 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1790201965,
-   "company": "adobe",
-   "hours_open": 23.4,
-   "title": "2027 University Graduate - AI Forward Deployed Engineer",
-   "uid": "workday:adobe.wd5/external_experienced:XMLNAME-2027-University-Graduate---AI-Forward-Deployed-Engineer_R172018"
-  },
-  {
-   "closed_at": 1790201965,
-   "company": "SciTec",
-   "hours_open": 46.7,
-   "title": "Cybersecurity Asset Engineer (Clearance Required)",
-   "uid": "workable:scitec:0941E0F014"
-  },
-  {
-   "closed_at": 1790205166,
-   "company": "bmo",
-   "hours_open": 218.7,
-   "title": "Quantitative Developer (Alpha Research Team) - GAM, Summer 2027 (Co-op/Internship) - 12 months",
-   "uid": "workday:bmo.wd3/Campus:Quantitative-Developer--Alpha-Research-Team----GAM--Summer-2027--Co-op-Internship----12-months_R260026715"
-  },
-  {
-   "closed_at": 1790205166,
-   "company": "bmo",
-   "hours_open": 119.3,
-   "title": "Software Developer, Winter 2027 (Internship) - 4 months",
-   "uid": "workday:bmo.wd3/Campus:Software-Developer--Winter-2027--Internship----4-months_R260027197-3"
-  },
-  {
-   "closed_at": 1790205166,
-   "company": "Boeing",
-   "hours_open": 218.6,
-   "title": "Entry-level Digital Electronics Circuit & Unit Hardware Design Engineer - Space Digital Products & Electronics",
-   "uid": "simplify:listings:638f7b48-645b-4838-b62d-be92a72bb467"
-  },
-  {
-   "closed_at": 1790205166,
-   "company": "bpinternational",
-   "hours_open": 491.6,
-   "title": "Summer Internship - Wells Engineer – Houston, TX",
-   "uid": "workday:bpinternational.wd3/bpEarlyCareers:Summer-Intern---Wells-Engineer---Houston--TX_RQ114709-1"
-  },
-  {
    "closed_at": 1790205166,
    "company": "RELX",
    "hours_open": 522.9,
@@ -5599,8 +5557,50 @@
    "hours_open": 584.6,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1790575222,
+   "company": "myview",
+   "hours_open": 479.7,
+   "title": "Software Development - Co-op Student",
+   "uid": "workday:myview.wd3/paradox_careers:Software-Development---Co-op-Student_R2000699845"
+  },
+  {
+   "closed_at": 1790575222,
+   "company": "ngc",
+   "hours_open": 76.1,
+   "title": "Associate Software Engineer / Software Engineer",
+   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:Associate-Software-Engineer---Software-Engineer_R10253028-1"
+  },
+  {
+   "closed_at": 1790575222,
+   "company": "onto",
+   "hours_open": 247.9,
+   "title": "Junior Configuration & Release Engineer",
+   "uid": "workday:onto.wd1/onto_careers:Development-Engineer-1_R-6389"
+  },
+  {
+   "closed_at": 1790575222,
+   "company": "rocketlab",
+   "hours_open": 293.2,
+   "title": "HITL Software Engineer",
+   "uid": "greenhouse:rocketlab:7993825003"
+  },
+  {
+   "closed_at": 1790575222,
+   "company": "spacex",
+   "hours_open": 589.0,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1790575222,
+   "company": "spacex",
+   "hours_open": 589.0,
+   "title": "Launch Pad Engineer, Fluid Systems (Falcon 9)",
+   "uid": "greenhouse:spacex:8623675002"
   }
  ],
- "count": 803,
- "updated_at": 1790560114
+ "count": 806,
+ "updated_at": 1790575222
 }
