@@ -2,27 +2,6 @@
  "closed": [
   {
    "closed_at": 1790259920,
-   "company": "KAMARA",
-   "hours_open": 60.7,
-   "title": "Web application developer",
-   "uid": "jobbank:junior programmer:50336009"
-  },
-  {
-   "closed_at": 1790259920,
-   "company": "Vogtech Renewables",
-   "hours_open": 190.5,
-   "title": "Web developer",
-   "uid": "jobbank:junior programmer:50299653"
-  },
-  {
-   "closed_at": 1790259920,
-   "company": "FIBROTEK MATÉRIAUX AVANCÉS INC.",
-   "hours_open": 50.3,
-   "title": "mobile applications developer",
-   "uid": "jobbank:junior programmer:50286599"
-  },
-  {
-   "closed_at": 1790259920,
    "company": "Groupe DCM",
    "hours_open": 147.3,
    "title": "Programmeur CNC / CNC Programmer",
@@ -5599,8 +5578,29 @@
    "hours_open": 604.7,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1790632644,
+   "company": "Great Lakes Group",
+   "hours_open": 47.2,
+   "title": "electrical controls engineer",
+   "uid": "jobbank:control systems analyst:50336042"
+  },
+  {
+   "closed_at": 1790632644,
+   "company": "cadence",
+   "hours_open": 598.6,
+   "title": "Software Engineer  (new college grad Dec 2026)",
+   "uid": "workday:cadence.wd1/University_Talent:Software-Engineer---new-college-grad-Dec-2026-_R55738-1"
+  },
+  {
+   "closed_at": 1790632644,
+   "company": "boeing",
+   "hours_open": 93.9,
+   "title": "Associate Software Engineer",
+   "uid": "workday:boeing.wd1/EXTERNAL_CAREERS:Associate-Software-Engineer_JR2026520254-1"
   }
  ],
- "count": 815,
- "updated_at": 1790632505
+ "count": 803,
+ "updated_at": 1790632644
 }
