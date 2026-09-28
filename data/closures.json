@@ -1,27 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1790209733,
-   "company": "fmr",
-   "hours_open": 289.7,
-   "title": "Co-op, Software Engineer",
-   "uid": "workday:fmr.wd1/targeted:Co-op--Software-Engineer_2135200"
-  },
-  {
-   "closed_at": 1790209733,
-   "company": "globalhr",
-   "hours_open": 324.6,
-   "title": "Systems Engineer Intern - Helmet Displays (Summer 2027) - Onsite",
-   "uid": "workday:globalhr.wd5/Private_Posting_No_TMP:Systems-Engineer-Intern---Helmet-Displays--Summer-2027----Onsite_01867411"
-  },
-  {
-   "closed_at": 1790209733,
-   "company": "spacex",
-   "hours_open": 487.5,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
    "closed_at": 1790210206,
    "company": "micron",
    "hours_open": 126.8,
@@ -5599,8 +5578,29 @@
    "hours_open": 597.3,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1790611641,
+   "company": "toshibaglobalcommercesolutions",
+   "hours_open": 105.4,
+   "title": "Associate Software Engineer ",
+   "uid": "greenhouse:toshibaglobalcommercesolutions:5247010007"
+  },
+  {
+   "closed_at": 1790611641,
+   "company": "Alt Informatique",
+   "hours_open": 251.2,
+   "title": "Technicien informatique junior",
+   "uid": "jobillico:technicien informatique:17381391"
+  },
+  {
+   "closed_at": 1790611641,
+   "company": "leantaas",
+   "hours_open": 54.2,
+   "title": "Associate GTM Engineer",
+   "uid": "lever:leantaas:c15b6de5-c2bf-4499-9b53-b41960551719"
   }
  ],
- "count": 800,
- "updated_at": 1790607487
+ "count": 803,
+ "updated_at": 1790611643
 }
