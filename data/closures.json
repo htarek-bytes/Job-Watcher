@@ -2,41 +2,6 @@
  "closed": [
   {
    "closed_at": 1790201768,
-   "company": "ServiceNow",
-   "hours_open": 59.4,
-   "title": "Presales Solution Consultant - Platform, Data & AI",
-   "uid": "smartrecruiters:ServiceNow:744000150633759"
-  },
-  {
-   "closed_at": 1790201768,
-   "company": "Wabtec",
-   "hours_open": 141.0,
-   "title": "Service Desk Analyst (Information Technology Support)",
-   "uid": "smartrecruiters:Wabtec:3743990015357976"
-  },
-  {
-   "closed_at": 1790201768,
-   "company": "Metro Vancouver",
-   "hours_open": 170.9,
-   "title": "software developer",
-   "uid": "jobbank:entry level software developer:50301806"
-  },
-  {
-   "closed_at": 1790201768,
-   "company": "Code Ninjas Scarborough",
-   "hours_open": 242.5,
-   "title": "computer game programmer",
-   "uid": "jobbank:junior programmer:50279299"
-  },
-  {
-   "closed_at": 1790201768,
-   "company": "twitch",
-   "hours_open": 482.4,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1790201768,
    "company": "Maarut",
    "hours_open": 15.3,
    "title": "software developer",
@@ -5599,8 +5564,43 @@
    "hours_open": 584.0,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1790558089,
+   "company": "Cooptel",
+   "hours_open": 464.1,
+   "title": "Administrateur réseau",
+   "uid": "jobillico:analyste reseau:17185045"
+  },
+  {
+   "closed_at": 1790558089,
+   "company": "barr",
+   "hours_open": 156.1,
+   "title": "Internship – Water Resources Engineer (Hybrid)",
+   "uid": "workday:barr.wd1/barrcareers:Internship---Water-Resources-Engineer--Hybrid-_R-102303"
+  },
+  {
+   "closed_at": 1790558089,
+   "company": "cadence",
+   "hours_open": 577.3,
+   "title": "Software Engineer  (new college grad Dec 2026)",
+   "uid": "workday:cadence.wd1/Univ_Careers:Software-Engineer---new-college-grad-Dec-2026-_R55738-2"
+  },
+  {
+   "closed_at": 1790558089,
+   "company": "spacex",
+   "hours_open": 581.3,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1790558089,
+   "company": "spacex",
+   "hours_open": 584.0,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
   }
  ],
- "count": 802,
- "updated_at": 1790557230
+ "count": 805,
+ "updated_at": 1790558089
 }
