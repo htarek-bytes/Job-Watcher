@@ -1,111 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1790244142,
-   "company": "spacex",
-   "hours_open": 497.1,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1790245109,
-   "company": "Alt Informatique",
-   "hours_open": 149.4,
-   "title": "Technicien informatique junior",
-   "uid": "jobillico:technicien informatique:17381391"
-  },
-  {
-   "closed_at": 1790245109,
-   "company": "Sasamans (Our Children) Society",
-   "hours_open": 348.5,
-   "title": "cloud administrator",
-   "uid": "jobbank:cloud administrator:50252701"
-  },
-  {
-   "closed_at": 1790245109,
-   "company": "Renesas Electronics",
-   "hours_open": 140.4,
-   "title": "Design Verification Engineer（SoC機能検証エンジニア）(1)",
-   "uid": "smartrecruiters:RenesasElectronics:744000150277759"
-  },
-  {
-   "closed_at": 1790245109,
-   "company": "Sandisk",
-   "hours_open": 233.7,
-   "title": "(New College Graduate) Engineer, Technology Development Engineering_MH",
-   "uid": "smartrecruiters:Sandisk:744000149285853"
-  },
-  {
-   "closed_at": 1790245109,
-   "company": "spacex",
-   "hours_open": 495.7,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1790245652,
-   "company": "Arondite",
-   "hours_open": 497.5,
-   "title": "AI Engineer (Agents)",
-   "uid": "workable:arondite:B90A63A44A"
-  },
-  {
-   "closed_at": 1790245652,
-   "company": "spacex",
-   "hours_open": 497.5,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1790252334,
-   "company": "Alt Informatique",
-   "hours_open": 151.4,
-   "title": "Technicien informatique junior",
-   "uid": "jobillico:technicien informatique:17381391"
-  },
-  {
-   "closed_at": 1790252334,
-   "company": "U.S. Bank",
-   "hours_open": 229.7,
-   "title": "Associate Software Engineer - C# - .NET Core",
-   "uid": "simplify:listings:63c995b0-3122-45a1-8d57-e418f2c90068"
-  },
-  {
-   "closed_at": 1790252334,
-   "company": "freedomconsulting",
-   "hours_open": 379.2,
-   "title": "Database Administrator 683",
-   "uid": "greenhouse:freedomconsulting:5160931007"
-  },
-  {
-   "closed_at": 1790252334,
-   "company": "spacex",
-   "hours_open": 497.7,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1790252334,
-   "company": "freedomconsulting",
-   "hours_open": 518.3,
-   "title": "Junior Systems Engineer 609",
-   "uid": "greenhouse:freedomconsulting:5067514007"
-  },
-  {
-   "closed_at": 1790259920,
-   "company": "Babysoft Telecommunication",
-   "hours_open": 17.7,
-   "title": "front-end developer",
-   "uid": "jobbank:developpeur junior:50352026"
-  },
-  {
-   "closed_at": 1790259920,
-   "company": "bmo",
-   "hours_open": 175.6,
-   "title": "Quantitative Developer (Alpha Research Team) - GAM, Summer 2027 (Co-op/Internship) - 12 months",
-   "uid": "workday:bmo.wd3/External:Quantitative-Developer--Alpha-Research-Team----GAM--Summer-2027--Co-op-Internship----12-months_R260026715-3"
-  },
-  {
    "closed_at": 1790259920,
    "company": "KAMARA",
    "hours_open": 60.7,
@@ -5599,8 +5494,113 @@
    "hours_open": 70.1,
    "title": "Ignition SCADA Specialist",
    "uid": "smartrecruiters:SGS:744000151890609"
+  },
+  {
+   "closed_at": 1790632503,
+   "company": "Geothentic",
+   "hours_open": 1.6,
+   "title": "software development programmer",
+   "uid": "jobbank:junior programmer:50383744"
+  },
+  {
+   "closed_at": 1790632503,
+   "company": "graphcore",
+   "hours_open": 73.1,
+   "title": "Systems Engineer",
+   "uid": "greenhouse:graphcore:8829332002"
+  },
+  {
+   "closed_at": 1790632503,
+   "company": "altentechnologyusa",
+   "hours_open": 140.9,
+   "title": "Mechanical Design Engineer",
+   "uid": "greenhouse:altentechnologyusa:5246761007"
+  },
+  {
+   "closed_at": 1790632503,
+   "company": "ag",
+   "hours_open": 79.1,
+   "title": "Junior Software Developer Embedded  Systems & AI(d/m/w)",
+   "uid": "workday:ag.wd3/Airbus:Junior-Software-Developer-Embedded--Systems---AI-d-m-w-_JR10442968-1"
+  },
+  {
+   "closed_at": 1790632503,
+   "company": "Auto Trim",
+   "hours_open": 146.0,
+   "title": "cloud administrator",
+   "uid": "jobbank:cloud administrator:50342109"
+  },
+  {
+   "closed_at": 1790632503,
+   "company": "Great Lakes Group",
+   "hours_open": 5.8,
+   "title": "hardware engineer",
+   "uid": "jobbank:scada:50380579"
+  },
+  {
+   "closed_at": 1790632503,
+   "company": "Red House Realty, Brokerage",
+   "hours_open": 173.2,
+   "title": "cloud administrator",
+   "uid": "jobbank:cloud administrator:50331086"
+  },
+  {
+   "closed_at": 1790632503,
+   "company": "Groupe DCM",
+   "hours_open": 250.8,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534670"
+  },
+  {
+   "closed_at": 1790632503,
+   "company": "bakerhughes",
+   "hours_open": 610.3,
+   "title": "Intern – AI-Integrated Modeling Engineer – 2026 (M/F/D)",
+   "uid": "workday:bakerhughes.wd5/BakerHughes:Intern---AI-Integrated-Modeling-Engineer---Florence--Italy---2026--M-F-D-_R167905"
+  },
+  {
+   "closed_at": 1790632503,
+   "company": "bakerhughes",
+   "hours_open": 610.3,
+   "title": "Intern – Plant Dynamic Simulation Engineer – 2026 (M/F/D)",
+   "uid": "workday:bakerhughes.wd5/BakerHughes:Intern---Plant-Dynamic-Simulation-Engineer---Florence--Italy---2026--M-F-D-_R167906"
+  },
+  {
+   "closed_at": 1790632503,
+   "company": "voyagertechnologiesinc",
+   "hours_open": 169.6,
+   "title": "Software Engineer – AI Automation (Internal Tools)",
+   "uid": "greenhouse:voyagertechnologiesinc:4251267009"
+  },
+  {
+   "closed_at": 1790632503,
+   "company": "andurilindustries",
+   "hours_open": 309.1,
+   "title": "Test Engineer, Maritime Production",
+   "uid": "greenhouse:andurilindustries:5231433007"
+  },
+  {
+   "closed_at": 1790632503,
+   "company": "spacex",
+   "hours_open": 605.0,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1790632503,
+   "company": "andurilindustries",
+   "hours_open": 603.3,
+   "title": "Development Test Engineer - Air Dominance & Strike",
+   "uid": "greenhouse:andurilindustries:5034522007"
+  },
+  {
+   "closed_at": 1790632503,
+   "company": "spacex",
+   "hours_open": 604.7,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
   }
  ],
- "count": 800,
- "updated_at": 1790629506
+ "count": 815,
+ "updated_at": 1790632505
 }
