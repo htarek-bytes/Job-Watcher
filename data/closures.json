@@ -1,34 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1790201317,
-   "company": "General Dynamics Missions System International",
-   "hours_open": 506.5,
-   "title": "Junior Hardware Engineering Developer ",
-   "uid": "smartrecruiters:GDMSI:744000142894435"
-  },
-  {
-   "closed_at": 1790201317,
-   "company": "spacex",
-   "hours_open": 485.2,
-   "title": "Operations Engineer (Construction)",
-   "uid": "greenhouse:spacex:8645119002"
-  },
-  {
-   "closed_at": 1790201317,
-   "company": "spacex",
-   "hours_open": 485.2,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1790201317,
-   "company": "spacex",
-   "hours_open": 485.2,
-   "title": "Operations Engineer (Facilities)",
-   "uid": "greenhouse:spacex:8551671002"
-  },
-  {
    "closed_at": 1790201768,
    "company": "KAMARA",
    "hours_open": 0.4,
@@ -5599,8 +5571,36 @@
    "hours_open": 56.5,
    "title": "network infrastructure engineer",
    "uid": "jobbank:specialiste infrastructure:50365083"
+  },
+  {
+   "closed_at": 1790556476,
+   "company": "capco",
+   "hours_open": 582.1,
+   "title": "Data Engineer",
+   "uid": "greenhouse:capco:8171469"
+  },
+  {
+   "closed_at": 1790556476,
+   "company": "avnet",
+   "hours_open": 82.4,
+   "title": "Technical Sales Engineer - AMD/Xilinx",
+   "uid": "workday:avnet.wd1/external:Technical-Sales-Engineer_JR-022739"
+  },
+  {
+   "closed_at": 1790556476,
+   "company": "spacex",
+   "hours_open": 580.9,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1790556476,
+   "company": "spacex",
+   "hours_open": 583.6,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
   }
  ],
- "count": 801,
- "updated_at": 1790551218
+ "count": 804,
+ "updated_at": 1790556476
 }
