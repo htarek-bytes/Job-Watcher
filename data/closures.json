@@ -2,13 +2,6 @@
  "closed": [
   {
    "closed_at": 1790205166,
-   "company": "LexisNexis Risk Solutions",
-   "hours_open": 522.9,
-   "title": "Software Engineer New Grad",
-   "uid": "simplify:listings:90b7dcd2-ef8d-4a60-891d-0978390afa8e"
-  },
-  {
-   "closed_at": 1790205166,
    "company": "Amazon",
    "hours_open": 152.0,
    "title": "Software Development Engineer, Amazon Vulnerability Management Service (AVMS)",
@@ -5599,8 +5592,15 @@
    "hours_open": 145.9,
    "title": "2027 Spring Co-op Cyber Security Operations Center, Morristown, NJ",
    "uid": "workday:sanofi.wd3/SanofiCareers:XMLNAME-2027-Spring-Co-op-Cyber-Security-Operations-Center--Morristown--NJ_R2854248"
+  },
+  {
+   "closed_at": 1790581562,
+   "company": "Cooptel",
+   "hours_open": 470.6,
+   "title": "Administrateur réseau",
+   "uid": "jobillico:analyste reseau:17185045"
   }
  ],
- "count": 800,
- "updated_at": 1790578683
+ "count": 801,
+ "updated_at": 1790581562
 }
