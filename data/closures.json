@@ -2,13 +2,6 @@
  "closed": [
   {
    "closed_at": 1790205166,
-   "company": "RELX",
-   "hours_open": 522.9,
-   "title": "Software Engineer New Grad",
-   "uid": "simplify:listings:32f14a18-130e-4911-a7f1-80e6010eba5e"
-  },
-  {
-   "closed_at": 1790205166,
    "company": "LexisNexis Risk Solutions",
    "hours_open": 522.9,
    "title": "Software Engineer New Grad",
@@ -5599,8 +5592,15 @@
    "hours_open": 589.0,
    "title": "Launch Pad Engineer, Fluid Systems (Falcon 9)",
    "uid": "greenhouse:spacex:8623675002"
+  },
+  {
+   "closed_at": 1790577801,
+   "company": "sanofi",
+   "hours_open": 145.9,
+   "title": "2027 Spring Co-op Cyber Security Operations Center, Morristown, NJ",
+   "uid": "workday:sanofi.wd3/SanofiCareers:XMLNAME-2027-Spring-Co-op-Cyber-Security-Operations-Center--Morristown--NJ_R2854248"
   }
  ],
- "count": 806,
- "updated_at": 1790575222
+ "count": 801,
+ "updated_at": 1790577801
 }
