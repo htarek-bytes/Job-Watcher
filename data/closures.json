@@ -1,55 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1790297811,
-   "company": "icf",
-   "hours_open": 195.4,
-   "title": "Junior Software Engineer (Entry level - Remote US)",
-   "uid": "workday:icf.wd5/icfexternal_career_site:Junior-Software-Engineer--Entry-level---Remote-US-_R2603054"
-  },
-  {
-   "closed_at": 1790297811,
-   "company": "twitch",
-   "hours_open": 512.0,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1790297811,
-   "company": "spacex",
-   "hours_open": 512.0,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1790297811,
-   "company": "spacex",
-   "hours_open": 511.7,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1790301121,
-   "company": "Groupe DCM",
-   "hours_open": 158.8,
-   "title": "Programmeur CNC / CNC Programmer",
-   "uid": "jobillico:programmeur junior:17534670"
-  },
-  {
-   "closed_at": 1790301121,
-   "company": "ngc",
-   "hours_open": 81.2,
-   "title": "2027 Digital Engineer Intern - Baltimore MD",
-   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Digital-Engineer-Intern---Baltimore-MD_R10251150-1"
-  },
-  {
-   "closed_at": 1790301121,
-   "company": "twitch",
-   "hours_open": 510.0,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
    "closed_at": 1790301121,
    "company": "ncr",
    "hours_open": 243.4,
@@ -5599,8 +5550,57 @@
    "hours_open": 505.2,
    "title": "Certified Information Systems Auditor (CISA)",
    "uid": "greenhouse:accenturefederalservices:4674738006"
+  },
+  {
+   "closed_at": 1790707195,
+   "company": "marvell",
+   "hours_open": 147.6,
+   "title": "Security Verification/Validation Engineer Intern, BS - Summer 2027",
+   "uid": "workday:marvell.wd1/MarvellCareers:Security-Verification-Validation-Engineer-Intern--BS---Summer-2027_2604148-1"
+  },
+  {
+   "closed_at": 1790707195,
+   "company": "marvell",
+   "hours_open": 284.5,
+   "title": "SRAM Software Engineer Intern, BS - Summer 2027",
+   "uid": "workday:marvell.wd1/MarvellCareers:SRAM-Software-Engineer-Intern--BS---Summer-2027_2603760-1"
+  },
+  {
+   "closed_at": 1790707195,
+   "company": "marvell",
+   "hours_open": 309.0,
+   "title": "Technical Sales Intern, BS - Summer 2027",
+   "uid": "workday:marvell.wd1/MarvellCareers:Technical-Sales-Intern--BS---Summer-2027_2603806-1"
+  },
+  {
+   "closed_at": 1790707195,
+   "company": "marvell",
+   "hours_open": 597.0,
+   "title": "IC Validation Engineer Intern, MS - Summer 2027",
+   "uid": "workday:marvell.wd1/MarvellCareers:IC-Validation-Engineer-Intern--MS---Summer-2027_2604515-1"
+  },
+  {
+   "closed_at": 1790707195,
+   "company": "labcorp",
+   "hours_open": 356.2,
+   "title": "Intern - Software Developer",
+   "uid": "workday:labcorp.wd1/external:Intern---Software-Developer_2632330"
+  },
+  {
+   "closed_at": 1790707195,
+   "company": "twitch",
+   "hours_open": 625.7,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1790707195,
+   "company": "haier",
+   "hours_open": 629.1,
+   "title": "Software Engineering Co-op_Fall 2027",
+   "uid": "workday:haier.wd3/ge_appliances:Software-Engineering-Co-op-Fall-2027_REQ-26592"
   }
  ],
- "count": 830,
- "updated_at": 1790706099
+ "count": 807,
+ "updated_at": 1790707197
 }
