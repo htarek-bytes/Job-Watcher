@@ -3,41 +3,6 @@
   {
    "closed_at": 1790289151,
    "company": "andurilindustries",
-   "hours_open": 507.9,
-   "title": "Supply Chain Engineer, Analytics",
-   "uid": "greenhouse:andurilindustries:5045894007"
-  },
-  {
-   "closed_at": 1790289151,
-   "company": "modal",
-   "hours_open": 509.6,
-   "title": "Developer Relations Engineer, Sandboxes",
-   "uid": "ashby:modal:5113f35e-988d-41bc-a899-3261a9454e40"
-  },
-  {
-   "closed_at": 1790289151,
-   "company": "spacex",
-   "hours_open": 506.6,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1790289151,
-   "company": "spacex",
-   "hours_open": 509.3,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1790289151,
-   "company": "spacex",
-   "hours_open": 507.9,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1790289151,
-   "company": "andurilindustries",
    "hours_open": 5.2,
    "title": "Security Software Engineer, Endpoint Security",
    "uid": "greenhouse:andurilindustries:5002801007"
@@ -5599,8 +5564,43 @@
    "hours_open": 158.4,
    "title": "Presales Consultant",
    "uid": "smartrecruiters:Wise:744000150462789"
+  },
+  {
+   "closed_at": 1790687927,
+   "company": "Groupe DCM",
+   "hours_open": 266.2,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534670"
+  },
+  {
+   "closed_at": 1790687927,
+   "company": "Vector Atomic",
+   "hours_open": 639.3,
+   "title": "Associate Engineer - Firmware",
+   "uid": "workable:vectoratomic:00C9C6A8E4"
+  },
+  {
+   "closed_at": 1790687927,
+   "company": "RTX",
+   "hours_open": 347.7,
+   "title": "Software Engineer New Grad",
+   "uid": "simplify:listings:8aa31162-4140-4408-a6ca-0e51e890da86"
+  },
+  {
+   "closed_at": 1790687927,
+   "company": "Saalex",
+   "hours_open": 318.9,
+   "title": "Software Developer",
+   "uid": "workable:saalex:8F23C40C49"
+  },
+  {
+   "closed_at": 1790687927,
+   "company": "Saalex",
+   "hours_open": 318.9,
+   "title": "Junior Systems Administrator",
+   "uid": "workable:saalex:DC7DE92DC3"
   }
  ],
- "count": 804,
- "updated_at": 1790687282
+ "count": 805,
+ "updated_at": 1790687927
 }
