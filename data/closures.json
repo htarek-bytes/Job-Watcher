@@ -1,69 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1790286428,
-   "company": "andurilindustries",
-   "hours_open": 507.1,
-   "title": "Robotics Software Engineer",
-   "uid": "greenhouse:andurilindustries:5179580007"
-  },
-  {
-   "closed_at": 1790286428,
-   "company": "Amazon",
-   "hours_open": 195.5,
-   "title": "Software Development Engineer , Leo Commerce Data Platform",
-   "uid": "amazon:amazon:10547041"
-  },
-  {
-   "closed_at": 1790286678,
-   "company": "Bosch Group",
-   "hours_open": 11.8,
-   "title": "[ETA] 3 Junior Java Developer (1-3 years of experience)",
-   "uid": "smartrecruiters:BoschGroup:744000151526859"
-  },
-  {
-   "closed_at": 1790286678,
-   "company": "Alt Informatique",
-   "hours_open": 160.9,
-   "title": "Technicien informatique junior",
-   "uid": "jobillico:technicien informatique:17381391"
-  },
-  {
-   "closed_at": 1790286678,
-   "company": "Groupe DCM",
-   "hours_open": 160.9,
-   "title": "Programmeur CNC / CNC Programmer",
-   "uid": "jobillico:programmeur junior:17534679"
-  },
-  {
-   "closed_at": 1790286678,
-   "company": "Arista Networks",
-   "hours_open": 423.8,
-   "title": "Technical Solutions Engineer - Cloud, Hyperscalers and AI networks",
-   "uid": "smartrecruiters:AristaNetworks:744000141561647"
-  },
-  {
-   "closed_at": 1790286678,
-   "company": "General Dynamics Missions System International",
-   "hours_open": 530.2,
-   "title": "Junior Software Engineer",
-   "uid": "smartrecruiters:GDMSI:744000147008250"
-  },
-  {
-   "closed_at": 1790286678,
-   "company": "General Dynamics Missions System International",
-   "hours_open": 530.2,
-   "title": "Junior Supportability Engineer",
-   "uid": "smartrecruiters:GDMSI:744000143097219"
-  },
-  {
-   "closed_at": 1790286678,
-   "company": "andurilindustries",
-   "hours_open": 527.9,
-   "title": "2026 Early Career Flight Test Engineer, Mission Autonomy",
-   "uid": "greenhouse:andurilindustries:5185089007"
-  },
-  {
    "closed_at": 1790289151,
    "company": "trulioo",
    "hours_open": 522.1,
@@ -5599,8 +5536,71 @@
    "hours_open": 614.6,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1790686173,
+   "company": "Bosch Group",
+   "hours_open": 16.5,
+   "title": "Advanced PLC Engineer I",
+   "uid": "smartrecruiters:BoschGroup:744000152257579"
+  },
+  {
+   "closed_at": 1790686173,
+   "company": "Bosch Group",
+   "hours_open": 16.5,
+   "title": "Extracurricular Internship: C# Developer (f/m/div.)",
+   "uid": "smartrecruiters:BoschGroup:744000152107800"
+  },
+  {
+   "closed_at": 1790686173,
+   "company": "sharkninjaoperatingllc",
+   "hours_open": 454.9,
+   "title": "Test Engineer - Indoor Heated",
+   "uid": "greenhouse:sharkninjaoperatingllc:4710256006"
+  },
+  {
+   "closed_at": 1790686173,
+   "company": "appdirect",
+   "hours_open": 619.9,
+   "title": "Software Developer",
+   "uid": "greenhouse:appdirect:8657363002"
+  },
+  {
+   "closed_at": 1790686173,
+   "company": "Bertelsmann-Jobs",
+   "hours_open": 111.0,
+   "title": "Internship in Information Security Services ",
+   "uid": "smartrecruiters:Bertelsmann-Jobs:744000151659959"
+  },
+  {
+   "closed_at": 1790686173,
+   "company": "Jobs for Humanity",
+   "hours_open": 158.5,
+   "title": "Junior Fullstack Developer (.NET / ROR)",
+   "uid": "smartrecruiters:JobsForHumanity:744000151097675"
+  },
+  {
+   "closed_at": 1790686173,
+   "company": "twitch",
+   "hours_open": 616.9,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1790686173,
+   "company": "Deloitte",
+   "hours_open": 242.0,
+   "title": "Data & AI Solutions Engineering Analyst - Consultative Offerings",
+   "uid": "simplify:listings:acfd75f6-b373-4747-aa03-88912b01fa48"
+  },
+  {
+   "closed_at": 1790686173,
+   "company": "spacex",
+   "hours_open": 619.6,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
   }
  ],
- "count": 804,
- "updated_at": 1790667206
+ "count": 809,
+ "updated_at": 1790686174
 }
