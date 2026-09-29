@@ -1,69 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1790274849,
-   "company": "spacex",
-   "hours_open": 503.9,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1790275541,
-   "company": "Groupe DCM",
-   "hours_open": 157.8,
-   "title": "Programmeur CNC / CNC Programmer",
-   "uid": "jobillico:programmeur junior:17534679"
-  },
-  {
-   "closed_at": 1790275541,
-   "company": "stripe",
-   "hours_open": 505.8,
-   "title": "Software Engineer, Metronome Infrastructure",
-   "uid": "greenhouse:stripe:7737237"
-  },
-  {
-   "closed_at": 1790275541,
-   "company": "Amazon",
-   "hours_open": 0.2,
-   "title": "Software Development Engineer, Amazon Customer Service ",
-   "uid": "amazon:amazon:10559347"
-  },
-  {
-   "closed_at": 1790275541,
-   "company": "twitch",
-   "hours_open": 502.9,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1790275541,
-   "company": "harperinsure",
-   "hours_open": 498.7,
-   "title": "Data Automation Specialist",
-   "uid": "ashby:harperinsure:5997b504-ac32-4651-863c-7619e35567b6"
-  },
-  {
-   "closed_at": 1790275541,
-   "company": "spacex",
-   "hours_open": 505.8,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1790275541,
-   "company": "spacex",
-   "hours_open": 505.8,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1790277491,
-   "company": "lyft",
-   "hours_open": 506.3,
-   "title": "Software Engineer, Pricing - Rider Engagement",
-   "uid": "greenhouse:lyft:8743259002"
-  },
-  {
    "closed_at": 1790277491,
    "company": "NXP Semiconductors",
    "hours_open": 307.9,
@@ -5599,8 +5536,71 @@
    "hours_open": 608.5,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1790646100,
+   "company": "abridge",
+   "hours_open": 266.9,
+   "title": "Software Engineering Intern, Spring",
+   "uid": "ashby:abridge:6569d8f7-bd0b-4bb0-a3af-37f83e19ec5e"
+  },
+  {
+   "closed_at": 1790646100,
+   "company": "abridge",
+   "hours_open": 636.8,
+   "title": "Junior Software Engineer",
+   "uid": "ashby:abridge:7d6ae2be-cd53-466c-8151-2dae2e87aace"
+  },
+  {
+   "closed_at": 1790646100,
+   "company": "abridge",
+   "hours_open": 416.4,
+   "title": "Software Engineering Intern, Fall",
+   "uid": "ashby:abridge:3f07a457-dc14-4238-bf4e-5c33b5c1f883"
+  },
+  {
+   "closed_at": 1790646100,
+   "company": "Great Lakes Group",
+   "hours_open": 3.8,
+   "title": "hardware engineer",
+   "uid": "jobbank:scada:50380539"
+  },
+  {
+   "closed_at": 1790646100,
+   "company": "zeissgroup",
+   "hours_open": 78.5,
+   "title": "Sales Engineer",
+   "uid": "workday:zeissgroup.wd3/External:Sales-Engineer_JR_1052439"
+  },
+  {
+   "closed_at": 1790646100,
+   "company": "spacex",
+   "hours_open": 605.8,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1790646100,
+   "company": "spacex",
+   "hours_open": 608.7,
+   "title": "Security Engineer (Embedded OT)",
+   "uid": "greenhouse:spacex:8593389002"
+  },
+  {
+   "closed_at": 1790646100,
+   "company": "spacex",
+   "hours_open": 608.7,
+   "title": "Security Engineer (Embedded & Networking)",
+   "uid": "greenhouse:spacex:8593385002"
+  },
+  {
+   "closed_at": 1790646100,
+   "company": "spacex",
+   "hours_open": 607.0,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
- "count": 814,
- "updated_at": 1790645176
+ "count": 809,
+ "updated_at": 1790646100
 }
