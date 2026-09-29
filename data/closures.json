@@ -1,104 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1790270603,
-   "company": "City of Burnaby",
-   "hours_open": 384.2,
-   "title": "systems analyst",
-   "uid": "jobbank:systems analyst:50155107"
-  },
-  {
-   "closed_at": 1790270603,
-   "company": "RBI",
-   "hours_open": 541.1,
-   "title": "Data Engineer 1",
-   "uid": "simplify:listings:1396eb39-3e96-4ac9-a060-7577d4308d5f"
-  },
-  {
-   "closed_at": 1790270603,
-   "company": "Blue Sky Innovators",
-   "hours_open": 541.1,
-   "title": "Anti-Tamper Entry-Level Engineer - Support",
-   "uid": "simplify:listings:5b6cfd98-f91e-4052-a508-d60c97d76317"
-  },
-  {
-   "closed_at": 1790270603,
-   "company": "spacex",
-   "hours_open": 504.4,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1790270603,
-   "company": "spacex",
-   "hours_open": 504.4,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1790274849,
-   "company": "Alt Informatique",
-   "hours_open": 157.6,
-   "title": "Technicien informatique junior",
-   "uid": "jobillico:technicien informatique:17381391"
-  },
-  {
-   "closed_at": 1790274849,
-   "company": "visa",
-   "hours_open": 163.8,
-   "title": "Software Engineer, Intern - 2027 Ashburn, VA",
-   "uid": "workday:visa.wd5/Visa:Software-Engineer--Intern---2027-Ashburn--VA_REF088577W-1"
-  },
-  {
-   "closed_at": 1790274849,
-   "company": "Amazon",
-   "hours_open": 47.5,
-   "title": "Software Development Engineer, Amazon Customer Service ",
-   "uid": "amazon:amazon:10556824"
-  },
-  {
-   "closed_at": 1790274849,
-   "company": "Amazon",
-   "hours_open": 169.6,
-   "title": "Software Development Engineer, Amazon WorkSpaces Applications",
-   "uid": "amazon:amazon:10552157"
-  },
-  {
-   "closed_at": 1790274849,
-   "company": "twitch",
-   "hours_open": 505.6,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1790274849,
-   "company": "stripe",
-   "hours_open": 505.6,
-   "title": "Frontend Engineer, Payments & Risk",
-   "uid": "greenhouse:stripe:7325252"
-  },
-  {
-   "closed_at": 1790274849,
-   "company": "fairlife",
-   "hours_open": 503.9,
-   "title": "AI Automation Engineer ",
-   "uid": "greenhouse:fairlife:5226345007"
-  },
-  {
-   "closed_at": 1790274849,
-   "company": "andurilindustries",
-   "hours_open": 503.9,
-   "title": "Firmware Engineer",
-   "uid": "greenhouse:andurilindustries:5226778007"
-  },
-  {
-   "closed_at": 1790274849,
-   "company": "spacex",
-   "hours_open": 502.7,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
    "closed_at": 1790274849,
    "company": "spacex",
    "hours_open": 503.9,
@@ -5599,8 +5501,106 @@
    "hours_open": 144.0,
    "title": "Signal and Power Integrity Engineer - New College Grad 2026",
    "uid": "workday:nvidia.wd5/NVIDIAExternalCareerSite:Signal-and-Power-Integrity-Engineer---New-College-Grad-2026_JR2015067"
+  },
+  {
+   "closed_at": 1790645175,
+   "company": "snapfinance",
+   "hours_open": 68.1,
+   "title": "Software Engineer I",
+   "uid": "workday:snapfinance.wd1/snap_external_careers:Software-Engineer-I_R-2796"
+  },
+  {
+   "closed_at": 1790645175,
+   "company": "rockwellautomation",
+   "hours_open": 30.3,
+   "title": "Intern, AI Software Engineering (June-August 2027)",
+   "uid": "workday:rockwellautomation.wd1/External-Rockwell-Automation-Early-Careers:Intern--AI-Software-Engineering--June-August-2027-_R26-6980"
+  },
+  {
+   "closed_at": 1790645175,
+   "company": "rockwellautomation",
+   "hours_open": 30.3,
+   "title": "Co-op, AI Software Engineering (6-8 months)",
+   "uid": "workday:rockwellautomation.wd1/External-Rockwell-Automation-Early-Careers:Co-op--AI-Software-Engineering--6-8-months-_R26-6982"
+  },
+  {
+   "closed_at": 1790645175,
+   "company": "td",
+   "hours_open": 299.0,
+   "title": "Mobile Software Engineer Intern/Co-op​ (Winter 2027)",
+   "uid": "workday:td.wd3/TD_Bank_Careers:Mobile-Software-Engineer-Co-op---Intern---Winter-2027-_R_1509825"
+  },
+  {
+   "closed_at": 1790645175,
+   "company": "tamus",
+   "hours_open": 104.0,
+   "title": "Security Analyst I",
+   "uid": "workday:tamus.wd1/System-wide_External:Security-Analyst-I_R-097452"
+  },
+  {
+   "closed_at": 1790645175,
+   "company": "salesforce",
+   "hours_open": 92.6,
+   "title": "Software Engineering AMTS (College Grad)",
+   "uid": "workday:salesforce.wd12/External_Career_Site:Software-Engineering-AMTS--College-Grad-_JR355250-1"
+  },
+  {
+   "closed_at": 1790645175,
+   "company": "Rocket Lab USA",
+   "hours_open": 342.4,
+   "title": "Flight Software Engineer 1",
+   "uid": "simplify:listings:daabbb4b-3238-449b-a3f6-39e1681033a7"
+  },
+  {
+   "closed_at": 1790645175,
+   "company": "silabs",
+   "hours_open": 490.3,
+   "title": "DevOps Platform Engineer I",
+   "uid": "workday:silabs.wd1/SiliconlabsCareers:DevOps-Platform-Engineer_21029-1"
+  },
+  {
+   "closed_at": 1790645175,
+   "company": "rockwellautomation",
+   "hours_open": 30.3,
+   "title": "Intern, Technical Sales & Consulting (USA)",
+   "uid": "workday:rockwellautomation.wd1/External-Rockwell-Automation-Early-Careers:Intern--Technical-Sales---Consulting--USA-_R26-5962-1"
+  },
+  {
+   "closed_at": 1790645175,
+   "company": "rockwellautomation",
+   "hours_open": 30.3,
+   "title": "Intern, Technical Sales & Consulting (Canada)",
+   "uid": "workday:rockwellautomation.wd1/External-Rockwell-Automation-Early-Careers:Intern--Technical-Sales---Consulting--Canada-_R26-5965-1"
+  },
+  {
+   "closed_at": 1790645175,
+   "company": "Amazon",
+   "hours_open": 269.2,
+   "title": "Software Development Engineer, Amazon Connect Telecom Engineering",
+   "uid": "amazon:amazon:10552602"
+  },
+  {
+   "closed_at": 1790645175,
+   "company": "radiancetech",
+   "hours_open": 95.6,
+   "title": "Software Engineer Intern Spring/Summer 2027",
+   "uid": "workday:radiancetech.wd12/Radiance_External:Software-Engineer-Intern-Spring-Summer-2027_HR102442"
+  },
+  {
+   "closed_at": 1790645175,
+   "company": "spacex",
+   "hours_open": 608.5,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1790645175,
+   "company": "spacex",
+   "hours_open": 608.5,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 817,
- "updated_at": 1790643497
+ "count": 814,
+ "updated_at": 1790645176
 }
