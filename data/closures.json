@@ -1,76 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1790261695,
-   "company": "andurilindustries",
-   "hours_open": 192.5,
-   "title": "Production Software Engineer",
-   "uid": "greenhouse:andurilindustries:5239701007"
-  },
-  {
-   "closed_at": 1790263026,
-   "company": "gevernova",
-   "hours_open": 14.8,
-   "title": "Développeur de logiciels embarqués pour éléments de protection  F/H - Protection Element Embedded SW Developer-1",
-   "uid": "workday:gevernova.wd5/only_confidential_executive_recruiting:Dveloppeur-de-logiciels-embarqus-pour-lments-de-protection--F-H---Protection-Element-Embedded-SW-Developer-1_R5053315-1"
-  },
-  {
-   "closed_at": 1790263026,
-   "company": "gevernova",
-   "hours_open": 141.7,
-   "title": "Engineering Intern - Power Conversion & Storage AI Tool Developer  2027",
-   "uid": "workday:gevernova.wd5/only_confidential_executive_recruiting:Engineering-Intern---Power-Conversion---Storage-AI-Tool-Developer--2027_R5049957-1"
-  },
-  {
-   "closed_at": 1790263026,
-   "company": "iqvia",
-   "hours_open": 153.7,
-   "title": "Data & AI Solutions Consultant",
-   "uid": "workday:iqvia.wd1/IQVIA:Data---AI-Solutions-Consultant_R1552230"
-  },
-  {
-   "closed_at": 1790263026,
-   "company": "intel",
-   "hours_open": 339.4,
-   "title": "Operations Research Engineer Intern",
-   "uid": "workday:intel.wd1/external:Operations-Research-Engineer-Intern_JR0286945"
-  },
-  {
-   "closed_at": 1790263026,
-   "company": "globalhr",
-   "hours_open": 312.6,
-   "title": "Intern- Systems Engineer (Onsite)",
-   "uid": "workday:globalhr.wd5/Private_Posting_No_TMP:Intern--Systems-Engineer--Onsite-_01869114"
-  },
-  {
-   "closed_at": 1790263026,
-   "company": "gehc",
-   "hours_open": 47.5,
-   "title": "Full-Stack Software Engineering Intern – MIM Commercialized Web Applications",
-   "uid": "workday:gehc.wd5/GEHC_ExternalSite:Full-Stack-Software-Engineering-Intern---MIM-Commercialized-Web-Applications_R4046583-1"
-  },
-  {
-   "closed_at": 1790263026,
-   "company": "bluecatnetworks",
-   "hours_open": 502.3,
-   "title": "Python Developer",
-   "uid": "lever:bluecatnetworks:3678f5b7-31e1-4c5b-982e-34a9dbfe12c2"
-  },
-  {
-   "closed_at": 1790263026,
-   "company": "Fort McMurray Toyota",
-   "hours_open": 382.1,
-   "title": "network administrator",
-   "uid": "jobbank:network administrator:50024638"
-  },
-  {
-   "closed_at": 1790263026,
-   "company": "generac",
-   "hours_open": 523.7,
-   "title": "Application Engineer I",
-   "uid": "workday:generac.wd5/external:Application-Engineer-I_JR15688"
-  },
-  {
    "closed_at": 1790263026,
    "company": "kbr",
    "hours_open": 523.7,
@@ -5599,8 +5529,78 @@
    "hours_open": 123.8,
    "title": "Combustion Devices Engineer I",
    "uid": "greenhouse:rocketlab:6286833003"
+  },
+  {
+   "closed_at": 1790642371,
+   "company": "kla",
+   "hours_open": 70.9,
+   "title": "AI Solutions Engineer (NPI Function)",
+   "uid": "workday:kla.wd1/UR:AI-Solutions-Engineer--NPI-Function-_2641335"
+  },
+  {
+   "closed_at": 1790642371,
+   "company": "marvell",
+   "hours_open": 95.7,
+   "title": "AMS Layout Engineer Intern - BS - 2027 Co-Op",
+   "uid": "workday:marvell.wd1/MarvellCareers:AMS-Layout-Engineer-Intern---BS---2027-Co-Op_2604790"
+  },
+  {
+   "closed_at": 1790642371,
+   "company": "marvell",
+   "hours_open": 18.7,
+   "title": "Firmware Engineer Intern",
+   "uid": "workday:marvell.wd1/MarvellCareers2:Firmware-Engineer-Intern_2604738-1"
+  },
+  {
+   "closed_at": 1790642371,
+   "company": "jj",
+   "hours_open": 95.7,
+   "title": "Software Engineering Co-Op",
+   "uid": "workday:jj.wd5/JJ:Software-Engineering-Co-Op_R-098277"
+  },
+  {
+   "closed_at": 1790642371,
+   "company": "kla",
+   "hours_open": 129.6,
+   "title": "Algorithm Engineering Intern (AI, Computer Vision & Software Engineering)",
+   "uid": "workday:kla.wd1/UR:Algorithm-Engineering-Intern--AI--Computer-Vision---Software-Engineering-_2641392-1"
+  },
+  {
+   "closed_at": 1790642371,
+   "company": "kla",
+   "hours_open": 129.6,
+   "title": "Software Engineering Intern (C++, Unix)",
+   "uid": "workday:kla.wd1/UR:Software-Engineering-Intern--C----Unix-_2641325"
+  },
+  {
+   "closed_at": 1790642371,
+   "company": "jci",
+   "hours_open": 326.3,
+   "title": "ACE Technical Sales - Fire Suppression (New England)",
+   "uid": "workday:jci.wd5/JCI:ACE-Technical-Sales---Fire-Suppression_WD30279375-1"
+  },
+  {
+   "closed_at": 1790642371,
+   "company": "jci",
+   "hours_open": 326.3,
+   "title": "ACE Technical Sales - Fire Suppression (California)",
+   "uid": "workday:jci.wd5/JCI:ACE-Technical-Sales---Fire-Suppression--California-_WD30279376"
+  },
+  {
+   "closed_at": 1790642371,
+   "company": "kla",
+   "hours_open": 355.6,
+   "title": "Software Engineering Intern",
+   "uid": "workday:kla.wd1/annarbor:Software-Engineering-Intern_2531653"
+  },
+  {
+   "closed_at": 1790642371,
+   "company": "D3 Security Management Systems Inc",
+   "hours_open": 242.1,
+   "title": "cybersecurity specialist",
+   "uid": "jobbank:specialiste infrastructure:50317565"
   }
  ],
- "count": 822,
- "updated_at": 1790641647
+ "count": 810,
+ "updated_at": 1790642372
 }
