@@ -2,13 +2,6 @@
  "closed": [
   {
    "closed_at": 1790351918,
-   "company": "Cooptel",
-   "hours_open": 406.8,
-   "title": "Administrateur réseau",
-   "uid": "jobillico:analyste reseau:17185045"
-  },
-  {
-   "closed_at": 1790351918,
    "company": "intactfc",
    "hours_open": 48.9,
    "title": "Software Developer I - 4 Month Co-op/Internship (Winter 2027)",
@@ -5599,8 +5592,15 @@
    "hours_open": 95.8,
    "title": "Software Engineer 1",
    "uid": "simplify:listings:8593e14d-835b-423d-8b1c-eb67b2318a92"
+  },
+  {
+   "closed_at": 1790723435,
+   "company": "Groupe DCM",
+   "hours_open": 282.2,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534679"
   }
  ],
- "count": 815,
- "updated_at": 1790723272
+ "count": 801,
+ "updated_at": 1790723436
 }
