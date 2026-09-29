@@ -1,104 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1790311902,
-   "company": "cerebras",
-   "hours_open": 515.9,
-   "title": "Manufacturing Automation Engineer",
-   "uid": "ashby:cerebras:20010f8f-5ede-469a-b432-c38dc223e11c"
-  },
-  {
-   "closed_at": 1790311902,
-   "company": "adaption",
-   "hours_open": 70.9,
-   "title": "Research Engineer",
-   "uid": "ashby:adaption:868d0683-33f9-4bc3-b724-37963b44d3e7"
-  },
-  {
-   "closed_at": 1790311902,
-   "company": "Source Code",
-   "hours_open": 30.7,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:control systems analyst:50290573"
-  },
-  {
-   "closed_at": 1790314156,
-   "company": "LYNKED Inc.",
-   "hours_open": 225.6,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50293998"
-  },
-  {
-   "closed_at": 1790314156,
-   "company": "Source Code",
-   "hours_open": 77.9,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:control systems analyst:50335113"
-  },
-  {
-   "closed_at": 1790314156,
-   "company": "twitch",
-   "hours_open": 516.5,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1790314156,
-   "company": "Maarut",
-   "hours_open": 24.8,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50354932"
-  },
-  {
-   "closed_at": 1790314156,
-   "company": "Source Code",
-   "hours_open": 46.6,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50347574"
-  },
-  {
-   "closed_at": 1790314156,
-   "company": "GrayMatter Robotics",
-   "hours_open": 521.9,
-   "title": "Robotics Engineer New Grad - Government Projects",
-   "uid": "simplify:listings:7c5c7640-ef36-440b-9855-25bddab1fa99"
-  },
-  {
-   "closed_at": 1790314156,
-   "company": "spacex",
-   "hours_open": 516.3,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1790314156,
-   "company": "spacex",
-   "hours_open": 516.5,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1790316215,
-   "company": "N.A.B Technologies Inc",
-   "hours_open": 396.9,
-   "title": "automation engineer",
-   "uid": "jobbank:scada:50203431"
-  },
-  {
-   "closed_at": 1790319681,
-   "company": "Alt Informatique",
-   "hours_open": 170.1,
-   "title": "Technicien informatique junior",
-   "uid": "jobillico:technicien informatique:17381391"
-  },
-  {
-   "closed_at": 1790319681,
-   "company": "Cybernetic Consulting",
-   "hours_open": 347.0,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50261298"
-  },
-  {
    "closed_at": 1790319681,
    "company": "Idexia",
    "hours_open": 353.1,
@@ -5599,8 +5501,106 @@
    "hours_open": 625.5,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1790710013,
+   "company": "rockwellautomation",
+   "hours_open": 110.6,
+   "title": "Co-op, Embedded Software Engineer (Spring or Fall 2027)",
+   "uid": "workday:rockwellautomation.wd1/External_Rockwell_Automation:Spring-2027-Co-op--Embedded-Software-Engineer--January-2027---August-2027-_R26-3473-1"
+  },
+  {
+   "closed_at": 1790710013,
+   "company": "rockwellautomation",
+   "hours_open": 89.4,
+   "title": "Intern, AI Software Engineering (June-August 2027)",
+   "uid": "workday:rockwellautomation.wd1/External_Rockwell_Automation:Intern--AI-Software-Engineering--June-August-2027-_R26-6980-1"
+  },
+  {
+   "closed_at": 1790710013,
+   "company": "rockwellautomation",
+   "hours_open": 89.4,
+   "title": "Co-op, AI Software Engineering (6-8 months)",
+   "uid": "workday:rockwellautomation.wd1/External_Rockwell_Automation:Co-op--AI-Software-Engineering--6-8-months-_R26-6982-1"
+  },
+  {
+   "closed_at": 1790710013,
+   "company": "synnex",
+   "hours_open": 343.3,
+   "title": "CPLD Engineer (New College Grad)",
+   "uid": "workday:synnex.wd5/hyvecareers:CPLD-Engineer--New-College-Grad-_R54983"
+  },
+  {
+   "closed_at": 1790710013,
+   "company": "rockwellautomation",
+   "hours_open": 185.6,
+   "title": "Intern, Technical Sales & Consulting (USA)",
+   "uid": "workday:rockwellautomation.wd1/External_Rockwell_Automation:Intern--Technical-Sales---Consulting--USA-_R26-5962-2"
+  },
+  {
+   "closed_at": 1790710013,
+   "company": "rockwellautomation",
+   "hours_open": 185.6,
+   "title": "Intern, Technical Sales & Consulting (Canada)",
+   "uid": "workday:rockwellautomation.wd1/External_Rockwell_Automation:Intern--Technical-Sales---Consulting--Canada-_R26-5965-2"
+  },
+  {
+   "closed_at": 1790710013,
+   "company": "relx",
+   "hours_open": 645.5,
+   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - January)",
+   "uid": "workday:relx.wd3/RiskSolutions:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617"
+  },
+  {
+   "closed_at": 1790710013,
+   "company": "relx",
+   "hours_open": 645.5,
+   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - June)",
+   "uid": "workday:relx.wd3/RiskSolutions:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-1"
+  },
+  {
+   "closed_at": 1790710013,
+   "company": "relx",
+   "hours_open": 645.5,
+   "title": "Tech Accelerate Graduate Program - Software Engineer (Boca Raton - June)",
+   "uid": "workday:relx.wd3/RiskSolutions:Tech-Accelerate-Graduate-Program---Software-Engineer--Boca-Raton---June-_R116023-2"
+  },
+  {
+   "closed_at": 1790710013,
+   "company": "twitch",
+   "hours_open": 626.5,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1790710013,
+   "company": "icapitalnetwork",
+   "hours_open": 506.3,
+   "title": "Fund Monitoring - Analyst ",
+   "uid": "greenhouse:icapitalnetwork:8602435002"
+  },
+  {
+   "closed_at": 1790710013,
+   "company": "santander",
+   "hours_open": 647.8,
+   "title": "SGTO_Software Engineering Analyst I",
+   "uid": "workday:santander.wd3/SantanderCareers:SGTO-Software-Engineering-Analyst-I_Req0896874"
+  },
+  {
+   "closed_at": 1790710013,
+   "company": "andurilindustries",
+   "hours_open": 624.8,
+   "title": "Software Engineer, Factory Systems ",
+   "uid": "greenhouse:andurilindustries:5135811007"
+  },
+  {
+   "closed_at": 1790710013,
+   "company": "spacex",
+   "hours_open": 624.8,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
- "count": 809,
- "updated_at": 1790707349
+ "count": 814,
+ "updated_at": 1790710014
 }
