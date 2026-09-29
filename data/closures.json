@@ -1,76 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1790277491,
-   "company": "NXP Semiconductors",
-   "hours_open": 307.9,
-   "title": "Entry Level Semiconductor Test Engineer",
-   "uid": "simplify:listings:b8e99c43-8e02-4d04-89d1-f5bd150c6cfc"
-  },
-  {
-   "closed_at": 1790277491,
-   "company": "revel",
-   "hours_open": 531.4,
-   "title": "Full Stack Software Engineer (Entry-Junior)",
-   "uid": "ashby:revel:49e46e96-e266-4ef6-8b62-e056d695dc52"
-  },
-  {
-   "closed_at": 1790277491,
-   "company": "spacex",
-   "hours_open": 506.3,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1790278139,
-   "company": "Xero",
-   "hours_open": 12.8,
-   "title": "Associate Engineer - Back End",
-   "uid": "simplify:listings:9860b985-32f5-4061-92b6-53b33bacbe0c"
-  },
-  {
-   "closed_at": 1790278139,
-   "company": "Alt Informatique",
-   "hours_open": 158.6,
-   "title": "Technicien informatique junior",
-   "uid": "jobillico:technicien informatique:17381391"
-  },
-  {
-   "closed_at": 1790278139,
-   "company": "spacex",
-   "hours_open": 504.8,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1790282422,
-   "company": "airbnb",
-   "hours_open": 22.8,
-   "title": "Software Engineer, Application Platform",
-   "uid": "greenhouse:airbnb:8227620"
-  },
-  {
-   "closed_at": 1790282422,
-   "company": "appdirect",
-   "hours_open": 246.7,
-   "title": "Software Developer",
-   "uid": "greenhouse:appdirect:8795491002"
-  },
-  {
-   "closed_at": 1790282422,
-   "company": "waabi",
-   "hours_open": 507.7,
-   "title": "Applied AI Security Engineer",
-   "uid": "lever:waabi:c4559ea4-1912-4d77-a32c-1a32849e86a0"
-  },
-  {
-   "closed_at": 1790282422,
-   "company": "Filgo",
-   "hours_open": 387.5,
-   "title": "Technicien informatique",
-   "uid": "jobillico:technicien informatique:17488314"
-  },
-  {
    "closed_at": 1790282422,
    "company": "Amazon",
    "hours_open": 43.5,
@@ -5599,8 +5529,78 @@
    "hours_open": 607.0,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1790661954,
+   "company": "Lancesoft",
+   "hours_open": 72.8,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50370694"
+  },
+  {
+   "closed_at": 1790661954,
+   "company": "Groupe DCM",
+   "hours_open": 259.0,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534670"
+  },
+  {
+   "closed_at": 1790661954,
+   "company": "Source Code",
+   "hours_open": 143.2,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50347574"
+  },
+  {
+   "closed_at": 1790661954,
+   "company": "NVIDIA",
+   "hours_open": 649.8,
+   "title": "GPU Verification Engineer New Grad",
+   "uid": "simplify:listings:c5d7115a-0381-48fe-937d-74497a7da062"
+  },
+  {
+   "closed_at": 1790661954,
+   "company": "D3 Security Management Systems Inc",
+   "hours_open": 247.6,
+   "title": "cybersecurity specialist",
+   "uid": "jobbank:specialiste infrastructure:50317565"
+  },
+  {
+   "closed_at": 1790661954,
+   "company": "graymatter-robotics",
+   "hours_open": 606.1,
+   "title": "Robotics Engineer (New Grad): Government Projects",
+   "uid": "ashby:graymatter-robotics:0f5acd77-6b34-4444-9ddc-1ce91cad177c"
+  },
+  {
+   "closed_at": 1790661954,
+   "company": "spacex",
+   "hours_open": 613.1,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1790661954,
+   "company": "spacex",
+   "hours_open": 612.9,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1790661954,
+   "company": "spacex",
+   "hours_open": 613.1,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1790661954,
+   "company": "spacex",
+   "hours_open": 613.1,
+   "title": "Security Engineer",
+   "uid": "greenhouse:spacex:8567522002"
   }
  ],
- "count": 809,
- "updated_at": 1790646100
+ "count": 810,
+ "updated_at": 1790661955
 }
