@@ -1,76 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1790289151,
-   "company": "andurilindustries",
-   "hours_open": 5.2,
-   "title": "Security Software Engineer, Endpoint Security",
-   "uid": "greenhouse:andurilindustries:5002801007"
-  },
-  {
-   "closed_at": 1790289837,
-   "company": "Alt Informatique",
-   "hours_open": 161.8,
-   "title": "Technicien informatique junior",
-   "uid": "jobillico:technicien informatique:17381391"
-  },
-  {
-   "closed_at": 1790289837,
-   "company": "Cooptel",
-   "hours_open": 389.6,
-   "title": "Administrateur réseau",
-   "uid": "jobillico:analyste reseau:17185045"
-  },
-  {
-   "closed_at": 1790289837,
-   "company": "JeffreyM Consulting",
-   "hours_open": 232.1,
-   "title": "Full-Stack Software Engineer",
-   "uid": "workable:jeffreym-consulting:44CAA8DF6E"
-  },
-  {
-   "closed_at": 1790289837,
-   "company": "Trexquant Investment",
-   "hours_open": 502.8,
-   "title": "IT Systems Engineer - End-User Support (USA)",
-   "uid": "workable:trexquant:8B045B8554"
-  },
-  {
-   "closed_at": 1790292621,
-   "company": "adobe",
-   "hours_open": 515.9,
-   "title": "2027 Intern - Machine Learning Engineer",
-   "uid": "workday:adobe.wd5/external_experienced:XMLNAME-2027-Intern---Machine-Learning-Engineer_R171519"
-  },
-  {
-   "closed_at": 1790292621,
-   "company": "ag",
-   "hours_open": 25.2,
-   "title": "Junior Engineer Structural Analysis (d/m/w) – A400M Fuselage",
-   "uid": "workday:ag.wd3/Airbus:Junior-Engineer-Structural-Analysis--d-m-w----A400M-Fuselage_JR10436284"
-  },
-  {
-   "closed_at": 1790292621,
-   "company": "twitch",
-   "hours_open": 510.5,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1790292621,
-   "company": "Northrop Grumman",
-   "hours_open": 70.6,
-   "title": "Associate Software Engineer",
-   "uid": "simplify:listings:2ea09470-e970-4deb-8ed2-481e7329c275"
-  },
-  {
-   "closed_at": 1790292621,
-   "company": "RTX",
-   "hours_open": 24.3,
-   "title": "Software Engineer 1",
-   "uid": "simplify:listings:def54711-e5fe-4a9d-93e2-3d38983e8f08"
-  },
-  {
    "closed_at": 1790292621,
    "company": "spacex",
    "hours_open": 510.5,
@@ -5599,8 +5529,78 @@
    "hours_open": 318.9,
    "title": "Junior Systems Administrator",
    "uid": "workable:saalex:DC7DE92DC3"
+  },
+  {
+   "closed_at": 1790691024,
+   "company": "accenturefederalservices",
+   "hours_open": 258.4,
+   "title": "Pega Developer",
+   "uid": "greenhouse:accenturefederalservices:4714762006"
+  },
+  {
+   "closed_at": 1790691024,
+   "company": "miovision",
+   "hours_open": 501.0,
+   "title": "IT Systems Administrator",
+   "uid": "ashby:miovision:8724e052-0a5f-4be3-a7fb-0966fe8cd7a1"
+  },
+  {
+   "closed_at": 1790691024,
+   "company": "barclays",
+   "hours_open": 476.2,
+   "title": "2027 Technology Developer Summer Internship Programme Northampton",
+   "uid": "workday:barclays.wd3/External_Career_Site_Barclays:XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-Northampton_JR-0000129379"
+  },
+  {
+   "closed_at": 1790691024,
+   "company": "barclays",
+   "hours_open": 476.2,
+   "title": "2027 Technology Developer Summer Internship Programme London",
+   "uid": "workday:barclays.wd3/External_Career_Site_Barclays:XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-London_JR-0000129397"
+  },
+  {
+   "closed_at": 1790691024,
+   "company": "barclays",
+   "hours_open": 476.2,
+   "title": "2027 Technology Developer Summer Internship Programme Knutsford",
+   "uid": "workday:barclays.wd3/External_Career_Site_Barclays:XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-Knutsford_JR-0000129381"
+  },
+  {
+   "closed_at": 1790691024,
+   "company": "barclays",
+   "hours_open": 476.2,
+   "title": "2027 Technology Developer Summer Internship Programme Glasgow",
+   "uid": "workday:barclays.wd3/External_Career_Site_Barclays:XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-Glasgow_JR-0000129387"
+  },
+  {
+   "closed_at": 1790691024,
+   "company": "aero",
+   "hours_open": 445.5,
+   "title": "Junior Frontend Designer & Developer",
+   "uid": "workday:aero.wd5/external:Junior-Frontend-Designer---Developer_R016551"
+  },
+  {
+   "closed_at": 1790691024,
+   "company": "avnet",
+   "hours_open": 119.8,
+   "title": "Technical Sales Engineer - AMD/Xilinx",
+   "uid": "workday:avnet.wd1/external:Technical-Sales-Engineer_JR-022739"
+  },
+  {
+   "closed_at": 1790691024,
+   "company": "D3 Security Management Systems Inc",
+   "hours_open": 255.6,
+   "title": "cybersecurity specialist",
+   "uid": "jobbank:specialiste infrastructure:50317565"
+  },
+  {
+   "closed_at": 1790691024,
+   "company": "Amazon",
+   "hours_open": 280.0,
+   "title": "Software Development Engineer, Platform Engineering and Emerging Technologies",
+   "uid": "amazon:amazon:10552647"
   }
  ],
- "count": 805,
- "updated_at": 1790687927
+ "count": 810,
+ "updated_at": 1790691025
 }
