@@ -1,216 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1790294740,
-   "company": "Trulioo",
-   "hours_open": 1.6,
-   "title": "Junior Software Engineer",
-   "uid": "simplify:listings:b70dd956-6085-4758-b5b8-1a3509421369"
-  },
-  {
-   "closed_at": 1790294740,
-   "company": "Amazon",
-   "hours_open": 5.3,
-   "title": "Software Development Engineer, Customer Service Technologies",
-   "uid": "amazon:amazon:10559392"
-  },
-  {
-   "closed_at": 1790294740,
-   "company": "boeing",
-   "hours_open": 24.9,
-   "title": "Early Career Mechanical Design Engineer",
-   "uid": "workday:boeing.wd1/external_subsidiary:Early-Career-Mechanical-Design-Engineer_JR2026523501"
-  },
-  {
-   "closed_at": 1790294740,
-   "company": "twitch",
-   "hours_open": 508.2,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1790294740,
-   "company": "cat",
-   "hours_open": 47.6,
-   "title": "2027 Entry Level IT Analyst",
-   "uid": "workday:cat.wd5/solarturbines:XMLNAME-2027-Entry-Level-IT-Analyst_R0000381899"
-  },
-  {
-   "closed_at": 1790294740,
-   "company": "boeing",
-   "hours_open": 56.6,
-   "title": "Associate Software Engineer",
-   "uid": "workday:boeing.wd1/EXTERNAL_CAREERS:Associate-Software-Engineer_JR2026516706-1"
-  },
-  {
-   "closed_at": 1790294740,
-   "company": "caci",
-   "hours_open": 9.7,
-   "title": "Software Engineer - Early Career - Cloud",
-   "uid": "workday:caci.wd1/external:Software-Engineer---Early-Career---Cloud_330679"
-  },
-  {
-   "closed_at": 1790294740,
-   "company": "spacex",
-   "hours_open": 508.2,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1790294740,
-   "company": "SpaceX",
-   "hours_open": 547.8,
-   "title": "New Grad Engineer - Silicon Engineering",
-   "uid": "simplify:listings:a537c9a6-baac-4468-9e36-ec8c0bea98ec"
-  },
-  {
-   "closed_at": 1790294828,
-   "company": "canadiantirecorporation",
-   "hours_open": 387.7,
-   "title": "Business Systems Engineer, AI",
-   "uid": "workday:canadiantirecorporation.wd3/Enterprise_External_Careers_Site:Business-Systems-Engineer---AI_JR160709"
-  },
-  {
-   "closed_at": 1790294828,
-   "company": "bmo",
-   "hours_open": 243.6,
-   "title": "Quantitative Developer (Alpha Research Team) - GAM, Summer 2027 (Co-op/Internship) - 12 months",
-   "uid": "workday:bmo.wd3/Campus:Quantitative-Developer--Alpha-Research-Team----GAM--Summer-2027--Co-op-Internship----12-months_R260026715"
-  },
-  {
-   "closed_at": 1790294828,
-   "company": "Amentum",
-   "hours_open": 70.4,
-   "title": "Entry Level Software Engineer",
-   "uid": "simplify:listings:b75d9a5e-5bbf-4016-8d19-1384e5528fdf"
-  },
-  {
-   "closed_at": 1790294828,
-   "company": "Trulioo",
-   "hours_open": 1.6,
-   "title": "Junior Software Engineer",
-   "uid": "simplify:listings:b70dd956-6085-4758-b5b8-1a3509421369"
-  },
-  {
-   "closed_at": 1790294828,
-   "company": "Amazon",
-   "hours_open": 5.4,
-   "title": "Software Development Engineer, Customer Service Technologies",
-   "uid": "amazon:amazon:10559392"
-  },
-  {
-   "closed_at": 1790294828,
-   "company": "boeing",
-   "hours_open": 24.9,
-   "title": "Early Career Mechanical Design Engineer",
-   "uid": "workday:boeing.wd1/external_subsidiary:Early-Career-Mechanical-Design-Engineer_JR2026523501"
-  },
-  {
-   "closed_at": 1790294828,
-   "company": "twitch",
-   "hours_open": 508.2,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1790294828,
-   "company": "cat",
-   "hours_open": 47.7,
-   "title": "2027 Entry Level IT Analyst",
-   "uid": "workday:cat.wd5/solarturbines:XMLNAME-2027-Entry-Level-IT-Analyst_R0000381899"
-  },
-  {
-   "closed_at": 1790294828,
-   "company": "boeing",
-   "hours_open": 56.6,
-   "title": "Associate Software Engineer",
-   "uid": "workday:boeing.wd1/EXTERNAL_CAREERS:Associate-Software-Engineer_JR2026516706-1"
-  },
-  {
-   "closed_at": 1790294828,
-   "company": "caci",
-   "hours_open": 9.7,
-   "title": "Software Engineer - Early Career - Cloud",
-   "uid": "workday:caci.wd1/external:Software-Engineer---Early-Career---Cloud_330679"
-  },
-  {
-   "closed_at": 1790294828,
-   "company": "spacex",
-   "hours_open": 508.2,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1790294828,
-   "company": "SpaceX",
-   "hours_open": 547.8,
-   "title": "New Grad Engineer - Silicon Engineering",
-   "uid": "simplify:listings:a537c9a6-baac-4468-9e36-ec8c0bea98ec"
-  },
-  {
-   "closed_at": 1790297185,
-   "company": "bmo",
-   "hours_open": 0.7,
-   "title": "AI Engineer, Winter 2027 (Co-op/Internship) - 8 months",
-   "uid": "workday:bmo.wd3/Campus:AI-Engineer--Winter-2027--Co-op-Internship----8-months_R260027622-2"
-  },
-  {
-   "closed_at": 1790297185,
-   "company": "globalhr",
-   "hours_open": 163.2,
-   "title": "HWIL Software Engineer I",
-   "uid": "workday:globalhr.wd5/rec_rtx_ext_gateway:HWIL-Software-Engineer-I_01874565"
-  },
-  {
-   "closed_at": 1790297185,
-   "company": "pagerduty",
-   "hours_open": 524.4,
-   "title": "Site Reliability Engineer I",
-   "uid": "greenhouse:pagerduty:6162484004"
-  },
-  {
-   "closed_at": 1790297185,
-   "company": "Groupe DCM",
-   "hours_open": 157.7,
-   "title": "Programmeur CNC / CNC Programmer",
-   "uid": "jobillico:programmeur junior:17534670"
-  },
-  {
-   "closed_at": 1790297185,
-   "company": "globalhr",
-   "hours_open": 114.5,
-   "title": "Software Engineer Intern (Summer 2027) - Onsite",
-   "uid": "workday:globalhr.wd5/Private_Posting_No_TMP:Software-Engineer-Intern--Summer-2027----Onsite_01873017"
-  },
-  {
-   "closed_at": 1790297185,
-   "company": "ICF International",
-   "hours_open": 200.9,
-   "title": "Junior Software Engineer",
-   "uid": "simplify:listings:fe0763db-c658-4003-84f4-cc7e0d8848a4"
-  },
-  {
-   "closed_at": 1790297185,
-   "company": "daikinapplied",
-   "hours_open": 388.4,
-   "title": "Test Engineer I",
-   "uid": "workday:daikinapplied.wd1/Pre-Selected_Candidate_Site:Test-Engineer-I_R003050"
-  },
-  {
-   "closed_at": 1790297185,
-   "company": "andurilindustries",
-   "hours_open": 6.2,
-   "title": "Software Engineer- Machine Learning",
-   "uid": "greenhouse:andurilindustries:5124403007"
-  },
-  {
-   "closed_at": 1790297811,
-   "company": "Groupe DCM",
-   "hours_open": 164.0,
-   "title": "Programmeur CNC / CNC Programmer",
-   "uid": "jobillico:programmeur junior:17534679"
-  },
-  {
    "closed_at": 1790297811,
    "company": "icf",
    "hours_open": 195.4,
@@ -5599,8 +5389,218 @@
    "hours_open": 16.4,
    "title": "Associate Software Engineer",
    "uid": "workday:boeing.wd1/EXTERNAL_CAREERS:Associate-Software-Engineer_JR2026511462-1"
+  },
+  {
+   "closed_at": 1790706099,
+   "company": "globalfoundries",
+   "hours_open": 17.9,
+   "title": "AI/ML Analytics Engineer (2027 New College Graduate)",
+   "uid": "workday:globalfoundries.wd1/External:AI-ML-Analytics-Engineer--2027-New-College-Graduate-_JR-2604942"
+  },
+  {
+   "closed_at": 1790706099,
+   "company": "gevernova",
+   "hours_open": 17.9,
+   "title": "SCS/CS Field Service Engineer Intern",
+   "uid": "workday:gevernova.wd5/only_confidential_executive_recruiting:SCS-CS-Field-Service-Engineer-Intern_R5054171-1"
+  },
+  {
+   "closed_at": 1790706099,
+   "company": "globalhr",
+   "hours_open": 17.9,
+   "title": "Software Engineering Co-op (Summer/Fall 2027)",
+   "uid": "workday:globalhr.wd5/rec_rtx_ext_gateway:Software-Engineering-Co-op--Summer-Fall-2027-_01871232"
+  },
+  {
+   "closed_at": 1790706099,
+   "company": "eversource",
+   "hours_open": 17.9,
+   "title": "IT Associate Software Engineer (Hybrid)",
+   "uid": "workday:eversource.wd1/ExternalSite:IT-Associate-Software-Engineer--Hybrid-_R-031045"
+  },
+  {
+   "closed_at": 1790706099,
+   "company": "fis",
+   "hours_open": 170.6,
+   "title": "Junior QA Automation",
+   "uid": "workday:fis.wd5/searchjobs:SDET-Specialist_JR0307882"
+  },
+  {
+   "closed_at": 1790706099,
+   "company": "alayacare",
+   "hours_open": 337.4,
+   "title": "Fullstack Developer (Python) - Platform Team",
+   "uid": "greenhouse:alayacare:8811313002"
+  },
+  {
+   "closed_at": 1790706099,
+   "company": "altentechnologyusa",
+   "hours_open": 595.2,
+   "title": "Junior Brake/Suspension Engineer",
+   "uid": "greenhouse:altentechnologyusa:5231655007"
+  },
+  {
+   "closed_at": 1790706099,
+   "company": "telus-digital",
+   "hours_open": 625.4,
+   "title": "React Developer",
+   "uid": "ashby:telus-digital:586f69d8-45bd-4e0b-aadc-5314956e374a"
+  },
+  {
+   "closed_at": 1790706099,
+   "company": "tebra",
+   "hours_open": 638.0,
+   "title": "Software Engineer I",
+   "uid": "greenhouse:tebra:4726985005"
+  },
+  {
+   "closed_at": 1790706099,
+   "company": "globalhr",
+   "hours_open": 17.9,
+   "title": "Software Engineering Intern (Summer 2027)",
+   "uid": "workday:globalhr.wd5/Private_Posting_No_TMP:Software-Engineering-Intern--Summer-2027-_01874696"
+  },
+  {
+   "closed_at": 1790706099,
+   "company": "Great Lakes Group",
+   "hours_open": 26.3,
+   "title": "hardware engineer",
+   "uid": "jobbank:scada:50380579"
+  },
+  {
+   "closed_at": 1790706099,
+   "company": "ACCEO Solutions - Services de garde",
+   "hours_open": 116.6,
+   "title": "Technicien en informatique",
+   "uid": "jobillico:technicien informatique:17557089"
+  },
+  {
+   "closed_at": 1790706099,
+   "company": "dtna",
+   "hours_open": 161.9,
+   "title": "Cab Wiring Engineer I",
+   "uid": "workday:dtna.wd5/dtna_affiliate:Cab-Wiring-Engineer-I_DT-19764-1"
+  },
+  {
+   "closed_at": 1790706099,
+   "company": "gevernova",
+   "hours_open": 264.8,
+   "title": "Engineering Intern - Power Conversion & Storage AI Tool Developer  2027",
+   "uid": "workday:gevernova.wd5/only_confidential_executive_recruiting:Engineering-Intern---Power-Conversion---Storage-AI-Tool-Developer--2027_R5049957-1"
+  },
+  {
+   "closed_at": 1790706099,
+   "company": "eversource",
+   "hours_open": 332.1,
+   "title": "Associate Engineer, Transmission System Planning (MA, CT, NH)",
+   "uid": "workday:eversource.wd1/ExternalSite:Associate-Engineer--Transmission-System-Planning--MA--CT--NH-_R-031081"
+  },
+  {
+   "closed_at": 1790706099,
+   "company": "ebi",
+   "hours_open": 17.9,
+   "title": "Product Engineer Intern",
+   "uid": "workday:ebi.wd5/ebicareers:Product-Engineer-Intern_REQ107697-1"
+  },
+  {
+   "closed_at": 1790706099,
+   "company": "Amazon",
+   "hours_open": 188.1,
+   "title": "Software Development Engineer, Amazon Marketing Cloud Assistant",
+   "uid": "amazon:amazon:10555497"
+  },
+  {
+   "closed_at": 1790706099,
+   "company": "Amazon",
+   "hours_open": 144.9,
+   "title": "Software Development Engineer, Ads AI Core Infra",
+   "uid": "amazon:amazon:10557990"
+  },
+  {
+   "closed_at": 1790706099,
+   "company": "Amazon",
+   "hours_open": 121.0,
+   "title": "Software Development Engineer, AWS Quick",
+   "uid": "amazon:amazon:10553888"
+  },
+  {
+   "closed_at": 1790706099,
+   "company": "Amazon",
+   "hours_open": 165.0,
+   "title": "Software Development Engineer, Amazon Vulnerability Management Service ",
+   "uid": "amazon:amazon:10556982"
+  },
+  {
+   "closed_at": 1790706099,
+   "company": "Amazon",
+   "hours_open": 22.1,
+   "title": "Software Development Engineer, AWS Vulnerability Management (AVM)",
+   "uid": "amazon:amazon:10562475"
+  },
+  {
+   "closed_at": 1790706099,
+   "company": "togetherai",
+   "hours_open": 251.6,
+   "title": "GTM Data Analytics Engineer",
+   "uid": "greenhouse:togetherai:5223190007"
+  },
+  {
+   "closed_at": 1790706099,
+   "company": "trace3",
+   "hours_open": 496.8,
+   "title": "Delivery Engineer | Splunk (W2PE)",
+   "uid": "greenhouse:trace3:7833761"
+  },
+  {
+   "closed_at": 1790706099,
+   "company": "Ciena",
+   "hours_open": 605.0,
+   "title": "Hardware Power Engineer – New Grad",
+   "uid": "simplify:listings:be35a8e8-0046-42a6-a612-b34eab9848e1"
+  },
+  {
+   "closed_at": 1790706099,
+   "company": "L3Harris Technologies",
+   "hours_open": 427.5,
+   "title": "Associate Software Engineer",
+   "uid": "simplify:listings:d53857e6-598b-490e-a1af-82e8bef24fa6"
+  },
+  {
+   "closed_at": 1790706099,
+   "company": "General Dynamics Mission Systems",
+   "hours_open": 473.8,
+   "title": "Software Engineer Entry Level",
+   "uid": "simplify:listings:f19b1b6b-457a-436b-9a2a-d6488e452bbd"
+  },
+  {
+   "closed_at": 1790706099,
+   "company": "spacex",
+   "hours_open": 625.4,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1790706099,
+   "company": "andurilindustries",
+   "hours_open": 623.7,
+   "title": "Structures Engineer",
+   "uid": "greenhouse:andurilindustries:5067213007"
+  },
+  {
+   "closed_at": 1790706099,
+   "company": "accenturefederalservices",
+   "hours_open": 625.4,
+   "title": "Full Stack Software Engineer",
+   "uid": "greenhouse:accenturefederalservices:4683032006"
+  },
+  {
+   "closed_at": 1790706099,
+   "company": "accenturefederalservices",
+   "hours_open": 505.2,
+   "title": "Certified Information Systems Auditor (CISA)",
+   "uid": "greenhouse:accenturefederalservices:4674738006"
   }
  ],
- "count": 807,
- "updated_at": 1790691603
+ "count": 830,
+ "updated_at": 1790706099
 }
