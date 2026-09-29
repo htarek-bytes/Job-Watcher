@@ -2,34 +2,6 @@
  "closed": [
   {
    "closed_at": 1790286428,
-   "company": "Radiance Technologies",
-   "hours_open": 545.5,
-   "title": "Entry-level Microelectronics R&D Engineer",
-   "uid": "simplify:listings:4d33364c-c685-48f1-bdaf-675e93d5a63b"
-  },
-  {
-   "closed_at": 1790286428,
-   "company": "spacex",
-   "hours_open": 508.8,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1790286428,
-   "company": "spacex",
-   "hours_open": 508.8,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1790286428,
-   "company": "spacex",
-   "hours_open": 508.8,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1790286428,
    "company": "andurilindustries",
    "hours_open": 507.1,
    "title": "Robotics Software Engineer",
@@ -5599,8 +5571,36 @@
    "hours_open": 614.1,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1790667206,
+   "company": "twitch",
+   "hours_open": 614.6,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1790667206,
+   "company": "shyftlabs",
+   "hours_open": 614.6,
+   "title": "Data Engineer",
+   "uid": "lever:shyftlabs:a34ac0d8-9c48-4cd6-9c12-c5a6740b18ac"
+  },
+  {
+   "closed_at": 1790667206,
+   "company": "plus-2",
+   "hours_open": 611.7,
+   "title": "Perception Validation Engineer",
+   "uid": "lever:plus-2:0c342721-601c-4466-b503-5b18438064c2"
+  },
+  {
+   "closed_at": 1790667206,
+   "company": "spacex",
+   "hours_open": 614.6,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
   }
  ],
  "count": 804,
- "updated_at": 1790666318
+ "updated_at": 1790667206
 }
