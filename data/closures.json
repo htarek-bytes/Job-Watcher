@@ -1,83 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1790347721,
-   "company": "ag",
-   "hours_open": 72.6,
-   "title": "Internship in Avionics Systems - Database Architecture",
-   "uid": "workday:ag.wd3/Airbus:Internship-in-Avionics-Systems---Database-Architecture_JR10434356"
-  },
-  {
-   "closed_at": 1790347721,
-   "company": "Groupe DCM",
-   "hours_open": 171.7,
-   "title": "Programmeur CNC / CNC Programmer",
-   "uid": "jobillico:programmeur junior:17534670"
-  },
-  {
-   "closed_at": 1790347721,
-   "company": "barr",
-   "hours_open": 97.6,
-   "title": "Internship – Water Resources Engineer (Hybrid)",
-   "uid": "workday:barr.wd1/barrcareers:Internship---Water-Resources-Engineer--Hybrid-_R-102303"
-  },
-  {
-   "closed_at": 1790347721,
-   "company": "altentechnologyusa",
-   "hours_open": 524.2,
-   "title": "Design and Release Engineer",
-   "uid": "greenhouse:altentechnologyusa:5165806007"
-  },
-  {
-   "closed_at": 1790347721,
-   "company": "boeing",
-   "hours_open": 14.7,
-   "title": "Associate Software Engineer",
-   "uid": "workday:boeing.wd1/EXTERNAL_CAREERS:Associate-Software-Engineer_JR2026520254-1"
-  },
-  {
-   "closed_at": 1790347721,
-   "company": "spacex",
-   "hours_open": 522.9,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1790347721,
-   "company": "spacex",
-   "hours_open": 525.6,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1790347721,
-   "company": "voyagertechnologiesinc",
-   "hours_open": 405.7,
-   "title": "Systems Administrator-Cleared",
-   "uid": "greenhouse:voyagertechnologiesinc:4284391009"
-  },
-  {
-   "closed_at": 1790348521,
-   "company": "singlestore",
-   "hours_open": 24.6,
-   "title": "Software Engineer | Observability ",
-   "uid": "greenhouse:singlestore:8185163"
-  },
-  {
-   "closed_at": 1790348521,
-   "company": "Alt Informatique",
-   "hours_open": 178.1,
-   "title": "Technicien informatique junior",
-   "uid": "jobillico:technicien informatique:17381391"
-  },
-  {
-   "closed_at": 1790348521,
-   "company": "Orillia Sports Medicine",
-   "hours_open": 165.7,
-   "title": "cloud administrator",
-   "uid": "jobbank:cloud administrator:50314590"
-  },
-  {
    "closed_at": 1790348521,
    "company": "Cooptel",
    "hours_open": 405.9,
@@ -5599,8 +5522,85 @@
    "hours_open": 120.0,
    "title": "Software Development Engineer Intern, Amazon Leo - Summer 2027 (USA)",
    "uid": "amazon:amazon:10559762"
+  },
+  {
+   "closed_at": 1790721523,
+   "company": "retell-ai",
+   "hours_open": 418.2,
+   "title": "Forward Deployed Engineer, New Grad",
+   "uid": "ashby:retell-ai:161bcfc9-56dd-4d0c-869d-e5de1431a940"
+  },
+  {
+   "closed_at": 1790721523,
+   "company": "snowflake",
+   "hours_open": 112.6,
+   "title": "Software Engineer Intern (AI / ML) - Spring 2027",
+   "uid": "ashby:snowflake:4be290ae-dd9d-488c-9d90-56fcd69101ca"
+  },
+  {
+   "closed_at": 1790721523,
+   "company": "snowflake",
+   "hours_open": 112.6,
+   "title": "Software Engineer Intern (Database Engineering) - Spring 2027",
+   "uid": "ashby:snowflake:7bd393df-67d7-4009-ba4f-1cd79a82b0be"
+  },
+  {
+   "closed_at": 1790721523,
+   "company": "snowflake",
+   "hours_open": 112.6,
+   "title": "Software Engineer Intern (Core, Infrastructure & Security) — Spring 2027",
+   "uid": "ashby:snowflake:5315b6f6-2c14-4cb9-a884-c2bae69f2c69"
+  },
+  {
+   "closed_at": 1790721523,
+   "company": "people-culture-talent",
+   "hours_open": 481.3,
+   "title": "Founding Engineer ",
+   "uid": "ashby:people-culture-talent:02840194-4fef-4446-b0bb-694a4186e16d"
+  },
+  {
+   "closed_at": 1790721523,
+   "company": "Groupe DCM",
+   "hours_open": 275.6,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534670"
+  },
+  {
+   "closed_at": 1790721523,
+   "company": "radiant-industries",
+   "hours_open": 276.6,
+   "title": "Build Engineer, Turbomachinery - 2026 New Graduate",
+   "uid": "ashby:radiant-industries:a078f0fe-56dd-4add-a8ff-f0dd4fe7ce43"
+  },
+  {
+   "closed_at": 1790721523,
+   "company": "opengov",
+   "hours_open": 194.4,
+   "title": "Intern, Software Engineer",
+   "uid": "ashby:opengov:c31622c1-be01-4d4a-b7cf-d116be84cc08"
+  },
+  {
+   "closed_at": 1790721523,
+   "company": "L3Harris Technologies",
+   "hours_open": 4.3,
+   "title": "Associate Software Engineer",
+   "uid": "simplify:listings:09f77798-c3bb-40b8-8b28-a90ef55e1885"
+  },
+  {
+   "closed_at": 1790721523,
+   "company": "siftstack",
+   "hours_open": 626.6,
+   "title": "Software Engineer, Full Stack",
+   "uid": "ashby:siftstack:6de6e754-b953-4e8d-a2ce-f56fcfd3031f"
+  },
+  {
+   "closed_at": 1790721523,
+   "company": "siftstack",
+   "hours_open": 626.6,
+   "title": "Software Engineer, Full Stack (Agentic AI)",
+   "uid": "ashby:siftstack:7d3ddb83-d6f1-4c45-be1b-352102fdad5f"
   }
  ],
- "count": 821,
- "updated_at": 1790721063
+ "count": 811,
+ "updated_at": 1790721523
 }
