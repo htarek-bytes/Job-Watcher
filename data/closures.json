@@ -2,34 +2,6 @@
  "closed": [
   {
    "closed_at": 1790282422,
-   "company": "General Motors",
-   "hours_open": 544.3,
-   "title": "Software Engineer – Early Career - Autonomous Vehicles Software Systems",
-   "uid": "simplify:listings:7f07b83f-6b6f-4722-9fc9-391681b0c844"
-  },
-  {
-   "closed_at": 1790282422,
-   "company": "spacex",
-   "hours_open": 504.8,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1790282422,
-   "company": "systemstechnologyresearch",
-   "hours_open": 387.5,
-   "title": "Autonomy Algorithms Software Engineer",
-   "uid": "greenhouse:systemstechnologyresearch:4704680006"
-  },
-  {
-   "closed_at": 1790282422,
-   "company": "spacex",
-   "hours_open": 507.4,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1790282422,
    "company": "Amazon",
    "hours_open": 183.2,
    "title": "Software Development Engineer , Ground Control Console (GC2)",
@@ -5599,8 +5571,36 @@
    "hours_open": 610.2,
    "title": "Security Engineer, Detection Engineering",
    "uid": "ashby:saronic:61770fb7-97a5-4be3-9556-32b2ff522e6d"
+  },
+  {
+   "closed_at": 1790663808,
+   "company": "armstrongfluidtechnology",
+   "hours_open": 525.9,
+   "title": "Technical Sales Coordinator - Consulting Engineer",
+   "uid": "bamboohr:armstrongfluidtechnology:948"
+  },
+  {
+   "closed_at": 1790663808,
+   "company": "armstrongfluidtechnology",
+   "hours_open": 493.5,
+   "title": "Regional Marketing Communications Specialist (US & LATAM)",
+   "uid": "bamboohr:armstrongfluidtechnology:976"
+  },
+  {
+   "closed_at": 1790663808,
+   "company": "twitch",
+   "hours_open": 613.7,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1790663808,
+   "company": "spacex",
+   "hours_open": 613.7,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
   }
  ],
- "count": 807,
- "updated_at": 1790662580
+ "count": 804,
+ "updated_at": 1790663809
 }
