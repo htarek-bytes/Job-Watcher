@@ -2,41 +2,6 @@
  "closed": [
   {
    "closed_at": 1790319681,
-   "company": "Idexia",
-   "hours_open": 353.1,
-   "title": "programmer analyst",
-   "uid": "jobbank:junior programmer:50257800"
-  },
-  {
-   "closed_at": 1790319681,
-   "company": "F J Construction specialties ltd",
-   "hours_open": 349.6,
-   "title": "information systems analyst - computer systems",
-   "uid": "jobbank:systems analyst:50260015"
-  },
-  {
-   "closed_at": 1790319681,
-   "company": "twitch",
-   "hours_open": 515.1,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1790319681,
-   "company": "Source Code",
-   "hours_open": 1.5,
-   "title": "software developer",
-   "uid": "jobbank:entry level software developer:50353185"
-  },
-  {
-   "closed_at": 1790319681,
-   "company": "spacex",
-   "hours_open": 518.1,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1790319681,
    "company": "spacex",
    "hours_open": 516.4,
    "title": "Software Engineer (Starship)",
@@ -5599,8 +5564,43 @@
    "hours_open": 624.8,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1790710298,
+   "company": "applied",
+   "hours_open": 487.6,
+   "title": "Electrical System Integration Engineer - New Grad (December 2026)",
+   "uid": "ashby:applied:6b9a508b-359f-43c1-aa83-cabf55c3e03e"
+  },
+  {
+   "closed_at": 1790710298,
+   "company": "Groupe DCM",
+   "hours_open": 272.4,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534670"
+  },
+  {
+   "closed_at": 1790710298,
+   "company": "Cooptel",
+   "hours_open": 506.4,
+   "title": "Administrateur réseau",
+   "uid": "jobillico:analyste reseau:17185045"
+  },
+  {
+   "closed_at": 1790710298,
+   "company": "twitch",
+   "hours_open": 623.6,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1790710298,
+   "company": "trimedx",
+   "hours_open": 643.4,
+   "title": "Imaging Engineer I",
+   "uid": "workday:trimedx.wd1/TMX:Imaging-Engineer-I_R14875"
   }
  ],
- "count": 814,
- "updated_at": 1790710014
+ "count": 805,
+ "updated_at": 1790710299
 }
