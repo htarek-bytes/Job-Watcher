@@ -1,69 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1790301121,
-   "company": "ncr",
-   "hours_open": 243.4,
-   "title": "Customer Engineer",
-   "uid": "workday:ncr.wd1/ext_us:Customer-Engineer_R0157376-1"
-  },
-  {
-   "closed_at": 1790301121,
-   "company": "spacex",
-   "hours_open": 511.2,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1790311773,
-   "company": "Sabre Systems",
-   "hours_open": 6.1,
-   "title": "Metrology Junior Electronics Engineer",
-   "uid": "simplify:listings:ed272437-aba4-4a92-8804-b4d3c53922b4"
-  },
-  {
-   "closed_at": 1790311773,
-   "company": "Groupe DCM",
-   "hours_open": 167.9,
-   "title": "Programmeur CNC / CNC Programmer",
-   "uid": "jobillico:programmeur junior:17534679"
-  },
-  {
-   "closed_at": 1790311773,
-   "company": "CIeNET International",
-   "hours_open": 186.4,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50305461"
-  },
-  {
-   "closed_at": 1790311773,
-   "company": "thehartford",
-   "hours_open": 376.9,
-   "title": "Tech & Data Program Summer 2027 – Data Engineer Intern (Charlotte)",
-   "uid": "workday:thehartford.wd5/Careers_External:Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Charlotte-_R2626648"
-  },
-  {
-   "closed_at": 1790311773,
-   "company": "thehartford",
-   "hours_open": 376.9,
-   "title": "Tech & Data Program Summer 2027 - Software Engineer Intern (Charlotte)",
-   "uid": "workday:thehartford.wd5/Careers_External:Tech---Data-Program-Summer-2027---Software-Engineer-Intern--Charlotte-_R2626649"
-  },
-  {
-   "closed_at": 1790311773,
-   "company": "SpaceX",
-   "hours_open": 552.5,
-   "title": "New Graduate Engineer - Silicon Engineering",
-   "uid": "simplify:listings:1e5443b7-9106-40cd-ace8-a45d3bfe8afe"
-  },
-  {
-   "closed_at": 1790311773,
-   "company": "spacex",
-   "hours_open": 515.9,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
    "closed_at": 1790311902,
    "company": "cerebras",
    "hours_open": 515.9,
@@ -5599,8 +5536,71 @@
    "hours_open": 629.1,
    "title": "Software Engineering Co-op_Fall 2027",
    "uid": "workday:haier.wd3/ge_appliances:Software-Engineering-Co-op-Fall-2027_REQ-26592"
+  },
+  {
+   "closed_at": 1790707348,
+   "company": "pae",
+   "hours_open": 17.7,
+   "title": "Software Engineer 1",
+   "uid": "workday:pae.wd1/amentum_careers:Software-Engineer-1_R0171612"
+  },
+  {
+   "closed_at": 1790707348,
+   "company": "Cooptel",
+   "hours_open": 505.6,
+   "title": "Administrateur réseau",
+   "uid": "jobillico:analyste reseau:17185045"
+  },
+  {
+   "closed_at": 1790707348,
+   "company": "micron",
+   "hours_open": 89.0,
+   "title": "Intern - Process Development Engineer, DRAM Thin Films",
+   "uid": "workday:micron.wd1/External:Intern---Process-Development-Engineer--DRAM-Thin-Films_JR107203"
+  },
+  {
+   "closed_at": 1790707348,
+   "company": "philips",
+   "hours_open": 426.6,
+   "title": "Intern– Design Assurance Engineer – Colorado Springs, CO – Summer 2027",
+   "uid": "workday:philips.wd3/jobs-and-careers:Intern--Design-Assurance-Engineer---Colorado-Springs--CO---Summer-2027_591948"
+  },
+  {
+   "closed_at": 1790707348,
+   "company": "twitch",
+   "hours_open": 622.8,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1790707348,
+   "company": "nvidia",
+   "hours_open": 17.7,
+   "title": "ASIC Verification Engineer - New College Grad 2027",
+   "uid": "workday:nvidia.wd5/NVIDIAExternalCareerSite:ASIC-Verification-Engineer---New-College-Grad-2027_JR2026343"
+  },
+  {
+   "closed_at": 1790707348,
+   "company": "nvidia",
+   "hours_open": 17.7,
+   "title": "ASIC Design Engineer - New College Grad 2027",
+   "uid": "workday:nvidia.wd5/NVIDIAExternalCareerSite:ASIC-Design-Engineer---New-College-Grad-2027_JR2026277"
+  },
+  {
+   "closed_at": 1790707348,
+   "company": "quick-release",
+   "hours_open": 441.2,
+   "title": "HiL Test Engineer - Automotive",
+   "uid": "greenhouse:quick-release:5223067007"
+  },
+  {
+   "closed_at": 1790707348,
+   "company": "spacex",
+   "hours_open": 625.5,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
   }
  ],
- "count": 807,
- "updated_at": 1790707197
+ "count": 809,
+ "updated_at": 1790707349
 }
