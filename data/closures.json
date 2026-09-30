@@ -1,146 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1790402075,
-   "company": "Groupe DCM",
-   "hours_open": 193.0,
-   "title": "Programmeur CNC / CNC Programmer",
-   "uid": "jobillico:programmeur junior:17534679"
-  },
-  {
-   "closed_at": 1790402075,
-   "company": "Cooptel",
-   "hours_open": 420.8,
-   "title": "Administrateur réseau",
-   "uid": "jobillico:analyste reseau:17185045"
-  },
-  {
-   "closed_at": 1790404952,
-   "company": "quantcast",
-   "hours_open": 538.7,
-   "title": "Software Engineer (Full Stack)",
-   "uid": "ashby:quantcast:09271839-e273-472b-948d-3d362867f809"
-  },
-  {
-   "closed_at": 1790408162,
-   "company": "Cooptel",
-   "hours_open": 422.5,
-   "title": "Administrateur réseau",
-   "uid": "jobillico:analyste reseau:17185045"
-  },
-  {
-   "closed_at": 1790419248,
-   "company": "Groupe DCM",
-   "hours_open": 191.6,
-   "title": "Programmeur CNC / CNC Programmer",
-   "uid": "jobillico:programmeur junior:17534670"
-  },
-  {
-   "closed_at": 1790423533,
-   "company": "Alt Informatique",
-   "hours_open": 198.9,
-   "title": "Technicien informatique junior",
-   "uid": "jobillico:technicien informatique:17381391"
-  },
-  {
-   "closed_at": 1790423533,
-   "company": "Citadel",
-   "hours_open": 583.5,
-   "title": "Software Engineer – University Graduate",
-   "uid": "simplify:listings:410b28b6-b357-4b72-9480-bad83701b4cb"
-  },
-  {
-   "closed_at": 1790431472,
-   "company": "Groupe DCM",
-   "hours_open": 201.1,
-   "title": "Programmeur CNC / CNC Programmer",
-   "uid": "jobillico:programmeur junior:17534679"
-  },
-  {
-   "closed_at": 1790431472,
-   "company": "Cooptel",
-   "hours_open": 428.9,
-   "title": "Administrateur réseau",
-   "uid": "jobillico:analyste reseau:17185045"
-  },
-  {
-   "closed_at": 1790431472,
-   "company": "cadence",
-   "hours_open": 542.7,
-   "title": "Software Engineer  (new college grad Dec 2026)",
-   "uid": "workday:cadence.wd1/University_Talent:Software-Engineer---new-college-grad-Dec-2026-_R55738-1"
-  },
-  {
-   "closed_at": 1790431472,
-   "company": "cadence",
-   "hours_open": 547.4,
-   "title": "Adams Application Software Developer  (Recent Grad 2026)",
-   "uid": "workday:cadence.wd1/University_Talent:Adams-Application-Software-Developer---Recent-Grad-2026-_R55736-1"
-  },
-  {
-   "closed_at": 1790431472,
-   "company": "boeing",
-   "hours_open": 94.5,
-   "title": "Associate Software Engineer",
-   "uid": "workday:boeing.wd1/EXTERNAL_CAREERS:Associate-Software-Engineer_JR2026516706-1"
-  },
-  {
-   "closed_at": 1790431472,
-   "company": "cadence",
-   "hours_open": 561.8,
-   "title": "Adams MultiBody Dynamics Application Software Developer (Recent Grad 2026)",
-   "uid": "workday:cadence.wd1/University_Talent:Adams-MultiBody-Dynamics-Application-Software-Developer--Recent-Grad-2026-_R55788-3"
-  },
-  {
-   "closed_at": 1790431472,
-   "company": "caci",
-   "hours_open": 62.0,
-   "title": "Software Engineering Intern - Summer 2027",
-   "uid": "workday:caci.wd1/external:Software-Engineering-Intern---Summer-2027_332041"
-  },
-  {
-   "closed_at": 1790431472,
-   "company": "RTX",
-   "hours_open": 118.1,
-   "title": "Embedded Software Engineer 1",
-   "uid": "simplify:listings:551e52f2-65d3-4921-b08d-5f686b953112"
-  },
-  {
-   "closed_at": 1790433343,
-   "company": "dtna",
-   "hours_open": 13.8,
-   "title": "Manufacturing Systems Engineer - Advanced Manufacturing & AI I",
-   "uid": "workday:dtna.wd5/dtna_affiliate:Manufacturing-Systems-Engineer---Advanced-Manufacturing---AI-I_DT-19263"
-  },
-  {
-   "closed_at": 1790433343,
-   "company": "VILLE DE SAINTE-MARGUERITE-DU-LAC- MASSON",
-   "hours_open": 23.8,
-   "title": "network infrastructure engineer",
-   "uid": "jobbank:specialiste infrastructure:50365083"
-  },
-  {
-   "closed_at": 1790433946,
-   "company": "Groupe DCM",
-   "hours_open": 195.7,
-   "title": "Programmeur CNC / CNC Programmer",
-   "uid": "jobillico:programmeur junior:17534670"
-  },
-  {
-   "closed_at": 1790433946,
-   "company": "intactfc",
-   "hours_open": 71.7,
-   "title": "AI Developer – 4-Month Internship/Co-op (Winter 2027) ",
-   "uid": "workday:intactfc.wd3/intactfc:AI-Developer---4-Month-Internship-Co-op--Winter-2027--_R155234"
-  },
-  {
-   "closed_at": 1790433946,
-   "company": "gevernova",
-   "hours_open": 93.9,
-   "title": "Engineering Intern - Power Conversion & Storage AI Tool Developer  2027",
-   "uid": "workday:gevernova.wd5/vernova_externalsite:Engineering-Intern---Power-Conversion---Storage-AI-Tool-Developer--2027_R5049957-2"
-  },
-  {
    "closed_at": 1790433946,
    "company": "iberdrola",
    "hours_open": 378.0,
@@ -5599,8 +5459,148 @@
    "hours_open": 651.2,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1790807897,
+   "company": "FOP EXPERTS CONSEILS INC.",
+   "hours_open": 8.4,
+   "title": "network system administrator",
+   "uid": "jobbank:systems administrator:50396149"
+  },
+  {
+   "closed_at": 1790807897,
+   "company": "ag",
+   "hours_open": 48.7,
+   "title": "Retrofit Solutions Engineering Systems Placement (12.5 months)",
+   "uid": "workday:ag.wd3/Airbus:Retrofit-Solutions-Engineering-Systems-Placement--125-months-_JR10430633"
+  },
+  {
+   "closed_at": 1790807897,
+   "company": "Source Code",
+   "hours_open": 8.6,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:control systems analyst:50394382"
+  },
+  {
+   "closed_at": 1790807897,
+   "company": "PRECICOM TECHNOLOGIES INC.",
+   "hours_open": 40.4,
+   "title": "LAN (local area network) administrator",
+   "uid": "jobbank:network administrator:50308821"
+  },
+  {
+   "closed_at": 1790807897,
+   "company": "CGI",
+   "hours_open": 533.5,
+   "title": "Conseiller en gouvernance de la cybersécurité",
+   "uid": "jobillico:analyste cybersecurite:17433756"
+  },
+  {
+   "closed_at": 1790807897,
+   "company": "ag",
+   "hours_open": 15.3,
+   "title": "Spécialiste Systèmes Avioniques / Avionics Systems Specialist",
+   "uid": "workday:ag.wd3/Airbus:Spcialiste-Systmes-Avioniques---Avionics-Systems-Specialist_JR10394220"
+  },
+  {
+   "closed_at": 1790807897,
+   "company": "appdirect",
+   "hours_open": 127.8,
+   "title": "Data Engineer ",
+   "uid": "greenhouse:appdirect:8643029002"
+  },
+  {
+   "closed_at": 1790807897,
+   "company": "ameren",
+   "hours_open": 143.1,
+   "title": "Intern (Robotics, AI, OT, Software development)",
+   "uid": "workday:ameren.wd1/External:Intern--Robotics--AI--OT--Software-development-_033945-1"
+  },
+  {
+   "closed_at": 1790807897,
+   "company": "twitch",
+   "hours_open": 650.7,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1790807897,
+   "company": "chaosindustries",
+   "hours_open": 381.7,
+   "title": "Systems Engineer, Algorithm Development",
+   "uid": "greenhouse:chaosindustries:5091185007"
+  },
+  {
+   "closed_at": 1790807897,
+   "company": "virtu",
+   "hours_open": 530.3,
+   "title": "Automation Developer",
+   "uid": "greenhouse:virtu:5065990002"
+  },
+  {
+   "closed_at": 1790807897,
+   "company": "YO AI Labs",
+   "hours_open": 56.9,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50315080"
+  },
+  {
+   "closed_at": 1790807897,
+   "company": "Richie It Solutions Inc",
+   "hours_open": 152.2,
+   "title": "software developer",
+   "uid": "jobbank:junior programmer:50357104"
+  },
+  {
+   "closed_at": 1790807897,
+   "company": "cloudflare",
+   "hours_open": 383.3,
+   "title": "Software Engineer, Enterprise Integrations",
+   "uid": "greenhouse:cloudflare:8155495"
+  },
+  {
+   "closed_at": 1790807897,
+   "company": "L3Harris Technologies",
+   "hours_open": 24.0,
+   "title": "Associate Software Engineer",
+   "uid": "simplify:listings:92f02a6c-abe5-4113-a080-6f7e53861b95"
+  },
+  {
+   "closed_at": 1790807897,
+   "company": "spacex",
+   "hours_open": 650.7,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1790807897,
+   "company": "accenturefederalservices",
+   "hours_open": 533.5,
+   "title": "Junior Systems Administrator",
+   "uid": "greenhouse:accenturefederalservices:4702368006"
+  },
+  {
+   "closed_at": 1790807897,
+   "company": "spacex",
+   "hours_open": 653.7,
+   "title": "Full Stack Software Engineer, Observability (Starlink)",
+   "uid": "greenhouse:spacex:8638457002"
+  },
+  {
+   "closed_at": 1790807897,
+   "company": "spacex",
+   "hours_open": 652.0,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1790807897,
+   "company": "rocketlab",
+   "hours_open": 358.4,
+   "title": "Development Engineer - Thermal Protection Systems",
+   "uid": "greenhouse:rocketlab:7598183003"
   }
  ],
- "count": 810,
- "updated_at": 1790798931
+ "count": 820,
+ "updated_at": 1790807899
 }
