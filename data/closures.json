@@ -1,125 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1790376272,
-   "company": "twitch",
-   "hours_open": 533.8,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1790376272,
-   "company": "trace3",
-   "hours_open": 405.2,
-   "title": "Software Engineer BM/SRM (26-216)",
-   "uid": "greenhouse:trace3:8003848"
-  },
-  {
-   "closed_at": 1790376272,
-   "company": "trace3",
-   "hours_open": 365.3,
-   "title": "Cyber Assessment and Authorization Engineer (26-367)",
-   "uid": "greenhouse:trace3:8191626"
-  },
-  {
-   "closed_at": 1790376272,
-   "company": "astranis",
-   "hours_open": 552.8,
-   "title": "Radiation Effects Associate Engineer (Fall 2026)",
-   "uid": "greenhouse:astranis:4694883006"
-  },
-  {
-   "closed_at": 1790376272,
-   "company": "astranis",
-   "hours_open": 541.7,
-   "title": "Radiation Effects Engineer Intern (Fall 2026)",
-   "uid": "greenhouse:astranis:4694853006"
-  },
-  {
-   "closed_at": 1790378233,
-   "company": "Sopra Steria",
-   "hours_open": 49.0,
-   "title": "Cyber Security Specialist (Blue Team)",
-   "uid": "smartrecruiters:SopraSteria1:744000151354959"
-  },
-  {
-   "closed_at": 1790378233,
-   "company": "Alt Informatique",
-   "hours_open": 186.4,
-   "title": "Technicien informatique junior",
-   "uid": "jobillico:technicien informatique:17381391"
-  },
-  {
-   "closed_at": 1790378233,
-   "company": "Groupe DCM",
-   "hours_open": 180.2,
-   "title": "Programmeur CNC / CNC Programmer",
-   "uid": "jobillico:programmeur junior:17534670"
-  },
-  {
-   "closed_at": 1790378233,
-   "company": "AlphaHire",
-   "hours_open": 72.6,
-   "title": "Project Engineer - Commercial Electrical Projects",
-   "uid": "workable:alphax:A4B61A3D05"
-  },
-  {
-   "closed_at": 1790378233,
-   "company": "Visa",
-   "hours_open": 200.1,
-   "title": "Software Engineer New Grad",
-   "uid": "simplify:listings:008bd1b1-83ef-4bce-b3d4-bdab9f25b76d"
-  },
-  {
-   "closed_at": 1790378233,
-   "company": "Employee Owned Holdings, Inc.",
-   "hours_open": 268.2,
-   "title": "Sales Engineer",
-   "uid": "workable:employee-owned-holdings-inc:1114978D05"
-  },
-  {
-   "closed_at": 1790378233,
-   "company": "twitch",
-   "hours_open": 531.4,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1790378233,
-   "company": "AMAX",
-   "hours_open": 534.3,
-   "title": "Quality Engineer",
-   "uid": "workable:amax-1:6EFEFF4B11"
-  },
-  {
-   "closed_at": 1790378233,
-   "company": "spacex",
-   "hours_open": 534.3,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1790378233,
-   "company": "RTX",
-   "hours_open": 23.8,
-   "title": "Software Engineer 1",
-   "uid": "simplify:listings:f14b8354-3c07-49c5-96e8-d199167864cf"
-  },
-  {
-   "closed_at": 1790379536,
-   "company": "Groupe DCM",
-   "hours_open": 186.7,
-   "title": "Programmeur CNC / CNC Programmer",
-   "uid": "jobillico:programmeur junior:17534679"
-  },
-  {
-   "closed_at": 1790379536,
-   "company": "Cooptel",
-   "hours_open": 414.5,
-   "title": "Administrateur réseau",
-   "uid": "jobillico:analyste reseau:17185045"
-  },
-  {
    "closed_at": 1790379536,
    "company": "Alithya Canada Inc.",
    "hours_open": 0.4,
@@ -5599,8 +5480,127 @@
    "hours_open": 555.6,
    "title": "Solution Engineer",
    "uid": "workday:mars.wd3/external:Solution-Engineer_R161845-1"
+  },
+  {
+   "closed_at": 1790776466,
+   "company": "Alt Informatique",
+   "hours_open": 18.5,
+   "title": "Technicien informatique junior",
+   "uid": "jobillico:technicien informatique:17572023"
+  },
+  {
+   "closed_at": 1790776466,
+   "company": "SM Informatique inc.",
+   "hours_open": 521.4,
+   "title": "technicien informatique réseautique",
+   "uid": "jobillico:technicien informatique:12325078"
+  },
+  {
+   "closed_at": 1790776466,
+   "company": "Groupe DCM",
+   "hours_open": 290.8,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534670"
+  },
+  {
+   "closed_at": 1790776466,
+   "company": "drweng",
+   "hours_open": 524.8,
+   "title": "Application Support Specialist",
+   "uid": "greenhouse:drweng:7513647"
+  },
+  {
+   "closed_at": 1790776466,
+   "company": "thehartford",
+   "hours_open": 506.0,
+   "title": "Tech & Data Program Summer 2027 - Software Engineer Intern (Hartford)",
+   "uid": "workday:thehartford.wd5/Careers_External:Tech---Data-Program-Summer-2027---Software-Engineer-Intern--Hartford-_R2626105-1"
+  },
+  {
+   "closed_at": 1790776466,
+   "company": "thehartford",
+   "hours_open": 506.0,
+   "title": "Tech & Data Program Summer 2027 – Data Engineer Intern (Hartford)",
+   "uid": "workday:thehartford.wd5/Careers_External:Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Hartford-_R2626103-1"
+  },
+  {
+   "closed_at": 1790776466,
+   "company": "thomsonreuters",
+   "hours_open": 139.3,
+   "title": "Internship - Application Support",
+   "uid": "workday:thomsonreuters.wd5/External_Career_Site:Internship---Application-Support_JREQ203709"
+  },
+  {
+   "closed_at": 1790776466,
+   "company": "Cisco",
+   "hours_open": 180.1,
+   "title": "Software Engineer Compiler 1",
+   "uid": "simplify:listings:6a0248da-3508-46b4-90f1-07d13627e1c1"
+  },
+  {
+   "closed_at": 1790776466,
+   "company": "relx",
+   "hours_open": 666.3,
+   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - January)",
+   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617-1"
+  },
+  {
+   "closed_at": 1790776466,
+   "company": "relx",
+   "hours_open": 666.3,
+   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - June)",
+   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-2"
+  },
+  {
+   "closed_at": 1790776466,
+   "company": "relx",
+   "hours_open": 666.3,
+   "title": "Tech Accelerate Graduate Program - Software Engineer (Boca Raton - June)",
+   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Boca-Raton---June-_R116023"
+  },
+  {
+   "closed_at": 1790776466,
+   "company": "Amazon",
+   "hours_open": 136.1,
+   "title": "Software Development Engineer, General Shopping Intelligence",
+   "uid": "amazon:amazon:10559699"
+  },
+  {
+   "closed_at": 1790776466,
+   "company": "Amazon",
+   "hours_open": 137.2,
+   "title": "Software Development Engineer, Global Media and Entertainment Security",
+   "uid": "amazon:amazon:10559473"
+  },
+  {
+   "closed_at": 1790776466,
+   "company": "thenuclearcompany",
+   "hours_open": 644.9,
+   "title": "AI Engineer 1 - Compliance, Quality & Testing ",
+   "uid": "greenhouse:thenuclearcompany:5286179008"
+  },
+  {
+   "closed_at": 1790776466,
+   "company": "andurilindustries",
+   "hours_open": 306.8,
+   "title": "Mission Integration Engineer",
+   "uid": "greenhouse:andurilindustries:5241178007"
+  },
+  {
+   "closed_at": 1790776466,
+   "company": "andurilindustries",
+   "hours_open": 354.9,
+   "title": "Technical Operations Engineer",
+   "uid": "greenhouse:andurilindustries:5239058007"
+  },
+  {
+   "closed_at": 1790776466,
+   "company": "RTX",
+   "hours_open": 25.1,
+   "title": "Systems Engineer 1",
+   "uid": "simplify:listings:040018c5-1fa3-4eb9-a3d3-22417ae5a8d9"
   }
  ],
- "count": 816,
- "updated_at": 1790757258
+ "count": 817,
+ "updated_at": 1790776467
 }
