@@ -1,111 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1790450904,
-   "company": "spacex",
-   "hours_open": 554.5,
-   "title": "Full Stack Software Engineer, Manufacturing Systems ",
-   "uid": "greenhouse:spacex:8703540002"
-  },
-  {
-   "closed_at": 1790450904,
-   "company": "spacex",
-   "hours_open": 554.5,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1790453479,
-   "company": "spacex",
-   "hours_open": 552.3,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1790453479,
-   "company": "spacex",
-   "hours_open": 555.0,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1790453479,
-   "company": "spacex",
-   "hours_open": 553.5,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1790456648,
-   "company": "Groupe DCM",
-   "hours_open": 208.1,
-   "title": "Programmeur CNC / CNC Programmer",
-   "uid": "jobillico:programmeur junior:17534679"
-  },
-  {
-   "closed_at": 1790456756,
-   "company": "Groupe DCM",
-   "hours_open": 202.0,
-   "title": "Programmeur CNC / CNC Programmer",
-   "uid": "jobillico:programmeur junior:17534670"
-  },
-  {
-   "closed_at": 1790458745,
-   "company": "VILLE DE SAINTE-MARGUERITE-DU-LAC- MASSON",
-   "hours_open": 30.8,
-   "title": "network infrastructure engineer",
-   "uid": "jobbank:specialiste infrastructure:50365083"
-  },
-  {
-   "closed_at": 1790458745,
-   "company": "Groupe DCM",
-   "hours_open": 208.7,
-   "title": "Programmeur CNC / CNC Programmer",
-   "uid": "jobillico:programmeur junior:17534679"
-  },
-  {
-   "closed_at": 1790458745,
-   "company": "Cooptel",
-   "hours_open": 436.5,
-   "title": "Administrateur réseau",
-   "uid": "jobillico:analyste reseau:17185045"
-  },
-  {
-   "closed_at": 1790460624,
-   "company": "abb",
-   "hours_open": 475.1,
-   "title": "Sales Engineer – Service Division",
-   "uid": "workday:abb.wd3/external_career_page:Service-Sales-specialist_JR00003209"
-  },
-  {
-   "closed_at": 1790460624,
-   "company": "spacex",
-   "hours_open": 557.2,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1790460624,
-   "company": "spacex",
-   "hours_open": 557.2,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1790462849,
-   "company": "Groupe DCM",
-   "hours_open": 203.7,
-   "title": "Programmeur CNC / CNC Programmer",
-   "uid": "jobillico:programmeur junior:17534670"
-  },
-  {
-   "closed_at": 1790462849,
-   "company": "spacex",
-   "hours_open": 554.9,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
    "closed_at": 1790462849,
    "company": "spacex",
    "hours_open": 557.6,
@@ -5599,8 +5494,113 @@
    "hours_open": 654.7,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1790812097,
+   "company": "ngc",
+   "hours_open": 15.2,
+   "title": "2027 Embedded Software Engineer Intern – Rolling Meadows IL",
+   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Embedded-Software-Engineer-Intern---Rolling-Meadows-IL_R10252790"
+  },
+  {
+   "closed_at": 1790812097,
+   "company": "ngc",
+   "hours_open": 15.2,
+   "title": "2027 Hardware Electronics Engineer Intern – Rolling Meadows IL",
+   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Hardware-Electronics-Engineer-Intern---Rolling-Meadows-IL_R10252779-1"
+  },
+  {
+   "closed_at": 1790812097,
+   "company": "ngc",
+   "hours_open": 15.2,
+   "title": "2027 Systems Engineer Intern – Rolling Meadows IL",
+   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Systems-Engineer-Intern---Rolling-Meadows-IL_R10252497"
+  },
+  {
+   "closed_at": 1790812097,
+   "company": "marvell",
+   "hours_open": 142.9,
+   "title": "IC Validation Engineer Intern",
+   "uid": "workday:marvell.wd1/MarvellCareers2:IC-Validation-Engineer-Intern_2603925"
+  },
+  {
+   "closed_at": 1790812097,
+   "company": "micron",
+   "hours_open": 671.7,
+   "title": "New College Grad - Mixed Signal Design Engineer, HBM",
+   "uid": "workday:micron.wd1/External:New-College-Grad---Mixed-Signal-Design-Engineer--HBM_JR110753"
+  },
+  {
+   "closed_at": 1790812097,
+   "company": "micron",
+   "hours_open": 142.9,
+   "title": "New College Grad - HBM PYE Product Development Failure Analysis Engineer",
+   "uid": "workday:micron.wd1/External:Senior-or-Staff-HBM-PYE-Product-Development-Failure-Analysis-Engineer_JR110624"
+  },
+  {
+   "closed_at": 1790812097,
+   "company": "marvell",
+   "hours_open": 142.9,
+   "title": "Board Product Engineer Intern, BS - Summer 2027",
+   "uid": "workday:marvell.wd1/MarvellCareers2:Board-Product-Engineer-Intern--BS---Summer-2027_2603833"
+  },
+  {
+   "closed_at": 1790812097,
+   "company": "marvell",
+   "hours_open": 142.9,
+   "title": "Physical Design Engineer Intern, MS - Summer 2027",
+   "uid": "workday:marvell.wd1/MarvellCareers2:Physical-Design-Engineer-Intern--MS---Summer-2027_2604518"
+  },
+  {
+   "closed_at": 1790812097,
+   "company": "myhrabc",
+   "hours_open": 456.4,
+   "title": "Solutions Consultant, Community Pharmacy Solutions",
+   "uid": "workday:myhrabc.wd5/Global:Solutions-Consultant--Community-Pharmacy-Solutions_R2615710"
+  },
+  {
+   "closed_at": 1790812097,
+   "company": "ngc",
+   "hours_open": 658.2,
+   "title": "2027 Software Engineer Intern - Linthicum Maryland",
+   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Software-Engineer-Intern---Linthicum-Maryland_R10248910"
+  },
+  {
+   "closed_at": 1790812097,
+   "company": "nvidia",
+   "hours_open": 360.8,
+   "title": "ASIC Design Verification Engineer - New College Grad 2026",
+   "uid": "workday:nvidia.wd5/NVIDIAExternalCareerSite:ASIC-Design-Verification-Engineer---New-College-Grad-2026_JR2010391"
+  },
+  {
+   "closed_at": 1790812097,
+   "company": "kla",
+   "hours_open": 658.2,
+   "title": "Software Engineering Intern",
+   "uid": "workday:kla.wd1/AnnArbor:Software-Engineering-Intern_2531653"
+  },
+  {
+   "closed_at": 1790812097,
+   "company": "NVIDIA",
+   "hours_open": 1.2,
+   "title": "System Design Engineer – New College Grad 2026",
+   "uid": "simplify:listings:7fb2f96e-3662-4a02-a0c2-e7bbd2663ce9"
+  },
+  {
+   "closed_at": 1790812097,
+   "company": "spacex",
+   "hours_open": 651.9,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1790812097,
+   "company": "spacex",
+   "hours_open": 653.2,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
- "count": 811,
- "updated_at": 1790811719
+ "count": 815,
+ "updated_at": 1790812098
 }
