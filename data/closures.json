@@ -2,20 +2,6 @@
  "closed": [
   {
    "closed_at": 1790362723,
-   "company": "Amazon",
-   "hours_open": 210.3,
-   "title": "Software Engineer, AWS SageMaker Unified Studio",
-   "uid": "amazon:amazon:10551396"
-  },
-  {
-   "closed_at": 1790362723,
-   "company": "ramp",
-   "hours_open": 447.9,
-   "title": "Solutions Consultant, Commercial",
-   "uid": "ashby:ramp:220e674a-fc70-439f-bacf-687553ca59c9"
-  },
-  {
-   "closed_at": 1790362723,
    "company": "Source Code",
    "hours_open": 13.5,
    "title": "software developer",
@@ -5599,8 +5585,22 @@
    "hours_open": 632.7,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1790733934,
+   "company": "ServiceNow",
+   "hours_open": 123.6,
+   "title": "Advisory Solution Consultant, Workflow Data Fabric and Intelligent Automation",
+   "uid": "smartrecruiters:ServiceNow:744000151681299"
+  },
+  {
+   "closed_at": 1790733934,
+   "company": "Wabtec",
+   "hours_open": 147.8,
+   "title": "Junior Systems Engineer ",
+   "uid": "smartrecruiters:Wabtec:3743990015613516"
   }
  ],
- "count": 820,
- "updated_at": 1790732306
+ "count": 802,
+ "updated_at": 1790733935
 }
