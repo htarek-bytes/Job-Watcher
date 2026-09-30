@@ -1,41 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1790366439,
-   "company": "Groupe DCM",
-   "hours_open": 183.1,
-   "title": "Programmeur CNC / CNC Programmer",
-   "uid": "jobillico:programmeur junior:17534679"
-  },
-  {
-   "closed_at": 1790366439,
-   "company": "probook",
-   "hours_open": 528.0,
-   "title": "Founding Design Engineer",
-   "uid": "ashby:probook:a03afa74-a8ad-4f2c-ae3b-87cef88b4c34"
-  },
-  {
-   "closed_at": 1790369185,
-   "company": "Alt Informatique",
-   "hours_open": 183.8,
-   "title": "Technicien informatique junior",
-   "uid": "jobillico:technicien informatique:17381391"
-  },
-  {
-   "closed_at": 1790369185,
-   "company": "Groupe DCM",
-   "hours_open": 177.7,
-   "title": "Programmeur CNC / CNC Programmer",
-   "uid": "jobillico:programmeur junior:17534670"
-  },
-  {
-   "closed_at": 1790369185,
-   "company": "Cooptel",
-   "hours_open": 411.6,
-   "title": "Administrateur réseau",
-   "uid": "jobillico:analyste reseau:17185045"
-  },
-  {
    "closed_at": 1790369185,
    "company": "spacex",
    "hours_open": 530.1,
@@ -5599,8 +5564,43 @@
    "hours_open": 638.4,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1790752952,
+   "company": "twitch",
+   "hours_open": 635.5,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1790752952,
+   "company": "boeing",
+   "hours_open": 127.3,
+   "title": "Associate Software Engineer",
+   "uid": "workday:boeing.wd1/EXTERNAL_CAREERS:Associate-Software-Engineer_JR2026520254-1"
+  },
+  {
+   "closed_at": 1790752952,
+   "company": "caci",
+   "hours_open": 492.7,
+   "title": "Software Engineering Intern – Summer 2027",
+   "uid": "workday:caci.wd1/external:Software-Engineering-Intern---Summer-2027_331742"
+  },
+  {
+   "closed_at": 1790752952,
+   "company": "spacex",
+   "hours_open": 638.4,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1790752952,
+   "company": "spacex",
+   "hours_open": 636.7,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
- "count": 823,
- "updated_at": 1790752785
+ "count": 805,
+ "updated_at": 1790752952
 }
