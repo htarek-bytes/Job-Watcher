@@ -1,76 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1790399844,
-   "company": "visa",
-   "hours_open": 209.1,
-   "title": "Software Engineer, New College Grad, Bellevue - 2027",
-   "uid": "workday:visa.wd5/Visa:Software-Engineer--New-College-Grad--Bellevue---2027_REF088530W-3"
-  },
-  {
-   "closed_at": 1790399844,
-   "company": "Applied Materials",
-   "hours_open": 528.9,
-   "title": "Software Engineer - New College Grad-Master's",
-   "uid": "simplify:listings:12729453-987e-41d4-8d5e-86bc51fb6af7"
-  },
-  {
-   "closed_at": 1790399844,
-   "company": "trimedx",
-   "hours_open": 168.6,
-   "title": "Imaging Engineer I",
-   "uid": "workday:trimedx.wd1/TMX:Imaging-Engineer-I_R14980"
-  },
-  {
-   "closed_at": 1790399844,
-   "company": "tsc",
-   "hours_open": 557.2,
-   "title": "Junior Embedded Software Engineer",
-   "uid": "workday:tsc.wd12/TSC-Careers:Junior-Embedded-Software-Engineer_JR2741"
-  },
-  {
-   "closed_at": 1790399844,
-   "company": "spacex",
-   "hours_open": 537.4,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1790399844,
-   "company": "spacex",
-   "hours_open": 540.3,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1790399844,
-   "company": "spacex",
-   "hours_open": 538.6,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1790401103,
-   "company": "Aescape",
-   "hours_open": 3.9,
-   "title": "Junior Electrical & Firmware Engineer",
-   "uid": "simplify:listings:c142ee8b-0f3a-4016-8d97-2c454fca6b26"
-  },
-  {
-   "closed_at": 1790401103,
-   "company": "VILLE DE SAINTE-MARGUERITE-DU-LAC- MASSON",
-   "hours_open": 14.8,
-   "title": "network infrastructure engineer",
-   "uid": "jobbank:specialiste infrastructure:50365083"
-  },
-  {
-   "closed_at": 1790401103,
-   "company": "crusoe",
-   "hours_open": 537.7,
-   "title": "Software Engineer I, Storage",
-   "uid": "ashby:crusoe:4f5d34ed-0c05-4eec-b8f8-14663e114b02"
-  },
-  {
    "closed_at": 1790402075,
    "company": "Groupe DCM",
    "hours_open": 193.0,
@@ -5599,8 +5529,78 @@
    "hours_open": 651.1,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1790798931,
+   "company": "Cooptel",
+   "hours_open": 531.0,
+   "title": "Administrateur réseau",
+   "uid": "jobillico:analyste reseau:17185045"
+  },
+  {
+   "closed_at": 1790798931,
+   "company": "Edgecom Energy",
+   "hours_open": 514.2,
+   "title": "computer systems analyst",
+   "uid": "jobbank:systems analyst:50248611"
+  },
+  {
+   "closed_at": 1790798931,
+   "company": "Wabtec",
+   "hours_open": 153.7,
+   "title": "Junior Engineer - Loco Maintenance",
+   "uid": "smartrecruiters:Wabtec:3743990015630616"
+  },
+  {
+   "closed_at": 1790798931,
+   "company": "Wellmark, Inc.",
+   "hours_open": 293.7,
+   "title": "Security Analyst Internship",
+   "uid": "smartrecruiters:WellmarkInc:744000150269748"
+  },
+  {
+   "closed_at": 1790798931,
+   "company": "RAVE Aerospace LLC",
+   "hours_open": 326.5,
+   "title": "Product Integration Engineer I, Connectivity",
+   "uid": "workable:raveaerospace:4370417F13"
+  },
+  {
+   "closed_at": 1790798931,
+   "company": "twitch",
+   "hours_open": 651.2,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1790798931,
+   "company": "Flexcompute Inc.",
+   "hours_open": 650.9,
+   "title": "Software Engineer - AI & Cloud Engineering (Early to Mid Career)",
+   "uid": "workable:flexcompute:D80D89A759"
+  },
+  {
+   "closed_at": 1790798931,
+   "company": "spacex",
+   "hours_open": 651.2,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1790798931,
+   "company": "spacex",
+   "hours_open": 650.9,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1790798931,
+   "company": "spacex",
+   "hours_open": 651.2,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 809,
- "updated_at": 1790798578
+ "count": 810,
+ "updated_at": 1790798931
 }
