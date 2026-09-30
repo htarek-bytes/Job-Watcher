@@ -1,5 +1,5 @@
 {
- "count": 6474,
+ "count": 6480,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -4437,6 +4437,7 @@
   "simplify:listings:6106a504-c0e8-4770-a4a1-09edf4a03049": 1788416995,
   "simplify:listings:610f0d04-dcde-4471-b453-03c32a16f5a2": 1789166954,
   "simplify:listings:6114a150-260d-4a2d-9181-c97eed3b7e15": 1788435390,
+  "simplify:listings:6162982e-4ddb-4316-b2dc-5ab2cb383340": 1790809838,
   "simplify:listings:619553e3-74db-46b1-9fee-5ee41d3f9e6b": 1788465250,
   "simplify:listings:61c4ab4f-d4d9-4028-bd6b-e45e731dcfb2": 1789166954,
   "simplify:listings:620b1a82-ef4d-4465-882e-beb889f347d0": 1789640566,
@@ -4581,6 +4582,7 @@
   "simplify:listings:8d357db3-4bed-433c-8281-3e0775e1be25": 1788322770,
   "simplify:listings:8dd87a00-f591-4429-a298-9b50de8a77af": 1788410216,
   "simplify:listings:8def6cd4-02f6-4045-9290-2e08f2f10b24": 1788322770,
+  "simplify:listings:8e1c4d71-6011-41b4-8948-e9bef181663f": 1790809838,
   "simplify:listings:8e1cc28b-6b01-4de3-a569-730dbb573035": 1789403727,
   "simplify:listings:8e844e5f-0bbf-48a1-83fc-1c2710d29d18": 1790128196,
   "simplify:listings:8e8f7392-2530-41cd-b2fe-8ba9e55a6f68": 1788322770,
@@ -4636,6 +4638,7 @@
   "simplify:listings:9f295fbb-d491-4d86-abc7-f5cc60b4c53e": 1788322770,
   "simplify:listings:9f3702b3-a0cf-4dc4-b67b-7435571d1648": 1788322770,
   "simplify:listings:9f6e8d63-9cab-4749-85bc-bfe74f9c7577": 1788322770,
+  "simplify:listings:9f70bf51-8203-4e85-85f8-f1b6a62f09a1": 1790809838,
   "simplify:listings:9f8d956a-d347-446a-8bce-af7f346d0960": 1790807897,
   "simplify:listings:9ff8def7-4cc8-4f59-aadb-ddec79771bfa": 1788322770,
   "simplify:listings:a01bab97-c16e-479a-a759-fe6c004b0b0f": 1788495756,
@@ -4670,6 +4673,7 @@
   "simplify:listings:aa978fcf-172b-4c86-9b7b-31d9a39a6d8a": 1788322770,
   "simplify:listings:aaa3bc85-9d65-4c72-a3c0-656079d3aa4a": 1788425964,
   "simplify:listings:aaf52812-d0ae-44a7-988a-4919b6c8e74c": 1788322770,
+  "simplify:listings:ab4c9ca3-73cb-48b3-a095-093c436e265e": 1790809838,
   "simplify:listings:ab74ecca-af20-483d-9d93-2db6d26feb93": 1788322770,
   "simplify:listings:abb10756-7c15-4694-8cfc-00d3fb05f0ad": 1788322770,
   "simplify:listings:abf4af65-04b3-4ec5-b2bb-0cfd7ce4d500": 1788322770,
@@ -4822,6 +4826,7 @@
   "simplify:listings:d955ed42-20b3-455d-9be9-fcfa6b6c7c32": 1788454653,
   "simplify:listings:d9a6ad0c-10d3-4acc-88a0-f12a8fc1f1a9": 1790205166,
   "simplify:listings:d9bf8f2f-b6fe-4c34-aebe-314d3897b6ba": 1788322770,
+  "simplify:listings:da5add3d-df09-436a-b370-0fae4cb326df": 1790809838,
   "simplify:listings:daabbb4b-3238-449b-a3f6-39e1681033a7": 1789412713,
   "simplify:listings:db68c678-051c-4194-9d2a-eef600ef1437": 1788454653,
   "simplify:listings:db70cc78-6903-4f3e-98df-d5eef1dabd84": 1788322770,
@@ -5729,6 +5734,7 @@
   "workday:dexcom.wd1/Dexcom:SW-Development-Engineer-1_JR121067": 1789594041,
   "workday:dexcom.wd1/Dexcom:Software-Development-Engineer-1_JR120540": 1788390279,
   "workday:dimensional.wd5/dfa_careers:Internship-in-Technology---Software-Engineer_2026-9022": 1788880168,
+  "workday:disney.wd5/disneycareer:Product-Software-Engineer-I_10157015": 1790809838,
   "workday:disney.wd5/disneycareer:WDI-Show-Control-Software-Internship--Spring-2027_10160946": 1790038575,
   "workday:disney.wd5/disneycareerdc:Product-Software-Engineer-I_10157015-2": 1790753366,
   "workday:disney.wd5/disneycareerdc:Software-Engineer-I_10158076-2": 1789070853,
@@ -6476,5 +6482,5 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148,
   "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541": 1789106107
  },
- "updated_at": 1790809540
+ "updated_at": 1790809839
 }
