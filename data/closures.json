@@ -1,118 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1790373608,
-   "company": "accenturefederalservices",
-   "hours_open": 412.9,
-   "title": "Cloud Systems Administrator ",
-   "uid": "greenhouse:accenturefederalservices:4688931006"
-  },
-  {
-   "closed_at": 1790373608,
-   "company": "spacex",
-   "hours_open": 533.0,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1790373608,
-   "company": "accenturefederalservices",
-   "hours_open": 74.9,
-   "title": "Cloud DevOps Engineer",
-   "uid": "greenhouse:accenturefederalservices:4715587006"
-  },
-  {
-   "closed_at": 1790373608,
-   "company": "Amazon",
-   "hours_open": 219.7,
-   "title": "Software Development Engineer , Inventory Accounting",
-   "uid": "amazon:amazon:10546898"
-  },
-  {
-   "closed_at": 1790375314,
-   "company": "zoox",
-   "hours_open": 530.6,
-   "title": "Software Engineer, Operational Tools",
-   "uid": "lever:zoox:998ca0ca-4e3a-409f-bc84-f364d5451e01"
-  },
-  {
-   "closed_at": 1790375314,
-   "company": "Bosch Group",
-   "hours_open": 24.6,
-   "title": "Extracurricular Internship in Computer Science / Information Systems (f/m/div.)",
-   "uid": "smartrecruiters:BoschGroup:744000151644699"
-  },
-  {
-   "closed_at": 1790375314,
-   "company": "EXFO inc",
-   "hours_open": 545.9,
-   "title": "Stagiaire ingénieur logiciel / Software Engineer Intern",
-   "uid": "jobillico:software developer:17462697"
-  },
-  {
-   "closed_at": 1790375314,
-   "company": "Groupe DCM",
-   "hours_open": 185.5,
-   "title": "Programmeur CNC / CNC Programmer",
-   "uid": "jobillico:programmeur junior:17534679"
-  },
-  {
-   "closed_at": 1790375314,
-   "company": "Cooptel",
-   "hours_open": 413.3,
-   "title": "Administrateur réseau",
-   "uid": "jobillico:analyste reseau:17185045"
-  },
-  {
-   "closed_at": 1790375314,
-   "company": "Alithya Canada Inc.",
-   "hours_open": 357.4,
-   "title": "full stack Web developer",
-   "uid": "jobbank:developpeur junior:50257748"
-  },
-  {
-   "closed_at": 1790375314,
-   "company": "Arista Networks",
-   "hours_open": 256.9,
-   "title": "Network Systems Engineer (Pre Sales) - Trading Platforms",
-   "uid": "smartrecruiters:AristaNetworks:744000149421437"
-  },
-  {
-   "closed_at": 1790375314,
-   "company": "hearth-careers",
-   "hours_open": 552.5,
-   "title": "Junior GTM Engineer",
-   "uid": "rippling:hearth-careers:1c9a88a3-3dde-4081-a4d4-293af5af6ea1"
-  },
-  {
-   "closed_at": 1790375314,
-   "company": "Source Code",
-   "hours_open": 17.0,
-   "title": "software developer",
-   "uid": "jobbank:entry level software developer:50353185"
-  },
-  {
-   "closed_at": 1790376272,
-   "company": "ServiceNow",
-   "hours_open": 60.6,
-   "title": "Advisory Solution Consultant",
-   "uid": "smartrecruiters:ServiceNow:744000151306689"
-  },
-  {
-   "closed_at": 1790376272,
-   "company": "ServiceNow",
-   "hours_open": 72.4,
-   "title": "Advisory Solution Consultant, Integrated Risk Management",
-   "uid": "smartrecruiters:ServiceNow:744000151139039"
-  },
-  {
-   "closed_at": 1790376272,
-   "company": "Jobs for Humanity",
-   "hours_open": 528.2,
-   "title": "Junior Software Engineer",
-   "uid": "smartrecruiters:JobsForHumanity:744000147220729"
-  },
-  {
    "closed_at": 1790376272,
    "company": "twitch",
    "hours_open": 533.8,
@@ -5599,8 +5487,120 @@
    "hours_open": 13.8,
    "title": "Software Engineering Co-op_Fall 2026",
    "uid": "workday:haier.wd3/ge_appliances:Software-Engineering-Co-op-Fall-2026_REQ-26919"
+  },
+  {
+   "closed_at": 1790757257,
+   "company": "ngc",
+   "hours_open": 13.9,
+   "title": "2026 Associate Software Engineer or Software Engineer - Aurora CO",
+   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2026-Associate-Software-Engineering-or-Software-Engineer---Aurora-CO_R10253437"
+  },
+  {
+   "closed_at": 1790757257,
+   "company": "ngc",
+   "hours_open": 13.9,
+   "title": "Associate Software Engineer / Software Engineer",
+   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:Associate-Software-Engineer---Software-Engineer_R10253287"
+  },
+  {
+   "closed_at": 1790757257,
+   "company": "ngc",
+   "hours_open": 13.9,
+   "title": "2027 Associate Software Engineer - Huntsville (AL)",
+   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Associate-Software-Engineer---Huntsville--AL-_R10253518"
+  },
+  {
+   "closed_at": 1790757257,
+   "company": "marvell",
+   "hours_open": 13.9,
+   "title": "AI-Native Development Platform Engineer Intern, MS - Summer 2027",
+   "uid": "workday:marvell.wd1/MarvellCareers2:AI-Native-Development-Platform-Engineer-Intern--MS---Summer-2027_2603848"
+  },
+  {
+   "closed_at": 1790757257,
+   "company": "onehealthineers",
+   "hours_open": 102.5,
+   "title": "Solutions Engineer",
+   "uid": "workday:onehealthineers.wd3/SHSJB:Solutions-Engineer_R-30905"
+  },
+  {
+   "closed_at": 1790757257,
+   "company": "micron",
+   "hours_open": 152.0,
+   "title": "New College Grad - Engineer, DPG Compute PE Y/Q",
+   "uid": "workday:micron.wd1/External:Sr-Engineer--DPG-Compute-PE-Y-Q_JR98974"
+  },
+  {
+   "closed_at": 1790757257,
+   "company": "marvell",
+   "hours_open": 13.9,
+   "title": "Security Verification/Validation Engineer Intern, BS - Summer 2027",
+   "uid": "workday:marvell.wd1/MarvellCareers2:Security-Verification-Validation-Engineer-Intern--BS---Summer-2027_2604148"
+  },
+  {
+   "closed_at": 1790757257,
+   "company": "marvell",
+   "hours_open": 13.9,
+   "title": "SRAM Software Engineer Intern, BS - Summer 2027",
+   "uid": "workday:marvell.wd1/MarvellCareers2:SRAM-Software-Engineer-Intern--BS---Summer-2027_2603760"
+  },
+  {
+   "closed_at": 1790757257,
+   "company": "marvell",
+   "hours_open": 127.6,
+   "title": "Physical Design Engineer Intern, BS - Summer 2027",
+   "uid": "workday:marvell.wd1/MarvellCareers2:Physical-Design-Engineer-Intern--BS---Summer-2027_2604517"
+  },
+  {
+   "closed_at": 1790757257,
+   "company": "ntrs",
+   "hours_open": 487.4,
+   "title": "Technology Intern – Software Engineering",
+   "uid": "workday:ntrs.wd1/northerntrust:Technology-Intern---Software-Engineering_R160832-1"
+  },
+  {
+   "closed_at": 1790757257,
+   "company": "ntrs",
+   "hours_open": 13.9,
+   "title": "Technology Intern – Information Security",
+   "uid": "workday:ntrs.wd1/northerntrust:Technology-Intern---Information-Security_R160869-1"
+  },
+  {
+   "closed_at": 1790757257,
+   "company": "ngc",
+   "hours_open": 639.6,
+   "title": "2027 Intern Systems Engineer - CA & ND",
+   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Intern-Systems-Engineer---CA---ND_R10249236"
+  },
+  {
+   "closed_at": 1790757257,
+   "company": "manulife",
+   "hours_open": 643.0,
+   "title": "Summer Intern 2027 - Software Engineering",
+   "uid": "workday:manulife.wd3/MFCJH_Jobs:Summer-Intern-2027---Software-Engineering_JR26081684"
+  },
+  {
+   "closed_at": 1790757257,
+   "company": "nvidia",
+   "hours_open": 661.0,
+   "title": "ASIC Verification Engineer - New College Grad 2026",
+   "uid": "workday:nvidia.wd5/NVIDIAExternalCareerSite:ASIC-Verification-Engineer---New-College-Grad-2026_JR2020640"
+  },
+  {
+   "closed_at": 1790757257,
+   "company": "nvidia",
+   "hours_open": 661.0,
+   "title": "ASIC Design Engineer - New College Grad 2026",
+   "uid": "workday:nvidia.wd5/NVIDIAExternalCareerSite:ASIC-Design-Engineer---New-College-Grad-2026_JR2020309"
+  },
+  {
+   "closed_at": 1790757257,
+   "company": "mars",
+   "hours_open": 555.6,
+   "title": "Solution Engineer",
+   "uid": "workday:mars.wd3/external:Solution-Engineer_R161845-1"
   }
  ],
- "count": 803,
- "updated_at": 1790756859
+ "count": 816,
+ "updated_at": 1790757258
 }

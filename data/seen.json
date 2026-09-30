@@ -1,5 +1,5 @@
 {
- "count": 6405,
+ "count": 6410,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -5990,6 +5990,7 @@
   "workday:marvell.wd1/MarvellCareers2:Technical-Sales-Intern--BS---Summer-2027_2603806": 1790707195,
   "workday:marvell.wd1/MarvellCareers2:Test-Equipment-Engineer-Intern_2603826": 1790297811,
   "workday:marvell.wd1/MarvellCareers:AI-Infrastructure-Engineer-Intern_2604499": 1788859705,
+  "workday:marvell.wd1/MarvellCareers:AI-Native-Development-Platform-Engineer-Intern--MS---Summer-2027_2603848-1": 1790757257,
   "workday:marvell.wd1/MarvellCareers:AMS-Layout-Engineer-Intern---BS---2027-Co-Op_2604790": 1790297811,
   "workday:marvell.wd1/MarvellCareers:Application-Engineer-Intern--MS---Summer-2027_2604509": 1788551622,
   "workday:marvell.wd1/MarvellCareers:Board-Product-Engineer-Intern--BS---Summer-2027_2603833-1": 1790041362,
@@ -5998,6 +5999,7 @@
   "workday:marvell.wd1/MarvellCareers:Firmware-Engineer-Intern_2603751": 1790096131,
   "workday:marvell.wd1/MarvellCareers:Hardware-Validation--Test-Solutions--Engineer_2600679": 1789048465,
   "workday:marvell.wd1/MarvellCareers:IC-Validation-Engineer-Intern--MS---Summer-2027_2604515-1": 1788557908,
+  "workday:marvell.wd1/MarvellCareers:Machine-Learning-Engineer-Intern--BS-MS---Summer-2027_2603860": 1790757257,
   "workday:marvell.wd1/MarvellCareers:Physical-Design-Engineer-Intern--BS---Summer-2027_2604517-1": 1788563552,
   "workday:marvell.wd1/MarvellCareers:Physical-Design-Engineer-Intern--MS---Summer-2027_2604518-1": 1788563552,
   "workday:marvell.wd1/MarvellCareers:SRAM-Software-Engineer-Intern--BS---Summer-2027_2603760-1": 1789682887,
@@ -6103,7 +6105,9 @@
   "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Digital-Engineer-Intern---Baltimore-MD_R10251150-1": 1790008827,
   "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Embedded-Software-Engineer-Intern---Baltimore-MD_R10251464": 1790008827,
   "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Embedded-Software-Engineer-Intern---Camarillo-CA_R10251835": 1790008827,
+  "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Embedded-Software-Engineer-Intern---Rolling-Meadows-IL_R10252790": 1790757257,
   "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Fall-Co-Op---Survivability-Engineer_R10250417": 1789102951,
+  "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Hardware-Electronics-Engineer-Intern---Rolling-Meadows-IL_R10252779-1": 1790757257,
   "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Intern---Survivability-Engineer_R10250713": 1789425451,
   "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Intern---Systems-Security-Cybersecurity-Engineer_R10252418": 1790125084,
   "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Intern-Engineer---Product-Support_R10250061": 1788981683,
@@ -6123,6 +6127,7 @@
   "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Systems-Engineer-Intern---Baltimore-MD_R10251094": 1790008827,
   "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Systems-Engineer-Intern---Gilbert-AZ_R10249114-1": 1788442554,
   "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Systems-Engineer-Intern---Redondo-Beach-CA_R10249113": 1788442554,
+  "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Systems-Engineer-Intern---Rolling-Meadows-IL_R10252497": 1790757257,
   "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Systems-Engineer-Intern---Woodland-Hills-CA_R10249319-1": 1790177509,
   "workday:nidec.wd1/nidec:Hardware-Electronics-Engineer-I_R0014784": 1788377835,
   "workday:nidec.wd1/nidec:Sales-Engineer---MI_R0013538-1": 1788750148,
@@ -6407,5 +6412,5 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148,
   "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541": 1789106107
  },
- "updated_at": 1790756859
+ "updated_at": 1790757257
 }
