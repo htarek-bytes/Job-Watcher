@@ -1,48 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1790369185,
-   "company": "spacex",
-   "hours_open": 530.1,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1790369185,
-   "company": "Amazon",
-   "hours_open": 193.7,
-   "title": "Software Development Engineer , Amazon Leo Commerce",
-   "uid": "amazon:amazon:10552346"
-  },
-  {
-   "closed_at": 1790373608,
-   "company": "VILLE DE SAINTE-MARGUERITE-DU-LAC- MASSON",
-   "hours_open": 7.2,
-   "title": "network infrastructure engineer",
-   "uid": "jobbank:specialiste infrastructure:50365083"
-  },
-  {
-   "closed_at": 1790373608,
-   "company": "Isolocity",
-   "hours_open": 27.2,
-   "title": "cloud infrastructure engineer",
-   "uid": "jobbank:specialiste infrastructure:50358308"
-  },
-  {
-   "closed_at": 1790373608,
-   "company": "Amazon",
-   "hours_open": 9.3,
-   "title": "Quality Assurance Engineer I, Amazon Connect Decission",
-   "uid": "amazon:amazon:10560276"
-  },
-  {
-   "closed_at": 1790373608,
-   "company": "palantir",
-   "hours_open": 533.0,
-   "title": "Embedded Legal Engineer",
-   "uid": "lever:palantir:2d2f0ed7-134a-4f24-af89-cfb8583d796a"
-  },
-  {
    "closed_at": 1790373608,
    "company": "Source Code",
    "hours_open": 63.1,
@@ -5599,8 +5557,50 @@
    "hours_open": 636.7,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1790753366,
+   "company": "globalhr",
+   "hours_open": 448.8,
+   "title": "Internship - Winter 2027 - Software Developer Aerospace Control Systems & Web Applications",
+   "uid": "workday:globalhr.wd5/rec_rtx_ext_gateway:Internship---Winter-2027---Software-Developer-Aerospace-Control-Systems---Web-Applications_01874412"
+  },
+  {
+   "closed_at": 1790753366,
+   "company": "gevernova",
+   "hours_open": 609.7,
+   "title": "GE Vernova GridOS  Project Engineer - Co-Op/Intern - January 2027-June 2027",
+   "uid": "workday:gevernova.wd5/only_confidential_executive_recruiting:GE-Vernova-GridOS--Project-Engineer---Co-Op-Intern---January-2027-June-2027_R5050087-1"
+  },
+  {
+   "closed_at": 1790753366,
+   "company": "globalhr",
+   "hours_open": 13.1,
+   "title": "Software Engineering Intern (Summer 2027)",
+   "uid": "workday:globalhr.wd5/rec_rtx_ext_gateway:Software-Engineering-Intern--Summer-2027-_01870007"
+  },
+  {
+   "closed_at": 1790753366,
+   "company": "generalmotors",
+   "hours_open": 642.0,
+   "title": "2027 Co-Op Student – Manufacturing Quality Engineer",
+   "uid": "workday:generalmotors.wd5/Careers_GM:XMLNAME-2027-Co-Op-Student---Manufacturing-Quality-Engineer_JR-202619309"
+  },
+  {
+   "closed_at": 1790753366,
+   "company": "fis",
+   "hours_open": 289.9,
+   "title": "Software Engineering Intern Pipeline",
+   "uid": "workday:fis.wd5/searchjobs:Intern--Software-Engineer--FIS-University-Program_JR0309512"
+  },
+  {
+   "closed_at": 1790753366,
+   "company": "globalfoundries",
+   "hours_open": 659.9,
+   "title": "Field Application Engineer (2026 New College Graduate)",
+   "uid": "workday:globalfoundries.wd1/External:Engineer-Field-Application-Engineering_JR-2502404"
   }
  ],
- "count": 805,
- "updated_at": 1790752952
+ "count": 806,
+ "updated_at": 1790753367
 }
