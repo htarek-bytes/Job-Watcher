@@ -1,5 +1,5 @@
 {
- "count": 6388,
+ "count": 6394,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -3540,6 +3540,7 @@
   "jobbank:junior software developer:50387533": 1790661954,
   "jobbank:junior software developer:50388524": 1790686173,
   "jobbank:junior software developer:50391961": 1790710013,
+  "jobbank:junior software developer:50394696": 1790752783,
   "jobbank:linux administrator:49626621": 1789082121,
   "jobbank:linux administrator:50163764": 1788887337,
   "jobbank:linux administrator:50205276": 1788887337,
@@ -3666,6 +3667,7 @@
   "jobbank:systems analyst:50392043": 1790721061,
   "jobbank:systems analyst:50392352": 1790721061,
   "jobbank:systems analyst:50393012": 1790721061,
+  "jobbank:systems analyst:50394988": 1790752783,
   "jobillico:administrateur systeme:17456997": 1788887337,
   "jobillico:administrateur systeme:17502558": 1788887337,
   "jobillico:administrateur systeme:17528100": 1790196061,
@@ -5408,6 +5410,7 @@
   "workday:abb.wd3/external_career_page:Service-Sales-specialist_JR00003209": 1788750148,
   "workday:abbott.wd5/abbottcareers:Software-Engineer-I_31162389-1": 1790379536,
   "workday:abglobal.wd1/abcampuscareers:Software-Development-Summer-Intern_R0019771": 1789552116,
+  "workday:accenture.wd103/AccentureCareers:AI-Native-Software-Engineering--Junior-_R00345665": 1790752783,
   "workday:accenture.wd103/AccentureCareers:Junior-AI-Native-Engineer_R00346080": 1788393810,
   "workday:accenture.wd103/AccentureCareers:Junior-AI-Software-Engineer_R00346108": 1788393810,
   "workday:accenture.wd103/AccentureCareers:Junior-NET-Developer---Fresh-Graduates_R00332478": 1788393810,
@@ -5435,9 +5438,11 @@
   "workday:ag.wd3/Airbus:Junior-Software-Platform-Integration-Engineer_JR10430085-1": 1790086284,
   "workday:ag.wd3/Airbus:Junior-Structural-Design-Engineer_JR10428136-1": 1788976768,
   "workday:ag.wd3/Airbus:Retrofit-Solutions-Engineering-Systems-Placement--125-months-_JR10430633": 1790632503,
+  "workday:ag.wd3/Airbus:Spcialiste-Systmes-Avioniques---Avionics-Systems-Specialist_JR10394220": 1790752783,
   "workday:ag.wd3/Airbus:Web-development---Spares--MRO---Training-Product-Service-Line--m-f-_JR10423915-1": 1788976768,
   "workday:ag.wd3/Airbus:XMLNAME--CORE-DIGITAL-CAMPUS---SAP-Developer--f-m-d-_JR10428591-1": 1788425964,
   "workday:altera.wd1/altera:Junior-Verification-Engineer_R03078": 1788549636,
+  "workday:altera.wd1/altera:Software-Engineer----Intern_R03252": 1790752783,
   "workday:amat.wd1/External:Algorithm-Developer-I-New-College-Grad--Bachelor-s--Santa-Clara--CA-_R2626605": 1788368024,
   "workday:amat.wd1/External:EHS-Safety-Engineer-New-College-Grad--Bachelors---Santa-Clara--CA-_R2626244": 1788368024,
   "workday:amat.wd1/External:Software-Engineer--New-College-Grad--Master-s--Chandler--AZ-_R2627911": 1788472811,
@@ -5468,6 +5473,7 @@
   "workday:avav.wd1/avav:Software-Engineering-Intern_8813": 1790035386,
   "workday:avav.wd1/avav:Summer-2027-Embedded-Software-Engineering-Intern_8388": 1788410216,
   "workday:avav.wd1/avav:Summer-2027-Software-Engineering-Intern_8611": 1788410216,
+  "workday:avav.wd1/avav:Titan-SV-Software-Engineer-Intern_8901": 1790752783,
   "workday:avnet.wd1/external:Technical-Sales-Engineer---AMD-Xilinx_JR-022673-1": 1789503588,
   "workday:avnet.wd1/external:Technical-Sales-Engineer-AMD-Xilinx_JR-022776-1": 1788752332,
   "workday:avnet.wd1/external:Technical-Sales-Engineer-Avnet-Silica_JR-023902": 1788752332,
@@ -6390,5 +6396,5 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148,
   "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541": 1789106107
  },
- "updated_at": 1790734187
+ "updated_at": 1790752785
 }
