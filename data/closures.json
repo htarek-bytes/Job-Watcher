@@ -2,27 +2,6 @@
  "closed": [
   {
    "closed_at": 1790373608,
-   "company": "Source Code",
-   "hours_open": 63.1,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50347574"
-  },
-  {
-   "closed_at": 1790373608,
-   "company": "purvis",
-   "hours_open": 383.5,
-   "title": "Software Developer (202609 ASP)",
-   "uid": "lever:purvis:bd0748db-5f15-4ec8-927e-f192f9fea855"
-  },
-  {
-   "closed_at": 1790373608,
-   "company": "accenturefederalservices",
-   "hours_open": 4.4,
-   "title": "Cloud Infrastructure Engineer",
-   "uid": "greenhouse:accenturefederalservices:4716696006"
-  },
-  {
-   "closed_at": 1790373608,
    "company": "accenturefederalservices",
    "hours_open": 412.9,
    "title": "Cloud Systems Administrator ",
@@ -5599,8 +5578,29 @@
    "hours_open": 659.9,
    "title": "Field Application Engineer (2026 New College Graduate)",
    "uid": "workday:globalfoundries.wd1/External:Engineer-Field-Application-Engineering_JR-2502404"
+  },
+  {
+   "closed_at": 1790756858,
+   "company": "opentable",
+   "hours_open": 19.6,
+   "title": "Business Intelligence Engineer",
+   "uid": "greenhouse:opentable:8829953002"
+  },
+  {
+   "closed_at": 1790756858,
+   "company": "EZEE TRUCK PERMITS INC.",
+   "hours_open": 465.2,
+   "title": "network support technician",
+   "uid": "jobbank:linux administrator:49626621"
+  },
+  {
+   "closed_at": 1790756858,
+   "company": "haier",
+   "hours_open": 13.8,
+   "title": "Software Engineering Co-op_Fall 2026",
+   "uid": "workday:haier.wd3/ge_appliances:Software-Engineering-Co-op-Fall-2026_REQ-26919"
   }
  ],
- "count": 806,
- "updated_at": 1790753367
+ "count": 803,
+ "updated_at": 1790756859
 }
