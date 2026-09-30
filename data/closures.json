@@ -2,34 +2,6 @@
  "closed": [
   {
    "closed_at": 1790383779,
-   "company": "Cooptel",
-   "hours_open": 415.7,
-   "title": "Administrateur réseau",
-   "uid": "jobillico:analyste reseau:17185045"
-  },
-  {
-   "closed_at": 1790383779,
-   "company": "cadence",
-   "hours_open": 528.9,
-   "title": "Software Engineer  (new college grad Dec 2026)",
-   "uid": "workday:cadence.wd1/Univ_Careers:Software-Engineer---new-college-grad-Dec-2026-_R55738-2"
-  },
-  {
-   "closed_at": 1790383779,
-   "company": "cadence",
-   "hours_open": 559.9,
-   "title": "Adams Application Software Developer  (Recent Grad 2026)",
-   "uid": "workday:cadence.wd1/Univ_Careers:Adams-Application-Software-Developer---Recent-Grad-2026-_R55736-2"
-  },
-  {
-   "closed_at": 1790383779,
-   "company": "cadence",
-   "hours_open": 559.9,
-   "title": "Adams MultiBody Dynamics Application Software Developer (Recent Grad 2026)",
-   "uid": "workday:cadence.wd1/External_Careers:Adams-MultiBody-Dynamics-Application-Software-Developer--Recent-Grad-2026-_R55788"
-  },
-  {
-   "closed_at": 1790383779,
    "company": "clearwateranalytics",
    "hours_open": 24.7,
    "title": "Gen AI Solutions Engineer, Investment Solutions",
@@ -5599,8 +5571,36 @@
    "hours_open": 646.2,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1790781388,
+   "company": "FOP EXPERTS CONSEILS INC.",
+   "hours_open": 20.9,
+   "title": "network security analyst",
+   "uid": "jobbank:network analyst:50389758"
+  },
+  {
+   "closed_at": 1790781388,
+   "company": "twitch",
+   "hours_open": 643.4,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1790781388,
+   "company": "spacex",
+   "hours_open": 646.3,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1790781388,
+   "company": "spacex",
+   "hours_open": 644.6,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
- "count": 807,
- "updated_at": 1790781021
+ "count": 804,
+ "updated_at": 1790781388
 }
