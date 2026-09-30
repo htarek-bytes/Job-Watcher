@@ -1,55 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1790382445,
-   "company": "bmo",
-   "hours_open": 9.6,
-   "title": "Business & Operations Development Specialist (New Grad)",
-   "uid": "workday:bmo.wd3/External:Business---Operations-Development-Specialist--New-Grad-_R260027681"
-  },
-  {
-   "closed_at": 1790382445,
-   "company": "Groupe DCM",
-   "hours_open": 181.4,
-   "title": "Programmeur CNC / CNC Programmer",
-   "uid": "jobillico:programmeur junior:17534670"
-  },
-  {
-   "closed_at": 1790382445,
-   "company": "amat",
-   "hours_open": 530.5,
-   "title": "Software Engineer, New College Grad- Master's (Chandler, AZ)",
-   "uid": "workday:amat.wd1/External:Software-Engineer--New-College-Grad--Master-s--Chandler--AZ-_R2627911"
-  },
-  {
-   "closed_at": 1790382445,
-   "company": "twitch",
-   "hours_open": 535.5,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1790382445,
-   "company": "spacex",
-   "hours_open": 532.6,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1790383779,
-   "company": "Alt Informatique",
-   "hours_open": 187.9,
-   "title": "Technicien informatique junior",
-   "uid": "jobillico:technicien informatique:17381391"
-  },
-  {
-   "closed_at": 1790383779,
-   "company": "Groupe DCM",
-   "hours_open": 187.9,
-   "title": "Programmeur CNC / CNC Programmer",
-   "uid": "jobillico:programmeur junior:17534679"
-  },
-  {
    "closed_at": 1790383779,
    "company": "Cooptel",
    "hours_open": 415.7,
@@ -5599,8 +5550,57 @@
    "hours_open": 143.3,
    "title": "Production Software Engineer",
    "uid": "greenhouse:andurilindustries:5248128007"
+  },
+  {
+   "closed_at": 1790781019,
+   "company": "clevelandguardiansbops",
+   "hours_open": 139.7,
+   "title": "Software Engineer Intern, Baseball Systems",
+   "uid": "greenhouse:clevelandguardiansbops:8827470002"
+  },
+  {
+   "closed_at": 1790781019,
+   "company": "Amazon",
+   "hours_open": 178.1,
+   "title": "Software Development Engineer, Platform Matching Systems and Policies (IAPP)",
+   "uid": "amazon:amazon:10557302"
+  },
+  {
+   "closed_at": 1790781019,
+   "company": "twitch",
+   "hours_open": 646.2,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1790781019,
+   "company": "spacex",
+   "hours_open": 643.3,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1790781019,
+   "company": "RTX",
+   "hours_open": 682.8,
+   "title": "FPGA Engineer 1",
+   "uid": "simplify:listings:f6f48127-bff1-47be-aab1-c96716c9b7b2"
+  },
+  {
+   "closed_at": 1790781019,
+   "company": "spacex",
+   "hours_open": 645.9,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1790781019,
+   "company": "spacex",
+   "hours_open": 646.2,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 802,
- "updated_at": 1790777565
+ "count": 807,
+ "updated_at": 1790781021
 }
