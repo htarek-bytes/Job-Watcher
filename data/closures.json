@@ -2,13 +2,6 @@
  "closed": [
   {
    "closed_at": 1790399844,
-   "company": "Aequilibrium Software Inc.",
-   "hours_open": 168.6,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50320225"
-  },
-  {
-   "closed_at": 1790399844,
    "company": "Zaber Technologies",
    "hours_open": 162.5,
    "title": "software developer",
@@ -5599,8 +5592,15 @@
    "hours_open": 648.6,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1790796408,
+   "company": "Eurofins",
+   "hours_open": 17.8,
+   "title": "Entry Level Application Engineer",
+   "uid": "smartrecruiters:Eurofins:744000152416389"
   }
  ],
- "count": 806,
- "updated_at": 1790795730
+ "count": 801,
+ "updated_at": 1790796408
 }
