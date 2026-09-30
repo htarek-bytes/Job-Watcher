@@ -1,48 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1790386984,
-   "company": "spacex",
-   "hours_open": 536.8,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1790388104,
-   "company": "radiancetech",
-   "hours_open": 56.5,
-   "title": "Junior Software Engineer",
-   "uid": "workday:radiancetech.wd12/Radiance_External:Junior-Software-Engineer_HR102428"
-  },
-  {
-   "closed_at": 1790388104,
-   "company": "Groupe DCM",
-   "hours_open": 182.9,
-   "title": "Programmeur CNC / CNC Programmer",
-   "uid": "jobillico:programmeur junior:17534670"
-  },
-  {
-   "closed_at": 1790388104,
-   "company": "Alithya Canada Inc.",
-   "hours_open": 2.7,
-   "title": "full stack Web developer",
-   "uid": "jobbank:programmeur junior:50257748"
-  },
-  {
-   "closed_at": 1790399844,
-   "company": "td",
-   "hours_open": 106.6,
-   "title": "Software Engineer I",
-   "uid": "workday:td.wd3/TD_Bank_Careers:Software-Engineer-I_R_1508757"
-  },
-  {
-   "closed_at": 1790399844,
-   "company": "Alt Informatique",
-   "hours_open": 192.4,
-   "title": "Technicien informatique junior",
-   "uid": "jobillico:technicien informatique:17381391"
-  },
-  {
    "closed_at": 1790399844,
    "company": "Aequilibrium Software Inc.",
    "hours_open": 168.6,
@@ -5599,8 +5557,50 @@
    "hours_open": 216.0,
    "title": "Software Development Engineer, Amazon Leo for Government",
    "uid": "amazon:amazon:10554995"
+  },
+  {
+   "closed_at": 1790795729,
+   "company": "doordashusa",
+   "hours_open": 20.7,
+   "title": "Detection Engineer, Protective Services",
+   "uid": "greenhouse:doordashusa:8237701"
+  },
+  {
+   "closed_at": 1790795729,
+   "company": "Fed IT",
+   "hours_open": 363.9,
+   "title": "business systems specialist - computer systems",
+   "uid": "jobbank:specialiste infrastructure:50291942"
+  },
+  {
+   "closed_at": 1790795729,
+   "company": "twitch",
+   "hours_open": 650.3,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1790795729,
+   "company": "shieldai",
+   "hours_open": 647.4,
+   "title": "Electronics Failure Analysis Engineer (R5258)",
+   "uid": "lever:shieldai:ab671f1f-1f4e-4c2e-8561-87437767f3f5"
+  },
+  {
+   "closed_at": 1790795729,
+   "company": "spacex",
+   "hours_open": 650.0,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1790795729,
+   "company": "spacex",
+   "hours_open": 648.6,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
- "count": 817,
- "updated_at": 1790793635
+ "count": 806,
+ "updated_at": 1790795730
 }
