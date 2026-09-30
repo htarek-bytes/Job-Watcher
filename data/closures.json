@@ -1,20 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1790379536,
-   "company": "accenture",
-   "hours_open": 10.9,
-   "title": "(Junior) AI Native Software Engineer  (all genders)",
-   "uid": "workday:accenture.wd103/AccentureCareers:XMLNAME--Junior--AI-Native-Software-Engineer---all-genders-_R00359893-1"
-  },
-  {
-   "closed_at": 1790379536,
-   "company": "TP-Link Systems Inc.",
-   "hours_open": 534.7,
-   "title": "Mobile App Development Engineer, Android/iOS - Enterprise",
-   "uid": "workable:tp-link-usa-corp:95EDA017A5"
-  },
-  {
    "closed_at": 1790382445,
    "company": "bmo",
    "hours_open": 9.6,
@@ -5599,8 +5585,22 @@
    "hours_open": 18.5,
    "title": "Imaging Engineer I",
    "uid": "workday:trimedx.wd1/TMX:Imaging-Engineer-I_R15009"
+  },
+  {
+   "closed_at": 1790777564,
+   "company": "andurilindustries",
+   "hours_open": 143.3,
+   "title": "Python Software Engineer (Production)",
+   "uid": "greenhouse:andurilindustries:5248131007"
+  },
+  {
+   "closed_at": 1790777564,
+   "company": "andurilindustries",
+   "hours_open": 143.3,
+   "title": "Production Software Engineer",
+   "uid": "greenhouse:andurilindustries:5248128007"
   }
  ],
- "count": 804,
- "updated_at": 1790777073
+ "count": 802,
+ "updated_at": 1790777565
 }
