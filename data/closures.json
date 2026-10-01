@@ -2,41 +2,6 @@
  "closed": [
   {
    "closed_at": 1790485380,
-   "company": "ED Tech Solutions Inc.",
-   "hours_open": 443.9,
-   "title": "network system administrator",
-   "uid": "jobbank:systems administrator:50073531"
-  },
-  {
-   "closed_at": 1790485380,
-   "company": "Smartway Freight Systems Inc.",
-   "hours_open": 443.9,
-   "title": "network system administrator",
-   "uid": "jobbank:systems administrator:49967696"
-  },
-  {
-   "closed_at": 1790485380,
-   "company": "spacex",
-   "hours_open": 564.1,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1790485380,
-   "company": "spacex",
-   "hours_open": 564.1,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1790485380,
-   "company": "Cooptel",
-   "hours_open": 443.9,
-   "title": "Administrateur réseau",
-   "uid": "jobillico:analyste reseau:17185045"
-  },
-  {
-   "closed_at": 1790485380,
    "company": "Lakeland Roman Catholic Separate School Division",
    "hours_open": 443.9,
    "title": "computer systems analyst",
@@ -5599,8 +5564,43 @@
    "hours_open": 194.4,
    "title": "Software Development Engineer, ADC2S",
    "uid": "amazon:amazon:10558154"
+  },
+  {
+   "closed_at": 1790889082,
+   "company": "ema",
+   "hours_open": 217.9,
+   "title": "Software Engineer, Machine Learning",
+   "uid": "ashby:ema:85fe8e2a-c480-4a3b-8f31-ef231ad21f8c"
+  },
+  {
+   "closed_at": 1790889082,
+   "company": "Amazon",
+   "hours_open": 236.3,
+   "title": "Software Development Engineer, 3P Measurement Tech ",
+   "uid": "amazon:amazon:10555703"
+  },
+  {
+   "closed_at": 1790889082,
+   "company": "spacex",
+   "hours_open": 673.3,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1790889082,
+   "company": "antares",
+   "hours_open": 673.3,
+   "title": "Harnessing Engineer",
+   "uid": "ashby:antares:999f09b9-b661-4c36-94bb-f41a35a35e0e"
+  },
+  {
+   "closed_at": 1790889082,
+   "company": "spacex",
+   "hours_open": 676.0,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
   }
  ],
- "count": 815,
- "updated_at": 1790888920
+ "count": 805,
+ "updated_at": 1790889083
 }
