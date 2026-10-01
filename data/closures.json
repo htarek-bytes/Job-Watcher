@@ -1,118 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1790493209,
-   "company": "spacex",
-   "hours_open": 566.0,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1790505187,
-   "company": "Cooptel",
-   "hours_open": 449.4,
-   "title": "Administrateur réseau",
-   "uid": "jobillico:analyste reseau:17185045"
-  },
-  {
-   "closed_at": 1790510698,
-   "company": "VILLE DE SAINTE-MARGUERITE-DU-LAC- MASSON",
-   "hours_open": 45.3,
-   "title": "network infrastructure engineer",
-   "uid": "jobbank:specialiste infrastructure:50365083"
-  },
-  {
-   "closed_at": 1790510698,
-   "company": "Great Lakes Group",
-   "hours_open": 50.2,
-   "title": "hardware engineer",
-   "uid": "jobbank:scada:50336045"
-  },
-  {
-   "closed_at": 1790510698,
-   "company": "Arora Enterprise Inc",
-   "hours_open": 376.2,
-   "title": "Web developer",
-   "uid": "jobbank:developpeur junior:50266457"
-  },
-  {
-   "closed_at": 1790510698,
-   "company": "Kraft Berger LLP",
-   "hours_open": 450.9,
-   "title": "network administrator",
-   "uid": "jobbank:network administrator:49654254"
-  },
-  {
-   "closed_at": 1790510698,
-   "company": "Study 2020 Consulting INC",
-   "hours_open": 450.9,
-   "title": "network security administrator",
-   "uid": "jobbank:network administrator:49613158"
-  },
-  {
-   "closed_at": 1790514216,
-   "company": "Groupe DCM",
-   "hours_open": 218.0,
-   "title": "Programmeur CNC / CNC Programmer",
-   "uid": "jobillico:programmeur junior:17534670"
-  },
-  {
-   "closed_at": 1790523115,
-   "company": "ffive",
-   "hours_open": 110.7,
-   "title": "Software Engineer I",
-   "uid": "workday:ffive.wd5/f5jobs:Software-Engineer-I_RP1038827-1"
-  },
-  {
-   "closed_at": 1790528084,
-   "company": "gevernova",
-   "hours_open": 120.0,
-   "title": "Engineering Intern - Power Conversion & Storage AI Tool Developer  2027",
-   "uid": "workday:gevernova.wd5/vernova_externalsite:Engineering-Intern---Power-Conversion---Storage-AI-Tool-Developer--2027_R5049957-2"
-  },
-  {
-   "closed_at": 1790528084,
-   "company": "iberdrola",
-   "hours_open": 282.3,
-   "title": "Associate Engineer - Distribution Planning",
-   "uid": "workday:iberdrola.wd3/iberdrola:Associate-Engineer---Distribution-Planning_R-29801"
-  },
-  {
-   "closed_at": 1790528084,
-   "company": "kla",
-   "hours_open": 323.8,
-   "title": "Software Engineering Intern",
-   "uid": "workday:kla.wd1/annarbor:Software-Engineering-Intern_2531653"
-  },
-  {
-   "closed_at": 1790528084,
-   "company": "spacex",
-   "hours_open": 576.0,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1790528084,
-   "company": "spacex",
-   "hours_open": 576.0,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1790530972,
-   "company": "VILLE DE SAINTE-MARGUERITE-DU-LAC- MASSON",
-   "hours_open": 50.9,
-   "title": "network infrastructure engineer",
-   "uid": "jobbank:specialiste infrastructure:50365083"
-  },
-  {
-   "closed_at": 1790530972,
-   "company": "Groupe DCM",
-   "hours_open": 228.8,
-   "title": "Programmeur CNC / CNC Programmer",
-   "uid": "jobillico:programmeur junior:17534679"
-  },
-  {
    "closed_at": 1790188909,
    "company": "spacex",
    "hours_open": 478.8,
@@ -5599,8 +5487,120 @@
    "hours_open": 194.3,
    "title": "Software Development Engineer, ZeroTouch GSG at Amazon Leo",
    "uid": "amazon:amazon:10558223"
+  },
+  {
+   "closed_at": 1790897569,
+   "company": "celonis",
+   "hours_open": 3.6,
+   "title": "Associate Value Engineer (AI-Driven Data Science & Analytics) - Orbit Program",
+   "uid": "greenhouse:celonis:7885881003"
+  },
+  {
+   "closed_at": 1790897569,
+   "company": "coinbase",
+   "hours_open": 3.6,
+   "title": "Software Engineer, Backend - Payments Platform",
+   "uid": "greenhouse:coinbase:8247397"
+  },
+  {
+   "closed_at": 1790897569,
+   "company": "SANSHTECH INC.",
+   "hours_open": 2.4,
+   "title": "Web developer",
+   "uid": "jobbank:junior programmer:50405631"
+  },
+  {
+   "closed_at": 1790897569,
+   "company": "Maarut",
+   "hours_open": 162.1,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50363075"
+  },
+  {
+   "closed_at": 1790897569,
+   "company": "Groupe DCM",
+   "hours_open": 324.5,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534670"
+  },
+  {
+   "closed_at": 1790897569,
+   "company": "BetterPro",
+   "hours_open": 486.3,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50267234"
+  },
+  {
+   "closed_at": 1790897569,
+   "company": "CGI",
+   "hours_open": 558.4,
+   "title": "Conseiller en gouvernance de la cybersécurité",
+   "uid": "jobillico:analyste cybersecurite:17433756"
+  },
+  {
+   "closed_at": 1790897569,
+   "company": "SRC Can",
+   "hours_open": 138.3,
+   "title": "software developer",
+   "uid": "jobbank:entry level software developer:50370646"
+  },
+  {
+   "closed_at": 1790897569,
+   "company": "dcbel",
+   "hours_open": 558.4,
+   "title": "Collaboration & Documentation Systems Administrator",
+   "uid": "bamboohr:dcbel:243"
+  },
+  {
+   "closed_at": 1790897569,
+   "company": "Amazon",
+   "hours_open": 172.8,
+   "title": "Software Development Engineer, Amazon Customer Service",
+   "uid": "amazon:amazon:10559387"
+  },
+  {
+   "closed_at": 1790897569,
+   "company": "andurilindustries",
+   "hours_open": 558.4,
+   "title": "Engineering Solutions Systems Administrator (TeamCenter)",
+   "uid": "greenhouse:andurilindustries:5172268007"
+  },
+  {
+   "closed_at": 1790897569,
+   "company": "Source Code",
+   "hours_open": 208.6,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50347574"
+  },
+  {
+   "closed_at": 1790897569,
+   "company": "Alexander Holburn Beaudin + Lang LLP",
+   "hours_open": 558.4,
+   "title": "network security administrator",
+   "uid": "jobbank:network administrator:50202781"
+  },
+  {
+   "closed_at": 1790897569,
+   "company": "CoStar Group",
+   "hours_open": 357.8,
+   "title": "Associate Software Engineer",
+   "uid": "simplify:listings:fec5c82d-3e40-46de-bad2-93a1b2669f21"
+  },
+  {
+   "closed_at": 1790897569,
+   "company": "Barry-Wehmiller",
+   "hours_open": 715.2,
+   "title": "Entry Level Software Engineer",
+   "uid": "simplify:listings:94439f86-761e-479b-ad07-ff674a810362"
+  },
+  {
+   "closed_at": 1790897569,
+   "company": "spacex",
+   "hours_open": 678.6,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 806,
- "updated_at": 1790889811
+ "count": 816,
+ "updated_at": 1790897569
 }
