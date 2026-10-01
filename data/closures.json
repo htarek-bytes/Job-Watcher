@@ -2,83 +2,6 @@
  "closed": [
   {
    "closed_at": 1790485380,
-   "company": "SII Canada",
-   "hours_open": 294.6,
-   "title": "programmer analyst",
-   "uid": "jobbank:junior programmer:50286159"
-  },
-  {
-   "closed_at": 1790485380,
-   "company": "FIBROTEK MATÉRIAUX AVANCÉS INC.",
-   "hours_open": 294.6,
-   "title": "mobile applications developer",
-   "uid": "jobbank:developpeur junior:50286599"
-  },
-  {
-   "closed_at": 1790485380,
-   "company": "ICON Creative Studio",
-   "hours_open": 297.7,
-   "title": "network system administrator",
-   "uid": "jobbank:systems administrator:50285632"
-  },
-  {
-   "closed_at": 1790485380,
-   "company": "Source Code",
-   "hours_open": 125.5,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:control systems analyst:50335113"
-  },
-  {
-   "closed_at": 1790485380,
-   "company": "BetterPro",
-   "hours_open": 371.8,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50267234"
-  },
-  {
-   "closed_at": 1790485380,
-   "company": "SRS TECHNOLOGIES INC",
-   "hours_open": 369.2,
-   "title": "computer programmer",
-   "uid": "jobbank:junior programmer:50267927"
-  },
-  {
-   "closed_at": 1790485380,
-   "company": "Drops of Jupiter",
-   "hours_open": 225.0,
-   "title": "electronic commerce (e-commerce) Web site developer",
-   "uid": "jobbank:developpeur junior:50268296"
-  },
-  {
-   "closed_at": 1790485380,
-   "company": "CANADIAN EASY TAX AND FINANCIAL SERVICES",
-   "hours_open": 369.2,
-   "title": "Web developer",
-   "uid": "jobbank:developpeur junior:50267136"
-  },
-  {
-   "closed_at": 1790485380,
-   "company": "Arora Enterprise Inc",
-   "hours_open": 369.2,
-   "title": "Web developer",
-   "uid": "jobbank:developpeur junior:50266457"
-  },
-  {
-   "closed_at": 1790485380,
-   "company": "YCSD Inc",
-   "hours_open": 371.8,
-   "title": "mobile applications developer",
-   "uid": "jobbank:developpeur junior:50265227"
-  },
-  {
-   "closed_at": 1790485380,
-   "company": "GENERIX GROUPE",
-   "hours_open": 375.4,
-   "title": "applications analyst - computer systems",
-   "uid": "jobbank:systems analyst:50265246"
-  },
-  {
-   "closed_at": 1790485380,
    "company": "Fed IT",
    "hours_open": 360.6,
    "title": "network administrator",
@@ -5599,8 +5522,85 @@
    "hours_open": 305.8,
    "title": "cybersecurity specialist",
    "uid": "jobbank:specialiste infrastructure:50317565"
+  },
+  {
+   "closed_at": 1790872472,
+   "company": "gevernova",
+   "hours_open": 16.9,
+   "title": "Software Engineering Graduate Programme-1",
+   "uid": "workday:gevernova.wd5/vernova_externalsite:Software-Engineering-Graduate-Programme-1_R5045896-2"
+  },
+  {
+   "closed_at": 1790872472,
+   "company": "celonis",
+   "hours_open": 454.7,
+   "title": "Associate Value Engineer (AI-Driven Data Science & Analytics) - Orbit Program",
+   "uid": "greenhouse:celonis:7885897003"
+  },
+  {
+   "closed_at": 1790872472,
+   "company": "intel",
+   "hours_open": 693.0,
+   "title": "NMSI Module Engineer- Entry Level",
+   "uid": "workday:intel.wd1/external:NMSI-Module-Engineer--Entry-Level_JR0286667-1"
+  },
+  {
+   "closed_at": 1790872472,
+   "company": "City of Surrey",
+   "hours_open": 551.4,
+   "title": "systems specialist - computer systems",
+   "uid": "jobbank:systems analyst:50216007"
+  },
+  {
+   "closed_at": 1790872472,
+   "company": "FOP EXPERTS CONSEILS INC.",
+   "hours_open": 17.9,
+   "title": "network system administrator",
+   "uid": "jobbank:systems administrator:50398465"
+  },
+  {
+   "closed_at": 1790872472,
+   "company": "fmr",
+   "hours_open": 473.8,
+   "title": "Co-op, Software Full Stack Engineer",
+   "uid": "workday:fmr.wd1/targeted:Co-op--Software-Full-Stack-Engineer_2135236"
+  },
+  {
+   "closed_at": 1790872472,
+   "company": "intel",
+   "hours_open": 508.7,
+   "title": "Operations Research Engineer Intern",
+   "uid": "workday:intel.wd1/external:Operations-Research-Engineer-Intern_JR0286945"
+  },
+  {
+   "closed_at": 1790872472,
+   "company": "fifththird",
+   "hours_open": 675.0,
+   "title": "Software Engineer Co-Op - Enterprise Finance Applications - Spring 2027",
+   "uid": "workday:fifththird.wd5/53careers:Software-Engineer-Co-Op---Enterprise-Finance-Applications---Spring-2027_R71587"
+  },
+  {
+   "closed_at": 1790872472,
+   "company": "Amazon",
+   "hours_open": 239.9,
+   "title": "Software Development Engineer, Kiro",
+   "uid": "amazon:amazon:10554903"
+  },
+  {
+   "closed_at": 1790872472,
+   "company": "globusmedical",
+   "hours_open": 693.0,
+   "title": "Associate Software Engineer",
+   "uid": "workday:globusmedical.wd5/GMED_Careers:Associate-Software-Engineer_JR106980-1"
+  },
+  {
+   "closed_at": 1790872472,
+   "company": "spacex",
+   "hours_open": 671.6,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
   }
  ],
- "count": 807,
- "updated_at": 1790871711
+ "count": 811,
+ "updated_at": 1790872473
 }
