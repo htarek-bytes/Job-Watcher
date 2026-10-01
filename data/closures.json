@@ -2,139 +2,6 @@
  "closed": [
   {
    "closed_at": 1790485380,
-   "company": "Analyst Technical Solutions",
-   "hours_open": 123.3,
-   "title": "server administrator",
-   "uid": "jobbank:linux administrator:50335015"
-  },
-  {
-   "closed_at": 1790485380,
-   "company": "Lancesoft",
-   "hours_open": 23.8,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50370694"
-  },
-  {
-   "closed_at": 1790485380,
-   "company": "Analyst Technical Solutions",
-   "hours_open": 192.4,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:systems analyst:50320313"
-  },
-  {
-   "closed_at": 1790485380,
-   "company": "Aequilibrium Software Inc.",
-   "hours_open": 23.8,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50370793"
-  },
-  {
-   "closed_at": 1790485380,
-   "company": "Municipality of East Hants",
-   "hours_open": 201.3,
-   "title": "systems analyst",
-   "uid": "jobbank:systems analyst:50316766"
-  },
-  {
-   "closed_at": 1790485380,
-   "company": "Surrey Police Service",
-   "hours_open": 196.5,
-   "title": "systems analyst",
-   "uid": "jobbank:systems analyst:50318878"
-  },
-  {
-   "closed_at": 1790485380,
-   "company": "Zaber Technologies",
-   "hours_open": 23.8,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50371059"
-  },
-  {
-   "closed_at": 1790485380,
-   "company": "Solution Meriatek Inc",
-   "hours_open": 229.9,
-   "title": "developer, software",
-   "uid": "jobbank:junior software developer:50306111"
-  },
-  {
-   "closed_at": 1790485380,
-   "company": "CIeNET International",
-   "hours_open": 47.6,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50363577"
-  },
-  {
-   "closed_at": 1790485380,
-   "company": "Valsoft Corporation",
-   "hours_open": 23.8,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50370881"
-  },
-  {
-   "closed_at": 1790485380,
-   "company": "TechSmash Inc.",
-   "hours_open": 225.0,
-   "title": "computer programmer",
-   "uid": "jobbank:junior programmer:50309180"
-  },
-  {
-   "closed_at": 1790485380,
-   "company": "Fed IT",
-   "hours_open": 220.7,
-   "title": "network system administrator",
-   "uid": "jobbank:systems administrator:50310437"
-  },
-  {
-   "closed_at": 1790485380,
-   "company": "City of Brampton",
-   "hours_open": 228.1,
-   "title": "systems analyst",
-   "uid": "jobbank:systems analyst:50307090"
-  },
-  {
-   "closed_at": 1790485380,
-   "company": "DPMSYSTEMS IT CONSULTING SERVICES",
-   "hours_open": 216.1,
-   "title": "information systems analyst - computer systems",
-   "uid": "jobbank:systems analyst:50311291"
-  },
-  {
-   "closed_at": 1790485380,
-   "company": "AM/PM Service - Point of Sale & Service",
-   "hours_open": 215.7,
-   "title": "network administrator",
-   "uid": "jobbank:network administrator:50312058"
-  },
-  {
-   "closed_at": 1790485380,
-   "company": "Vogtech Renewables",
-   "hours_open": 62.6,
-   "title": "Web developer",
-   "uid": "jobbank:developpeur junior:50299653"
-  },
-  {
-   "closed_at": 1790485380,
-   "company": "CENTRE DE COLLABORATION MIQRO INNOVATION",
-   "hours_open": 247.6,
-   "title": "network system administrator",
-   "uid": "jobbank:systems administrator:50302731"
-  },
-  {
-   "closed_at": 1790485380,
-   "company": "Global Fleet Management Inc.",
-   "hours_open": 247.4,
-   "title": "information systems analyst - computer systems",
-   "uid": "jobbank:systems analyst:50302902"
-  },
-  {
-   "closed_at": 1790485380,
-   "company": "VIZDOM TECH ALBERTA LTD.",
-   "hours_open": 246.8,
-   "title": "network administrator",
-   "uid": "jobbank:network administrator:50302907"
-  },
-  {
-   "closed_at": 1790485380,
    "company": "City of Yellowknife",
    "hours_open": 249.7,
    "title": "geographic information systems (gis) analyst",
@@ -5599,8 +5466,141 @@
    "hours_open": 669.8,
    "title": "SAP EWM ASRS Integration Developer",
    "uid": "greenhouse:accenturefederalservices:4695325006"
+  },
+  {
+   "closed_at": 1790871589,
+   "company": "airbnb",
+   "hours_open": 41.8,
+   "title": "Software Engineer, Passport & Commerce, Web",
+   "uid": "greenhouse:airbnb:8239930"
+  },
+  {
+   "closed_at": 1790871589,
+   "company": "boeing",
+   "hours_open": 323.3,
+   "title": "Mission Analysis Engineer (Entry level) - Millennium Space Systems",
+   "uid": "workday:boeing.wd1/external_subsidiary:Mission-Analysis-Engineer--Entry-level----Millennium-Space-Systems_JR2026524528-1"
+  },
+  {
+   "closed_at": 1790871589,
+   "company": "boeing",
+   "hours_open": 66.4,
+   "title": "Entry Level Spacecraft Integration and Test Engineer - Millennium Space Systems",
+   "uid": "workday:boeing.wd1/external_subsidiary:ATLO--Assembly--Test----Launch-Operations--Engineer---Millennium-Space-Systems_JR2026511990"
+  },
+  {
+   "closed_at": 1790871589,
+   "company": "bmo",
+   "hours_open": 345.5,
+   "title": "Quantitative Developer (Alpha Research Team) - GAM, Summer 2027 (Co-op/Internship) - 12 months",
+   "uid": "workday:bmo.wd3/External:Quantitative-Developer--Alpha-Research-Team----GAM--Summer-2027--Co-op-Internship----12-months_R260026715-3"
+  },
+  {
+   "closed_at": 1790871589,
+   "company": "Cooptel",
+   "hours_open": 551.2,
+   "title": "Administrateur réseau",
+   "uid": "jobillico:analyste reseau:17185045"
+  },
+  {
+   "closed_at": 1790871589,
+   "company": "blackrock",
+   "hours_open": 216.8,
+   "title": "Associate, Software Engineer - Aladdin Graph",
+   "uid": "workday:blackrock.wd1/BlackRock_Professional:Associate--Software-Engineer---Aladdin-Graph_R266598"
+  },
+  {
+   "closed_at": 1790871589,
+   "company": "andersen",
+   "hours_open": 17.7,
+   "title": "Engineer I",
+   "uid": "workday:andersen.wd12/Andersen_External_Career_Site:Engineer-I_R-6774-1"
+  },
+  {
+   "closed_at": 1790871589,
+   "company": "Amazon",
+   "hours_open": 165.8,
+   "title": "Software Development Engineer, Amazon Security",
+   "uid": "amazon:amazon:10559327"
+  },
+  {
+   "closed_at": 1790871589,
+   "company": "arizeai",
+   "hours_open": 669.7,
+   "title": "Forward Deployed AI Engineer, East",
+   "uid": "greenhouse:arizeai:5993755004"
+  },
+  {
+   "closed_at": 1790871589,
+   "company": "avav",
+   "hours_open": 232.3,
+   "title": "Software Engineering Intern",
+   "uid": "workday:avav.wd1/avav:Software-Engineering-Intern_8813"
+  },
+  {
+   "closed_at": 1790871589,
+   "company": "cadence",
+   "hours_open": 695.4,
+   "title": "Adams Application Software Developer  (Recent Grad 2026)",
+   "uid": "workday:cadence.wd1/Univ_Careers:Adams-Application-Software-Developer---Recent-Grad-2026-_R55736-2"
+  },
+  {
+   "closed_at": 1790871589,
+   "company": "cadence",
+   "hours_open": 695.4,
+   "title": "Adams MultiBody Dynamics Application Software Developer (Recent Grad 2026)",
+   "uid": "workday:cadence.wd1/External_Careers:Adams-MultiBody-Dynamics-Application-Software-Developer--Recent-Grad-2026-_R55788"
+  },
+  {
+   "closed_at": 1790871589,
+   "company": "andersen",
+   "hours_open": 695.4,
+   "title": "Manufacturing Project Engineer 1",
+   "uid": "workday:andersen.wd12/Andersen_External_Career_Site:Engineer-I_R-4416"
+  },
+  {
+   "closed_at": 1790871589,
+   "company": "voyagertechnologiesinc",
+   "hours_open": 671.4,
+   "title": "Cable Harness Engineer",
+   "uid": "greenhouse:voyagertechnologiesinc:4381248009"
+  },
+  {
+   "closed_at": 1790871589,
+   "company": "darkwolfsolutions",
+   "hours_open": 671.4,
+   "title": "Mid-level Cybersecurity Engineer / RMF Specialist",
+   "uid": "greenhouse:darkwolfsolutions:7893833003"
+  },
+  {
+   "closed_at": 1790871589,
+   "company": "spacex",
+   "hours_open": 671.1,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1790871589,
+   "company": "spacex",
+   "hours_open": 671.4,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1790871589,
+   "company": "andurilindustries",
+   "hours_open": 669.7,
+   "title": "Product Operations Technical Specialist, Air Defense",
+   "uid": "greenhouse:andurilindustries:5178736007"
+  },
+  {
+   "closed_at": 1790871589,
+   "company": "caci",
+   "hours_open": 50.0,
+   "title": "Software Engineer Intern - Summer 2027",
+   "uid": "workday:caci.wd1/external:Software-Engineer-Intern---Summer-2027_332776"
   }
  ],
- "count": 812,
- "updated_at": 1790866081
+ "count": 819,
+ "updated_at": 1790871590
 }
