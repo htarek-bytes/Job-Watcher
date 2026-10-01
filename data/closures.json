@@ -2,13 +2,6 @@
  "closed": [
   {
    "closed_at": 1790485380,
-   "company": "ADECCO",
-   "hours_open": 47.0,
-   "title": "instrumentation engineer",
-   "uid": "jobbank:scada:50363025"
-  },
-  {
-   "closed_at": 1790485380,
    "company": "NOVIPRO",
    "hours_open": 86.3,
    "title": "information technology (it) system administrator",
@@ -5599,8 +5592,15 @@
    "hours_open": 661.1,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1790845026,
+   "company": "humble-robotics",
+   "hours_open": 661.0,
+   "title": "Vehicle Systems Engineer",
+   "uid": "lever:humble-robotics:cbde53eb-892d-4c8b-aeb7-893e10ef5c5d"
   }
  ],
- "count": 812,
- "updated_at": 1790840625
+ "count": 801,
+ "updated_at": 1790845027
 }
