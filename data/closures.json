@@ -2,13 +2,6 @@
  "closed": [
   {
    "closed_at": 1790485380,
-   "company": "NOVIPRO",
-   "hours_open": 86.3,
-   "title": "information technology (it) system administrator",
-   "uid": "jobbank:systems administrator:50348569"
-  },
-  {
-   "closed_at": 1790485380,
    "company": "CDW",
    "hours_open": 78.8,
    "title": "information technology (IT) analyst",
@@ -5599,8 +5592,15 @@
    "hours_open": 661.0,
    "title": "Vehicle Systems Engineer",
    "uid": "lever:humble-robotics:cbde53eb-892d-4c8b-aeb7-893e10ef5c5d"
+  },
+  {
+   "closed_at": 1790845320,
+   "company": "AECOM",
+   "hours_open": 13.6,
+   "title": "Entry-Level Engineer - Water - Hiring Event with AECOM – Boston, MA",
+   "uid": "smartrecruiters:AECOM2:744000152726810"
   }
  ],
  "count": 801,
- "updated_at": 1790845027
+ "updated_at": 1790845320
 }
