@@ -2,55 +2,6 @@
  "closed": [
   {
    "closed_at": 1790485380,
-   "company": "City of Yellowknife",
-   "hours_open": 249.7,
-   "title": "geographic information systems (gis) analyst",
-   "uid": "jobbank:information systems analyst:50301801"
-  },
-  {
-   "closed_at": 1790485380,
-   "company": "Red House Realty, Brokerage",
-   "hours_open": 132.4,
-   "title": "cloud administrator",
-   "uid": "jobbank:cloud administrator:50331086"
-  },
-  {
-   "closed_at": 1790485380,
-   "company": "The Sisters of St. Joseph of Sault Ste. Marie",
-   "hours_open": 250.7,
-   "title": "communications specialist",
-   "uid": "jobbank:specialiste infrastructure:50301191"
-  },
-  {
-   "closed_at": 1790485380,
-   "company": "RAD Torque Systems",
-   "hours_open": 94.1,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50347331"
-  },
-  {
-   "closed_at": 1790485380,
-   "company": "APT Consulting Limited",
-   "hours_open": 270.5,
-   "title": "information systems analyst - computer systems",
-   "uid": "jobbank:systems analyst:50295353"
-  },
-  {
-   "closed_at": 1790485380,
-   "company": "Verellen Music Academy",
-   "hours_open": 273.1,
-   "title": "cloud administrator",
-   "uid": "jobbank:cloud administrator:50293609"
-  },
-  {
-   "closed_at": 1790485380,
-   "company": "Fed IT",
-   "hours_open": 277.7,
-   "title": "business systems specialist - computer systems",
-   "uid": "jobbank:specialiste infrastructure:50291942"
-  },
-  {
-   "closed_at": 1790485380,
    "company": "SII Canada",
    "hours_open": 294.6,
    "title": "programmer analyst",
@@ -5599,8 +5550,57 @@
    "hours_open": 50.0,
    "title": "Software Engineer Intern - Summer 2027",
    "uid": "workday:caci.wd1/external:Software-Engineer-Intern---Summer-2027_332776"
+  },
+  {
+   "closed_at": 1790871711,
+   "company": "disney",
+   "hours_open": 17.2,
+   "title": "Product Software Engineer I",
+   "uid": "workday:disney.wd5/disneycareer:Product-Software-Engineer-I_10157015"
+  },
+  {
+   "closed_at": 1790871711,
+   "company": "Brightmark",
+   "hours_open": 534.4,
+   "title": "network administrator",
+   "uid": "jobbank:network administrator:50248661"
+  },
+  {
+   "closed_at": 1790871711,
+   "company": "cadence",
+   "hours_open": 669.7,
+   "title": "Adams Application Software Developer  (Recent Grad 2026)",
+   "uid": "workday:cadence.wd1/University_Talent:Adams-Application-Software-Developer---Recent-Grad-2026-_R55736-1"
+  },
+  {
+   "closed_at": 1790871711,
+   "company": "cadence",
+   "hours_open": 684.1,
+   "title": "Adams MultiBody Dynamics Application Software Developer (Recent Grad 2026)",
+   "uid": "workday:cadence.wd1/University_Talent:Adams-MultiBody-Dynamics-Application-Software-Developer--Recent-Grad-2026-_R55788-3"
+  },
+  {
+   "closed_at": 1790871711,
+   "company": "chamberlain",
+   "hours_open": 33.0,
+   "title": "Engineer 1, Firmware (Intern Conversion)",
+   "uid": "workday:chamberlain.wd1/Chamberlain_Group:Engineer-1--Firmware--Intern-Conversion-_JR31660"
+  },
+  {
+   "closed_at": 1790871711,
+   "company": "chamberlain",
+   "hours_open": 33.0,
+   "title": "Software Engineer 1, Middleware (Intern Conversion)",
+   "uid": "workday:chamberlain.wd1/Chamberlain_Group:Software-Engineer-1--Middleware--Intern-Conversion-_JR31674"
+  },
+  {
+   "closed_at": 1790871711,
+   "company": "D3 Security Management Systems Inc",
+   "hours_open": 305.8,
+   "title": "cybersecurity specialist",
+   "uid": "jobbank:specialiste infrastructure:50317565"
   }
  ],
- "count": 819,
- "updated_at": 1790871590
+ "count": 807,
+ "updated_at": 1790871711
 }
