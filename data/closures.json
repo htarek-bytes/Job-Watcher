@@ -2,34 +2,6 @@
  "closed": [
   {
    "closed_at": 1790485380,
-   "company": "Eco Medical Equipment",
-   "hours_open": 82.0,
-   "title": "cloud administrator",
-   "uid": "jobbank:cloud administrator:50349556"
-  },
-  {
-   "closed_at": 1790485380,
-   "company": "La Cartoucherie",
-   "hours_open": 85.5,
-   "title": "network support technician",
-   "uid": "jobbank:linux administrator:50348283"
-  },
-  {
-   "closed_at": 1790485380,
-   "company": "RemoteJobsOne",
-   "hours_open": 102.7,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50344347"
-  },
-  {
-   "closed_at": 1790485380,
-   "company": "Ontario Universities' Application Centre",
-   "hours_open": 94.1,
-   "title": "programmer analyst",
-   "uid": "jobbank:junior programmer:50347385"
-  },
-  {
-   "closed_at": 1790485380,
    "company": "Infinity Solutions",
    "hours_open": 42.6,
    "title": "software developer",
@@ -5599,8 +5571,36 @@
    "hours_open": 34.2,
    "title": "Associate Software Engineer",
    "uid": "simplify:listings:defd53c6-373d-4684-81eb-df7e464d1c50"
+  },
+  {
+   "closed_at": 1790846690,
+   "company": "Focus Group",
+   "hours_open": 278.4,
+   "title": "Solutions Engineer (IT) - Central London",
+   "uid": "workable:focus-group:14E31B132B"
+  },
+  {
+   "closed_at": 1790846690,
+   "company": "Focus Group",
+   "hours_open": 278.4,
+   "title": "Solutions Engineer (Networking) Central London",
+   "uid": "workable:focus-group:BCE2480A8C"
+  },
+  {
+   "closed_at": 1790846690,
+   "company": "STOW Group",
+   "hours_open": 579.2,
+   "title": "Sales Engineer",
+   "uid": "smartrecruiters:StowGroup:744000146200439"
+  },
+  {
+   "closed_at": 1790846690,
+   "company": "spacex",
+   "hours_open": 664.5,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
   }
  ],
- "count": 802,
- "updated_at": 1790846489
+ "count": 804,
+ "updated_at": 1790846690
 }
