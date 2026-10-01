@@ -1,48 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1790489648,
-   "company": "Cooptel",
-   "hours_open": 445.1,
-   "title": "Administrateur réseau",
-   "uid": "jobillico:analyste reseau:17185045"
-  },
-  {
-   "closed_at": 1790489648,
-   "company": "spacex",
-   "hours_open": 565.3,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1790489648,
-   "company": "spacex",
-   "hours_open": 565.3,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1790493091,
-   "company": "spacex",
-   "hours_open": 563.3,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1790493091,
-   "company": "spacex",
-   "hours_open": 566.0,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1790493209,
-   "company": "spacex",
-   "hours_open": 563.3,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
    "closed_at": 1790493209,
    "company": "spacex",
    "hours_open": 566.0,
@@ -5599,8 +5557,50 @@
    "hours_open": 676.4,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1790889810,
+   "company": "Amazon",
+   "hours_open": 172.0,
+   "title": "Software Development Engineer, AWS Industries - Telecom Industry",
+   "uid": "amazon:amazon:10559220"
+  },
+  {
+   "closed_at": 1790889810,
+   "company": "zip",
+   "hours_open": 681.8,
+   "title": "Software Engineer Intern (Summer 2027)",
+   "uid": "ashby:zip:249837b3-106f-4751-a4f2-03a2c5df5faf"
+  },
+  {
+   "closed_at": 1790889810,
+   "company": "zip",
+   "hours_open": 676.4,
+   "title": "AI Forward Deployed Engineer - SAP Ariba",
+   "uid": "ashby:zip:585c6ffa-0e0f-41ab-9a4a-979bb45f1714"
+  },
+  {
+   "closed_at": 1790889810,
+   "company": "spacex",
+   "hours_open": 676.4,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1790889810,
+   "company": "spacex",
+   "hours_open": 676.2,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1790889810,
+   "company": "Amazon",
+   "hours_open": 194.3,
+   "title": "Software Development Engineer, ZeroTouch GSG at Amazon Leo",
+   "uid": "amazon:amazon:10558223"
   }
  ],
- "count": 804,
- "updated_at": 1790889545
+ "count": 806,
+ "updated_at": 1790889811
 }
