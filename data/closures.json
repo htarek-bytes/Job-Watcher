@@ -1,90 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1790470687,
-   "company": "Lakeland Roman Catholic Separate School Division",
-   "hours_open": 439.8,
-   "title": "computer systems analyst",
-   "uid": "jobbank:systems analyst:50064831"
-  },
-  {
-   "closed_at": 1790473569,
-   "company": "swa",
-   "hours_open": 80.3,
-   "title": "Associate Software Engineer - Direct College Hire",
-   "uid": "workday:swa.wd1/external:Associate-Software-Engineer---Direct-College-Hire_R-2026-72886"
-  },
-  {
-   "closed_at": 1790473569,
-   "company": "General Motors",
-   "hours_open": 597.4,
-   "title": "Entry Level Software Design Release Engineer",
-   "uid": "simplify:listings:251dd790-b5bc-48d9-ab3e-9deb38e21b46"
-  },
-  {
-   "closed_at": 1790473635,
-   "company": "swa",
-   "hours_open": 80.3,
-   "title": "Associate Software Engineer - Direct College Hire",
-   "uid": "workday:swa.wd1/external:Associate-Software-Engineer---Direct-College-Hire_R-2026-72886"
-  },
-  {
-   "closed_at": 1790473635,
-   "company": "General Motors",
-   "hours_open": 597.5,
-   "title": "Entry Level Software Design Release Engineer",
-   "uid": "simplify:listings:251dd790-b5bc-48d9-ab3e-9deb38e21b46"
-  },
-  {
-   "closed_at": 1790473635,
-   "company": "Lakeland Roman Catholic Separate School Division",
-   "hours_open": 192.5,
-   "title": "computer systems analyst",
-   "uid": "jobbank:analyste de systemes:50064831"
-  },
-  {
-   "closed_at": 1790473635,
-   "company": "spacex",
-   "hours_open": 560.8,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1790473635,
-   "company": "spacex",
-   "hours_open": 560.8,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1790485380,
-   "company": "Nesda Technologies Ltd",
-   "hours_open": 35.4,
-   "title": "network support technician",
-   "uid": "jobbank:linux administrator:50364689"
-  },
-  {
-   "closed_at": 1790485380,
-   "company": "VILLE DE SAINTE-MARGUERITE-DU-LAC- MASSON",
-   "hours_open": 38.2,
-   "title": "network infrastructure engineer",
-   "uid": "jobbank:specialiste infrastructure:50365083"
-  },
-  {
-   "closed_at": 1790485380,
-   "company": "StarSpec Technologies Inc.",
-   "hours_open": 58.5,
-   "title": "systems programmer",
-   "uid": "jobbank:junior programmer:50359370"
-  },
-  {
-   "closed_at": 1790485380,
-   "company": "City of North Vancouver",
-   "hours_open": 56.4,
-   "title": "geographic information systems (gis) analyst",
-   "uid": "jobbank:information systems analyst:50360270"
-  },
-  {
    "closed_at": 1790485380,
    "company": "ADECCO",
    "hours_open": 47.0,
@@ -5599,8 +5515,92 @@
    "hours_open": 569.9,
    "title": "Solutions Engineer",
    "uid": "bamboohr:selectorsoftware:178"
+  },
+  {
+   "closed_at": 1790840624,
+   "company": "Vogtech Renewables",
+   "hours_open": 161.3,
+   "title": "Web developer",
+   "uid": "jobbank:developpeur junior:50299653"
+  },
+  {
+   "closed_at": 1790840624,
+   "company": "CGI",
+   "hours_open": 542.6,
+   "title": "Conseiller en gouvernance de la cybersécurité",
+   "uid": "jobillico:analyste cybersecurite:17433756"
+  },
+  {
+   "closed_at": 1790840624,
+   "company": "Maplr",
+   "hours_open": 520.4,
+   "title": "Java programmer",
+   "uid": "jobbank:junior programmer:50250145"
+  },
+  {
+   "closed_at": 1790840624,
+   "company": "Edgecom Energy",
+   "hours_open": 32.6,
+   "title": "computer systems analyst",
+   "uid": "jobbank:analyste de systemes:50248611"
+  },
+  {
+   "closed_at": 1790840624,
+   "company": "Vale Base Metals",
+   "hours_open": 542.6,
+   "title": "business systems analyst",
+   "uid": "jobbank:infrastructure analyst:50199304"
+  },
+  {
+   "closed_at": 1790840624,
+   "company": "Aarorn Technologies Inc.",
+   "hours_open": 542.6,
+   "title": "information systems analyst - computer systems",
+   "uid": "jobbank:information systems analyst:50163724"
+  },
+  {
+   "closed_at": 1790840624,
+   "company": "andurilindustries",
+   "hours_open": 59.4,
+   "title": "Space Orbital Software Engineer, Emerging Talent",
+   "uid": "greenhouse:andurilindustries:5236290007"
+  },
+  {
+   "closed_at": 1790840624,
+   "company": "Anduril",
+   "hours_open": 344.0,
+   "title": "Firmware Engineer - Space - Emerging Talent",
+   "uid": "simplify:listings:ca630382-1fea-4112-9b6a-01ce87b4f3ce"
+  },
+  {
+   "closed_at": 1790840624,
+   "company": "spacex",
+   "hours_open": 659.8,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1790840624,
+   "company": "rocketlab",
+   "hours_open": 194.7,
+   "title": "Development Engineer",
+   "uid": "greenhouse:rocketlab:7799984003"
+  },
+  {
+   "closed_at": 1790840624,
+   "company": "spacex",
+   "hours_open": 662.8,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1790840624,
+   "company": "spacex",
+   "hours_open": 661.1,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
- "count": 801,
- "updated_at": 1790821921
+ "count": 812,
+ "updated_at": 1790840625
 }
