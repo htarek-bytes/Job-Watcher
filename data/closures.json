@@ -2,13 +2,6 @@
  "closed": [
   {
    "closed_at": 1790470687,
-   "company": "relx",
-   "hours_open": 581.3,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Boca Raton - June)",
-   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Boca-Raton---June-_R116023"
-  },
-  {
-   "closed_at": 1790470687,
    "company": "Lakeland Roman Catholic Separate School Division",
    "hours_open": 439.8,
    "title": "computer systems analyst",
@@ -5599,8 +5592,15 @@
    "hours_open": 657.5,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1790821920,
+   "company": "selectorsoftware",
+   "hours_open": 569.9,
+   "title": "Solutions Engineer",
+   "uid": "bamboohr:selectorsoftware:178"
   }
  ],
- "count": 803,
- "updated_at": 1790821727
+ "count": 801,
+ "updated_at": 1790821921
 }
