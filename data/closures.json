@@ -1,34 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1790462849,
-   "company": "spacex",
-   "hours_open": 557.6,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1790465654,
-   "company": "Groupe DCM",
-   "hours_open": 210.6,
-   "title": "Programmeur CNC / CNC Programmer",
-   "uid": "jobillico:programmeur junior:17534679"
-  },
-  {
-   "closed_at": 1790465654,
-   "company": "Cooptel",
-   "hours_open": 438.4,
-   "title": "Administrateur réseau",
-   "uid": "jobillico:analyste reseau:17185045"
-  },
-  {
-   "closed_at": 1790465759,
-   "company": "VILLE DE SAINTE-MARGUERITE-DU-LAC- MASSON",
-   "hours_open": 32.8,
-   "title": "network infrastructure engineer",
-   "uid": "jobbank:specialiste infrastructure:50365083"
-  },
-  {
    "closed_at": 1790465759,
    "company": "Groupe DCM",
    "hours_open": 210.7,
@@ -5599,8 +5571,36 @@
    "hours_open": 653.2,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1790818434,
+   "company": "rockwellautomation",
+   "hours_open": 78.5,
+   "title": "Co-op, Technical Sales (OTTO by Rockwell Automation)",
+   "uid": "workday:rockwellautomation.wd1/External-Rockwell-Automation-Early-Careers:Co-op--Technical-Sales--OTTO-by-Rockwell-Automation-_R26-6218"
+  },
+  {
+   "closed_at": 1790818434,
+   "company": "philips",
+   "hours_open": 457.4,
+   "title": "Intern– Design Assurance Engineer – Colorado Springs, CO – Summer 2027",
+   "uid": "workday:philips.wd3/jobs-and-careers:Intern--Design-Assurance-Engineer---Colorado-Springs--CO---Summer-2027_591948"
+  },
+  {
+   "closed_at": 1790818434,
+   "company": "silabs",
+   "hours_open": 677.9,
+   "title": "Développeur logiciel I / Software Engineer I",
+   "uid": "workday:silabs.wd1/SiliconlabsCareers:Dveloppeur-logiciel-I---Software-Engineer-I_20984-1"
+  },
+  {
+   "closed_at": 1790818434,
+   "company": "spacex",
+   "hours_open": 656.6,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 815,
- "updated_at": 1790812098
+ "count": 804,
+ "updated_at": 1790818434
 }
