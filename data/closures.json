@@ -2,20 +2,6 @@
  "closed": [
   {
    "closed_at": 1790485380,
-   "company": "CDW",
-   "hours_open": 78.8,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:systems analyst:50353194"
-  },
-  {
-   "closed_at": 1790485380,
-   "company": "Powerline Plus",
-   "hours_open": 80.4,
-   "title": "cloud administrator",
-   "uid": "jobbank:cloud administrator:50352008"
-  },
-  {
-   "closed_at": 1790485380,
    "company": "Eco Medical Equipment",
    "hours_open": 82.0,
    "title": "cloud administrator",
@@ -5599,8 +5585,22 @@
    "hours_open": 13.6,
    "title": "Entry-Level Engineer - Water - Hiring Event with AECOM – Boston, MA",
    "uid": "smartrecruiters:AECOM2:744000152726810"
+  },
+  {
+   "closed_at": 1790846488,
+   "company": "Sopra Steria",
+   "hours_open": 44.2,
+   "title": "Junior Salesforce Developer",
+   "uid": "smartrecruiters:SopraSteria1:744000152408634"
+  },
+  {
+   "closed_at": 1790846488,
+   "company": "Northrop Grumman",
+   "hours_open": 34.2,
+   "title": "Associate Software Engineer",
+   "uid": "simplify:listings:defd53c6-373d-4684-81eb-df7e464d1c50"
   }
  ],
- "count": 801,
- "updated_at": 1790845320
+ "count": 802,
+ "updated_at": 1790846489
 }
