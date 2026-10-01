@@ -2,90 +2,6 @@
  "closed": [
   {
    "closed_at": 1790485380,
-   "company": "Infinity Solutions",
-   "hours_open": 42.6,
-   "title": "software developer",
-   "uid": "jobbank:entry level software developer:50364353"
-  },
-  {
-   "closed_at": 1790485380,
-   "company": "360.Agency",
-   "hours_open": 105.7,
-   "title": "network system administrator",
-   "uid": "jobbank:systems administrator:50342628"
-  },
-  {
-   "closed_at": 1790485380,
-   "company": "Trimoksha Technologies",
-   "hours_open": 105.7,
-   "title": "information systems analyst - computer systems",
-   "uid": "jobbank:systems analyst:50342697"
-  },
-  {
-   "closed_at": 1790485380,
-   "company": "RemoteJobsOne",
-   "hours_open": 35.4,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:systems analyst:50344706"
-  },
-  {
-   "closed_at": 1790485380,
-   "company": "Blitz TI",
-   "hours_open": 109.5,
-   "title": "network administrator",
-   "uid": "jobbank:network administrator:50339477"
-  },
-  {
-   "closed_at": 1790485380,
-   "company": "Auto Trim",
-   "hours_open": 105.1,
-   "title": "cloud administrator",
-   "uid": "jobbank:cloud administrator:50342109"
-  },
-  {
-   "closed_at": 1790485380,
-   "company": "Hutton Safety Group",
-   "hours_open": 105.1,
-   "title": "cloud administrator",
-   "uid": "jobbank:cloud administrator:50341466"
-  },
-  {
-   "closed_at": 1790485380,
-   "company": "RemoteJobsOne",
-   "hours_open": 102.4,
-   "title": "server administrator",
-   "uid": "jobbank:linux administrator:50344594"
-  },
-  {
-   "closed_at": 1790485380,
-   "company": "Xiingo",
-   "hours_open": 105.1,
-   "title": "computer network technician",
-   "uid": "jobbank:linux administrator:50343124"
-  },
-  {
-   "closed_at": 1790485380,
-   "company": "KAMARA",
-   "hours_open": 79.2,
-   "title": "Web application developer",
-   "uid": "jobbank:developpeur junior:50336009"
-  },
-  {
-   "closed_at": 1790485380,
-   "company": "Great Lakes Group",
-   "hours_open": 123.3,
-   "title": "hardware engineer",
-   "uid": "jobbank:scada:50336012"
-  },
-  {
-   "closed_at": 1790485380,
-   "company": "Great Lakes Group",
-   "hours_open": 6.3,
-   "title": "electrical controls engineer",
-   "uid": "jobbank:control systems analyst:50336042"
-  },
-  {
-   "closed_at": 1790485380,
    "company": "Analyst Technical Solutions",
    "hours_open": 123.3,
    "title": "server administrator",
@@ -5599,8 +5515,92 @@
    "hours_open": 664.5,
    "title": "Security Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1790866080,
+   "company": "accenturefederalservices",
+   "hours_open": 477.5,
+   "title": "iOS Mobile Developer",
+   "uid": "greenhouse:accenturefederalservices:4711941006"
+  },
+  {
+   "closed_at": 1790866080,
+   "company": "Edgecom Energy",
+   "hours_open": 532.9,
+   "title": "computer systems analyst",
+   "uid": "jobbank:systems analyst:50248611"
+  },
+  {
+   "closed_at": 1790866080,
+   "company": "Connect it Networks",
+   "hours_open": 549.7,
+   "title": "network system administrator",
+   "uid": "jobbank:systems administrator:50210221"
+  },
+  {
+   "closed_at": 1790866080,
+   "company": "FOP EXPERTS CONSEILS INC.",
+   "hours_open": 23.5,
+   "title": "network security analyst",
+   "uid": "jobbank:network analyst:50396377"
+  },
+  {
+   "closed_at": 1790866080,
+   "company": "Source Code",
+   "hours_open": 56.7,
+   "title": "software developer",
+   "uid": "jobbank:entry level software developer:50387478"
+  },
+  {
+   "closed_at": 1790866080,
+   "company": "Google",
+   "hours_open": 706.5,
+   "title": "Software Engineer - Campus",
+   "uid": "simplify:listings:089391ad-ee52-4c4f-993a-e79f42219682"
+  },
+  {
+   "closed_at": 1790866080,
+   "company": "Northrop Grumman",
+   "hours_open": 44.4,
+   "title": "Associate Software Engineer - McClellan CA",
+   "uid": "simplify:listings:5e53dcd6-2301-48d9-8010-f0ddb4a2a434"
+  },
+  {
+   "closed_at": 1790866080,
+   "company": "voyagertechnologiesinc",
+   "hours_open": 305.8,
+   "title": "Spacecraft Systems Engineer",
+   "uid": "greenhouse:voyagertechnologiesinc:4401504009"
+  },
+  {
+   "closed_at": 1790866080,
+   "company": "L3Harris Technologies",
+   "hours_open": 16.2,
+   "title": "Associate Software Engineer",
+   "uid": "simplify:listings:e97ed1eb-86ee-4af5-ace9-3f7b789a19ba"
+  },
+  {
+   "closed_at": 1790866080,
+   "company": "spacex",
+   "hours_open": 666.9,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1790866080,
+   "company": "RTX",
+   "hours_open": 15.6,
+   "title": "Software Engineer 1",
+   "uid": "simplify:listings:6162982e-4ddb-4316-b2dc-5ab2cb383340"
+  },
+  {
+   "closed_at": 1790866080,
+   "company": "accenturefederalservices",
+   "hours_open": 669.8,
+   "title": "SAP EWM ASRS Integration Developer",
+   "uid": "greenhouse:accenturefederalservices:4695325006"
   }
  ],
- "count": 804,
- "updated_at": 1790846690
+ "count": 812,
+ "updated_at": 1790866081
 }

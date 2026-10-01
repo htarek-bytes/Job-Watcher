@@ -1,5 +1,5 @@
 {
- "count": 6525,
+ "count": 6535,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -1212,7 +1212,9 @@
   "greenhouse:altentechnologyusa:5240150007": 1790024422,
   "greenhouse:altentechnologyusa:5243583007": 1790274849,
   "greenhouse:altentechnologyusa:5246761007": 1790125084,
+  "greenhouse:altentechnologyusa:5254157007": 1790866080,
   "greenhouse:americaninstitutesforresearch:5420852008": 1789176068,
+  "greenhouse:americaninstitutesforresearch:5439651008": 1790866080,
   "greenhouse:andurilindustries:4164476007": 1788460756,
   "greenhouse:andurilindustries:4252545007": 1788460756,
   "greenhouse:andurilindustries:4418353007": 1788460756,
@@ -3512,6 +3514,7 @@
   "jobbank:junior programmer:50392767": 1790721061,
   "jobbank:junior programmer:50398942": 1790807897,
   "jobbank:junior programmer:50399084": 1790807897,
+  "jobbank:junior programmer:50401772": 1790866080,
   "jobbank:junior software developer:49875004": 1788390279,
   "jobbank:junior software developer:50080344": 1788390279,
   "jobbank:junior software developer:50096282": 1788390279,
@@ -3629,6 +3632,7 @@
   "jobbank:network analyst:50259233": 1789061242,
   "jobbank:network analyst:50389758": 1790706099,
   "jobbank:network analyst:50396377": 1790781388,
+  "jobbank:network analyst:50401905": 1790866080,
   "jobbank:programmeur junior:50257748": 1790378233,
   "jobbank:programmeur junior:50257800": 1789854047,
   "jobbank:scada:50203431": 1788887337,
@@ -3678,6 +3682,7 @@
   "jobbank:systems administrator:50386373": 1790641647,
   "jobbank:systems administrator:50396149": 1790777564,
   "jobbank:systems administrator:50398465": 1790807897,
+  "jobbank:systems administrator:50401790": 1790866080,
   "jobbank:systems analyst:49858708": 1788887337,
   "jobbank:systems analyst:49966341": 1788887337,
   "jobbank:systems analyst:49969689": 1788931288,
@@ -3775,6 +3780,7 @@
   "lever:agile-defense:4d5254dd-8366-4983-9156-a7f989fea964": 1788393200,
   "lever:agile-defense:75c44799-f4fe-47ac-bf05-a68b0e545c15": 1788887337,
   "lever:agile-defense:7798d63a-674f-4e35-829c-3852505c40bc": 1788454653,
+  "lever:agile-defense:80d070b2-5561-4b07-88ce-3063a1e87ada": 1790866080,
   "lever:agile-defense:9328b001-f353-4b63-8384-8a5f5e36aa57": 1789760824,
   "lever:agile-defense:9b9c06b5-d902-4d0c-b520-fad21af395e6": 1788887337,
   "lever:agile-defense:b86ead18-1ef0-4847-a59a-b7e951d4de94": 1788887337,
@@ -4547,6 +4553,7 @@
   "simplify:listings:78d9bccf-8fd2-497a-80a4-f3b00fed7d3a": 1788563552,
   "simplify:listings:78f040d4-9950-46c8-93de-a0a189144450": 1788322770,
   "simplify:listings:791fa1eb-1777-438b-8d03-e6cd35986be6": 1788994725,
+  "simplify:listings:79d832e4-94d6-41aa-b211-a7d13f45f875": 1790866080,
   "simplify:listings:7a70a260-965f-4aec-902f-7d5704f201a2": 1788322770,
   "simplify:listings:7b2a1e78-a6a7-42e9-8120-2e4b3187e580": 1788994725,
   "simplify:listings:7bb9a7b2-d0bd-4cbc-b4da-e44e1850ec92": 1789000440,
@@ -4810,6 +4817,7 @@
   "simplify:listings:cca91aa9-bfb8-4738-8e08-5d0471286dd5": 1788495756,
   "simplify:listings:ccb6a372-4ded-4af1-96f6-f90442d4d826": 1788322770,
   "simplify:listings:ce1541f7-9a61-42c0-a010-de52ed8698a1": 1788322770,
+  "simplify:listings:ce8da1bf-1f37-4dae-8814-a1fba9205a40": 1790866080,
   "simplify:listings:ce9250e1-36be-4c4c-aeff-ee1b9d5881c6": 1788477845,
   "simplify:listings:ceae354f-7659-436b-88e0-759362464965": 1788322770,
   "simplify:listings:cec7ea72-fd1c-4f5e-94e4-3d0650cf934b": 1788322770,
@@ -5509,6 +5517,7 @@
   "workday:abglobal.wd1/abcampuscareers:Software-Development-Summer-Intern_R0019771": 1789552116,
   "workday:accenture.wd103/AccentureCareers:AI-Native-Software-Engineering--Junior-_R00345665": 1790752783,
   "workday:accenture.wd103/AccentureCareers:Junior-AI-Native-Engineer_R00346080": 1788393810,
+  "workday:accenture.wd103/AccentureCareers:Junior-AI-Native-Engineer_R00361255": 1790866080,
   "workday:accenture.wd103/AccentureCareers:Junior-AI-Software-Engineer_R00346108": 1788393810,
   "workday:accenture.wd103/AccentureCareers:Junior-NET-Developer---Fresh-Graduates_R00332478": 1788393810,
   "workday:accenture.wd103/AccentureCareers:Software-Engineer-Intern_R00342918-1": 1788528828,
@@ -5520,6 +5529,7 @@
   "workday:adobe.wd5/external_experienced:XMLNAME-2027-University-Graduate---Machine-Learning-Engineer_R172085": 1790292621,
   "workday:adobe.wd5/external_experienced:XMLNAME-2027-University-Graduate---Software-Engineer_R172083": 1790292621,
   "workday:aep.wd1/AEPCareerSite:Real-Time-Operations-Solutions-Engineer-Principal--Lead_R15926": 1789817754,
+  "workday:aep.wd1/AEPCareerSite:Solution-Engineer--Real-Time-OT-Systems_R18342": 1790866080,
   "workday:aero.wd5/external:Junior-Frontend-Designer---Developer_R016551": 1789087251,
   "workday:aero.wd5/external:XMLNAME-2027-Aerospace-Software-Engineer-Undergraduate-Intern_R016605": 1789552116,
   "workday:aero.wd5/external:XMLNAME-2027-Software-Engineering-Grad-Intern_R016759": 1790691024,
@@ -6527,5 +6537,5 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148,
   "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541": 1789106107
  },
- "updated_at": 1790846690
+ "updated_at": 1790866081
 }
