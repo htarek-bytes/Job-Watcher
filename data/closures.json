@@ -1,132 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1790643496,
-   "company": "oshkoshcorporation",
-   "hours_open": 314.0,
-   "title": "Software Engineering Intern",
-   "uid": "workday:oshkoshcorporation.wd5/Oshkosh:Software-Engineering-Intern_R49493"
-  },
-  {
-   "closed_at": 1790643496,
-   "company": "msd",
-   "hours_open": 129.4,
-   "title": "2027 Future Talent Program - Process/Project Engineer - Global Engineering Solutions Co-op, Kansas, De Soto",
-   "uid": "workday:msd.wd5/searchjobs:XMLNAME-2026-Future-Talent-Program---Associate-Specialist--Process-Engineer---Global-Engineering-Solutions-Co-op--Summer-Fall-2026-Start-_R392762"
-  },
-  {
-   "closed_at": 1790643496,
-   "company": "newrez",
-   "hours_open": 611.4,
-   "title": "2027 Summer Internship - Software Developer",
-   "uid": "workday:newrez.wd1/NRZ:XMLNAME-2027-Summer-Internship---Software-Developer_R10390"
-  },
-  {
-   "closed_at": 1790643496,
-   "company": "Amazon",
-   "hours_open": 126.0,
-   "title": "Software Development Engineer, Ads Experience Framework",
-   "uid": "amazon:amazon:10558206"
-  },
-  {
-   "closed_at": 1790643496,
-   "company": "Amazon",
-   "hours_open": 172.7,
-   "title": "Machine Learning Engineer, Prime Video ML Platform",
-   "uid": "amazon:amazon:10553196"
-  },
-  {
-   "closed_at": 1790643496,
-   "company": "Amazon",
-   "hours_open": 154.8,
-   "title": "Software Development Engineer, AWS Networks",
-   "uid": "amazon:amazon:10556153"
-  },
-  {
-   "closed_at": 1790643496,
-   "company": "ppg",
-   "hours_open": 581.1,
-   "title": "Application & Equipment Engineer Intern (f/m/diverse)",
-   "uid": "workday:ppg.wd5/PPG_CAREERS:Application---Equipment-Engineer-Intern--f-m-diverse-_JR2610168"
-  },
-  {
-   "closed_at": 1790643496,
-   "company": "nvidia",
-   "hours_open": 409.6,
-   "title": "Circuit Design Engineer - New College Grad 2026",
-   "uid": "workday:nvidia.wd5/NVIDIAExternalCareerSite:Circuit-Design-Engineer---New-College-Grad-2026_JR2019567"
-  },
-  {
-   "closed_at": 1790643496,
-   "company": "nvidia",
-   "hours_open": 629.4,
-   "title": "ASIC Verification Engineer - New College Grad 2026",
-   "uid": "workday:nvidia.wd5/NVIDIAExternalCareerSite:ASIC-Verification-Engineer---New-College-Grad-2026_JR2020640"
-  },
-  {
-   "closed_at": 1790643496,
-   "company": "nvidia",
-   "hours_open": 629.4,
-   "title": "ASIC Design Engineer - New College Grad 2026",
-   "uid": "workday:nvidia.wd5/NVIDIAExternalCareerSite:ASIC-Design-Engineer---New-College-Grad-2026_JR2020309"
-  },
-  {
-   "closed_at": 1790643496,
-   "company": "nvidia",
-   "hours_open": 144.0,
-   "title": "Signal and Power Integrity Engineer - New College Grad 2026",
-   "uid": "workday:nvidia.wd5/NVIDIAExternalCareerSite:Signal-and-Power-Integrity-Engineer---New-College-Grad-2026_JR2015067"
-  },
-  {
-   "closed_at": 1790645175,
-   "company": "snapfinance",
-   "hours_open": 68.1,
-   "title": "Software Engineer I",
-   "uid": "workday:snapfinance.wd1/snap_external_careers:Software-Engineer-I_R-2796"
-  },
-  {
-   "closed_at": 1790645175,
-   "company": "rockwellautomation",
-   "hours_open": 30.3,
-   "title": "Intern, AI Software Engineering (June-August 2027)",
-   "uid": "workday:rockwellautomation.wd1/External-Rockwell-Automation-Early-Careers:Intern--AI-Software-Engineering--June-August-2027-_R26-6980"
-  },
-  {
-   "closed_at": 1790645175,
-   "company": "rockwellautomation",
-   "hours_open": 30.3,
-   "title": "Co-op, AI Software Engineering (6-8 months)",
-   "uid": "workday:rockwellautomation.wd1/External-Rockwell-Automation-Early-Careers:Co-op--AI-Software-Engineering--6-8-months-_R26-6982"
-  },
-  {
-   "closed_at": 1790645175,
-   "company": "td",
-   "hours_open": 299.0,
-   "title": "Mobile Software Engineer Intern/Co-op​ (Winter 2027)",
-   "uid": "workday:td.wd3/TD_Bank_Careers:Mobile-Software-Engineer-Co-op---Intern---Winter-2027-_R_1509825"
-  },
-  {
-   "closed_at": 1790645175,
-   "company": "tamus",
-   "hours_open": 104.0,
-   "title": "Security Analyst I",
-   "uid": "workday:tamus.wd1/System-wide_External:Security-Analyst-I_R-097452"
-  },
-  {
-   "closed_at": 1790645175,
-   "company": "salesforce",
-   "hours_open": 92.6,
-   "title": "Software Engineering AMTS (College Grad)",
-   "uid": "workday:salesforce.wd12/External_Career_Site:Software-Engineering-AMTS--College-Grad-_JR355250-1"
-  },
-  {
-   "closed_at": 1790645175,
-   "company": "Rocket Lab USA",
-   "hours_open": 342.4,
-   "title": "Flight Software Engineer 1",
-   "uid": "simplify:listings:daabbb4b-3238-449b-a3f6-39e1681033a7"
-  },
-  {
    "closed_at": 1790645175,
    "company": "silabs",
    "hours_open": 490.3,
@@ -5599,8 +5473,134 @@
    "hours_open": 701.7,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1790984102,
+   "company": "globalhr",
+   "hours_open": 16.8,
+   "title": "Electrical Test Engineer I",
+   "uid": "workday:globalhr.wd5/rec_rtx_ext_gateway:Electrical-Test-Engineer-I_01879612"
+  },
+  {
+   "closed_at": 1790984102,
+   "company": "globalhr",
+   "hours_open": 16.8,
+   "title": "Software Test Engineer I",
+   "uid": "workday:globalhr.wd5/rec_rtx_ext_gateway:Software-Test-Engineer-I_01879607"
+  },
+  {
+   "closed_at": 1790984102,
+   "company": "globalhr",
+   "hours_open": 16.8,
+   "title": "Software Engineering Co-Op (Avionics) (Summer/Fall 2027) (Hybrid)",
+   "uid": "workday:globalhr.wd5/rec_rtx_ext_gateway:Software-Engineering-Co-Op--Avionics---Summer-Fall-2027---Hybrid-_01874664"
+  },
+  {
+   "closed_at": 1790984102,
+   "company": "globalhr",
+   "hours_open": 16.8,
+   "title": "Software Engineering Co-Op (Summer/Fall 2027) (Hybrid)",
+   "uid": "workday:globalhr.wd5/rec_rtx_ext_gateway:Software-Engineering-Intern--Summer-Fall-2027---Hybrid-_01874124"
+  },
+  {
+   "closed_at": 1790984102,
+   "company": "globalhr",
+   "hours_open": 16.8,
+   "title": "Software Engineer, DevSecOps Co-Op (Summer/Fall 2027) (Hybrid)",
+   "uid": "workday:globalhr.wd5/rec_rtx_ext_gateway:Software-Engineer--DevSecOps-Co-Op--Summer-Fall-2027---Hybrid-_01873555"
+  },
+  {
+   "closed_at": 1790984102,
+   "company": "globalhr",
+   "hours_open": 16.8,
+   "title": "Software Engineering Co-Op (January 2027) (Hybrid)",
+   "uid": "workday:globalhr.wd5/rec_rtx_ext_gateway:Software-Engineering-Co-Op--January-2027---Hybrid-_01874122"
+  },
+  {
+   "closed_at": 1790984102,
+   "company": "gevernova",
+   "hours_open": 16.8,
+   "title": "GE Vernova Cyber UX Controls Engineer-1",
+   "uid": "workday:gevernova.wd5/vernova_externalsite:GE-Vernova-Cyber-UX-Controls-Engineer-1_R5054301-2"
+  },
+  {
+   "closed_at": 1790984102,
+   "company": "waabi",
+   "hours_open": 412.6,
+   "title": "IT System Administrator",
+   "uid": "lever:waabi:30ed0635-d67b-4856-8b2e-b9c9bf65d389"
+  },
+  {
+   "closed_at": 1790984102,
+   "company": "globalhr",
+   "hours_open": 95.1,
+   "title": "Information Systems Engineer Intern",
+   "uid": "workday:globalhr.wd5/Private_Posting_No_TMP:Information-Systems-Engineer-Intern_01877969"
+  },
+  {
+   "closed_at": 1790984102,
+   "company": "iberdrola",
+   "hours_open": 530.8,
+   "title": "Associate Engineer - Distribution Planning",
+   "uid": "workday:iberdrola.wd3/iberdrola:Associate-Engineer---Distribution-Planning_R-30914"
+  },
+  {
+   "closed_at": 1790984102,
+   "company": "jci",
+   "hours_open": 421.2,
+   "title": "ACE Technical Sales - Fire Suppression (New England)",
+   "uid": "workday:jci.wd5/JCI:ACE-Technical-Sales---Fire-Suppression_WD30279375-1"
+  },
+  {
+   "closed_at": 1790984102,
+   "company": "Geosyntec Consultants",
+   "hours_open": 672.4,
+   "title": "Early-Career Water Resources Engineer",
+   "uid": "simplify:listings:1226965c-9ed7-4d6b-ad60-2a5c8985f78d"
+  },
+  {
+   "closed_at": 1790984102,
+   "company": "Amazon",
+   "hours_open": 1.1,
+   "title": "Software Development Engineer, EC2 Nitro Networking ",
+   "uid": "amazon:amazon:10568398"
+  },
+  {
+   "closed_at": 1790984102,
+   "company": "Amazon",
+   "hours_open": 198.2,
+   "title": "Software Dev Engineer, UTR Delivery Operations",
+   "uid": "amazon:amazon:10559294"
+  },
+  {
+   "closed_at": 1790984102,
+   "company": "twitch",
+   "hours_open": 702.6,
+   "title": "Software Engineer I, Discovery",
+   "uid": "greenhouse:twitch:8623578002"
+  },
+  {
+   "closed_at": 1790984102,
+   "company": "relativity",
+   "hours_open": 95.1,
+   "title": "Turbomachinery Engineer I",
+   "uid": "greenhouse:relativity:8451819002"
+  },
+  {
+   "closed_at": 1790984102,
+   "company": "kla",
+   "hours_open": 706.0,
+   "title": "Software Engineering Intern",
+   "uid": "workday:kla.wd1/AnnArbor:Software-Engineering-Intern_2531653"
+  },
+  {
+   "closed_at": 1790984102,
+   "company": "spacex",
+   "hours_open": 245.4,
+   "title": "AI Engineer, Compute Infrastructure, Special Programs - Top Secret Clearance",
+   "uid": "greenhouse:spacex:8557252002"
   }
  ],
- "count": 836,
- "updated_at": 1790980634
+ "count": 818,
+ "updated_at": 1790984102
 }
