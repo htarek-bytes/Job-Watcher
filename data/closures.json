@@ -2,13 +2,6 @@
  "closed": [
   {
    "closed_at": 1790611513,
-   "company": "toshibaglobalcommercesolutions",
-   "hours_open": 105.4,
-   "title": "Associate Software Engineer ",
-   "uid": "greenhouse:toshibaglobalcommercesolutions:5247010007"
-  },
-  {
-   "closed_at": 1790611513,
    "company": "Great Lakes Group",
    "hours_open": 158.4,
    "title": "hardware engineer",
@@ -5599,8 +5592,15 @@
    "hours_open": 571.9,
    "title": "automation engineer",
    "uid": "jobbank:scada:50203431"
+  },
+  {
+   "closed_at": 1790946893,
+   "company": "VicSquare Arcade",
+   "hours_open": 13.7,
+   "title": "electronic business (e-business) Web site developer",
+   "uid": "jobbank:junior programmer:50406045"
   }
  ],
- "count": 804,
- "updated_at": 1790946351
+ "count": 801,
+ "updated_at": 1790946894
 }
