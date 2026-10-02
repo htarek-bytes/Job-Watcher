@@ -1,83 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1790628463,
-   "company": "District of West Vancouver",
-   "hours_open": 405.4,
-   "title": "geographic information systems (gis) analyst",
-   "uid": "jobbank:information systems analyst:50269564"
-  },
-  {
-   "closed_at": 1790628463,
-   "company": "Western Digital",
-   "hours_open": 81.0,
-   "title": "Internship - Software Development (Embedded)",
-   "uid": "smartrecruiters:WesternDigital:744000151754639"
-  },
-  {
-   "closed_at": 1790628463,
-   "company": "andurilindustries",
-   "hours_open": 602.1,
-   "title": "Manufacturing Test Engineer, Roadrunner",
-   "uid": "greenhouse:andurilindustries:5116757007"
-  },
-  {
-   "closed_at": 1790628463,
-   "company": "SGS",
-   "hours_open": 70.1,
-   "title": "Ignition SCADA Specialist",
-   "uid": "smartrecruiters:SGS:744000151890609"
-  },
-  {
-   "closed_at": 1790632503,
-   "company": "Geothentic",
-   "hours_open": 1.6,
-   "title": "software development programmer",
-   "uid": "jobbank:junior programmer:50383744"
-  },
-  {
-   "closed_at": 1790632503,
-   "company": "graphcore",
-   "hours_open": 73.1,
-   "title": "Systems Engineer",
-   "uid": "greenhouse:graphcore:8829332002"
-  },
-  {
-   "closed_at": 1790632503,
-   "company": "altentechnologyusa",
-   "hours_open": 140.9,
-   "title": "Mechanical Design Engineer",
-   "uid": "greenhouse:altentechnologyusa:5246761007"
-  },
-  {
-   "closed_at": 1790632503,
-   "company": "ag",
-   "hours_open": 79.1,
-   "title": "Junior Software Developer Embedded  Systems & AI(d/m/w)",
-   "uid": "workday:ag.wd3/Airbus:Junior-Software-Developer-Embedded--Systems---AI-d-m-w-_JR10442968-1"
-  },
-  {
-   "closed_at": 1790632503,
-   "company": "Auto Trim",
-   "hours_open": 146.0,
-   "title": "cloud administrator",
-   "uid": "jobbank:cloud administrator:50342109"
-  },
-  {
-   "closed_at": 1790632503,
-   "company": "Great Lakes Group",
-   "hours_open": 5.8,
-   "title": "hardware engineer",
-   "uid": "jobbank:scada:50380579"
-  },
-  {
-   "closed_at": 1790632503,
-   "company": "Red House Realty, Brokerage",
-   "hours_open": 173.2,
-   "title": "cloud administrator",
-   "uid": "jobbank:cloud administrator:50331086"
-  },
-  {
    "closed_at": 1790632503,
    "company": "Groupe DCM",
    "hours_open": 250.8,
@@ -5599,8 +5522,85 @@
    "hours_open": 697.8,
    "title": "COTS Integration Engineer 663",
    "uid": "greenhouse:freedomconsulting:5149582007"
+  },
+  {
+   "closed_at": 1790971088,
+   "company": "purestorage",
+   "hours_open": 362.9,
+   "title": "Machine Learning Engineer, Digital Experience",
+   "uid": "greenhouse:purestorage:8209527"
+  },
+  {
+   "closed_at": 1790971088,
+   "company": "Valsoft Corporation",
+   "hours_open": 158.7,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50370881"
+  },
+  {
+   "closed_at": 1790971088,
+   "company": "AlphaHire",
+   "hours_open": 65.8,
+   "title": "Project Engineer - Commercial Electrical Projects",
+   "uid": "workable:alphax:0D22C721EE"
+  },
+  {
+   "closed_at": 1790971088,
+   "company": "JeffreyM Consulting",
+   "hours_open": 65.8,
+   "title": "Founding Engineer - AI & Full-Stack",
+   "uid": "workable:jeffreym-consulting:654276B1D1"
+  },
+  {
+   "closed_at": 1790971088,
+   "company": "Amazon",
+   "hours_open": 22.6,
+   "title": "Software Development Engineer, AWS Service Quotas",
+   "uid": "amazon:amazon:10567393"
+  },
+  {
+   "closed_at": 1790971088,
+   "company": "YO AI Labs",
+   "hours_open": 338.6,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50315027"
+  },
+  {
+   "closed_at": 1790971088,
+   "company": "Focus Group",
+   "hours_open": 616.9,
+   "title": "Cyber Presales Consultant",
+   "uid": "workable:focus-group:E16E957812"
+  },
+  {
+   "closed_at": 1790971088,
+   "company": "Infleqtion",
+   "hours_open": 698.7,
+   "title": "Cloud Infrastructure Engineer (IT)",
+   "uid": "workable:coldquanta:0B3ABA7CD8"
+  },
+  {
+   "closed_at": 1790971088,
+   "company": "spacex",
+   "hours_open": 696.1,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1790971088,
+   "company": "andurilindustries",
+   "hours_open": 495.5,
+   "title": "Service Desk Analyst",
+   "uid": "greenhouse:andurilindustries:5159567007"
+  },
+  {
+   "closed_at": 1790971088,
+   "company": "spacex",
+   "hours_open": 697.3,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
- "count": 808,
- "updated_at": 1790966669
+ "count": 811,
+ "updated_at": 1790971088
 }
