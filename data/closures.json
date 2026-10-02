@@ -1,48 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1790556476,
-   "company": "capco",
-   "hours_open": 582.1,
-   "title": "Data Engineer",
-   "uid": "greenhouse:capco:8171469"
-  },
-  {
-   "closed_at": 1790556476,
-   "company": "avnet",
-   "hours_open": 82.4,
-   "title": "Technical Sales Engineer - AMD/Xilinx",
-   "uid": "workday:avnet.wd1/external:Technical-Sales-Engineer_JR-022739"
-  },
-  {
-   "closed_at": 1790556476,
-   "company": "spacex",
-   "hours_open": 580.9,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1790556476,
-   "company": "spacex",
-   "hours_open": 583.6,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1790557229,
-   "company": "spacex",
-   "hours_open": 584.0,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1790557229,
-   "company": "spacex",
-   "hours_open": 584.0,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
    "closed_at": 1790558089,
    "company": "Cooptel",
    "hours_open": 464.1,
@@ -5599,8 +5557,50 @@
    "hours_open": 14.1,
    "title": "Software Development Intern - Summer 2027",
    "uid": "workday:caci.wd1/external:Software-Development-Intern---Summer-2027_332790"
+  },
+  {
+   "closed_at": 1790923532,
+   "company": "globalhr",
+   "hours_open": 14.2,
+   "title": "Software Engineering Intern (Summer 2027)",
+   "uid": "workday:globalhr.wd5/rec_rtx_ext_gateway:Software-Engineering-Intern--Summer-2027-_01870343"
+  },
+  {
+   "closed_at": 1790923532,
+   "company": "disney",
+   "hours_open": 47.3,
+   "title": "Product Software Engineer I",
+   "uid": "workday:disney.wd5/disneycareerdc:Product-Software-Engineer-I_10157015-2"
+  },
+  {
+   "closed_at": 1790923532,
+   "company": "globalfoundries",
+   "hours_open": 183.5,
+   "title": "Post-Fab Test Engineer (2027 New College Graduate)",
+   "uid": "workday:globalfoundries.wd1/External:Post-Fab-Test-Engineer--2027-New-College-Graduate-_JR-2604740"
+  },
+  {
+   "closed_at": 1790923532,
+   "company": "eversource",
+   "hours_open": 669.8,
+   "title": "Associate Engineer, Maintenance Support",
+   "uid": "workday:eversource.wd1/ExternalSite:Associate-Engineer--Maintenance-Support_R-031423"
+  },
+  {
+   "closed_at": 1790923532,
+   "company": "highmarkhealth",
+   "hours_open": 561.2,
+   "title": "RN - Telemetry/Medical Surgical (New Grad) Canonsburg",
+   "uid": "workday:highmarkhealth.wd1/highmark:RN---Telemetry-Medical-Surgical--New-Grad--Canonsburg_J281378"
+  },
+  {
+   "closed_at": 1790923532,
+   "company": "highmarkhealth",
+   "hours_open": 561.2,
+   "title": "RN E8 Med/Obs/Telemetry (New Grad), West Penn Hospital",
+   "uid": "workday:highmarkhealth.wd1/highmark:RN-E8-Med-Obs-Telemetry--New-Grad---West-Penn-Hospital_J281708"
   }
  ],
- "count": 807,
- "updated_at": 1790922475
+ "count": 806,
+ "updated_at": 1790923534
 }
