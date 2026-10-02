@@ -1,55 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1790560008,
-   "company": "spacex",
-   "hours_open": 584.8,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1790560114,
-   "company": "kla",
-   "hours_open": 588.2,
-   "title": "Software Engineering Intern",
-   "uid": "workday:kla.wd1/AnnArbor:Software-Engineering-Intern_2531653"
-  },
-  {
-   "closed_at": 1790560114,
-   "company": "spacex",
-   "hours_open": 581.9,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1790560114,
-   "company": "spacex",
-   "hours_open": 584.6,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1790575222,
-   "company": "myview",
-   "hours_open": 479.7,
-   "title": "Software Development - Co-op Student",
-   "uid": "workday:myview.wd3/paradox_careers:Software-Development---Co-op-Student_R2000699845"
-  },
-  {
-   "closed_at": 1790575222,
-   "company": "ngc",
-   "hours_open": 76.1,
-   "title": "Associate Software Engineer / Software Engineer",
-   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:Associate-Software-Engineer---Software-Engineer_R10253028-1"
-  },
-  {
-   "closed_at": 1790575222,
-   "company": "onto",
-   "hours_open": 247.9,
-   "title": "Junior Configuration & Release Engineer",
-   "uid": "workday:onto.wd1/onto_careers:Development-Engineer-1_R-6389"
-  },
-  {
    "closed_at": 1790575222,
    "company": "rocketlab",
    "hours_open": 293.2,
@@ -5599,8 +5550,57 @@
    "hours_open": 707.3,
    "title": "Junior Software Engineer",
    "uid": "workday:kbr.wd5/kbr_careers:Junior-Software-Engineer_R2122294"
+  },
+  {
+   "closed_at": 1790931337,
+   "company": "pg",
+   "hours_open": 691.3,
+   "title": "Northeastern University R&D Engineer Co-op- Northeastern Students Graduating in 2029 ONLY",
+   "uid": "workday:pg.wd5/1000:Northeastern-University-R-D-Engineer-Co-op--Northeastern-Students-Graduating-in-2028-2029-ONLY_R000155302"
+  },
+  {
+   "closed_at": 1790931337,
+   "company": "pg",
+   "hours_open": 691.3,
+   "title": "Purdue University R&D Engineer Co-op- Purdue Students Graduating in 2028/2029 ONLY",
+   "uid": "workday:pg.wd5/1000:Purdue-University-R-D-Engineer-Co-op--Purdue-Students-Graduating-in-2028-2029-ONLY_R000155305"
+  },
+  {
+   "closed_at": 1790931337,
+   "company": "mmc",
+   "hours_open": 16.3,
+   "title": "Software Developer - I",
+   "uid": "workday:mmc.wd1/MMC:Java-Developer_R_303155"
+  },
+  {
+   "closed_at": 1790931337,
+   "company": "philips",
+   "hours_open": 393.9,
+   "title": "Intern – R&D Engineer – Plymouth, MN – Summer 2027",
+   "uid": "workday:philips.wd3/jobs-and-careers:Intern---R-D-Engineer---Plymouth--MN---Summer-2027_591610"
+  },
+  {
+   "closed_at": 1790931337,
+   "company": "ngc",
+   "hours_open": 232.0,
+   "title": "2027 Cyber Systems Engineer Intern-Tampa FL",
+   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Cyber-Systems-Engineer-Intern-Tampa-FL_R10249196"
+  },
+  {
+   "closed_at": 1790931337,
+   "company": "ngc",
+   "hours_open": 224.0,
+   "title": "2027 Cyber Software Engineer Intern - Tampa FL",
+   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Cyber-Software-Engineer-Intern---Tampa-FL_R10249530"
+  },
+  {
+   "closed_at": 1790931337,
+   "company": "General Dynamics",
+   "hours_open": 177.4,
+   "title": "Entry Level Software Developer",
+   "uid": "simplify:listings:6760a173-39b3-42f0-bd2a-6e007b814c65"
   }
  ],
- "count": 806,
- "updated_at": 1790924196
+ "count": 807,
+ "updated_at": 1790931338
 }
