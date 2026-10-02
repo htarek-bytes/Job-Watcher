@@ -3,20 +3,6 @@
   {
    "closed_at": 1790535986,
    "company": "rockwellautomation",
-   "hours_open": 137.3,
-   "title": "Intern, Technical Sales & Consulting (Canada)",
-   "uid": "workday:rockwellautomation.wd1/External_Rockwell_Automation:Intern--Technical-Sales---Consulting--Canada-_R26-5965-2"
-  },
-  {
-   "closed_at": 1790535986,
-   "company": "rockwellautomation",
-   "hours_open": 41.1,
-   "title": "Intern, AI Software Engineering (June-August 2027)",
-   "uid": "workday:rockwellautomation.wd1/External_Rockwell_Automation:Intern--AI-Software-Engineering--June-August-2027-_R26-6980-1"
-  },
-  {
-   "closed_at": 1790535986,
-   "company": "rockwellautomation",
    "hours_open": 41.1,
    "title": "Co-op, AI Software Engineering (6-8 months)",
    "uid": "workday:rockwellautomation.wd1/External_Rockwell_Automation:Co-op--AI-Software-Engineering--6-8-months-_R26-6982-1"
@@ -5599,8 +5585,22 @@
    "hours_open": 679.9,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1790902277,
+   "company": "zoox",
+   "hours_open": 677.0,
+   "title": "Software Engineer, Android",
+   "uid": "lever:zoox:d48270e1-81e0-4f04-ab9e-d1fc25313f76"
+  },
+  {
+   "closed_at": 1790902277,
+   "company": "sprymethods",
+   "hours_open": 559.7,
+   "title": "Cybersecurity Analyst / ISSO",
+   "uid": "lever:sprymethods:f1643ee1-256e-4edb-a21e-615daca5c541"
   }
  ],
- "count": 804,
- "updated_at": 1790902141
+ "count": 802,
+ "updated_at": 1790902278
 }
