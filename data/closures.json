@@ -2,41 +2,6 @@
  "closed": [
   {
    "closed_at": 1790626658,
-   "company": "Richie It Solutions Inc",
-   "hours_open": 101.9,
-   "title": "software developer",
-   "uid": "jobbank:junior programmer:50357104"
-  },
-  {
-   "closed_at": 1790626658,
-   "company": "D3 Security Management Systems Inc",
-   "hours_open": 237.8,
-   "title": "cybersecurity specialist",
-   "uid": "jobbank:specialiste infrastructure:50317565"
-  },
-  {
-   "closed_at": 1790626658,
-   "company": "cloudflare",
-   "hours_open": 603.3,
-   "title": "Response Engineer - CMDC",
-   "uid": "greenhouse:cloudflare:8139140"
-  },
-  {
-   "closed_at": 1790626658,
-   "company": "rocketlab",
-   "hours_open": 339.7,
-   "title": "Flight Software Engineer I",
-   "uid": "greenhouse:rocketlab:7992129003"
-  },
-  {
-   "closed_at": 1790626658,
-   "company": "RTX",
-   "hours_open": 460.9,
-   "title": "Embedded Software Engineer 1",
-   "uid": "simplify:listings:a081e1ce-81e7-4a47-a2ca-a00e10af723b"
-  },
-  {
-   "closed_at": 1790626658,
    "company": "RTX",
    "hours_open": 613.8,
    "title": "Electrical Components Engineer 1",
@@ -5599,8 +5564,43 @@
    "hours_open": 697.5,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1790965808,
+   "company": "Bosch Group",
+   "hours_open": 17.6,
+   "title": "Junior Digital Verification Engineer",
+   "uid": "smartrecruiters:BoschGroup:744000152956314"
+  },
+  {
+   "closed_at": 1790965808,
+   "company": "Bosch Group",
+   "hours_open": 33.5,
+   "title": "N_Bosch Rexroth India_ Engineer / Executive_Technical Sales_Hydraulics",
+   "uid": "smartrecruiters:BoschGroup:744000152826609"
+  },
+  {
+   "closed_at": 1790965808,
+   "company": "Verellen Music Academy",
+   "hours_open": 406.6,
+   "title": "cloud administrator",
+   "uid": "jobbank:cloud administrator:50293609"
+  },
+  {
+   "closed_at": 1790965808,
+   "company": "Amazon",
+   "hours_open": 191.9,
+   "title": "Software Development Engineer, Amazon Customer Service ",
+   "uid": "amazon:amazon:10559347"
+  },
+  {
+   "closed_at": 1790965808,
+   "company": "spacex",
+   "hours_open": 697.5,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
   }
  ],
- "count": 804,
- "updated_at": 1790965514
+ "count": 805,
+ "updated_at": 1790965809
 }
