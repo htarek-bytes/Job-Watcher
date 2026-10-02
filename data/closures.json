@@ -1,34 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1790188909,
-   "company": "spacex",
-   "hours_open": 478.8,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1790188909,
-   "company": "systemstechnologyresearch",
-   "hours_open": 474.8,
-   "title": "Autonomy Algorithms Software Engineer",
-   "uid": "greenhouse:systemstechnologyresearch:4704682006"
-  },
-  {
-   "closed_at": 1790535986,
-   "company": "radiancetech",
-   "hours_open": 97.6,
-   "title": "Junior Software Engineer",
-   "uid": "workday:radiancetech.wd12/Radiance_External:Junior-Software-Engineer_HR102428"
-  },
-  {
-   "closed_at": 1790535986,
-   "company": "rockwellautomation",
-   "hours_open": 137.3,
-   "title": "Intern, Technical Sales & Consulting (USA)",
-   "uid": "workday:rockwellautomation.wd1/External_Rockwell_Automation:Intern--Technical-Sales---Consulting--USA-_R26-5962-2"
-  },
-  {
    "closed_at": 1790535986,
    "company": "rockwellautomation",
    "hours_open": 137.3,
@@ -5599,8 +5571,36 @@
    "hours_open": 678.6,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1790902141,
+   "company": "Groupe DCM",
+   "hours_open": 331.9,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534679"
+  },
+  {
+   "closed_at": 1790902141,
+   "company": "McCain Foods",
+   "hours_open": 513.4,
+   "title": "software developer",
+   "uid": "jobbank:scada:50258975"
+  },
+  {
+   "closed_at": 1790902141,
+   "company": "fiscalnote",
+   "hours_open": 231.3,
+   "title": "Associate Software Engineer",
+   "uid": "lever:fiscalnote:c76e748f-6e25-42cf-bf26-ebae44280ffd"
+  },
+  {
+   "closed_at": 1790902141,
+   "company": "spacex",
+   "hours_open": 679.9,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
   }
  ],
- "count": 816,
- "updated_at": 1790897569
+ "count": 804,
+ "updated_at": 1790902141
 }
