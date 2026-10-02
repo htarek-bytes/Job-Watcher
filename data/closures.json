@@ -2,69 +2,6 @@
  "closed": [
   {
    "closed_at": 1790641647,
-   "company": "globalhr",
-   "hours_open": 355.4,
-   "title": "Radar Systems Engineer I",
-   "uid": "workday:globalhr.wd5/rec_rtx_ext_gateway:Radar-Systems-Engineer-I_01874482"
-  },
-  {
-   "closed_at": 1790641647,
-   "company": "Babysoft Telecommunication",
-   "hours_open": 123.8,
-   "title": "front-end developer",
-   "uid": "jobbank:developpeur junior:50352026"
-  },
-  {
-   "closed_at": 1790641647,
-   "company": "Alt Informatique",
-   "hours_open": 259.5,
-   "title": "Technicien informatique junior",
-   "uid": "jobillico:technicien informatique:17381391"
-  },
-  {
-   "closed_at": 1790641647,
-   "company": "Groupe DCM",
-   "hours_open": 259.5,
-   "title": "Programmeur CNC / CNC Programmer",
-   "uid": "jobillico:programmeur junior:17534679"
-  },
-  {
-   "closed_at": 1790641647,
-   "company": "globalfoundries",
-   "hours_open": 143.7,
-   "title": "Failure Analysis Engineer (2027 New College Graduate)",
-   "uid": "workday:globalfoundries.wd1/External:Failure-Analysis-Engineer--2027-New-College-Graduate-_JR-2604787"
-  },
-  {
-   "closed_at": 1790641647,
-   "company": "ffive",
-   "hours_open": 167.4,
-   "title": "Network Engineer I",
-   "uid": "workday:ffive.wd5/f5jobs:Network-Engineer-I_RP1038801"
-  },
-  {
-   "closed_at": 1790641647,
-   "company": "ebi",
-   "hours_open": 314.2,
-   "title": "Product Engineer Intern",
-   "uid": "workday:ebi.wd5/ebadcareers:Product-Engineer-Intern_REQ107697"
-  },
-  {
-   "closed_at": 1790641647,
-   "company": "flir",
-   "hours_open": 619.8,
-   "title": "EADSIM Software Engineering Intern (Summer 2027)",
-   "uid": "workday:flir.wd1/flircareers:EADSIM-Software-Engineering-Intern--Summer-2027-_REQ36667"
-  },
-  {
-   "closed_at": 1790641647,
-   "company": "Amazon",
-   "hours_open": 162.5,
-   "title": "Software Development Engineer, Measurement, Ad Tech, and Data Science (MADS) - Tax & Promotions",
-   "uid": "amazon:amazon:10555776"
-  },
-  {
-   "closed_at": 1790641647,
    "company": "reddit",
    "hours_open": 607.5,
    "title": "Backend Software Engineer, PDP Experience",
@@ -5599,8 +5536,71 @@
    "hours_open": 701.5,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1790980231,
+   "company": "bmo",
+   "hours_open": 190.4,
+   "title": "AI Engineer, Winter 2027 (Co-op/Internship) - 8 months",
+   "uid": "workday:bmo.wd3/Campus:AI-Engineer--Winter-2027--Co-op-Internship----8-months_R260027622-2"
+  },
+  {
+   "closed_at": 1790980231,
+   "company": "autodesk",
+   "hours_open": 410.2,
+   "title": "Intern, Software Developer, Stagiaire en Développement Logiciel",
+   "uid": "workday:autodesk.wd1/Ext:Intern--Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD101101-2"
+  },
+  {
+   "closed_at": 1790980231,
+   "company": "bmo",
+   "hours_open": 166.1,
+   "title": "Business & Operations Development Specialist (New Grad)",
+   "uid": "workday:bmo.wd3/Campus:Business---Operations-Development-Specialist--New-Grad-_R260027681-1"
+  },
+  {
+   "closed_at": 1790980231,
+   "company": "bmo",
+   "hours_open": 334.6,
+   "title": "Software Developer, Winter 2027 (Internship) - 4 months",
+   "uid": "workday:bmo.wd3/Campus:Software-Developer--Winter-2027--Internship----4-months_R260027197-3"
+  },
+  {
+   "closed_at": 1790980231,
+   "company": "cadence",
+   "hours_open": 649.8,
+   "title": "Software Engineer  (new college grad Dec 2026)",
+   "uid": "workday:cadence.wd1/University_Talent_NCG:Software-Engineer---new-college-grad-Dec-2026-_R55738"
+  },
+  {
+   "closed_at": 1790980231,
+   "company": "cccis",
+   "hours_open": 549.9,
+   "title": "First Party Casualty Claims Solutions Consultant",
+   "uid": "workday:cccis.wd1/broadbean_external:Senior-Solutions-Engineer--First-Party-Casualty_0014791"
+  },
+  {
+   "closed_at": 1790980231,
+   "company": "spacex",
+   "hours_open": 701.5,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1790980231,
+   "company": "spacex",
+   "hours_open": 701.5,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1790980231,
+   "company": "spacex",
+   "hours_open": 699.9,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
- "count": 813,
- "updated_at": 1790980022
+ "count": 809,
+ "updated_at": 1790980232
 }
