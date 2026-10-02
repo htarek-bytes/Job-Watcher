@@ -1,5 +1,5 @@
 {
- "count": 6668,
+ "count": 6672,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -3402,6 +3402,7 @@
   "jobbank:analyste de systemes:50163724": 1788918628,
   "jobbank:analyste de systemes:50248333": 1790884489,
   "jobbank:analyste de systemes:50248611": 1790723272,
+  "jobbank:analyste de systemes:50407976": 1790922474,
   "jobbank:analyste reseau:50391508": 1790707195,
   "jobbank:cloud administrator:50053834": 1788887337,
   "jobbank:cloud administrator:50121176": 1788887337,
@@ -5745,6 +5746,7 @@
   "workday:bmo.wd3/External:DDI-Network-Engineer_R260026568": 1790752952,
   "workday:bmo.wd3/External:Junior-Software-Developer--Winter-2027--Co-op-Internship----4-Months_R260024650-1": 1788760848,
   "workday:bmo.wd3/External:Machine-Learning-Developer--New-or-Recent-Graduate-_R260024265": 1788470575,
+  "workday:bmo.wd3/External:Production-Support--Analyst_R260027517": 1790922474,
   "workday:bmo.wd3/External:Quantitative-Developer--Alpha-Research-Team----GAM--Summer-2027--Co-op-Internship----12-months_R260026715-3": 1789627670,
   "workday:bmo.wd3/External:Software-Developer--Winter-2027--Co-op-Internship----12-Months_R260024678-1": 1788760848,
   "workday:bmo.wd3/External:Software-Developer--Winter-2027--Co-op-Internship----4-Months_R260024638": 1788760848,
@@ -5863,6 +5865,8 @@
   "workday:costar.wd1/Costar_Campus:Associate-Software-Engineer---Irvine--CA_R39736": 1789628034,
   "workday:costar.wd1/Costar_Campus:Associate-Software-Engineer---Richmond--VA_R39667": 1789417897,
   "workday:costar.wd1/Costar_Campus:Associate-Software-Engineer---San-Diego--CA_R39674": 1789628034,
+  "workday:costar.wd1/Costar_Campus:Associate-Software-Engineer---Sunnyvale--CA_R39942": 1790922474,
+  "workday:costar.wd1/Costar_Campus:Embedded-Software-Engineering-Intern_R39950": 1790922474,
   "workday:costar.wd1/Costar_Campus:Security-Engineer-Intern---Arlington--VA_R39727": 1789417897,
   "workday:costar.wd1/Costar_Campus:Security-Engineer-Intern---Richmond--VA_R39726": 1789417897,
   "workday:cox.wd1/Cox_External_Career_Site_1:Application-Support-Engineering-Intern---Summer-2027_R202682358": 1789070853,
@@ -6670,5 +6674,5 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148,
   "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541": 1789106107
  },
- "updated_at": 1790922138
+ "updated_at": 1790922475
 }
