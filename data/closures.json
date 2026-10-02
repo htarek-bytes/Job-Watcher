@@ -2,13 +2,6 @@
  "closed": [
   {
    "closed_at": 1790536524,
-   "company": "Maarut",
-   "hours_open": 0.1,
-   "title": "software developer",
-   "uid": "jobbank:entry level software developer:50354932"
-  },
-  {
-   "closed_at": 1790536524,
    "company": "Source Code",
    "hours_open": 61.8,
    "title": "software developer",
@@ -5599,8 +5592,15 @@
    "hours_open": 678.3,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1790908389,
+   "company": "Seeq",
+   "hours_open": 675.2,
+   "title": "AI Customer Insights Engineer",
+   "uid": "workable:seeq:6F40FF632B"
   }
  ],
- "count": 805,
- "updated_at": 1790902774
+ "count": 801,
+ "updated_at": 1790908389
 }
