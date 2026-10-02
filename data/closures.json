@@ -2,34 +2,6 @@
  "closed": [
   {
    "closed_at": 1790626658,
-   "company": "mettel",
-   "hours_open": 481.5,
-   "title": "Litigation Associate Attorney – Telecommunications",
-   "uid": "greenhouse:mettel:4678687006"
-  },
-  {
-   "closed_at": 1790626658,
-   "company": "LLNL",
-   "hours_open": 603.3,
-   "title": "Energy Systems Analyst Graduate Intern - Fall 2026",
-   "uid": "smartrecruiters:LLNL:3743990014731696"
-  },
-  {
-   "closed_at": 1790626658,
-   "company": "NVIDIA",
-   "hours_open": 405.5,
-   "title": "Circuit Design Engineer New Grad",
-   "uid": "simplify:listings:61c4ab4f-d4d9-4028-bd6b-e45e731dcfb2"
-  },
-  {
-   "closed_at": 1790626658,
-   "company": "Allen Control Systems",
-   "hours_open": 640.0,
-   "title": "Junior Computer Vision & Machine Learning Engineer",
-   "uid": "simplify:listings:831d8752-6c94-411b-8fef-685284bf3e82"
-  },
-  {
-   "closed_at": 1790626658,
    "company": "Richie It Solutions Inc",
    "hours_open": 101.9,
    "title": "software developer",
@@ -5599,8 +5571,36 @@
    "hours_open": 697.4,
    "title": "Azure Data Engineer in St. Louis, MO",
    "uid": "greenhouse:accenturefederalservices:4643762006"
+  },
+  {
+   "closed_at": 1790965513,
+   "company": "D3 Security Management Systems Inc",
+   "hours_open": 331.9,
+   "title": "cybersecurity specialist",
+   "uid": "jobbank:specialiste infrastructure:50317565"
+  },
+  {
+   "closed_at": 1790965513,
+   "company": "spacex",
+   "hours_open": 694.5,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1790965513,
+   "company": "spacex",
+   "hours_open": 697.2,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1790965513,
+   "company": "spacex",
+   "hours_open": 697.5,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 815,
- "updated_at": 1790965328
+ "count": 804,
+ "updated_at": 1790965514
 }
