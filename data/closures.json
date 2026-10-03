@@ -1,41 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1790691024,
-   "company": "avnet",
-   "hours_open": 119.8,
-   "title": "Technical Sales Engineer - AMD/Xilinx",
-   "uid": "workday:avnet.wd1/external:Technical-Sales-Engineer_JR-022739"
-  },
-  {
-   "closed_at": 1790691024,
-   "company": "D3 Security Management Systems Inc",
-   "hours_open": 255.6,
-   "title": "cybersecurity specialist",
-   "uid": "jobbank:specialiste infrastructure:50317565"
-  },
-  {
-   "closed_at": 1790691024,
-   "company": "Amazon",
-   "hours_open": 280.0,
-   "title": "Software Development Engineer, Platform Engineering and Emerging Technologies",
-   "uid": "amazon:amazon:10552647"
-  },
-  {
-   "closed_at": 1790691603,
-   "company": "ccf",
-   "hours_open": 273.0,
-   "title": "New Grad RN Resident – Med/Surg & Telemetry Unit",
-   "uid": "workday:ccf.wd1/ClevelandClinicCareers:New-Grad-RN-Resident---Med-Surg---Telemetry-Unit_350185"
-  },
-  {
-   "closed_at": 1790691603,
-   "company": "Babysoft Telecommunication",
-   "hours_open": 137.7,
-   "title": "front-end developer",
-   "uid": "jobbank:developpeur junior:50352026"
-  },
-  {
    "closed_at": 1790691603,
    "company": "Groupe DCM",
    "hours_open": 273.4,
@@ -5599,8 +5564,43 @@
    "hours_open": 24.5,
    "title": "network analyst",
    "uid": "jobbank:network analyst:50409133"
+  },
+  {
+   "closed_at": 1791043991,
+   "company": "Groupe DCM",
+   "hours_open": 371.3,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534679"
+  },
+  {
+   "closed_at": 1791043991,
+   "company": "Cooptel",
+   "hours_open": 599.1,
+   "title": "Administrateur réseau",
+   "uid": "jobillico:analyste reseau:17185045"
+  },
+  {
+   "closed_at": 1791043991,
+   "company": "Kativik Ilisarniliriniq (La commission scolaire du Nunavik)",
+   "hours_open": 2.8,
+   "title": "network analyst",
+   "uid": "jobbank:infrastructure analyst:50409133"
+  },
+  {
+   "closed_at": 1791043991,
+   "company": "spacex",
+   "hours_open": 716.3,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1791043991,
+   "company": "spacex",
+   "hours_open": 719.0,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
   }
  ],
- "count": 801,
- "updated_at": 1791034072
+ "count": 805,
+ "updated_at": 1791043991
 }
