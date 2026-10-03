@@ -1,83 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1790645175,
-   "company": "silabs",
-   "hours_open": 490.3,
-   "title": "DevOps Platform Engineer I",
-   "uid": "workday:silabs.wd1/SiliconlabsCareers:DevOps-Platform-Engineer_21029-1"
-  },
-  {
-   "closed_at": 1790645175,
-   "company": "rockwellautomation",
-   "hours_open": 30.3,
-   "title": "Intern, Technical Sales & Consulting (USA)",
-   "uid": "workday:rockwellautomation.wd1/External-Rockwell-Automation-Early-Careers:Intern--Technical-Sales---Consulting--USA-_R26-5962-1"
-  },
-  {
-   "closed_at": 1790645175,
-   "company": "rockwellautomation",
-   "hours_open": 30.3,
-   "title": "Intern, Technical Sales & Consulting (Canada)",
-   "uid": "workday:rockwellautomation.wd1/External-Rockwell-Automation-Early-Careers:Intern--Technical-Sales---Consulting--Canada-_R26-5965-1"
-  },
-  {
-   "closed_at": 1790645175,
-   "company": "Amazon",
-   "hours_open": 269.2,
-   "title": "Software Development Engineer, Amazon Connect Telecom Engineering",
-   "uid": "amazon:amazon:10552602"
-  },
-  {
-   "closed_at": 1790645175,
-   "company": "radiancetech",
-   "hours_open": 95.6,
-   "title": "Software Engineer Intern Spring/Summer 2027",
-   "uid": "workday:radiancetech.wd12/Radiance_External:Software-Engineer-Intern-Spring-Summer-2027_HR102442"
-  },
-  {
-   "closed_at": 1790645175,
-   "company": "spacex",
-   "hours_open": 608.5,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1790645175,
-   "company": "spacex",
-   "hours_open": 608.5,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1790646100,
-   "company": "abridge",
-   "hours_open": 266.9,
-   "title": "Software Engineering Intern, Spring",
-   "uid": "ashby:abridge:6569d8f7-bd0b-4bb0-a3af-37f83e19ec5e"
-  },
-  {
-   "closed_at": 1790646100,
-   "company": "abridge",
-   "hours_open": 636.8,
-   "title": "Junior Software Engineer",
-   "uid": "ashby:abridge:7d6ae2be-cd53-466c-8151-2dae2e87aace"
-  },
-  {
-   "closed_at": 1790646100,
-   "company": "abridge",
-   "hours_open": 416.4,
-   "title": "Software Engineering Intern, Fall",
-   "uid": "ashby:abridge:3f07a457-dc14-4238-bf4e-5c33b5c1f883"
-  },
-  {
-   "closed_at": 1790646100,
-   "company": "Great Lakes Group",
-   "hours_open": 3.8,
-   "title": "hardware engineer",
-   "uid": "jobbank:scada:50380539"
-  },
-  {
    "closed_at": 1790646100,
    "company": "zeissgroup",
    "hours_open": 78.5,
@@ -5599,8 +5522,85 @@
    "hours_open": 245.4,
    "title": "AI Engineer, Compute Infrastructure, Special Programs - Top Secret Clearance",
    "uid": "greenhouse:spacex:8557252002"
+  },
+  {
+   "closed_at": 1790990642,
+   "company": "Man Group",
+   "hours_open": 193.9,
+   "title": "Technology Rotational Program - Associate Engineer",
+   "uid": "simplify:listings:74f5d04c-5dd5-4838-8c22-2cef8a0d48c0"
+  },
+  {
+   "closed_at": 1790990642,
+   "company": "ngc",
+   "hours_open": 29.5,
+   "title": "2027 Software Engineering Intern - Colorado Springs CO",
+   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs-CO_R10254007"
+  },
+  {
+   "closed_at": 1790990642,
+   "company": "ngc",
+   "hours_open": 29.5,
+   "title": "2027 Vehicle Engineer Intern",
+   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Vehicle-Engineer-Intern_R10253965"
+  },
+  {
+   "closed_at": 1790990642,
+   "company": "ngc",
+   "hours_open": 16.5,
+   "title": "2027 - Associate Software Engineer - McClellan CA",
+   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027---Associate-Software-Engineer---McClellan-CA_R10253394"
+  },
+  {
+   "closed_at": 1790990642,
+   "company": "andurilindustries",
+   "hours_open": 702.7,
+   "title": "NPI Engineer, Actuators",
+   "uid": "greenhouse:andurilindustries:5116367007"
+  },
+  {
+   "closed_at": 1790990642,
+   "company": "thealleninstitute",
+   "hours_open": 684.1,
+   "title": "Research Engineer, Asta",
+   "uid": "greenhouse:thealleninstitute:7899565"
+  },
+  {
+   "closed_at": 1790990642,
+   "company": "mars",
+   "hours_open": 620.5,
+   "title": "Solution Engineer",
+   "uid": "workday:mars.wd3/external:Solution-Engineer_R161845-1"
+  },
+  {
+   "closed_at": 1790990642,
+   "company": "Retell AI",
+   "hours_open": 741.1,
+   "title": "Software Engineer New Grad - Founders Initiatives",
+   "uid": "simplify:listings:77e7783f-e6da-4352-a869-b3840c8dbfb9"
+  },
+  {
+   "closed_at": 1790990642,
+   "company": "kbr",
+   "hours_open": 725.8,
+   "title": "Junior Software Engineer",
+   "uid": "workday:kbr.wd5/KBR_Careers:Junior-Software-Engineer_R2122294"
+  },
+  {
+   "closed_at": 1790990642,
+   "company": "spacex",
+   "hours_open": 704.4,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1790990642,
+   "company": "spacex",
+   "hours_open": 702.7,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
- "count": 818,
- "updated_at": 1790984102
+ "count": 811,
+ "updated_at": 1790990643
 }
