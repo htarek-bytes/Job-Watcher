@@ -1,5 +1,5 @@
 {
- "count": 6788,
+ "count": 6798,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -271,6 +271,7 @@
   "amazon:amazon:10568398": 1790980021,
   "amazon:amazon:10568411": 1790984102,
   "amazon:amazon:10568419": 1790984102,
+  "amazon:amazon:10568432": 1790993922,
   "ashby:1password:4ff46f84-a5c9-4232-84b6-1dfa8e737148": 1788750148,
   "ashby:1password:7f885c41-7572-439c-886f-bc508eb9a3d7": 1788454653,
   "ashby:1password:a5b083d5-5f82-4316-b5ef-a577f2edb493": 1788750148,
@@ -1290,6 +1291,7 @@
   "greenhouse:andurilindustries:5021806007": 1788460756,
   "greenhouse:andurilindustries:5023717007": 1788460756,
   "greenhouse:andurilindustries:5025383007": 1790033004,
+  "greenhouse:andurilindustries:5030386007": 1790993922,
   "greenhouse:andurilindustries:5032266007": 1788460756,
   "greenhouse:andurilindustries:5032269007": 1788460756,
   "greenhouse:andurilindustries:5034522007": 1788460756,
@@ -1520,6 +1522,9 @@
   "greenhouse:andurilindustries:5254371007": 1790884489,
   "greenhouse:andurilindustries:5254434007": 1790884489,
   "greenhouse:andurilindustries:5254448007": 1790884489,
+  "greenhouse:andurilindustries:5256304007": 1790993922,
+  "greenhouse:andurilindustries:5256305007": 1790993922,
+  "greenhouse:andurilindustries:5256306007": 1790993922,
   "greenhouse:anthropic:4982193008": 1788460756,
   "greenhouse:anthropic:5290838008": 1788750148,
   "greenhouse:appdirect:8635759002": 1788454653,
@@ -4406,6 +4411,7 @@
   "simplify:listings:1ae4d477-2ac5-41f7-848a-cf5ccb939aa2": 1788322770,
   "simplify:listings:1b24996d-5216-4340-b3e9-09cd19a5b0f0": 1788455648,
   "simplify:listings:1b2d5e3a-9ab3-42a9-ab25-8ade9c457825": 1788322770,
+  "simplify:listings:1b4b4857-a0e7-40ae-911b-03e1528c4c9f": 1790993922,
   "simplify:listings:1bc7fe9e-fd5d-4ca1-b5c2-abedfa34dfb4": 1788322770,
   "simplify:listings:1c123b94-fb07-4a60-97b4-43dec605b42f": 1789436213,
   "simplify:listings:1c1ef564-3308-4460-b8e2-733d9d4d96aa": 1788322770,
@@ -4522,6 +4528,7 @@
   "simplify:listings:3ee60348-39b1-4a67-b417-dfaf6fd38d00": 1789171739,
   "simplify:listings:3f232600-1023-4500-a3d7-7740abb084a3": 1788454653,
   "simplify:listings:3f2de24b-8f96-4412-93d4-eedb22a6d3f5": 1789166954,
+  "simplify:listings:3f4f0a33-7d23-4062-ad6b-47a6d5194539": 1790993922,
   "simplify:listings:3f6abfdc-6831-4453-81ac-c6b9feb47c0c": 1788322770,
   "simplify:listings:3f82e674-ad33-47ce-96b7-4ae7dd5be8e7": 1788454653,
   "simplify:listings:40cf634e-92e6-4592-983b-7d2595222420": 1788322770,
@@ -6714,6 +6721,7 @@
   "workday:thermofisher.wd5/ThermoFisherCareers:Sales-Engineer--m-f-d--Quality-Control---Gauging_R-01361891": 1789517822,
   "workday:thomsonreuters.wd5/External_Career_Site:Internship---Application-Support_JREQ203709": 1790274849,
   "workday:thomsonreuters.wd5/External_Career_Site:Software-Engineer-1_JREQ203998": 1790820503,
+  "workday:thomsonreuters.wd5/External_Career_Site:Software-Engineer-Co-Op_JREQ203587": 1790993922,
   "workday:tjx.wd1/tjx_external:Business-Intelligence---Automation-Analyst-Co-op_REQ145459": 1788903151,
   "workday:tjx.wd1/tjx_external:IT-Engineer-Internship---Summer-2027_REQ153160": 1788539216,
   "workday:tmobile.wd1/External:Associate-Engineer--Agentic-AI_REQ368440": 1789517822,
@@ -6752,6 +6760,8 @@
   "workday:usc.wd5/ExternalUSCCareers:Credit-Union-Network-Engineer-I_REQ20181374": 1790362723,
   "workday:usc.wd5/ExternalUSCCareers:Programmer-Analyst-I_REQ20180180": 1789074882,
   "workday:vanguard.wd5/vanguard_external:College-to-Corporate-IT-Internship---Risk---Security---Engineer_181851": 1788410216,
+  "workday:vanguard.wd5/vanguard_external:College-to-Corporate-IT-Internship-Risk---Security-Engineer--NC-_182785": 1790993922,
+  "workday:vanguard.wd5/vanguard_external:College-to-Corporate-IT-Internship-Risk---Security-Engineer--PA-_182784": 1790993922,
   "workday:vermeer.wd5/externalcareersite:Design-Engineer-Intern---Summer-2027_REQ-22139": 1788410216,
   "workday:vermeer.wd5/externalcareersite:Design-Engineer-Intern_REQ-22255": 1789147240,
   "workday:vermeer.wd5/externalcareersite:Embedded-Software-Engineer-Internship-Summer-2027_REQ-22165": 1788410216,
@@ -6790,5 +6800,5 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148,
   "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541": 1789106107
  },
- "updated_at": 1790990847
+ "updated_at": 1790993922
 }
