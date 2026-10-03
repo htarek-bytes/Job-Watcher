@@ -2,20 +2,6 @@
  "closed": [
   {
    "closed_at": 1790691603,
-   "company": "Groupe DCM",
-   "hours_open": 273.4,
-   "title": "Programmeur CNC / CNC Programmer",
-   "uid": "jobillico:programmeur junior:17534679"
-  },
-  {
-   "closed_at": 1790691603,
-   "company": "alayacare",
-   "hours_open": 633.9,
-   "title": "Junior Fullstack Developer (Python) ",
-   "uid": "greenhouse:alayacare:8653380002"
-  },
-  {
-   "closed_at": 1790691603,
    "company": "cisco",
    "hours_open": 134.3,
    "title": "Solutions Engineer, Enterprise",
@@ -5599,8 +5585,22 @@
    "hours_open": 719.0,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1791044328,
+   "company": "autodesk",
+   "hours_open": 428.0,
+   "title": "Intern, Software Developer, Stagiaire en Développement Logiciel",
+   "uid": "workday:autodesk.wd1/Ext:Intern--Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD101101-2"
+  },
+  {
+   "closed_at": 1791044328,
+   "company": "accenture",
+   "hours_open": 49.5,
+   "title": "Junior AI Native Engineer",
+   "uid": "workday:accenture.wd103/AccentureCareers:Junior-AI-Native-Engineer_R00361255"
   }
  ],
- "count": 805,
- "updated_at": 1791043991
+ "count": 802,
+ "updated_at": 1791044328
 }
