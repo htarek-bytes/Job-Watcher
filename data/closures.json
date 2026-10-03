@@ -1,97 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1790662579,
-   "company": "Lax Kw'alaams Band",
-   "hours_open": 493.1,
-   "title": "network system administrator",
-   "uid": "jobbank:systems administrator:49812698"
-  },
-  {
-   "closed_at": 1790662579,
-   "company": "rivet",
-   "hours_open": 613.3,
-   "title": "Optical Test Engineer",
-   "uid": "ashby:rivet:b17930da-8579-4090-a101-3549deec4f18"
-  },
-  {
-   "closed_at": 1790662579,
-   "company": "saronic",
-   "hours_open": 610.2,
-   "title": "Security Engineer, Detection Engineering",
-   "uid": "ashby:saronic:61770fb7-97a5-4be3-9556-32b2ff522e6d"
-  },
-  {
-   "closed_at": 1790663808,
-   "company": "armstrongfluidtechnology",
-   "hours_open": 525.9,
-   "title": "Technical Sales Coordinator - Consulting Engineer",
-   "uid": "bamboohr:armstrongfluidtechnology:948"
-  },
-  {
-   "closed_at": 1790663808,
-   "company": "armstrongfluidtechnology",
-   "hours_open": 493.5,
-   "title": "Regional Marketing Communications Specialist (US & LATAM)",
-   "uid": "bamboohr:armstrongfluidtechnology:976"
-  },
-  {
-   "closed_at": 1790663808,
-   "company": "twitch",
-   "hours_open": 613.7,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1790663808,
-   "company": "spacex",
-   "hours_open": 613.7,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1790666318,
-   "company": "hsag",
-   "hours_open": 117.7,
-   "title": "Business Intelligence (BI) Developer I - QUICKSIGHT",
-   "uid": "lever:hsag:538428ec-fa2f-4d7f-b83b-348ba9edcc25"
-  },
-  {
-   "closed_at": 1790666318,
-   "company": "Groupe DCM",
-   "hours_open": 266.4,
-   "title": "Programmeur CNC / CNC Programmer",
-   "uid": "jobillico:programmeur junior:17534679"
-  },
-  {
-   "closed_at": 1790666318,
-   "company": "twitch",
-   "hours_open": 611.4,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1790666318,
-   "company": "spacex",
-   "hours_open": 614.1,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1790667206,
-   "company": "twitch",
-   "hours_open": 614.6,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1790667206,
-   "company": "shyftlabs",
-   "hours_open": 614.6,
-   "title": "Data Engineer",
-   "uid": "lever:shyftlabs:a34ac0d8-9c48-4cd6-9c12-c5a6740b18ac"
-  },
-  {
    "closed_at": 1790667206,
    "company": "plus-2",
    "hours_open": 611.7,
@@ -5599,8 +5508,99 @@
    "hours_open": 245.0,
    "title": "Software Development Engineer, Platform Engineering & Emerging Technology",
    "uid": "amazon:amazon:10556964"
+  },
+  {
+   "closed_at": 1791009855,
+   "company": "Pinterest",
+   "hours_open": 31.2,
+   "title": "University Grad Software Engineer",
+   "uid": "simplify:listings:ebb9d3fe-42a0-4635-8ed7-e7da82f8f3d7"
+  },
+  {
+   "closed_at": 1791009855,
+   "company": "Upstaff",
+   "hours_open": 89.9,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50388524"
+  },
+  {
+   "closed_at": 1791009855,
+   "company": "CIeNET International",
+   "hours_open": 24.4,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50408456"
+  },
+  {
+   "closed_at": 1791009855,
+   "company": "Groupe DCM",
+   "hours_open": 355.7,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534670"
+  },
+  {
+   "closed_at": 1791009855,
+   "company": "Maarut",
+   "hours_open": 17.7,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50409104"
+  },
+  {
+   "closed_at": 1791009855,
+   "company": "CTG",
+   "hours_open": 583.1,
+   "title": "Software Engineer 1",
+   "uid": "simplify:listings:2be6f759-96be-4dc7-a468-cf02a80bdef5"
+  },
+  {
+   "closed_at": 1791009855,
+   "company": "In Line Contracting Ltd.",
+   "hours_open": 589.6,
+   "title": "cloud administrator",
+   "uid": "jobbank:cloud administrator:50210134"
+  },
+  {
+   "closed_at": 1791009855,
+   "company": "Study 2020 Consulting INC",
+   "hours_open": 589.6,
+   "title": "network system administrator",
+   "uid": "jobbank:systems administrator:49984747"
+  },
+  {
+   "closed_at": 1791009855,
+   "company": "Logesco Informatique",
+   "hours_open": 578.7,
+   "title": "network administrator",
+   "uid": "jobbank:network administrator:49871595"
+  },
+  {
+   "closed_at": 1791009855,
+   "company": "Superior Property Management",
+   "hours_open": 589.6,
+   "title": "network system administrator",
+   "uid": "jobbank:systems administrator:49651763"
+  },
+  {
+   "closed_at": 1791009855,
+   "company": "Kraft Berger LLP",
+   "hours_open": 589.6,
+   "title": "network administrator",
+   "uid": "jobbank:network administrator:49654254"
+  },
+  {
+   "closed_at": 1791009855,
+   "company": "Northrop Grumman",
+   "hours_open": 79.6,
+   "title": "Associate Software Engineer / Software Engineer",
+   "uid": "simplify:listings:43cec23f-151f-42b8-b94c-23b40da351c5"
+  },
+  {
+   "closed_at": 1791009855,
+   "company": "spacex",
+   "hours_open": 709.5,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
   }
  ],
- "count": 804,
- "updated_at": 1790993922
+ "count": 813,
+ "updated_at": 1791009856
 }
