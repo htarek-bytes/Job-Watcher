@@ -2,34 +2,6 @@
  "closed": [
   {
    "closed_at": 1790706099,
-   "company": "alayacare",
-   "hours_open": 337.4,
-   "title": "Fullstack Developer (Python) - Platform Team",
-   "uid": "greenhouse:alayacare:8811313002"
-  },
-  {
-   "closed_at": 1790706099,
-   "company": "altentechnologyusa",
-   "hours_open": 595.2,
-   "title": "Junior Brake/Suspension Engineer",
-   "uid": "greenhouse:altentechnologyusa:5231655007"
-  },
-  {
-   "closed_at": 1790706099,
-   "company": "telus-digital",
-   "hours_open": 625.4,
-   "title": "React Developer",
-   "uid": "ashby:telus-digital:586f69d8-45bd-4e0b-aadc-5314956e374a"
-  },
-  {
-   "closed_at": 1790706099,
-   "company": "tebra",
-   "hours_open": 638.0,
-   "title": "Software Engineer I",
-   "uid": "greenhouse:tebra:4726985005"
-  },
-  {
-   "closed_at": 1790706099,
    "company": "globalhr",
    "hours_open": 17.9,
    "title": "Software Engineering Intern (Summer 2027)",
@@ -5599,8 +5571,36 @@
    "hours_open": 568.1,
    "title": "First Party Casualty Claims Solutions Consultant",
    "uid": "workday:cccis.wd1/broadbean_external:Senior-Solutions-Engineer--First-Party-Casualty_0014791"
+  },
+  {
+   "closed_at": 1791048749,
+   "company": "Citylitics",
+   "hours_open": 10.7,
+   "title": "data engineer",
+   "uid": "jobbank:infrastructure analyst:50414504"
+  },
+  {
+   "closed_at": 1791048749,
+   "company": "globalhr",
+   "hours_open": 427.3,
+   "title": "Production Test Engineer Intern (Summer 2027)",
+   "uid": "workday:globalhr.wd5/rec_rtx_ext_gateway:Production-Test-Engineer-Intern--Summer-2027-_01872985"
+  },
+  {
+   "closed_at": 1791048749,
+   "company": "spacex",
+   "hours_open": 720.6,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1791048749,
+   "company": "spacex",
+   "hours_open": 720.6,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
   }
  ],
- "count": 808,
- "updated_at": 1791045480
+ "count": 804,
+ "updated_at": 1791048749
 }
