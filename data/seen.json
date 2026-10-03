@@ -1,5 +1,5 @@
 {
- "count": 6785,
+ "count": 6788,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -6548,6 +6548,7 @@
   "workday:pae.wd1/amentum_careers:Entry-Level-Software-Engineer_R0148259": 1789102951,
   "workday:pae.wd1/amentum_careers:Entry-Level-Software-Engineer_R0171030": 1790041773,
   "workday:pae.wd1/amentum_careers:Job-Posting-Title-Junior-Naval-Systems-Security-Engineer_R0170950": 1789683100,
+  "workday:pae.wd1/amentum_careers:Junior-Software-Developer_R0172202": 1790990847,
   "workday:pae.wd1/amentum_careers:Software-Engineer-1_R0171612": 1790643496,
   "workday:pae.wd1/amentum_careers:Software-Engineering-Intern_R0169322": 1788442554,
   "workday:pae.wd1/amentum_careers:Software-Programmer-Intern_R0169775": 1788984410,
@@ -6625,6 +6626,7 @@
   "workday:saabusa.wd1/saab_careers:Software-Engineering-Co-Op--Summer-2027-_R-03237-1": 1788474010,
   "workday:salesforce.wd12/External_Career_Site:Account-Solution-Engineer--Higher-Education_JR359265": 1789425451,
   "workday:salesforce.wd12/External_Career_Site:Account-Solution-Engineer_JR360701": 1790010082,
+  "workday:salesforce.wd12/External_Career_Site:Business-Development-Associate--Early-Career-_JR340479-1": 1790990847,
   "workday:salesforce.wd12/External_Career_Site:Business-Development-Associate_JR347430-1": 1789517822,
   "workday:salesforce.wd12/External_Career_Site:Software-Engineering-AMTS--College-Grad-_JR355250-1": 1790311773,
   "workday:salesforce.wd12/External_Career_Site:Solution-Engineer--Pre-Sales----Informatica_JR331878": 1788984410,
@@ -6632,6 +6634,7 @@
   "workday:salesforce.wd12/External_Career_Site:Specialist-Solution-Engineer_JR358388-1": 1789362913,
   "workday:salesforce.wd12/Futureforce_NewGradRoles:Business-Development-Associate_JR347430": 1788454653,
   "workday:salesforce.wd12/Futureforce_NewGradRoles:Software-Engineering-AMTS--College-Grad-_JR355250": 1788377835,
+  "workday:sandvik.wd3/sandvik-jobs:Solution-Engineer---Integration-Delivery_R0097990": 1790990847,
   "workday:sanofi.wd3/SanofiCareers:XMLNAME-2027-Spring-Co-op-Cyber-Security-Operations-Center--Morristown--NJ_R2854248": 1790052462,
   "workday:santander.wd3/SantanderCareers:SGTO-Software-Engineering-Analyst-I_Req0896874": 1788377835,
   "workday:sec.wd3/Samsung_Careers:AMHS-Entry-level-Engineer_R120379": 1789517822,
@@ -6786,5 +6789,6 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Junior-Algorithm-Engineer_R19377": 1788377927,
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148,
   "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541": 1789106107
- }
+ },
+ "updated_at": 1790990847
 }
