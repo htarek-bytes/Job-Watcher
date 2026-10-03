@@ -2,20 +2,6 @@
  "closed": [
   {
    "closed_at": 1790687282,
-   "company": "SGS",
-   "hours_open": 86.4,
-   "title": "AVEVA Enterprise SCADA Specialist",
-   "uid": "smartrecruiters:SGS:744000151908829"
-  },
-  {
-   "closed_at": 1790687282,
-   "company": "ServiceNow",
-   "hours_open": 86.4,
-   "title": "Advisory Presales Solution Consultant, Public Sector (Justice & Policing)",
-   "uid": "smartrecruiters:ServiceNow:744000151897539"
-  },
-  {
-   "closed_at": 1790687282,
    "company": "ServiceNow",
    "hours_open": 134.9,
    "title": "Advisory Solution Consultant - Intelligent Automation",
@@ -5599,8 +5585,22 @@
    "hours_open": 589.8,
    "title": "Administrateur réseau",
    "uid": "jobillico:analyste reseau:17185045"
+  },
+  {
+   "closed_at": 1791015413,
+   "company": "spacex",
+   "hours_open": 708.4,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1791015413,
+   "company": "spacex",
+   "hours_open": 711.0,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
   }
  ],
- "count": 809,
- "updated_at": 1791010699
+ "count": 802,
+ "updated_at": 1791015414
 }
