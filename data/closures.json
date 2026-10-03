@@ -2,13 +2,6 @@
  "closed": [
   {
    "closed_at": 1790691024,
-   "company": "aero",
-   "hours_open": 445.5,
-   "title": "Junior Frontend Designer & Developer",
-   "uid": "workday:aero.wd5/external:Junior-Frontend-Designer---Developer_R016551"
-  },
-  {
-   "closed_at": 1790691024,
    "company": "avnet",
    "hours_open": 119.8,
    "title": "Technical Sales Engineer - AMD/Xilinx",
@@ -5599,8 +5592,15 @@
    "hours_open": 715.5,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1791034071,
+   "company": "Kativik Ilisarniliriniq (La commission scolaire du Nunavik)",
+   "hours_open": 24.5,
+   "title": "network analyst",
+   "uid": "jobbank:network analyst:50409133"
   }
  ],
- "count": 806,
- "updated_at": 1791030332
+ "count": 801,
+ "updated_at": 1791034072
 }
