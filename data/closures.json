@@ -1,27 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1790687282,
-   "company": "ServiceNow",
-   "hours_open": 134.9,
-   "title": "Advisory Solution Consultant - Intelligent Automation",
-   "uid": "smartrecruiters:ServiceNow:744000151475809"
-  },
-  {
-   "closed_at": 1790687282,
-   "company": "Wise",
-   "hours_open": 158.4,
-   "title": "Presales Consultant",
-   "uid": "smartrecruiters:Wise:744000150462789"
-  },
-  {
-   "closed_at": 1790687927,
-   "company": "Groupe DCM",
-   "hours_open": 266.2,
-   "title": "Programmeur CNC / CNC Programmer",
-   "uid": "jobillico:programmeur junior:17534670"
-  },
-  {
    "closed_at": 1790687927,
    "company": "Vector Atomic",
    "hours_open": 639.3,
@@ -5599,8 +5578,29 @@
    "hours_open": 711.0,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1791029165,
+   "company": "Citylitics",
+   "hours_open": 5.3,
+   "title": "data engineer",
+   "uid": "jobbank:infrastructure analyst:50414504"
+  },
+  {
+   "closed_at": 1791029165,
+   "company": "Gameloft",
+   "hours_open": 117.5,
+   "title": "developer, software",
+   "uid": "jobbank:developpeur junior:50357103"
+  },
+  {
+   "closed_at": 1791029165,
+   "company": "RTX",
+   "hours_open": 85.0,
+   "title": "FPGA/ASIC Engineer 1",
+   "uid": "simplify:listings:39a165c3-e820-4ef1-b39b-29ebba0b2635"
   }
  ],
- "count": 802,
- "updated_at": 1791015414
+ "count": 803,
+ "updated_at": 1791029166
 }
