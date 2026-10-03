@@ -2,13 +2,6 @@
  "closed": [
   {
    "closed_at": 1790706099,
-   "company": "eversource",
-   "hours_open": 332.1,
-   "title": "Associate Engineer, Transmission System Planning (MA, CT, NH)",
-   "uid": "workday:eversource.wd1/ExternalSite:Associate-Engineer--Transmission-System-Planning--MA--CT--NH-_R-031081"
-  },
-  {
-   "closed_at": 1790706099,
    "company": "ebi",
    "hours_open": 17.9,
    "title": "Product Engineer Intern",
@@ -5599,8 +5592,15 @@
    "hours_open": 722.0,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1791055302,
+   "company": "nc",
+   "hours_open": 114.4,
+   "title": "Engineer I",
+   "uid": "workday:nc.wd108/NC_Careers:Engineer-I_JR-125146"
   }
  ],
- "count": 805,
- "updated_at": 1791054960
+ "count": 801,
+ "updated_at": 1791055302
 }
