@@ -2,20 +2,6 @@
  "closed": [
   {
    "closed_at": 1790707348,
-   "company": "pae",
-   "hours_open": 17.7,
-   "title": "Software Engineer 1",
-   "uid": "workday:pae.wd1/amentum_careers:Software-Engineer-1_R0171612"
-  },
-  {
-   "closed_at": 1790707348,
-   "company": "Cooptel",
-   "hours_open": 505.6,
-   "title": "Administrateur réseau",
-   "uid": "jobillico:analyste reseau:17185045"
-  },
-  {
-   "closed_at": 1790707348,
    "company": "micron",
    "hours_open": 89.0,
    "title": "Intern - Process Development Engineer, DRAM Thin Films",
@@ -5599,8 +5585,22 @@
    "hours_open": 596.6,
    "title": "IT Specialist I",
    "uid": "greenhouse:aegworldwide:8729947002"
+  },
+  {
+   "closed_at": 1791065794,
+   "company": "Citylitics",
+   "hours_open": 15.4,
+   "title": "data engineer",
+   "uid": "jobbank:infrastructure analyst:50414504"
+  },
+  {
+   "closed_at": 1791065794,
+   "company": "spacex",
+   "hours_open": 722.4,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
   }
  ],
- "count": 803,
- "updated_at": 1791065524
+ "count": 802,
+ "updated_at": 1791065794
 }
