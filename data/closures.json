@@ -1,20 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1790667206,
-   "company": "plus-2",
-   "hours_open": 611.7,
-   "title": "Perception Validation Engineer",
-   "uid": "lever:plus-2:0c342721-601c-4466-b503-5b18438064c2"
-  },
-  {
-   "closed_at": 1790667206,
-   "company": "spacex",
-   "hours_open": 614.6,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
    "closed_at": 1790686173,
    "company": "Bosch Group",
    "hours_open": 16.5,
@@ -5599,8 +5585,22 @@
    "hours_open": 709.5,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1791010186,
+   "company": "Harvey",
+   "hours_open": 7.2,
+   "title": "Software Engineer New Grad",
+   "uid": "simplify:listings:867c063f-636d-4f77-bf08-decee4955762"
+  },
+  {
+   "closed_at": 1791010186,
+   "company": "Cooptel",
+   "hours_open": 589.7,
+   "title": "Administrateur réseau",
+   "uid": "jobillico:analyste reseau:17185045"
   }
  ],
- "count": 813,
- "updated_at": 1791009856
+ "count": 802,
+ "updated_at": 1791010187
 }
