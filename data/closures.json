@@ -1,27 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1790707195,
-   "company": "labcorp",
-   "hours_open": 356.2,
-   "title": "Intern - Software Developer",
-   "uid": "workday:labcorp.wd1/external:Intern---Software-Developer_2632330"
-  },
-  {
-   "closed_at": 1790707195,
-   "company": "twitch",
-   "hours_open": 625.7,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1790707195,
-   "company": "haier",
-   "hours_open": 629.1,
-   "title": "Software Engineering Co-op_Fall 2027",
-   "uid": "workday:haier.wd3/ge_appliances:Software-Engineering-Co-op-Fall-2027_REQ-26592"
-  },
-  {
    "closed_at": 1790707348,
    "company": "pae",
    "hours_open": 17.7,
@@ -5599,8 +5578,29 @@
    "hours_open": 721.5,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1791065524,
+   "company": "Groupe DCM",
+   "hours_open": 377.3,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534679"
+  },
+  {
+   "closed_at": 1791065524,
+   "company": "Source Code",
+   "hours_open": 33.2,
+   "title": "software developer",
+   "uid": "jobbank:entry level software developer:50406278"
+  },
+  {
+   "closed_at": 1791065524,
+   "company": "aegworldwide",
+   "hours_open": 596.6,
+   "title": "IT Specialist I",
+   "uid": "greenhouse:aegworldwide:8729947002"
   }
  ],
- "count": 804,
- "updated_at": 1791058131
+ "count": 803,
+ "updated_at": 1791065524
 }
