@@ -2,27 +2,6 @@
  "closed": [
   {
    "closed_at": 1790687927,
-   "company": "Vector Atomic",
-   "hours_open": 639.3,
-   "title": "Associate Engineer - Firmware",
-   "uid": "workable:vectoratomic:00C9C6A8E4"
-  },
-  {
-   "closed_at": 1790687927,
-   "company": "RTX",
-   "hours_open": 347.7,
-   "title": "Software Engineer New Grad",
-   "uid": "simplify:listings:8aa31162-4140-4408-a6ca-0e51e890da86"
-  },
-  {
-   "closed_at": 1790687927,
-   "company": "Saalex",
-   "hours_open": 318.9,
-   "title": "Software Developer",
-   "uid": "workable:saalex:8F23C40C49"
-  },
-  {
-   "closed_at": 1790687927,
    "company": "Saalex",
    "hours_open": 318.9,
    "title": "Junior Systems Administrator",
@@ -5599,8 +5578,29 @@
    "hours_open": 85.0,
    "title": "FPGA/ASIC Engineer 1",
    "uid": "simplify:listings:39a165c3-e820-4ef1-b39b-29ebba0b2635"
+  },
+  {
+   "closed_at": 1791029383,
+   "company": "IMP Solutions",
+   "hours_open": 23.2,
+   "title": "network administrator",
+   "uid": "jobbank:network administrator:50409171"
+  },
+  {
+   "closed_at": 1791029383,
+   "company": "Cooptel",
+   "hours_open": 595.0,
+   "title": "Administrateur réseau",
+   "uid": "jobillico:analyste reseau:17185045"
+  },
+  {
+   "closed_at": 1791029383,
+   "company": "woven-by-toyota",
+   "hours_open": 712.3,
+   "title": "Software Engineer - Data Workflows",
+   "uid": "lever:woven-by-toyota:ba39a024-c4c3-4966-a696-95db0e1dc445"
   }
  ],
  "count": 803,
- "updated_at": 1791029166
+ "updated_at": 1791029383
 }
