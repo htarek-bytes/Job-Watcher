@@ -2,13 +2,6 @@
  "closed": [
   {
    "closed_at": 1790707348,
-   "company": "micron",
-   "hours_open": 89.0,
-   "title": "Intern - Process Development Engineer, DRAM Thin Films",
-   "uid": "workday:micron.wd1/External:Intern---Process-Development-Engineer--DRAM-Thin-Films_JR107203"
-  },
-  {
-   "closed_at": 1790707348,
    "company": "philips",
    "hours_open": 426.6,
    "title": "Intern– Design Assurance Engineer – Colorado Springs, CO – Summer 2027",
@@ -5599,8 +5592,15 @@
    "hours_open": 722.4,
    "title": "Security Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1791065963,
+   "company": "Groupe DCM",
+   "hours_open": 371.2,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534670"
   }
  ],
- "count": 802,
- "updated_at": 1791065794
+ "count": 801,
+ "updated_at": 1791065963
 }
