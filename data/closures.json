@@ -1,62 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1790723272,
-   "company": "RTX",
-   "hours_open": 95.8,
-   "title": "Software Engineer 1",
-   "uid": "simplify:listings:8593e14d-835b-423d-8b1c-eb67b2318a92"
-  },
-  {
-   "closed_at": 1790723435,
-   "company": "Groupe DCM",
-   "hours_open": 282.2,
-   "title": "Programmeur CNC / CNC Programmer",
-   "uid": "jobillico:programmeur junior:17534679"
-  },
-  {
-   "closed_at": 1790731882,
-   "company": "Groupe DCM",
-   "hours_open": 278.4,
-   "title": "Programmeur CNC / CNC Programmer",
-   "uid": "jobillico:programmeur junior:17534670"
-  },
-  {
-   "closed_at": 1790731882,
-   "company": "kraken-robotics-inc",
-   "hours_open": 171.4,
-   "title": "Cybersecurity Specialist",
-   "uid": "rippling:kraken-robotics-inc:3c421826-aff1-41de-bca9-c10295d91b8d"
-  },
-  {
-   "closed_at": 1790731882,
-   "company": "tenstorrent",
-   "hours_open": 632.6,
-   "title": "Systems Engineer, Data Center Debug",
-   "uid": "greenhouse:tenstorrent:5143663007"
-  },
-  {
-   "closed_at": 1790731882,
-   "company": "iManage",
-   "hours_open": 146.3,
-   "title": "Applied AI Engineer New Grad",
-   "uid": "simplify:listings:cc4a8dbb-c15d-4fd8-a1fe-4ac7bffa903e"
-  },
-  {
-   "closed_at": 1790731882,
-   "company": "twitch",
-   "hours_open": 632.6,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1790731882,
-   "company": "scaleai",
-   "hours_open": 632.6,
-   "title": "Software Engineer, Identity",
-   "uid": "greenhouse:scaleai:4710484005"
-  },
-  {
    "closed_at": 1790731882,
    "company": "scaleai",
    "hours_open": 632.6,
@@ -5599,8 +5543,64 @@
    "hours_open": 777.9,
    "title": "Junior Software Developer - Active TS/SCI with Poly Required",
    "uid": "simplify:listings:36c9b7b4-9e96-49e9-adda-25c5ec121022"
+  },
+  {
+   "closed_at": 1791133391,
+   "company": "Cooptel",
+   "hours_open": 623.9,
+   "title": "Administrateur réseau",
+   "uid": "jobillico:analyste reseau:17185045"
+  },
+  {
+   "closed_at": 1791133391,
+   "company": "CoStar Group",
+   "hours_open": 65.5,
+   "title": "Associate Software Engineer",
+   "uid": "simplify:listings:4430d739-ddf1-4b1c-966a-d5e29f89a980"
+  },
+  {
+   "closed_at": 1791133391,
+   "company": "Lightmatter",
+   "hours_open": 16.4,
+   "title": "Silicon Packaging Engineer Intern & New Grad",
+   "uid": "simplify:listings:1e8644d0-127c-4750-bfbf-36aa12cae932"
+  },
+  {
+   "closed_at": 1791133391,
+   "company": "YO AI Labs",
+   "hours_open": 2.8,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50315211"
+  },
+  {
+   "closed_at": 1791133391,
+   "company": "Source Code",
+   "hours_open": 2.8,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50419493"
+  },
+  {
+   "closed_at": 1791133391,
+   "company": "Richie It Solutions Inc",
+   "hours_open": 140.8,
+   "title": "software developer",
+   "uid": "jobbank:developpeur junior:50357104"
+  },
+  {
+   "closed_at": 1791133391,
+   "company": "Peraton",
+   "hours_open": 41.5,
+   "title": "Artificial Intelligence/Machine Learning Engineer 1",
+   "uid": "simplify:listings:979c2a8d-5e79-4fc8-b155-4081978b94aa"
+  },
+  {
+   "closed_at": 1791133391,
+   "company": "RTX",
+   "hours_open": 425.3,
+   "title": "Electrical Computer-Aided Design Engineer 1",
+   "uid": "simplify:listings:938e545a-d865-454b-a353-80ef26b0f317"
   }
  ],
- "count": 810,
- "updated_at": 1791123387
+ "count": 808,
+ "updated_at": 1791133394
 }
