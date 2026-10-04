@@ -2,13 +2,6 @@
  "closed": [
   {
    "closed_at": 1790732007,
-   "company": "kraken-robotics-inc",
-   "hours_open": 171.5,
-   "title": "Cybersecurity Specialist",
-   "uid": "rippling:kraken-robotics-inc:3c421826-aff1-41de-bca9-c10295d91b8d"
-  },
-  {
-   "closed_at": 1790732007,
    "company": "tenstorrent",
    "hours_open": 632.6,
    "title": "Systems Engineer, Data Center Debug",
@@ -5599,8 +5592,15 @@
    "hours_open": 781.9,
    "title": "Software Engineer New Grad",
    "uid": "simplify:listings:00142abd-9aec-4fca-9c8d-b46f6fb762d2"
+  },
+  {
+   "closed_at": 1791144407,
+   "company": "Source Code",
+   "hours_open": 5.8,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50419493"
   }
  ],
- "count": 804,
- "updated_at": 1791137587
+ "count": 801,
+ "updated_at": 1791144407
 }
