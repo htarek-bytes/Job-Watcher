@@ -2,55 +2,6 @@
  "closed": [
   {
    "closed_at": 1790721061,
-   "company": "datadog",
-   "hours_open": 547.5,
-   "title": "Partner Technology Solutions Engineer",
-   "uid": "greenhouse:datadog:7961297"
-  },
-  {
-   "closed_at": 1790721061,
-   "company": "ziprecruiter",
-   "hours_open": 108.6,
-   "title": "Software Engineer,  Tech Ops",
-   "uid": "greenhouse:ziprecruiter:7927670"
-  },
-  {
-   "closed_at": 1790721061,
-   "company": "accenturefederalservices",
-   "hours_open": 629.6,
-   "title": "Extend Developer",
-   "uid": "greenhouse:accenturefederalservices:4598778006"
-  },
-  {
-   "closed_at": 1790721061,
-   "company": "Dinter Nursery",
-   "hours_open": 509.4,
-   "title": "cloud administrator",
-   "uid": "jobbank:cloud administrator:50186958"
-  },
-  {
-   "closed_at": 1790721061,
-   "company": "Lakeland Roman Catholic Separate School Division",
-   "hours_open": 509.4,
-   "title": "computer systems analyst",
-   "uid": "jobbank:systems analyst:50064831"
-  },
-  {
-   "closed_at": 1790721061,
-   "company": "NVIDIA",
-   "hours_open": 666.2,
-   "title": "Applied Machine Learning Engineer New Grad - Circuit Design",
-   "uid": "simplify:listings:2184ba51-9029-4b0d-956c-e66d880ffe74"
-  },
-  {
-   "closed_at": 1790721061,
-   "company": "D3 Security Management Systems Inc",
-   "hours_open": 264.0,
-   "title": "cybersecurity specialist",
-   "uid": "jobbank:specialiste infrastructure:50317565"
-  },
-  {
-   "closed_at": 1790721061,
    "company": "spacex",
    "hours_open": 626.6,
    "title": "Security Software Engineer (Starlink)",
@@ -5599,8 +5550,57 @@
    "hours_open": 79.6,
    "title": "Product Engineer Intern, BS - Summer 2027",
    "uid": "workday:marvell.wd1/MarvellCareers:Product-Engineer-Intern--BS---Summer-2027_2603839-1"
+  },
+  {
+   "closed_at": 1791102425,
+   "company": "Applied Materials",
+   "hours_open": 102.8,
+   "title": "System Engineer New Grad - Material Characterization",
+   "uid": "simplify:listings:122de6b6-a5fb-47fe-a89c-8b620399e46b"
+  },
+  {
+   "closed_at": 1791102425,
+   "company": "salesforce",
+   "hours_open": 735.5,
+   "title": "Business Development Associate, Early Career",
+   "uid": "workday:salesforce.wd12/Futureforce_NewGradRoles:Business-Development-Associate_JR347430"
+  },
+  {
+   "closed_at": 1791102425,
+   "company": "relx",
+   "hours_open": 754.5,
+   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - January)",
+   "uid": "workday:relx.wd3/RiskSolutions:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617"
+  },
+  {
+   "closed_at": 1791102425,
+   "company": "relx",
+   "hours_open": 754.5,
+   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - June)",
+   "uid": "workday:relx.wd3/RiskSolutions:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-1"
+  },
+  {
+   "closed_at": 1791102425,
+   "company": "relx",
+   "hours_open": 754.5,
+   "title": "Tech Accelerate Graduate Program - Software Engineer (Boca Raton - June)",
+   "uid": "workday:relx.wd3/RiskSolutions:Tech-Accelerate-Graduate-Program---Software-Engineer--Boca-Raton---June-_R116023-2"
+  },
+  {
+   "closed_at": 1791102425,
+   "company": "Northrop Grumman",
+   "hours_open": 110.1,
+   "title": "Associate Software Engineer - McClellan CA",
+   "uid": "simplify:listings:5e53dcd6-2301-48d9-8010-f0ddb4a2a434"
+  },
+  {
+   "closed_at": 1791102425,
+   "company": "spacex",
+   "hours_open": 735.5,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
   }
  ],
- "count": 801,
- "updated_at": 1791098836
+ "count": 807,
+ "updated_at": 1791102426
 }
