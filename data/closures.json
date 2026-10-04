@@ -2,27 +2,6 @@
  "closed": [
   {
    "closed_at": 1790710013,
-   "company": "rockwellautomation",
-   "hours_open": 185.6,
-   "title": "Intern, Technical Sales & Consulting (USA)",
-   "uid": "workday:rockwellautomation.wd1/External_Rockwell_Automation:Intern--Technical-Sales---Consulting--USA-_R26-5962-2"
-  },
-  {
-   "closed_at": 1790710013,
-   "company": "rockwellautomation",
-   "hours_open": 185.6,
-   "title": "Intern, Technical Sales & Consulting (Canada)",
-   "uid": "workday:rockwellautomation.wd1/External_Rockwell_Automation:Intern--Technical-Sales---Consulting--Canada-_R26-5965-2"
-  },
-  {
-   "closed_at": 1790710013,
-   "company": "relx",
-   "hours_open": 645.5,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - January)",
-   "uid": "workday:relx.wd3/RiskSolutions:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617"
-  },
-  {
-   "closed_at": 1790710013,
    "company": "relx",
    "hours_open": 645.5,
    "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - June)",
@@ -5599,8 +5578,29 @@
    "hours_open": 28.8,
    "title": "software developer",
    "uid": "jobbank:junior software developer:50410673"
+  },
+  {
+   "closed_at": 1791075791,
+   "company": "Zaber Technologies",
+   "hours_open": 187.8,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50371059"
+  },
+  {
+   "closed_at": 1791075791,
+   "company": "YO AI Labs",
+   "hours_open": 367.7,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50315027"
+  },
+  {
+   "closed_at": 1791075791,
+   "company": "Kativik Ilisarniliriniq (La commission scolaire du Nunavik)",
+   "hours_open": 36.1,
+   "title": "network analyst",
+   "uid": "jobbank:network analyst:50409133"
   }
  ],
- "count": 802,
- "updated_at": 1791074876
+ "count": 803,
+ "updated_at": 1791075792
 }
