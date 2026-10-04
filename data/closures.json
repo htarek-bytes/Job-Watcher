@@ -2,13 +2,6 @@
  "closed": [
   {
    "closed_at": 1790721636,
-   "company": "snowflake",
-   "hours_open": 112.6,
-   "title": "Software Engineer Intern (Core, Infrastructure & Security) — Spring 2027",
-   "uid": "ashby:snowflake:5315b6f6-2c14-4cb9-a884-c2bae69f2c69"
-  },
-  {
-   "closed_at": 1790721636,
    "company": "people-culture-talent",
    "hours_open": 481.3,
    "title": "Founding Engineer ",
@@ -5599,8 +5592,15 @@
    "hours_open": 385.8,
    "title": "Programmeur CNC / CNC Programmer",
    "uid": "jobillico:programmeur junior:17534670"
+  },
+  {
+   "closed_at": 1791120286,
+   "company": "Cooptel",
+   "hours_open": 620.3,
+   "title": "Administrateur réseau",
+   "uid": "jobillico:analyste reseau:17185045"
   }
  ],
  "count": 801,
- "updated_at": 1791118539
+ "updated_at": 1791120287
 }
