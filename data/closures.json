@@ -2,13 +2,6 @@
  "closed": [
   {
    "closed_at": 1790731882,
-   "company": "scaleai",
-   "hours_open": 632.6,
-   "title": "Software Engineer, Platform",
-   "uid": "greenhouse:scaleai:4594879005"
-  },
-  {
-   "closed_at": 1790731882,
    "company": "spacex",
    "hours_open": 632.6,
    "title": "Security Software Engineer (Starlink)",
@@ -5599,8 +5592,15 @@
    "hours_open": 425.3,
    "title": "Electrical Computer-Aided Design Engineer 1",
    "uid": "simplify:listings:938e545a-d865-454b-a353-80ef26b0f317"
+  },
+  {
+   "closed_at": 1791133716,
+   "company": "spacex",
+   "hours_open": 741.2,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
   }
  ],
- "count": 808,
- "updated_at": 1791133394
+ "count": 801,
+ "updated_at": 1791133716
 }
