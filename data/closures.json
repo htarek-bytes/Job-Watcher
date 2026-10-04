@@ -2,13 +2,6 @@
  "closed": [
   {
    "closed_at": 1790732305,
-   "company": "Bosch Group",
-   "hours_open": 12.8,
-   "title": "[EAB] Embedded Software Engineer Intern (C/C++)",
-   "uid": "smartrecruiters:BoschGroup:744000152335630"
-  },
-  {
-   "closed_at": 1790732305,
    "company": "AECOM",
    "hours_open": 29.3,
    "title": "Entry Level Water/Wastewater Engineer",
@@ -5599,8 +5592,15 @@
    "hours_open": 744.5,
    "title": "Security Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1791145854,
+   "company": "iberdrola",
+   "hours_open": 575.7,
+   "title": "Associate Engineer - Distribution Planning",
+   "uid": "workday:iberdrola.wd3/iberdrola:Associate-Engineer---Distribution-Planning_R-30914"
   }
  ],
- "count": 806,
- "updated_at": 1791145346
+ "count": 801,
+ "updated_at": 1791145854
 }
