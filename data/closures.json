@@ -3,20 +3,6 @@
   {
    "closed_at": 1790710013,
    "company": "rockwellautomation",
-   "hours_open": 110.6,
-   "title": "Co-op, Embedded Software Engineer (Spring or Fall 2027)",
-   "uid": "workday:rockwellautomation.wd1/External_Rockwell_Automation:Spring-2027-Co-op--Embedded-Software-Engineer--January-2027---August-2027-_R26-3473-1"
-  },
-  {
-   "closed_at": 1790710013,
-   "company": "rockwellautomation",
-   "hours_open": 89.4,
-   "title": "Intern, AI Software Engineering (June-August 2027)",
-   "uid": "workday:rockwellautomation.wd1/External_Rockwell_Automation:Intern--AI-Software-Engineering--June-August-2027-_R26-6980-1"
-  },
-  {
-   "closed_at": 1790710013,
-   "company": "rockwellautomation",
    "hours_open": 89.4,
    "title": "Co-op, AI Software Engineering (6-8 months)",
    "uid": "workday:rockwellautomation.wd1/External_Rockwell_Automation:Co-op--AI-Software-Engineering--6-8-months-_R26-6982-1"
@@ -5599,8 +5585,22 @@
    "hours_open": 723.0,
    "title": "Security Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1791074361,
+   "company": "Zaber Technologies",
+   "hours_open": 187.4,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50371059"
+  },
+  {
+   "closed_at": 1791074361,
+   "company": "YO AI Labs",
+   "hours_open": 367.3,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50315027"
   }
  ],
- "count": 807,
- "updated_at": 1791067987
+ "count": 802,
+ "updated_at": 1791074362
 }
