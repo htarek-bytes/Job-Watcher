@@ -2,20 +2,6 @@
  "closed": [
   {
    "closed_at": 1790721061,
-   "company": "Groupe DCM",
-   "hours_open": 281.6,
-   "title": "Programmeur CNC / CNC Programmer",
-   "uid": "jobillico:programmeur junior:17534679"
-  },
-  {
-   "closed_at": 1790721061,
-   "company": "GENERIX GROUPE",
-   "hours_open": 440.8,
-   "title": "applications analyst - computer systems",
-   "uid": "jobbank:systems analyst:50265246"
-  },
-  {
-   "closed_at": 1790721061,
    "company": "Edgecom Energy",
    "hours_open": 492.6,
    "title": "computer systems analyst",
@@ -5599,8 +5585,22 @@
    "hours_open": 613.2,
    "title": "computer systems analyst",
    "uid": "jobbank:systems analyst:50201711"
+  },
+  {
+   "closed_at": 1791095306,
+   "company": "YO AI Labs",
+   "hours_open": 34.5,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50410673"
+  },
+  {
+   "closed_at": 1791095306,
+   "company": "Source Code",
+   "hours_open": 288.5,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50337559"
   }
  ],
- "count": 808,
- "updated_at": 1791094975
+ "count": 802,
+ "updated_at": 1791095307
 }
