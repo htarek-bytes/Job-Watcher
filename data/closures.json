@@ -1,104 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1790721061,
-   "company": "spacex",
-   "hours_open": 626.6,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1790721061,
-   "company": "spacex",
-   "hours_open": 629.6,
-   "title": "Facilities Mechanical HVAC Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8599299002"
-  },
-  {
-   "closed_at": 1790721061,
-   "company": "accenturefederalservices",
-   "hours_open": 629.6,
-   "title": " SAP HANA Developer",
-   "uid": "greenhouse:accenturefederalservices:4650351006"
-  },
-  {
-   "closed_at": 1790721061,
-   "company": "Amazon",
-   "hours_open": 120.0,
-   "title": "Software Development Engineer Intern, Amazon Leo - Summer 2027 (USA)",
-   "uid": "amazon:amazon:10559762"
-  },
-  {
-   "closed_at": 1790721523,
-   "company": "retell-ai",
-   "hours_open": 418.2,
-   "title": "Forward Deployed Engineer, New Grad",
-   "uid": "ashby:retell-ai:161bcfc9-56dd-4d0c-869d-e5de1431a940"
-  },
-  {
-   "closed_at": 1790721523,
-   "company": "snowflake",
-   "hours_open": 112.6,
-   "title": "Software Engineer Intern (AI / ML) - Spring 2027",
-   "uid": "ashby:snowflake:4be290ae-dd9d-488c-9d90-56fcd69101ca"
-  },
-  {
-   "closed_at": 1790721523,
-   "company": "snowflake",
-   "hours_open": 112.6,
-   "title": "Software Engineer Intern (Database Engineering) - Spring 2027",
-   "uid": "ashby:snowflake:7bd393df-67d7-4009-ba4f-1cd79a82b0be"
-  },
-  {
-   "closed_at": 1790721523,
-   "company": "snowflake",
-   "hours_open": 112.6,
-   "title": "Software Engineer Intern (Core, Infrastructure & Security) — Spring 2027",
-   "uid": "ashby:snowflake:5315b6f6-2c14-4cb9-a884-c2bae69f2c69"
-  },
-  {
-   "closed_at": 1790721523,
-   "company": "people-culture-talent",
-   "hours_open": 481.3,
-   "title": "Founding Engineer ",
-   "uid": "ashby:people-culture-talent:02840194-4fef-4446-b0bb-694a4186e16d"
-  },
-  {
-   "closed_at": 1790721523,
-   "company": "Groupe DCM",
-   "hours_open": 275.6,
-   "title": "Programmeur CNC / CNC Programmer",
-   "uid": "jobillico:programmeur junior:17534670"
-  },
-  {
-   "closed_at": 1790721523,
-   "company": "radiant-industries",
-   "hours_open": 276.6,
-   "title": "Build Engineer, Turbomachinery - 2026 New Graduate",
-   "uid": "ashby:radiant-industries:a078f0fe-56dd-4add-a8ff-f0dd4fe7ce43"
-  },
-  {
-   "closed_at": 1790721523,
-   "company": "opengov",
-   "hours_open": 194.4,
-   "title": "Intern, Software Engineer",
-   "uid": "ashby:opengov:c31622c1-be01-4d4a-b7cf-d116be84cc08"
-  },
-  {
-   "closed_at": 1790721523,
-   "company": "L3Harris Technologies",
-   "hours_open": 4.3,
-   "title": "Associate Software Engineer",
-   "uid": "simplify:listings:09f77798-c3bb-40b8-8b28-a90ef55e1885"
-  },
-  {
-   "closed_at": 1790721523,
-   "company": "siftstack",
-   "hours_open": 626.6,
-   "title": "Software Engineer, Full Stack",
-   "uid": "ashby:siftstack:6de6e754-b953-4e8d-a2ce-f56fcfd3031f"
-  },
-  {
    "closed_at": 1790721523,
    "company": "siftstack",
    "hours_open": 626.6,
@@ -5599,8 +5501,106 @@
    "hours_open": 735.5,
    "title": "Security Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1791117516,
+   "company": "usaa",
+   "hours_open": 63.5,
+   "title": "Software Engineer I",
+   "uid": "workday:usaa.wd1/USAAJOBSWD:Software-Engineer-I_R0120356"
+  },
+  {
+   "closed_at": 1791117516,
+   "company": "Infinity Solutions",
+   "hours_open": 218.1,
+   "title": "software developer",
+   "uid": "jobbank:entry level software developer:50364353"
+  },
+  {
+   "closed_at": 1791117516,
+   "company": "Texas Sports Academy",
+   "hours_open": 82.5,
+   "title": "Junior AI Software Engineer",
+   "uid": "simplify:listings:986968af-4a3a-4038-96dc-9caaa8a58066"
+  },
+  {
+   "closed_at": 1791117516,
+   "company": "Torch Technologies",
+   "hours_open": 61.1,
+   "title": "Test Engineer 1",
+   "uid": "simplify:listings:7ffd3d23-3792-4109-944f-003c27bae59c"
+  },
+  {
+   "closed_at": 1791117516,
+   "company": "td",
+   "hours_open": 387.1,
+   "title": "2027 Summer Internship Program - Global Technology & Solutions - Software Engineer (SWE)",
+   "uid": "workday:td.wd3/TD_Bank_Careers:XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Software-Engineer--SWE-_R_1510796-1"
+  },
+  {
+   "closed_at": 1791117516,
+   "company": "Spirit AeroSystems",
+   "hours_open": 709.4,
+   "title": "Entry-Level Software Engineer",
+   "uid": "simplify:listings:01526870-c76a-40bc-981b-2617e593fde3"
+  },
+  {
+   "closed_at": 1791117516,
+   "company": "Conduent",
+   "hours_open": 776.3,
+   "title": "Java Developer – Entry Level",
+   "uid": "simplify:listings:167abad4-6ad1-4afd-ac76-a97071a7a67b"
+  },
+  {
+   "closed_at": 1791117516,
+   "company": "Texas Sports Academy",
+   "hours_open": 776.3,
+   "title": "Junior Software Engineer - AI-Forward",
+   "uid": "simplify:listings:49643f6b-95e6-4d37-af1d-1118ce4439cd"
+  },
+  {
+   "closed_at": 1791117516,
+   "company": "Nevada National Security Site",
+   "hours_open": 745.0,
+   "title": "Engineer 1",
+   "uid": "simplify:listings:e7f0ce3f-e527-412c-b9b8-75e5fe921c9d"
+  },
+  {
+   "closed_at": 1791117516,
+   "company": "Bland AI",
+   "hours_open": 410.3,
+   "title": "Agent Solutions Engineer",
+   "uid": "simplify:listings:620b1a82-ef4d-4465-882e-beb889f347d0"
+  },
+  {
+   "closed_at": 1791117516,
+   "company": "Berkshire Hathaway Energy",
+   "hours_open": 739.7,
+   "title": "Systems & Development Analyst 1",
+   "uid": "simplify:listings:727bca38-2bd8-4617-9787-7d0297465286"
+  },
+  {
+   "closed_at": 1791117516,
+   "company": "Peraton",
+   "hours_open": 750.1,
+   "title": "Entry-Level Systems Engineer",
+   "uid": "simplify:listings:fe6bef22-123f-4be3-bc91-d205cf1b4c6e"
+  },
+  {
+   "closed_at": 1791117516,
+   "company": "spacex",
+   "hours_open": 736.7,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1791117516,
+   "company": "Draper",
+   "hours_open": 723.7,
+   "title": "System Integration and Test Engineer 1",
+   "uid": "simplify:listings:f638a7a9-7858-44cf-a52d-23c7ec258ad8"
   }
  ],
- "count": 807,
- "updated_at": 1791102426
+ "count": 814,
+ "updated_at": 1791117517
 }
