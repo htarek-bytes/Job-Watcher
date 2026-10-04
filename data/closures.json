@@ -1,34 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1790731882,
-   "company": "spacex",
-   "hours_open": 632.6,
-   "title": "FPGA/ASIC Design Engineer (Silicon Engineering)",
-   "uid": "greenhouse:spacex:8560022002"
-  },
-  {
-   "closed_at": 1790731882,
-   "company": "spacex",
-   "hours_open": 632.6,
-   "title": "RTL Design Engineer (Silicon Engineering)",
-   "uid": "greenhouse:spacex:8466346002"
-  },
-  {
-   "closed_at": 1790732007,
-   "company": "Groupe DCM",
-   "hours_open": 278.5,
-   "title": "Programmeur CNC / CNC Programmer",
-   "uid": "jobillico:programmeur junior:17534670"
-  },
-  {
-   "closed_at": 1790732007,
-   "company": "Cooptel",
-   "hours_open": 512.4,
-   "title": "Administrateur réseau",
-   "uid": "jobillico:analyste reseau:17185045"
-  },
-  {
    "closed_at": 1790732007,
    "company": "kraken-robotics-inc",
    "hours_open": 171.5,
@@ -5599,8 +5571,36 @@
    "hours_open": 781.4,
    "title": "Software Engineer – University Graduate",
    "uid": "simplify:listings:410b28b6-b357-4b72-9480-bad83701b4cb"
+  },
+  {
+   "closed_at": 1791137587,
+   "company": "ADECCO",
+   "hours_open": 53.1,
+   "title": "instrumentation engineer",
+   "uid": "jobbank:scada:50408018"
+  },
+  {
+   "closed_at": 1791137587,
+   "company": "YO AI Labs",
+   "hours_open": 11.7,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50419676"
+  },
+  {
+   "closed_at": 1791137587,
+   "company": "Source Code",
+   "hours_open": 11.7,
+   "title": "software developer",
+   "uid": "jobbank:entry level software developer:50419493"
+  },
+  {
+   "closed_at": 1791137587,
+   "company": "Confido",
+   "hours_open": 781.9,
+   "title": "Software Engineer New Grad",
+   "uid": "simplify:listings:00142abd-9aec-4fca-9c8d-b46f6fb762d2"
   }
  ],
- "count": 801,
- "updated_at": 1791135973
+ "count": 804,
+ "updated_at": 1791137587
 }
