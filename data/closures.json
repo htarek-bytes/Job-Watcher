@@ -2,13 +2,6 @@
  "closed": [
   {
    "closed_at": 1790734187,
-   "company": "Longshot Systems Ltd",
-   "hours_open": 632.9,
-   "title": "Software Engineer",
-   "uid": "workable:longshot-systems-ltd:7EE72B0E07"
-  },
-  {
-   "closed_at": 1790734187,
    "company": "spacex",
    "hours_open": 633.2,
    "title": "Wireless Software Engineer (Starlink)",
@@ -5599,8 +5592,15 @@
    "hours_open": 750.1,
    "title": "Power Electronics Engineer, Satellites (Starlink)",
    "uid": "greenhouse:spacex:8534757002"
+  },
+  {
+   "closed_at": 1791156400,
+   "company": "Cooptel",
+   "hours_open": 630.3,
+   "title": "Administrateur réseau",
+   "uid": "jobillico:analyste reseau:17185045"
   }
  ],
- "count": 800,
- "updated_at": 1791155722
+ "count": 801,
+ "updated_at": 1791156400
 }
