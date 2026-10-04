@@ -1,76 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1790721636,
-   "company": "people-culture-talent",
-   "hours_open": 481.3,
-   "title": "Founding Engineer ",
-   "uid": "ashby:people-culture-talent:02840194-4fef-4446-b0bb-694a4186e16d"
-  },
-  {
-   "closed_at": 1790721636,
-   "company": "Groupe DCM",
-   "hours_open": 275.6,
-   "title": "Programmeur CNC / CNC Programmer",
-   "uid": "jobillico:programmeur junior:17534670"
-  },
-  {
-   "closed_at": 1790721636,
-   "company": "radiant-industries",
-   "hours_open": 276.6,
-   "title": "Build Engineer, Turbomachinery - 2026 New Graduate",
-   "uid": "ashby:radiant-industries:a078f0fe-56dd-4add-a8ff-f0dd4fe7ce43"
-  },
-  {
-   "closed_at": 1790721636,
-   "company": "opengov",
-   "hours_open": 194.4,
-   "title": "Intern, Software Engineer",
-   "uid": "ashby:opengov:c31622c1-be01-4d4a-b7cf-d116be84cc08"
-  },
-  {
-   "closed_at": 1790721636,
-   "company": "L3Harris Technologies",
-   "hours_open": 4.3,
-   "title": "Associate Software Engineer",
-   "uid": "simplify:listings:09f77798-c3bb-40b8-8b28-a90ef55e1885"
-  },
-  {
-   "closed_at": 1790721636,
-   "company": "siftstack",
-   "hours_open": 626.6,
-   "title": "Software Engineer, Full Stack",
-   "uid": "ashby:siftstack:6de6e754-b953-4e8d-a2ce-f56fcfd3031f"
-  },
-  {
-   "closed_at": 1790721636,
-   "company": "siftstack",
-   "hours_open": 626.6,
-   "title": "Software Engineer, Full Stack (Agentic AI)",
-   "uid": "ashby:siftstack:7d3ddb83-d6f1-4c45-be1b-352102fdad5f"
-  },
-  {
-   "closed_at": 1790723272,
-   "company": "Zebra Technologies",
-   "hours_open": 149.6,
-   "title": "Firmware/Software Engineer Professional 1",
-   "uid": "simplify:listings:60eedf32-89b8-4de4-b2e1-d69503416974"
-  },
-  {
-   "closed_at": 1790723272,
-   "company": "Northrop Grumman",
-   "hours_open": 119.6,
-   "title": "Associate Software Engineer",
-   "uid": "simplify:listings:5fb1595f-945f-47e2-89dc-05bd4bf09da3"
-  },
-  {
-   "closed_at": 1790723272,
-   "company": "Northrop Grumman",
-   "hours_open": 666.8,
-   "title": "Associate Software Engineer / Software Engineer",
-   "uid": "simplify:listings:fd35bf7d-2a83-4c94-84df-7f5ae7a4429f"
-  },
-  {
    "closed_at": 1790723272,
    "company": "RTX",
    "hours_open": 95.8,
@@ -5599,8 +5529,78 @@
    "hours_open": 620.3,
    "title": "Administrateur réseau",
    "uid": "jobillico:analyste reseau:17185045"
+  },
+  {
+   "closed_at": 1791123384,
+   "company": "Source Code",
+   "hours_open": 87.6,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:control systems analyst:50399288"
+  },
+  {
+   "closed_at": 1791123384,
+   "company": "Point",
+   "hours_open": 276.4,
+   "title": "Associate Software Engineer - Customer Operations",
+   "uid": "simplify:listings:8e844e5f-0bbf-48a1-83fc-1c2710d29d18"
+  },
+  {
+   "closed_at": 1791123384,
+   "company": "Arcfield",
+   "hours_open": 387.2,
+   "title": "Entry Level Systems Engineer",
+   "uid": "simplify:listings:99a096e7-a5be-4022-8904-7687e11a9efa"
+  },
+  {
+   "closed_at": 1791123384,
+   "company": "Rolls-Royce",
+   "hours_open": 473.7,
+   "title": "Junior Machine Learning Engineer",
+   "uid": "simplify:listings:16d72e19-4fbb-4539-842e-ab1c221c3562"
+  },
+  {
+   "closed_at": 1791123384,
+   "company": "YO AI Labs",
+   "hours_open": 7.8,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50419676"
+  },
+  {
+   "closed_at": 1791123384,
+   "company": "Source Code",
+   "hours_open": 7.8,
+   "title": "software developer",
+   "uid": "jobbank:entry level software developer:50419493"
+  },
+  {
+   "closed_at": 1791123384,
+   "company": "LPL Financial Holdings",
+   "hours_open": 777.9,
+   "title": "Software Engineering New Grad",
+   "uid": "simplify:listings:8e8f7392-2530-41cd-b2fe-8ba9e55a6f68"
+  },
+  {
+   "closed_at": 1791123384,
+   "company": "The Boeing Company",
+   "hours_open": 777.9,
+   "title": "Associate Software Engineer",
+   "uid": "simplify:listings:a6aaef17-692b-47d3-b343-0592b9b8d586"
+  },
+  {
+   "closed_at": 1791123384,
+   "company": "spacex",
+   "hours_open": 741.3,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1791123384,
+   "company": "General Dynamics Information Technology",
+   "hours_open": 777.9,
+   "title": "Junior Software Developer - Active TS/SCI with Poly Required",
+   "uid": "simplify:listings:36c9b7b4-9e96-49e9-adda-25c5ec121022"
   }
  ],
- "count": 801,
- "updated_at": 1791120287
+ "count": 810,
+ "updated_at": 1791123387
 }
