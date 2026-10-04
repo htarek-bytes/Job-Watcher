@@ -2,20 +2,6 @@
  "closed": [
   {
    "closed_at": 1790732305,
-   "company": "AECOM",
-   "hours_open": 29.3,
-   "title": "Entry Level Water/Wastewater Engineer",
-   "uid": "smartrecruiters:AECOM2:744000152254089"
-  },
-  {
-   "closed_at": 1790732305,
-   "company": "AbbVie",
-   "hours_open": 29.3,
-   "title": "Associate Engineer/ Analyst (IT/ Automation)",
-   "uid": "smartrecruiters:AbbVie:3743990015733486"
-  },
-  {
-   "closed_at": 1790732305,
    "company": "Groupe DCM",
    "hours_open": 284.7,
    "title": "Programmeur CNC / CNC Programmer",
@@ -5599,8 +5585,22 @@
    "hours_open": 575.7,
    "title": "Associate Engineer - Distribution Planning",
    "uid": "workday:iberdrola.wd3/iberdrola:Associate-Engineer---Distribution-Planning_R-30914"
+  },
+  {
+   "closed_at": 1791149081,
+   "company": "YO AI Labs",
+   "hours_open": 49.4,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50410673"
+  },
+  {
+   "closed_at": 1791149081,
+   "company": "Source Code",
+   "hours_open": 14.9,
+   "title": "software developer",
+   "uid": "jobbank:entry level software developer:50419493"
   }
  ],
- "count": 801,
- "updated_at": 1791145854
+ "count": 802,
+ "updated_at": 1791149081
 }
