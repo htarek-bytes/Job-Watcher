@@ -2,27 +2,6 @@
  "closed": [
   {
    "closed_at": 1790732007,
-   "company": "tenstorrent",
-   "hours_open": 632.6,
-   "title": "Systems Engineer, Data Center Debug",
-   "uid": "greenhouse:tenstorrent:5143663007"
-  },
-  {
-   "closed_at": 1790732007,
-   "company": "iManage",
-   "hours_open": 146.3,
-   "title": "Applied AI Engineer New Grad",
-   "uid": "simplify:listings:cc4a8dbb-c15d-4fd8-a1fe-4ac7bffa903e"
-  },
-  {
-   "closed_at": 1790732007,
-   "company": "scaleai",
-   "hours_open": 632.6,
-   "title": "Software Engineer, Identity",
-   "uid": "greenhouse:scaleai:4710484005"
-  },
-  {
-   "closed_at": 1790732007,
    "company": "scaleai",
    "hours_open": 632.6,
    "title": "Software Engineer, Platform",
@@ -5599,8 +5578,29 @@
    "hours_open": 5.8,
    "title": "software developer",
    "uid": "jobbank:junior software developer:50419493"
+  },
+  {
+   "closed_at": 1791144783,
+   "company": "bmo",
+   "hours_open": 236.1,
+   "title": "AI Engineer, Winter 2027 (Co-op/Internship) - 8 months",
+   "uid": "workday:bmo.wd3/Campus:AI-Engineer--Winter-2027--Co-op-Internship----8-months_R260027622-2"
+  },
+  {
+   "closed_at": 1791144783,
+   "company": "bmo",
+   "hours_open": 211.8,
+   "title": "Business & Operations Development Specialist (New Grad)",
+   "uid": "workday:bmo.wd3/Campus:Business---Operations-Development-Specialist--New-Grad-_R260027681-1"
+  },
+  {
+   "closed_at": 1791144783,
+   "company": "spacex",
+   "hours_open": 747.3,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
   }
  ],
- "count": 801,
- "updated_at": 1791144407
+ "count": 803,
+ "updated_at": 1791144784
 }
