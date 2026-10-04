@@ -1,5 +1,5 @@
 {
- "count": 6856,
+ "count": 6861,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -561,6 +561,9 @@
   "ashby:embedding-vc:5d382f97-5444-45b6-b491-140e88d151a7": 1788954949,
   "ashby:embedding-vc:b49531ff-4850-4bab-8fbf-72a8ec299e60": 1788954949,
   "ashby:endeavorai:e397ddef-2102-40e5-82e8-cd1e126f9da8": 1788393691,
+  "ashby:exa:508f3b2e-980b-41e9-ae02-26c72ce6b775": 1791118539,
+  "ashby:exa:98a8bab6-4cbf-4d39-a5a7-0867addc4086": 1791118539,
+  "ashby:exa:a9e01521-66f1-481b-89da-ec01d4620f16": 1791118539,
   "ashby:faros-ai:622e1f1e-4a39-4e7c-8526-1189ca588066": 1788393691,
   "ashby:faros-ai:a4de6429-fd54-4ce7-a166-7356d512b41d": 1788750148,
   "ashby:faros-ai:b9c09d25-3287-4c48-a461-b79ca8c27845": 1788750148,
@@ -595,6 +598,7 @@
   "ashby:harvey:4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc": 1791010186,
   "ashby:harvey:d2624850-8dd4-4eb4-b5dc-f386b715a26f": 1791010186,
   "ashby:harvey:d40e15aa-2351-4be8-ac8f-1faf60bfcdbf": 1791010186,
+  "ashby:highlightai:dd8526be-514c-46a5-98be-b068b10b4cbb": 1791118539,
   "ashby:hipp:51d0ec27-511b-4035-9c25-937d6738803b": 1788454653,
   "ashby:hipp:ea04e914-674c-4c05-b40a-7e8a035bad14": 1788364508,
   "ashby:hipp:fecbdff1-1368-402b-bb13-a3a266a9ab44": 1788454653,
@@ -628,6 +632,7 @@
   "ashby:kognitos:a3c5bd4c-f6fb-4eb0-b943-e0e1a1d878c5": 1788426389,
   "ashby:kognitos:a4bc3ebf-b619-4c1b-9c9e-784d16c8b148": 1788426389,
   "ashby:koho:2903b2ea-ae70-4c87-a967-675d3f8dee59": 1788454653,
+  "ashby:krew:22bff54e-7553-4eeb-af2b-6c9e446f3ee0": 1791118539,
   "ashby:kustomer:4037272a-7fd3-4040-906b-47fde875a817": 1788918628,
   "ashby:kustomer:61dcb217-b513-4020-8eb8-211b0336c3db": 1788918628,
   "ashby:lambda:4621b314-965a-4626-a516-1b8ef42da21d": 1788480130,
@@ -6858,5 +6863,5 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148,
   "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541": 1789106107
  },
- "updated_at": 1791118176
+ "updated_at": 1791118539
 }
