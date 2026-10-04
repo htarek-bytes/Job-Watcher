@@ -1,27 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1790721523,
-   "company": "siftstack",
-   "hours_open": 626.6,
-   "title": "Software Engineer, Full Stack (Agentic AI)",
-   "uid": "ashby:siftstack:7d3ddb83-d6f1-4c45-be1b-352102fdad5f"
-  },
-  {
-   "closed_at": 1790721636,
-   "company": "retell-ai",
-   "hours_open": 418.2,
-   "title": "Forward Deployed Engineer, New Grad",
-   "uid": "ashby:retell-ai:161bcfc9-56dd-4d0c-869d-e5de1431a940"
-  },
-  {
-   "closed_at": 1790721636,
-   "company": "snowflake",
-   "hours_open": 112.6,
-   "title": "Software Engineer Intern (AI / ML) - Spring 2027",
-   "uid": "ashby:snowflake:4be290ae-dd9d-488c-9d90-56fcd69101ca"
-  },
-  {
    "closed_at": 1790721636,
    "company": "snowflake",
    "hours_open": 112.6,
@@ -5599,8 +5578,29 @@
    "hours_open": 723.7,
    "title": "System Integration and Test Engineer 1",
    "uid": "simplify:listings:f638a7a9-7858-44cf-a52d-23c7ec258ad8"
+  },
+  {
+   "closed_at": 1791118175,
+   "company": "Citylitics",
+   "hours_open": 30.0,
+   "title": "data engineer",
+   "uid": "jobbank:infrastructure analyst:50414504"
+  },
+  {
+   "closed_at": 1791118175,
+   "company": "zoom",
+   "hours_open": 558.9,
+   "title": "Solutions Engineer - Federal",
+   "uid": "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541"
+  },
+  {
+   "closed_at": 1791118175,
+   "company": "Automat",
+   "hours_open": 0.2,
+   "title": "Software Engineer - Junior/Intermediate",
+   "uid": "simplify:listings:e52f9adf-6058-49a2-8d34-de29435c2cae"
   }
  ],
- "count": 814,
- "updated_at": 1791117517
+ "count": 803,
+ "updated_at": 1791118176
 }
