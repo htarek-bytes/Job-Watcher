@@ -2,34 +2,6 @@
  "closed": [
   {
    "closed_at": 1790710013,
-   "company": "relx",
-   "hours_open": 645.5,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - June)",
-   "uid": "workday:relx.wd3/RiskSolutions:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-1"
-  },
-  {
-   "closed_at": 1790710013,
-   "company": "relx",
-   "hours_open": 645.5,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Boca Raton - June)",
-   "uid": "workday:relx.wd3/RiskSolutions:Tech-Accelerate-Graduate-Program---Software-Engineer--Boca-Raton---June-_R116023-2"
-  },
-  {
-   "closed_at": 1790710013,
-   "company": "twitch",
-   "hours_open": 626.5,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1790710013,
-   "company": "icapitalnetwork",
-   "hours_open": 506.3,
-   "title": "Fund Monitoring - Analyst ",
-   "uid": "greenhouse:icapitalnetwork:8602435002"
-  },
-  {
-   "closed_at": 1790710013,
    "company": "santander",
    "hours_open": 647.8,
    "title": "SGTO_Software Engineering Analyst I",
@@ -5599,8 +5571,36 @@
    "hours_open": 36.1,
    "title": "network analyst",
    "uid": "jobbank:network analyst:50409133"
+  },
+  {
+   "closed_at": 1791078209,
+   "company": "Citylitics",
+   "hours_open": 18.9,
+   "title": "data engineer",
+   "uid": "jobbank:infrastructure analyst:50414504"
+  },
+  {
+   "closed_at": 1791078209,
+   "company": "YO AI Labs",
+   "hours_open": 29.8,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50410673"
+  },
+  {
+   "closed_at": 1791078209,
+   "company": "Kativik Ilisarniliriniq (La commission scolaire du Nunavik)",
+   "hours_open": 12.3,
+   "title": "network analyst",
+   "uid": "jobbank:infrastructure analyst:50409133"
+  },
+  {
+   "closed_at": 1791078209,
+   "company": "spacex",
+   "hours_open": 728.8,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
   }
  ],
- "count": 803,
- "updated_at": 1791075792
+ "count": 804,
+ "updated_at": 1791078209
 }
