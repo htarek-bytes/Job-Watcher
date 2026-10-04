@@ -4,13 +4,6 @@
    "closed_at": 1790731882,
    "company": "spacex",
    "hours_open": 632.6,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1790731882,
-   "company": "spacex",
-   "hours_open": 632.6,
    "title": "FPGA/ASIC Design Engineer (Silicon Engineering)",
    "uid": "greenhouse:spacex:8560022002"
   },
@@ -5599,8 +5592,15 @@
    "hours_open": 624.3,
    "title": "Administrateur réseau",
    "uid": "jobillico:analyste reseau:17185045"
+  },
+  {
+   "closed_at": 1791135973,
+   "company": "Citadel",
+   "hours_open": 781.4,
+   "title": "Software Engineer – University Graduate",
+   "uid": "simplify:listings:410b28b6-b357-4b72-9480-bad83701b4cb"
   }
  ],
  "count": 801,
- "updated_at": 1791134676
+ "updated_at": 1791135973
 }
