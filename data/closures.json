@@ -4,13 +4,6 @@
    "closed_at": 1790731882,
    "company": "spacex",
    "hours_open": 632.6,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1790731882,
-   "company": "spacex",
-   "hours_open": 632.6,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
   },
@@ -5599,8 +5592,15 @@
    "hours_open": 741.2,
    "title": "Security Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1791134675,
+   "company": "Cooptel",
+   "hours_open": 624.3,
+   "title": "Administrateur réseau",
+   "uid": "jobillico:analyste reseau:17185045"
   }
  ],
  "count": 801,
- "updated_at": 1791133716
+ "updated_at": 1791134676
 }
