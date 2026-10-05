@@ -2,41 +2,6 @@
  "closed": [
   {
    "closed_at": 1790752783,
-   "company": "Sun Life",
-   "hours_open": 199.9,
-   "title": "Junior Analytics and Automation Developer Student - Winter 2027",
-   "uid": "simplify:listings:dcc7492f-ee43-47b0-9eb0-b6ff0530c7ae"
-  },
-  {
-   "closed_at": 1790752783,
-   "company": "RAD Torque Systems",
-   "hours_open": 168.4,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50347331"
-  },
-  {
-   "closed_at": 1790752783,
-   "company": "IMPRESSION &amp; DESIGN GRAFIK INC.",
-   "hours_open": 496.8,
-   "title": "computer programmer",
-   "uid": "jobbank:junior programmer:50249573"
-  },
-  {
-   "closed_at": 1790752783,
-   "company": "ALL ROUTES LOGISTICS INC.",
-   "hours_open": 517.9,
-   "title": "network system administrator",
-   "uid": "jobbank:systems administrator:50243159"
-  },
-  {
-   "closed_at": 1790752783,
-   "company": "Edgecom Energy",
-   "hours_open": 8.2,
-   "title": "computer systems analyst",
-   "uid": "jobbank:analyste de systemes:50248611"
-  },
-  {
-   "closed_at": 1790752783,
    "company": "SimpleK division de ASSA ABLOY High Security Group Inc.",
    "hours_open": 232.6,
    "title": "developer, software",
@@ -5599,8 +5564,43 @@
    "hours_open": 750.5,
    "title": "Security Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1791177914,
+   "company": "Parasail",
+   "hours_open": 51.1,
+   "title": "Software Engineer New Grad - Forward Deploy",
+   "uid": "simplify:listings:1b4b4857-a0e7-40ae-911b-03e1528c4c9f"
+  },
+  {
+   "closed_at": 1791177914,
+   "company": "Municipality of East Hants",
+   "hours_open": 393.6,
+   "title": "systems analyst",
+   "uid": "jobbank:systems analyst:50316766"
+  },
+  {
+   "closed_at": 1791177914,
+   "company": "Nord Quantique",
+   "hours_open": 226.4,
+   "title": "developer, software",
+   "uid": "jobbank:entry level software developer:50231594"
+  },
+  {
+   "closed_at": 1791177914,
+   "company": "BAASS Business Solutions Inc.",
+   "hours_open": 23.0,
+   "title": "computer systems analyst",
+   "uid": "jobbank:analyste de systemes:50201711"
+  },
+  {
+   "closed_at": 1791177914,
+   "company": "spacex",
+   "hours_open": 756.5,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
   }
  ],
- "count": 801,
- "updated_at": 1791166917
+ "count": 805,
+ "updated_at": 1791177915
 }
