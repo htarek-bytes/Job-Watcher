@@ -2,13 +2,6 @@
  "closed": [
   {
    "closed_at": 1790752783,
-   "company": "Ontario Universities' Application Centre",
-   "hours_open": 168.4,
-   "title": "programmer analyst",
-   "uid": "jobbank:junior programmer:50347385"
-  },
-  {
-   "closed_at": 1790752783,
    "company": "Sun Life",
    "hours_open": 199.9,
    "title": "Junior Analytics and Automation Developer Student - Winter 2027",
@@ -5599,8 +5592,15 @@
    "hours_open": 753.4,
    "title": "Security Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1791166917,
+   "company": "spacex",
+   "hours_open": 750.5,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
   }
  ],
  "count": 801,
- "updated_at": 1791166832
+ "updated_at": 1791166917
 }
