@@ -1,146 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1790798576,
-   "company": "Sopra Steria",
-   "hours_open": 30.9,
-   "title": "Microsoft SQL Database Administrator",
-   "uid": "smartrecruiters:SopraSteria1:744000152378939"
-  },
-  {
-   "closed_at": 1790798576,
-   "company": "Renesas Electronics",
-   "hours_open": 47.3,
-   "title": "Intern Engineer",
-   "uid": "smartrecruiters:RenesasElectronics:744000152175025"
-  },
-  {
-   "closed_at": 1790798576,
-   "company": "ServiceNow",
-   "hours_open": 117.3,
-   "title": "Forward Deployed Solution Engineer – Applied AI FDE",
-   "uid": "smartrecruiters:ServiceNow:744000151908299"
-  },
-  {
-   "closed_at": 1790798576,
-   "company": "Sika AG",
-   "hours_open": 200.2,
-   "title": "Sales Engineer (Grinding Aid - Trợ nghiền)",
-   "uid": "smartrecruiters:SikaAG:744000150837597"
-  },
-  {
-   "closed_at": 1790798576,
-   "company": "twitch",
-   "hours_open": 648.1,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1790798576,
-   "company": "lightspeed",
-   "hours_open": 651.1,
-   "title": "Robotics Integration/Controls Engineer (Full-Stack Capable)",
-   "uid": "ashby:lightspeed:90a00316-bc4b-41a9-abc6-9d4e37da4f0b"
-  },
-  {
-   "closed_at": 1790798576,
-   "company": "Loram",
-   "hours_open": 672.4,
-   "title": "Test Engineer I",
-   "uid": "smartrecruiters:Loram1:3743990014550116"
-  },
-  {
-   "closed_at": 1790798576,
-   "company": "andurilindustries",
-   "hours_open": 336.7,
-   "title": "Firmware Engineer, Space Emerging Talent",
-   "uid": "greenhouse:andurilindustries:5239596007"
-  },
-  {
-   "closed_at": 1790798576,
-   "company": "spacex",
-   "hours_open": 651.1,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1790798931,
-   "company": "Cooptel",
-   "hours_open": 531.0,
-   "title": "Administrateur réseau",
-   "uid": "jobillico:analyste reseau:17185045"
-  },
-  {
-   "closed_at": 1790798931,
-   "company": "Edgecom Energy",
-   "hours_open": 514.2,
-   "title": "computer systems analyst",
-   "uid": "jobbank:systems analyst:50248611"
-  },
-  {
-   "closed_at": 1790798931,
-   "company": "Wabtec",
-   "hours_open": 153.7,
-   "title": "Junior Engineer - Loco Maintenance",
-   "uid": "smartrecruiters:Wabtec:3743990015630616"
-  },
-  {
-   "closed_at": 1790798931,
-   "company": "Wellmark, Inc.",
-   "hours_open": 293.7,
-   "title": "Security Analyst Internship",
-   "uid": "smartrecruiters:WellmarkInc:744000150269748"
-  },
-  {
-   "closed_at": 1790798931,
-   "company": "RAVE Aerospace LLC",
-   "hours_open": 326.5,
-   "title": "Product Integration Engineer I, Connectivity",
-   "uid": "workable:raveaerospace:4370417F13"
-  },
-  {
-   "closed_at": 1790798931,
-   "company": "twitch",
-   "hours_open": 651.2,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1790798931,
-   "company": "Flexcompute Inc.",
-   "hours_open": 650.9,
-   "title": "Software Engineer - AI & Cloud Engineering (Early to Mid Career)",
-   "uid": "workable:flexcompute:D80D89A759"
-  },
-  {
-   "closed_at": 1790798931,
-   "company": "spacex",
-   "hours_open": 651.2,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1790798931,
-   "company": "spacex",
-   "hours_open": 650.9,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1790798931,
-   "company": "spacex",
-   "hours_open": 651.2,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1790807897,
-   "company": "FOP EXPERTS CONSEILS INC.",
-   "hours_open": 8.4,
-   "title": "network system administrator",
-   "uid": "jobbank:systems administrator:50396149"
-  },
-  {
    "closed_at": 1790807897,
    "company": "ag",
    "hours_open": 48.7,
@@ -5599,8 +5459,148 @@
    "hours_open": 768.8,
    "title": "Security Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1791241882,
+   "company": "Cooptel",
+   "hours_open": 654.0,
+   "title": "Administrateur réseau",
+   "uid": "jobillico:analyste reseau:17185045"
+  },
+  {
+   "closed_at": 1791241882,
+   "company": "Kativik Ilisarniliriniq (La commission scolaire du Nunavik)",
+   "hours_open": 2.5,
+   "title": "network analyst",
+   "uid": "jobbank:analyste reseau:50409133"
+  },
+  {
+   "closed_at": 1791241882,
+   "company": "Amazon",
+   "hours_open": 2.5,
+   "title": "Software Development Engineer, Consumer Domains",
+   "uid": "amazon:amazon:10569612"
+  },
+  {
+   "closed_at": 1791241882,
+   "company": "Amazon",
+   "hours_open": 176.6,
+   "title": "Software Development Engineer",
+   "uid": "amazon:amazon:10561581"
+  },
+  {
+   "closed_at": 1791241882,
+   "company": "Amazon",
+   "hours_open": 241.2,
+   "title": "Software Development Engineer, Measurement, Ad Tech, and Data Science ",
+   "uid": "amazon:amazon:10560889"
+  },
+  {
+   "closed_at": 1791241882,
+   "company": "Amazon",
+   "hours_open": 98.0,
+   "title": "Software Dev Engineer - AWS Identity Access Management, AWS IAM Propagation",
+   "uid": "amazon:amazon:10567367"
+  },
+  {
+   "closed_at": 1791241882,
+   "company": "selffinancial",
+   "hours_open": 762.3,
+   "title": "Associate Software Engineer (UI)",
+   "uid": "greenhouse:selffinancial:6181750004"
+  },
+  {
+   "closed_at": 1791241882,
+   "company": "astro-mechanica",
+   "hours_open": 802.2,
+   "title": "Entry-Level Propulsion Design Engineer",
+   "uid": "ashby:astro-mechanica:4d6f21f7-4c5a-4468-a985-fde71c16df06"
+  },
+  {
+   "closed_at": 1791241882,
+   "company": "astro-mechanica",
+   "hours_open": 774.2,
+   "title": "Propulsion Design Engineer",
+   "uid": "ashby:astro-mechanica:0cbfd597-c014-47fa-b25e-e43ce0c4c254"
+  },
+  {
+   "closed_at": 1791241882,
+   "company": "Synectic Solutions",
+   "hours_open": 779.6,
+   "title": "Junior Electronics Engineer - Metrology",
+   "uid": "simplify:listings:655d22b5-48d2-4cbf-8661-f6f5311a0a50"
+  },
+  {
+   "closed_at": 1791241882,
+   "company": "Harris Computer",
+   "hours_open": 810.9,
+   "title": "Associate Software Engineer - RPG",
+   "uid": "simplify:listings:56950869-0fbf-431b-b2ed-b5d9d2a76efe"
+  },
+  {
+   "closed_at": 1791241882,
+   "company": "Citi",
+   "hours_open": 71.6,
+   "title": "Junior Generative AI Application Developer",
+   "uid": "simplify:listings:c8b1494a-3262-4b95-a356-612e9c1e1dd9"
+  },
+  {
+   "closed_at": 1791241882,
+   "company": "applied",
+   "hours_open": 165.5,
+   "title": "Software Engineer - Defense Physical AI ",
+   "uid": "ashby:applied:8cd214ac-8934-4585-a4d0-c3ab46ba7756"
+  },
+  {
+   "closed_at": 1791241882,
+   "company": "RTX",
+   "hours_open": 810.9,
+   "title": "Digital Hardware Design Engineer 1",
+   "uid": "simplify:listings:d8fcefa4-be4d-476c-89c8-dae303547940"
+  },
+  {
+   "closed_at": 1791241882,
+   "company": "applied",
+   "hours_open": 165.5,
+   "title": "Software Engineer - Physical AI",
+   "uid": "ashby:applied:5abdcdab-5526-4998-8ef1-55473aa40068"
+  },
+  {
+   "closed_at": 1791241882,
+   "company": "RTX",
+   "hours_open": 104.4,
+   "title": "Software Engineer 1",
+   "uid": "simplify:listings:79d832e4-94d6-41aa-b211-a7d13f45f875"
+  },
+  {
+   "closed_at": 1791241882,
+   "company": "spacex",
+   "hours_open": 774.0,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1791241882,
+   "company": "andurilindustries",
+   "hours_open": 772.5,
+   "title": "Curriculum Developer ",
+   "uid": "greenhouse:andurilindustries:4997521007"
+  },
+  {
+   "closed_at": 1791241882,
+   "company": "applied",
+   "hours_open": 774.2,
+   "title": "C++ Software Engineer – Autonomous Systems",
+   "uid": "ashby:applied:23498829-6e3f-4d18-8617-9164f0e0470f"
+  },
+  {
+   "closed_at": 1791241882,
+   "company": "spacex",
+   "hours_open": 170.9,
+   "title": "Supplier Development Engineer, Mechanical (Starshield)",
+   "uid": "greenhouse:spacex:8452999002"
   }
  ],
- "count": 825,
- "updated_at": 1791232806
+ "count": 820,
+ "updated_at": 1791241882
 }
