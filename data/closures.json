@@ -1,55 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1790781019,
-   "company": "spacex",
-   "hours_open": 643.3,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1790781019,
-   "company": "RTX",
-   "hours_open": 682.8,
-   "title": "FPGA Engineer 1",
-   "uid": "simplify:listings:f6f48127-bff1-47be-aab1-c96716c9b7b2"
-  },
-  {
-   "closed_at": 1790781019,
-   "company": "spacex",
-   "hours_open": 645.9,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1790781019,
-   "company": "spacex",
-   "hours_open": 646.2,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1790781388,
-   "company": "FOP EXPERTS CONSEILS INC.",
-   "hours_open": 20.9,
-   "title": "network security analyst",
-   "uid": "jobbank:network analyst:50389758"
-  },
-  {
-   "closed_at": 1790781388,
-   "company": "twitch",
-   "hours_open": 643.4,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1790781388,
-   "company": "spacex",
-   "hours_open": 646.3,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
    "closed_at": 1790781388,
    "company": "spacex",
    "hours_open": 644.6,
@@ -5599,8 +5550,57 @@
    "hours_open": 777.3,
    "title": "Software Engineering Intern",
    "uid": "greenhouse:truveta:5659745004"
+  },
+  {
+   "closed_at": 1791225444,
+   "company": "pae",
+   "hours_open": 81.7,
+   "title": "Early Career Controls and Instrumentation Engineer",
+   "uid": "workday:pae.wd1/amentum_careers:Early-Career-Controls-and-Instrumentation-Engineer_R0172132"
+  },
+  {
+   "closed_at": 1791225444,
+   "company": "pg",
+   "hours_open": 773.0,
+   "title": "Purdue University R&D Engineer Co-op- Purdue Students Graduating in 2028/2029 ONLY",
+   "uid": "workday:pg.wd5/1000:Purdue-University-R-D-Engineer-Co-op--Purdue-Students-Graduating-in-2028-2029-ONLY_R000155305"
+  },
+  {
+   "closed_at": 1791225444,
+   "company": "radiancetech",
+   "hours_open": 232.6,
+   "title": "Junior Software Engineer",
+   "uid": "workday:radiancetech.wd12/Radiance_External:Junior-Software-Engineer_HR102450"
+  },
+  {
+   "closed_at": 1791225444,
+   "company": "psu",
+   "hours_open": 773.0,
+   "title": "Research and Development Engineer Intern",
+   "uid": "workday:psu.wd1/PSU_Staff:Research-and-Development-Engineer-Intern_REQ_0000082128"
+  },
+  {
+   "closed_at": 1791225444,
+   "company": "modal",
+   "hours_open": 687.6,
+   "title": "Customer Engineer",
+   "uid": "ashby:modal:44b57790-528e-4f97-8613-03564316be8a"
+  },
+  {
+   "closed_at": 1791225444,
+   "company": "Motorola",
+   "hours_open": 806.3,
+   "title": "Junior Software Engineer - AI Agent Platform",
+   "uid": "simplify:listings:fcd95104-5b2a-4e23-bb5e-ee0412e59f2c"
+  },
+  {
+   "closed_at": 1791225444,
+   "company": "spacex",
+   "hours_open": 769.4,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
   }
  ],
- "count": 818,
- "updated_at": 1791224410
+ "count": 807,
+ "updated_at": 1791225445
 }
