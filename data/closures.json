@@ -2,48 +2,6 @@
  "closed": [
   {
    "closed_at": 1790752783,
-   "company": "twitch",
-   "hours_open": 638.4,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1790752783,
-   "company": "Umano Medical",
-   "hours_open": 518.2,
-   "title": "Concepteur logiciel embarqué et cybersécurité",
-   "uid": "jobillico:analyste cybersecurite:17489580"
-  },
-  {
-   "closed_at": 1790752783,
-   "company": "CloudLabs",
-   "hours_open": 518.2,
-   "title": "systems analyst",
-   "uid": "jobbank:systems analyst:50053328"
-  },
-  {
-   "closed_at": 1790752783,
-   "company": "Richie It Solutions Inc",
-   "hours_open": 35.0,
-   "title": "software developer",
-   "uid": "jobbank:developpeur junior:50357104"
-  },
-  {
-   "closed_at": 1790752783,
-   "company": "accenture",
-   "hours_open": 655.3,
-   "title": "Software Engineering New Associate (Fresh Diploma Graduate Program)",
-   "uid": "workday:accenture.wd103/AccentureCareers:Software-Engineering-New-Associate--Fresh-Diploma-Graduate-Program-_R00144534"
-  },
-  {
-   "closed_at": 1790752783,
-   "company": "accenture",
-   "hours_open": 655.3,
-   "title": "Junior .NET Developer - Fresh Graduates",
-   "uid": "workday:accenture.wd103/AccentureCareers:Junior-NET-Developer---Fresh-Graduates_R00332478"
-  },
-  {
-   "closed_at": 1790752783,
    "company": "TP-Link Systems Inc.",
    "hours_open": 638.4,
    "title": "Level 2 ISP Field Application Engineer (FAE)",
@@ -5599,8 +5557,50 @@
    "hours_open": 578.9,
    "title": "network administrator",
    "uid": "jobbank:network administrator:50264218"
+  },
+  {
+   "closed_at": 1791191961,
+   "company": "Citylitics",
+   "hours_open": 50.5,
+   "title": "data engineer",
+   "uid": "jobbank:infrastructure analyst:50414504"
+  },
+  {
+   "closed_at": 1791191961,
+   "company": "bmo",
+   "hours_open": 249.2,
+   "title": "AI Engineer, Winter 2027 (Co-op/Internship) - 8 months",
+   "uid": "workday:bmo.wd3/External:AI-Engineer--Winter-2027--Co-op-Internship----8-months_R260027622-1"
+  },
+  {
+   "closed_at": 1791191961,
+   "company": "Cooptel",
+   "hours_open": 640.2,
+   "title": "Administrateur réseau",
+   "uid": "jobillico:analyste reseau:17185045"
+  },
+  {
+   "closed_at": 1791191961,
+   "company": "bmo",
+   "hours_open": 234.5,
+   "title": "Business & Operations Development Specialist (New Grad)",
+   "uid": "workday:bmo.wd3/External:Business---Operations-Development-Specialist--New-Grad-_R260027681"
+  },
+  {
+   "closed_at": 1791191961,
+   "company": "cadence",
+   "hours_open": 773.1,
+   "title": "Adams MultiBody Dynamics Application Software Developer (Recent Grad 2026)",
+   "uid": "workday:cadence.wd1/University_Talent:Adams-MultiBody-Dynamics-Application-Software-Developer--Recent-Grad-2026-_R55788-3"
+  },
+  {
+   "closed_at": 1791191961,
+   "company": "spacex",
+   "hours_open": 757.4,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
   }
  ],
- "count": 800,
- "updated_at": 1791190755
+ "count": 806,
+ "updated_at": 1791191961
 }
