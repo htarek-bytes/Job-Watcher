@@ -1,5 +1,5 @@
 {
- "count": 6958,
+ "count": 6967,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -273,6 +273,7 @@
   "amazon:amazon:10568419": 1790984102,
   "amazon:amazon:10568432": 1790993922,
   "amazon:amazon:10569344": 1791220236,
+  "amazon:amazon:10569390": 1791224409,
   "ashby:1password:4ff46f84-a5c9-4232-84b6-1dfa8e737148": 1788750148,
   "ashby:1password:7f885c41-7572-439c-886f-bc508eb9a3d7": 1788454653,
   "ashby:1password:a5b083d5-5f82-4316-b5ef-a577f2edb493": 1788750148,
@@ -1814,6 +1815,7 @@
   "greenhouse:cssmerge:8750787002": 1788454653,
   "greenhouse:cssmerge:8801437002": 1789147006,
   "greenhouse:cssmerge:8853108002": 1790626658,
+  "greenhouse:cssmerge:8868618002": 1791224409,
   "greenhouse:ctccampusboard:4708230005": 1788426090,
   "greenhouse:ctccampusboard:4709991005": 1788386454,
   "greenhouse:d2l:260466": 1788454653,
@@ -4182,6 +4184,7 @@
   "lever:matchgroup:61e35c3c-3156-4760-a088-4a3765e37f8e": 1788454653,
   "lever:matchgroup:69396299-e587-4063-aef6-0ce2fd66e9ee": 1789751981,
   "lever:mirego:50a2268a-ac83-4ff9-9952-f6c30486f192": 1788454653,
+  "lever:mirego:9e799575-050f-4bf1-8623-73debe9eb5b4": 1791224409,
   "lever:nexuse-group:0eff47b7-f4f4-4519-9016-5dc2b2470cf4": 1788528043,
   "lever:nexuse-group:6a247b67-8613-4e05-b63f-a254f246a075": 1788528043,
   "lever:nexuse-group:92433dee-4661-467e-97be-1000e6f80427": 1789156237,
@@ -6413,6 +6416,7 @@
   "workday:jci.wd5/JCI:HVAC-Application-Engineer-I_WD30278015": 1788587272,
   "workday:jci.wd5/JCI:HVAC-Controls-Systems-Engineer-1_WD30278990": 1788472811,
   "workday:jci.wd5/JCI:Quality-Engineer-I_WD30278664": 1788377607,
+  "workday:jj.wd5/JJ:Asset-Management-Co-Op_R-101720": 1791224409,
   "workday:jj.wd5/JJ:Business-Excellence-Engineer-Co-Op_R-097386": 1789511757,
   "workday:jj.wd5/JJ:Co-Op-Automation-Engineer_R-096697-1": 1789424861,
   "workday:jj.wd5/JJ:Development-Engineer--GTO-SC--Spring-Co-Op_R-098772": 1790041362,
@@ -6425,6 +6429,7 @@
   "workday:jj.wd5/JJ:Software-Engineering-Co-Op_R-098277": 1790297811,
   "workday:jj.wd5/JJ:Software-Engineering-Intern---Robotics-R-D_R-099919": 1789511757,
   "workday:jj.wd5/JJ:Spring-R-D-Engineer-Co-op--INTO_R-099005": 1789778130,
+  "workday:jj.wd5/JJ:Technical-Operations-Engineer-Co-Op_R-099063": 1791224409,
   "workday:jll.wd1/jllcareers:Junior-Reliability-Engineer_REQ535710": 1789709712,
   "workday:kbr.wd5/KBR_Careers:Junior-Software-Engineer_R2122294": 1788377607,
   "workday:kbr.wd5/KBR_Careers:Project-Engineer-I_R2129322": 1788442554,
@@ -6471,6 +6476,7 @@
   "workday:lumentum.wd5/LITE:Reliability-Test-Automation-Engineer--Co-op-Intern-_20261382": 1790642371,
   "workday:lumentum.wd5/LITE:Software-Verification-Engineer--Co-op-Intern-_20261136": 1788442554,
   "workday:manulife.wd3/MFCJH_Jobs:GRO---Operations-Analyst_JR26061462": 1788887337,
+  "workday:manulife.wd3/MFCJH_Jobs:Spring-Co-op-2027---Software-Engineering--Security---Operations_JR26091121": 1791224409,
   "workday:manulife.wd3/MFCJH_Jobs:Summer-Intern-2027---Software-Engineering--12-Months-_JR26091053": 1790575222,
   "workday:manulife.wd3/MFCJH_Jobs:Summer-Intern-2027---Software-Engineering--8-Months-_JR26081685": 1790351918,
   "workday:manulife.wd3/MFCJH_Jobs:Summer-Intern-2027---Software-Engineering_JR26081680": 1788448251,
@@ -6503,6 +6509,7 @@
   "workday:marvell.wd1/MarvellCareers:Firmware-Engineer-Intern--BS---Summer-2027_2604461": 1788558581,
   "workday:marvell.wd1/MarvellCareers:Firmware-Engineer-Intern--MS---Summer-2027_2604513": 1788558845,
   "workday:marvell.wd1/MarvellCareers:Firmware-Engineer-Intern_2603751": 1790096131,
+  "workday:marvell.wd1/MarvellCareers:Hardware-Engineer-Intern--BS---Summer-2027_2604975-1": 1791224409,
   "workday:marvell.wd1/MarvellCareers:Hardware-Validation--Test-Solutions--Engineer_2600679": 1789048465,
   "workday:marvell.wd1/MarvellCareers:IC-Validation-Engineer-Intern---BS-MS---2027-Co-Op_2603925": 1790872708,
   "workday:marvell.wd1/MarvellCareers:IC-Validation-Engineer-Intern--MS---Summer-2027_2604515-1": 1788557908,
@@ -6555,6 +6562,7 @@
   "workday:micron.wd1/External:New-College-Grad---Product-Yield-Enhancement-Engineer--HBM_JR104805": 1790812097,
   "workday:micron.wd1/External:New-College-Grad---RDA-Engineer--APTD_JR108462": 1788393936,
   "workday:micron.wd1/External:New-College-Grad---Ram-Quality-Engineer_JR110448": 1789073222,
+  "workday:micron.wd1/External:New-College-Grad---Semiconductor-Design-Engineer--DRAM-Products-Group_JR114119": 1791224409,
   "workday:micron.wd1/External:New-College-Grad---Yield-Enhancement-Electrical-Failure-Analysis-Engineer_JR109479": 1788455648,
   "workday:micron.wd1/External:Photolithography-MDE-Shift-Engineer_JR111985": 1790041362,
   "workday:micron.wd1/External:Process-Integration-Engineer_JR102569": 1789073222,
@@ -6571,6 +6579,7 @@
   "workday:mmc.wd1/MMC:Java-Developer_R_303155": 1790872708,
   "workday:mmc.wd1/MMC:Junior-Full-Stack-Engineer--Generative-AI---Marsh-Tech_R_367686": 1790990642,
   "workday:mmc.wd1/MMC:Junior-Python-Engineer--MarshTech_R_362442-1": 1788848313,
+  "workday:mmc.wd1/MMC:Quality-Assurance-Engineer_R_310976": 1791224409,
   "workday:mmc.wd1/mmc:Junior-Full-Stack-Engineer--Generative-AI---Marsh-Tech_R_367686": 1790990563,
   "workday:mmc.wd1/mmc:Junior-Python-Engineer--MarshTech_R_362442-1": 1788393936,
   "workday:moog.wd5/moog_external_career_site:Intern--Software-Engineering_R-26-19888-1": 1788948248,
@@ -6960,5 +6969,5 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148,
   "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541": 1789106107
  },
- "updated_at": 1791220237
+ "updated_at": 1791224409
 }
