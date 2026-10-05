@@ -2,13 +2,6 @@
  "closed": [
   {
    "closed_at": 1790752783,
-   "company": "CDW",
-   "hours_open": 153.1,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:systems analyst:50353194"
-  },
-  {
-   "closed_at": 1790752783,
    "company": "Ontario Universities' Application Centre",
    "hours_open": 168.4,
    "title": "programmer analyst",
@@ -5599,8 +5592,15 @@
    "hours_open": 41.2,
    "title": "data engineer",
    "uid": "jobbank:infrastructure analyst:50414504"
+  },
+  {
+   "closed_at": 1791166832,
+   "company": "spacex",
+   "hours_open": 753.4,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
   }
  ],
- "count": 800,
- "updated_at": 1791165997
+ "count": 801,
+ "updated_at": 1791166832
 }
