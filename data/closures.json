@@ -1,20 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1790734187,
-   "company": "spacex",
-   "hours_open": 631.5,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1790752783,
-   "company": "aah",
-   "hours_open": 17.2,
-   "title": "New Graduate Registered Nurse (RN) – Medical/Telemetry",
-   "uid": "workday:aah.wd5/External:New-Graduate-Registered-Nurse--RN----Medical-Telemetry_R240813-1"
-  },
-  {
    "closed_at": 1790752783,
    "company": "CDW",
    "hours_open": 153.1,
@@ -5599,8 +5585,22 @@
    "hours_open": 778.6,
    "title": "New Grad Software Engineer",
    "uid": "ashby:confido:69c0e572-b2f4-442f-beb8-1240155c629e"
+  },
+  {
+   "closed_at": 1791158544,
+   "company": "parasail",
+   "hours_open": 41.1,
+   "title": "Software Engineer, Forward Deploy -- New Graduate '27",
+   "uid": "ashby:parasail:da595923-4e35-4ba1-875d-383276069cf7"
+  },
+  {
+   "closed_at": 1791158544,
+   "company": "Citylitics",
+   "hours_open": 41.2,
+   "title": "data engineer",
+   "uid": "jobbank:infrastructure analyst:50414504"
   }
  ],
- "count": 801,
- "updated_at": 1791156878
+ "count": 802,
+ "updated_at": 1791158545
 }
