@@ -1,5 +1,5 @@
 {
- "count": 7074,
+ "count": 7079,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -6246,6 +6246,7 @@
   "workday:dtna.wd5/dtna_affiliate:Cab-Wiring-Engineer-I_DT-19764-1": 1790123242,
   "workday:dtna.wd5/dtna_affiliate:Integration-and-Coordination-Engineer-I_DT-19590-2": 1789135501,
   "workday:dtna.wd5/dtna_affiliate:Manufacturing-Systems-Engineer---Advanced-Manufacturing---AI-I_DT-19263": 1790383779,
+  "workday:duboischemicals.wd1/external:Analytical-Scientist-I---Applications-Engineer-I_R103383": 1791293986,
   "workday:dxctechnology.wd1/dxcjobs:Junior-Java-Developer--Mandarin-_51584524": 1789823880,
   "workday:dxctechnology.wd1/dxcjobs:Junior-Java-Developer_51584530": 1789823880,
   "workday:ebi.wd5/ebadcareers:Product-Engineer-Intern_REQ107697": 1789510394,
@@ -6270,6 +6271,7 @@
   "workday:exelixis.wd1/exel:Associate-Engineer---AI-and-Agentic_JR7031": 1788377607,
   "workday:exelixis.wd1/exel:Associate-Engineer---DevSecOps_JR7117": 1790641647,
   "workday:expedia.wd108/private:Software-Development-Engineer-I_R-108739-2": 1788377607,
+  "workday:expedia.wd108/private:Software-Development-Engineering-Intern---2027---Austin--San-Jose--Seattle_R-110311": 1791293986,
   "workday:ffive.wd5/f5jobs:Network-Engineer-I_RP1038801": 1790039053,
   "workday:ffive.wd5/f5jobs:Site-Reliability-Engineer-I-I_RP1038818": 1790923532,
   "workday:ffive.wd5/f5jobs:Software-Development-Engineer-I--Former-Summer-2026-Interns-_RP1038795": 1790039053,
@@ -6394,6 +6396,7 @@
   "workday:globalhr.wd5/rec_rtx_ext_gateway:Internship---Winter-2027---Software-Developer-Aerospace-Control-Systems---Web-Applications_01874412": 1789137582,
   "workday:globalhr.wd5/rec_rtx_ext_gateway:Junior-Stress-Engineer_01871881": 1788843455,
   "workday:globalhr.wd5/rec_rtx_ext_gateway:Life-Cycle-Systems-Engineer-I_01872772-1": 1788947734,
+  "workday:globalhr.wd5/rec_rtx_ext_gateway:Life-Cycle-Systems-Engineer-I_01880500": 1791293986,
   "workday:globalhr.wd5/rec_rtx_ext_gateway:Mechanical-Test-Engineer-I_01879801": 1790984102,
   "workday:globalhr.wd5/rec_rtx_ext_gateway:Operations-Software-Engineering-Intern--Summer-2027-_01874620": 1790124503,
   "workday:globalhr.wd5/rec_rtx_ext_gateway:Production-Support-Engineering-Co-Op--Summer-Fall-2027-_01872653": 1789362342,
@@ -6454,6 +6457,8 @@
   "workday:haier.wd3/ge_appliances:Software-Engineering-Co-op-Summer-2027_REQ-26427": 1788442300,
   "workday:harriscomputer.wd3/1:Associate-Software-Engineer--RPG_R0045601-1": 1788377607,
   "workday:harriscomputer.wd3/1:Junior-Software-Engineer_R0045756-2": 1790984102,
+  "workday:hcsc.wd1/HCSC_External:Early-Careers---Infrastructure-Engineer-Intern_R0059506": 1791293986,
+  "workday:highmarkhealth.wd1/highmark:Associate-Software-Engineer_J286291": 1791293986,
   "workday:highmarkhealth.wd1/highmark:Associate-Technical-Analyst---A-V-and-Digital-Media_J286828": 1789073222,
   "workday:highmarkhealth.wd1/highmark:Associate-Technical-Analyst_J282377": 1788903151,
   "workday:highmarkhealth.wd1/highmark:RN---Telemetry-Medical-Surgical--New-Grad--Canonsburg_J281378": 1788903151,
@@ -7076,5 +7081,5 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148,
   "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541": 1789106107
  },
- "updated_at": 1791293862
+ "updated_at": 1791293987
 }
