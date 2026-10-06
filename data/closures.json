@@ -1,27 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1790821727,
-   "company": "onebrief",
-   "hours_open": 657.5,
-   "title": "Software Development Engineer in Test",
-   "uid": "ashby:onebrief:fbd0fd12-5aed-4428-9373-55ec2c5076f3"
-  },
-  {
-   "closed_at": 1790821727,
-   "company": "spacex",
-   "hours_open": 657.5,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1790821727,
-   "company": "spacex",
-   "hours_open": 657.5,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
    "closed_at": 1790821920,
    "company": "selectorsoftware",
    "hours_open": 569.9,
@@ -5599,8 +5578,29 @@
    "hours_open": 781.7,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1791273148,
+   "company": "Source Code",
+   "hours_open": 1.4,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:systems analyst:50399288"
+  },
+  {
+   "closed_at": 1791273148,
+   "company": "Wabtec",
+   "hours_open": 149.8,
+   "title": "Co-Op, Test Engineer - Transducer (January-June 2027)",
+   "uid": "smartrecruiters:Wabtec:3743990015763566"
+  },
+  {
+   "closed_at": 1791273148,
+   "company": "Hewlett Packard Enterprise",
+   "hours_open": 312.9,
+   "title": "Electrical/Hardware Engineer 1",
+   "uid": "simplify:listings:e52513e2-804f-43b4-ae87-411d4c56ff26"
   }
  ],
- "count": 807,
- "updated_at": 1791268841
+ "count": 803,
+ "updated_at": 1791273150
 }
