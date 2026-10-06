@@ -2,69 +2,6 @@
  "closed": [
   {
    "closed_at": 1790866080,
-   "company": "Edgecom Energy",
-   "hours_open": 532.9,
-   "title": "computer systems analyst",
-   "uid": "jobbank:systems analyst:50248611"
-  },
-  {
-   "closed_at": 1790866080,
-   "company": "Connect it Networks",
-   "hours_open": 549.7,
-   "title": "network system administrator",
-   "uid": "jobbank:systems administrator:50210221"
-  },
-  {
-   "closed_at": 1790866080,
-   "company": "FOP EXPERTS CONSEILS INC.",
-   "hours_open": 23.5,
-   "title": "network security analyst",
-   "uid": "jobbank:network analyst:50396377"
-  },
-  {
-   "closed_at": 1790866080,
-   "company": "Source Code",
-   "hours_open": 56.7,
-   "title": "software developer",
-   "uid": "jobbank:entry level software developer:50387478"
-  },
-  {
-   "closed_at": 1790866080,
-   "company": "Google",
-   "hours_open": 706.5,
-   "title": "Software Engineer - Campus",
-   "uid": "simplify:listings:089391ad-ee52-4c4f-993a-e79f42219682"
-  },
-  {
-   "closed_at": 1790866080,
-   "company": "Northrop Grumman",
-   "hours_open": 44.4,
-   "title": "Associate Software Engineer - McClellan CA",
-   "uid": "simplify:listings:5e53dcd6-2301-48d9-8010-f0ddb4a2a434"
-  },
-  {
-   "closed_at": 1790866080,
-   "company": "voyagertechnologiesinc",
-   "hours_open": 305.8,
-   "title": "Spacecraft Systems Engineer",
-   "uid": "greenhouse:voyagertechnologiesinc:4401504009"
-  },
-  {
-   "closed_at": 1790866080,
-   "company": "L3Harris Technologies",
-   "hours_open": 16.2,
-   "title": "Associate Software Engineer",
-   "uid": "simplify:listings:e97ed1eb-86ee-4af5-ace9-3f7b789a19ba"
-  },
-  {
-   "closed_at": 1790866080,
-   "company": "spacex",
-   "hours_open": 666.9,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1790866080,
    "company": "RTX",
    "hours_open": 15.6,
    "title": "Software Engineer 1",
@@ -5599,8 +5536,71 @@
    "hours_open": 7.1,
    "title": "software developer",
    "uid": "jobbank:entry level software developer:50424402"
+  },
+  {
+   "closed_at": 1791293862,
+   "company": "CGI",
+   "hours_open": 668.5,
+   "title": "Conseiller en architecture de cybersécurité",
+   "uid": "jobillico:analyste cybersecurite:17433753"
+  },
+  {
+   "closed_at": 1791293862,
+   "company": "Source Code",
+   "hours_open": 0.1,
+   "title": "software developer",
+   "uid": "jobbank:entry level software developer:50435510"
+  },
+  {
+   "closed_at": 1791293862,
+   "company": "cadence",
+   "hours_open": 782.2,
+   "title": "Software Engineer  (new college grad Dec 2026)",
+   "uid": "workday:cadence.wd1/University_Talent:Software-Engineer---new-college-grad-Dec-2026-_R55738-1"
+  },
+  {
+   "closed_at": 1791293862,
+   "company": "cadence",
+   "hours_open": 801.4,
+   "title": "Adams MultiBody Dynamics Application Software Developer (Recent Grad 2026)",
+   "uid": "workday:cadence.wd1/University_Talent:Adams-MultiBody-Dynamics-Application-Software-Developer--Recent-Grad-2026-_R55788-3"
+  },
+  {
+   "closed_at": 1791293862,
+   "company": "cadence",
+   "hours_open": 787.0,
+   "title": "Adams Application Software Developer  (Recent Grad 2026)",
+   "uid": "workday:cadence.wd1/University_Talent:Adams-Application-Software-Developer---Recent-Grad-2026-_R55736-1"
+  },
+  {
+   "closed_at": 1791293862,
+   "company": "cat",
+   "hours_open": 325.2,
+   "title": "2027 Entry Level IT Analyst",
+   "uid": "workday:cat.wd5/solarturbines:XMLNAME-2027-Entry-Level-IT-Analyst_R0000381899"
+  },
+  {
+   "closed_at": 1791293862,
+   "company": "caci",
+   "hours_open": 87.1,
+   "title": "Software Engineer Intern - Summer 2027",
+   "uid": "workday:caci.wd1/external:Software-Engineer-Intern---Summer-2027_333037"
+  },
+  {
+   "closed_at": 1791293862,
+   "company": "spacex",
+   "hours_open": 788.7,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1791293862,
+   "company": "spacex",
+   "hours_open": 788.7,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 807,
- "updated_at": 1791293674
+ "count": 809,
+ "updated_at": 1791293863
 }
