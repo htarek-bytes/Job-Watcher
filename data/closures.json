@@ -1,76 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1790872708,
-   "company": "micron",
-   "hours_open": 679.7,
-   "title": "New College Grad - Design Engineer, Circuit Design",
-   "uid": "workday:micron.wd1/External:Staff-Engineer--Circuit-Design_JR94667"
-  },
-  {
-   "closed_at": 1790872708,
-   "company": "marvell",
-   "hours_open": 159.7,
-   "title": "Test Equipment Engineer Intern",
-   "uid": "workday:marvell.wd1/MarvellCareers2:Test-Equipment-Engineer-Intern_2603826"
-  },
-  {
-   "closed_at": 1790872708,
-   "company": "jci",
-   "hours_open": 390.2,
-   "title": "ACE Technical Sales - Fire Suppression (New England)",
-   "uid": "workday:jci.wd5/JCI:ACE-Technical-Sales---Fire-Suppression_WD30279375-1"
-  },
-  {
-   "closed_at": 1790872708,
-   "company": "micron",
-   "hours_open": 230.9,
-   "title": "New College Grad - Manufacturing Shift Equipment Engineer",
-   "uid": "workday:micron.wd1/External:Engineer--Shift-Equipment_JR89034"
-  },
-  {
-   "closed_at": 1790872708,
-   "company": "kla",
-   "hours_open": 16.8,
-   "title": "Software Engineering Intern",
-   "uid": "workday:kla.wd1/UR:Software-Engineering-Intern_2641581"
-  },
-  {
-   "closed_at": 1790872708,
-   "company": "kbr",
-   "hours_open": 693.1,
-   "title": "Junior Software Engineer",
-   "uid": "workday:kbr.wd5/KBR_Careers:Junior-Software-Engineer_R2122294"
-  },
-  {
-   "closed_at": 1790872708,
-   "company": "spacex",
-   "hours_open": 671.7,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1790872708,
-   "company": "spacex",
-   "hours_open": 671.4,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1790872708,
-   "company": "spacex",
-   "hours_open": 670.0,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1790884489,
-   "company": "purestorage",
-   "hours_open": 3.6,
-   "title": "Pre-Sales System Engineer, Federal (VA/MD/DC)",
-   "uid": "greenhouse:purestorage:8246329"
-  },
-  {
    "closed_at": 1790884489,
    "company": "ngc",
    "hours_open": 20.1,
@@ -5599,8 +5529,78 @@
    "hours_open": 280.0,
    "title": "Software Development Engineer, Amazon Leo",
    "uid": "amazon:amazon:10560115"
+  },
+  {
+   "closed_at": 1791313564,
+   "company": "thomsonreuters",
+   "hours_open": 22.4,
+   "title": "Software Engineer, Professional Services-1",
+   "uid": "workday:thomsonreuters.wd5/External_Career_Site:Software-Engineer--Professional-Services-1_JREQ204070"
+  },
+  {
+   "closed_at": 1791313564,
+   "company": "sharkninjaoperatingllc",
+   "hours_open": 315.6,
+   "title": "Test Engineer - APAC ",
+   "uid": "greenhouse:sharkninjaoperatingllc:4708269006"
+  },
+  {
+   "closed_at": 1791313564,
+   "company": "coinbase",
+   "hours_open": 452.3,
+   "title": "Software Engineer, Developer Infrastructure",
+   "uid": "greenhouse:coinbase:7991839"
+  },
+  {
+   "closed_at": 1791313564,
+   "company": "statestreet",
+   "hours_open": 22.4,
+   "title": "Junior Software Engineer",
+   "uid": "workday:statestreet.wd1/Global:Junior-Software-Engineer_R-793923"
+  },
+  {
+   "closed_at": 1791313564,
+   "company": "td",
+   "hours_open": 441.6,
+   "title": "2027 Summer Internship Program - Global Technology & Solutions - Software Engineer (SWE)",
+   "uid": "workday:td.wd3/TD_Bank_Careers:XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Software-Engineer--SWE-_R_1510796-1"
+  },
+  {
+   "closed_at": 1791313564,
+   "company": "vestwell",
+   "hours_open": 761.6,
+   "title": "Associate, Software Engineer",
+   "uid": "greenhouse:vestwell:7983915003"
+  },
+  {
+   "closed_at": 1791313564,
+   "company": "supabase",
+   "hours_open": 794.1,
+   "title": "Postgres Deployment Engineer (Nix)",
+   "uid": "ashby:supabase:48950725-e0d9-4025-92d9-f75e1b60ce45"
+  },
+  {
+   "closed_at": 1791313564,
+   "company": "trueanomalyinc",
+   "hours_open": 806.8,
+   "title": "DevOps Engineer I (New Grad)",
+   "uid": "greenhouse:trueanomalyinc:5218935007"
+  },
+  {
+   "closed_at": 1791313564,
+   "company": "voyagertechnologiesinc",
+   "hours_open": 794.1,
+   "title": "RF Communications Engineer I",
+   "uid": "greenhouse:voyagertechnologiesinc:4362647009"
+  },
+  {
+   "closed_at": 1791313564,
+   "company": "trace3",
+   "hours_open": 665.5,
+   "title": "Network Administrator I, CCNA | Cleared | Huntsville, AL",
+   "uid": "greenhouse:trace3:8052656"
   }
  ],
- "count": 828,
- "updated_at": 1791305144
+ "count": 810,
+ "updated_at": 1791313565
 }
