@@ -1,111 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1790888920,
-   "company": "Brightmark",
-   "hours_open": 539.2,
-   "title": "network administrator",
-   "uid": "jobbank:network administrator:50248661"
-  },
-  {
-   "closed_at": 1790888920,
-   "company": "Amazon",
-   "hours_open": 223.0,
-   "title": "Software Development Engineer, STRADA",
-   "uid": "amazon:amazon:10556156"
-  },
-  {
-   "closed_at": 1790888920,
-   "company": "Amazon",
-   "hours_open": 79.4,
-   "title": "Software Development Engineer , DynamoDB Index, Search and Storage",
-   "uid": "amazon:amazon:10561388"
-  },
-  {
-   "closed_at": 1790888920,
-   "company": "accenturefederalservices",
-   "hours_open": 556.0,
-   "title": "AI Security Specialist",
-   "uid": "greenhouse:accenturefederalservices:4705324006"
-  },
-  {
-   "closed_at": 1790888920,
-   "company": "doordashusa",
-   "hours_open": 674.5,
-   "title": "Analytics Engineer, Data Science",
-   "uid": "greenhouse:doordashusa:7967918"
-  },
-  {
-   "closed_at": 1790888920,
-   "company": "trimedx",
-   "hours_open": 693.0,
-   "title": "Imaging Engineer I",
-   "uid": "workday:trimedx.wd1/TMX:Imaging-Engineer-I_R14875"
-  },
-  {
-   "closed_at": 1790888920,
-   "company": "tsc",
-   "hours_open": 676.2,
-   "title": "Operations Systems Analyst I",
-   "uid": "workday:tsc.wd12/TSC-Careers:Operations-Systems-Analyst-I_JR2750"
-  },
-  {
-   "closed_at": 1790888920,
-   "company": "Amazon",
-   "hours_open": 194.4,
-   "title": "Software Development Engineer, ADC2S",
-   "uid": "amazon:amazon:10558154"
-  },
-  {
-   "closed_at": 1790889082,
-   "company": "ema",
-   "hours_open": 217.9,
-   "title": "Software Engineer, Machine Learning",
-   "uid": "ashby:ema:85fe8e2a-c480-4a3b-8f31-ef231ad21f8c"
-  },
-  {
-   "closed_at": 1790889082,
-   "company": "Amazon",
-   "hours_open": 236.3,
-   "title": "Software Development Engineer, 3P Measurement Tech ",
-   "uid": "amazon:amazon:10555703"
-  },
-  {
-   "closed_at": 1790889082,
-   "company": "spacex",
-   "hours_open": 673.3,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1790889082,
-   "company": "antares",
-   "hours_open": 673.3,
-   "title": "Harnessing Engineer",
-   "uid": "ashby:antares:999f09b9-b661-4c36-94bb-f41a35a35e0e"
-  },
-  {
-   "closed_at": 1790889082,
-   "company": "spacex",
-   "hours_open": 676.0,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1790889544,
-   "company": "northwoodspace",
-   "hours_open": 676.4,
-   "title": "Network Software Engineer",
-   "uid": "ashby:northwoodspace:f19b12b2-1f52-43a6-8e0e-a866c92c4fc1"
-  },
-  {
-   "closed_at": 1790889544,
-   "company": "northwoodspace",
-   "hours_open": 676.4,
-   "title": "Command & Telemetry Software Engineer",
-   "uid": "ashby:northwoodspace:2ec65763-31ee-47d5-a14f-e2c2b8802281"
-  },
-  {
    "closed_at": 1790889544,
    "company": "northwoodspace",
    "hours_open": 676.4,
@@ -5599,8 +5494,113 @@
    "hours_open": 796.3,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1791327707,
+   "company": "Astera Labs",
+   "hours_open": 16.4,
+   "title": "Product Quality Engineer New Grad",
+   "uid": "simplify:listings:259f0bd5-6015-4c62-a48b-7b4a3879f845"
+  },
+  {
+   "closed_at": 1791327707,
+   "company": "snowflake",
+   "hours_open": 88.1,
+   "title": "Associate Solution Engineer",
+   "uid": "ashby:snowflake:a4d05466-3c2e-4509-bfec-8830bccc885b"
+  },
+  {
+   "closed_at": 1791327707,
+   "company": "Source Code",
+   "hours_open": 16.5,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:systems analyst:50399288"
+  },
+  {
+   "closed_at": 1791327707,
+   "company": "Umano Medical",
+   "hours_open": 677.9,
+   "title": "Concepteur logiciel embarqué et cybersécurité",
+   "uid": "jobillico:analyste cybersecurite:17489580"
+  },
+  {
+   "closed_at": 1791327707,
+   "company": "geotab",
+   "hours_open": 796.4,
+   "title": "Software Developer ",
+   "uid": "greenhouse:geotab:5386820008"
+  },
+  {
+   "closed_at": 1791327707,
+   "company": "Augusta National Golf Club",
+   "hours_open": 56.8,
+   "title": "Junior Data Engineer",
+   "uid": "simplify:listings:f40415ae-c1c8-42c0-bd27-c55f0bd48925"
+  },
+  {
+   "closed_at": 1791327707,
+   "company": "Amazon",
+   "hours_open": 172.7,
+   "title": "Software Dev Engineer, AWS CX - Cloudscape",
+   "uid": "amazon:amazon:10564067"
+  },
+  {
+   "closed_at": 1791327707,
+   "company": "saronic",
+   "hours_open": 795.0,
+   "title": "Electrical Test Engineer",
+   "uid": "ashby:saronic:c95f2a7f-b926-46fe-94e6-f5c495418702"
+  },
+  {
+   "closed_at": 1791327707,
+   "company": "watershed",
+   "hours_open": 88.1,
+   "title": "Software engineer, full-stack",
+   "uid": "ashby:watershed:2f60ee9b-cb7f-4c05-93d2-bad49243bf31"
+  },
+  {
+   "closed_at": 1791327707,
+   "company": "snowflake",
+   "hours_open": 716.0,
+   "title": "Solution Engineer",
+   "uid": "ashby:snowflake:4b494244-50fe-4c55-837c-5c347ff5235b"
+  },
+  {
+   "closed_at": 1791327707,
+   "company": "Source Code",
+   "hours_open": 9.5,
+   "title": "software developer",
+   "uid": "jobbank:entry level software developer:50435510"
+  },
+  {
+   "closed_at": 1791327707,
+   "company": "spacex",
+   "hours_open": 798.1,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1791327707,
+   "company": "spacex",
+   "hours_open": 798.1,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1791327707,
+   "company": "spacex",
+   "hours_open": 796.4,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1791327707,
+   "company": "accenturefederalservices",
+   "hours_open": 6.3,
+   "title": "Data Engineer",
+   "uid": "greenhouse:accenturefederalservices:4718748006"
   }
  ],
  "count": 815,
- "updated_at": 1791321502
+ "updated_at": 1791327707
 }
