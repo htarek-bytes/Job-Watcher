@@ -2,62 +2,6 @@
  "closed": [
   {
    "closed_at": 1790807897,
-   "company": "ag",
-   "hours_open": 48.7,
-   "title": "Retrofit Solutions Engineering Systems Placement (12.5 months)",
-   "uid": "workday:ag.wd3/Airbus:Retrofit-Solutions-Engineering-Systems-Placement--125-months-_JR10430633"
-  },
-  {
-   "closed_at": 1790807897,
-   "company": "Source Code",
-   "hours_open": 8.6,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:control systems analyst:50394382"
-  },
-  {
-   "closed_at": 1790807897,
-   "company": "PRECICOM TECHNOLOGIES INC.",
-   "hours_open": 40.4,
-   "title": "LAN (local area network) administrator",
-   "uid": "jobbank:network administrator:50308821"
-  },
-  {
-   "closed_at": 1790807897,
-   "company": "CGI",
-   "hours_open": 533.5,
-   "title": "Conseiller en gouvernance de la cybersécurité",
-   "uid": "jobillico:analyste cybersecurite:17433756"
-  },
-  {
-   "closed_at": 1790807897,
-   "company": "ag",
-   "hours_open": 15.3,
-   "title": "Spécialiste Systèmes Avioniques / Avionics Systems Specialist",
-   "uid": "workday:ag.wd3/Airbus:Spcialiste-Systmes-Avioniques---Avionics-Systems-Specialist_JR10394220"
-  },
-  {
-   "closed_at": 1790807897,
-   "company": "appdirect",
-   "hours_open": 127.8,
-   "title": "Data Engineer ",
-   "uid": "greenhouse:appdirect:8643029002"
-  },
-  {
-   "closed_at": 1790807897,
-   "company": "ameren",
-   "hours_open": 143.1,
-   "title": "Intern (Robotics, AI, OT, Software development)",
-   "uid": "workday:ameren.wd1/External:Intern--Robotics--AI--OT--Software-development-_033945-1"
-  },
-  {
-   "closed_at": 1790807897,
-   "company": "twitch",
-   "hours_open": 650.7,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1790807897,
    "company": "chaosindustries",
    "hours_open": 381.7,
    "title": "Systems Engineer, Algorithm Development",
@@ -5599,8 +5543,64 @@
    "hours_open": 170.9,
    "title": "Supplier Development Engineer, Mechanical (Starshield)",
    "uid": "greenhouse:spacex:8452999002"
+  },
+  {
+   "closed_at": 1791245588,
+   "company": "elevenlabs",
+   "hours_open": 24.6,
+   "title": "Enterprise Solutions Engineer - Canada",
+   "uid": "ashby:elevenlabs:0d68b2a2-887e-491c-8b9b-56e8354f75fb"
+  },
+  {
+   "closed_at": 1791245588,
+   "company": "Koch Industries",
+   "hours_open": 69.9,
+   "title": "AI Solutions Engineer",
+   "uid": "simplify:listings:3f4f0a33-7d23-4062-ad6b-47a6d5194539"
+  },
+  {
+   "closed_at": 1791245588,
+   "company": "lightfield",
+   "hours_open": 800.3,
+   "title": "Software Engineer, Infrastructure (Early Career)",
+   "uid": "ashby:lightfield:9a7ef2f9-577a-4242-b884-719e3cdf4420"
+  },
+  {
+   "closed_at": 1791245588,
+   "company": "elevenlabs",
+   "hours_open": 24.6,
+   "title": "Enterprise Solutions Engineer - Brazil",
+   "uid": "ashby:elevenlabs:8a88f764-27f5-46d7-8ce0-0ba15401efb1"
+  },
+  {
+   "closed_at": 1791245588,
+   "company": "decagon",
+   "hours_open": 443.8,
+   "title": "Security Engineer",
+   "uid": "ashby:decagon:3998068a-4ce9-4a70-b9c0-7e89ef531331"
+  },
+  {
+   "closed_at": 1791245588,
+   "company": "Self Financial",
+   "hours_open": 763.8,
+   "title": "Associate Software Engineer - UI",
+   "uid": "simplify:listings:48bf49f5-eda3-401d-a7ae-961d66c48e77"
+  },
+  {
+   "closed_at": 1791245588,
+   "company": "spacex",
+   "hours_open": 775.3,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1791245588,
+   "company": "spacex",
+   "hours_open": 773.6,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
- "count": 820,
- "updated_at": 1791241882
+ "count": 808,
+ "updated_at": 1791245590
 }
