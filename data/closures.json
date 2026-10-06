@@ -2,34 +2,6 @@
  "closed": [
   {
    "closed_at": 1790884489,
-   "company": "relx",
-   "hours_open": 694.0,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - June)",
-   "uid": "workday:relx.wd3/RiskSolutions:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-1"
-  },
-  {
-   "closed_at": 1790884489,
-   "company": "relx",
-   "hours_open": 694.0,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Boca Raton - June)",
-   "uid": "workday:relx.wd3/RiskSolutions:Tech-Accelerate-Graduate-Program---Software-Engineer--Boca-Raton---June-_R116023-2"
-  },
-  {
-   "closed_at": 1790884489,
-   "company": "AeroVironment",
-   "hours_open": 711.6,
-   "title": "Entry-Level Software Engineer - Specialized Exploitation & Targeting (SET)",
-   "uid": "simplify:listings:2eaa73e1-655c-425b-ab4c-a67de9791159"
-  },
-  {
-   "closed_at": 1790884489,
-   "company": "nvidia",
-   "hours_open": 696.3,
-   "title": "Software Quality Assurance Engineer - 2026 New College Grad",
-   "uid": "workday:nvidia.wd5/NVIDIAExternalCareerSite:Software-Quality-Assurance-Engineer---2026-New-College-Grad_JR2019924-1"
-  },
-  {
-   "closed_at": 1790884489,
    "company": "nrel",
    "hours_open": 549.0,
    "title": "Graduate (Year-Round) Intern - Transportation Systems Analysis",
@@ -5599,8 +5571,36 @@
    "hours_open": 268.3,
    "title": "network infrastructure engineer",
    "uid": "jobbank:specialiste infrastructure:50365083"
+  },
+  {
+   "closed_at": 1791316090,
+   "company": "asana",
+   "hours_open": 340.3,
+   "title": "Software Engineer, AI Teammates Experience",
+   "uid": "greenhouse:asana:8155344"
+  },
+  {
+   "closed_at": 1791316090,
+   "company": "accenturefederalservices",
+   "hours_open": 794.8,
+   "title": "Cyber AI Deployment Engineer",
+   "uid": "greenhouse:accenturefederalservices:4710266006"
+  },
+  {
+   "closed_at": 1791316090,
+   "company": "spacex",
+   "hours_open": 791.9,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1791316090,
+   "company": "spacex",
+   "hours_open": 793.1,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
- "count": 820,
- "updated_at": 1791313704
+ "count": 804,
+ "updated_at": 1791316091
 }
