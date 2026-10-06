@@ -1,69 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1790897569,
-   "company": "Alexander Holburn Beaudin + Lang LLP",
-   "hours_open": 558.4,
-   "title": "network security administrator",
-   "uid": "jobbank:network administrator:50202781"
-  },
-  {
-   "closed_at": 1790897569,
-   "company": "CoStar Group",
-   "hours_open": 357.8,
-   "title": "Associate Software Engineer",
-   "uid": "simplify:listings:fec5c82d-3e40-46de-bad2-93a1b2669f21"
-  },
-  {
-   "closed_at": 1790897569,
-   "company": "Barry-Wehmiller",
-   "hours_open": 715.2,
-   "title": "Entry Level Software Engineer",
-   "uid": "simplify:listings:94439f86-761e-479b-ad07-ff674a810362"
-  },
-  {
-   "closed_at": 1790897569,
-   "company": "spacex",
-   "hours_open": 678.6,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1790902141,
-   "company": "Groupe DCM",
-   "hours_open": 331.9,
-   "title": "Programmeur CNC / CNC Programmer",
-   "uid": "jobillico:programmeur junior:17534679"
-  },
-  {
-   "closed_at": 1790902141,
-   "company": "McCain Foods",
-   "hours_open": 513.4,
-   "title": "software developer",
-   "uid": "jobbank:scada:50258975"
-  },
-  {
-   "closed_at": 1790902141,
-   "company": "fiscalnote",
-   "hours_open": 231.3,
-   "title": "Associate Software Engineer",
-   "uid": "lever:fiscalnote:c76e748f-6e25-42cf-bf26-ebae44280ffd"
-  },
-  {
-   "closed_at": 1790902141,
-   "company": "spacex",
-   "hours_open": 679.9,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1790902277,
-   "company": "zoox",
-   "hours_open": 677.0,
-   "title": "Software Engineer, Android",
-   "uid": "lever:zoox:d48270e1-81e0-4f04-ab9e-d1fc25313f76"
-  },
-  {
    "closed_at": 1790902277,
    "company": "sprymethods",
    "hours_open": 559.7,
@@ -5599,8 +5536,71 @@
    "hours_open": 795.2,
    "title": "Security Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1791328929,
+   "company": "ID.me",
+   "hours_open": 24.2,
+   "title": "Software Development Engineer 2 New Grad - Life Hub - Super App",
+   "uid": "simplify:listings:96e1951b-5f22-4c47-8da1-269eee7486fa"
+  },
+  {
+   "closed_at": 1791328929,
+   "company": "Groupe DCM",
+   "hours_open": 450.4,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534679"
+  },
+  {
+   "closed_at": 1791328929,
+   "company": "CGI",
+   "hours_open": 678.2,
+   "title": "Conseiller en audit de cybersécurité",
+   "uid": "jobillico:analyste cybersecurite:17433750"
+  },
+  {
+   "closed_at": 1791328929,
+   "company": "sigmacomputing",
+   "hours_open": 0.4,
+   "title": "Software Engineering Intern (Summer 2027)",
+   "uid": "greenhouse:sigmacomputing:8001295003"
+  },
+  {
+   "closed_at": 1791328929,
+   "company": "nexuse-group",
+   "hours_open": 778.0,
+   "title": "Instrumentation & Controls Engineer Intern or Co-Op (Summer 2027)",
+   "uid": "lever:nexuse-group:9732456a-5672-4cf2-bcdb-721159c0d8a6"
+  },
+  {
+   "closed_at": 1791328929,
+   "company": "RTX",
+   "hours_open": 116.8,
+   "title": "Electrical Test Engineer 1",
+   "uid": "simplify:listings:433bfcc1-f2a0-49f6-853e-765752170b6a"
+  },
+  {
+   "closed_at": 1791328929,
+   "company": "spacex",
+   "hours_open": 798.4,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1791328929,
+   "company": "spacex",
+   "hours_open": 798.4,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1791328929,
+   "company": "spacex",
+   "hours_open": 796.7,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
- "count": 820,
- "updated_at": 1791327897
+ "count": 809,
+ "updated_at": 1791328929
 }
