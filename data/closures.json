@@ -1,202 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1790871589,
-   "company": "voyagertechnologiesinc",
-   "hours_open": 671.4,
-   "title": "Cable Harness Engineer",
-   "uid": "greenhouse:voyagertechnologiesinc:4381248009"
-  },
-  {
-   "closed_at": 1790871589,
-   "company": "darkwolfsolutions",
-   "hours_open": 671.4,
-   "title": "Mid-level Cybersecurity Engineer / RMF Specialist",
-   "uid": "greenhouse:darkwolfsolutions:7893833003"
-  },
-  {
-   "closed_at": 1790871589,
-   "company": "spacex",
-   "hours_open": 671.1,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1790871589,
-   "company": "spacex",
-   "hours_open": 671.4,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1790871589,
-   "company": "andurilindustries",
-   "hours_open": 669.7,
-   "title": "Product Operations Technical Specialist, Air Defense",
-   "uid": "greenhouse:andurilindustries:5178736007"
-  },
-  {
-   "closed_at": 1790871589,
-   "company": "caci",
-   "hours_open": 50.0,
-   "title": "Software Engineer Intern - Summer 2027",
-   "uid": "workday:caci.wd1/external:Software-Engineer-Intern---Summer-2027_332776"
-  },
-  {
-   "closed_at": 1790871711,
-   "company": "disney",
-   "hours_open": 17.2,
-   "title": "Product Software Engineer I",
-   "uid": "workday:disney.wd5/disneycareer:Product-Software-Engineer-I_10157015"
-  },
-  {
-   "closed_at": 1790871711,
-   "company": "Brightmark",
-   "hours_open": 534.4,
-   "title": "network administrator",
-   "uid": "jobbank:network administrator:50248661"
-  },
-  {
-   "closed_at": 1790871711,
-   "company": "cadence",
-   "hours_open": 669.7,
-   "title": "Adams Application Software Developer  (Recent Grad 2026)",
-   "uid": "workday:cadence.wd1/University_Talent:Adams-Application-Software-Developer---Recent-Grad-2026-_R55736-1"
-  },
-  {
-   "closed_at": 1790871711,
-   "company": "cadence",
-   "hours_open": 684.1,
-   "title": "Adams MultiBody Dynamics Application Software Developer (Recent Grad 2026)",
-   "uid": "workday:cadence.wd1/University_Talent:Adams-MultiBody-Dynamics-Application-Software-Developer--Recent-Grad-2026-_R55788-3"
-  },
-  {
-   "closed_at": 1790871711,
-   "company": "chamberlain",
-   "hours_open": 33.0,
-   "title": "Engineer 1, Firmware (Intern Conversion)",
-   "uid": "workday:chamberlain.wd1/Chamberlain_Group:Engineer-1--Firmware--Intern-Conversion-_JR31660"
-  },
-  {
-   "closed_at": 1790871711,
-   "company": "chamberlain",
-   "hours_open": 33.0,
-   "title": "Software Engineer 1, Middleware (Intern Conversion)",
-   "uid": "workday:chamberlain.wd1/Chamberlain_Group:Software-Engineer-1--Middleware--Intern-Conversion-_JR31674"
-  },
-  {
-   "closed_at": 1790871711,
-   "company": "D3 Security Management Systems Inc",
-   "hours_open": 305.8,
-   "title": "cybersecurity specialist",
-   "uid": "jobbank:specialiste infrastructure:50317565"
-  },
-  {
-   "closed_at": 1790872472,
-   "company": "gevernova",
-   "hours_open": 16.9,
-   "title": "Software Engineering Graduate Programme-1",
-   "uid": "workday:gevernova.wd5/vernova_externalsite:Software-Engineering-Graduate-Programme-1_R5045896-2"
-  },
-  {
-   "closed_at": 1790872472,
-   "company": "celonis",
-   "hours_open": 454.7,
-   "title": "Associate Value Engineer (AI-Driven Data Science & Analytics) - Orbit Program",
-   "uid": "greenhouse:celonis:7885897003"
-  },
-  {
-   "closed_at": 1790872472,
-   "company": "intel",
-   "hours_open": 693.0,
-   "title": "NMSI Module Engineer- Entry Level",
-   "uid": "workday:intel.wd1/external:NMSI-Module-Engineer--Entry-Level_JR0286667-1"
-  },
-  {
-   "closed_at": 1790872472,
-   "company": "City of Surrey",
-   "hours_open": 551.4,
-   "title": "systems specialist - computer systems",
-   "uid": "jobbank:systems analyst:50216007"
-  },
-  {
-   "closed_at": 1790872472,
-   "company": "FOP EXPERTS CONSEILS INC.",
-   "hours_open": 17.9,
-   "title": "network system administrator",
-   "uid": "jobbank:systems administrator:50398465"
-  },
-  {
-   "closed_at": 1790872472,
-   "company": "fmr",
-   "hours_open": 473.8,
-   "title": "Co-op, Software Full Stack Engineer",
-   "uid": "workday:fmr.wd1/targeted:Co-op--Software-Full-Stack-Engineer_2135236"
-  },
-  {
-   "closed_at": 1790872472,
-   "company": "intel",
-   "hours_open": 508.7,
-   "title": "Operations Research Engineer Intern",
-   "uid": "workday:intel.wd1/external:Operations-Research-Engineer-Intern_JR0286945"
-  },
-  {
-   "closed_at": 1790872472,
-   "company": "fifththird",
-   "hours_open": 675.0,
-   "title": "Software Engineer Co-Op - Enterprise Finance Applications - Spring 2027",
-   "uid": "workday:fifththird.wd5/53careers:Software-Engineer-Co-Op---Enterprise-Finance-Applications---Spring-2027_R71587"
-  },
-  {
-   "closed_at": 1790872472,
-   "company": "Amazon",
-   "hours_open": 239.9,
-   "title": "Software Development Engineer, Kiro",
-   "uid": "amazon:amazon:10554903"
-  },
-  {
-   "closed_at": 1790872472,
-   "company": "globusmedical",
-   "hours_open": 693.0,
-   "title": "Associate Software Engineer",
-   "uid": "workday:globusmedical.wd5/GMED_Careers:Associate-Software-Engineer_JR106980-1"
-  },
-  {
-   "closed_at": 1790872472,
-   "company": "spacex",
-   "hours_open": 671.6,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1790872708,
-   "company": "micron",
-   "hours_open": 16.8,
-   "title": "New College Grad - Product Yield Enhancement Engineer, HBM",
-   "uid": "workday:micron.wd1/External:New-College-Grad---Product-Yield-Enhancement-Engineer--HBM_JR104805"
-  },
-  {
-   "closed_at": 1790872708,
-   "company": "ms",
-   "hours_open": 63.7,
-   "title": "Associate, Software Engineer",
-   "uid": "workday:ms.wd5/External:Associate--Software-Engineer_JR040855"
-  },
-  {
-   "closed_at": 1790872708,
-   "company": "micron",
-   "hours_open": 63.7,
-   "title": "New College Grad - Module Hardware Engineer",
-   "uid": "workday:micron.wd1/External:Module-Hardware-Engineer_JR113177"
-  },
-  {
-   "closed_at": 1790872708,
-   "company": "micron",
-   "hours_open": 684.4,
-   "title": "New College Grad - Design Engineer, DRAM Technology and Products",
-   "uid": "workday:micron.wd1/External:New-College-Grad---Design-Engineer--DRAM-Technology-and-Products_JR105519"
-  },
-  {
    "closed_at": 1790872708,
    "company": "micron",
    "hours_open": 679.7,
@@ -5599,8 +5403,204 @@
    "hours_open": 810.9,
    "title": "Junior Software Engineer",
    "uid": "workday:kbr.wd5/kbr_careers:Junior-Software-Engineer_R2122294"
+  },
+  {
+   "closed_at": 1791305141,
+   "company": "JP Morgan Chase",
+   "hours_open": 10.2,
+   "title": "Software Engineer 1",
+   "uid": "simplify:listings:8eaeeea9-e989-429e-afc9-1418dcb4545c"
+  },
+  {
+   "closed_at": 1791305141,
+   "company": "pae",
+   "hours_open": 22.1,
+   "title": "Entry Level Software Engineer",
+   "uid": "workday:pae.wd1/amentum_careers:Entry-Level-Software-Engineer_R0172148"
+  },
+  {
+   "closed_at": 1791305141,
+   "company": "TS Manufacturing",
+   "hours_open": 188.5,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50383922"
+  },
+  {
+   "closed_at": 1791305141,
+   "company": "Groupe DCM",
+   "hours_open": 437.7,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534670"
+  },
+  {
+   "closed_at": 1791305141,
+   "company": "pae",
+   "hours_open": 87.3,
+   "title": "Junior Software Developer",
+   "uid": "workday:pae.wd1/amentum_careers:Junior-Software-Developer_R0172202"
+  },
+  {
+   "closed_at": 1791305141,
+   "company": "mmc",
+   "hours_open": 87.4,
+   "title": "Junior Full-Stack Engineer, Generative AI @ Marsh Tech",
+   "uid": "workday:mmc.wd1/MMC:Junior-Full-Stack-Engineer--Generative-AI---Marsh-Tech_R_367686"
+  },
+  {
+   "closed_at": 1791305141,
+   "company": "pg",
+   "hours_open": 795.2,
+   "title": "Northeastern University R&D Engineer Co-op- Northeastern Students Graduating in 2029 ONLY",
+   "uid": "workday:pg.wd5/1000:Northeastern-University-R-D-Engineer-Co-op--Northeastern-Students-Graduating-in-2028-2029-ONLY_R000155302"
+  },
+  {
+   "closed_at": 1791305141,
+   "company": "Amentum",
+   "hours_open": 17.6,
+   "title": "Entry Level Software Engineer",
+   "uid": "simplify:listings:8b814030-ef68-4f27-8a2b-d020a043b99c"
+  },
+  {
+   "closed_at": 1791305141,
+   "company": "Amazon",
+   "hours_open": 260.0,
+   "title": "Software Development Engineer, Devices Software & Services",
+   "uid": "amazon:amazon:10560849"
+  },
+  {
+   "closed_at": 1791305141,
+   "company": "Amazon",
+   "hours_open": 283.0,
+   "title": "Software Development Engineer, Sponsored Products and Brands",
+   "uid": "amazon:amazon:10559549"
+  },
+  {
+   "closed_at": 1791305141,
+   "company": "Amazon",
+   "hours_open": 166.4,
+   "title": "Software Development Engineer, Display Advertising, Entertainment, Devices & Grocery Ad Experiences",
+   "uid": "amazon:amazon:10564013"
+  },
+  {
+   "closed_at": 1791305141,
+   "company": "Amazon",
+   "hours_open": 286.0,
+   "title": "Software Development Engineer, Customer Service Technologies",
+   "uid": "amazon:amazon:10559392"
+  },
+  {
+   "closed_at": 1791305141,
+   "company": "Amazon",
+   "hours_open": 10.3,
+   "title": "Software Development Engineer, ML Acceleration, Trainium AI Systems, Annapurna Labs",
+   "uid": "amazon:amazon:10570092"
+  },
+  {
+   "closed_at": 1791305141,
+   "company": "singlestore",
+   "hours_open": 491.8,
+   "title": "IT Operations Engineer",
+   "uid": "greenhouse:singlestore:8142139"
+  },
+  {
+   "closed_at": 1791305141,
+   "company": "stripe",
+   "hours_open": 791.8,
+   "title": "Security Analyst ",
+   "uid": "greenhouse:stripe:8142302"
+  },
+  {
+   "closed_at": 1791305141,
+   "company": "lgelectronics",
+   "hours_open": 790.1,
+   "title": "Backend/ML Engineer",
+   "uid": "greenhouse:lgelectronics:5394128008"
+  },
+  {
+   "closed_at": 1791305141,
+   "company": "mitratech",
+   "hours_open": 491.8,
+   "title": "Software Engineer I - AssureHire (Go)",
+   "uid": "greenhouse:mitratech:8060928"
+  },
+  {
+   "closed_at": 1791305141,
+   "company": "momentumcompany3",
+   "hours_open": 671.6,
+   "title": "Associate Cybersecurity Analyst | Early Career",
+   "uid": "greenhouse:momentumcompany3:8515272002"
+  },
+  {
+   "closed_at": 1791305141,
+   "company": "FOP EXPERTS CONSEILS INC.",
+   "hours_open": 116.8,
+   "title": "programmer analyst",
+   "uid": "jobbank:junior programmer:50403847"
+  },
+  {
+   "closed_at": 1791305141,
+   "company": "Source Code",
+   "hours_open": 10.3,
+   "title": "software developer",
+   "uid": "jobbank:entry level software developer:50424402"
+  },
+  {
+   "closed_at": 1791305141,
+   "company": "nvidia",
+   "hours_open": 137.0,
+   "title": "System Design Engineer - New College Grad 2026",
+   "uid": "workday:nvidia.wd5/NVIDIAExternalCareerSite:System-Design-Engineer---New-College-Grad-2026_JR2011879"
+  },
+  {
+   "closed_at": 1791305141,
+   "company": "spacex",
+   "hours_open": 791.8,
+   "title": "Full Stack Software Engineer, Employee Experience ",
+   "uid": "greenhouse:spacex:8726225002"
+  },
+  {
+   "closed_at": 1791305141,
+   "company": "spacex",
+   "hours_open": 791.8,
+   "title": "Supplier Development Engineer, Manufacturing (Raptor)",
+   "uid": "greenhouse:spacex:8693932002"
+  },
+  {
+   "closed_at": 1791305141,
+   "company": "spacex",
+   "hours_open": 791.8,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1791305141,
+   "company": "accenturefederalservices",
+   "hours_open": 261.8,
+   "title": "Data Engineer ",
+   "uid": "greenhouse:accenturefederalservices:4715780006"
+  },
+  {
+   "closed_at": 1791305141,
+   "company": "Amazon",
+   "hours_open": 110.2,
+   "title": "Software Development Engineer , Leo Network Services - Network Orchestration",
+   "uid": "amazon:amazon:10567585"
+  },
+  {
+   "closed_at": 1791305141,
+   "company": "Amazon",
+   "hours_open": 142.1,
+   "title": "Software Development Engineer - Embedded, UMAC",
+   "uid": "amazon:amazon:10565727"
+  },
+  {
+   "closed_at": 1791305141,
+   "company": "Amazon",
+   "hours_open": 280.0,
+   "title": "Software Development Engineer, Amazon Leo",
+   "uid": "amazon:amazon:10560115"
   }
  ],
- "count": 809,
- "updated_at": 1791297146
+ "count": 828,
+ "updated_at": 1791305144
 }
