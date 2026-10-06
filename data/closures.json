@@ -2,69 +2,6 @@
  "closed": [
   {
    "closed_at": 1790871589,
-   "company": "Cooptel",
-   "hours_open": 551.2,
-   "title": "Administrateur réseau",
-   "uid": "jobillico:analyste reseau:17185045"
-  },
-  {
-   "closed_at": 1790871589,
-   "company": "blackrock",
-   "hours_open": 216.8,
-   "title": "Associate, Software Engineer - Aladdin Graph",
-   "uid": "workday:blackrock.wd1/BlackRock_Professional:Associate--Software-Engineer---Aladdin-Graph_R266598"
-  },
-  {
-   "closed_at": 1790871589,
-   "company": "andersen",
-   "hours_open": 17.7,
-   "title": "Engineer I",
-   "uid": "workday:andersen.wd12/Andersen_External_Career_Site:Engineer-I_R-6774-1"
-  },
-  {
-   "closed_at": 1790871589,
-   "company": "Amazon",
-   "hours_open": 165.8,
-   "title": "Software Development Engineer, Amazon Security",
-   "uid": "amazon:amazon:10559327"
-  },
-  {
-   "closed_at": 1790871589,
-   "company": "arizeai",
-   "hours_open": 669.7,
-   "title": "Forward Deployed AI Engineer, East",
-   "uid": "greenhouse:arizeai:5993755004"
-  },
-  {
-   "closed_at": 1790871589,
-   "company": "avav",
-   "hours_open": 232.3,
-   "title": "Software Engineering Intern",
-   "uid": "workday:avav.wd1/avav:Software-Engineering-Intern_8813"
-  },
-  {
-   "closed_at": 1790871589,
-   "company": "cadence",
-   "hours_open": 695.4,
-   "title": "Adams Application Software Developer  (Recent Grad 2026)",
-   "uid": "workday:cadence.wd1/Univ_Careers:Adams-Application-Software-Developer---Recent-Grad-2026-_R55736-2"
-  },
-  {
-   "closed_at": 1790871589,
-   "company": "cadence",
-   "hours_open": 695.4,
-   "title": "Adams MultiBody Dynamics Application Software Developer (Recent Grad 2026)",
-   "uid": "workday:cadence.wd1/External_Careers:Adams-MultiBody-Dynamics-Application-Software-Developer--Recent-Grad-2026-_R55788"
-  },
-  {
-   "closed_at": 1790871589,
-   "company": "andersen",
-   "hours_open": 695.4,
-   "title": "Manufacturing Project Engineer 1",
-   "uid": "workday:andersen.wd12/Andersen_External_Career_Site:Engineer-I_R-4416"
-  },
-  {
-   "closed_at": 1790871589,
    "company": "voyagertechnologiesinc",
    "hours_open": 671.4,
    "title": "Cable Harness Engineer",
@@ -5599,8 +5536,71 @@
    "hours_open": 787.0,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1791297144,
+   "company": "mmc",
+   "hours_open": 20.2,
+   "title": "Software Developer - I",
+   "uid": "workday:mmc.wd1/MMC:Quality-Assurance-Engineer_R_310976"
+  },
+  {
+   "closed_at": 1791297144,
+   "company": "jj",
+   "hours_open": 20.2,
+   "title": "Automation Specialist Co-Op",
+   "uid": "workday:jj.wd5/JJ:Asset-Management-Co-Op_R-101720"
+  },
+  {
+   "closed_at": 1791297144,
+   "company": "Groupe DCM",
+   "hours_open": 441.6,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534679"
+  },
+  {
+   "closed_at": 1791297144,
+   "company": "CGI",
+   "hours_open": 669.4,
+   "title": "Analyste en opérations de cybersécurité",
+   "uid": "jobillico:analyste cybersecurite:17433747"
+  },
+  {
+   "closed_at": 1791297144,
+   "company": "CGI",
+   "hours_open": 669.4,
+   "title": "Conseiller en audit de cybersécurité",
+   "uid": "jobillico:analyste cybersecurite:17433750"
+  },
+  {
+   "closed_at": 1791297144,
+   "company": "intel",
+   "hours_open": 87.0,
+   "title": "AI Software Engineering Undergraduate Intern",
+   "uid": "workday:intel.wd1/external:AI-Software-Engineering-Undergraduate-Intern_JR0287583"
+  },
+  {
+   "closed_at": 1791297144,
+   "company": "lowes",
+   "hours_open": 520.1,
+   "title": "Exploratory Software Engineering - Undergrad Internship - Summer 2027",
+   "uid": "workday:lowes.wd5/LWS_External_CS:Exploratory-Software-Engineering---Undergrad-Internship---Summer-2027_JR-02623542"
+  },
+  {
+   "closed_at": 1791297144,
+   "company": "jci",
+   "hours_open": 508.1,
+   "title": "ACE Technical Sales - Fire Detection (Southeast)",
+   "uid": "workday:jci.wd5/JCI:ACE-Technical-Sales---Fire-Detection_WD30279390"
+  },
+  {
+   "closed_at": 1791297144,
+   "company": "kbr",
+   "hours_open": 810.9,
+   "title": "Junior Software Engineer",
+   "uid": "workday:kbr.wd5/kbr_careers:Junior-Software-Engineer_R2122294"
   }
  ],
- "count": 806,
- "updated_at": 1791293987
+ "count": 809,
+ "updated_at": 1791297146
 }
