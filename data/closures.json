@@ -2,62 +2,6 @@
  "closed": [
   {
    "closed_at": 1790807897,
-   "company": "chaosindustries",
-   "hours_open": 381.7,
-   "title": "Systems Engineer, Algorithm Development",
-   "uid": "greenhouse:chaosindustries:5091185007"
-  },
-  {
-   "closed_at": 1790807897,
-   "company": "virtu",
-   "hours_open": 530.3,
-   "title": "Automation Developer",
-   "uid": "greenhouse:virtu:5065990002"
-  },
-  {
-   "closed_at": 1790807897,
-   "company": "YO AI Labs",
-   "hours_open": 56.9,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50315080"
-  },
-  {
-   "closed_at": 1790807897,
-   "company": "Richie It Solutions Inc",
-   "hours_open": 152.2,
-   "title": "software developer",
-   "uid": "jobbank:junior programmer:50357104"
-  },
-  {
-   "closed_at": 1790807897,
-   "company": "cloudflare",
-   "hours_open": 383.3,
-   "title": "Software Engineer, Enterprise Integrations",
-   "uid": "greenhouse:cloudflare:8155495"
-  },
-  {
-   "closed_at": 1790807897,
-   "company": "L3Harris Technologies",
-   "hours_open": 24.0,
-   "title": "Associate Software Engineer",
-   "uid": "simplify:listings:92f02a6c-abe5-4113-a080-6f7e53861b95"
-  },
-  {
-   "closed_at": 1790807897,
-   "company": "spacex",
-   "hours_open": 650.7,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1790807897,
-   "company": "accenturefederalservices",
-   "hours_open": 533.5,
-   "title": "Junior Systems Administrator",
-   "uid": "greenhouse:accenturefederalservices:4702368006"
-  },
-  {
-   "closed_at": 1790807897,
    "company": "spacex",
    "hours_open": 653.7,
    "title": "Full Stack Software Engineer, Observability (Starlink)",
@@ -5599,8 +5543,64 @@
    "hours_open": 773.6,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1791246152,
+   "company": "Cooptel",
+   "hours_open": 655.2,
+   "title": "Administrateur réseau",
+   "uid": "jobillico:analyste reseau:17185045"
+  },
+  {
+   "closed_at": 1791246152,
+   "company": "quanta",
+   "hours_open": 575.6,
+   "title": "Software Engineer (Implementation)",
+   "uid": "ashby:quanta:bdbee896-e05d-4e0c-b2f1-996dd01db800"
+  },
+  {
+   "closed_at": 1791246152,
+   "company": "revel",
+   "hours_open": 655.2,
+   "title": "Internship: Software Engineer, Test",
+   "uid": "ashby:revel:f080b27d-92c7-4e1f-a85f-b4a7c166d738"
+  },
+  {
+   "closed_at": 1791246152,
+   "company": "revel",
+   "hours_open": 655.2,
+   "title": "Internship: Full Stack Software Engineer",
+   "uid": "ashby:revel:29968ce1-8838-44e8-ac4e-6b1c87ce5314"
+  },
+  {
+   "closed_at": 1791246152,
+   "company": "revel",
+   "hours_open": 655.2,
+   "title": "Internship: Forward Deployed Engineer, Test",
+   "uid": "ashby:revel:6ca4dca8-a43e-41da-acc3-e6b4d8f9b3c1"
+  },
+  {
+   "closed_at": 1791246152,
+   "company": "revel",
+   "hours_open": 655.2,
+   "title": "Internship: Forward Deployed Engineer, Software",
+   "uid": "ashby:revel:34f97b81-c981-4c4b-9f4d-d471c33b46cc"
+  },
+  {
+   "closed_at": 1791246152,
+   "company": "revel",
+   "hours_open": 655.2,
+   "title": "Internship: Embedded Software Engineer",
+   "uid": "ashby:revel:f8eec1fd-da28-47ce-bca4-2fbe9c48a889"
+  },
+  {
+   "closed_at": 1791246152,
+   "company": "spacex",
+   "hours_open": 775.4,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
  "count": 808,
- "updated_at": 1791245590
+ "updated_at": 1791246153
 }
