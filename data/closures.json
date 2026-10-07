@@ -1,41 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1790980231,
-   "company": "cadence",
-   "hours_open": 649.8,
-   "title": "Software Engineer  (new college grad Dec 2026)",
-   "uid": "workday:cadence.wd1/University_Talent_NCG:Software-Engineer---new-college-grad-Dec-2026-_R55738"
-  },
-  {
-   "closed_at": 1790980231,
-   "company": "cccis",
-   "hours_open": 549.9,
-   "title": "First Party Casualty Claims Solutions Consultant",
-   "uid": "workday:cccis.wd1/broadbean_external:Senior-Solutions-Engineer--First-Party-Casualty_0014791"
-  },
-  {
-   "closed_at": 1790980231,
-   "company": "spacex",
-   "hours_open": 701.5,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1790980231,
-   "company": "spacex",
-   "hours_open": 701.5,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1790980231,
-   "company": "spacex",
-   "hours_open": 699.9,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
    "closed_at": 1790980634,
    "company": "McCain Foods",
    "hours_open": 535.2,
@@ -5599,8 +5564,43 @@
    "hours_open": 335.6,
    "title": "Self-Driving Systems Specialist (SDS Specialist)",
    "uid": "lever:tsmg:f2abcd98-d00c-42c5-a5f1-bc4d8f405c10"
+  },
+  {
+   "closed_at": 1791408573,
+   "company": "Eurofins",
+   "hours_open": 19.2,
+   "title": "Laboratory Systems Specialist (Entry Level)",
+   "uid": "smartrecruiters:Eurofins:744000153853149"
+  },
+  {
+   "closed_at": 1791408573,
+   "company": "AbbVie",
+   "hours_open": 19.2,
+   "title": "Associate Engineer, Quality Systems",
+   "uid": "smartrecruiters:AbbVie:3743990015920416"
+  },
+  {
+   "closed_at": 1791408573,
+   "company": "spacex",
+   "hours_open": 817.6,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1791408573,
+   "company": "spacex",
+   "hours_open": 820.3,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1791408573,
+   "company": "spacex",
+   "hours_open": 820.5,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 803,
- "updated_at": 1791408379
+ "count": 805,
+ "updated_at": 1791408574
 }
