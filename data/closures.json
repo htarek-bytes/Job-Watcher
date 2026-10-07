@@ -1,160 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1790980634,
-   "company": "McCain Foods",
-   "hours_open": 535.2,
-   "title": "software developer",
-   "uid": "jobbank:scada:50258975"
-  },
-  {
-   "closed_at": 1790980634,
-   "company": "clearwateranalytics",
-   "hours_open": 408.5,
-   "title": "Quant Developer Intern",
-   "uid": "workday:clearwateranalytics.wd1/Clearwater_Analytics_Careers:Quant-Developer-Intern_R12182"
-  },
-  {
-   "closed_at": 1790980634,
-   "company": "costar",
-   "hours_open": 434.1,
-   "title": "Security Engineer Intern - Arlington, VA",
-   "uid": "workday:costar.wd1/Costar_Campus:Security-Engineer-Intern---Arlington--VA_R39727"
-  },
-  {
-   "closed_at": 1790980634,
-   "company": "costar",
-   "hours_open": 434.1,
-   "title": "Associate Software Engineer - Arlington, VA",
-   "uid": "workday:costar.wd1/Costar_Campus:Associate-Software-Engineer---Arlington--VA_R39668"
-  },
-  {
-   "closed_at": 1790980634,
-   "company": "costar",
-   "hours_open": 434.1,
-   "title": "Associate Software Engineer - Richmond, VA",
-   "uid": "workday:costar.wd1/Costar_Campus:Associate-Software-Engineer---Richmond--VA_R39667"
-  },
-  {
-   "closed_at": 1790980634,
-   "company": "fifththird",
-   "hours_open": 581.5,
-   "title": "Information Security Co-op - Cyber Threat Interdiction - Summer 2027",
-   "uid": "workday:fifththird.wd5/53careers:Information-Security-Co-op---Cyber-Threat-Interdiction---Summer-2027_R71582"
-  },
-  {
-   "closed_at": 1790980634,
-   "company": "costar",
-   "hours_open": 525.4,
-   "title": "Matterport - Software Engineer I",
-   "uid": "workday:costar.wd1/CoStarCareers:Matterport---Software-Engineer-I_R39503"
-  },
-  {
-   "closed_at": 1790980634,
-   "company": "bmo",
-   "hours_open": 190.5,
-   "title": "AI Engineer, Winter 2027 (Co-op/Internship) - 8 months",
-   "uid": "workday:bmo.wd3/External:AI-Engineer--Winter-2027--Co-op-Internship----8-months_R260027622-1"
-  },
-  {
-   "closed_at": 1790980634,
-   "company": "stripe",
-   "hours_open": 0.1,
-   "title": "Software Engineer, Revenue and Financial Automation",
-   "uid": "greenhouse:stripe:7019065"
-  },
-  {
-   "closed_at": 1790980634,
-   "company": "bmo",
-   "hours_open": 175.8,
-   "title": "Business & Operations Development Specialist (New Grad)",
-   "uid": "workday:bmo.wd3/External:Business---Operations-Development-Specialist--New-Grad-_R260027681"
-  },
-  {
-   "closed_at": 1790980634,
-   "company": "cadence",
-   "hours_open": 694.7,
-   "title": "Software Engineer  (new college grad Dec 2026)",
-   "uid": "workday:cadence.wd1/Univ_Careers:Software-Engineer---new-college-grad-Dec-2026-_R55738-2"
-  },
-  {
-   "closed_at": 1790980634,
-   "company": "spacex",
-   "hours_open": 698.7,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1790980634,
-   "company": "spacex",
-   "hours_open": 701.4,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1790980634,
-   "company": "spacex",
-   "hours_open": 701.7,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1790984102,
-   "company": "globalhr",
-   "hours_open": 16.8,
-   "title": "Electrical Test Engineer I",
-   "uid": "workday:globalhr.wd5/rec_rtx_ext_gateway:Electrical-Test-Engineer-I_01879612"
-  },
-  {
-   "closed_at": 1790984102,
-   "company": "globalhr",
-   "hours_open": 16.8,
-   "title": "Software Test Engineer I",
-   "uid": "workday:globalhr.wd5/rec_rtx_ext_gateway:Software-Test-Engineer-I_01879607"
-  },
-  {
-   "closed_at": 1790984102,
-   "company": "globalhr",
-   "hours_open": 16.8,
-   "title": "Software Engineering Co-Op (Avionics) (Summer/Fall 2027) (Hybrid)",
-   "uid": "workday:globalhr.wd5/rec_rtx_ext_gateway:Software-Engineering-Co-Op--Avionics---Summer-Fall-2027---Hybrid-_01874664"
-  },
-  {
-   "closed_at": 1790984102,
-   "company": "globalhr",
-   "hours_open": 16.8,
-   "title": "Software Engineering Co-Op (Summer/Fall 2027) (Hybrid)",
-   "uid": "workday:globalhr.wd5/rec_rtx_ext_gateway:Software-Engineering-Intern--Summer-Fall-2027---Hybrid-_01874124"
-  },
-  {
-   "closed_at": 1790984102,
-   "company": "globalhr",
-   "hours_open": 16.8,
-   "title": "Software Engineer, DevSecOps Co-Op (Summer/Fall 2027) (Hybrid)",
-   "uid": "workday:globalhr.wd5/rec_rtx_ext_gateway:Software-Engineer--DevSecOps-Co-Op--Summer-Fall-2027---Hybrid-_01873555"
-  },
-  {
-   "closed_at": 1790984102,
-   "company": "globalhr",
-   "hours_open": 16.8,
-   "title": "Software Engineering Co-Op (January 2027) (Hybrid)",
-   "uid": "workday:globalhr.wd5/rec_rtx_ext_gateway:Software-Engineering-Co-Op--January-2027---Hybrid-_01874122"
-  },
-  {
-   "closed_at": 1790984102,
-   "company": "gevernova",
-   "hours_open": 16.8,
-   "title": "GE Vernova Cyber UX Controls Engineer-1",
-   "uid": "workday:gevernova.wd5/vernova_externalsite:GE-Vernova-Cyber-UX-Controls-Engineer-1_R5054301-2"
-  },
-  {
-   "closed_at": 1790984102,
-   "company": "waabi",
-   "hours_open": 412.6,
-   "title": "IT System Administrator",
-   "uid": "lever:waabi:30ed0635-d67b-4856-8b2e-b9c9bf65d389"
-  },
-  {
    "closed_at": 1790984102,
    "company": "globalhr",
    "hours_open": 95.1,
@@ -5599,8 +5445,162 @@
    "hours_open": 820.5,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1791417211,
+   "company": "EquipmentShare",
+   "hours_open": 21.6,
+   "title": "Software Engineer 1",
+   "uid": "simplify:listings:ca291eaf-69cd-4a1c-91c7-dcc20bc50b33"
+  },
+  {
+   "closed_at": 1791417211,
+   "company": "coinbase",
+   "hours_open": 148.0,
+   "title": "Software Engineer, Backend - Payments Platform",
+   "uid": "greenhouse:coinbase:8247397"
+  },
+  {
+   "closed_at": 1791417211,
+   "company": "ServiceNow",
+   "hours_open": 21.5,
+   "title": "Forward Deployed Solution Engineer – Applied AI FDE",
+   "uid": "smartrecruiters:ServiceNow:744000153790887"
+  },
+  {
+   "closed_at": 1791417211,
+   "company": "Mastercard",
+   "hours_open": 48.7,
+   "title": "Software Engineer 1",
+   "uid": "simplify:listings:0904ada8-dd5b-47ed-b6b2-f23cdd66fb39"
+  },
+  {
+   "closed_at": 1791417211,
+   "company": "YO AI Labs",
+   "hours_open": 72.8,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50422478"
+  },
+  {
+   "closed_at": 1791417211,
+   "company": "Umano Medical",
+   "hours_open": 702.7,
+   "title": "Concepteur logiciel embarqué et cybersécurité",
+   "uid": "jobillico:analyste cybersecurite:17489580"
+  },
+  {
+   "closed_at": 1791417211,
+   "company": "Cooptel",
+   "hours_open": 702.7,
+   "title": "Administrateur réseau",
+   "uid": "jobillico:analyste reseau:17185045"
+  },
+  {
+   "closed_at": 1791417211,
+   "company": "Protech Group",
+   "hours_open": 623.7,
+   "title": "Junior Application Developer - Database Orientation",
+   "uid": "simplify:listings:7cb90b67-c1af-4e1f-a9a9-e50dc88da299"
+  },
+  {
+   "closed_at": 1791417211,
+   "company": "ServiceNow",
+   "hours_open": 106.4,
+   "title": "Software Engineer, Core Infrastructure - Moveworks (New Grad)",
+   "uid": "smartrecruiters:ServiceNow:744000153279380"
+  },
+  {
+   "closed_at": 1791417211,
+   "company": "Jobs for Humanity",
+   "hours_open": 314.0,
+   "title": "Junior Cybersecurity Engineer",
+   "uid": "smartrecruiters:JobsForHumanity:744000151641432"
+  },
+  {
+   "closed_at": 1791417211,
+   "company": "Sutherland",
+   "hours_open": 465.5,
+   "title": "Facilities Engineer (entry level) - Pili CamSur",
+   "uid": "smartrecruiters:Sutherland:744000150288779"
+  },
+  {
+   "closed_at": 1791417211,
+   "company": "robinhood",
+   "hours_open": 822.9,
+   "title": "Web Engineer",
+   "uid": "greenhouse:robinhood:7543003"
+  },
+  {
+   "closed_at": 1791417211,
+   "company": "IXL Learning",
+   "hours_open": 859.6,
+   "title": "Software Developer New Grad - Integrations",
+   "uid": "simplify:listings:c58e3a3d-ab52-4b49-a119-97d65df470fb"
+  },
+  {
+   "closed_at": 1791417211,
+   "company": "Lakeland Roman Catholic Separate School Division",
+   "hours_open": 702.7,
+   "title": "computer systems analyst",
+   "uid": "jobbank:systems analyst:50064831"
+  },
+  {
+   "closed_at": 1791417211,
+   "company": "IXL Learning",
+   "hours_open": 859.6,
+   "title": "Software Engineer New Grad",
+   "uid": "simplify:listings:1cf2b338-7870-42b6-a290-49ed01eb12cd"
+  },
+  {
+   "closed_at": 1791417211,
+   "company": "General Dynamics Mission Systems",
+   "hours_open": 24.5,
+   "title": "Embedded Software Engineer – Entry Level",
+   "uid": "simplify:listings:51ba20ce-fa42-44f4-8918-7f1f063dabb3"
+  },
+  {
+   "closed_at": 1791417211,
+   "company": "andurilindustries",
+   "hours_open": 391.2,
+   "title": "Entry Level Systems Engineer, C2 Networking, Clearance Eligible",
+   "uid": "greenhouse:andurilindustries:5241149007"
+  },
+  {
+   "closed_at": 1791417211,
+   "company": "spacex",
+   "hours_open": 822.9,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1791417211,
+   "company": "spacex",
+   "hours_open": 822.9,
+   "title": "IT Windows Systems Engineer - Top Secret Clearance",
+   "uid": "greenhouse:spacex:8548907002"
+  },
+  {
+   "closed_at": 1791417211,
+   "company": "spacex",
+   "hours_open": 822.9,
+   "title": "IT Systems Engineer - Top Secret Clearance",
+   "uid": "greenhouse:spacex:8548102002"
+  },
+  {
+   "closed_at": 1791417211,
+   "company": "spacex",
+   "hours_open": 822.9,
+   "title": "Automation Engineer, Blades and Vanes Foundry",
+   "uid": "greenhouse:spacex:8502939002"
+  },
+  {
+   "closed_at": 1791417211,
+   "company": "rocketlab",
+   "hours_open": 335.8,
+   "title": "Integrated Operations Engineer",
+   "uid": "greenhouse:rocketlab:7482231003"
   }
  ],
- "count": 805,
- "updated_at": 1791408574
+ "count": 822,
+ "updated_at": 1791417211
 }
