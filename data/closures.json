@@ -2,27 +2,6 @@
  "closed": [
   {
    "closed_at": 1790980231,
-   "company": "autodesk",
-   "hours_open": 410.2,
-   "title": "Intern, Software Developer, Stagiaire en Développement Logiciel",
-   "uid": "workday:autodesk.wd1/Ext:Intern--Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD101101-2"
-  },
-  {
-   "closed_at": 1790980231,
-   "company": "bmo",
-   "hours_open": 166.1,
-   "title": "Business & Operations Development Specialist (New Grad)",
-   "uid": "workday:bmo.wd3/Campus:Business---Operations-Development-Specialist--New-Grad-_R260027681-1"
-  },
-  {
-   "closed_at": 1790980231,
-   "company": "bmo",
-   "hours_open": 334.6,
-   "title": "Software Developer, Winter 2027 (Internship) - 4 months",
-   "uid": "workday:bmo.wd3/Campus:Software-Developer--Winter-2027--Internship----4-months_R260027197-3"
-  },
-  {
-   "closed_at": 1790980231,
    "company": "cadence",
    "hours_open": 649.8,
    "title": "Software Engineer  (new college grad Dec 2026)",
@@ -5599,8 +5578,29 @@
    "hours_open": 820.4,
    "title": "Analytics Engineer",
    "uid": "ashby:koho:2903b2ea-ae70-4c87-a967-675d3f8dee59"
+  },
+  {
+   "closed_at": 1791408378,
+   "company": "sugarcrm",
+   "hours_open": 848.5,
+   "title": "Junior Engineer",
+   "uid": "lever:sugarcrm:19663e84-81c1-47c8-a3a3-38745ae43a9e"
+  },
+  {
+   "closed_at": 1791408378,
+   "company": "zoox",
+   "hours_open": 817.5,
+   "title": "System Test Engineer",
+   "uid": "lever:zoox:ec1de483-ebd5-4b87-96b7-d749f077aefb"
+  },
+  {
+   "closed_at": 1791408378,
+   "company": "tsmg",
+   "hours_open": 335.6,
+   "title": "Self-Driving Systems Specialist (SDS Specialist)",
+   "uid": "lever:tsmg:f2abcd98-d00c-42c5-a5f1-bc4d8f405c10"
   }
  ],
  "count": 803,
- "updated_at": 1791408069
+ "updated_at": 1791408379
 }
