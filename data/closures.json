@@ -1,34 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1790965808,
-   "company": "Verellen Music Academy",
-   "hours_open": 406.6,
-   "title": "cloud administrator",
-   "uid": "jobbank:cloud administrator:50293609"
-  },
-  {
-   "closed_at": 1790965808,
-   "company": "Amazon",
-   "hours_open": 191.9,
-   "title": "Software Development Engineer, Amazon Customer Service ",
-   "uid": "amazon:amazon:10559347"
-  },
-  {
-   "closed_at": 1790965808,
-   "company": "spacex",
-   "hours_open": 697.5,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1790966668,
-   "company": "ServiceNow",
-   "hours_open": 33.4,
-   "title": "Advisory Solution Consultant, Hong Kong",
-   "uid": "smartrecruiters:ServiceNow:744000152864479"
-  },
-  {
    "closed_at": 1790966668,
    "company": "Cooptel",
    "hours_open": 577.6,
@@ -5599,8 +5571,36 @@
    "hours_open": 815.2,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1791390300,
+   "company": "Amazon",
+   "hours_open": 212.1,
+   "title": "Software Development Engineer, Amazon Shopping Videos (Ads)",
+   "uid": "amazon:amazon:10562411"
+  },
+  {
+   "closed_at": 1791390300,
+   "company": "foundationhealthcareers",
+   "hours_open": 808.4,
+   "title": "QA Engineer",
+   "uid": "ashby:foundationhealthcareers:a1f891a3-3f99-4c1a-9e11-74c31bdd8dd5"
+  },
+  {
+   "closed_at": 1791390300,
+   "company": "spacex",
+   "hours_open": 812.5,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1791390300,
+   "company": "spacex",
+   "hours_open": 813.8,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
- "count": 806,
- "updated_at": 1791389476
+ "count": 804,
+ "updated_at": 1791390300
 }
