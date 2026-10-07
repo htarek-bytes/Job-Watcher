@@ -1,27 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1790923532,
-   "company": "highmarkhealth",
-   "hours_open": 561.2,
-   "title": "RN E8 Med/Obs/Telemetry (New Grad), West Penn Hospital",
-   "uid": "workday:highmarkhealth.wd1/highmark:RN-E8-Med-Obs-Telemetry--New-Grad---West-Penn-Hospital_J281708"
-  },
-  {
-   "closed_at": 1790924196,
-   "company": "marvell",
-   "hours_open": 14.3,
-   "title": "Intern, Software QA Engineer",
-   "uid": "workday:marvell.wd1/MarvellCareers2:Intern--Software-QA-Engineer_2603892"
-  },
-  {
-   "closed_at": 1790924196,
-   "company": "marvell",
-   "hours_open": 46.4,
-   "title": "Machine Learning Engineer Intern, BS/MS - Summer 2027",
-   "uid": "workday:marvell.wd1/MarvellCareers:Machine-Learning-Engineer-Intern--BS-MS---Summer-2027_2603860"
-  },
-  {
    "closed_at": 1790924196,
    "company": "keybank",
    "hours_open": 561.4,
@@ -5599,8 +5578,29 @@
    "hours_open": 150.3,
    "title": "Advisory Presales Solution Consultant, Finance & Supply Chain Solutions",
    "uid": "smartrecruiters:ServiceNow:744000152728772"
+  },
+  {
+   "closed_at": 1791340248,
+   "company": "Cooptel",
+   "hours_open": 681.4,
+   "title": "Administrateur réseau",
+   "uid": "jobillico:analyste reseau:17185045"
+  },
+  {
+   "closed_at": 1791340248,
+   "company": "Sigma Defense",
+   "hours_open": 362.9,
+   "title": "1768 - Test Engineer",
+   "uid": "workable:sigmadefense:B03EF35A4B"
+  },
+  {
+   "closed_at": 1791340248,
+   "company": "Credence",
+   "hours_open": 678.1,
+   "title": "Information Security Analyst, Journeyman",
+   "uid": "workable:credence:CEABD43E8C"
   }
  ],
- "count": 816,
- "updated_at": 1791339634
+ "count": 803,
+ "updated_at": 1791340248
 }
