@@ -1,27 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1790980142,
-   "company": "spacex",
-   "hours_open": 701.2,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1790980142,
-   "company": "spacex",
-   "hours_open": 701.5,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1790980231,
-   "company": "bmo",
-   "hours_open": 190.4,
-   "title": "AI Engineer, Winter 2027 (Co-op/Internship) - 8 months",
-   "uid": "workday:bmo.wd3/Campus:AI-Engineer--Winter-2027--Co-op-Internship----8-months_R260027622-2"
-  },
-  {
    "closed_at": 1790980231,
    "company": "autodesk",
    "hours_open": 410.2,
@@ -5599,8 +5578,29 @@
    "hours_open": 820.1,
    "title": "PL/SQL Developer",
    "uid": "greenhouse:accenturefederalservices:4667196006"
+  },
+  {
+   "closed_at": 1791408068,
+   "company": "agile-defense",
+   "hours_open": 22.0,
+   "title": "Information System Security Engineer (ISSE)",
+   "uid": "lever:agile-defense:4038afcd-e3e8-49b8-a9ed-a00c88770e7f"
+  },
+  {
+   "closed_at": 1791408068,
+   "company": "getwingapp",
+   "hours_open": 360.0,
+   "title": "GoHighLevel Automation Specialist Part-time | 20865",
+   "uid": "lever:getwingapp:22fa7c55-091c-45f3-989a-731d011f2cf7"
+  },
+  {
+   "closed_at": 1791408068,
+   "company": "koho",
+   "hours_open": 820.4,
+   "title": "Analytics Engineer",
+   "uid": "ashby:koho:2903b2ea-ae70-4c87-a967-675d3f8dee59"
   }
  ],
- "count": 819,
- "updated_at": 1791406872
+ "count": 803,
+ "updated_at": 1791408069
 }
