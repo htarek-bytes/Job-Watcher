@@ -2,20 +2,6 @@
  "closed": [
   {
    "closed_at": 1790945972,
-   "company": "tmobile",
-   "hours_open": 15.8,
-   "title": "Solution Engineer - Virtual Business",
-   "uid": "workday:tmobile.wd1/External:Solution-Engineer---Virtual-Business_REQ375985-2"
-  },
-  {
-   "closed_at": 1790945972,
-   "company": "Maarut",
-   "hours_open": 13.4,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50406196"
-  },
-  {
-   "closed_at": 1790945972,
    "company": "Muskoka Recruitment Group",
    "hours_open": 6.5,
    "title": "systems specialist - computer systems",
@@ -5599,8 +5585,22 @@
    "hours_open": 296.1,
    "title": "Software Development Engineer Intern - Summer 2027 (USA) , Amazon Dedicated Cloud (ADC)",
    "uid": "amazon:amazon:10559746"
+  },
+  {
+   "closed_at": 1791363116,
+   "company": "bmo",
+   "hours_open": 296.8,
+   "title": "AI Engineer, Winter 2027 (Co-op/Internship) - 8 months",
+   "uid": "workday:bmo.wd3/Campus:AI-Engineer--Winter-2027--Co-op-Internship----8-months_R260027622-2"
+  },
+  {
+   "closed_at": 1791363116,
+   "company": "bmo",
+   "hours_open": 282.1,
+   "title": "Business & Operations Development Specialist (New Grad)",
+   "uid": "workday:bmo.wd3/External:Business---Operations-Development-Specialist--New-Grad-_R260027681"
   }
  ],
- "count": 811,
- "updated_at": 1791355092
+ "count": 802,
+ "updated_at": 1791363117
 }

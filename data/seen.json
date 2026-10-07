@@ -1,5 +1,5 @@
 {
- "count": 7270,
+ "count": 7275,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -2577,6 +2577,7 @@
   "greenhouse:robinhood:8199744": 1789394228,
   "greenhouse:robinhood:8202874": 1789424861,
   "greenhouse:robinhood:8246088": 1790965328,
+  "greenhouse:robinhood:8258307": 1791363116,
   "greenhouse:roboforce:5181554008": 1788479777,
   "greenhouse:roboforce:5434733008": 1790329998,
   "greenhouse:rocketems:4398468009": 1789436213,
@@ -6339,6 +6340,7 @@
   "workday:cadence.wd1/External_Careers:Adams-MultiBody-Dynamics-Application-Software-Developer--Recent-Grad-2026-_R55788": 1788368024,
   "workday:cadence.wd1/External_Careers:Intern--Software-Engineering--Hardware-Verification-R-D_R56477": 1790208212,
   "workday:cadence.wd1/Univ_Careers:Adams-Application-Software-Developer---Recent-Grad-2026-_R55736-2": 1788368024,
+  "workday:cadence.wd1/Univ_Careers:CST-Application-Engineer-Intern---Silicon_R56655": 1791363116,
   "workday:cadence.wd1/Univ_Careers:Distributed-Systems-Engineer_R53233": 1788887337,
   "workday:cadence.wd1/Univ_Careers:Graduate-Student-Intern---Software-Engineering_R56028": 1788410216,
   "workday:cadence.wd1/Univ_Careers:Graduate-Student-Intern---Software-Engineering_R56029-1": 1789417897,
@@ -6353,6 +6355,7 @@
   "workday:cae.wd3/career:C-FIN-275-Software-Engineering-Intern--AI--Automation-and-Business-Intelligence_123477-1": 1788435390,
   "workday:cae.wd3/career:C-IT-200-Product-Cybersecurity-Specialist-Intern_123542": 1788887337,
   "workday:cae.wd3/career:Product-Cybersecurity-Specialist_123467": 1790208212,
+  "workday:cae.wd3/career:Software-Developer-Coop_123904": 1791363116,
   "workday:campbellsoup.wd5/externalcareers_globalsite:Data-Engineer--DA-AI-Co-Op_Req-65838": 1788435390,
   "workday:campbellsoup.wd5/externalcareers_globalsite:Modeling-and-Visualization-Engineer-Co-Op_Req-65846": 1788435390,
   "workday:canadiantirecorporation.wd3/Enterprise_External_Careers_Site:Analyst--Information-Security-Risk-Reporting_JR163997": 1789594041,
@@ -6361,6 +6364,7 @@
   "workday:canadiantirecorporation.wd3/Enterprise_External_Careers_Site:Enterprise-Data-Visualization---BI-Platform-Analyst_JR163657-1": 1788898936,
   "workday:capitalhealth.wd1/CapitalHealthCareers:IT-Product-Engineer-I_JR110768": 1788368024,
   "workday:capitalone.wd12/Capital_One:Associate--Software-Engineer--New-Grad-Card-Expansion_R247320": 1788368024,
+  "workday:capitalone.wd12/Capital_One:Associate--Software-Engineer--New-Grad_R1003048": 1791363116,
   "workday:capitalone.wd12/Capital_One:Intern--Backend-Software-Engineer---Team-Interstellar---Winter-2027_R249022": 1788893879,
   "workday:capitalone.wd12/Capital_One:Intern--Full-Stack-Software-Engineer---Team-Integrated-Sprout---Winter-2027_R249010": 1788893500,
   "workday:capitalone.wd12/Capital_One:Intern--Full-Stack-Software-Engineer---Team-Pickle---Winter-2027_R249013": 1788893500,
@@ -6370,6 +6374,7 @@
   "workday:cat.wd5/solarturbines:XMLNAME-2027-Entry-Level-Suppler-Technical-Engineer-_R0000383122": 1788368024,
   "workday:cccis.wd1/broadbean_external:Senior-Solutions-Engineer--First-Party-Casualty_0014791": 1789000440,
   "workday:ccf.wd1/ClevelandClinicCareers:New-Grad-RN-Resident---Acute-Care-Telemetry-Unit_341168-1": 1789708733,
+  "workday:ccf.wd1/ClevelandClinicCareers:New-Grad-RN-Resident---Internal-Medicine-Telemetry_356937": 1791363116,
   "workday:ccf.wd1/ClevelandClinicCareers:New-Grad-RN-Resident---Med-Surg---Telemetry-Unit_350185": 1789708733,
   "workday:ccf.wd1/ClevelandClinicCareers:New-Grad-RN-Resident---Stroke-Telemetry_338764-1": 1789996861,
   "workday:ccf.wd1/ClevelandClinicCareers:New-Grad-RN-Resident---Telemetry_355738": 1790871711,
@@ -7272,5 +7277,5 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148,
   "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541": 1789106107
  },
- "updated_at": 1791355092
+ "updated_at": 1791363117
 }
