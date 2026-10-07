@@ -2,13 +2,6 @@
  "closed": [
   {
    "closed_at": 1790945972,
-   "company": "Muskoka Recruitment Group",
-   "hours_open": 6.5,
-   "title": "systems specialist - computer systems",
-   "uid": "jobbank:analyste de systemes:50407976"
-  },
-  {
-   "closed_at": 1790945972,
    "company": "Upstaff",
    "hours_open": 6.6,
    "title": "software developer",
@@ -5599,8 +5592,15 @@
    "hours_open": 282.1,
    "title": "Business & Operations Development Specialist (New Grad)",
    "uid": "workday:bmo.wd3/External:Business---Operations-Development-Specialist--New-Grad-_R260027681"
+  },
+  {
+   "closed_at": 1791363327,
+   "company": "globalfoundries",
+   "hours_open": 272.0,
+   "title": "Design Application Engineer (2027 New College Grad)",
+   "uid": "workday:globalfoundries.wd1/External:Design-Application-Engineer--2027-New-College-Grad-_JR-2604190"
   }
  ],
- "count": 802,
- "updated_at": 1791363117
+ "count": 801,
+ "updated_at": 1791363328
 }
