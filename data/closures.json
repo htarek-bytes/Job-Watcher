@@ -1,41 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1791054959,
-   "company": "spacex",
-   "hours_open": 719.4,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1791054959,
-   "company": "spacex",
-   "hours_open": 722.0,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1791055202,
-   "company": "nc",
-   "hours_open": 114.4,
-   "title": "Engineer I",
-   "uid": "workday:nc.wd108/NC_Careers:Engineer-I_JR-125146"
-  },
-  {
-   "closed_at": 1791055202,
-   "company": "Kativik Ilisarniliriniq (La commission scolaire du Nunavik)",
-   "hours_open": 30.3,
-   "title": "network analyst",
-   "uid": "jobbank:network analyst:50409133"
-  },
-  {
-   "closed_at": 1791055202,
-   "company": "spacex",
-   "hours_open": 722.4,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
    "closed_at": 1791055202,
    "company": "spacex",
    "hours_open": 722.4,
@@ -5599,8 +5564,43 @@
    "hours_open": 836.1,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1791470986,
+   "company": "HAFMAN CONSULTING GROUP INC.",
+   "hours_open": 0.1,
+   "title": "information systems quality assurance analyst",
+   "uid": "jobbank:information systems analyst:50453138"
+  },
+  {
+   "closed_at": 1791470986,
+   "company": "Harris Kia",
+   "hours_open": 13.9,
+   "title": "cloud administrator",
+   "uid": "jobbank:cloud administrator:50448096"
+  },
+  {
+   "closed_at": 1791470986,
+   "company": "Source Code",
+   "hours_open": 39.8,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:systems analyst:50440640"
+  },
+  {
+   "closed_at": 1791470986,
+   "company": "Lancesoft",
+   "hours_open": 224.7,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50387533"
+  },
+  {
+   "closed_at": 1791470986,
+   "company": "Bell Canada",
+   "hours_open": 104.4,
+   "title": "analyst, computer systems",
+   "uid": "jobbank:systems analyst:50419044"
   }
  ],
- "count": 804,
- "updated_at": 1791470547
+ "count": 805,
+ "updated_at": 1791470987
 }
