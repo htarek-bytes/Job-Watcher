@@ -1,125 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1790706099,
-   "company": "Amazon",
-   "hours_open": 144.9,
-   "title": "Software Development Engineer, Ads AI Core Infra",
-   "uid": "amazon:amazon:10557990"
-  },
-  {
-   "closed_at": 1791055302,
-   "company": "nc",
-   "hours_open": 114.4,
-   "title": "Engineer I",
-   "uid": "workday:nc.wd108/NC_Careers:Engineer-I_JR-125146"
-  },
-  {
-   "closed_at": 1791055500,
-   "company": "tmobile",
-   "hours_open": 65.3,
-   "title": "Solution Engineer - Virtual Business",
-   "uid": "workday:tmobile.wd1/External:Solution-Engineer---Virtual-Business_REQ375980-1"
-  },
-  {
-   "closed_at": 1791055500,
-   "company": "td",
-   "hours_open": 182.1,
-   "title": "Software Engineer I",
-   "uid": "workday:td.wd3/TD_Bank_Careers:Software-Engineer-I_R_1511144"
-  },
-  {
-   "closed_at": 1791055500,
-   "company": "Kativik Ilisarniliriniq (La commission scolaire du Nunavik)",
-   "hours_open": 6.0,
-   "title": "network analyst",
-   "uid": "jobbank:infrastructure analyst:50409133"
-  },
-  {
-   "closed_at": 1791055500,
-   "company": "salesforce",
-   "hours_open": 18.0,
-   "title": "Business Development Associate (Early Career)",
-   "uid": "workday:salesforce.wd12/External_Career_Site:Business-Development-Associate--Early-Career-_JR340479-1"
-  },
-  {
-   "closed_at": 1791055500,
-   "company": "resmed",
-   "hours_open": 206.6,
-   "title": "Associate Software Engineer",
-   "uid": "workday:resmed.wd3/ResMed_External_Careers:Associate-Software-Engineer_JR_052316-1"
-  },
-  {
-   "closed_at": 1791055500,
-   "company": "relx",
-   "hours_open": 428.4,
-   "title": "Aspire Tech Graduate Software Engineer I",
-   "uid": "workday:relx.wd3/LexisNexisLegal:Aspire-Tech-Graduate-Software-Engineer-I_R118694"
-  },
-  {
-   "closed_at": 1791055500,
-   "company": "spacex",
-   "hours_open": 722.5,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1791055500,
-   "company": "spacex",
-   "hours_open": 722.5,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1791058131,
-   "company": "Citylitics",
-   "hours_open": 13.3,
-   "title": "data engineer",
-   "uid": "jobbank:infrastructure analyst:50414504"
-  },
-  {
-   "closed_at": 1791058131,
-   "company": "zoll",
-   "hours_open": 744.5,
-   "title": "Junior Algorithm Engineer",
-   "uid": "workday:zoll.wd5/ZOLLMedicalCorp:Junior-Algorithm-Engineer_R19377"
-  },
-  {
-   "closed_at": 1791058131,
-   "company": "spacex",
-   "hours_open": 722.9,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1791058131,
-   "company": "spacex",
-   "hours_open": 721.5,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1791065524,
-   "company": "Groupe DCM",
-   "hours_open": 377.3,
-   "title": "Programmeur CNC / CNC Programmer",
-   "uid": "jobillico:programmeur junior:17534679"
-  },
-  {
-   "closed_at": 1791065524,
-   "company": "Source Code",
-   "hours_open": 33.2,
-   "title": "software developer",
-   "uid": "jobbank:entry level software developer:50406278"
-  },
-  {
-   "closed_at": 1791065524,
-   "company": "aegworldwide",
-   "hours_open": 596.6,
-   "title": "IT Specialist I",
-   "uid": "greenhouse:aegworldwide:8729947002"
-  },
-  {
    "closed_at": 1791065794,
    "company": "Citylitics",
    "hours_open": 15.4,
@@ -5599,8 +5480,127 @@
    "hours_open": 838.0,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1791482043,
+   "company": "doordashusa",
+   "hours_open": 10.8,
+   "title": "Software Engineer, Intern - Labs (Summer 2027)",
+   "uid": "greenhouse:doordashusa:8263774"
+  },
+  {
+   "closed_at": 1791482043,
+   "company": "stripe",
+   "hours_open": 18.0,
+   "title": "Software Engineer, Internal Identity",
+   "uid": "greenhouse:stripe:8263356"
+  },
+  {
+   "closed_at": 1791482043,
+   "company": "provectus",
+   "hours_open": 20.5,
+   "title": "Associate Forward Deployed Engineer",
+   "uid": "lever:provectus:8f3a9444-2977-4310-b2d5-12cc327a9916"
+  },
+  {
+   "closed_at": 1791482043,
+   "company": "blend",
+   "hours_open": 99.6,
+   "title": "NC Career Fair Software Engineer",
+   "uid": "greenhouse:blend:6214287004"
+  },
+  {
+   "closed_at": 1791482043,
+   "company": "Umano Medical",
+   "hours_open": 720.8,
+   "title": "Concepteur logiciel embarqué et cybersécurité",
+   "uid": "jobillico:analyste cybersecurite:17489580"
+  },
+  {
+   "closed_at": 1791482043,
+   "company": "City of North Vancouver",
+   "hours_open": 333.2,
+   "title": "geographic information systems (gis) analyst",
+   "uid": "jobbank:information systems analyst:50360270"
+  },
+  {
+   "closed_at": 1791482043,
+   "company": "Cooptel",
+   "hours_open": 720.8,
+   "title": "Administrateur réseau",
+   "uid": "jobillico:analyste reseau:17185045"
+  },
+  {
+   "closed_at": 1791482043,
+   "company": "cohere",
+   "hours_open": 720.8,
+   "title": "Forward Deployed Engineer, Infrastructure Specialist (North America)",
+   "uid": "ashby:cohere:be48aafc-9610-4ebd-8414-a0722a3cd59a"
+  },
+  {
+   "closed_at": 1791482043,
+   "company": "drweng",
+   "hours_open": 720.8,
+   "title": "Application Support Specialist (Data Specialist)",
+   "uid": "greenhouse:drweng:8028470"
+  },
+  {
+   "closed_at": 1791482043,
+   "company": "drweng",
+   "hours_open": 720.8,
+   "title": "Application Support Specialist",
+   "uid": "greenhouse:drweng:7513647"
+  },
+  {
+   "closed_at": 1791482043,
+   "company": "Amazon",
+   "hours_open": 219.7,
+   "title": "Software Development Engineer, Advertising Services",
+   "uid": "amazon:amazon:10563738"
+  },
+  {
+   "closed_at": 1791482043,
+   "company": "doordashusa",
+   "hours_open": 839.2,
+   "title": "Software Engineer, Machine Learning Infrastructure - Generative AI",
+   "uid": "greenhouse:doordashusa:8013249"
+  },
+  {
+   "closed_at": 1791482043,
+   "company": "shieldai",
+   "hours_open": 838.0,
+   "title": "Applications Engineer, Learning & Development- Open Level (R5053)",
+   "uid": "lever:shieldai:ca142049-83c4-40bf-9522-3e323d4c3672"
+  },
+  {
+   "closed_at": 1791482043,
+   "company": "NXP Semiconductors",
+   "hours_open": 877.6,
+   "title": "Systems & Applications Engineer - Entry Level",
+   "uid": "simplify:listings:93e23ebc-4de9-4648-9968-98e302f94a59"
+  },
+  {
+   "closed_at": 1791482043,
+   "company": "RTX",
+   "hours_open": 178.2,
+   "title": "Embedded Software Engineer 1",
+   "uid": "simplify:listings:9bea948d-dffb-4340-aa5a-3a7fa7ddd92e"
+  },
+  {
+   "closed_at": 1791482043,
+   "company": "accenturefederalservices",
+   "hours_open": 552.6,
+   "title": "F5 Network Engineer",
+   "uid": "greenhouse:accenturefederalservices:4712815006"
+  },
+  {
+   "closed_at": 1791482043,
+   "company": "spacex",
+   "hours_open": 838.0,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
   }
  ],
- "count": 803,
- "updated_at": 1791471346
+ "count": 817,
+ "updated_at": 1791482043
 }
