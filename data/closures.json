@@ -1,34 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1791048749,
-   "company": "spacex",
-   "hours_open": 720.6,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1791054959,
-   "company": "intel",
-   "hours_open": 19.7,
-   "title": "AI Software Engineering Undergraduate Intern",
-   "uid": "workday:intel.wd1/external:AI-Software-Engineering-Undergraduate-Intern_JR0287583"
-  },
-  {
-   "closed_at": 1791054959,
-   "company": "Groupe DCM",
-   "hours_open": 368.2,
-   "title": "Programmeur CNC / CNC Programmer",
-   "uid": "jobillico:programmeur junior:17534670"
-  },
-  {
-   "closed_at": 1791054959,
-   "company": "iberdrola",
-   "hours_open": 428.7,
-   "title": "Associate Engineer - Distribution Planning",
-   "uid": "workday:iberdrola.wd3/iberdrola:Associate-Engineer---Distribution-Planning_R-29801"
-  },
-  {
    "closed_at": 1791054959,
    "company": "spacex",
    "hours_open": 719.4,
@@ -5599,8 +5571,36 @@
    "hours_open": 567.2,
    "title": "System Administrator",
    "uid": "greenhouse:spacekinetic:5037994008"
+  },
+  {
+   "closed_at": 1791470546,
+   "company": "DefenseStorm",
+   "hours_open": 874.4,
+   "title": "Junior Product Engineer - Software Engineer 1",
+   "uid": "simplify:listings:50e60fbf-697c-49e1-88be-1f24e17fa22d"
+  },
+  {
+   "closed_at": 1791470546,
+   "company": "spacex",
+   "hours_open": 837.5,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1791470546,
+   "company": "andurilindustries",
+   "hours_open": 836.1,
+   "title": "CNC Programmer/Operator",
+   "uid": "greenhouse:andurilindustries:5179736007"
+  },
+  {
+   "closed_at": 1791470546,
+   "company": "spacex",
+   "hours_open": 836.1,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
- "count": 809,
- "updated_at": 1791470134
+ "count": 804,
+ "updated_at": 1791470547
 }
