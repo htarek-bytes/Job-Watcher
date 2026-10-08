@@ -1,76 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1790990642,
-   "company": "mars",
-   "hours_open": 620.5,
-   "title": "Solution Engineer",
-   "uid": "workday:mars.wd3/external:Solution-Engineer_R161845-1"
-  },
-  {
-   "closed_at": 1790990642,
-   "company": "Retell AI",
-   "hours_open": 741.1,
-   "title": "Software Engineer New Grad - Founders Initiatives",
-   "uid": "simplify:listings:77e7783f-e6da-4352-a869-b3840c8dbfb9"
-  },
-  {
-   "closed_at": 1790990642,
-   "company": "kbr",
-   "hours_open": 725.8,
-   "title": "Junior Software Engineer",
-   "uid": "workday:kbr.wd5/KBR_Careers:Junior-Software-Engineer_R2122294"
-  },
-  {
-   "closed_at": 1790990642,
-   "company": "spacex",
-   "hours_open": 704.4,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1790990642,
-   "company": "spacex",
-   "hours_open": 702.7,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1790990847,
-   "company": "mmc",
-   "hours_open": 0.1,
-   "title": "Junior Full-Stack Engineer, Generative AI @ Marsh Tech",
-   "uid": "workday:mmc.wd1/mmc:Junior-Full-Stack-Engineer--Generative-AI---Marsh-Tech_R_367686"
-  },
-  {
-   "closed_at": 1790990847,
-   "company": "salesforce",
-   "hours_open": 704.5,
-   "title": "Business Development Associate, Early Career",
-   "uid": "workday:salesforce.wd12/Futureforce_NewGradRoles:Business-Development-Associate_JR347430"
-  },
-  {
-   "closed_at": 1790990847,
-   "company": "philips",
-   "hours_open": 96.5,
-   "title": "Intern – Embedded Systems Test Automation Engineer – Bothell, WA – Summer 2027",
-   "uid": "workday:philips.wd3/jobs-and-careers:Intern---Embedded-Systems-Test-Automation-Engineer---Bothell--WA---Summer-2027_592074"
-  },
-  {
-   "closed_at": 1790990847,
-   "company": "kbr",
-   "hours_open": 725.8,
-   "title": "Junior Software Engineer",
-   "uid": "workday:kbr.wd5/kbr_careers:Junior-Software-Engineer_R2122294"
-  },
-  {
-   "closed_at": 1790993922,
-   "company": "LexisNexis Legal & Professional",
-   "hours_open": 411.7,
-   "title": "Software Engineer 1 - Aspire Graduate Program",
-   "uid": "simplify:listings:767cfec3-b8cd-4c09-9e3f-fd524457f140"
-  },
-  {
    "closed_at": 1790993922,
    "company": "Reliance",
    "hours_open": 26.8,
@@ -5599,8 +5529,78 @@
    "hours_open": 0.1,
    "title": "information technology (IT) analyst",
    "uid": "jobbank:control systems analyst:50449266"
+  },
+  {
+   "closed_at": 1791431778,
+   "company": "Ecolab",
+   "hours_open": 4.0,
+   "title": "Junior Quality Control Software Developer",
+   "uid": "simplify:listings:17fff1b2-0c9d-4b1f-a4d4-e755fb16f6bd"
+  },
+  {
+   "closed_at": 1791431778,
+   "company": "capitalone",
+   "hours_open": 19.1,
+   "title": "Associate, Software Engineer, New Grad",
+   "uid": "workday:capitalone.wd12/Capital_One:Associate--Software-Engineer--New-Grad_R1003048"
+  },
+  {
+   "closed_at": 1791431778,
+   "company": "clearwateranalytics",
+   "hours_open": 363.5,
+   "title": "Quantitative Developer I",
+   "uid": "workday:clearwateranalytics.wd1/Clearwater_Analytics_Careers:Quantitative-Developer-I_R12180"
+  },
+  {
+   "closed_at": 1791431778,
+   "company": "Applied Materials",
+   "hours_open": 408.5,
+   "title": "Software Engineer New Grad",
+   "uid": "simplify:listings:fe444a2e-411b-4a40-b6f4-9098bbd980bb"
+  },
+  {
+   "closed_at": 1791431778,
+   "company": "dowjones",
+   "hours_open": 548.9,
+   "title": "Summer 2027 Internship Program – Software Engineering Intern",
+   "uid": "workday:dowjones.wd1/Dow_Jones_Career:Summer-2027-Internship-Program---Software-Engineering-Intern_Job_Req_55293"
+  },
+  {
+   "closed_at": 1791431778,
+   "company": "ccf",
+   "hours_open": 19.1,
+   "title": "New Grad RN Resident – Internal Medicine Telemetry",
+   "uid": "workday:ccf.wd1/ClevelandClinicCareers:New-Grad-RN-Resident---Internal-Medicine-Telemetry_356937"
+  },
+  {
+   "closed_at": 1791431778,
+   "company": "ensemblehp",
+   "hours_open": 744.0,
+   "title": "Solution Engineer, Data Governance",
+   "uid": "workday:ensemblehp.wd5/ensemblehealthpartnerscareers:Solution-Engineer--Data-Governance_R048509"
+  },
+  {
+   "closed_at": 1791431778,
+   "company": "Barry-Wehmiller",
+   "hours_open": 863.6,
+   "title": "Entry Level Software Engineer",
+   "uid": "simplify:listings:94439f86-761e-479b-ad07-ff674a810362"
+  },
+  {
+   "closed_at": 1791431778,
+   "company": "spacex",
+   "hours_open": 827.0,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1791431778,
+   "company": "andurilindustries",
+   "hours_open": 388.5,
+   "title": "Flight Test Engineer",
+   "uid": "greenhouse:andurilindustries:5025383007"
   }
  ],
- "count": 815,
- "updated_at": 1791422192
+ "count": 810,
+ "updated_at": 1791431778
 }
