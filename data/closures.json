@@ -1,27 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1791055202,
-   "company": "spacex",
-   "hours_open": 722.4,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1790706099,
-   "company": "ebi",
-   "hours_open": 17.9,
-   "title": "Product Engineer Intern",
-   "uid": "workday:ebi.wd5/ebicareers:Product-Engineer-Intern_REQ107697-1"
-  },
-  {
-   "closed_at": 1790706099,
-   "company": "Amazon",
-   "hours_open": 188.1,
-   "title": "Software Development Engineer, Amazon Marketing Cloud Assistant",
-   "uid": "amazon:amazon:10555497"
-  },
-  {
    "closed_at": 1790706099,
    "company": "Amazon",
    "hours_open": 144.9,
@@ -5599,8 +5578,29 @@
    "hours_open": 104.4,
    "title": "analyst, computer systems",
    "uid": "jobbank:systems analyst:50419044"
+  },
+  {
+   "closed_at": 1791471346,
+   "company": "Source Code",
+   "hours_open": 13.8,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:control systems analyst:50449266"
+  },
+  {
+   "closed_at": 1791471346,
+   "company": "spacex",
+   "hours_open": 838.0,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1791471346,
+   "company": "spacex",
+   "hours_open": 838.0,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 805,
- "updated_at": 1791470987
+ "count": 803,
+ "updated_at": 1791471346
 }
