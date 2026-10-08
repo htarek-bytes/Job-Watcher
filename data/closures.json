@@ -1,83 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1790687927,
-   "company": "Saalex",
-   "hours_open": 318.9,
-   "title": "Junior Systems Administrator",
-   "uid": "workable:saalex:DC7DE92DC3"
-  },
-  {
-   "closed_at": 1791029383,
-   "company": "IMP Solutions",
-   "hours_open": 23.2,
-   "title": "network administrator",
-   "uid": "jobbank:network administrator:50409171"
-  },
-  {
-   "closed_at": 1791029383,
-   "company": "Cooptel",
-   "hours_open": 595.0,
-   "title": "Administrateur réseau",
-   "uid": "jobillico:analyste reseau:17185045"
-  },
-  {
-   "closed_at": 1791029383,
-   "company": "woven-by-toyota",
-   "hours_open": 712.3,
-   "title": "Software Engineer - Data Workflows",
-   "uid": "lever:woven-by-toyota:ba39a024-c4c3-4966-a696-95db0e1dc445"
-  },
-  {
-   "closed_at": 1791030332,
-   "company": "spacex",
-   "hours_open": 715.5,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1791030332,
-   "company": "spacex",
-   "hours_open": 715.5,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1791034071,
-   "company": "Kativik Ilisarniliriniq (La commission scolaire du Nunavik)",
-   "hours_open": 24.5,
-   "title": "network analyst",
-   "uid": "jobbank:network analyst:50409133"
-  },
-  {
-   "closed_at": 1791043991,
-   "company": "Groupe DCM",
-   "hours_open": 371.3,
-   "title": "Programmeur CNC / CNC Programmer",
-   "uid": "jobillico:programmeur junior:17534679"
-  },
-  {
-   "closed_at": 1791043991,
-   "company": "Cooptel",
-   "hours_open": 599.1,
-   "title": "Administrateur réseau",
-   "uid": "jobillico:analyste reseau:17185045"
-  },
-  {
-   "closed_at": 1791043991,
-   "company": "Kativik Ilisarniliriniq (La commission scolaire du Nunavik)",
-   "hours_open": 2.8,
-   "title": "network analyst",
-   "uid": "jobbank:infrastructure analyst:50409133"
-  },
-  {
-   "closed_at": 1791043991,
-   "company": "spacex",
-   "hours_open": 716.3,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
    "closed_at": 1791043991,
    "company": "spacex",
    "hours_open": 719.0,
@@ -5599,8 +5522,85 @@
    "hours_open": 176.8,
    "title": "System Design Engineer – New College Grad 2026",
    "uid": "simplify:listings:7fb2f96e-3662-4a02-a0c2-e7bbd2663ce9"
+  },
+  {
+   "closed_at": 1791444813,
+   "company": "salesforce",
+   "hours_open": 314.7,
+   "title": "Software Engineering AMTS (College Grad)",
+   "uid": "workday:salesforce.wd12/External_Career_Site:Software-Engineering-AMTS--College-Grad-_JR355250-1"
+  },
+  {
+   "closed_at": 1791444813,
+   "company": "td",
+   "hours_open": 15.7,
+   "title": "Software Engineer I",
+   "uid": "workday:td.wd3/TD_Bank_Careers:Software-Engineer-I_R_1514704-1"
+  },
+  {
+   "closed_at": 1791444813,
+   "company": "Cooptel",
+   "hours_open": 710.4,
+   "title": "Administrateur réseau",
+   "uid": "jobillico:analyste reseau:17185045"
+  },
+  {
+   "closed_at": 1791444813,
+   "company": "sunlife",
+   "hours_open": 154.4,
+   "title": "Student, Associate Software Engineer (Winter 2027)",
+   "uid": "workday:sunlife.wd3/Campus:Student--Associate-Software-Engineer--Winter-2027-_JR00128318"
+  },
+  {
+   "closed_at": 1791444813,
+   "company": "swa",
+   "hours_open": 154.4,
+   "title": "Summer 2027 Technology Analyst Internship",
+   "uid": "workday:swa.wd1/external:Summer-2027-Technology-Analyst-Internship_R-2026-73268"
+  },
+  {
+   "closed_at": 1791444813,
+   "company": "swa",
+   "hours_open": 154.4,
+   "title": "Summer 2027 Cybersecurity Engineer Internship",
+   "uid": "workday:swa.wd1/external:Summer-2027-Cybersecurity-Engineer-Internship_R-2026-73269"
+  },
+  {
+   "closed_at": 1791444813,
+   "company": "swa",
+   "hours_open": 154.4,
+   "title": "Summer 2027 Data Engineer Internship",
+   "uid": "workday:swa.wd1/external:Summer-2027-Data-Engineer-Internship_R-2026-73271"
+  },
+  {
+   "closed_at": 1791444813,
+   "company": "swa",
+   "hours_open": 154.4,
+   "title": "Summer 2027 Software Engineer Internship",
+   "uid": "workday:swa.wd1/external:Summer-2027-Software-Engineer-Internship_R-2026-73270"
+  },
+  {
+   "closed_at": 1791444813,
+   "company": "salesforce",
+   "hours_open": 126.1,
+   "title": "Business Development Associate (Early Career)",
+   "uid": "workday:salesforce.wd12/External_Career_Site:Business-Development-Associate--Early-Career-_JR340479-1"
+  },
+  {
+   "closed_at": 1791444813,
+   "company": "rockwellautomation",
+   "hours_open": 293.5,
+   "title": "Intern, AI Software Engineering (June-August 2027)",
+   "uid": "workday:rockwellautomation.wd1/External_Rockwell_Automation:Intern--AI-Software-Engineering--June-August-2027-_R26-6980-1"
+  },
+  {
+   "closed_at": 1791444813,
+   "company": "rockwellautomation",
+   "hours_open": 293.5,
+   "title": "Co-op, AI Software Engineering (6-8 months)",
+   "uid": "workday:rockwellautomation.wd1/External_Rockwell_Automation:Co-op--AI-Software-Engineering--6-8-months-_R26-6982-1"
   }
  ],
  "count": 811,
- "updated_at": 1791444373
+ "updated_at": 1791444814
 }
