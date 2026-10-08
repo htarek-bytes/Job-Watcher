@@ -1,20 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1791074361,
-   "company": "YO AI Labs",
-   "hours_open": 367.3,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50315027"
-  },
-  {
-   "closed_at": 1791074876,
-   "company": "Cooptel",
-   "hours_open": 607.6,
-   "title": "Administrateur réseau",
-   "uid": "jobillico:analyste reseau:17185045"
-  },
-  {
    "closed_at": 1791074876,
    "company": "YO AI Labs",
    "hours_open": 28.8,
@@ -5599,8 +5585,22 @@
    "hours_open": 841.5,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1791490199,
+   "company": "NielsenIQ",
+   "hours_open": 163.2,
+   "title": "Associate Software Engineer",
+   "uid": "smartrecruiters:NielsenIQ:744000152930140"
+  },
+  {
+   "closed_at": 1791490199,
+   "company": "Belle Graphics Inc.",
+   "hours_open": 27.7,
+   "title": "installation and repair technician - telecommunications",
+   "uid": "jobbank:telecommunications analyst:50200449"
   }
  ],
- "count": 810,
- "updated_at": 1791490060
+ "count": 802,
+ "updated_at": 1791490199
 }
