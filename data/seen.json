@@ -1,5 +1,5 @@
 {
- "count": 7457,
+ "count": 7467,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -6870,6 +6870,7 @@
   "workday:iqvia.wd1/IQVIA:Data---AI-Solutions-Consultant_R1552230": 1789709712,
   "workday:isu.wd1/IowaStateJobs:Research-and-Development-Engineer-I_R20019-1": 1790924196,
   "workday:jabil.wd5/Jabil_Careers:Automation-Design-Engineer---Internship--12-months-_J2462833": 1788847246,
+  "workday:jabil.wd5/Jabil_Careers:Electronic-Engineer-I_J2452980": 1791444048,
   "workday:jabil.wd5/Jabil_Careers:Test-Engineer-I_J2454860": 1788847246,
   "workday:jabil.wd5/Jabil_Careers:Test-Engineer-I_J2454862": 1789102462,
   "workday:jainglobal.wd5/ExternalSite:Junior-Compliance-Developer_JR100329": 1788377607,
@@ -6908,6 +6909,7 @@
   "workday:kla.wd1/AnnArbor:Software-Engineering-Intern_2531653": 1788442554,
   "workday:kla.wd1/UR:AI-Solutions-Engineer--NPI-Function-_2641335": 1790386984,
   "workday:kla.wd1/UR:Algorithm-Engineering-Intern--AI--Computer-Vision---Software-Engineering-_2641392-1": 1790175830,
+  "workday:kla.wd1/UR:Product-Development-Applications-Engineer-Intern---Broadband-Plasma-Division-_2641396-2": 1791444048,
   "workday:kla.wd1/UR:Product-Development-Engineer-Intern_2641521": 1790812097,
   "workday:kla.wd1/UR:Product-Development-Engineering-Intern_2641562": 1790812097,
   "workday:kla.wd1/UR:Software-Engineering-Intern--C----Unix-_2641325": 1790175830,
@@ -6916,6 +6918,7 @@
   "workday:kyndryl.wd5/KyndrylEarlyCareers:Early-Career-Consult-Program---Associate-AI-Engineer_R-66739": 1788377607,
   "workday:kyndryl.wd5/KyndrylEarlyCareers:Early-Career-Consult-Program---Cybersecurity-Engineer_R-67304-1": 1788377607,
   "workday:kyndryl.wd5/KyndrylEarlyCareers:Early-Career-Consult-Program---Network-Support-Associate_R-67487-1": 1789041021,
+  "workday:kyndryl.wd5/KyndrylEarlyCareers:Kyndryl-Early-Career-Program---Systems-Administration--Mainframe_R-69926": 1791444048,
   "workday:kyndryl.wd5/KyndrylProfessionalCareers:Devops-Intern_R-65079-1": 1789511757,
   "workday:labcorp.wd1/external:Intern---IT-Operations_2631321": 1789780564,
   "workday:labcorp.wd1/external:Intern---Quality-Engineer_2630918": 1789137582,
@@ -6983,6 +6986,7 @@
   "workday:marvell.wd1/MarvellCareers:IC-Validation-Engineer-Intern---BS-MS---2027-Co-Op_2603925": 1790872708,
   "workday:marvell.wd1/MarvellCareers:IC-Validation-Engineer-Intern--MS---Summer-2027_2604515-1": 1788557908,
   "workday:marvell.wd1/MarvellCareers:Machine-Learning-Engineer-Intern--BS-MS---Summer-2027_2603860": 1790757257,
+  "workday:marvell.wd1/MarvellCareers:Machine-Learning-Engineer-Intern--BS-MS---Summer-2027_2604989-1": 1791444048,
   "workday:marvell.wd1/MarvellCareers:Physical-Design-Engineer-Intern--BS---Summer-2027_2604517-1": 1788563552,
   "workday:marvell.wd1/MarvellCareers:Physical-Design-Engineer-Intern--MS---Summer-2027_2604518-1": 1788563552,
   "workday:marvell.wd1/MarvellCareers:Product-Engineer-Intern--BS---Summer-2027_2603839-1": 1790812097,
@@ -7000,7 +7004,10 @@
   "workday:mastercard.wd1/Campus:Software-Engineer-Intern--Summer-2027---United-States_R-287618-1": 1788442554,
   "workday:mastercard.wd1/CorporateCareers:Software-Development-Engineer_R-284431": 1789424861,
   "workday:mastercard.wd1/CorporateCareers:Software-Engineer-I_R-291661": 1791297144,
+  "workday:mastercard.wd1/CorporateCareers:Software-Engineer-I_R-292618-1": 1791444048,
   "workday:mckesson.wd3/External_Careers:Software-Engineer-Intern---Summer-2027_JR0153235": 1790041362,
+  "workday:mckesson.wd3/External_Careers:Software-Engineering-Intern---Summer-2027_JR0155382": 1791444048,
+  "workday:medtronic.wd1/MedtronicCareers:Software-Engineering-Intern---Summer-2027_R73630-1": 1791444048,
   "workday:medtronic.wd1/redeploymentmedtroniccareers:Software-Engineering-Intern---Summer-2027_R73630": 1788442554,
   "workday:micron.wd1/External:Associate-Engineer--IT-Eng-System-Mgr_JR112672": 1791364158,
   "workday:micron.wd1/External:DRAM-Device---Cell-Technology-Engineer_JR102424": 1788393936,
@@ -7054,6 +7061,9 @@
   "workday:mmc.wd1/MMC:Quality-Assurance-Engineer_R_310976": 1791224409,
   "workday:mmc.wd1/mmc:Junior-Full-Stack-Engineer--Generative-AI---Marsh-Tech_R_367686": 1790990563,
   "workday:mmc.wd1/mmc:Junior-Python-Engineer--MarshTech_R_362442-1": 1788393936,
+  "workday:monolithicpower.wd12/MPS_Careers:Design-Engineer--New-Grad-_R-768": 1791444048,
+  "workday:monolithicpower.wd12/MPS_Careers:Digital-Design-Engineer--New-Grad-_R-1002": 1791444048,
+  "workday:monolithicpower.wd12/MPS_Careers:Layout-Engineer--New-Grad-_R-558": 1791444048,
   "workday:moog.wd5/moog_external_career_site:Intern--Software-Engineering_R-26-19888-1": 1788948248,
   "workday:moog.wd5/moog_external_career_site:Intern--Software-Engineering_R-26-19948": 1790707348,
   "workday:mpc.wd1/MPCCareers:Associate-Software-Engineer_00023623": 1788409442,
@@ -7459,5 +7469,5 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148,
   "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541": 1789106107
  },
- "updated_at": 1791443319
+ "updated_at": 1791444053
 }
