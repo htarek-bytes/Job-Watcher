@@ -1,83 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1791010698,
-   "company": "spacex",
-   "hours_open": 710.0,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1791010698,
-   "company": "Cooptel",
-   "hours_open": 589.8,
-   "title": "Administrateur réseau",
-   "uid": "jobillico:analyste reseau:17185045"
-  },
-  {
-   "closed_at": 1791015413,
-   "company": "spacex",
-   "hours_open": 708.4,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1791015413,
-   "company": "spacex",
-   "hours_open": 711.0,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1791029165,
-   "company": "Citylitics",
-   "hours_open": 5.3,
-   "title": "data engineer",
-   "uid": "jobbank:infrastructure analyst:50414504"
-  },
-  {
-   "closed_at": 1791029165,
-   "company": "Gameloft",
-   "hours_open": 117.5,
-   "title": "developer, software",
-   "uid": "jobbank:developpeur junior:50357103"
-  },
-  {
-   "closed_at": 1791029165,
-   "company": "RTX",
-   "hours_open": 85.0,
-   "title": "FPGA/ASIC Engineer 1",
-   "uid": "simplify:listings:39a165c3-e820-4ef1-b39b-29ebba0b2635"
-  },
-  {
-   "closed_at": 1791029302,
-   "company": "IMP Solutions",
-   "hours_open": 23.1,
-   "title": "network administrator",
-   "uid": "jobbank:network administrator:50409171"
-  },
-  {
-   "closed_at": 1791029302,
-   "company": "woven-by-toyota",
-   "hours_open": 712.2,
-   "title": "Software Engineer - Data Workflows",
-   "uid": "lever:woven-by-toyota:ba39a024-c4c3-4966-a696-95db0e1dc445"
-  },
-  {
-   "closed_at": 1791029302,
-   "company": "spacex",
-   "hours_open": 715.2,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1791029302,
-   "company": "spacex",
-   "hours_open": 715.2,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
    "closed_at": 1790687927,
    "company": "Saalex",
    "hours_open": 318.9,
@@ -5599,8 +5522,85 @@
    "hours_open": 3.4,
    "title": "network administrator",
    "uid": "jobbank:network administrator:50450502"
+  },
+  {
+   "closed_at": 1791444372,
+   "company": "pae",
+   "hours_open": 17.5,
+   "title": "Junior RF Engineer",
+   "uid": "workday:pae.wd1/amentum_careers:Junior-RF-Engineer_R0172475"
+  },
+  {
+   "closed_at": 1791444372,
+   "company": "Protech Inc.",
+   "hours_open": 15.0,
+   "title": "telecommunications technician",
+   "uid": "jobbank:telecommunications analyst:50294640"
+  },
+  {
+   "closed_at": 1791444372,
+   "company": "myhrabc",
+   "hours_open": 293.7,
+   "title": "EDI IT Software Developer Intern",
+   "uid": "workday:myhrabc.wd5/Global:EDI-IT-Software-Developer-Intern_R2612376"
+  },
+  {
+   "closed_at": 1791444372,
+   "company": "pwc",
+   "hours_open": 398.4,
+   "title": "Junior Power Apps Developer",
+   "uid": "workday:pwc.wd3/Global_Campus_Careers:Junior-Power-Apps-Developer_763454WD"
+  },
+  {
+   "closed_at": 1791444372,
+   "company": "nationwide",
+   "hours_open": 60.8,
+   "title": "Engineer, Software Engineer (Post Issue Optimization) - Java, Angular, and AWS - Entry Level",
+   "uid": "workday:nationwide.wd1/Nationwide_Career:Engineer--Software-Engineer--Post-Issue-Optimization----Java--Angular--and-AWS---Entry-Level_100567"
+  },
+  {
+   "closed_at": 1791444372,
+   "company": "pae",
+   "hours_open": 17.5,
+   "title": "Engineer 1",
+   "uid": "workday:pae.wd1/amentum_careers:Engineer-1_R0172195"
+  },
+  {
+   "closed_at": 1791444372,
+   "company": "philips",
+   "hours_open": 825.4,
+   "title": "Co-op – Software Engineer (R&D) – Cambridge, MA – January - August 2027",
+   "uid": "workday:philips.wd3/jobs-and-careers:Co-op---Software-Engineer--R-D----Cambridge--MA---January---August-2027_588891"
+  },
+  {
+   "closed_at": 1791444372,
+   "company": "philips",
+   "hours_open": 825.4,
+   "title": "Co-op – Software Engineering (APM) - Cambridge, MA - Jan - Aug 2027",
+   "uid": "workday:philips.wd3/jobs-and-careers:Co-op---Software-Engineering--APM----Cambridge--MA---Jan---Aug-2027_590097"
+  },
+  {
+   "closed_at": 1791444372,
+   "company": "nvidia",
+   "hours_open": 536.4,
+   "title": "ASIC Design Verification Engineer - New College Grad 2026",
+   "uid": "workday:nvidia.wd5/NVIDIAExternalCareerSite:ASIC-Design-Verification-Engineer---New-College-Grad-2026_JR2010391"
+  },
+  {
+   "closed_at": 1791444372,
+   "company": "nidec",
+   "hours_open": 851.8,
+   "title": "Hardware Electronics Engineer I",
+   "uid": "workday:nidec.wd1/nidec:Hardware-Electronics-Engineer-I_R0014784"
+  },
+  {
+   "closed_at": 1791444372,
+   "company": "NVIDIA",
+   "hours_open": 176.8,
+   "title": "System Design Engineer – New College Grad 2026",
+   "uid": "simplify:listings:7fb2f96e-3662-4a02-a0c2-e7bbd2663ce9"
   }
  ],
- "count": 808,
- "updated_at": 1791444053
+ "count": 811,
+ "updated_at": 1791444373
 }

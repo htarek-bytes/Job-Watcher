@@ -1,5 +1,5 @@
 {
- "count": 7467,
+ "count": 7474,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -7114,6 +7114,7 @@
   "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Cyber-Systems-Engineer-Intern---Roy-UT_R10249471": 1789513197,
   "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Cyber-Systems-Engineer-Intern-Tampa-FL_R10249196": 1790096131,
   "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Digital-Engineer-Intern---Baltimore-MD_R10251150-1": 1790008827,
+  "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Electrical-Systems-Engineer-Intern---Baltimore-MD_R10255010": 1791444372,
   "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Embedded-Software-Engineer-Intern---Baltimore-MD_R10251464": 1790008827,
   "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Embedded-Software-Engineer-Intern---Camarillo-CA_R10251835": 1790008827,
   "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Embedded-Software-Engineer-Intern---Rolling-Meadows-IL_R10252790": 1790757257,
@@ -7129,6 +7130,7 @@
   "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Intern-Software-Engineer_R10250669": 1789425451,
   "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Intern-Systems-Engineer---CA---ND_R10249236": 1788454653,
   "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Intern-Tooling-Engineer_R10251728": 1789753663,
+  "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Mechanical-Aerospace-Engineer-Intern---Baltimore-MD_R10255003": 1791444372,
   "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Software-Engineer-Intern---Linthicum-Maryland_R10248910": 1788442554,
   "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Software-Engineer-Intern---Morrisville-NC_R10253768": 1790812097,
   "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Software-Engineer-Intern---Rolling-Meadows-IL_R10253772": 1790812097,
@@ -7144,9 +7146,13 @@
   "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Systems-Engineer-Intern---Redondo-Beach-CA_R10249113": 1788442554,
   "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Systems-Engineer-Intern---Rolling-Meadows-IL_R10252497": 1790757257,
   "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Systems-Engineer-Intern---Woodland-Hills-CA_R10249319-1": 1790177509,
+  "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Test-Engineer-Intern---Sunnyvale-CA_R10255018-1": 1791444372,
   "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Vehicle-Engineer-Intern_R10253965": 1790884489,
   "workday:nidec.wd1/nidec:Hardware-Electronics-Engineer-I_R0014784": 1788377835,
   "workday:nidec.wd1/nidec:Sales-Engineer---MI_R0013538-1": 1788750148,
+  "workday:nordsonhcm.wd501/nordsoncareers:Intern---Manufacturing-Electronics---Software-Engineering_REQ52925": 1791444372,
+  "workday:nordsonhcm.wd501/nordsoncareers:Intern--Software-Engineering-_REQ53006": 1791444372,
+  "workday:nordstrom.wd501/nordstrom_careers:Junior-SRE--Seattle-WA-_R-882591": 1791444372,
   "workday:nrel.wd5/NLR:Graduate--Year-Round--Intern---Transportation-Systems-Analysis_R14385": 1788907909,
   "workday:ntrs.wd1/northerntrust:Technology-Intern---Information-Security_R160869-1": 1790707348,
   "workday:ntrs.wd1/northerntrust:Technology-Intern---Software-Engineering_R160832-1": 1789002546,
@@ -7259,6 +7265,7 @@
   "workday:rakuten.wd1/RakutenAmericas:Intern---Software-Engineering--AI-User-Experience_1031437": 1789513197,
   "workday:rb.wd5/FRS:AI-Deployment-Specialist---ERP-Systems_R-0000030692-1": 1790645175,
   "workday:rb.wd5/FRS:AI-Solutions-Engineer---Associate_R-0000033675-1": 1791381341,
+  "workday:rb.wd5/FRS:AI-Solutions-Engineer---Experienced_R-0000033598-1": 1791444372,
   "workday:rb.wd5/FRS:Summer-2027-Intern-Computer-Science-and-Software-Engineering_R-0000033637": 1790884489,
   "workday:rbc.wd3/ExternalPrivatePostingStudents:Product-Engineer--New-Grad-_R-0000187092": 1788717457,
   "workday:reliaquest.wd5/ReliaQuest_Careers:Associate-Software-Engineer_R15047": 1788377835,
@@ -7469,5 +7476,5 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148,
   "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541": 1789106107
  },
- "updated_at": 1791444053
+ "updated_at": 1791444373
 }
