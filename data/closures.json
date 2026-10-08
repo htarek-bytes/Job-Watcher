@@ -1,41 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1791043991,
-   "company": "spacex",
-   "hours_open": 719.0,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1791044328,
-   "company": "autodesk",
-   "hours_open": 428.0,
-   "title": "Intern, Software Developer, Stagiaire en Développement Logiciel",
-   "uid": "workday:autodesk.wd1/Ext:Intern--Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD101101-2"
-  },
-  {
-   "closed_at": 1791044328,
-   "company": "accenture",
-   "hours_open": 49.5,
-   "title": "Junior AI Native Engineer",
-   "uid": "workday:accenture.wd103/AccentureCareers:Junior-AI-Native-Engineer_R00361255"
-  },
-  {
-   "closed_at": 1791044431,
-   "company": "autodesk",
-   "hours_open": 428.0,
-   "title": "Intern, Software Developer, Stagiaire en Développement Logiciel",
-   "uid": "workday:autodesk.wd1/Ext:Intern--Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD101101-2"
-  },
-  {
-   "closed_at": 1791044431,
-   "company": "accenture",
-   "hours_open": 49.5,
-   "title": "Junior AI Native Engineer",
-   "uid": "workday:accenture.wd103/AccentureCareers:Junior-AI-Native-Engineer_R00361255"
-  },
-  {
    "closed_at": 1791045480,
    "company": "bmo",
    "hours_open": 208.5,
@@ -5599,8 +5564,43 @@
    "hours_open": 293.5,
    "title": "Co-op, AI Software Engineering (6-8 months)",
    "uid": "workday:rockwellautomation.wd1/External_Rockwell_Automation:Co-op--AI-Software-Engineering--6-8-months-_R26-6982-1"
+  },
+  {
+   "closed_at": 1791457838,
+   "company": "robinhood",
+   "hours_open": 26.3,
+   "title": "Software Engineer, Web3 Backend",
+   "uid": "greenhouse:robinhood:8258307"
+  },
+  {
+   "closed_at": 1791457838,
+   "company": "OneImaging",
+   "hours_open": 220.6,
+   "title": "Full Stack Associate Software Engineer",
+   "uid": "simplify:listings:7443e2ee-d487-4319-a352-cc1779444a7f"
+  },
+  {
+   "closed_at": 1791457838,
+   "company": "usc",
+   "hours_open": 661.9,
+   "title": "Programmer Analyst I",
+   "uid": "workday:usc.wd5/ExternalUSCCareers:Programmer-Analyst-I_REQ20180180"
+  },
+  {
+   "closed_at": 1791457838,
+   "company": "Hi-Tech Solution",
+   "hours_open": 18.8,
+   "title": "telecommunications service tester",
+   "uid": "jobbank:telecommunications analyst:49955305"
+  },
+  {
+   "closed_at": 1791457838,
+   "company": "allen-control-systems",
+   "hours_open": 831.3,
+   "title": "Business Systems Analyst",
+   "uid": "ashby:allen-control-systems:c56f0812-40e8-4db0-a820-26e02ed1882e"
   }
  ],
- "count": 811,
- "updated_at": 1791444814
+ "count": 805,
+ "updated_at": 1791457839
 }
