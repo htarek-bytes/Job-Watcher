@@ -1,48 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1791078209,
-   "company": "YO AI Labs",
-   "hours_open": 29.8,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50410673"
-  },
-  {
-   "closed_at": 1791078209,
-   "company": "Kativik Ilisarniliriniq (La commission scolaire du Nunavik)",
-   "hours_open": 12.3,
-   "title": "network analyst",
-   "uid": "jobbank:infrastructure analyst:50409133"
-  },
-  {
-   "closed_at": 1791078209,
-   "company": "spacex",
-   "hours_open": 728.8,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1791079901,
-   "company": "Texas Sports Academy Main",
-   "hours_open": 75.6,
-   "title": "Junior AI Software Engineer (Austin)",
-   "uid": "workable:texas-sports-academy-main:A9A9F4A25A"
-  },
-  {
-   "closed_at": 1791079901,
-   "company": "Texas Sports Academy Main",
-   "hours_open": 748.2,
-   "title": "Junior AI Software Engineer (Austin, TX)",
-   "uid": "workable:texas-sports-academy-main:CC2A1186D4"
-  },
-  {
-   "closed_at": 1791079901,
-   "company": "Texas Sports Academy Main",
-   "hours_open": 748.2,
-   "title": "Junior Software Engineer (AI-Forward)",
-   "uid": "workable:texas-sports-academy-main:2132C3AB96"
-  },
-  {
    "closed_at": 1791079901,
    "company": "spacex",
    "hours_open": 726.3,
@@ -5599,8 +5557,50 @@
    "hours_open": 843.3,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1791491812,
+   "company": "Validus Risk Management",
+   "hours_open": 836.7,
+   "title": "Full Stack Software Engineer (Python)",
+   "uid": "workable:validus-risk-management:F81DD0E33E"
+  },
+  {
+   "closed_at": 1791491812,
+   "company": "Vanguard EMS, Inc.",
+   "hours_open": 495.7,
+   "title": "Web Developer",
+   "uid": "workable:vanguard-ems-inc:37A401568C"
+  },
+  {
+   "closed_at": 1791491812,
+   "company": "Trexquant Investment",
+   "hours_open": 836.7,
+   "title": "AI Engineer (CHINA)",
+   "uid": "workable:trexquant:18DC4FFDDF"
+  },
+  {
+   "closed_at": 1791491812,
+   "company": "spacex",
+   "hours_open": 843.7,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1791491812,
+   "company": "spacex",
+   "hours_open": 843.4,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1791491812,
+   "company": "spacex",
+   "hours_open": 842.0,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
- "count": 805,
- "updated_at": 1791490639
+ "count": 806,
+ "updated_at": 1791491813
 }
