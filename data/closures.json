@@ -1,41 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1791074876,
-   "company": "YO AI Labs",
-   "hours_open": 28.8,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50410673"
-  },
-  {
-   "closed_at": 1791075791,
-   "company": "Zaber Technologies",
-   "hours_open": 187.8,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50371059"
-  },
-  {
-   "closed_at": 1791075791,
-   "company": "YO AI Labs",
-   "hours_open": 367.7,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50315027"
-  },
-  {
-   "closed_at": 1791075791,
-   "company": "Kativik Ilisarniliriniq (La commission scolaire du Nunavik)",
-   "hours_open": 36.1,
-   "title": "network analyst",
-   "uid": "jobbank:network analyst:50409133"
-  },
-  {
-   "closed_at": 1791078209,
-   "company": "Citylitics",
-   "hours_open": 18.9,
-   "title": "data engineer",
-   "uid": "jobbank:infrastructure analyst:50414504"
-  },
-  {
    "closed_at": 1791078209,
    "company": "YO AI Labs",
    "hours_open": 29.8,
@@ -5599,8 +5564,43 @@
    "hours_open": 27.7,
    "title": "installation and repair technician - telecommunications",
    "uid": "jobbank:telecommunications analyst:50200449"
+  },
+  {
+   "closed_at": 1791490638,
+   "company": "Source Code",
+   "hours_open": 45.3,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:systems analyst:50440640"
+  },
+  {
+   "closed_at": 1791490638,
+   "company": "Sopra Steria",
+   "hours_open": 60.4,
+   "title": "Network Engineer [26168]",
+   "uid": "smartrecruiters:SopraSteria1:744000153536657"
+  },
+  {
+   "closed_at": 1791490638,
+   "company": "City of Calgary",
+   "hours_open": 58.2,
+   "title": "business systems analyst",
+   "uid": "jobbank:infrastructure analyst:50435470"
+  },
+  {
+   "closed_at": 1791490638,
+   "company": "spacex",
+   "hours_open": 840.4,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1791490638,
+   "company": "spacex",
+   "hours_open": 843.3,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 802,
- "updated_at": 1791490199
+ "count": 805,
+ "updated_at": 1791490639
 }
