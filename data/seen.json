@@ -1,5 +1,5 @@
 {
- "count": 7421,
+ "count": 7427,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -6346,6 +6346,7 @@
   "workday:avnet.wd1/external:Technical-Sales-Engineer-Avnet-Silica_JR-023902": 1788752332,
   "workday:avnet.wd1/external:Technical-Sales-Engineer_JR-022739": 1790259920,
   "workday:axcelis.wd1/axcelis:Co-Op---Manufacturing-Software-Development-_12019": 1789675213,
+  "workday:bah.wd1/Confidential:AI-Software-Developer--Junior_R0251196": 1791422190,
   "workday:bah.wd1/Confidential:University---Systems-Engineer-Intern_R0248855": 1788898936,
   "workday:bah.wd1/Confidential:University--Applied-AI-Software-Development-Intern_R0248854": 1788898936,
   "workday:bah.wd1/bah_jobs:Agentic-Solutions-Engineer_R0244800-1": 1788752332,
@@ -6370,11 +6371,13 @@
   "workday:barrywehmiller.wd1/BWConfidential:Entry-Level-PreConstruction-Engineer_R022646": 1788368024,
   "workday:barrywehmiller.wd1/BWConfidential:Entry-Level-Project-Engineer--Project-Management_R022647": 1788368024,
   "workday:barrywehmiller.wd1/BWConfidential:Entry-Level-Software-Engineer_R022649": 1788368024,
+  "workday:barrywehmiller.wd1/BWConfidential:Entry-Level-Software-Engineer_R023049": 1791422190,
   "workday:baxter.wd1/baxter:Controls-Engineer-I_JR-209135-1": 1788480665,
   "workday:baxter.wd1/baxter:Controls-Engineer-I_JR-210746-1": 1790980231,
   "workday:bb.wd3/QNX:QNX-Open-Source-Software-Developer--New-Graduate-Graduate-_20260289": 1788377607,
   "workday:bb.wd3/blackberry:QNX-Open-Source-Software-Developer--New-Graduate-Graduate-_20260289-1": 1788368024,
   "workday:bdo.wd3/BDO:Co-op-or-Intern--DevOps-Engineer--September-2026-_JR7058": 1789413651,
+  "workday:bdo.wd3/BDO:DevOps-Engineer---New-Grad--January-2027-_JR7192-1": 1791422190,
   "workday:bird.wd3/BirdConstructionCareers:Construction-Innovator_JR-9305": 1788898936,
   "workday:bird.wd3/BirdConstructionCareers:Student-Technical-Analyst_JR-9432": 1788898936,
   "workday:blackrock.wd1/BlackRock_Professional:Associate--Software-Engineer---Aladdin-Graph_R266598": 1790091113,
@@ -6410,6 +6413,7 @@
   "workday:boeing.wd1/EXTERNAL_CAREERS:Associate-Software-Engineer_JR2026516706-1": 1790091113,
   "workday:boeing.wd1/EXTERNAL_CAREERS:Associate-Software-Engineer_JR2026520254-1": 1790294740,
   "workday:boeing.wd1/EXTERNAL_CAREERS:Associate-Software-Engineer_JR2026522810-1": 1788368024,
+  "workday:boeing.wd1/EXTERNAL_CAREERS:Associate-Software-Engineer_JR2026524131": 1791422190,
   "workday:boeing.wd1/EXTERNAL_CAREERS:Boeing-Engineering---Technology-Innovation-Graduate-Researcher-Program--Software-Engineering-Artificial-Intelligence-Intern_JR2026523687": 1788903151,
   "workday:boeing.wd1/EXTERNAL_CAREERS:Entry-Level-Simulation-Software-Engineer_JR2026516853-1": 1789164282,
   "workday:boeing.wd1/EXTERNAL_CAREERS:Software-Engineer_JR2026517990-1": 1788425964,
@@ -6438,6 +6442,7 @@
   "workday:caci.wd1/external:Cleared-Software-Engineer-Intern---Summer-2027_331999": 1789417897,
   "workday:caci.wd1/external:DevOps-Software-Engineering-Intern---Summer-2027_331798": 1788979404,
   "workday:caci.wd1/external:Early-Career-NASA-Space-Reactor---1-Freedom-Flight-Software-Development-Engineer_333050": 1790980231,
+  "workday:caci.wd1/external:Entry-Level-C--Software-Engineer_333249": 1791422190,
   "workday:caci.wd1/external:Junior-Application-Services-Engineer_331371": 1788448251,
   "workday:caci.wd1/external:Junior-Cyber-Security-Engineer_332795": 1790752952,
   "workday:caci.wd1/external:Junior-Email-Engineer_331379": 1788448251,
@@ -6477,6 +6482,7 @@
   "workday:cadence.wd1/University_Talent_NCG:Software-Engineer---new-college-grad-Dec-2026-_R55738": 1788640954,
   "workday:cae.wd3/career:C-FIN-275-Software-Engineering-Intern--AI--Automation-and-Business-Intelligence_123477-1": 1788435390,
   "workday:cae.wd3/career:C-IT-200-Product-Cybersecurity-Specialist-Intern_123542": 1788887337,
+  "workday:cae.wd3/career:Dveloppeureuse-logiciel-junior---Bancs-d-essais--Rive-Nord-_123921-1": 1791422190,
   "workday:cae.wd3/career:Product-Cybersecurity-Specialist_123467": 1790208212,
   "workday:cae.wd3/career:Software-Developer-Coop_123904": 1791363116,
   "workday:campbellsoup.wd5/externalcareers_globalsite:Data-Engineer--DA-AI-Co-Op_Req-65838": 1788435390,
@@ -7422,5 +7428,6 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Junior-Algorithm-Engineer_R19377": 1788377927,
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148,
   "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541": 1789106107
- }
+ },
+ "updated_at": 1791422192
 }
