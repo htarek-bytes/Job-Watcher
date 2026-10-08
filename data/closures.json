@@ -1,76 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1791065794,
-   "company": "Citylitics",
-   "hours_open": 15.4,
-   "title": "data engineer",
-   "uid": "jobbank:infrastructure analyst:50414504"
-  },
-  {
-   "closed_at": 1791065794,
-   "company": "spacex",
-   "hours_open": 722.4,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1790707348,
-   "company": "Cooptel",
-   "hours_open": 505.6,
-   "title": "Administrateur réseau",
-   "uid": "jobillico:analyste reseau:17185045"
-  },
-  {
-   "closed_at": 1791065900,
-   "company": "Groupe DCM",
-   "hours_open": 371.2,
-   "title": "Programmeur CNC / CNC Programmer",
-   "uid": "jobillico:programmeur junior:17534670"
-  },
-  {
-   "closed_at": 1791065963,
-   "company": "Groupe DCM",
-   "hours_open": 371.2,
-   "title": "Programmeur CNC / CNC Programmer",
-   "uid": "jobillico:programmeur junior:17534670"
-  },
-  {
-   "closed_at": 1791067987,
-   "company": "Atoms",
-   "hours_open": 762.6,
-   "title": "Software Engineer New Grad",
-   "uid": "simplify:listings:5b58ae21-c56b-47a7-92cd-cfae937732a1"
-  },
-  {
-   "closed_at": 1791067987,
-   "company": "Citylitics",
-   "hours_open": 16.1,
-   "title": "data engineer",
-   "uid": "jobbank:infrastructure analyst:50414504"
-  },
-  {
-   "closed_at": 1791067987,
-   "company": "Groupe DCM",
-   "hours_open": 378.0,
-   "title": "Programmeur CNC / CNC Programmer",
-   "uid": "jobillico:programmeur junior:17534679"
-  },
-  {
-   "closed_at": 1791067987,
-   "company": "spacex",
-   "hours_open": 723.0,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1791074361,
-   "company": "Zaber Technologies",
-   "hours_open": 187.4,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50371059"
-  },
-  {
    "closed_at": 1791074361,
    "company": "YO AI Labs",
    "hours_open": 367.3,
@@ -5599,8 +5529,78 @@
    "hours_open": 838.0,
    "title": "Security Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1791490059,
+   "company": "sharkninjaoperatingllc",
+   "hours_open": 65.1,
+   "title": "Product Safety & Compliance Engineer",
+   "uid": "greenhouse:sharkninjaoperatingllc:4718808006"
+  },
+  {
+   "closed_at": 1791490059,
+   "company": "alayacare",
+   "hours_open": 696.0,
+   "title": "Fullstack Developer (Python/React/AWS) - Data Team",
+   "uid": "greenhouse:alayacare:8790712002"
+  },
+  {
+   "closed_at": 1791490059,
+   "company": "nerdio-careers",
+   "hours_open": 622.4,
+   "title": "Solutions Engineer (Early Career)",
+   "uid": "rippling:nerdio-careers:0b82e6f3-fd54-40d7-996a-ca02b4c67f67"
+  },
+  {
+   "closed_at": 1791490059,
+   "company": "zoox",
+   "hours_open": 840.2,
+   "title": "Machine Learning Engineer - Behavior Models for Road Users",
+   "uid": "lever:zoox:d736debf-c361-4a7c-81fd-6c3125ab03c0"
+  },
+  {
+   "closed_at": 1791490059,
+   "company": "asana",
+   "hours_open": 843.2,
+   "title": "Software Engineer",
+   "uid": "greenhouse:asana:7961475"
+  },
+  {
+   "closed_at": 1791490059,
+   "company": "Nerdio",
+   "hours_open": 628.4,
+   "title": "Solutions Engineer - Early Career",
+   "uid": "simplify:listings:5f62b02a-d87f-4a82-9762-6fdf7588a8f1"
+  },
+  {
+   "closed_at": 1791490059,
+   "company": "Micron Technology",
+   "hours_open": 879.8,
+   "title": "AI Innovation Research Engineer New Grad",
+   "uid": "simplify:listings:883f115b-b0ad-4eae-8a80-2bbf523964d4"
+  },
+  {
+   "closed_at": 1791490059,
+   "company": "Princeton IT Services Inc",
+   "hours_open": 861.0,
+   "title": "software development programmer",
+   "uid": "jobbank:junior programmer:50092595"
+  },
+  {
+   "closed_at": 1791490059,
+   "company": "spacex",
+   "hours_open": 843.2,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1791490059,
+   "company": "spacex",
+   "hours_open": 841.5,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
- "count": 817,
- "updated_at": 1791482043
+ "count": 810,
+ "updated_at": 1791490060
 }
