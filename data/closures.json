@@ -1,48 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1790984102,
-   "company": "kla",
-   "hours_open": 706.0,
-   "title": "Software Engineering Intern",
-   "uid": "workday:kla.wd1/AnnArbor:Software-Engineering-Intern_2531653"
-  },
-  {
-   "closed_at": 1790984102,
-   "company": "spacex",
-   "hours_open": 245.4,
-   "title": "AI Engineer, Compute Infrastructure, Special Programs - Top Secret Clearance",
-   "uid": "greenhouse:spacex:8557252002"
-  },
-  {
-   "closed_at": 1790990563,
-   "company": "Man Group",
-   "hours_open": 193.9,
-   "title": "Technology Rotational Program - Associate Engineer",
-   "uid": "simplify:listings:74f5d04c-5dd5-4838-8c22-2cef8a0d48c0"
-  },
-  {
-   "closed_at": 1790990563,
-   "company": "ngc",
-   "hours_open": 29.5,
-   "title": "2027 Software Engineering Intern - Colorado Springs CO",
-   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs-CO_R10254007"
-  },
-  {
-   "closed_at": 1790990563,
-   "company": "ngc",
-   "hours_open": 29.5,
-   "title": "2027 Vehicle Engineer Intern",
-   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Vehicle-Engineer-Intern_R10253965"
-  },
-  {
-   "closed_at": 1790990563,
-   "company": "ngc",
-   "hours_open": 16.5,
-   "title": "2027 - Associate Software Engineer - McClellan CA",
-   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027---Associate-Software-Engineer---McClellan-CA_R10253394"
-  },
-  {
    "closed_at": 1790990563,
    "company": "andurilindustries",
    "hours_open": 702.7,
@@ -5599,8 +5557,50 @@
    "hours_open": 822.3,
    "title": "Orbital Software Engineer, Space",
    "uid": "greenhouse:andurilindustries:4872480007"
+  },
+  {
+   "closed_at": 1791421832,
+   "company": "ag",
+   "hours_open": 18.5,
+   "title": "Spécialiste en Système EWIS/ Electrical Wiring Interconnection System Specialist",
+   "uid": "workday:ag.wd3/Airbus:Spcialiste-en-Systme-EWIS--Electrical-Wiring-Interconnection-System-Specialist_JR10435628"
+  },
+  {
+   "closed_at": 1791421832,
+   "company": "Source Code",
+   "hours_open": 26.2,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:systems analyst:50440640"
+  },
+  {
+   "closed_at": 1791421832,
+   "company": "Abbott",
+   "hours_open": 1.3,
+   "title": "Associate Software Engineer",
+   "uid": "simplify:listings:00979e52-fa34-4186-be7a-2c63e2c08052"
+  },
+  {
+   "closed_at": 1791421832,
+   "company": "Lakeland Roman Catholic Separate School Division",
+   "hours_open": 455.9,
+   "title": "computer systems analyst",
+   "uid": "jobbank:analyste de systemes:50064831"
+  },
+  {
+   "closed_at": 1791421832,
+   "company": "spacex",
+   "hours_open": 821.3,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1791421832,
+   "company": "spacex",
+   "hours_open": 823.9,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
   }
  ],
- "count": 808,
- "updated_at": 1791421038
+ "count": 806,
+ "updated_at": 1791421833
 }
