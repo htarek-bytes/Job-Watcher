@@ -2,34 +2,6 @@
  "closed": [
   {
    "closed_at": 1791220236,
-   "company": "appian",
-   "hours_open": 747.8,
-   "title": "Software Engineer",
-   "uid": "greenhouse:appian:8178208"
-  },
-  {
-   "closed_at": 1791220236,
-   "company": "relativity",
-   "hours_open": 787.2,
-   "title": "Facilities Engineer I",
-   "uid": "greenhouse:relativity:8614326002"
-  },
-  {
-   "closed_at": 1791220236,
-   "company": "cadence",
-   "hours_open": 747.8,
-   "title": "Adams Application Software Developer  (Recent Grad 2026)",
-   "uid": "workday:cadence.wd1/University_Talent_NCG:Adams-Application-Software-Developer---Recent-Grad-2026-_R55736"
-  },
-  {
-   "closed_at": 1791220236,
-   "company": "harriscomputer",
-   "hours_open": 789.6,
-   "title": "Associate Software Engineer, RPG",
-   "uid": "workday:harriscomputer.wd3/1:Associate-Software-Engineer--RPG_R0045601-1"
-  },
-  {
-   "closed_at": 1791220236,
    "company": "RTX",
    "hours_open": 114.0,
    "title": "Software Developer Engineer 1",
@@ -5599,8 +5571,36 @@
    "hours_open": 860.6,
    "title": "Data Engineer - CDAO",
    "uid": "lever:agile-defense:45d8560d-1321-4603-a2fc-db27f1bd3425"
+  },
+  {
+   "closed_at": 1791553775,
+   "company": "shieldai",
+   "hours_open": 196.9,
+   "title": "Safety-Critical Software Engineer (R5788)",
+   "uid": "lever:shieldai:bfa00574-c549-48fb-9065-2840c4d17cfc"
+  },
+  {
+   "closed_at": 1791553775,
+   "company": "Source Code",
+   "hours_open": 62.8,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:systems analyst:50440640"
+  },
+  {
+   "closed_at": 1791553775,
+   "company": "CAE",
+   "hours_open": 62.5,
+   "title": "Embedded System Specialist",
+   "uid": "simplify:listings:97a859bd-1aef-427f-9ffe-f8687989c427"
+  },
+  {
+   "closed_at": 1791553775,
+   "company": "twitch",
+   "hours_open": 857.9,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
   }
  ],
- "count": 805,
- "updated_at": 1791552963
+ "count": 804,
+ "updated_at": 1791553776
 }
