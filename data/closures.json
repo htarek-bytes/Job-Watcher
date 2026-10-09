@@ -2,34 +2,6 @@
  "closed": [
   {
    "closed_at": 1791192062,
-   "company": "Citylitics",
-   "hours_open": 50.5,
-   "title": "data engineer",
-   "uid": "jobbank:infrastructure analyst:50414504"
-  },
-  {
-   "closed_at": 1791192062,
-   "company": "bmo",
-   "hours_open": 249.2,
-   "title": "AI Engineer, Winter 2027 (Co-op/Internship) - 8 months",
-   "uid": "workday:bmo.wd3/External:AI-Engineer--Winter-2027--Co-op-Internship----8-months_R260027622-1"
-  },
-  {
-   "closed_at": 1791192062,
-   "company": "bmo",
-   "hours_open": 234.5,
-   "title": "Business & Operations Development Specialist (New Grad)",
-   "uid": "workday:bmo.wd3/External:Business---Operations-Development-Specialist--New-Grad-_R260027681"
-  },
-  {
-   "closed_at": 1791192062,
-   "company": "cadence",
-   "hours_open": 773.1,
-   "title": "Adams MultiBody Dynamics Application Software Developer (Recent Grad 2026)",
-   "uid": "workday:cadence.wd1/University_Talent:Adams-MultiBody-Dynamics-Application-Software-Developer--Recent-Grad-2026-_R55788-3"
-  },
-  {
-   "closed_at": 1791192062,
    "company": "spacex",
    "hours_open": 757.4,
    "title": "Security Software Engineer (Starlink)",
@@ -5599,8 +5571,36 @@
    "hours_open": 853.7,
    "title": "Security Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1791528523,
+   "company": "ibotta",
+   "hours_open": 654.2,
+   "title": "IT Compliance & Automation Analyst",
+   "uid": "ashby:ibotta:cdfcd557-a413-4c47-a3bd-21bb2cd66414"
+  },
+  {
+   "closed_at": 1791528523,
+   "company": "twitch",
+   "hours_open": 850.9,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1791528523,
+   "company": "highlightai",
+   "hours_open": 113.9,
+   "title": "Early Career Product Engineer",
+   "uid": "ashby:highlightai:dd8526be-514c-46a5-98be-b068b10b4cbb"
+  },
+  {
+   "closed_at": 1791528523,
+   "company": "spacex",
+   "hours_open": 853.9,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
   }
  ],
- "count": 803,
- "updated_at": 1791527939
+ "count": 804,
+ "updated_at": 1791528524
 }
