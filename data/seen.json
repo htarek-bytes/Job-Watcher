@@ -1,5 +1,5 @@
 {
- "count": 7678,
+ "count": 7688,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -314,6 +314,7 @@
   "amazon:amazon:10574795": 1791563644,
   "amazon:amazon:10575014": 1791572271,
   "amazon:amazon:10575097": 1791572271,
+  "amazon:amazon:10575136": 1791580458,
   "ashby:1password:4ff46f84-a5c9-4232-84b6-1dfa8e737148": 1788750148,
   "ashby:1password:7f885c41-7572-439c-886f-bc508eb9a3d7": 1788454653,
   "ashby:1password:a5b083d5-5f82-4316-b5ef-a577f2edb493": 1788750148,
@@ -1359,6 +1360,7 @@
   "greenhouse:alarmcom:8622530002": 1788386318,
   "greenhouse:alarmcom:8646370002": 1788750148,
   "greenhouse:alarmcom:8696114002": 1790357765,
+  "greenhouse:alarmcom:8796080002": 1791580458,
   "greenhouse:alayacare:8587623002": 1788454653,
   "greenhouse:alayacare:8653380002": 1788409442,
   "greenhouse:alayacare:8678579002": 1788887337,
@@ -1705,6 +1707,7 @@
   "greenhouse:andurilindustries:5262324007": 1791563644,
   "greenhouse:andurilindustries:5262328007": 1791563644,
   "greenhouse:andurilindustries:5262340007": 1791563644,
+  "greenhouse:andurilindustries:5262583007": 1791580458,
   "greenhouse:anthropic:4982193008": 1788460756,
   "greenhouse:anthropic:5290838008": 1788750148,
   "greenhouse:appdirect:8635759002": 1788454653,
@@ -1989,6 +1992,7 @@
   "greenhouse:coinbase:8234278": 1790888920,
   "greenhouse:coinbase:8241522": 1790723272,
   "greenhouse:coinbase:8247397": 1790884489,
+  "greenhouse:coinbase:8265721": 1791580458,
   "greenhouse:colabsoftware:5285398008": 1788454653,
   "greenhouse:colabsoftware:5393762008": 1788750148,
   "greenhouse:colabsoftware:5419274008": 1789125397,
@@ -2092,6 +2096,7 @@
   "greenhouse:doordashusa:8263774": 1791443319,
   "greenhouse:doordashusa:8264534": 1791470133,
   "greenhouse:doordashusa:8264542": 1791470133,
+  "greenhouse:doordashusa:8267987": 1791580458,
   "greenhouse:drweng:6586001": 1788454653,
   "greenhouse:drweng:6586065": 1788903151,
   "greenhouse:drweng:6821173": 1788454653,
@@ -3684,6 +3689,7 @@
   "greenhouse:tripadvisor:8038193": 1790723435,
   "greenhouse:tripadvisor:8045078": 1790723435,
   "greenhouse:tripadvisor:8161471": 1790723435,
+  "greenhouse:tripadvisor:8221273": 1791580458,
   "greenhouse:trueanomalyinc:5000652007": 1788454653,
   "greenhouse:trueanomalyinc:5000654007": 1788454653,
   "greenhouse:trueanomalyinc:5092069007": 1788409188,
@@ -4281,6 +4287,7 @@
   "jobbank:specialiste infrastructure:50358308": 1790275541,
   "jobbank:specialiste infrastructure:50365083": 1790347721,
   "jobbank:specialiste infrastructure:50430052": 1791232806,
+  "jobbank:specialiste infrastructure:50462911": 1791580458,
   "jobbank:systems administrator:49651763": 1788887337,
   "jobbank:systems administrator:49812698": 1788887337,
   "jobbank:systems administrator:49831486": 1788887337,
@@ -6834,6 +6841,7 @@
   "workday:gdit.wd5/external_career_site:Software-Engineer-1_RQ222853-1": 1788377607,
   "workday:geaerospace.wd5/ge_externalsite:Applied-AI-Engineer-Co-op---Spring-2027--January-Start-_R5039041-1": 1788442300,
   "workday:geaerospace.wd5/ge_externalsite:Applied-AI-Engineer-Intern---Summer-2027--May-June-Start-_R5039302-1": 1788442300,
+  "workday:geaerospace.wd5/ge_externalsite:Entry-Level---FPGA-Design-Verification-Engineer_R5041307-1": 1791580458,
   "workday:gehc.wd5/GEHC_ExternalSite:Full-Stack-Software-Engineering-Intern---MIM-Commercialized-Web-Applications_R4046583-1": 1790091943,
   "workday:gehc.wd5/GEHC_ExternalSite:LSS-Software-Engineering-Co-op---Madison--WI_R4046263-1": 1789166954,
   "workday:gehc.wd5/GEHC_ExternalSite:Software-Engineering-Intern---Workflow-Platform_R4046886-1": 1790384195,
@@ -6893,7 +6901,9 @@
   "workday:globalfoundries.wd1/External:Quantum-NCG-3DHI-Engineer_JR-2605426": 1789676545,
   "workday:globalfoundries.wd1/External:Reliability-Test-Engineer--2027-New-College-Graduate-_JR-2604333": 1790641647,
   "workday:globalfoundries.wd1/External:SoC-Design-Verification-Engineer--2026-New-College-Graduate-_JR-2601515": 1788377607,
+  "workday:globalfoundries.wd1/External:Software-Engineer--2027-New-College-Graduate-_JR-2604100": 1791580458,
   "workday:globalfoundries.wd1/External:Software-Engineer--Cloud-Platform--2027-New-College-Graduate-_JR-2604056": 1788548796,
+  "workday:globalfoundries.wd1/External:Software-Engineering-Intern--Summer-2027-_JR-2604039": 1791580458,
   "workday:globalfoundries.wd1/External:Systems-Engineer--2027-New-College-Graduate-_JR-2604083": 1788898936,
   "workday:globalfoundries.wd1/External:Tapeout-Engineer--2026-New-College-Graduate_JR-2602561": 1788377607,
   "workday:globalfoundries.wd1/External:XMLNAME-3D-Heterogeneous-Integration-Design-Enablement-Engineer--2025-New-College-Graduate-_JR-2501678": 1788377607,
@@ -7680,5 +7690,5 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148,
   "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541": 1789106107
  },
- "updated_at": 1791573491
+ "updated_at": 1791580459
 }
