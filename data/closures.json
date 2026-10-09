@@ -1,48 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1791187860,
-   "company": "Source Code",
-   "hours_open": 314.3,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50337559"
-  },
-  {
-   "closed_at": 1791187860,
-   "company": "Logesco Informatique",
-   "hours_open": 578.9,
-   "title": "network administrator",
-   "uid": "jobbank:network administrator:50264218"
-  },
-  {
-   "closed_at": 1791191961,
-   "company": "Citylitics",
-   "hours_open": 50.5,
-   "title": "data engineer",
-   "uid": "jobbank:infrastructure analyst:50414504"
-  },
-  {
-   "closed_at": 1791191961,
-   "company": "bmo",
-   "hours_open": 249.2,
-   "title": "AI Engineer, Winter 2027 (Co-op/Internship) - 8 months",
-   "uid": "workday:bmo.wd3/External:AI-Engineer--Winter-2027--Co-op-Internship----8-months_R260027622-1"
-  },
-  {
-   "closed_at": 1791191961,
-   "company": "Cooptel",
-   "hours_open": 640.2,
-   "title": "Administrateur réseau",
-   "uid": "jobillico:analyste reseau:17185045"
-  },
-  {
-   "closed_at": 1791191961,
-   "company": "bmo",
-   "hours_open": 234.5,
-   "title": "Business & Operations Development Specialist (New Grad)",
-   "uid": "workday:bmo.wd3/External:Business---Operations-Development-Specialist--New-Grad-_R260027681"
-  },
-  {
    "closed_at": 1791191961,
    "company": "cadence",
    "hours_open": 773.1,
@@ -5599,8 +5557,50 @@
    "hours_open": 853.4,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1791527068,
+   "company": "upenn",
+   "hours_open": 59.3,
+   "title": "Junior Systems Administrator, Linguistic Data Consortium",
+   "uid": "workday:upenn.wd1/careers-at-penn:Junior-Systems-Administrator--Linguistic-Data-Consortium_JR00128750"
+  },
+  {
+   "closed_at": 1791527068,
+   "company": "tandemdiabetes",
+   "hours_open": 500.9,
+   "title": "Technical Operations Specialist I",
+   "uid": "workday:tandemdiabetes.wd12/tandemdiabetes:Technical-Operations-Specialist-I_JR101524-1"
+  },
+  {
+   "closed_at": 1791527068,
+   "company": "twitch",
+   "hours_open": 853.4,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1791527068,
+   "company": "tmobile",
+   "hours_open": 768.4,
+   "title": "Solutions Engineer, SMB - Tampa",
+   "uid": "workday:tmobile.wd1/External:Solutions-Engineer--SMB---Tampa_REQ369984-2"
+  },
+  {
+   "closed_at": 1791527068,
+   "company": "spacex",
+   "hours_open": 850.5,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1791527068,
+   "company": "spacex",
+   "hours_open": 853.2,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
   }
  ],
- "count": 820,
- "updated_at": 1791526947
+ "count": 806,
+ "updated_at": 1791527069
 }
