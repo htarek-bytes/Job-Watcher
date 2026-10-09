@@ -1,55 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1791232806,
-   "company": "Kativik Ilisarniliriniq (La commission scolaire du Nunavik)",
-   "hours_open": 79.7,
-   "title": "network analyst",
-   "uid": "jobbank:network analyst:50409133"
-  },
-  {
-   "closed_at": 1791232806,
-   "company": "Sierra Nevada Corporation",
-   "hours_open": 808.3,
-   "title": "Software Engineer 1",
-   "uid": "simplify:listings:92e26ac8-dfc6-42c8-867f-6c96fb1a9e63"
-  },
-  {
-   "closed_at": 1791232806,
-   "company": "Richie It Solutions Inc",
-   "hours_open": 168.4,
-   "title": "software developer",
-   "uid": "jobbank:developpeur junior:50357104"
-  },
-  {
-   "closed_at": 1791232806,
-   "company": "D3 Security Management Systems Inc",
-   "hours_open": 406.1,
-   "title": "cybersecurity specialist",
-   "uid": "jobbank:specialiste infrastructure:50317565"
-  },
-  {
-   "closed_at": 1791232806,
-   "company": "spacex",
-   "hours_open": 771.7,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1791232806,
-   "company": "spacex",
-   "hours_open": 771.7,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1791232806,
-   "company": "spacex",
-   "hours_open": 768.8,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
    "closed_at": 1791241882,
    "company": "Cooptel",
    "hours_open": 654.0,
@@ -5599,8 +5550,57 @@
    "hours_open": 18.8,
    "title": "Associate Software Engineer",
    "uid": "workday:boeing.wd1/EXTERNAL_CAREERS:Associate-Software-Engineer_JR2026522010-1"
+  },
+  {
+   "closed_at": 1791573491,
+   "company": "ccf",
+   "hours_open": 19.0,
+   "title": "New Grad RN Resident - Med/Surg & Telemetry",
+   "uid": "workday:ccf.wd1/ClevelandClinicCareers:New-Grad-RN-Resident---Med-Surg---Telemetry_344169"
+  },
+  {
+   "closed_at": 1791573491,
+   "company": "broadcom",
+   "hours_open": 783.4,
+   "title": "Solution Engineer - ValueOps",
+   "uid": "workday:broadcom.wd1/external_career:Solution-Engineer---ValueOps_R026472"
+  },
+  {
+   "closed_at": 1791573491,
+   "company": "cae",
+   "hours_open": 58.4,
+   "title": "Software Developer Coop",
+   "uid": "workday:cae.wd3/career:Software-Developer-Coop_123904"
+  },
+  {
+   "closed_at": 1791573491,
+   "company": "CANMEC",
+   "hours_open": 5.8,
+   "title": "Nous agrandissons l'équipe ON RECRUTE Technicien informatique",
+   "uid": "jobillico:technicien informatique:17600094"
+  },
+  {
+   "closed_at": 1791573491,
+   "company": "twitch",
+   "hours_open": 866.3,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1791573491,
+   "company": "spacex",
+   "hours_open": 866.3,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1791573491,
+   "company": "spacex",
+   "hours_open": 866.3,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 805,
- "updated_at": 1791572781
+ "count": 807,
+ "updated_at": 1791573491
 }
