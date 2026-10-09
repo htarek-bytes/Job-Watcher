@@ -1,160 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1791220236,
-   "company": "andurilindustries",
-   "hours_open": 612.0,
-   "title": "System Test Engineer - Imaging",
-   "uid": "greenhouse:andurilindustries:5147719007"
-  },
-  {
-   "closed_at": 1791220236,
-   "company": "spacex",
-   "hours_open": 766.5,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1791220236,
-   "company": "trueanomalyinc",
-   "hours_open": 768.2,
-   "title": "Associate Ground & Flight Test Engineer, Integration & Safety",
-   "uid": "greenhouse:trueanomalyinc:5143241007"
-  },
-  {
-   "closed_at": 1791220236,
-   "company": "Amazon",
-   "hours_open": 307.9,
-   "title": "Software Development Engineer, Platform Engineering & Emerging Technology",
-   "uid": "amazon:amazon:10556964"
-  },
-  {
-   "closed_at": 1791224409,
-   "company": "rfsmart",
-   "hours_open": 762.4,
-   "title": "Software Developer",
-   "uid": "greenhouse:rfsmart:5409573008"
-  },
-  {
-   "closed_at": 1791224409,
-   "company": "marvell",
-   "hours_open": 65.0,
-   "title": "Firmware Engineer Intern - BS/MS - 2027 Co-Op",
-   "uid": "workday:marvell.wd1/MarvellCareers:Firmware-Engineer-Intern---BS-MS---2027-Co-Op_2604959"
-  },
-  {
-   "closed_at": 1791224409,
-   "company": "marvell",
-   "hours_open": 65.0,
-   "title": "Firmware Engineer Intern - Winter 2027",
-   "uid": "workday:marvell.wd1/MarvellCareers:Firmware-Engineer-Intern---Winter-2027_2604738"
-  },
-  {
-   "closed_at": 1791224409,
-   "company": "asana",
-   "hours_open": 260.6,
-   "title": "Software Engineer, AI Teammates Platform",
-   "uid": "greenhouse:asana:8078102"
-  },
-  {
-   "closed_at": 1791224409,
-   "company": "marvell",
-   "hours_open": 97.7,
-   "title": "IC Validation Engineer Intern - BS/MS - 2027 Co-Op",
-   "uid": "workday:marvell.wd1/MarvellCareers:IC-Validation-Engineer-Intern---BS-MS---2027-Co-Op_2603925"
-  },
-  {
-   "closed_at": 1791224409,
-   "company": "manulife",
-   "hours_open": 180.3,
-   "title": "Summer Intern 2027 - Software Engineering (12 Months)",
-   "uid": "workday:manulife.wd3/MFCJH_Jobs:Summer-Intern-2027---Software-Engineering--12-Months-_JR26091053"
-  },
-  {
-   "closed_at": 1791224409,
-   "company": "mirego",
-   "hours_open": 769.4,
-   "title": "Développeur(euse) logiciel Back-End / DevOps",
-   "uid": "lever:mirego:50a2268a-ac83-4ff9-9952-f6c30486f192"
-  },
-  {
-   "closed_at": 1791224409,
-   "company": "marvell",
-   "hours_open": 257.4,
-   "title": "Board Product Engineer Intern, BS - Summer 2027",
-   "uid": "workday:marvell.wd1/MarvellCareers2:Board-Product-Engineer-Intern--BS---Summer-2027_2603833"
-  },
-  {
-   "closed_at": 1791224409,
-   "company": "marvell",
-   "hours_open": 428.2,
-   "title": "SRAM Software Engineer Intern, BS - Summer 2027",
-   "uid": "workday:marvell.wd1/MarvellCareers:SRAM-Software-Engineer-Intern--BS---Summer-2027_2603760-1"
-  },
-  {
-   "closed_at": 1791224409,
-   "company": "Amazon",
-   "hours_open": 166.0,
-   "title": "Software Development Engineer - Distributed Services",
-   "uid": "amazon:amazon:10562446"
-  },
-  {
-   "closed_at": 1791224409,
-   "company": "Amazon",
-   "hours_open": 283.1,
-   "title": "Software Dev Engineer, Business Data Technologies",
-   "uid": "amazon:amazon:10558429"
-  },
-  {
-   "closed_at": 1791224409,
-   "company": "manulife",
-   "hours_open": 266.9,
-   "title": "Winter Co-op 2027 - Software Engineering",
-   "uid": "workday:manulife.wd3/MFCJH_Jobs:Winter-Co-op-2027---Software-Engineering_JR26081663"
-  },
-  {
-   "closed_at": 1791224409,
-   "company": "manulife",
-   "hours_open": 242.4,
-   "title": "Summer Intern 2027 - Software Engineering (8 Months)",
-   "uid": "workday:manulife.wd3/MFCJH_Jobs:Summer-Intern-2027---Software-Engineering--8-Months-_JR26081685"
-  },
-  {
-   "closed_at": 1791224409,
-   "company": "manulife",
-   "hours_open": 180.3,
-   "title": "Winter Co-op 2027 - Software Engineering (8 Months)",
-   "uid": "workday:manulife.wd3/MFCJH_Jobs:Winter-Co-op-2027---Software-Engineering--8-Months-_JR26081664"
-  },
-  {
-   "closed_at": 1791224409,
-   "company": "manulife",
-   "hours_open": 771.2,
-   "title": "Summer Intern 2027 - Software Engineering",
-   "uid": "workday:manulife.wd3/MFCJH_Jobs:Summer-Intern-2027---Software-Engineering_JR26081680"
-  },
-  {
-   "closed_at": 1791224409,
-   "company": "kbr",
-   "hours_open": 790.8,
-   "title": "Junior Software Engineer",
-   "uid": "workday:kbr.wd5/KBR_Careers:Junior-Software-Engineer_R2122294"
-  },
-  {
-   "closed_at": 1791224409,
-   "company": "marvell",
-   "hours_open": 257.4,
-   "title": "Physical Design Engineer Intern, MS - Summer 2027",
-   "uid": "workday:marvell.wd1/MarvellCareers2:Physical-Design-Engineer-Intern--MS---Summer-2027_2604518"
-  },
-  {
-   "closed_at": 1791224409,
-   "company": "truveta",
-   "hours_open": 777.3,
-   "title": "Software Engineering Intern",
-   "uid": "greenhouse:truveta:5659745004"
-  },
-  {
    "closed_at": 1791225444,
    "company": "pae",
    "hours_open": 81.7,
@@ -5599,8 +5445,162 @@
    "hours_open": 36.7,
    "title": "information technology (IT) analyst",
    "uid": "jobbank:control systems analyst:50449266"
+  },
+  {
+   "closed_at": 1791563644,
+   "company": "stripe",
+   "hours_open": 40.7,
+   "title": "Software Engineer, Internal Identity",
+   "uid": "greenhouse:stripe:8263356"
+  },
+  {
+   "closed_at": 1791563644,
+   "company": "ServiceNow",
+   "hours_open": 20.3,
+   "title": "Associate Software Engineer",
+   "uid": "smartrecruiters:ServiceNow:744000154515244"
+  },
+  {
+   "closed_at": 1791563644,
+   "company": "lyft",
+   "hours_open": 582.2,
+   "title": "Software Engineer, Identity",
+   "uid": "greenhouse:lyft:8806552002"
+  },
+  {
+   "closed_at": 1791563644,
+   "company": "Eurofins",
+   "hours_open": 43.1,
+   "title": "Sales Engineer",
+   "uid": "smartrecruiters:Eurofins:744000154181040"
+  },
+  {
+   "closed_at": 1791563644,
+   "company": "Eurofins",
+   "hours_open": 43.1,
+   "title": "Associate Engineer",
+   "uid": "smartrecruiters:Eurofins:744000154180759"
+  },
+  {
+   "closed_at": 1791563644,
+   "company": "Nordstrom",
+   "hours_open": 40.7,
+   "title": "Engineer 1",
+   "uid": "simplify:listings:addc9110-286b-45d0-9b03-24ea2d3042c6"
+  },
+  {
+   "closed_at": 1791563644,
+   "company": "Technologies Lannex inc.",
+   "hours_open": 50.6,
+   "title": "Technicien Informatique",
+   "uid": "jobillico:technicien informatique:17586117"
+  },
+  {
+   "closed_at": 1791563644,
+   "company": "Cela",
+   "hours_open": 3.1,
+   "title": "full stack Web developer",
+   "uid": "jobbank:programmeur junior:50376038"
+  },
+  {
+   "closed_at": 1791563644,
+   "company": "Bell Canada",
+   "hours_open": 25.7,
+   "title": "analyst, computer systems",
+   "uid": "jobbank:analyste de systemes:50419044"
+  },
+  {
+   "closed_at": 1791563644,
+   "company": "Surrey Police Service",
+   "hours_open": 496.0,
+   "title": "systems analyst",
+   "uid": "jobbank:systems analyst:50318878"
+  },
+  {
+   "closed_at": 1791563644,
+   "company": "Groupe DCM",
+   "hours_open": 515.6,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534679"
+  },
+  {
+   "closed_at": 1791563644,
+   "company": "Amazon",
+   "hours_open": 22.7,
+   "title": "Software Development Engineer, Cloudwatch Agent Observability",
+   "uid": "amazon:amazon:10573558"
+  },
+  {
+   "closed_at": 1791563644,
+   "company": "Amazon",
+   "hours_open": 213.9,
+   "title": "Software Development Engineer, Amazon Quick",
+   "uid": "amazon:amazon:10565705"
+  },
+  {
+   "closed_at": 1791563644,
+   "company": "Kwikwetlem First Nation",
+   "hours_open": 717.2,
+   "title": "communications specialist",
+   "uid": "jobbank:specialiste infrastructure:50252116"
+  },
+  {
+   "closed_at": 1791563644,
+   "company": "Freedom Technology Solutions Group",
+   "hours_open": 498.6,
+   "title": "Junior Software Engineer",
+   "uid": "simplify:listings:1137567c-261b-4ccb-8a65-00a55a4d57b5"
+  },
+  {
+   "closed_at": 1791563644,
+   "company": "Princeton IT Services Inc",
+   "hours_open": 881.5,
+   "title": "software development programmer",
+   "uid": "jobbank:junior programmer:50092595"
+  },
+  {
+   "closed_at": 1791563644,
+   "company": "RTX",
+   "hours_open": 16.2,
+   "title": "Embedded Security Software Engineer 1",
+   "uid": "simplify:listings:9199e425-2144-4178-bac6-c9f1802f9f1e"
+  },
+  {
+   "closed_at": 1791563644,
+   "company": "RTX",
+   "hours_open": 22.7,
+   "title": "Embedded Software Engineer 1",
+   "uid": "simplify:listings:eca699ea-4b3d-45f9-bfb7-6f596296fddc"
+  },
+  {
+   "closed_at": 1791563644,
+   "company": "rocketlab",
+   "hours_open": 256.1,
+   "title": "Avionics Test Engineer I",
+   "uid": "greenhouse:rocketlab:8007235003"
+  },
+  {
+   "closed_at": 1791563644,
+   "company": "RTX",
+   "hours_open": 16.2,
+   "title": "Software Engineer 1",
+   "uid": "simplify:listings:ac4101d2-7b55-4a95-8cb3-623155d4a3d5"
+  },
+  {
+   "closed_at": 1791563644,
+   "company": "spacex",
+   "hours_open": 863.6,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1791563644,
+   "company": "spacex",
+   "hours_open": 863.6,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 807,
- "updated_at": 1791554054
+ "count": 822,
+ "updated_at": 1791563646
 }
