@@ -1,202 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1791117516,
-   "company": "Draper",
-   "hours_open": 723.7,
-   "title": "System Integration and Test Engineer 1",
-   "uid": "simplify:listings:f638a7a9-7858-44cf-a52d-23c7ec258ad8"
-  },
-  {
-   "closed_at": 1791118175,
-   "company": "Citylitics",
-   "hours_open": 30.0,
-   "title": "data engineer",
-   "uid": "jobbank:infrastructure analyst:50414504"
-  },
-  {
-   "closed_at": 1791118175,
-   "company": "zoom",
-   "hours_open": 558.9,
-   "title": "Solutions Engineer - Federal",
-   "uid": "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541"
-  },
-  {
-   "closed_at": 1791118175,
-   "company": "Automat",
-   "hours_open": 0.2,
-   "title": "Software Engineer - Junior/Intermediate",
-   "uid": "simplify:listings:e52f9adf-6058-49a2-8d34-de29435c2cae"
-  },
-  {
-   "closed_at": 1791118539,
-   "company": "Groupe DCM",
-   "hours_open": 385.8,
-   "title": "Programmeur CNC / CNC Programmer",
-   "uid": "jobillico:programmeur junior:17534670"
-  },
-  {
-   "closed_at": 1791120286,
-   "company": "Cooptel",
-   "hours_open": 620.3,
-   "title": "Administrateur r\u00e9seau",
-   "uid": "jobillico:analyste reseau:17185045"
-  },
-  {
-   "closed_at": 1791123384,
-   "company": "Source Code",
-   "hours_open": 87.6,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:control systems analyst:50399288"
-  },
-  {
-   "closed_at": 1791123384,
-   "company": "Point",
-   "hours_open": 276.4,
-   "title": "Associate Software Engineer - Customer Operations",
-   "uid": "simplify:listings:8e844e5f-0bbf-48a1-83fc-1c2710d29d18"
-  },
-  {
-   "closed_at": 1791123384,
-   "company": "Arcfield",
-   "hours_open": 387.2,
-   "title": "Entry Level Systems Engineer",
-   "uid": "simplify:listings:99a096e7-a5be-4022-8904-7687e11a9efa"
-  },
-  {
-   "closed_at": 1791123384,
-   "company": "Rolls-Royce",
-   "hours_open": 473.7,
-   "title": "Junior Machine Learning Engineer",
-   "uid": "simplify:listings:16d72e19-4fbb-4539-842e-ab1c221c3562"
-  },
-  {
-   "closed_at": 1791123384,
-   "company": "YO AI Labs",
-   "hours_open": 7.8,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50419676"
-  },
-  {
-   "closed_at": 1791123384,
-   "company": "Source Code",
-   "hours_open": 7.8,
-   "title": "software developer",
-   "uid": "jobbank:entry level software developer:50419493"
-  },
-  {
-   "closed_at": 1791123384,
-   "company": "LPL Financial Holdings",
-   "hours_open": 777.9,
-   "title": "Software Engineering New Grad",
-   "uid": "simplify:listings:8e8f7392-2530-41cd-b2fe-8ba9e55a6f68"
-  },
-  {
-   "closed_at": 1791123384,
-   "company": "The Boeing Company",
-   "hours_open": 777.9,
-   "title": "Associate Software Engineer",
-   "uid": "simplify:listings:a6aaef17-692b-47d3-b343-0592b9b8d586"
-  },
-  {
-   "closed_at": 1791123384,
-   "company": "spacex",
-   "hours_open": 741.3,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1791123384,
-   "company": "General Dynamics Information Technology",
-   "hours_open": 777.9,
-   "title": "Junior Software Developer - Active TS/SCI with Poly Required",
-   "uid": "simplify:listings:36c9b7b4-9e96-49e9-adda-25c5ec121022"
-  },
-  {
-   "closed_at": 1791133391,
-   "company": "Cooptel",
-   "hours_open": 623.9,
-   "title": "Administrateur r\u00e9seau",
-   "uid": "jobillico:analyste reseau:17185045"
-  },
-  {
-   "closed_at": 1791133391,
-   "company": "CoStar Group",
-   "hours_open": 65.5,
-   "title": "Associate Software Engineer",
-   "uid": "simplify:listings:4430d739-ddf1-4b1c-966a-d5e29f89a980"
-  },
-  {
-   "closed_at": 1791133391,
-   "company": "Lightmatter",
-   "hours_open": 16.4,
-   "title": "Silicon Packaging Engineer Intern & New Grad",
-   "uid": "simplify:listings:1e8644d0-127c-4750-bfbf-36aa12cae932"
-  },
-  {
-   "closed_at": 1791133391,
-   "company": "YO AI Labs",
-   "hours_open": 2.8,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50315211"
-  },
-  {
-   "closed_at": 1791133391,
-   "company": "Source Code",
-   "hours_open": 2.8,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50419493"
-  },
-  {
-   "closed_at": 1791133391,
-   "company": "Richie It Solutions Inc",
-   "hours_open": 140.8,
-   "title": "software developer",
-   "uid": "jobbank:developpeur junior:50357104"
-  },
-  {
-   "closed_at": 1791133391,
-   "company": "Peraton",
-   "hours_open": 41.5,
-   "title": "Artificial Intelligence/Machine Learning Engineer 1",
-   "uid": "simplify:listings:979c2a8d-5e79-4fc8-b155-4081978b94aa"
-  },
-  {
-   "closed_at": 1791133391,
-   "company": "RTX",
-   "hours_open": 425.3,
-   "title": "Electrical Computer-Aided Design Engineer 1",
-   "uid": "simplify:listings:938e545a-d865-454b-a353-80ef26b0f317"
-  },
-  {
-   "closed_at": 1791133716,
-   "company": "spacex",
-   "hours_open": 741.2,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1791134675,
-   "company": "Cooptel",
-   "hours_open": 624.3,
-   "title": "Administrateur r\u00e9seau",
-   "uid": "jobillico:analyste reseau:17185045"
-  },
-  {
-   "closed_at": 1791135973,
-   "company": "Citadel",
-   "hours_open": 781.4,
-   "title": "Software Engineer \u2013 University Graduate",
-   "uid": "simplify:listings:410b28b6-b357-4b72-9480-bad83701b4cb"
-  },
-  {
-   "closed_at": 1791137587,
-   "company": "ADECCO",
-   "hours_open": 53.1,
-   "title": "instrumentation engineer",
-   "uid": "jobbank:scada:50408018"
-  },
-  {
    "closed_at": 1791137587,
    "company": "YO AI Labs",
    "hours_open": 11.7,
@@ -256,7 +60,7 @@
    "closed_at": 1791145346,
    "company": "Cooptel",
    "hours_open": 627.2,
-   "title": "Administrateur r\u00e9seau",
+   "title": "Administrateur réseau",
    "uid": "jobillico:analyste reseau:17185045"
   },
   {
@@ -312,7 +116,7 @@
    "closed_at": 1791155089,
    "company": "Cooptel",
    "hours_open": 629.9,
-   "title": "Administrateur r\u00e9seau",
+   "title": "Administrateur réseau",
    "uid": "jobillico:analyste reseau:17185045"
   },
   {
@@ -382,7 +186,7 @@
    "closed_at": 1791156400,
    "company": "Cooptel",
    "hours_open": 630.3,
-   "title": "Administrateur r\u00e9seau",
+   "title": "Administrateur réseau",
    "uid": "jobillico:analyste reseau:17185045"
   },
   {
@@ -515,7 +319,7 @@
    "closed_at": 1791191961,
    "company": "Cooptel",
    "hours_open": 640.2,
-   "title": "Administrateur r\u00e9seau",
+   "title": "Administrateur réseau",
    "uid": "jobillico:analyste reseau:17185045"
   },
   {
@@ -683,7 +487,7 @@
    "closed_at": 1791220236,
    "company": "gevernova",
    "hours_open": 65.6,
-   "title": "D\u00e9veloppeur de logiciels embarqu\u00e9s pour \u00e9l\u00e9ments de protection  F/H - Protection Element Embedded SW Developer-1",
+   "title": "Développeur de logiciels embarqués pour éléments de protection  F/H - Protection Element Embedded SW Developer-1",
    "uid": "workday:gevernova.wd5/vernova_externalsite:Dveloppeur-de-logiciels-embarqus-pour-lments-de-protection--F-H---Protection-Element-Embedded-SW-Developer-1_R5053315-3"
   },
   {
@@ -711,7 +515,7 @@
    "closed_at": 1791220236,
    "company": "Cooptel",
    "hours_open": 648.0,
-   "title": "Administrateur r\u00e9seau",
+   "title": "Administrateur réseau",
    "uid": "jobillico:analyste reseau:17185045"
   },
   {
@@ -872,7 +676,7 @@
    "closed_at": 1791224409,
    "company": "mirego",
    "hours_open": 769.4,
-   "title": "D\u00e9veloppeur(euse) logiciel Back-End / DevOps",
+   "title": "Développeur(euse) logiciel Back-End / DevOps",
    "uid": "lever:mirego:50a2268a-ac83-4ff9-9952-f6c30486f192"
   },
   {
@@ -1180,7 +984,7 @@
    "closed_at": 1791241882,
    "company": "Cooptel",
    "hours_open": 654.0,
-   "title": "Administrateur r\u00e9seau",
+   "title": "Administrateur réseau",
    "uid": "jobillico:analyste reseau:17185045"
   },
   {
@@ -1306,7 +1110,7 @@
    "closed_at": 1791241882,
    "company": "applied",
    "hours_open": 774.2,
-   "title": "C++ Software Engineer \u2013 Autonomous Systems",
+   "title": "C++ Software Engineer – Autonomous Systems",
    "uid": "ashby:applied:23498829-6e3f-4d18-8617-9164f0e0470f"
   },
   {
@@ -1376,7 +1180,7 @@
    "closed_at": 1791246070,
    "company": "Cooptel",
    "hours_open": 655.2,
-   "title": "Administrateur r\u00e9seau",
+   "title": "Administrateur réseau",
    "uid": "jobillico:analyste reseau:17185045"
   },
   {
@@ -1432,7 +1236,7 @@
    "closed_at": 1791246152,
    "company": "Cooptel",
    "hours_open": 655.2,
-   "title": "Administrateur r\u00e9seau",
+   "title": "Administrateur réseau",
    "uid": "jobillico:analyste reseau:17185045"
   },
   {
@@ -1936,7 +1740,7 @@
    "closed_at": 1791293674,
    "company": "Umano Medical",
    "hours_open": 668.4,
-   "title": "Concepteur logiciel embarqu\u00e9 et cybers\u00e9curit\u00e9",
+   "title": "Concepteur logiciel embarqué et cybersécurité",
    "uid": "jobillico:analyste cybersecurite:17489580"
   },
   {
@@ -1957,7 +1761,7 @@
    "closed_at": 1791293862,
    "company": "CGI",
    "hours_open": 668.5,
-   "title": "Conseiller en architecture de cybers\u00e9curit\u00e9",
+   "title": "Conseiller en architecture de cybersécurité",
    "uid": "jobillico:analyste cybersecurite:17433753"
   },
   {
@@ -2020,7 +1824,7 @@
    "closed_at": 1791293986,
    "company": "Cooptel",
    "hours_open": 668.5,
-   "title": "Administrateur r\u00e9seau",
+   "title": "Administrateur réseau",
    "uid": "jobillico:analyste reseau:17185045"
   },
   {
@@ -2083,14 +1887,14 @@
    "closed_at": 1791297144,
    "company": "CGI",
    "hours_open": 669.4,
-   "title": "Analyste en op\u00e9rations de cybers\u00e9curit\u00e9",
+   "title": "Analyste en opérations de cybersécurité",
    "uid": "jobillico:analyste cybersecurite:17433747"
   },
   {
    "closed_at": 1791297144,
    "company": "CGI",
    "hours_open": 669.4,
-   "title": "Conseiller en audit de cybers\u00e9curit\u00e9",
+   "title": "Conseiller en audit de cybersécurité",
    "uid": "jobillico:analyste cybersecurite:17433750"
   },
   {
@@ -2699,7 +2503,7 @@
    "closed_at": 1791327638,
    "company": "Umano Medical",
    "hours_open": 677.9,
-   "title": "Concepteur logiciel embarqu\u00e9 et cybers\u00e9curit\u00e9",
+   "title": "Concepteur logiciel embarqué et cybersécurité",
    "uid": "jobillico:analyste cybersecurite:17489580"
   },
   {
@@ -2804,7 +2608,7 @@
    "closed_at": 1791327707,
    "company": "Umano Medical",
    "hours_open": 677.9,
-   "title": "Concepteur logiciel embarqu\u00e9 et cybers\u00e9curit\u00e9",
+   "title": "Concepteur logiciel embarqué et cybersécurité",
    "uid": "jobillico:analyste cybersecurite:17489580"
   },
   {
@@ -2937,7 +2741,7 @@
    "closed_at": 1791328929,
    "company": "CGI",
    "hours_open": 678.2,
-   "title": "Conseiller en audit de cybers\u00e9curit\u00e9",
+   "title": "Conseiller en audit de cybersécurité",
    "uid": "jobillico:analyste cybersecurite:17433750"
   },
   {
@@ -3014,7 +2818,7 @@
    "closed_at": 1791334227,
    "company": "Cooptel",
    "hours_open": 679.7,
-   "title": "Administrateur r\u00e9seau",
+   "title": "Administrateur réseau",
    "uid": "jobillico:analyste reseau:17185045"
   },
   {
@@ -3238,7 +3042,7 @@
    "closed_at": 1791339633,
    "company": "ServiceNow",
    "hours_open": 103.6,
-   "title": "Forward Deployed Solution Engineer \u2013 Applied\u202fAI FDE",
+   "title": "Forward Deployed Solution Engineer – Applied AI FDE",
    "uid": "smartrecruiters:ServiceNow:744000153211799"
   },
   {
@@ -3252,7 +3056,7 @@
    "closed_at": 1791339633,
    "company": "ServiceNow",
    "hours_open": 150.3,
-   "title": "Partner Solution Engineer \u2013 EMEA Central",
+   "title": "Partner Solution Engineer – EMEA Central",
    "uid": "smartrecruiters:ServiceNow:744000152732339"
   },
   {
@@ -3266,7 +3070,7 @@
    "closed_at": 1791340248,
    "company": "Cooptel",
    "hours_open": 681.4,
-   "title": "Administrateur r\u00e9seau",
+   "title": "Administrateur réseau",
    "uid": "jobillico:analyste reseau:17185045"
   },
   {
@@ -3504,7 +3308,7 @@
    "closed_at": 1791364158,
    "company": "lowes",
    "hours_open": 538.7,
-   "title": "Software Engineer \u2013 Undergrad Internship \u2013 Summer 2027",
+   "title": "Software Engineer – Undergrad Internship – Summer 2027",
    "uid": "workday:lowes.wd5/LWS_External_CS:Software-Engineer---Undergrad-Internship---Summer-2027_JR-02623576"
   },
   {
@@ -3532,21 +3336,21 @@
    "closed_at": 1791381341,
    "company": "gallup",
    "hours_open": 34.9,
-   "title": "Software Engineer Intern \u2014 Summer 2027",
+   "title": "Software Engineer Intern — Summer 2027",
    "uid": "greenhouse:gallup:4395897009"
   },
   {
    "closed_at": 1791381341,
    "company": "SM Informatique inc.",
    "hours_open": 689.4,
-   "title": "technicien informatique r\u00e9seautique",
+   "title": "technicien informatique réseautique",
    "uid": "jobillico:technicien informatique:12325078"
   },
   {
    "closed_at": 1791381341,
    "company": "CGI",
    "hours_open": 692.8,
-   "title": "Conseiller en architecture de cybers\u00e9curit\u00e9",
+   "title": "Conseiller en architecture de cybersécurité",
    "uid": "jobillico:analyste cybersecurite:17433753"
   },
   {
@@ -3651,14 +3455,14 @@
    "closed_at": 1791388468,
    "company": "Cooptel",
    "hours_open": 694.8,
-   "title": "Administrateur r\u00e9seau",
+   "title": "Administrateur réseau",
    "uid": "jobillico:analyste reseau:17185045"
   },
   {
    "closed_at": 1791388468,
    "company": "CGI",
    "hours_open": 694.8,
-   "title": "Conseiller en audit de cybers\u00e9curit\u00e9",
+   "title": "Conseiller en audit de cybersécurité",
    "uid": "jobillico:analyste cybersecurite:17433750"
   },
   {
@@ -3714,7 +3518,7 @@
    "closed_at": 1791389476,
    "company": "CGI",
    "hours_open": 695.0,
-   "title": "Conseiller en architecture de cybers\u00e9curit\u00e9",
+   "title": "Conseiller en architecture de cybersécurité",
    "uid": "jobillico:analyste cybersecurite:17433753"
   },
   {
@@ -4001,7 +3805,7 @@
    "closed_at": 1791406871,
    "company": "Cooptel",
    "hours_open": 699.9,
-   "title": "Administrateur r\u00e9seau",
+   "title": "Administrateur réseau",
    "uid": "jobillico:analyste reseau:17185045"
   },
   {
@@ -4169,7 +3973,7 @@
    "closed_at": 1791417211,
    "company": "ServiceNow",
    "hours_open": 21.5,
-   "title": "Forward Deployed Solution Engineer \u2013 Applied\u202fAI FDE",
+   "title": "Forward Deployed Solution Engineer – Applied AI FDE",
    "uid": "smartrecruiters:ServiceNow:744000153790887"
   },
   {
@@ -4190,14 +3994,14 @@
    "closed_at": 1791417211,
    "company": "Umano Medical",
    "hours_open": 702.7,
-   "title": "Concepteur logiciel embarqu\u00e9 et cybers\u00e9curit\u00e9",
+   "title": "Concepteur logiciel embarqué et cybersécurité",
    "uid": "jobillico:analyste cybersecurite:17489580"
   },
   {
    "closed_at": 1791417211,
    "company": "Cooptel",
    "hours_open": 702.7,
-   "title": "Administrateur r\u00e9seau",
+   "title": "Administrateur réseau",
    "uid": "jobillico:analyste reseau:17185045"
   },
   {
@@ -4260,7 +4064,7 @@
    "closed_at": 1791417211,
    "company": "General Dynamics Mission Systems",
    "hours_open": 24.5,
-   "title": "Embedded Software Engineer \u2013 Entry Level",
+   "title": "Embedded Software Engineer – Entry Level",
    "uid": "simplify:listings:51ba20ce-fa42-44f4-8918-7f1f063dabb3"
   },
   {
@@ -4365,7 +4169,7 @@
    "closed_at": 1791421754,
    "company": "ag",
    "hours_open": 18.5,
-   "title": "Sp\u00e9cialiste en Syst\u00e8me EWIS/ Electrical Wiring Interconnection System Specialist",
+   "title": "Spécialiste en Système EWIS/ Electrical Wiring Interconnection System Specialist",
    "uid": "workday:ag.wd3/Airbus:Spcialiste-en-Systme-EWIS--Electrical-Wiring-Interconnection-System-Specialist_JR10435628"
   },
   {
@@ -4393,7 +4197,7 @@
    "closed_at": 1791421832,
    "company": "ag",
    "hours_open": 18.5,
-   "title": "Sp\u00e9cialiste en Syst\u00e8me EWIS/ Electrical Wiring Interconnection System Specialist",
+   "title": "Spécialiste en Système EWIS/ Electrical Wiring Interconnection System Specialist",
    "uid": "workday:ag.wd3/Airbus:Spcialiste-en-Systme-EWIS--Electrical-Wiring-Interconnection-System-Specialist_JR10435628"
   },
   {
@@ -4442,14 +4246,14 @@
    "closed_at": 1791422190,
    "company": "Cooptel",
    "hours_open": 704.1,
-   "title": "Administrateur r\u00e9seau",
+   "title": "Administrateur réseau",
    "uid": "jobillico:analyste reseau:17185045"
   },
   {
    "closed_at": 1791422190,
    "company": "bakerhughes",
    "hours_open": 829.7,
-   "title": "Intern \u2013 Plant Parametric and Automation Model Engineer \u2013 2026 (M/F/D)",
+   "title": "Intern – Plant Parametric and Automation Model Engineer – 2026 (M/F/D)",
    "uid": "workday:bakerhughes.wd5/BakerHughes:Intern---Plant-Parametric-and-Automation-Model-Engineer---Florence--Italy---2026--M-F-D-_R167907"
   },
   {
@@ -4526,14 +4330,14 @@
    "closed_at": 1791431778,
    "company": "dowjones",
    "hours_open": 548.9,
-   "title": "Summer 2027 Internship Program \u2013 Software Engineering Intern",
+   "title": "Summer 2027 Internship Program – Software Engineering Intern",
    "uid": "workday:dowjones.wd1/Dow_Jones_Career:Summer-2027-Internship-Program---Software-Engineering-Intern_Job_Req_55293"
   },
   {
    "closed_at": 1791431778,
    "company": "ccf",
    "hours_open": 19.1,
-   "title": "New Grad RN Resident \u2013 Internal Medicine Telemetry",
+   "title": "New Grad RN Resident – Internal Medicine Telemetry",
    "uid": "workday:ccf.wd1/ClevelandClinicCareers:New-Grad-RN-Resident---Internal-Medicine-Telemetry_356937"
   },
   {
@@ -4624,7 +4428,7 @@
    "closed_at": 1791443319,
    "company": "hntb",
    "hours_open": 22.1,
-   "title": "New Grad Engineer I: Rail & Transit \u2013 Summer 2027",
+   "title": "New Grad Engineer I: Rail & Transit – Summer 2027",
    "uid": "workday:hntb.wd5/hntb_careers:New-Grad-Engineer-I--Rail---Transit---Summer-2027_R-31631-1"
   },
   {
@@ -4729,7 +4533,7 @@
    "closed_at": 1791444048,
    "company": "medtronic",
    "hours_open": 833.7,
-   "title": "Software Engineering Intern \u2013 Summer 2027",
+   "title": "Software Engineering Intern – Summer 2027",
    "uid": "workday:medtronic.wd1/redeploymentmedtroniccareers:Software-Engineering-Intern---Summer-2027_R73630"
   },
   {
@@ -4785,14 +4589,14 @@
    "closed_at": 1791444372,
    "company": "philips",
    "hours_open": 825.4,
-   "title": "Co-op \u2013 Software Engineer (R&D) \u2013 Cambridge, MA \u2013 January - August 2027",
+   "title": "Co-op – Software Engineer (R&D) – Cambridge, MA – January - August 2027",
    "uid": "workday:philips.wd3/jobs-and-careers:Co-op---Software-Engineer--R-D----Cambridge--MA---January---August-2027_588891"
   },
   {
    "closed_at": 1791444372,
    "company": "philips",
    "hours_open": 825.4,
-   "title": "Co-op \u2013 Software Engineering (APM) - Cambridge, MA - Jan - Aug 2027",
+   "title": "Co-op – Software Engineering (APM) - Cambridge, MA - Jan - Aug 2027",
    "uid": "workday:philips.wd3/jobs-and-careers:Co-op---Software-Engineering--APM----Cambridge--MA---Jan---Aug-2027_590097"
   },
   {
@@ -4813,7 +4617,7 @@
    "closed_at": 1791444372,
    "company": "NVIDIA",
    "hours_open": 176.8,
-   "title": "System Design Engineer \u2013 New College Grad 2026",
+   "title": "System Design Engineer – New College Grad 2026",
    "uid": "simplify:listings:7fb2f96e-3662-4a02-a0c2-e7bbd2663ce9"
   },
   {
@@ -4834,7 +4638,7 @@
    "closed_at": 1791444813,
    "company": "Cooptel",
    "hours_open": 710.4,
-   "title": "Administrateur r\u00e9seau",
+   "title": "Administrateur réseau",
    "uid": "jobillico:analyste reseau:17185045"
   },
   {
@@ -4939,14 +4743,14 @@
    "closed_at": 1791470133,
    "company": "Cooptel",
    "hours_open": 717.4,
-   "title": "Administrateur r\u00e9seau",
+   "title": "Administrateur réseau",
    "uid": "jobillico:analyste reseau:17185045"
   },
   {
    "closed_at": 1791470133,
    "company": "CGI",
    "hours_open": 717.4,
-   "title": "Conseiller en architecture de cybers\u00e9curit\u00e9",
+   "title": "Conseiller en architecture de cybersécurité",
    "uid": "jobillico:analyste cybersecurite:17433753"
   },
   {
@@ -5107,7 +4911,7 @@
    "closed_at": 1791482043,
    "company": "Umano Medical",
    "hours_open": 720.8,
-   "title": "Concepteur logiciel embarqu\u00e9 et cybers\u00e9curit\u00e9",
+   "title": "Concepteur logiciel embarqué et cybersécurité",
    "uid": "jobillico:analyste cybersecurite:17489580"
   },
   {
@@ -5121,7 +4925,7 @@
    "closed_at": 1791482043,
    "company": "Cooptel",
    "hours_open": 720.8,
-   "title": "Administrateur r\u00e9seau",
+   "title": "Administrateur réseau",
    "uid": "jobillico:analyste reseau:17185045"
   },
   {
@@ -5366,7 +5170,7 @@
    "closed_at": 1791499461,
    "company": "CGI",
    "hours_open": 725.6,
-   "title": "Conseiller en audit de cybers\u00e9curit\u00e9",
+   "title": "Conseiller en audit de cybersécurité",
    "uid": "jobillico:analyste cybersecurite:17433750"
   },
   {
@@ -5732,6 +5536,71 @@
    "hours_open": 847.4,
    "title": "Embedded Software Engineer, OS/Platform (Starshield)",
    "uid": "greenhouse:spacex:8530798002"
+  },
+  {
+   "closed_at": 1791505898,
+   "company": "bmo",
+   "hours_open": 0.2,
+   "title": "Software Developer ( Early Career )-15",
+   "uid": "workday:bmo.wd3/External:Software-Developer---Early-Career---15_R260021450"
+  },
+  {
+   "closed_at": 1791505898,
+   "company": "entrust",
+   "hours_open": 39.6,
+   "title": "Software Engineer Co-op",
+   "uid": "workday:entrust.wd1/entrustcareers:Software-Engineer-Co-op_R004416"
+  },
+  {
+   "closed_at": 1791505898,
+   "company": "dxctechnology",
+   "hours_open": 467.2,
+   "title": "Junior Java Developer",
+   "uid": "workday:dxctechnology.wd1/dxcjobs:Junior-Java-Developer_51584530"
+  },
+  {
+   "closed_at": 1791505898,
+   "company": "ebi",
+   "hours_open": 554.3,
+   "title": "Product Engineer Intern",
+   "uid": "workday:ebi.wd5/ebadcareers:Product-Engineer-Intern_REQ107697"
+  },
+  {
+   "closed_at": 1791505898,
+   "company": "disney",
+   "hours_open": 209.0,
+   "title": "Product Software Engineer I",
+   "uid": "workday:disney.wd5/disneycareerdc:Product-Software-Engineer-I_10157015-2"
+  },
+  {
+   "closed_at": 1791505898,
+   "company": "fifththird",
+   "hours_open": 17.4,
+   "title": "Software Engineer Co-Op - Enterprise Finance Applications - Summer 2027",
+   "uid": "workday:fifththird.wd5/53careers:Software-Engineer-Co-Op---Enterprise-Finance-Applications---Summer-2027_R71588"
+  },
+  {
+   "closed_at": 1791505898,
+   "company": "Source Code",
+   "hours_open": 23.4,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:control systems analyst:50449266"
+  },
+  {
+   "closed_at": 1791505898,
+   "company": "spacex",
+   "hours_open": 847.6,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1791505898,
+   "company": "spacex",
+   "hours_open": 847.6,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
- ]
+ ],
+ "count": 828,
+ "updated_at": 1791505899
 }
