@@ -1,48 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1791250093,
-   "company": "Amazon",
-   "hours_open": 292.8,
-   "title": "Software Development Engineer, Amazon",
-   "uid": "amazon:amazon:10558292"
-  },
-  {
-   "closed_at": 1791250093,
-   "company": "uniswap",
-   "hours_open": 793.4,
-   "title": "Software Engineer - Early Career",
-   "uid": "ashby:uniswap:fb4d4137-f003-4669-beb7-2a5caca88012"
-  },
-  {
-   "closed_at": 1791250093,
-   "company": "Lightfield",
-   "hours_open": 813.1,
-   "title": "Early Career Infrastructure Software Engineer",
-   "uid": "simplify:listings:e3cfe515-6df5-4847-9b31-0a9b950a8524"
-  },
-  {
-   "closed_at": 1791255594,
-   "company": "Square Yards Real Estate Inc",
-   "hours_open": 173.1,
-   "title": "cloud administrator",
-   "uid": "jobbank:cloud administrator:50384375"
-  },
-  {
-   "closed_at": 1791255594,
-   "company": "andurilindustries",
-   "hours_open": 776.3,
-   "title": "Product Sourcing Engineer",
-   "uid": "greenhouse:andurilindustries:5224081007"
-  },
-  {
-   "closed_at": 1791255594,
-   "company": "Deloitte",
-   "hours_open": 400.2,
-   "title": "Data & AI Solutions Engineering Analyst - Consultative Offerings",
-   "uid": "simplify:listings:acfd75f6-b373-4747-aa03-88912b01fa48"
-  },
-  {
    "closed_at": 1791255594,
    "company": "andurilindustries",
    "hours_open": 776.3,
@@ -5599,8 +5557,50 @@
    "hours_open": 870.2,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1791587731,
+   "company": "salesforce",
+   "hours_open": 723.1,
+   "title": "Solution Engineer (Pre-Sales) – Data Foundation (MuleSoft & Informatica)",
+   "uid": "workday:salesforce.wd12/External_Career_Site:Solution-Engineer--Pre-Sales----Informatica_JR331878"
+  },
+  {
+   "closed_at": 1791587731,
+   "company": "Groupe DCM",
+   "hours_open": 516.2,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534670"
+  },
+  {
+   "closed_at": 1791587731,
+   "company": "rockwellautomation",
+   "hours_open": 333.2,
+   "title": "Intern, AI Software Engineering (June-August 2027)",
+   "uid": "workday:rockwellautomation.wd1/External_Rockwell_Automation:Intern--AI-Software-Engineering--June-August-2027-_R26-6980-1"
+  },
+  {
+   "closed_at": 1791587731,
+   "company": "rockwellautomation",
+   "hours_open": 333.2,
+   "title": "Co-op, AI Software Engineering (6-8 months)",
+   "uid": "workday:rockwellautomation.wd1/External_Rockwell_Automation:Co-op--AI-Software-Engineering--6-8-months-_R26-6982-1"
+  },
+  {
+   "closed_at": 1791587731,
+   "company": "radiancetech",
+   "hours_open": 389.8,
+   "title": "Junior Software Engineer",
+   "uid": "workday:radiancetech.wd12/Radiance_External:Junior-Software-Engineer_HR102428"
+  },
+  {
+   "closed_at": 1791587731,
+   "company": "relx",
+   "hours_open": 16.9,
+   "title": "Software Engineer 1",
+   "uid": "workday:relx.wd3/relx:Software-Engineer-1_R117973-1"
   }
  ],
- "count": 809,
- "updated_at": 1791587464
+ "count": 806,
+ "updated_at": 1791587731
 }
