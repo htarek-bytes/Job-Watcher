@@ -1,48 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1791255594,
-   "company": "andurilindustries",
-   "hours_open": 776.3,
-   "title": "Sourcing Engineer",
-   "uid": "greenhouse:andurilindustries:4929636007"
-  },
-  {
-   "closed_at": 1791268203,
-   "company": "YO AI Labs",
-   "hours_open": 31.4,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50422478"
-  },
-  {
-   "closed_at": 1791268203,
-   "company": "tenstorrent",
-   "hours_open": 301.0,
-   "title": "Physical Design Engineer, ML4PD",
-   "uid": "greenhouse:tenstorrent:5227741007"
-  },
-  {
-   "closed_at": 1791268203,
-   "company": "kitware",
-   "hours_open": 461.7,
-   "title": "Software Developer Internship",
-   "uid": "lever:kitware:7b6ff8f9-34c6-4338-845d-4e1bbc142906"
-  },
-  {
-   "closed_at": 1791268203,
-   "company": "Source Code",
-   "hours_open": 40.2,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:control systems analyst:50420260"
-  },
-  {
-   "closed_at": 1791268203,
-   "company": "Maarut",
-   "hours_open": 152.0,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:systems analyst:50393012"
-  },
-  {
    "closed_at": 1791268203,
    "company": "Amazon",
    "hours_open": 5.0,
@@ -5599,8 +5557,50 @@
    "hours_open": 16.9,
    "title": "Software Engineer 1",
    "uid": "workday:relx.wd3/relx:Software-Engineer-1_R117973-1"
+  },
+  {
+   "closed_at": 1791588115,
+   "company": "thermofisher",
+   "hours_open": 17.0,
+   "title": "Junior System Engineer – Verification & Investigation - Desktop SEM",
+   "uid": "workday:thermofisher.wd5/ThermoFisherCareers:System-Engineer---Verification---Investigation---Desktop-SEM_R-01370270"
+  },
+  {
+   "closed_at": 1791588115,
+   "company": "Vizient",
+   "hours_open": 0.2,
+   "title": "Associate Software Engineer",
+   "uid": "simplify:listings:26c69754-b42a-4afd-807e-41e2dfe8b206"
+  },
+  {
+   "closed_at": 1791588115,
+   "company": "Great Lakes Group",
+   "hours_open": 168.9,
+   "title": "hardware engineer",
+   "uid": "jobbank:scada:50412119"
+  },
+  {
+   "closed_at": 1791588115,
+   "company": "td",
+   "hours_open": 330.1,
+   "title": "Software Engineer I",
+   "uid": "workday:td.wd3/TD_Bank_Careers:Software-Engineer-I_R_1511144"
+  },
+  {
+   "closed_at": 1791588115,
+   "company": "Groupe DCM",
+   "hours_open": 522.4,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534679"
+  },
+  {
+   "closed_at": 1791588115,
+   "company": "ultra",
+   "hours_open": 98.7,
+   "title": "Test Engineer 1",
+   "uid": "workday:ultra.wd3/ultra-careers:Test-Engineer-1_REQ-12545-1"
   }
  ],
  "count": 806,
- "updated_at": 1791587731
+ "updated_at": 1791588115
 }
