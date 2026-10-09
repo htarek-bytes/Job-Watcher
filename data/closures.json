@@ -2,41 +2,6 @@
  "closed": [
   {
    "closed_at": 1791220236,
-   "company": "globalhr",
-   "hours_open": 65.6,
-   "title": "Mechanical Test Engineer I",
-   "uid": "workday:globalhr.wd5/rec_rtx_ext_gateway:Mechanical-Test-Engineer-I_01879801"
-  },
-  {
-   "closed_at": 1791220236,
-   "company": "Geothentic",
-   "hours_open": 93.3,
-   "title": "full stack developer",
-   "uid": "jobbank:developpeur junior:50385154"
-  },
-  {
-   "closed_at": 1791220236,
-   "company": "Fed IT",
-   "hours_open": 424.9,
-   "title": "network system administrator",
-   "uid": "jobbank:systems administrator:50310437"
-  },
-  {
-   "closed_at": 1791220236,
-   "company": "Cooptel",
-   "hours_open": 648.0,
-   "title": "Administrateur réseau",
-   "uid": "jobillico:analyste reseau:17185045"
-  },
-  {
-   "closed_at": 1791220236,
-   "company": "globalhr",
-   "hours_open": 34.4,
-   "title": "Avionics Test Engineering -Systems Engineer Intern (Onsite)",
-   "uid": "workday:globalhr.wd5/rec_rtx_ext_gateway:Avionics-Test-Engineering--Systems-Engineer-Intern--Onsite-_01876518"
-  },
-  {
-   "closed_at": 1791220236,
    "company": "appian",
    "hours_open": 747.8,
    "title": "Software Engineer",
@@ -5599,8 +5564,43 @@
    "hours_open": 860.5,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1791552963,
+   "company": "agile-defense",
+   "hours_open": 62.2,
+   "title": "Enterprise Cloud Systems Engineer - Intermediate",
+   "uid": "lever:agile-defense:57ea8741-f95f-4d96-94c9-b9afaa4ff09d"
+  },
+  {
+   "closed_at": 1791552963,
+   "company": "Cooptel",
+   "hours_open": 740.5,
+   "title": "Administrateur réseau",
+   "uid": "jobillico:analyste reseau:17185045"
+  },
+  {
+   "closed_at": 1791552963,
+   "company": "CANMEC",
+   "hours_open": 0.1,
+   "title": "Nous agrandissons l'équipe ON RECRUTE Technicien informatique",
+   "uid": "jobillico:technicien informatique:17600094"
+  },
+  {
+   "closed_at": 1791552963,
+   "company": "freedomconsulting",
+   "hours_open": 879.6,
+   "title": "Junior Software Engineer 744",
+   "uid": "greenhouse:freedomconsulting:5199607007"
+  },
+  {
+   "closed_at": 1791552963,
+   "company": "agile-defense",
+   "hours_open": 860.6,
+   "title": "Data Engineer - CDAO",
+   "uid": "lever:agile-defense:45d8560d-1321-4603-a2fc-db27f1bd3425"
   }
  ],
- "count": 808,
- "updated_at": 1791552626
+ "count": 805,
+ "updated_at": 1791552963
 }
