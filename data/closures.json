@@ -1,62 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1791192062,
-   "company": "spacex",
-   "hours_open": 757.4,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1791203227,
-   "company": "evolutioniq",
-   "hours_open": 133.3,
-   "title": "Associate Data Engineer (Python / AI Insurance SaaS) ",
-   "uid": "greenhouse:evolutioniq:6210230004"
-  },
-  {
-   "closed_at": 1791203227,
-   "company": "disney",
-   "hours_open": 109.3,
-   "title": "Product Software Engineer I",
-   "uid": "workday:disney.wd5/disneycareer:Product-Software-Engineer-I_10157015"
-  },
-  {
-   "closed_at": 1791203227,
-   "company": "ebi",
-   "hours_open": 470.2,
-   "title": "Product Engineer Intern",
-   "uid": "workday:ebi.wd5/ebadcareers:Product-Engineer-Intern_REQ107697"
-  },
-  {
-   "closed_at": 1791203227,
-   "company": "cadence",
-   "hours_open": 787.6,
-   "title": "Adams Application Software Developer  (Recent Grad 2026)",
-   "uid": "workday:cadence.wd1/Univ_Careers:Adams-Application-Software-Developer---Recent-Grad-2026-_R55736-2"
-  },
-  {
-   "closed_at": 1791203227,
-   "company": "cadence",
-   "hours_open": 756.5,
-   "title": "Software Engineer  (new college grad Dec 2026)",
-   "uid": "workday:cadence.wd1/Univ_Careers:Software-Engineer---new-college-grad-Dec-2026-_R55738-2"
-  },
-  {
-   "closed_at": 1791203227,
-   "company": "mongodb",
-   "hours_open": 763.5,
-   "title": "Software Engineer 3, Atlas Identity and Access Management",
-   "uid": "greenhouse:mongodb:8069776"
-  },
-  {
-   "closed_at": 1791203227,
-   "company": "point72",
-   "hours_open": 761.8,
-   "title": "Machine Learning Infrastructure Engineer, GenAI Technology  ",
-   "uid": "greenhouse:point72:8472280002"
-  },
-  {
    "closed_at": 1791203227,
    "company": "cadence",
    "hours_open": 787.6,
@@ -5599,8 +5543,64 @@
    "hours_open": 853.9,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1791538635,
+   "company": "AM/PM Service - Point of Sale & Service",
+   "hours_open": 508.3,
+   "title": "network administrator",
+   "uid": "jobbank:network administrator:50312058"
+  },
+  {
+   "closed_at": 1791538635,
+   "company": "Boeing",
+   "hours_open": 82.4,
+   "title": "Entry Level Test & Evaluation Engineer",
+   "uid": "simplify:listings:54aec1a8-4f38-44e4-bd9f-1bdf812162b7"
+  },
+  {
+   "closed_at": 1791538635,
+   "company": "Walmart",
+   "hours_open": 9.3,
+   "title": "Software Engineer 2 Intern",
+   "uid": "simplify:listings:9a65a8df-82be-4934-8e8f-0308d4a7686a"
+  },
+  {
+   "closed_at": 1791538635,
+   "company": "Clay",
+   "hours_open": 178.1,
+   "title": "Early Career Software Engineer",
+   "uid": "simplify:listings:2bdc9b65-ae92-4477-b012-6fd3d78589be"
+  },
+  {
+   "closed_at": 1791538635,
+   "company": "Amazon",
+   "hours_open": 199.5,
+   "title": "Software Development Engineer, Agentic AI",
+   "uid": "amazon:amazon:10566212"
+  },
+  {
+   "closed_at": 1791538635,
+   "company": "twitch",
+   "hours_open": 856.7,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1791538635,
+   "company": "saronic",
+   "hours_open": 853.6,
+   "title": "ServiceNow Developer",
+   "uid": "ashby:saronic:9d70cd7f-5492-4a24-9196-2343d8277a7e"
+  },
+  {
+   "closed_at": 1791538635,
+   "company": "spacex",
+   "hours_open": 856.4,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
   }
  ],
- "count": 804,
- "updated_at": 1791528524
+ "count": 808,
+ "updated_at": 1791538639
 }
