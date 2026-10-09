@@ -1,5 +1,5 @@
 {
- "count": 7709,
+ "count": 7719,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -5040,6 +5040,7 @@
   "simplify:listings:265812c3-595b-4969-9e5a-a6e3295cae6e": 1791123384,
   "simplify:listings:267d5473-4baf-4bba-ba9c-ccd65a1c0e30": 1788322770,
   "simplify:listings:26985919-55e8-4701-a4ca-b10a02c19de3": 1790723272,
+  "simplify:listings:26c69754-b42a-4afd-807e-41e2dfe8b206": 1791587462,
   "simplify:listings:2701a7fb-2fe3-45b1-b197-f7f80f435f82": 1791029165,
   "simplify:listings:2719baba-26af-4458-84f7-8a2dbd2ff35b": 1788322770,
   "simplify:listings:271f04b2-4017-4e86-b67f-387e7a47b5fe": 1788563552,
@@ -5175,6 +5176,7 @@
   "simplify:listings:4ae93ef5-d293-43c9-8bb7-53f4c2e97749": 1788322770,
   "simplify:listings:4b27fb44-61dc-4210-81de-325e8e32c947": 1789690748,
   "simplify:listings:4b2ecaee-656e-44a5-8c2d-3542dc11fbd5": 1789485027,
+  "simplify:listings:4badb0b9-0e92-4dab-98dc-1d7afc1476a3": 1791587462,
   "simplify:listings:4bc5fed9-a7d9-4e52-95c2-02e5be647274": 1788322770,
   "simplify:listings:4bcb1987-5e3a-4180-a0c2-7a9a7bf3ad04": 1791563644,
   "simplify:listings:4bfa4cd6-fbd4-4d12-a70b-e839ea0925e8": 1790776466,
@@ -5220,6 +5222,7 @@
   "simplify:listings:551e52f2-65d3-4921-b08d-5f686b953112": 1790006170,
   "simplify:listings:55a00559-28b9-41bc-b6dc-cda5714e2846": 1788322770,
   "simplify:listings:55cfdca4-f693-4680-abca-5c927e3394e4": 1791273148,
+  "simplify:listings:55d3dd4c-a153-4f94-9eed-f115d0face66": 1791587462,
   "simplify:listings:56278d8a-c505-46f4-a85b-5be6b79b6e44": 1790205166,
   "simplify:listings:566e37cf-7620-4e64-90ea-d25a99bb5f19": 1788322770,
   "simplify:listings:567d9a8c-5633-48a3-b22a-c47518e0804f": 1791117516,
@@ -5307,6 +5310,7 @@
   "simplify:listings:6ade9cd5-ab20-498c-8c37-b961d5cb92c1": 1788322770,
   "simplify:listings:6ae22f82-27b2-4c0b-8bb6-c2aba3e8af44": 1788322770,
   "simplify:listings:6b149eb1-5558-42e3-9a54-998d7c4e8a3c": 1788322770,
+  "simplify:listings:6bdfd3bb-ca26-48aa-9237-cfcf4c1d5315": 1791587462,
   "simplify:listings:6c2fe943-5778-43b7-9845-06428b3eec92": 1788435390,
   "simplify:listings:6c3fb746-2d33-44e9-b97d-ada170e96ef0": 1788599852,
   "simplify:listings:6d37bda3-a6fc-4a2c-b55c-1da16801bac3": 1788460756,
@@ -5728,6 +5732,7 @@
   "simplify:listings:da2b778d-65f8-4ed5-a654-3acc8baa425a": 1791563644,
   "simplify:listings:da5add3d-df09-436a-b370-0fae4cb326df": 1790809838,
   "simplify:listings:daabbb4b-3238-449b-a3f6-39e1681033a7": 1789412713,
+  "simplify:listings:db08028f-5d73-4d13-9a01-9133489eacc4": 1791587462,
   "simplify:listings:db3417bd-b16e-4797-b4f6-4a38ef7d6e26": 1790897569,
   "simplify:listings:db68c678-051c-4194-9d2a-eef600ef1437": 1788454653,
   "simplify:listings:db70cc78-6903-4f3e-98df-d5eef1dabd84": 1788322770,
@@ -7236,6 +7241,7 @@
   "workday:micron.wd1/External:Intern---Firmware-Engineer_JR111584": 1789511757,
   "workday:micron.wd1/External:Intern---ID1-Equipment-Engineer_JR113286": 1790177509,
   "workday:micron.wd1/External:Intern---IT-Software-Engineer_JR111582": 1789424861,
+  "workday:micron.wd1/External:Intern---IT-Software-Engineer_JR113941": 1791587462,
   "workday:micron.wd1/External:Intern---Node-Development-Product-Engineer---DRAM-Technology_JR111846": 1789511757,
   "workday:micron.wd1/External:Intern---PHY-Digital-Design---Automation-Engineer--HBM_JR110641": 1789424861,
   "workday:micron.wd1/External:Intern---Process-Development-Engineer--DRAM-Thin-Films_JR107203": 1790386984,
@@ -7245,8 +7251,10 @@
   "workday:micron.wd1/External:Legacy-DRAM-Product-Yield-Enhancement-Engineer_JR110017": 1788393936,
   "workday:micron.wd1/External:Module-Hardware-Engineer_JR113177": 1790643496,
   "workday:micron.wd1/External:New-College-Grad---AI-Infrastructure---HBM-Architecture-Engineer_JR109578": 1789682887,
+  "workday:micron.wd1/External:New-College-Grad---CAD-Engineer_JR114754": 1791587462,
   "workday:micron.wd1/External:New-College-Grad---Design-Engineer--DRAM-Technology-and-Products_JR105519": 1788408852,
   "workday:micron.wd1/External:New-College-Grad---Device-Process-Integration-Engineer---CMOS_JR109090": 1788903151,
+  "workday:micron.wd1/External:New-College-Grad---ENGINEER--TD-IE-OPS_JR114193": 1791587462,
   "workday:micron.wd1/External:New-College-Grad---Embedded-Firmware-Engineer_JR109306": 1788448251,
   "workday:micron.wd1/External:New-College-Grad---Engineer--ASIC-Digital-Design_JR112164": 1789682887,
   "workday:micron.wd1/External:New-College-Grad---Engineer--DPG-Compute-PE-Y-Q_JR106445": 1788393936,
@@ -7255,6 +7263,7 @@
   "workday:micron.wd1/External:New-College-Grad---HBM-Product-Development-Failure-Analysis-Engineer_JR110630": 1788465250,
   "workday:micron.wd1/External:New-College-Grad---IC-Package-Layout-Engineer_JR108957": 1788981683,
   "workday:micron.wd1/External:New-College-Grad---Mixed-Signal-Design-Engineer--HBM_JR110753": 1788393936,
+  "workday:micron.wd1/External:New-College-Grad---OI-System-Engineer_JR102433": 1791587462,
   "workday:micron.wd1/External:New-College-Grad---Operations-Improvement-Engineer_JR109576": 1788981683,
   "workday:micron.wd1/External:New-College-Grad---Photomask-BEOL-Sustaining-Engineer_JR110914": 1788981683,
   "workday:micron.wd1/External:New-College-Grad---Process-Integration-Engineer_JR114667": 1791513396,
@@ -7347,6 +7356,7 @@
   "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Intern-Engineer---Product-Support_R10250061": 1788981683,
   "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Intern-Engineer---Product-Support_R10250299": 1789074223,
   "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Intern-Engineer---Product-Support_R10250306": 1789425451,
+  "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Intern-Engineer---Product-Support_R10255457": 1791587462,
   "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Intern-Software-Engineer_R10239275": 1789753663,
   "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Intern-Software-Engineer_R10250150": 1789002546,
   "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Intern-Software-Engineer_R10250669": 1789425451,
@@ -7711,5 +7721,5 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148,
   "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541": 1789106107
  },
- "updated_at": 1791586940
+ "updated_at": 1791587464
 }

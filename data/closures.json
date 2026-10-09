@@ -1,69 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1791246152,
-   "company": "quanta",
-   "hours_open": 575.6,
-   "title": "Software Engineer (Implementation)",
-   "uid": "ashby:quanta:bdbee896-e05d-4e0c-b2f1-996dd01db800"
-  },
-  {
-   "closed_at": 1791246152,
-   "company": "revel",
-   "hours_open": 655.2,
-   "title": "Internship: Software Engineer, Test",
-   "uid": "ashby:revel:f080b27d-92c7-4e1f-a85f-b4a7c166d738"
-  },
-  {
-   "closed_at": 1791246152,
-   "company": "revel",
-   "hours_open": 655.2,
-   "title": "Internship: Full Stack Software Engineer",
-   "uid": "ashby:revel:29968ce1-8838-44e8-ac4e-6b1c87ce5314"
-  },
-  {
-   "closed_at": 1791246152,
-   "company": "revel",
-   "hours_open": 655.2,
-   "title": "Internship: Forward Deployed Engineer, Test",
-   "uid": "ashby:revel:6ca4dca8-a43e-41da-acc3-e6b4d8f9b3c1"
-  },
-  {
-   "closed_at": 1791246152,
-   "company": "revel",
-   "hours_open": 655.2,
-   "title": "Internship: Forward Deployed Engineer, Software",
-   "uid": "ashby:revel:34f97b81-c981-4c4b-9f4d-d471c33b46cc"
-  },
-  {
-   "closed_at": 1791246152,
-   "company": "revel",
-   "hours_open": 655.2,
-   "title": "Internship: Embedded Software Engineer",
-   "uid": "ashby:revel:f8eec1fd-da28-47ce-bca4-2fbe9c48a889"
-  },
-  {
-   "closed_at": 1791246152,
-   "company": "spacex",
-   "hours_open": 775.4,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1791250093,
-   "company": "jane",
-   "hours_open": 79.1,
-   "title": "IT Specialist",
-   "uid": "ashby:jane:b32e1f9c-2a6c-44a0-8fd1-cbb113e76007"
-  },
-  {
-   "closed_at": 1791250093,
-   "company": "RAD Torque Systems",
-   "hours_open": 138.1,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50394696"
-  },
-  {
    "closed_at": 1791250093,
    "company": "Amazon",
    "hours_open": 292.8,
@@ -5599,8 +5536,71 @@
    "hours_open": 870.1,
    "title": "Critical Lift & Transport Engineer (Starship)",
    "uid": "greenhouse:spacex:8413684002"
+  },
+  {
+   "closed_at": 1791587462,
+   "company": "pae",
+   "hours_open": 16.8,
+   "title": "Software Engineer 1",
+   "uid": "workday:pae.wd1/amentum_careers:Software-Engineer-1_R0171606"
+  },
+  {
+   "closed_at": 1791587462,
+   "company": "pae",
+   "hours_open": 16.8,
+   "title": "Content Developer I",
+   "uid": "workday:pae.wd1/amentum_careers:Content-Developer-I_R0171967-1"
+  },
+  {
+   "closed_at": 1791587462,
+   "company": "Groupe DCM",
+   "hours_open": 522.3,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534679"
+  },
+  {
+   "closed_at": 1791587462,
+   "company": "mmc",
+   "hours_open": 165.8,
+   "title": "Junior Full-Stack Engineer, Generative AI @ Marsh Tech",
+   "uid": "workday:mmc.wd1/MMC:Junior-Full-Stack-Engineer--Generative-AI---Marsh-Tech_R_367686"
+  },
+  {
+   "closed_at": 1791587462,
+   "company": "nordstrom",
+   "hours_open": 39.7,
+   "title": "Junior SRE (Seattle,WA)",
+   "uid": "workday:nordstrom.wd501/nordstrom_careers:Junior-SRE--Seattle-WA-_R-882591"
+  },
+  {
+   "closed_at": 1791587462,
+   "company": "ms",
+   "hours_open": 182.3,
+   "title": "Associate, Software Engineer",
+   "uid": "workday:ms.wd5/External:Associate--Software-Engineer_JR042832"
+  },
+  {
+   "closed_at": 1791587462,
+   "company": "Amazon",
+   "hours_open": 4.2,
+   "title": "Software Development Engineer, Amazon Leo for Government - Leo Modem Module Software Team",
+   "uid": "amazon:amazon:10575097"
+  },
+  {
+   "closed_at": 1791587462,
+   "company": "twitch",
+   "hours_open": 870.2,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1791587462,
+   "company": "spacex",
+   "hours_open": 870.2,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
   }
  ],
- "count": 820,
- "updated_at": 1791586940
+ "count": 809,
+ "updated_at": 1791587464
 }
