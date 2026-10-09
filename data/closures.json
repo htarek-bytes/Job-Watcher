@@ -1,27 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1791191961,
-   "company": "cadence",
-   "hours_open": 773.1,
-   "title": "Adams MultiBody Dynamics Application Software Developer (Recent Grad 2026)",
-   "uid": "workday:cadence.wd1/University_Talent:Adams-MultiBody-Dynamics-Application-Software-Developer--Recent-Grad-2026-_R55788-3"
-  },
-  {
-   "closed_at": 1791191961,
-   "company": "spacex",
-   "hours_open": 757.4,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1790752783,
-   "company": "accenture",
-   "hours_open": 655.3,
-   "title": "Junior .NET Developer - Fresh Graduates",
-   "uid": "workday:accenture.wd103/AccentureCareers:Junior-NET-Developer---Fresh-Graduates_R00332478"
-  },
-  {
    "closed_at": 1791192062,
    "company": "Citylitics",
    "hours_open": 50.5,
@@ -5599,8 +5578,29 @@
    "hours_open": 853.2,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1791527938,
+   "company": "Aurelian",
+   "hours_open": 4.0,
+   "title": "Software Engineer New Grad",
+   "uid": "simplify:listings:7aabe808-d12f-4399-b2f0-e348094fa171"
+  },
+  {
+   "closed_at": 1791527938,
+   "company": "zoll",
+   "hours_open": 875.0,
+   "title": "Junior Algorithm Engineer",
+   "uid": "workday:zoll.wd5/ZOLLMedicalCorp:Junior-Algorithm-Engineer_R19377"
+  },
+  {
+   "closed_at": 1791527938,
+   "company": "spacex",
+   "hours_open": 853.7,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
   }
  ],
- "count": 806,
- "updated_at": 1791527069
+ "count": 803,
+ "updated_at": 1791527939
 }
