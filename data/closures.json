@@ -1,90 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1791297144,
-   "company": "CGI",
-   "hours_open": 669.4,
-   "title": "Conseiller en audit de cybersécurité",
-   "uid": "jobillico:analyste cybersecurite:17433750"
-  },
-  {
-   "closed_at": 1791297144,
-   "company": "intel",
-   "hours_open": 87.0,
-   "title": "AI Software Engineering Undergraduate Intern",
-   "uid": "workday:intel.wd1/external:AI-Software-Engineering-Undergraduate-Intern_JR0287583"
-  },
-  {
-   "closed_at": 1791297144,
-   "company": "lowes",
-   "hours_open": 520.1,
-   "title": "Exploratory Software Engineering - Undergrad Internship - Summer 2027",
-   "uid": "workday:lowes.wd5/LWS_External_CS:Exploratory-Software-Engineering---Undergrad-Internship---Summer-2027_JR-02623542"
-  },
-  {
-   "closed_at": 1791297144,
-   "company": "jci",
-   "hours_open": 508.1,
-   "title": "ACE Technical Sales - Fire Detection (Southeast)",
-   "uid": "workday:jci.wd5/JCI:ACE-Technical-Sales---Fire-Detection_WD30279390"
-  },
-  {
-   "closed_at": 1791297144,
-   "company": "kbr",
-   "hours_open": 810.9,
-   "title": "Junior Software Engineer",
-   "uid": "workday:kbr.wd5/kbr_careers:Junior-Software-Engineer_R2122294"
-  },
-  {
-   "closed_at": 1791305141,
-   "company": "JP Morgan Chase",
-   "hours_open": 10.2,
-   "title": "Software Engineer 1",
-   "uid": "simplify:listings:8eaeeea9-e989-429e-afc9-1418dcb4545c"
-  },
-  {
-   "closed_at": 1791305141,
-   "company": "pae",
-   "hours_open": 22.1,
-   "title": "Entry Level Software Engineer",
-   "uid": "workday:pae.wd1/amentum_careers:Entry-Level-Software-Engineer_R0172148"
-  },
-  {
-   "closed_at": 1791305141,
-   "company": "TS Manufacturing",
-   "hours_open": 188.5,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50383922"
-  },
-  {
-   "closed_at": 1791305141,
-   "company": "Groupe DCM",
-   "hours_open": 437.7,
-   "title": "Programmeur CNC / CNC Programmer",
-   "uid": "jobillico:programmeur junior:17534670"
-  },
-  {
-   "closed_at": 1791305141,
-   "company": "pae",
-   "hours_open": 87.3,
-   "title": "Junior Software Developer",
-   "uid": "workday:pae.wd1/amentum_careers:Junior-Software-Developer_R0172202"
-  },
-  {
-   "closed_at": 1791305141,
-   "company": "mmc",
-   "hours_open": 87.4,
-   "title": "Junior Full-Stack Engineer, Generative AI @ Marsh Tech",
-   "uid": "workday:mmc.wd1/MMC:Junior-Full-Stack-Engineer--Generative-AI---Marsh-Tech_R_367686"
-  },
-  {
-   "closed_at": 1791305141,
-   "company": "pg",
-   "hours_open": 795.2,
-   "title": "Northeastern University R&D Engineer Co-op- Northeastern Students Graduating in 2029 ONLY",
-   "uid": "workday:pg.wd5/1000:Northeastern-University-R-D-Engineer-Co-op--Northeastern-Students-Graduating-in-2028-2029-ONLY_R000155302"
-  },
-  {
    "closed_at": 1791305141,
    "company": "Amentum",
    "hours_open": 17.6,
@@ -5599,8 +5515,92 @@
    "hours_open": 884.2,
    "title": "Security Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1791643311,
+   "company": "ccf",
+   "hours_open": 19.4,
+   "title": "New Grad RN Resident – Telemetry Unit",
+   "uid": "workday:ccf.wd1/ClevelandClinicCareers:New-Grad-RN-Resident---Telemetry-Unit_338311"
+  },
+  {
+   "closed_at": 1791643311,
+   "company": "Magna Mining Inc.",
+   "hours_open": 7.9,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:systems analyst:50465318"
+  },
+  {
+   "closed_at": 1791643311,
+   "company": "CANMEC",
+   "hours_open": 25.2,
+   "title": "Nous agrandissons l'équipe ON RECRUTE Technicien informatique",
+   "uid": "jobillico:technicien informatique:17600094"
+  },
+  {
+   "closed_at": 1791643311,
+   "company": "Cboe",
+   "hours_open": 15.7,
+   "title": "Associate Software Engineer - Web",
+   "uid": "simplify:listings:e571900f-7e09-4802-8138-3b1dbb9a2db5"
+  },
+  {
+   "closed_at": 1791643311,
+   "company": "Groupe DCM",
+   "hours_open": 531.6,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534670"
+  },
+  {
+   "closed_at": 1791643311,
+   "company": "cox",
+   "hours_open": 714.6,
+   "title": "Application Support Engineering Intern - Summer 2027",
+   "uid": "workday:cox.wd1/Cox_External_Career_Site_1:Application-Support-Engineering-Intern---Summer-2027_R202682358"
+  },
+  {
+   "closed_at": 1791643311,
+   "company": "cox",
+   "hours_open": 422.2,
+   "title": "Infrastructure Operations Intern - Summer 2027",
+   "uid": "workday:cox.wd1/Cox_External_Career_Site_1:Infrastructure-Operations-Intern---Summer-2027_R202682357"
+  },
+  {
+   "closed_at": 1791643311,
+   "company": "cox",
+   "hours_open": 714.6,
+   "title": "Test Automation Intern - Summer 2027",
+   "uid": "workday:cox.wd1/Cox_External_Career_Site_1:Test-Automation-Intern---Summer-2027_R202682348-1"
+  },
+  {
+   "closed_at": 1791643311,
+   "company": "twitch",
+   "hours_open": 882.8,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1791643311,
+   "company": "Source Code",
+   "hours_open": 61.5,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:control systems analyst:50449266"
+  },
+  {
+   "closed_at": 1791643311,
+   "company": "Lakeland Roman Catholic Separate School Division",
+   "hours_open": 424.3,
+   "title": "computer systems analyst",
+   "uid": "jobbank:control systems analyst:50064831"
+  },
+  {
+   "closed_at": 1791643311,
+   "company": "spacex",
+   "hours_open": 882.8,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
   }
  ],
- "count": 809,
- "updated_at": 1791637648
+ "count": 812,
+ "updated_at": 1791643312
 }
