@@ -2,48 +2,6 @@
  "closed": [
   {
    "closed_at": 1791305141,
-   "company": "Amentum",
-   "hours_open": 17.6,
-   "title": "Entry Level Software Engineer",
-   "uid": "simplify:listings:8b814030-ef68-4f27-8a2b-d020a043b99c"
-  },
-  {
-   "closed_at": 1791305141,
-   "company": "Amazon",
-   "hours_open": 260.0,
-   "title": "Software Development Engineer, Devices Software & Services",
-   "uid": "amazon:amazon:10560849"
-  },
-  {
-   "closed_at": 1791305141,
-   "company": "Amazon",
-   "hours_open": 283.0,
-   "title": "Software Development Engineer, Sponsored Products and Brands",
-   "uid": "amazon:amazon:10559549"
-  },
-  {
-   "closed_at": 1791305141,
-   "company": "Amazon",
-   "hours_open": 166.4,
-   "title": "Software Development Engineer, Display Advertising, Entertainment, Devices & Grocery Ad Experiences",
-   "uid": "amazon:amazon:10564013"
-  },
-  {
-   "closed_at": 1791305141,
-   "company": "Amazon",
-   "hours_open": 286.0,
-   "title": "Software Development Engineer, Customer Service Technologies",
-   "uid": "amazon:amazon:10559392"
-  },
-  {
-   "closed_at": 1791305141,
-   "company": "Amazon",
-   "hours_open": 10.3,
-   "title": "Software Development Engineer, ML Acceleration, Trainium AI Systems, Annapurna Labs",
-   "uid": "amazon:amazon:10570092"
-  },
-  {
-   "closed_at": 1791305141,
    "company": "singlestore",
    "hours_open": 491.8,
    "title": "IT Operations Engineer",
@@ -5599,8 +5557,50 @@
    "hours_open": 882.8,
    "title": "Security Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1791643748,
+   "company": "Source Code",
+   "hours_open": 87.8,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:systems analyst:50440640"
+  },
+  {
+   "closed_at": 1791643748,
+   "company": "Groupe DCM",
+   "hours_open": 537.9,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534679"
+  },
+  {
+   "closed_at": 1791643748,
+   "company": "globalhr",
+   "hours_open": 77.8,
+   "title": "Software Engineer Co-op (January 2027)",
+   "uid": "workday:globalhr.wd5/rec_rtx_ext_gateway:Software-Engineer-Co-op--January-2027-_01878330"
+  },
+  {
+   "closed_at": 1791643748,
+   "company": "hntb",
+   "hours_open": 77.8,
+   "title": "New Grad Engineer I: Rail & Transit – Summer 2027",
+   "uid": "workday:hntb.wd5/hntb_careers:New-Grad-Engineer-I--Rail---Transit---Summer-2027_R-31631-1"
+  },
+  {
+   "closed_at": 1791643748,
+   "company": "twitch",
+   "hours_open": 885.9,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1791643748,
+   "company": "spacex",
+   "hours_open": 885.9,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
   }
  ],
- "count": 812,
- "updated_at": 1791643312
+ "count": 806,
+ "updated_at": 1791643748
 }
