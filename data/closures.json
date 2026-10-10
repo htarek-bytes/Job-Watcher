@@ -2,20 +2,6 @@
  "closed": [
   {
    "closed_at": 1791313564,
-   "company": "td",
-   "hours_open": 441.6,
-   "title": "2027 Summer Internship Program - Global Technology & Solutions - Software Engineer (SWE)",
-   "uid": "workday:td.wd3/TD_Bank_Careers:XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Software-Engineer--SWE-_R_1510796-1"
-  },
-  {
-   "closed_at": 1791313564,
-   "company": "vestwell",
-   "hours_open": 761.6,
-   "title": "Associate, Software Engineer",
-   "uid": "greenhouse:vestwell:7983915003"
-  },
-  {
-   "closed_at": 1791313564,
    "company": "supabase",
    "hours_open": 794.1,
    "title": "Postgres Deployment Engineer (Nix)",
@@ -5599,8 +5585,22 @@
    "hours_open": 893.1,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1791671073,
+   "company": "twitch",
+   "hours_open": 893.5,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1791671073,
+   "company": "spacex",
+   "hours_open": 893.2,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
   }
  ],
- "count": 806,
- "updated_at": 1791669842
+ "count": 802,
+ "updated_at": 1791671073
 }
