@@ -1,69 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1791293986,
-   "company": "ffive",
-   "hours_open": 102.9,
-   "title": "Site Reliability Engineer I I",
-   "uid": "workday:ffive.wd5/f5jobs:Site-Reliability-Engineer-I-I_RP1038818"
-  },
-  {
-   "closed_at": 1791293986,
-   "company": "eversource",
-   "hours_open": 772.7,
-   "title": "Associate Engineer, Maintenance Support",
-   "uid": "workday:eversource.wd1/ExternalSite:Associate-Engineer--Maintenance-Support_R-031423"
-  },
-  {
-   "closed_at": 1791293986,
-   "company": "ebi",
-   "hours_open": 181.2,
-   "title": "Product Engineer Intern",
-   "uid": "workday:ebi.wd5/ebicareers:Product-Engineer-Intern_REQ107697-1"
-  },
-  {
-   "closed_at": 1791293986,
-   "company": "spacex",
-   "hours_open": 785.8,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1791293986,
-   "company": "spacex",
-   "hours_open": 787.0,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1791297144,
-   "company": "mmc",
-   "hours_open": 20.2,
-   "title": "Software Developer - I",
-   "uid": "workday:mmc.wd1/MMC:Quality-Assurance-Engineer_R_310976"
-  },
-  {
-   "closed_at": 1791297144,
-   "company": "jj",
-   "hours_open": 20.2,
-   "title": "Automation Specialist Co-Op",
-   "uid": "workday:jj.wd5/JJ:Asset-Management-Co-Op_R-101720"
-  },
-  {
-   "closed_at": 1791297144,
-   "company": "Groupe DCM",
-   "hours_open": 441.6,
-   "title": "Programmeur CNC / CNC Programmer",
-   "uid": "jobillico:programmeur junior:17534679"
-  },
-  {
-   "closed_at": 1791297144,
-   "company": "CGI",
-   "hours_open": 669.4,
-   "title": "Analyste en opérations de cybersécurité",
-   "uid": "jobillico:analyste cybersecurite:17433747"
-  },
-  {
    "closed_at": 1791297144,
    "company": "CGI",
    "hours_open": 669.4,
@@ -5599,8 +5536,71 @@
    "hours_open": 877.1,
    "title": "Security Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1791637648,
+   "company": "broadcom",
+   "hours_open": 17.8,
+   "title": "Solution Engineer - ValueOps",
+   "uid": "workday:broadcom.wd1/external_career:Solution-Engineer---ValueOps_R027294"
+  },
+  {
+   "closed_at": 1791637648,
+   "company": "Lancesoft",
+   "hours_open": 271.0,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50387533"
+  },
+  {
+   "closed_at": 1791637648,
+   "company": "Groupe DCM",
+   "hours_open": 536.2,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534679"
+  },
+  {
+   "closed_at": 1791637648,
+   "company": "Cooptel",
+   "hours_open": 764.0,
+   "title": "Administrateur réseau",
+   "uid": "jobillico:analyste reseau:17185045"
+  },
+  {
+   "closed_at": 1791637648,
+   "company": "lyft",
+   "hours_open": 884.2,
+   "title": "Software Engineer, Observability",
+   "uid": "greenhouse:lyft:8716220002"
+  },
+  {
+   "closed_at": 1791637648,
+   "company": "twitch",
+   "hours_open": 884.2,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1791637648,
+   "company": "avnet",
+   "hours_open": 592.8,
+   "title": "Technical Sales Engineer - AMD/Xilinx",
+   "uid": "workday:avnet.wd1/external:Technical-Sales-Engineer---AMD-Xilinx_JR-022673-1"
+  },
+  {
+   "closed_at": 1791637648,
+   "company": "boeing",
+   "hours_open": 59.8,
+   "title": "Associate Software Engineer",
+   "uid": "workday:boeing.wd1/EXTERNAL_CAREERS:Associate-Software-Engineer_JR2026524131"
+  },
+  {
+   "closed_at": 1791637648,
+   "company": "spacex",
+   "hours_open": 884.2,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
   }
  ],
- "count": 804,
- "updated_at": 1791622666
+ "count": 809,
+ "updated_at": 1791637648
 }
