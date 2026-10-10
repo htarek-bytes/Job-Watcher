@@ -2,55 +2,6 @@
  "closed": [
   {
    "closed_at": 1791305141,
-   "company": "momentumcompany3",
-   "hours_open": 671.6,
-   "title": "Associate Cybersecurity Analyst | Early Career",
-   "uid": "greenhouse:momentumcompany3:8515272002"
-  },
-  {
-   "closed_at": 1791305141,
-   "company": "FOP EXPERTS CONSEILS INC.",
-   "hours_open": 116.8,
-   "title": "programmer analyst",
-   "uid": "jobbank:junior programmer:50403847"
-  },
-  {
-   "closed_at": 1791305141,
-   "company": "Source Code",
-   "hours_open": 10.3,
-   "title": "software developer",
-   "uid": "jobbank:entry level software developer:50424402"
-  },
-  {
-   "closed_at": 1791305141,
-   "company": "nvidia",
-   "hours_open": 137.0,
-   "title": "System Design Engineer - New College Grad 2026",
-   "uid": "workday:nvidia.wd5/NVIDIAExternalCareerSite:System-Design-Engineer---New-College-Grad-2026_JR2011879"
-  },
-  {
-   "closed_at": 1791305141,
-   "company": "spacex",
-   "hours_open": 791.8,
-   "title": "Full Stack Software Engineer, Employee Experience ",
-   "uid": "greenhouse:spacex:8726225002"
-  },
-  {
-   "closed_at": 1791305141,
-   "company": "spacex",
-   "hours_open": 791.8,
-   "title": "Supplier Development Engineer, Manufacturing (Raptor)",
-   "uid": "greenhouse:spacex:8693932002"
-  },
-  {
-   "closed_at": 1791305141,
-   "company": "spacex",
-   "hours_open": 791.8,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1791305141,
    "company": "accenturefederalservices",
    "hours_open": 261.8,
    "title": "Data Engineer ",
@@ -5599,8 +5550,57 @@
    "hours_open": 883.2,
    "title": "Security Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1791645294,
+   "company": "Lancesoft",
+   "hours_open": 0.2,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50449327"
+  },
+  {
+   "closed_at": 1791645294,
+   "company": "Groupe DCM",
+   "hours_open": 532.2,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534670"
+  },
+  {
+   "closed_at": 1791645294,
+   "company": "nationwide",
+   "hours_open": 714.2,
+   "title": "Consultant, Cybersecurity (Agentic Solutions Engineer)",
+   "uid": "workday:nationwide.wd1/Nationwide_Career:Consultant--Cybersecurity--Agentic-Solutions-Engineer-_099562"
+  },
+  {
+   "closed_at": 1791645294,
+   "company": "twitch",
+   "hours_open": 886.3,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1791645294,
+   "company": "Source Code",
+   "hours_open": 62.1,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:control systems analyst:50449266"
+  },
+  {
+   "closed_at": 1791645294,
+   "company": "nvidia",
+   "hours_open": 592.2,
+   "title": "ASIC Design Verification Engineer - New College Grad 2026",
+   "uid": "workday:nvidia.wd5/NVIDIAExternalCareerSite:ASIC-Design-Verification-Engineer---New-College-Grad-2026_JR2010391"
+  },
+  {
+   "closed_at": 1791645294,
+   "company": "spacex",
+   "hours_open": 886.3,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
   }
  ],
- "count": 804,
- "updated_at": 1791644718
+ "count": 807,
+ "updated_at": 1791645294
 }
