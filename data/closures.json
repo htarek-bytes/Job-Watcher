@@ -2,27 +2,6 @@
  "closed": [
   {
    "closed_at": 1791268841,
-   "company": "ServiceNow",
-   "hours_open": 130.6,
-   "title": "Advisory Presales Solution Consultant - Public Sector (Higher Education & Healthcare)",
-   "uid": "smartrecruiters:ServiceNow:744000152627792"
-  },
-  {
-   "closed_at": 1791268841,
-   "company": "ServiceNow",
-   "hours_open": 148.6,
-   "title": "Advisory Solution Consultant, Partner Sales (Armis/Veza)",
-   "uid": "smartrecruiters:ServiceNow:744000152455606"
-  },
-  {
-   "closed_at": 1791268841,
-   "company": "Source Code",
-   "hours_open": 40.4,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:control systems analyst:50420260"
-  },
-  {
-   "closed_at": 1791268841,
    "company": "spacex",
    "hours_open": 781.7,
    "title": "Security Software Engineer (Starlink)",
@@ -5599,8 +5578,29 @@
    "hours_open": 873.4,
    "title": "Security Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1791599248,
+   "company": "Source Code",
+   "hours_open": 0.2,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:systems analyst:50449266"
+  },
+  {
+   "closed_at": 1791599248,
+   "company": "Bell Canada",
+   "hours_open": 35.6,
+   "title": "analyst, computer systems",
+   "uid": "jobbank:analyste de systemes:50419044"
+  },
+  {
+   "closed_at": 1791599248,
+   "company": "Groupe DCM",
+   "hours_open": 519.4,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534670"
   }
  ],
- "count": 805,
- "updated_at": 1791598928
+ "count": 803,
+ "updated_at": 1791599248
 }
