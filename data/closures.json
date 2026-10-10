@@ -1,34 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1791313564,
-   "company": "supabase",
-   "hours_open": 794.1,
-   "title": "Postgres Deployment Engineer (Nix)",
-   "uid": "ashby:supabase:48950725-e0d9-4025-92d9-f75e1b60ce45"
-  },
-  {
-   "closed_at": 1791313564,
-   "company": "trueanomalyinc",
-   "hours_open": 806.8,
-   "title": "DevOps Engineer I (New Grad)",
-   "uid": "greenhouse:trueanomalyinc:5218935007"
-  },
-  {
-   "closed_at": 1791313564,
-   "company": "voyagertechnologiesinc",
-   "hours_open": 794.1,
-   "title": "RF Communications Engineer I",
-   "uid": "greenhouse:voyagertechnologiesinc:4362647009"
-  },
-  {
-   "closed_at": 1791313564,
-   "company": "trace3",
-   "hours_open": 665.5,
-   "title": "Network Administrator I, CCNA | Cleared | Huntsville, AL",
-   "uid": "greenhouse:trace3:8052656"
-  },
-  {
    "closed_at": 1791313702,
    "company": "JP Morgan Chase",
    "hours_open": 16.1,
@@ -5599,8 +5571,36 @@
    "hours_open": 893.2,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1791672172,
+   "company": "CANMEC",
+   "hours_open": 33.2,
+   "title": "Nous agrandissons l'équipe ON RECRUTE Technicien informatique",
+   "uid": "jobillico:technicien informatique:17600094"
+  },
+  {
+   "closed_at": 1791672172,
+   "company": "Groupe DCM",
+   "hours_open": 545.8,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534679"
+  },
+  {
+   "closed_at": 1791672172,
+   "company": "twitch",
+   "hours_open": 890.8,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1791672172,
+   "company": "spacex",
+   "hours_open": 893.8,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
   }
  ],
- "count": 802,
- "updated_at": 1791671073
+ "count": 804,
+ "updated_at": 1791672172
 }
