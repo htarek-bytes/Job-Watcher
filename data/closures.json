@@ -1,34 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1791293674,
-   "company": "Source Code",
-   "hours_open": 7.1,
-   "title": "software developer",
-   "uid": "jobbank:entry level software developer:50424402"
-  },
-  {
-   "closed_at": 1791293862,
-   "company": "CGI",
-   "hours_open": 668.5,
-   "title": "Conseiller en architecture de cybersécurité",
-   "uid": "jobillico:analyste cybersecurite:17433753"
-  },
-  {
-   "closed_at": 1791293862,
-   "company": "Source Code",
-   "hours_open": 0.1,
-   "title": "software developer",
-   "uid": "jobbank:entry level software developer:50435510"
-  },
-  {
-   "closed_at": 1791293862,
-   "company": "cadence",
-   "hours_open": 782.2,
-   "title": "Software Engineer  (new college grad Dec 2026)",
-   "uid": "workday:cadence.wd1/University_Talent:Software-Engineer---new-college-grad-Dec-2026-_R55738-1"
-  },
-  {
    "closed_at": 1791293862,
    "company": "cadence",
    "hours_open": 801.4,
@@ -5599,8 +5571,36 @@
    "hours_open": 511.3,
    "title": "computer systems analyst",
    "uid": "jobbank:analyste de systemes:50064831"
+  },
+  {
+   "closed_at": 1791621836,
+   "company": "Smart-Tek Communications Inc",
+   "hours_open": 64.3,
+   "title": "technician, telecommunications",
+   "uid": "jobbank:telecommunications analyst:50440222"
+  },
+  {
+   "closed_at": 1791621836,
+   "company": "ServiceNow",
+   "hours_open": 78.4,
+   "title": "Advisory Solution Consultant",
+   "uid": "smartrecruiters:ServiceNow:744000153844479"
+  },
+  {
+   "closed_at": 1791621836,
+   "company": "Source Code",
+   "hours_open": 55.6,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:control systems analyst:50449266"
+  },
+  {
+   "closed_at": 1791621836,
+   "company": "General Dynamics Missions System International",
+   "hours_open": 901.1,
+   "title": "Junior Hardware Engineering Developer ",
+   "uid": "smartrecruiters:GDMSI:744000142894435"
   }
  ],
- "count": 806,
- "updated_at": 1791621244
+ "count": 804,
+ "updated_at": 1791621836
 }
