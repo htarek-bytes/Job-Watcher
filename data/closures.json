@@ -1,41 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1791268590,
-   "company": "ALTEN",
-   "hours_open": 84.1,
-   "title": "Junior Hardware Engineer (Secteur Automobile)",
-   "uid": "smartrecruiters:ALTEN:744000153136024"
-  },
-  {
-   "closed_at": 1791268590,
-   "company": "Bertelsmann-Jobs",
-   "hours_open": 161.8,
-   "title": "Junior Data Engineer",
-   "uid": "smartrecruiters:Bertelsmann-Jobs:744000152377519"
-  },
-  {
-   "closed_at": 1791268590,
-   "company": "zoox",
-   "hours_open": 778.7,
-   "title": "Autonomy System Test Engineer",
-   "uid": "lever:zoox:f4746da4-8eb8-43e2-b7ce-bf3c7cf9640d"
-  },
-  {
-   "closed_at": 1791268841,
-   "company": "Renesas Electronics",
-   "hours_open": 130.6,
-   "title": "Intern Analog Engineer",
-   "uid": "smartrecruiters:RenesasElectronics:744000152652860"
-  },
-  {
-   "closed_at": 1791268841,
-   "company": "Renesas Electronics",
-   "hours_open": 130.6,
-   "title": "Junior Application Engineer",
-   "uid": "smartrecruiters:RenesasElectronics:744000152628190"
-  },
-  {
    "closed_at": 1791268841,
    "company": "ServiceNow",
    "hours_open": 130.6,
@@ -5599,8 +5564,43 @@
    "hours_open": 871.6,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1791598928,
+   "company": "Cooptel",
+   "hours_open": 753.2,
+   "title": "Administrateur réseau",
+   "uid": "jobillico:analyste reseau:17185045"
+  },
+  {
+   "closed_at": 1791598928,
+   "company": "twitch",
+   "hours_open": 870.5,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1791598928,
+   "company": "snowflake",
+   "hours_open": 75.4,
+   "title": "Solution Engineer",
+   "uid": "ashby:snowflake:8615dbbf-56c2-4321-a27b-8b691f5ec921"
+  },
+  {
+   "closed_at": 1791598928,
+   "company": "saronic",
+   "hours_open": 870.3,
+   "title": "Structures Test Engineer",
+   "uid": "ashby:saronic:89c34139-0005-4bd5-aa25-845d56a76bd3"
+  },
+  {
+   "closed_at": 1791598928,
+   "company": "spacex",
+   "hours_open": 873.4,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
   }
  ],
- "count": 806,
- "updated_at": 1791598553
+ "count": 805,
+ "updated_at": 1791598928
 }
