@@ -2,13 +2,6 @@
  "closed": [
   {
    "closed_at": 1791313446,
-   "company": "trueanomalyinc",
-   "hours_open": 806.7,
-   "title": "DevOps Engineer I (New Grad)",
-   "uid": "greenhouse:trueanomalyinc:5218935007"
-  },
-  {
-   "closed_at": 1791313446,
    "company": "voyagertechnologiesinc",
    "hours_open": 794.1,
    "title": "RF Communications Engineer I",
@@ -5599,8 +5592,15 @@
    "hours_open": 29.8,
    "title": "Nous agrandissons l'équipe ON RECRUTE Technicien informatique",
    "uid": "jobillico:technicien informatique:17600094"
+  },
+  {
+   "closed_at": 1791660133,
+   "company": "Groupe DCM",
+   "hours_open": 542.4,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534679"
   }
  ],
  "count": 801,
- "updated_at": 1791659826
+ "updated_at": 1791660134
 }
