@@ -2,34 +2,6 @@
  "closed": [
   {
    "closed_at": 1791305141,
-   "company": "singlestore",
-   "hours_open": 491.8,
-   "title": "IT Operations Engineer",
-   "uid": "greenhouse:singlestore:8142139"
-  },
-  {
-   "closed_at": 1791305141,
-   "company": "stripe",
-   "hours_open": 791.8,
-   "title": "Security Analyst ",
-   "uid": "greenhouse:stripe:8142302"
-  },
-  {
-   "closed_at": 1791305141,
-   "company": "lgelectronics",
-   "hours_open": 790.1,
-   "title": "Backend/ML Engineer",
-   "uid": "greenhouse:lgelectronics:5394128008"
-  },
-  {
-   "closed_at": 1791305141,
-   "company": "mitratech",
-   "hours_open": 491.8,
-   "title": "Software Engineer I - AssureHire (Go)",
-   "uid": "greenhouse:mitratech:8060928"
-  },
-  {
-   "closed_at": 1791305141,
    "company": "momentumcompany3",
    "hours_open": 671.6,
    "title": "Associate Cybersecurity Analyst | Early Career",
@@ -5599,8 +5571,36 @@
    "hours_open": 885.9,
    "title": "Security Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1791644718,
+   "company": "CANMEC",
+   "hours_open": 25.6,
+   "title": "Nous agrandissons l'équipe ON RECRUTE Technicien informatique",
+   "uid": "jobillico:technicien informatique:17600094"
+  },
+  {
+   "closed_at": 1791644718,
+   "company": "twitch",
+   "hours_open": 883.2,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1791644718,
+   "company": "medtronic",
+   "hours_open": 55.7,
+   "title": "Software Engineering Intern – Summer 2027",
+   "uid": "workday:medtronic.wd1/MedtronicCareers:Software-Engineering-Intern---Summer-2027_R73630-1"
+  },
+  {
+   "closed_at": 1791644718,
+   "company": "spacex",
+   "hours_open": 883.2,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
   }
  ],
- "count": 806,
- "updated_at": 1791643748
+ "count": 804,
+ "updated_at": 1791644718
 }
