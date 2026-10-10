@@ -1,48 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1791268841,
-   "company": "spacex",
-   "hours_open": 781.7,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1791268841,
-   "company": "spacex",
-   "hours_open": 781.7,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1791273148,
-   "company": "Source Code",
-   "hours_open": 1.4,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:systems analyst:50399288"
-  },
-  {
-   "closed_at": 1791273148,
-   "company": "Wabtec",
-   "hours_open": 149.8,
-   "title": "Co-Op, Test Engineer - Transducer (January-June 2027)",
-   "uid": "smartrecruiters:Wabtec:3743990015763566"
-  },
-  {
-   "closed_at": 1791273148,
-   "company": "Hewlett Packard Enterprise",
-   "hours_open": 312.9,
-   "title": "Electrical/Hardware Engineer 1",
-   "uid": "simplify:listings:e52513e2-804f-43b4-ae87-411d4c56ff26"
-  },
-  {
-   "closed_at": 1791281110,
-   "company": "Citylitics",
-   "hours_open": 75.3,
-   "title": "data engineer",
-   "uid": "jobbank:infrastructure analyst:50414504"
-  },
-  {
    "closed_at": 1791281110,
    "company": "T-Mobile",
    "hours_open": 41.0,
@@ -5599,8 +5557,50 @@
    "hours_open": 519.4,
    "title": "Programmeur CNC / CNC Programmer",
    "uid": "jobillico:programmeur junior:17534670"
+  },
+  {
+   "closed_at": 1791599537,
+   "company": "Source Code",
+   "hours_open": 75.5,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:systems analyst:50440640"
+  },
+  {
+   "closed_at": 1791599537,
+   "company": "Bell Canada",
+   "hours_open": 140.2,
+   "title": "analyst, computer systems",
+   "uid": "jobbank:systems analyst:50419044"
+  },
+  {
+   "closed_at": 1791599537,
+   "company": "Cooptel",
+   "hours_open": 753.4,
+   "title": "Administrateur réseau",
+   "uid": "jobillico:analyste reseau:17185045"
+  },
+  {
+   "closed_at": 1791599537,
+   "company": "CANMEC",
+   "hours_open": 13.0,
+   "title": "Nous agrandissons l'équipe ON RECRUTE Technicien informatique",
+   "uid": "jobillico:technicien informatique:17600094"
+  },
+  {
+   "closed_at": 1791599537,
+   "company": "twitch",
+   "hours_open": 873.6,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1791599537,
+   "company": "spacex",
+   "hours_open": 870.6,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
   }
  ],
- "count": 803,
- "updated_at": 1791599248
+ "count": 806,
+ "updated_at": 1791599537
 }
