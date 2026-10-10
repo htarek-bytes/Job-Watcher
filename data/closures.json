@@ -2,34 +2,6 @@
  "closed": [
   {
    "closed_at": 1791313702,
-   "company": "JP Morgan Chase",
-   "hours_open": 16.1,
-   "title": "Software Engineer 1",
-   "uid": "simplify:listings:69c7639c-c15d-4df3-8d5b-a8df024bd29e"
-  },
-  {
-   "closed_at": 1791313702,
-   "company": "YO AI Labs",
-   "hours_open": 44.1,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50422478"
-  },
-  {
-   "closed_at": 1791313702,
-   "company": "Amentum",
-   "hours_open": 353.4,
-   "title": "Entry Level Software Engineer",
-   "uid": "simplify:listings:b75d9a5e-5bbf-4016-8d19-1384e5528fdf"
-  },
-  {
-   "closed_at": 1791313702,
-   "company": "Kativik Ilisarniliriniq (La commission scolaire du Nunavik)",
-   "hours_open": 77.7,
-   "title": "network analyst",
-   "uid": "jobbank:infrastructure analyst:50409133"
-  },
-  {
-   "closed_at": 1791313702,
    "company": "zoll",
    "hours_open": 815.5,
    "title": "Junior Algorithm Engineer",
@@ -5599,8 +5571,36 @@
    "hours_open": 893.8,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1791672510,
+   "company": "Source Code",
+   "hours_open": 95.8,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:systems analyst:50440640"
+  },
+  {
+   "closed_at": 1791672510,
+   "company": "Groupe DCM",
+   "hours_open": 539.7,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534670"
+  },
+  {
+   "closed_at": 1791672510,
+   "company": "twitch",
+   "hours_open": 893.8,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1791672510,
+   "company": "spacex",
+   "hours_open": 893.6,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
   }
  ],
  "count": 804,
- "updated_at": 1791672172
+ "updated_at": 1791672510
 }
