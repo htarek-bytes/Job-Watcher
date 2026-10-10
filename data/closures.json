@@ -1,48 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1791268203,
-   "company": "spacex",
-   "hours_open": 778.6,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1791268203,
-   "company": "spacex",
-   "hours_open": 779.8,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1791268590,
-   "company": "JP Morgan Chase",
-   "hours_open": 3.6,
-   "title": "Software Engineer 1",
-   "uid": "simplify:listings:69c7639c-c15d-4df3-8d5b-a8df024bd29e"
-  },
-  {
-   "closed_at": 1791268590,
-   "company": "Source Code",
-   "hours_open": 0.1,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:systems analyst:50399288"
-  },
-  {
-   "closed_at": 1791268590,
-   "company": "Kativik Ilisarniliriniq (La commission scolaire du Nunavik)",
-   "hours_open": 9.9,
-   "title": "network analyst",
-   "uid": "jobbank:analyste reseau:50409133"
-  },
-  {
-   "closed_at": 1791268590,
-   "company": "ALTEN",
-   "hours_open": 84.1,
-   "title": "DevOps Administrateur / SRE Kubernetes GCP Junior",
-   "uid": "smartrecruiters:ALTEN:744000153145339"
-  },
-  {
    "closed_at": 1791268590,
    "company": "ALTEN",
    "hours_open": 84.1,
@@ -5599,8 +5557,50 @@
    "hours_open": 871.7,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1791598552,
+   "company": "Source Code",
+   "hours_open": 75.3,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:systems analyst:50440640"
+  },
+  {
+   "closed_at": 1791598552,
+   "company": "Bell Canada",
+   "hours_open": 139.9,
+   "title": "analyst, computer systems",
+   "uid": "jobbank:systems analyst:50419044"
+  },
+  {
+   "closed_at": 1791598552,
+   "company": "Groupe DCM",
+   "hours_open": 525.3,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534679"
+  },
+  {
+   "closed_at": 1791598552,
+   "company": "twitch",
+   "hours_open": 873.3,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1791598552,
+   "company": "spacex",
+   "hours_open": 27.5,
+   "title": "Site Reliability Engineer, Data Center Infrastructure ",
+   "uid": "greenhouse:spacex:8880672002"
+  },
+  {
+   "closed_at": 1791598552,
+   "company": "spacex",
+   "hours_open": 871.6,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
- "count": 812,
- "updated_at": 1791593854
+ "count": 806,
+ "updated_at": 1791598553
 }
