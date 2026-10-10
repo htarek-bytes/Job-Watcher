@@ -1,48 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1791305141,
-   "company": "accenturefederalservices",
-   "hours_open": 261.8,
-   "title": "Data Engineer ",
-   "uid": "greenhouse:accenturefederalservices:4715780006"
-  },
-  {
-   "closed_at": 1791305141,
-   "company": "Amazon",
-   "hours_open": 110.2,
-   "title": "Software Development Engineer , Leo Network Services - Network Orchestration",
-   "uid": "amazon:amazon:10567585"
-  },
-  {
-   "closed_at": 1791305141,
-   "company": "Amazon",
-   "hours_open": 142.1,
-   "title": "Software Development Engineer - Embedded, UMAC",
-   "uid": "amazon:amazon:10565727"
-  },
-  {
-   "closed_at": 1791305141,
-   "company": "Amazon",
-   "hours_open": 280.0,
-   "title": "Software Development Engineer, Amazon Leo",
-   "uid": "amazon:amazon:10560115"
-  },
-  {
-   "closed_at": 1791313446,
-   "company": "thomsonreuters",
-   "hours_open": 22.4,
-   "title": "Software Engineer, Professional Services-1",
-   "uid": "workday:thomsonreuters.wd5/External_Career_Site:Software-Engineer--Professional-Services-1_JREQ204070"
-  },
-  {
-   "closed_at": 1791313446,
-   "company": "sharkninjaoperatingllc",
-   "hours_open": 315.5,
-   "title": "Test Engineer - APAC ",
-   "uid": "greenhouse:sharkninjaoperatingllc:4708269006"
-  },
-  {
    "closed_at": 1791313446,
    "company": "coinbase",
    "hours_open": 452.3,
@@ -5599,8 +5557,50 @@
    "hours_open": 886.3,
    "title": "Security Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1791654658,
+   "company": "Magna Mining Inc.",
+   "hours_open": 3.2,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:systems analyst:50465374"
+  },
+  {
+   "closed_at": 1791654658,
+   "company": "td",
+   "hours_open": 73.9,
+   "title": "Software Engineer I",
+   "uid": "workday:td.wd3/TD_Bank_Careers:Software-Engineer-I_R_1514704-1"
+  },
+  {
+   "closed_at": 1791654658,
+   "company": "klarity-ai",
+   "hours_open": 406.8,
+   "title": "AI Frontend Engineer",
+   "uid": "ashby:klarity-ai:fc094114-4d6e-4bf5-977f-c5b37d7e33e1"
+  },
+  {
+   "closed_at": 1791654658,
+   "company": "klarity-ai",
+   "hours_open": 406.8,
+   "title": "AI Backend Engineer",
+   "uid": "ashby:klarity-ai:99de9d9b-d0c6-42a6-9e4d-2df097dae008"
+  },
+  {
+   "closed_at": 1791654658,
+   "company": "radiancetech",
+   "hours_open": 741.7,
+   "title": "Junior Software Engineer",
+   "uid": "workday:radiancetech.wd12/Radiance_External:Junior-Software-Engineer_HR102399"
+  },
+  {
+   "closed_at": 1791654658,
+   "company": "NOV",
+   "hours_open": 925.5,
+   "title": "Product Engineer 1",
+   "uid": "simplify:listings:e6e83f1e-6b71-420e-9c60-f96aa09727e3"
   }
  ],
- "count": 807,
- "updated_at": 1791645294
+ "count": 806,
+ "updated_at": 1791654663
 }

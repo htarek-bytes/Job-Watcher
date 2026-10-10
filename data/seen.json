@@ -1,5 +1,5 @@
 {
- "count": 7776,
+ "count": 7784,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -4412,6 +4412,7 @@
   "jobbank:systems analyst:50453138": 1791470986,
   "jobbank:systems analyst:50465318": 1791614826,
   "jobbank:systems analyst:50465374": 1791643311,
+  "jobbank:systems analyst:50467801": 1791654658,
   "jobbank:telecommunications analyst:49780105": 1791390300,
   "jobbank:telecommunications analyst:49818659": 1791390300,
   "jobbank:telecommunications analyst:49947219": 1791390300,
@@ -7615,6 +7616,13 @@
   "workday:selinc.wd1/SEL:Software-Engineer-Intern_2026-23076": 1790362723,
   "workday:selinc.wd1/SEL:Software-Engineering-Intern---Power-Systems_2026-22933": 1788539216,
   "workday:semtech.wd1/SemtechCareers:Software-Developer---Web-Cloud-Application--Co-op_REQ3644": 1791232806,
+  "workday:shi.wd12/shicareers:Canada-Solutions-Engineer_JR3171": 1791654658,
+  "workday:shi.wd12/shicareers:Enterprise-Solutions-Engineer_JR3414": 1791654658,
+  "workday:shi.wd12/shicareers:Presales-Solutions-Engineer---Network_JR2387": 1791654658,
+  "workday:shi.wd12/shicareers:Solutions-Engineer---Commercial_JR2638-2": 1791654658,
+  "workday:shi.wd12/shicareers:Solutions-Engineer---Enterprise---NYC_JR2605": 1791654658,
+  "workday:shi.wd12/shicareers:Solutions-Engineer---Enterprise_JR2785": 1791654658,
+  "workday:shi.wd12/shicareers:Solutions-Engineer---Strategic_JR2472-1": 1791654658,
   "workday:sierraspace.wd1/Sierra_Space_External_Career_Site:Loads---Dynamics-Engineer-I_R26356-1": 1791444813,
   "workday:sierraspace.wd1/Sierra_Space_External_Career_Site:Radiation-Engineer--Electrical--I_R26361-1": 1791444813,
   "workday:sierraspace.wd1/Sierra_Space_External_Career_Site:Thermal-Analysis-Engineer-I_R26353": 1791444813,
@@ -7778,5 +7786,5 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148,
   "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541": 1789106107
  },
- "updated_at": 1791645294
+ "updated_at": 1791654663
 }
