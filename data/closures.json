@@ -1,48 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1790884489,
-   "company": "ngc",
-   "hours_open": 20.1,
-   "title": "2027 Software Engineer Intern - Rolling Meadows IL",
-   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Software-Engineer-Intern---Rolling-Meadows-IL_R10253772"
-  },
-  {
-   "closed_at": 1790884489,
-   "company": "ngc",
-   "hours_open": 20.1,
-   "title": "2027 Software Engineer Intern - Morrisville NC",
-   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Software-Engineer-Intern---Morrisville-NC_R10253768"
-  },
-  {
-   "closed_at": 1791313564,
-   "company": "thomsonreuters",
-   "hours_open": 22.4,
-   "title": "Software Engineer, Professional Services-1",
-   "uid": "workday:thomsonreuters.wd5/External_Career_Site:Software-Engineer--Professional-Services-1_JREQ204070"
-  },
-  {
-   "closed_at": 1791313564,
-   "company": "sharkninjaoperatingllc",
-   "hours_open": 315.6,
-   "title": "Test Engineer - APAC ",
-   "uid": "greenhouse:sharkninjaoperatingllc:4708269006"
-  },
-  {
-   "closed_at": 1791313564,
-   "company": "coinbase",
-   "hours_open": 452.3,
-   "title": "Software Engineer, Developer Infrastructure",
-   "uid": "greenhouse:coinbase:7991839"
-  },
-  {
-   "closed_at": 1791313564,
-   "company": "statestreet",
-   "hours_open": 22.4,
-   "title": "Junior Software Engineer",
-   "uid": "workday:statestreet.wd1/Global:Junior-Software-Engineer_R-793923"
-  },
-  {
    "closed_at": 1791313564,
    "company": "td",
    "hours_open": 441.6,
@@ -5599,8 +5557,50 @@
    "hours_open": 891.5,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1791669842,
+   "company": "CANMEC",
+   "hours_open": 32.6,
+   "title": "Nous agrandissons l'équipe ON RECRUTE Technicien informatique",
+   "uid": "jobillico:technicien informatique:17600094"
+  },
+  {
+   "closed_at": 1791669842,
+   "company": "Groupe DCM",
+   "hours_open": 539.0,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534670"
+  },
+  {
+   "closed_at": 1791669842,
+   "company": "Cooptel",
+   "hours_open": 772.9,
+   "title": "Administrateur réseau",
+   "uid": "jobillico:analyste reseau:17185045"
+  },
+  {
+   "closed_at": 1791669842,
+   "company": "twitch",
+   "hours_open": 890.2,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1791669842,
+   "company": "voyagertechnologiesinc",
+   "hours_open": 893.1,
+   "title": "Commissioning Engineer",
+   "uid": "greenhouse:voyagertechnologiesinc:4379763009"
+  },
+  {
+   "closed_at": 1791669842,
+   "company": "spacex",
+   "hours_open": 893.1,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
   }
  ],
- "count": 802,
- "updated_at": 1791665172
+ "count": 806,
+ "updated_at": 1791669842
 }
