@@ -2,13 +2,6 @@
  "closed": [
   {
    "closed_at": 1791313446,
-   "company": "Kativik Ilisarniliriniq (La commission scolaire du Nunavik)",
-   "hours_open": 102.1,
-   "title": "network analyst",
-   "uid": "jobbank:network analyst:50409133"
-  },
-  {
-   "closed_at": 1791313446,
    "company": "trueanomalyinc",
    "hours_open": 806.7,
    "title": "DevOps Engineer I (New Grad)",
@@ -5599,8 +5592,15 @@
    "hours_open": 889.9,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1791659826,
+   "company": "CANMEC",
+   "hours_open": 29.8,
+   "title": "Nous agrandissons l'équipe ON RECRUTE Technicien informatique",
+   "uid": "jobillico:technicien informatique:17600094"
   }
  ],
- "count": 800,
- "updated_at": 1791658738
+ "count": 801,
+ "updated_at": 1791659826
 }
