@@ -1,34 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1791293862,
-   "company": "caci",
-   "hours_open": 87.1,
-   "title": "Software Engineer Intern - Summer 2027",
-   "uid": "workday:caci.wd1/external:Software-Engineer-Intern---Summer-2027_333037"
-  },
-  {
-   "closed_at": 1791293862,
-   "company": "spacex",
-   "hours_open": 788.7,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1791293862,
-   "company": "spacex",
-   "hours_open": 788.7,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1791293986,
-   "company": "Cooptel",
-   "hours_open": 668.5,
-   "title": "Administrateur réseau",
-   "uid": "jobillico:analyste reseau:17185045"
-  },
-  {
    "closed_at": 1791293986,
    "company": "ffive",
    "hours_open": 102.9,
@@ -5599,8 +5571,36 @@
    "hours_open": 879.7,
    "title": "Data Engineer",
    "uid": "workable:blacklinesafety:BBA9FB5633"
+  },
+  {
+   "closed_at": 1791622666,
+   "company": "Stafford Gray",
+   "hours_open": 55.8,
+   "title": "GIS Analyst / GIS Application Developer",
+   "uid": "workable:staffordgray:9477B06C36"
+  },
+  {
+   "closed_at": 1791622666,
+   "company": "aep",
+   "hours_open": 210.2,
+   "title": "Solution Engineer, Real Time OT Systems",
+   "uid": "workday:aep.wd1/AEPCareerSite:Solution-Engineer--Real-Time-OT-Systems_R18342"
+  },
+  {
+   "closed_at": 1791622666,
+   "company": "twitch",
+   "hours_open": 877.1,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1791622666,
+   "company": "spacex",
+   "hours_open": 877.1,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
   }
  ],
- "count": 803,
- "updated_at": 1791622417
+ "count": 804,
+ "updated_at": 1791622666
 }
