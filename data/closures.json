@@ -2,62 +2,6 @@
  "closed": [
   {
    "closed_at": 1791321501,
-   "company": "Broadridge",
-   "hours_open": 93.7,
-   "title": "Junior Full Stack Software Engineer",
-   "uid": "simplify:listings:9e5ef9f4-bd8a-4306-96d9-b33a23effac7"
-  },
-  {
-   "closed_at": 1791321501,
-   "company": "NVIDIA",
-   "hours_open": 163.7,
-   "title": "Software Engineer New Grad - DGX Cloud AI Infrastructure",
-   "uid": "simplify:listings:e60e9a94-ba50-4649-b502-e7203a9eb65f"
-  },
-  {
-   "closed_at": 1791321501,
-   "company": "Amazon",
-   "hours_open": 299.3,
-   "title": "Software Development Engineer I, Annapurna Labs, Early Career - 2027",
-   "uid": "amazon:amazon:10558915"
-  },
-  {
-   "closed_at": 1791321501,
-   "company": "Amazon",
-   "hours_open": 188.3,
-   "title": "Software Development Engineer, AWS EC2 Nitro Team",
-   "uid": "amazon:amazon:10563008"
-  },
-  {
-   "closed_at": 1791321501,
-   "company": "tulip",
-   "hours_open": 796.3,
-   "title": "Full-Stack Software Engineer",
-   "uid": "greenhouse:tulip:7832890003"
-  },
-  {
-   "closed_at": 1791321501,
-   "company": "samsara",
-   "hours_open": 714.3,
-   "title": "Associate Specialist Sales Engineer",
-   "uid": "greenhouse:samsara:7717258"
-  },
-  {
-   "closed_at": 1791321501,
-   "company": "cursor",
-   "hours_open": 796.3,
-   "title": "Forward Deployed Engineer",
-   "uid": "ashby:cursor:34cecd0c-c392-4454-8ef5-261310541011"
-  },
-  {
-   "closed_at": 1791321501,
-   "company": "Vestwell",
-   "hours_open": 766.1,
-   "title": "Associate Software Engineer",
-   "uid": "simplify:listings:e6179b6a-aa7e-4cac-a3ed-8db905d7c42e"
-  },
-  {
-   "closed_at": 1791321501,
    "company": "NVIDIA",
    "hours_open": 117.8,
    "title": "Systems Software Engineer New Grad",
@@ -5599,8 +5543,64 @@
    "hours_open": 542.3,
    "title": "Programmeur CNC / CNC Programmer",
    "uid": "jobillico:programmeur junior:17534670"
+  },
+  {
+   "closed_at": 1791691192,
+   "company": "Groupe DCM",
+   "hours_open": 551.1,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534679"
+  },
+  {
+   "closed_at": 1791691192,
+   "company": "marvell",
+   "hours_open": 387.1,
+   "title": "Test Equipment Engineer Intern",
+   "uid": "workday:marvell.wd1/MarvellCareers2:Test-Equipment-Engineer-Intern_2603826"
+  },
+  {
+   "closed_at": 1791691192,
+   "company": "twitch",
+   "hours_open": 899.0,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1791691192,
+   "company": "cssmerge",
+   "hours_open": 899.0,
+   "title": "Field Service Engineer",
+   "uid": "greenhouse:cssmerge:8609462002"
+  },
+  {
+   "closed_at": 1791691192,
+   "company": "medtronic",
+   "hours_open": 902.4,
+   "title": "Software Engineering Intern – Summer 2027",
+   "uid": "workday:medtronic.wd1/redeploymentmedtroniccareers:Software-Engineering-Intern---Summer-2027_R73630"
+  },
+  {
+   "closed_at": 1791691192,
+   "company": "One Brief",
+   "hours_open": 935.7,
+   "title": "Outcome Engineer - Early in Career Professional",
+   "uid": "simplify:listings:f7cf0ea1-5530-43f1-b77d-aaef1130c643"
+  },
+  {
+   "closed_at": 1791691192,
+   "company": "spacex",
+   "hours_open": 898.8,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1791691192,
+   "company": "spacex",
+   "hours_open": 899.0,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 802,
- "updated_at": 1791681763
+ "count": 808,
+ "updated_at": 1791691192
 }
