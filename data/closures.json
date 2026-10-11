@@ -2,27 +2,6 @@
  "closed": [
   {
    "closed_at": 1791334227,
-   "company": "altentechnologyusa",
-   "hours_open": 651.0,
-   "title": "Logistics Systems Analyst ",
-   "uid": "greenhouse:altentechnologyusa:5234036007"
-  },
-  {
-   "closed_at": 1791334227,
-   "company": "Groupe DCM",
-   "hours_open": 445.8,
-   "title": "Programmeur CNC / CNC Programmer",
-   "uid": "jobillico:programmeur junior:17534670"
-  },
-  {
-   "closed_at": 1791334227,
-   "company": "Cooptel",
-   "hours_open": 679.7,
-   "title": "Administrateur réseau",
-   "uid": "jobillico:analyste reseau:17185045"
-  },
-  {
-   "closed_at": 1791334227,
    "company": "until",
    "hours_open": 796.9,
    "title": "Engineer/Applied Physicist",
@@ -5599,8 +5578,29 @@
    "hours_open": 914.2,
    "title": "Security Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1791750630,
+   "company": "CANMEC",
+   "hours_open": 55.0,
+   "title": "Nous agrandissons l'équipe ON RECRUTE Technicien informatique",
+   "uid": "jobillico:technicien informatique:17600094"
+  },
+  {
+   "closed_at": 1791750630,
+   "company": "Groupe DCM",
+   "hours_open": 567.6,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534679"
+  },
+  {
+   "closed_at": 1791750630,
+   "company": "ebi",
+   "hours_open": 622.3,
+   "title": "Product Engineer Intern",
+   "uid": "workday:ebi.wd5/ebadcareers:Product-Engineer-Intern_REQ107697"
   }
  ],
- "count": 806,
- "updated_at": 1791745602
+ "count": 803,
+ "updated_at": 1791750631
 }
