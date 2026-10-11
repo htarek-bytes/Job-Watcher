@@ -2,34 +2,6 @@
  "closed": [
   {
    "closed_at": 1791327707,
-   "company": "Astera Labs",
-   "hours_open": 16.4,
-   "title": "Product Quality Engineer New Grad",
-   "uid": "simplify:listings:259f0bd5-6015-4c62-a48b-7b4a3879f845"
-  },
-  {
-   "closed_at": 1791327707,
-   "company": "snowflake",
-   "hours_open": 88.1,
-   "title": "Associate Solution Engineer",
-   "uid": "ashby:snowflake:a4d05466-3c2e-4509-bfec-8830bccc885b"
-  },
-  {
-   "closed_at": 1791327707,
-   "company": "Source Code",
-   "hours_open": 16.5,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:systems analyst:50399288"
-  },
-  {
-   "closed_at": 1791327707,
-   "company": "Umano Medical",
-   "hours_open": 677.9,
-   "title": "Concepteur logiciel embarqué et cybersécurité",
-   "uid": "jobillico:analyste cybersecurite:17489580"
-  },
-  {
-   "closed_at": 1791327707,
    "company": "geotab",
    "hours_open": 796.4,
    "title": "Software Developer ",
@@ -5599,8 +5571,36 @@
    "hours_open": 899.3,
    "title": "Security Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1791703631,
+   "company": "CANMEC",
+   "hours_open": 41.9,
+   "title": "Nous agrandissons l'équipe ON RECRUTE Technicien informatique",
+   "uid": "jobillico:technicien informatique:17600094"
+  },
+  {
+   "closed_at": 1791703631,
+   "company": "Groupe DCM",
+   "hours_open": 548.4,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534670"
+  },
+  {
+   "closed_at": 1791703631,
+   "company": "twitch",
+   "hours_open": 902.5,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1791703631,
+   "company": "spacex",
+   "hours_open": 902.5,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
   }
  ],
- "count": 808,
- "updated_at": 1791702646
+ "count": 804,
+ "updated_at": 1791703631
 }
