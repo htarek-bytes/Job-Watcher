@@ -2,27 +2,6 @@
  "closed": [
   {
    "closed_at": 1791328929,
-   "company": "CGI",
-   "hours_open": 678.2,
-   "title": "Conseiller en audit de cybersécurité",
-   "uid": "jobillico:analyste cybersecurite:17433750"
-  },
-  {
-   "closed_at": 1791328929,
-   "company": "sigmacomputing",
-   "hours_open": 0.4,
-   "title": "Software Engineering Intern (Summer 2027)",
-   "uid": "greenhouse:sigmacomputing:8001295003"
-  },
-  {
-   "closed_at": 1791328929,
-   "company": "nexuse-group",
-   "hours_open": 778.0,
-   "title": "Instrumentation & Controls Engineer Intern or Co-Op (Summer 2027)",
-   "uid": "lever:nexuse-group:9732456a-5672-4cf2-bcdb-721159c0d8a6"
-  },
-  {
-   "closed_at": 1791328929,
    "company": "RTX",
    "hours_open": 116.8,
    "title": "Electrical Test Engineer 1",
@@ -5599,8 +5578,29 @@
    "hours_open": 53.3,
    "title": "Nous agrandissons l'équipe ON RECRUTE Technicien informatique",
    "uid": "jobillico:technicien informatique:17600094"
+  },
+  {
+   "closed_at": 1791745436,
+   "company": "Groupe DCM",
+   "hours_open": 566.1,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534679"
+  },
+  {
+   "closed_at": 1791745436,
+   "company": "twitch",
+   "hours_open": 911.2,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1791745436,
+   "company": "spacex",
+   "hours_open": 911.2,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
   }
  ],
- "count": 801,
- "updated_at": 1791744609
+ "count": 803,
+ "updated_at": 1791745436
 }
