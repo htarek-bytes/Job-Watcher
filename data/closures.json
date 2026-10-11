@@ -2,13 +2,6 @@
  "closed": [
   {
    "closed_at": 1791313702,
-   "company": "spacex",
-   "hours_open": 794.2,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1791313702,
    "company": "VILLE DE SAINTE-MARGUERITE-DU-LAC- MASSON",
    "hours_open": 268.3,
    "title": "network infrastructure engineer",
@@ -5599,8 +5592,15 @@
    "hours_open": 70.7,
    "title": "information technology (IT) analyst",
    "uid": "jobbank:control systems analyst:50449266"
+  },
+  {
+   "closed_at": 1791679953,
+   "company": "Groupe DCM",
+   "hours_open": 541.8,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534670"
   }
  ],
- "count": 802,
- "updated_at": 1791676514
+ "count": 801,
+ "updated_at": 1791679953
 }
