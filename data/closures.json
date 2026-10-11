@@ -3,20 +3,6 @@
   {
    "closed_at": 1791327897,
    "company": "spacex",
-   "hours_open": 797.8,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1791327897,
-   "company": "spacex",
-   "hours_open": 798.1,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1791327897,
-   "company": "spacex",
    "hours_open": 795.2,
    "title": "Security Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8719860002"
@@ -5599,8 +5585,22 @@
    "hours_open": 906.4,
    "title": "Security Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1791728566,
+   "company": "twitch",
+   "hours_open": 909.4,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1791728566,
+   "company": "spacex",
+   "hours_open": 909.4,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
   }
  ],
- "count": 803,
- "updated_at": 1791728440
+ "count": 802,
+ "updated_at": 1791728566
 }
