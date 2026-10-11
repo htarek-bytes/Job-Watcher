@@ -2,13 +2,6 @@
  "closed": [
   {
    "closed_at": 1791328929,
-   "company": "Groupe DCM",
-   "hours_open": 450.4,
-   "title": "Programmeur CNC / CNC Programmer",
-   "uid": "jobillico:programmeur junior:17534679"
-  },
-  {
-   "closed_at": 1791328929,
    "company": "CGI",
    "hours_open": 678.2,
    "title": "Conseiller en audit de cybersécurité",
@@ -5599,8 +5592,15 @@
    "hours_open": 831.3,
    "title": "AI Solutions Engineer",
    "uid": "simplify:listings:2643154c-81da-4e50-a255-f026c03f0324"
+  },
+  {
+   "closed_at": 1791744609,
+   "company": "CANMEC",
+   "hours_open": 53.3,
+   "title": "Nous agrandissons l'équipe ON RECRUTE Technicien informatique",
+   "uid": "jobillico:technicien informatique:17600094"
   }
  ],
- "count": 802,
- "updated_at": 1791742671
+ "count": 801,
+ "updated_at": 1791744609
 }
