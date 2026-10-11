@@ -1,83 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1791321501,
-   "company": "NVIDIA",
-   "hours_open": 117.8,
-   "title": "Systems Software Engineer New Grad",
-   "uid": "simplify:listings:76d1071c-8da4-43c1-8ea3-64c0ce8311fd"
-  },
-  {
-   "closed_at": 1791321501,
-   "company": "RTX",
-   "hours_open": 28.1,
-   "title": "Software/Developer Engineer 1",
-   "uid": "simplify:listings:dfd7743c-b0f2-4e6e-b632-d83d62d785d4"
-  },
-  {
-   "closed_at": 1791321501,
-   "company": "spacex",
-   "hours_open": 796.1,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1791321501,
-   "company": "spacex",
-   "hours_open": 796.3,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1791327638,
-   "company": "Astera Labs",
-   "hours_open": 16.4,
-   "title": "Product Quality Engineer New Grad",
-   "uid": "simplify:listings:259f0bd5-6015-4c62-a48b-7b4a3879f845"
-  },
-  {
-   "closed_at": 1791327638,
-   "company": "snowflake",
-   "hours_open": 88.0,
-   "title": "Associate Solution Engineer",
-   "uid": "ashby:snowflake:a4d05466-3c2e-4509-bfec-8830bccc885b"
-  },
-  {
-   "closed_at": 1791327638,
-   "company": "Source Code",
-   "hours_open": 16.5,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:systems analyst:50399288"
-  },
-  {
-   "closed_at": 1791327638,
-   "company": "Umano Medical",
-   "hours_open": 677.9,
-   "title": "Concepteur logiciel embarqué et cybersécurité",
-   "uid": "jobillico:analyste cybersecurite:17489580"
-  },
-  {
-   "closed_at": 1791327638,
-   "company": "geotab",
-   "hours_open": 796.4,
-   "title": "Software Developer ",
-   "uid": "greenhouse:geotab:5386820008"
-  },
-  {
-   "closed_at": 1791327638,
-   "company": "Augusta National Golf Club",
-   "hours_open": 56.7,
-   "title": "Junior Data Engineer",
-   "uid": "simplify:listings:f40415ae-c1c8-42c0-bd27-c55f0bd48925"
-  },
-  {
-   "closed_at": 1791327638,
-   "company": "Amazon",
-   "hours_open": 172.6,
-   "title": "Software Dev Engineer, AWS CX - Cloudscape",
-   "uid": "amazon:amazon:10564067"
-  },
-  {
    "closed_at": 1791327638,
    "company": "saronic",
    "hours_open": 795.0,
@@ -5599,8 +5522,85 @@
    "hours_open": 899.0,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1791700475,
+   "company": "Magna Mining Inc.",
+   "hours_open": 12.7,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:systems analyst:50467801"
+  },
+  {
+   "closed_at": 1791700475,
+   "company": "CANMEC",
+   "hours_open": 41.1,
+   "title": "Nous agrandissons l'équipe ON RECRUTE Technicien informatique",
+   "uid": "jobillico:technicien informatique:17600094"
+  },
+  {
+   "closed_at": 1791700475,
+   "company": "ngc",
+   "hours_open": 71.1,
+   "title": "2027 Electrical/Systems Engineer Intern - Baltimore MD",
+   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Electrical-Systems-Engineer-Intern---Baltimore-MD_R10255010"
+  },
+  {
+   "closed_at": 1791700475,
+   "company": "ngc",
+   "hours_open": 71.1,
+   "title": "2027 Mechanical/Aerospace Engineer Intern - Baltimore MD",
+   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Mechanical-Aerospace-Engineer-Intern---Baltimore-MD_R10255003"
+  },
+  {
+   "closed_at": 1791700475,
+   "company": "Source Code",
+   "hours_open": 103.6,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:systems analyst:50440640"
+  },
+  {
+   "closed_at": 1791700475,
+   "company": "nationwide",
+   "hours_open": 132.0,
+   "title": "Engineer, Software Engineer (Post Issue Optimization) - Java, Angular, and AWS - Entry Level",
+   "uid": "workday:nationwide.wd1/Nationwide_Career:Engineer--Software-Engineer--Post-Issue-Optimization----Java--Angular--and-AWS---Entry-Level_100567"
+  },
+  {
+   "closed_at": 1791700475,
+   "company": "CGI",
+   "hours_open": 781.4,
+   "title": "Analyste en opérations de cybersécurité",
+   "uid": "jobillico:analyste cybersecurite:17433747"
+  },
+  {
+   "closed_at": 1791700475,
+   "company": "Logesco Informatique",
+   "hours_open": 770.5,
+   "title": "network administrator",
+   "uid": "jobbank:network administrator:49871595"
+  },
+  {
+   "closed_at": 1791700475,
+   "company": "CarePartners",
+   "hours_open": 2.6,
+   "title": "network administrator",
+   "uid": "jobbank:network administrator:50472542"
+  },
+  {
+   "closed_at": 1791700475,
+   "company": "spacex",
+   "hours_open": 901.6,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1791700475,
+   "company": "spacex",
+   "hours_open": 899.9,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
- "count": 808,
- "updated_at": 1791691192
+ "count": 811,
+ "updated_at": 1791700476
 }
