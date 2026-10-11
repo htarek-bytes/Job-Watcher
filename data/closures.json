@@ -1,27 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1791339418,
-   "company": "spacex",
-   "hours_open": 799.6,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1791339544,
-   "company": "Bosch Group",
-   "hours_open": 19.7,
-   "title": "[EAA] Embedded Test Engineer Intern ",
-   "uid": "smartrecruiters:BoschGroup:744000153647992"
-  },
-  {
-   "closed_at": 1791339544,
-   "company": "Bosch Group",
-   "hours_open": 19.7,
-   "title": "[ETA] Junior DevOps Engineer (1-3 years of experience-HCM Based)",
-   "uid": "smartrecruiters:BoschGroup:744000153448249"
-  },
-  {
    "closed_at": 1791339544,
    "company": "Arista Networks",
    "hours_open": 716.3,
@@ -5599,8 +5578,29 @@
    "hours_open": 915.0,
    "title": "Security Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1791759279,
+   "company": "twitch",
+   "hours_open": 918.0,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1791759279,
+   "company": "shi",
+   "hours_open": 15.7,
+   "title": "Solutions Engineer - Enterprise",
+   "uid": "workday:shi.wd12/shicareers:Solutions-Engineer---Enterprise_JR3576"
+  },
+  {
+   "closed_at": 1791759279,
+   "company": "spacex",
+   "hours_open": 918.0,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
   }
  ],
- "count": 809,
- "updated_at": 1791759078
+ "count": 803,
+ "updated_at": 1791759280
 }
