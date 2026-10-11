@@ -1,20 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1791316090,
-   "company": "spacex",
-   "hours_open": 793.1,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1791321501,
-   "company": "retell-ai",
-   "hours_open": 796.3,
-   "title": "Software Engineer, Internal Deployed",
-   "uid": "ashby:retell-ai:2e3f3930-0949-4b86-8ed1-7f5d9e068c87"
-  },
-  {
    "closed_at": 1791321501,
    "company": "roadrunner",
    "hours_open": 485.4,
@@ -5599,8 +5585,22 @@
    "hours_open": 894.5,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1791681611,
+   "company": "Groupe DCM",
+   "hours_open": 548.4,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534679"
+  },
+  {
+   "closed_at": 1791681611,
+   "company": "ebi",
+   "hours_open": 288.9,
+   "title": "Product Engineer Intern",
+   "uid": "workday:ebi.wd5/ebicareers:Product-Engineer-Intern_REQ107697-1"
   }
  ],
- "count": 804,
- "updated_at": 1791680896
+ "count": 802,
+ "updated_at": 1791681611
 }
