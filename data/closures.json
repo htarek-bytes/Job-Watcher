@@ -2,27 +2,6 @@
  "closed": [
   {
    "closed_at": 1791327707,
-   "company": "spacex",
-   "hours_open": 798.1,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1791327707,
-   "company": "spacex",
-   "hours_open": 798.1,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1791327707,
-   "company": "spacex",
-   "hours_open": 796.4,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1791327707,
    "company": "accenturefederalservices",
    "hours_open": 6.3,
    "title": "Data Engineer",
@@ -5599,8 +5578,29 @@
    "hours_open": 905.6,
    "title": "Security Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1791727509,
+   "company": "Groupe DCM",
+   "hours_open": 555.0,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534670"
+  },
+  {
+   "closed_at": 1791727509,
+   "company": "twitch",
+   "hours_open": 909.1,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1791727509,
+   "company": "spacex",
+   "hours_open": 909.1,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
   }
  ],
  "count": 803,
- "updated_at": 1791725260
+ "updated_at": 1791727509
 }
