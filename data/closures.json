@@ -1,48 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1791328929,
-   "company": "RTX",
-   "hours_open": 116.8,
-   "title": "Electrical Test Engineer 1",
-   "uid": "simplify:listings:433bfcc1-f2a0-49f6-853e-765752170b6a"
-  },
-  {
-   "closed_at": 1791328929,
-   "company": "spacex",
-   "hours_open": 798.4,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1791328929,
-   "company": "spacex",
-   "hours_open": 798.4,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1791328929,
-   "company": "spacex",
-   "hours_open": 796.7,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1791334227,
-   "company": "thrivecausemetics",
-   "hours_open": 796.9,
-   "title": "Product Development Coordinator",
-   "uid": "lever:thrivecausemetics:2f465742-7f8b-460f-9936-ab62160385be"
-  },
-  {
-   "closed_at": 1791334227,
-   "company": "airbnb",
-   "hours_open": 435.8,
-   "title": "Business Systems Engineer, Tech Foundations",
-   "uid": "greenhouse:airbnb:8214444"
-  },
-  {
    "closed_at": 1791334227,
    "company": "altentechnologyusa",
    "hours_open": 651.0,
@@ -5599,8 +5557,50 @@
    "hours_open": 911.2,
    "title": "Security Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1791745602,
+   "company": "bmo",
+   "hours_open": 66.8,
+   "title": "Software Developer ( Early Career )-15",
+   "uid": "workday:bmo.wd3/External:Software-Developer---Early-Career---15_R260021450"
+  },
+  {
+   "closed_at": 1791745602,
+   "company": "broadcom",
+   "hours_open": 831.2,
+   "title": "Solution Engineer - ValueOps",
+   "uid": "workday:broadcom.wd1/external_career:Solution-Engineer---ValueOps_R026472"
+  },
+  {
+   "closed_at": 1791745602,
+   "company": "bmo",
+   "hours_open": 275.7,
+   "title": "DDI Network Engineer",
+   "uid": "workday:bmo.wd3/External:DDI-Network-Engineer_R260026568"
+  },
+  {
+   "closed_at": 1791745602,
+   "company": "Groupe DCM",
+   "hours_open": 560.0,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534670"
+  },
+  {
+   "closed_at": 1791745602,
+   "company": "twitch",
+   "hours_open": 914.2,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1791745602,
+   "company": "spacex",
+   "hours_open": 914.2,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
   }
  ],
- "count": 803,
- "updated_at": 1791745436
+ "count": 806,
+ "updated_at": 1791745602
 }
