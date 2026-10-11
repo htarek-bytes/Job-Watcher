@@ -2,20 +2,6 @@
  "closed": [
   {
    "closed_at": 1791327707,
-   "company": "Amazon",
-   "hours_open": 172.7,
-   "title": "Software Dev Engineer, AWS CX - Cloudscape",
-   "uid": "amazon:amazon:10564067"
-  },
-  {
-   "closed_at": 1791327707,
-   "company": "saronic",
-   "hours_open": 795.0,
-   "title": "Electrical Test Engineer",
-   "uid": "ashby:saronic:c95f2a7f-b926-46fe-94e6-f5c495418702"
-  },
-  {
-   "closed_at": 1791327707,
    "company": "watershed",
    "hours_open": 88.1,
    "title": "Software engineer, full-stack",
@@ -5599,8 +5585,22 @@
    "hours_open": 782.4,
    "title": "Administrateur réseau",
    "uid": "jobillico:analyste reseau:17185045"
+  },
+  {
+   "closed_at": 1791715584,
+   "company": "Groupe DCM",
+   "hours_open": 551.7,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534670"
+  },
+  {
+   "closed_at": 1791715584,
+   "company": "Capgemini",
+   "hours_open": 131.6,
+   "title": "Associate Software Engineer",
+   "uid": "simplify:listings:214e7a90-9cec-4928-a2ba-cbb8931aeb79"
   }
  ],
  "count": 802,
- "updated_at": 1791704068
+ "updated_at": 1791715584
 }
