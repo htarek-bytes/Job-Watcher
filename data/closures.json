@@ -1,34 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1791313702,
-   "company": "VILLE DE SAINTE-MARGUERITE-DU-LAC- MASSON",
-   "hours_open": 268.3,
-   "title": "network infrastructure engineer",
-   "uid": "jobbank:specialiste infrastructure:50365083"
-  },
-  {
-   "closed_at": 1791316090,
-   "company": "asana",
-   "hours_open": 340.3,
-   "title": "Software Engineer, AI Teammates Experience",
-   "uid": "greenhouse:asana:8155344"
-  },
-  {
-   "closed_at": 1791316090,
-   "company": "accenturefederalservices",
-   "hours_open": 794.8,
-   "title": "Cyber AI Deployment Engineer",
-   "uid": "greenhouse:accenturefederalservices:4710266006"
-  },
-  {
-   "closed_at": 1791316090,
-   "company": "spacex",
-   "hours_open": 791.9,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
    "closed_at": 1791316090,
    "company": "spacex",
    "hours_open": 793.1,
@@ -5599,8 +5571,36 @@
    "hours_open": 541.8,
    "title": "Programmeur CNC / CNC Programmer",
    "uid": "jobillico:programmeur junior:17534670"
+  },
+  {
+   "closed_at": 1791680895,
+   "company": "bmo",
+   "hours_open": 48.8,
+   "title": "Software Developer ( Early Career )-15",
+   "uid": "workday:bmo.wd3/Campus:Software-Developer---Early-Career---15_R260021450-1"
+  },
+  {
+   "closed_at": 1791680895,
+   "company": "twitch",
+   "hours_open": 893.2,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1791680895,
+   "company": "spacex",
+   "hours_open": 896.2,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1791680895,
+   "company": "spacex",
+   "hours_open": 894.5,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
- "count": 801,
- "updated_at": 1791679953
+ "count": 804,
+ "updated_at": 1791680896
 }
