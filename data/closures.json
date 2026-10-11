@@ -2,20 +2,6 @@
  "closed": [
   {
    "closed_at": 1791334227,
-   "company": "until",
-   "hours_open": 796.9,
-   "title": "Engineer/Applied Physicist",
-   "uid": "lever:until:f2f6a1c8-ea9e-4919-9041-1c840b3c34d9"
-  },
-  {
-   "closed_at": 1791334227,
-   "company": "Integrity",
-   "hours_open": 836.5,
-   "title": "Software Engineer 1",
-   "uid": "simplify:listings:b065707e-df8b-4ae6-9436-f71afb2dfe41"
-  },
-  {
-   "closed_at": 1791334227,
    "company": "andurilindustries",
    "hours_open": 798.2,
    "title": "Software Engineer, Distributed Simulation",
@@ -5599,8 +5585,22 @@
    "hours_open": 622.3,
    "title": "Product Engineer Intern",
    "uid": "workday:ebi.wd5/ebadcareers:Product-Engineer-Intern_REQ107697"
+  },
+  {
+   "closed_at": 1791756343,
+   "company": "hp",
+   "hours_open": 47.1,
+   "title": "Presales Technical Consultant",
+   "uid": "workday:hp.wd5/EXTEU-AC-CareerSite:Presales-Technical-Consultant_3168178"
+  },
+  {
+   "closed_at": 1791756343,
+   "company": "Groupe DCM",
+   "hours_open": 563.0,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534670"
   }
  ],
- "count": 803,
- "updated_at": 1791750631
+ "count": 802,
+ "updated_at": 1791756343
 }
