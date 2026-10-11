@@ -2,20 +2,6 @@
  "closed": [
   {
    "closed_at": 1791327707,
-   "company": "geotab",
-   "hours_open": 796.4,
-   "title": "Software Developer ",
-   "uid": "greenhouse:geotab:5386820008"
-  },
-  {
-   "closed_at": 1791327707,
-   "company": "Augusta National Golf Club",
-   "hours_open": 56.8,
-   "title": "Junior Data Engineer",
-   "uid": "simplify:listings:f40415ae-c1c8-42c0-bd27-c55f0bd48925"
-  },
-  {
-   "closed_at": 1791327707,
    "company": "Amazon",
    "hours_open": 172.7,
    "title": "Software Dev Engineer, AWS CX - Cloudscape",
@@ -5599,8 +5585,22 @@
    "hours_open": 902.5,
    "title": "Security Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1791704068,
+   "company": "Groupe DCM",
+   "hours_open": 554.6,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534679"
+  },
+  {
+   "closed_at": 1791704068,
+   "company": "Cooptel",
+   "hours_open": 782.4,
+   "title": "Administrateur réseau",
+   "uid": "jobillico:analyste reseau:17185045"
   }
  ],
- "count": 804,
- "updated_at": 1791703631
+ "count": 802,
+ "updated_at": 1791704068
 }
