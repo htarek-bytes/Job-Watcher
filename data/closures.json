@@ -2,20 +2,6 @@
  "closed": [
   {
    "closed_at": 1791321501,
-   "company": "roadrunner",
-   "hours_open": 485.4,
-   "title": "Forward Deployed Engineer (New Grad) ",
-   "uid": "ashby:roadrunner:eeeb9757-78e0-4776-889e-507a013e1fcf"
-  },
-  {
-   "closed_at": 1791321501,
-   "company": "City of Calgary",
-   "hours_open": 24.6,
-   "title": "network administrator",
-   "uid": "jobbank:network administrator:50428210"
-  },
-  {
-   "closed_at": 1791321501,
    "company": "Broadridge",
    "hours_open": 93.7,
    "title": "Junior Full Stack Software Engineer",
@@ -5599,8 +5585,22 @@
    "hours_open": 288.9,
    "title": "Product Engineer Intern",
    "uid": "workday:ebi.wd5/ebicareers:Product-Engineer-Intern_REQ107697-1"
+  },
+  {
+   "closed_at": 1791681763,
+   "company": "eversource",
+   "hours_open": 10.6,
+   "title": "Associate Engineer, Protection & Controls (hybrid schedule)",
+   "uid": "workday:eversource.wd1/ExternalSite:Associate-Engineer--Protection---Controls--hybrid-schedule-_R-031236"
+  },
+  {
+   "closed_at": 1791681763,
+   "company": "Groupe DCM",
+   "hours_open": 542.3,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534670"
   }
  ],
  "count": 802,
- "updated_at": 1791681611
+ "updated_at": 1791681763
 }
