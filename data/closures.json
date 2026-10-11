@@ -1,62 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1791327638,
-   "company": "saronic",
-   "hours_open": 795.0,
-   "title": "Electrical Test Engineer",
-   "uid": "ashby:saronic:c95f2a7f-b926-46fe-94e6-f5c495418702"
-  },
-  {
-   "closed_at": 1791327638,
-   "company": "watershed",
-   "hours_open": 88.0,
-   "title": "Software engineer, full-stack",
-   "uid": "ashby:watershed:2f60ee9b-cb7f-4c05-93d2-bad49243bf31"
-  },
-  {
-   "closed_at": 1791327638,
-   "company": "snowflake",
-   "hours_open": 716.0,
-   "title": "Solution Engineer",
-   "uid": "ashby:snowflake:4b494244-50fe-4c55-837c-5c347ff5235b"
-  },
-  {
-   "closed_at": 1791327638,
-   "company": "Source Code",
-   "hours_open": 9.4,
-   "title": "software developer",
-   "uid": "jobbank:entry level software developer:50435510"
-  },
-  {
-   "closed_at": 1791327638,
-   "company": "Kativik Ilisarniliriniq (La commission scolaire du Nunavik)",
-   "hours_open": 106.0,
-   "title": "network analyst",
-   "uid": "jobbank:network analyst:50409133"
-  },
-  {
-   "closed_at": 1791327638,
-   "company": "spacex",
-   "hours_open": 798.1,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1791327638,
-   "company": "spacex",
-   "hours_open": 796.4,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1791327638,
-   "company": "accenturefederalservices",
-   "hours_open": 6.2,
-   "title": "Data Engineer",
-   "uid": "greenhouse:accenturefederalservices:4718748006"
-  },
-  {
    "closed_at": 1791327707,
    "company": "Astera Labs",
    "hours_open": 16.4,
@@ -5599,8 +5543,64 @@
    "hours_open": 899.9,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1791702645,
+   "company": "td",
+   "hours_open": 549.7,
+   "title": "2027 Summer Internship Program - Global Technology & Solutions - Software Engineer (SWE)",
+   "uid": "workday:td.wd3/TD_Bank_Careers:XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Software-Engineer--SWE-_R_1510796-1"
+  },
+  {
+   "closed_at": 1791702645,
+   "company": "td",
+   "hours_open": 592.8,
+   "title": "2027 Spring Co-op - Global Technology & Solutions - Software Engineer (SWE)",
+   "uid": "workday:td.wd3/TD_Bank_Careers:XMLNAME-2027-Spring-Co-op---Global-Technology---Solutions---Software-Engineer--SWE-_R_1509773"
+  },
+  {
+   "closed_at": 1791702645,
+   "company": "twitch",
+   "hours_open": 899.3,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1791702645,
+   "company": "shi",
+   "hours_open": 13.3,
+   "title": "Solutions Engineer - Enterprise",
+   "uid": "workday:shi.wd12/shicareers:Solutions-Engineer---Enterprise_JR2785"
+  },
+  {
+   "closed_at": 1791702645,
+   "company": "relx",
+   "hours_open": 921.2,
+   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - January)",
+   "uid": "workday:relx.wd3/RiskSolutions:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617"
+  },
+  {
+   "closed_at": 1791702645,
+   "company": "relx",
+   "hours_open": 921.2,
+   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - June)",
+   "uid": "workday:relx.wd3/RiskSolutions:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-1"
+  },
+  {
+   "closed_at": 1791702645,
+   "company": "relx",
+   "hours_open": 921.2,
+   "title": "Tech Accelerate Graduate Program - Software Engineer (Boca Raton - June)",
+   "uid": "workday:relx.wd3/RiskSolutions:Tech-Accelerate-Graduate-Program---Software-Engineer--Boca-Raton---June-_R116023-2"
+  },
+  {
+   "closed_at": 1791702645,
+   "company": "spacex",
+   "hours_open": 899.3,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
   }
  ],
- "count": 811,
- "updated_at": 1791700476
+ "count": 808,
+ "updated_at": 1791702646
 }
