@@ -2,20 +2,6 @@
  "closed": [
   {
    "closed_at": 1791339544,
-   "company": "Jobsbridge",
-   "hours_open": 799.7,
-   "title": "Web Developer - Entry-level",
-   "uid": "simplify:listings:50046647-c721-4705-a90c-0c6eabcb76e3"
-  },
-  {
-   "closed_at": 1791339544,
-   "company": "Jobsbridge",
-   "hours_open": 799.7,
-   "title": "Junior Java Developer",
-   "uid": "simplify:listings:836a3397-4dff-43a9-a81e-79a1a71bc3ff"
-  },
-  {
-   "closed_at": 1791339544,
    "company": "Northrop Grumman",
    "hours_open": 838.0,
    "title": "Associate Software Engineer / Software Engineer",
@@ -5599,8 +5585,22 @@
    "hours_open": 566.9,
    "title": "Programmeur CNC / CNC Programmer",
    "uid": "jobillico:programmeur junior:17534670"
+  },
+  {
+   "closed_at": 1791771045,
+   "company": "Groupe DCM",
+   "hours_open": 573.3,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534679"
+  },
+  {
+   "closed_at": 1791771045,
+   "company": "voyagertechnologiesinc",
+   "hours_open": 933.8,
+   "title": "Components Engineer I",
+   "uid": "greenhouse:voyagertechnologiesinc:4374365009"
   }
  ],
- "count": 801,
- "updated_at": 1791770235
+ "count": 802,
+ "updated_at": 1791771045
 }
