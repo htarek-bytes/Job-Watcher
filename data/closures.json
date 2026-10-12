@@ -1,27 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1791408378,
-   "company": "zoox",
-   "hours_open": 817.5,
-   "title": "System Test Engineer",
-   "uid": "lever:zoox:ec1de483-ebd5-4b87-96b7-d749f077aefb"
-  },
-  {
-   "closed_at": 1791408378,
-   "company": "tsmg",
-   "hours_open": 335.6,
-   "title": "Self-Driving Systems Specialist (SDS Specialist)",
-   "uid": "lever:tsmg:f2abcd98-d00c-42c5-a5f1-bc4d8f405c10"
-  },
-  {
-   "closed_at": 1791408573,
-   "company": "Eurofins",
-   "hours_open": 19.2,
-   "title": "Laboratory Systems Specialist (Entry Level)",
-   "uid": "smartrecruiters:Eurofins:744000153853149"
-  },
-  {
    "closed_at": 1791408573,
    "company": "AbbVie",
    "hours_open": 19.2,
@@ -5599,8 +5578,29 @@
    "hours_open": 942.3,
    "title": "SAP Data Services Developer ",
    "uid": "greenhouse:accenturefederalservices:4658254006"
+  },
+  {
+   "closed_at": 1791849193,
+   "company": "Source Code",
+   "hours_open": 144.9,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:systems analyst:50440640"
+  },
+  {
+   "closed_at": 1791849193,
+   "company": "Lakeland Roman Catholic Separate School Division",
+   "hours_open": 574.6,
+   "title": "computer systems analyst",
+   "uid": "jobbank:analyste de systemes:50064831"
+  },
+  {
+   "closed_at": 1791849193,
+   "company": "applied",
+   "hours_open": 266.7,
+   "title": "Autonomy Integration Software Engineer",
+   "uid": "ashby:applied:5db42c47-dde8-44d6-9a93-5bcd83a829c7"
   }
  ],
- "count": 820,
- "updated_at": 1791847101
+ "count": 803,
+ "updated_at": 1791849194
 }
