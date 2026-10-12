@@ -1,104 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1791381341,
-   "company": "stripe",
-   "hours_open": 813.0,
-   "title": "Backend Engineer, Payments and Risk",
-   "uid": "greenhouse:stripe:7232592"
-  },
-  {
-   "closed_at": 1791381341,
-   "company": "RTX",
-   "hours_open": 131.4,
-   "title": "Software Test Engineer 1",
-   "uid": "simplify:listings:7525137e-4f3a-4f97-9fbb-f2d715545fb4"
-  },
-  {
-   "closed_at": 1791381341,
-   "company": "RTX",
-   "hours_open": 38.7,
-   "title": "Software Engineer 1",
-   "uid": "simplify:listings:cec36906-9fef-4814-9cda-ebc1501ab28e"
-  },
-  {
-   "closed_at": 1791388468,
-   "company": "knowbe4",
-   "hours_open": 18.6,
-   "title": "Software Engineer Intern (Remote)",
-   "uid": "greenhouse:knowbe4:8870749002"
-  },
-  {
-   "closed_at": 1791388468,
-   "company": "telus-digital",
-   "hours_open": 185.4,
-   "title": "GCP Cloud Engineer",
-   "uid": "ashby:telus-digital:ea45fc5c-4517-40c0-a895-d223ddf8dc6f"
-  },
-  {
-   "closed_at": 1791388468,
-   "company": "Oklahoma State Government",
-   "hours_open": 40.7,
-   "title": "Applications Developer 1",
-   "uid": "simplify:listings:16ee160f-d323-41c8-abeb-cb1b0b6e9501"
-  },
-  {
-   "closed_at": 1791388468,
-   "company": "td",
-   "hours_open": 381.2,
-   "title": "Software Engineer I",
-   "uid": "workday:td.wd3/TD_Bank_Careers:Software-Engineer-I_R_1508757"
-  },
-  {
-   "closed_at": 1791388468,
-   "company": "Cooptel",
-   "hours_open": 694.8,
-   "title": "Administrateur réseau",
-   "uid": "jobillico:analyste reseau:17185045"
-  },
-  {
-   "closed_at": 1791388468,
-   "company": "CGI",
-   "hours_open": 694.8,
-   "title": "Conseiller en audit de cybersécurité",
-   "uid": "jobillico:analyste cybersecurite:17433750"
-  },
-  {
-   "closed_at": 1791388468,
-   "company": "CTG",
-   "hours_open": 688.2,
-   "title": "Software Engineer 1",
-   "uid": "simplify:listings:2be6f759-96be-4dc7-a468-cf02a80bdef5"
-  },
-  {
-   "closed_at": 1791388468,
-   "company": "Amazon",
-   "hours_open": 211.6,
-   "title": "Software Development Engineer, Items and Offers Platform, Identity Performance and Defect Detection",
-   "uid": "amazon:amazon:10562274"
-  },
-  {
-   "closed_at": 1791388468,
-   "company": "Kativik Ilisarniliriniq (La commission scolaire du Nunavik)",
-   "hours_open": 122.9,
-   "title": "network analyst",
-   "uid": "jobbank:network analyst:50409133"
-  },
-  {
-   "closed_at": 1791388468,
-   "company": "Lexical Intelligence",
-   "hours_open": 851.6,
-   "title": "NLM Software Engineer 1",
-   "uid": "simplify:listings:ce1541f7-9a61-42c0-a010-de52ed8698a1"
-  },
-  {
-   "closed_at": 1791388468,
-   "company": "accenturefederalservices",
-   "hours_open": 43.2,
-   "title": "Telecommunications Engineer",
-   "uid": "greenhouse:accenturefederalservices:4719178006"
-  },
-  {
    "closed_at": 1791388468,
    "company": "spacex",
    "hours_open": 814.9,
@@ -5599,8 +5501,106 @@
    "hours_open": 935.9,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1791827431,
+   "company": "alarmcom",
+   "hours_open": 0.9,
+   "title": "Quality Engineer",
+   "uid": "greenhouse:alarmcom:8870659002"
+  },
+  {
+   "closed_at": 1791827431,
+   "company": "figureai",
+   "hours_open": 138.8,
+   "title": "Security Engineer Intern [Winter 2027]",
+   "uid": "greenhouse:figureai:4719593006"
+  },
+  {
+   "closed_at": 1791827431,
+   "company": "accenturefederalservices",
+   "hours_open": 147.3,
+   "title": "Information Systems Security Engineer (ISSE)",
+   "uid": "greenhouse:accenturefederalservices:4719254006"
+  },
+  {
+   "closed_at": 1791827431,
+   "company": "Stellar Software Solutions",
+   "hours_open": 59.1,
+   "title": "network infrastructure engineer",
+   "uid": "jobbank:infrastructure analyst:50462911"
+  },
+  {
+   "closed_at": 1791827431,
+   "company": "Great Lakes Group",
+   "hours_open": 21.3,
+   "title": "electrical controls engineer",
+   "uid": "jobbank:control systems analyst:50464497"
+  },
+  {
+   "closed_at": 1791827431,
+   "company": "Source Code",
+   "hours_open": 138.8,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:systems analyst:50440640"
+  },
+  {
+   "closed_at": 1791827431,
+   "company": "Groupe DCM",
+   "hours_open": 582.8,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534670"
+  },
+  {
+   "closed_at": 1791827431,
+   "company": "ebi",
+   "hours_open": 329.4,
+   "title": "Product Engineer Intern",
+   "uid": "workday:ebi.wd5/ebicareers:Product-Engineer-Intern_REQ107697-1"
+  },
+  {
+   "closed_at": 1791827431,
+   "company": "relativity",
+   "hours_open": 935.2,
+   "title": "Quality Inspector Technical Specialist I ",
+   "uid": "greenhouse:relativity:8641281002"
+  },
+  {
+   "closed_at": 1791827431,
+   "company": "mongodb",
+   "hours_open": 623.5,
+   "title": "Software Engineer 3, Atlas Search Systems",
+   "uid": "greenhouse:mongodb:7523920"
+  },
+  {
+   "closed_at": 1791827431,
+   "company": "altentechnologyusa",
+   "hours_open": 162.7,
+   "title": "ECU Design Release Engineer",
+   "uid": "greenhouse:altentechnologyusa:5033997007"
+  },
+  {
+   "closed_at": 1791827431,
+   "company": "CACI",
+   "hours_open": 234.3,
+   "title": "Early Career Flight Software Development Engineer",
+   "uid": "simplify:listings:e34401ba-d105-49be-ba9a-26090f5008b2"
+  },
+  {
+   "closed_at": 1791827431,
+   "company": "spacex",
+   "hours_open": 933.9,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1791827431,
+   "company": "spacex",
+   "hours_open": 936.9,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 825,
- "updated_at": 1791824021
+ "count": 814,
+ "updated_at": 1791827431
 }
