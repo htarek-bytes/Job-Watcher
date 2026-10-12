@@ -1,104 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1791402364,
-   "company": "sofi",
-   "hours_open": 314.4,
-   "title": "Corporate Development Analyst",
-   "uid": "greenhouse:sofi:7819518003"
-  },
-  {
-   "closed_at": 1791402364,
-   "company": "radiant-industries",
-   "hours_open": 126.1,
-   "title": "Reactor Operations Engineer",
-   "uid": "ashby:radiant-industries:b8bd6c63-f809-4350-a980-6756bcd09d66"
-  },
-  {
-   "closed_at": 1791402364,
-   "company": "runsybil-jobs",
-   "hours_open": 698.6,
-   "title": "SRE/Infrastructure Engineer",
-   "uid": "ashby:runsybil-jobs:676ba6df-b1d4-46b7-ad60-7671a8f32286"
-  },
-  {
-   "closed_at": 1791402364,
-   "company": "Varsity Brands",
-   "hours_open": 855.4,
-   "title": "Software Engineer 1",
-   "uid": "simplify:listings:209fc4a4-5626-4653-baa1-7a5393231ce9"
-  },
-  {
-   "closed_at": 1791402364,
-   "company": "The Walt Disney Company",
-   "hours_open": 3.9,
-   "title": "Product Software Engineer 1",
-   "uid": "simplify:listings:12634088-9777-452c-9095-9f2de268d1e0"
-  },
-  {
-   "closed_at": 1791402364,
-   "company": "siftstack",
-   "hours_open": 189.1,
-   "title": "Software Engineer, Full Stack (Agentic AI)",
-   "uid": "ashby:siftstack:3557ef5f-4d1e-46d3-b82d-fdaed12d0518"
-  },
-  {
-   "closed_at": 1791402364,
-   "company": "siftstack",
-   "hours_open": 189.1,
-   "title": "Software Engineer, Full Stack ",
-   "uid": "ashby:siftstack:e1bfc027-a94a-495b-a58d-5b76cbe4adba"
-  },
-  {
-   "closed_at": 1791402364,
-   "company": "andurilindustries",
-   "hours_open": 817.1,
-   "title": "Wire Harness Engineer, Air Dominance and Strike",
-   "uid": "greenhouse:andurilindustries:5047098007"
-  },
-  {
-   "closed_at": 1791402364,
-   "company": "spacex",
-   "hours_open": 818.8,
-   "title": "IT Infrastructure Engineer, Virtualization & Storage",
-   "uid": "greenhouse:spacex:8451903002"
-  },
-  {
-   "closed_at": 1791402364,
-   "company": "spacex",
-   "hours_open": 818.5,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1791402364,
-   "company": "spacex",
-   "hours_open": 818.8,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1791406871,
-   "company": "solink",
-   "hours_open": 51.8,
-   "title": "Software Engineer Co-op, Apps",
-   "uid": "ashby:solink:c973029a-83fa-449e-b4a9-0a1514165430"
-  },
-  {
-   "closed_at": 1791406871,
-   "company": "solink",
-   "hours_open": 121.1,
-   "title": "Software Engineer Co-op, Agents",
-   "uid": "ashby:solink:8493613d-ea47-4182-ac0b-f5f24d11f49e"
-  },
-  {
-   "closed_at": 1791406871,
-   "company": "oneimaging",
-   "hours_open": 206.9,
-   "title": "Full Stack Associate Software Engineer (UMiami Only)",
-   "uid": "greenhouse:oneimaging:4423640009"
-  },
-  {
    "closed_at": 1791406871,
    "company": "lgelectronics",
    "hours_open": 391.7,
@@ -5599,8 +5501,106 @@
    "hours_open": 938.2,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1791839989,
+   "company": "Lancesoft",
+   "hours_open": 54.2,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50449327"
+  },
+  {
+   "closed_at": 1791839989,
+   "company": "Groupe DCM",
+   "hours_open": 592.4,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534679"
+  },
+  {
+   "closed_at": 1791839989,
+   "company": "ngc",
+   "hours_open": 90.7,
+   "title": "2027 Intern - Airworthiness Engineer",
+   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Intern---Airworthiness-Engineer_R10255197"
+  },
+  {
+   "closed_at": 1791839989,
+   "company": "pg",
+   "hours_open": 943.7,
+   "title": "Purdue University R&D Engineer Co-op- Purdue Students Graduating in 2028/2029 ONLY",
+   "uid": "workday:pg.wd5/1000:Purdue-University-R-D-Engineer-Co-op--Purdue-Students-Graduating-in-2028-2029-ONLY_R000155305"
+  },
+  {
+   "closed_at": 1791839989,
+   "company": "psu",
+   "hours_open": 435.9,
+   "title": "Systems Administrator Intern",
+   "uid": "workday:psu.wd1/PSU_Staff:Systems-Administrator-Intern_REQ_0000082540-2"
+  },
+  {
+   "closed_at": 1791839989,
+   "company": "Amazon",
+   "hours_open": 146.3,
+   "title": "Software Development Engineer Intern - Mobile(iOS/Android) - Summer 2027 (USA)",
+   "uid": "amazon:amazon:10571004"
+  },
+  {
+   "closed_at": 1791839989,
+   "company": "Amazon",
+   "hours_open": 93.0,
+   "title": "Software Development Engineer, SCOT-Inbound, Inventory Routing and Replenishment",
+   "uid": "amazon:amazon:10574174"
+  },
+  {
+   "closed_at": 1791839989,
+   "company": "Amazon",
+   "hours_open": 4.4,
+   "title": "Software Development Engineer I, AWS IoT Fleet Management",
+   "uid": "amazon:amazon:10571756"
+  },
+  {
+   "closed_at": 1791839989,
+   "company": "stripe",
+   "hours_open": 940.4,
+   "title": "Security Analyst ",
+   "uid": "greenhouse:stripe:8142302"
+  },
+  {
+   "closed_at": 1791839989,
+   "company": "pros",
+   "hours_open": 633.4,
+   "title": "Machine Learning Engineer I",
+   "uid": "workday:pros.wd5/pros_careers:Machine-Learning-Engineer-I_R3566"
+  },
+  {
+   "closed_at": 1791839989,
+   "company": "nvidia",
+   "hours_open": 961.7,
+   "title": "Low Power ASIC Engineer - New College Grad 2026",
+   "uid": "workday:nvidia.wd5/NVIDIAExternalCareerSite:Low-Power-ASIC-Engineer---New-College-Grad-2026_JR2017005"
+  },
+  {
+   "closed_at": 1791839989,
+   "company": "spacex",
+   "hours_open": 940.4,
+   "title": "Automation & Controls Engineer (Asset Engineering)",
+   "uid": "greenhouse:spacex:8540471002"
+  },
+  {
+   "closed_at": 1791839989,
+   "company": "astranis",
+   "hours_open": 940.4,
+   "title": "CAD Engineer",
+   "uid": "greenhouse:astranis:4350927006"
+  },
+  {
+   "closed_at": 1791839989,
+   "company": "Amazon",
+   "hours_open": 102.7,
+   "title": "Software Development Engineer, Leo Security",
+   "uid": "amazon:amazon:10573250"
   }
  ],
- "count": 810,
- "updated_at": 1791832243
+ "count": 814,
+ "updated_at": 1791839990
 }
