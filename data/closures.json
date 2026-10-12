@@ -1,41 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1791340248,
-   "company": "Credence",
-   "hours_open": 678.1,
-   "title": "Information Security Analyst, Journeyman",
-   "uid": "workable:credence:CEABD43E8C"
-  },
-  {
-   "closed_at": 1791355091,
-   "company": "TaxRise",
-   "hours_open": 7.3,
-   "title": "Junior Software Developer",
-   "uid": "simplify:listings:62da524e-ffa4-4bcd-a604-fcc071409fb5"
-  },
-  {
-   "closed_at": 1791355091,
-   "company": "Saskatchewan Liquor & Gaming Authority (SLGA)",
-   "hours_open": 152.0,
-   "title": "software developer",
-   "uid": "jobbank:junior programmer:50399084"
-  },
-  {
-   "closed_at": 1791355091,
-   "company": "ag",
-   "hours_open": 20.6,
-   "title": "Early Career AOCS engineer",
-   "uid": "workday:ag.wd3/Airbus:Early-Career-AOCS-engineer_JR10432160"
-  },
-  {
-   "closed_at": 1791355091,
-   "company": "Chief Isaac Inc",
-   "hours_open": 685.5,
-   "title": "network system administrator",
-   "uid": "jobbank:systems administrator:50056826"
-  },
-  {
    "closed_at": 1791355091,
    "company": "Altice USA",
    "hours_open": 842.3,
@@ -5599,8 +5564,43 @@
    "hours_open": 920.5,
    "title": "Security Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1791789886,
+   "company": "Export Development Canada | Exportation et développement Canada",
+   "hours_open": 3.0,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50466827"
+  },
+  {
+   "closed_at": 1791789886,
+   "company": "Lancesoft",
+   "hours_open": 40.3,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50449327"
+  },
+  {
+   "closed_at": 1791789886,
+   "company": "twitch",
+   "hours_open": 926.5,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1791789886,
+   "company": "TikTok",
+   "hours_open": 3.0,
+   "title": "Backend Software Engineer New Grad - Trust & Safety",
+   "uid": "simplify:listings:3bf4faa5-c7e0-48ae-bb7e-3da108f4ae3d"
+  },
+  {
+   "closed_at": 1791789886,
+   "company": "spacex",
+   "hours_open": 926.5,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
   }
  ],
- "count": 808,
- "updated_at": 1791778909
+ "count": 805,
+ "updated_at": 1791789886
 }
