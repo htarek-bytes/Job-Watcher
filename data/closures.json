@@ -1,62 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1791339544,
-   "company": "Northrop Grumman",
-   "hours_open": 838.0,
-   "title": "Associate Software Engineer / Software Engineer",
-   "uid": "simplify:listings:fd35bf7d-2a83-4c94-84df-7f5ae7a4429f"
-  },
-  {
-   "closed_at": 1791339544,
-   "company": "spacex",
-   "hours_open": 799.7,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1791339633,
-   "company": "ServiceNow",
-   "hours_open": 103.6,
-   "title": "Forward Deployed Solution Engineer – Applied AI FDE",
-   "uid": "smartrecruiters:ServiceNow:744000153211799"
-  },
-  {
-   "closed_at": 1791339633,
-   "company": "AlphaX",
-   "hours_open": 102.4,
-   "title": "Project Engineer - Commercial Electrical Projects",
-   "uid": "workable:alphax:495C7EAF08"
-  },
-  {
-   "closed_at": 1791339633,
-   "company": "ServiceNow",
-   "hours_open": 150.3,
-   "title": "Partner Solution Engineer – EMEA Central",
-   "uid": "smartrecruiters:ServiceNow:744000152732339"
-  },
-  {
-   "closed_at": 1791339633,
-   "company": "ServiceNow",
-   "hours_open": 150.3,
-   "title": "Advisory Presales Solution Consultant, Finance & Supply Chain Solutions",
-   "uid": "smartrecruiters:ServiceNow:744000152728772"
-  },
-  {
-   "closed_at": 1791340248,
-   "company": "Cooptel",
-   "hours_open": 681.4,
-   "title": "Administrateur réseau",
-   "uid": "jobillico:analyste reseau:17185045"
-  },
-  {
-   "closed_at": 1791340248,
-   "company": "Sigma Defense",
-   "hours_open": 362.9,
-   "title": "1768 - Test Engineer",
-   "uid": "workable:sigmadefense:B03EF35A4B"
-  },
-  {
    "closed_at": 1791340248,
    "company": "Credence",
    "hours_open": 678.1,
@@ -5599,8 +5543,64 @@
    "hours_open": 933.8,
    "title": "Components Engineer I",
    "uid": "greenhouse:voyagertechnologiesinc:4374365009"
+  },
+  {
+   "closed_at": 1791778908,
+   "company": "SASKATCHEWAN DISTANCE LEARNING CENTRE",
+   "hours_open": 315.9,
+   "title": "Internet systems administrator",
+   "uid": "jobbank:systems administrator:50386373"
+  },
+  {
+   "closed_at": 1791778908,
+   "company": "Groupe DCM",
+   "hours_open": 569.3,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534670"
+  },
+  {
+   "closed_at": 1791778908,
+   "company": "cscgeneration-2",
+   "hours_open": 612.5,
+   "title": "AI Solutions Engineer",
+   "uid": "lever:cscgeneration-2:40715594-0edc-4909-967c-71d252215c51"
+  },
+  {
+   "closed_at": 1791778908,
+   "company": "twitch",
+   "hours_open": 920.5,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1791778908,
+   "company": "LogiSense Corporation",
+   "hours_open": 146.9,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50432855"
+  },
+  {
+   "closed_at": 1791778908,
+   "company": "TikTok",
+   "hours_open": 960.0,
+   "title": "Backend Software Engineer New Grad - Trust & Safety",
+   "uid": "simplify:listings:de1b7df6-c4f8-41ea-bdff-5598ed16df6d"
+  },
+  {
+   "closed_at": 1791778908,
+   "company": "Prevue HR Systems Inc.",
+   "hours_open": 155.2,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50426676"
+  },
+  {
+   "closed_at": 1791778908,
+   "company": "spacex",
+   "hours_open": 920.5,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
   }
  ],
- "count": 802,
- "updated_at": 1791771045
+ "count": 808,
+ "updated_at": 1791778909
 }
