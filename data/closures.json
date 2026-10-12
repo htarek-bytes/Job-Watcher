@@ -1,41 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1791355091,
-   "company": "spacex",
-   "hours_open": 805.7,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1791355091,
-   "company": "spacex",
-   "hours_open": 805.4,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1791355091,
-   "company": "Amazon",
-   "hours_open": 296.1,
-   "title": "Software Development Engineer Intern - Summer 2027 (USA) , Amazon Dedicated Cloud (ADC)",
-   "uid": "amazon:amazon:10559746"
-  },
-  {
-   "closed_at": 1791363116,
-   "company": "bmo",
-   "hours_open": 296.8,
-   "title": "AI Engineer, Winter 2027 (Co-op/Internship) - 8 months",
-   "uid": "workday:bmo.wd3/Campus:AI-Engineer--Winter-2027--Co-op-Internship----8-months_R260027622-2"
-  },
-  {
-   "closed_at": 1791363116,
-   "company": "bmo",
-   "hours_open": 282.1,
-   "title": "Business & Operations Development Specialist (New Grad)",
-   "uid": "workday:bmo.wd3/External:Business---Operations-Development-Specialist--New-Grad-_R260027681"
-  },
-  {
    "closed_at": 1791363327,
    "company": "globalfoundries",
    "hours_open": 272.0,
@@ -5599,8 +5564,43 @@
    "hours_open": 924.2,
    "title": "Security Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1791795814,
+   "company": "Intact",
+   "hours_open": 213.0,
+   "title": "Tech Development Program New Grad - Software Development & Cloud Stream",
+   "uid": "simplify:listings:2701a7fb-2fe3-45b1-b197-f7f80f435f82"
+  },
+  {
+   "closed_at": 1791795814,
+   "company": "Groupe DCM",
+   "hours_open": 574.0,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534670"
+  },
+  {
+   "closed_at": 1791795814,
+   "company": "Wabtec",
+   "hours_open": 104.1,
+   "title": "Junior Service Engineer",
+   "uid": "smartrecruiters:Wabtec:3743990015944836"
+  },
+  {
+   "closed_at": 1791795814,
+   "company": "twitch",
+   "hours_open": 928.1,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1791795814,
+   "company": "spacex",
+   "hours_open": 928.1,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
   }
  ],
- "count": 804,
- "updated_at": 1791792373
+ "count": 805,
+ "updated_at": 1791795814
 }
