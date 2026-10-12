@@ -1,76 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1791390300,
-   "company": "spacex",
-   "hours_open": 813.8,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1791402364,
-   "company": "rfsmart",
-   "hours_open": 646.7,
-   "title": "Product Engineering Software Developer Internship - Spring & Summer 2027",
-   "uid": "greenhouse:rfsmart:5407206008"
-  },
-  {
-   "closed_at": 1791402364,
-   "company": "Capital One",
-   "hours_open": 20.4,
-   "title": "Associate Software Engineer New Grad",
-   "uid": "simplify:listings:df413b1f-2b57-43c8-8fb8-09002684e08a"
-  },
-  {
-   "closed_at": 1791402364,
-   "company": "Motorola",
-   "hours_open": 188.6,
-   "title": "Junior Software Engineer - Emergency Call Handling",
-   "uid": "simplify:listings:f611f1d0-d34a-4790-828f-5c7a4839aaf8"
-  },
-  {
-   "closed_at": 1791402364,
-   "company": "Amazon",
-   "hours_open": 47.1,
-   "title": "Software Development Engineer, Woot!",
-   "uid": "amazon:amazon:10569595"
-  },
-  {
-   "closed_at": 1791402364,
-   "company": "Amazon",
-   "hours_open": 288.5,
-   "title": "Software Development Engineer, Consumer Domains",
-   "uid": "amazon:amazon:10560727"
-  },
-  {
-   "closed_at": 1791402364,
-   "company": "Amazon",
-   "hours_open": 172.6,
-   "title": "Software Development Engineer - AgentCore, AWS Agentic AI",
-   "uid": "amazon:amazon:10565536"
-  },
-  {
-   "closed_at": 1791402364,
-   "company": "Amazon",
-   "hours_open": 215.5,
-   "title": "Software Development Engineer, Amazon Shopping Videos (Ads)",
-   "uid": "amazon:amazon:10562411"
-  },
-  {
-   "closed_at": 1791402364,
-   "company": "everlaw",
-   "hours_open": 837.8,
-   "title": "Software Engineer I",
-   "uid": "greenhouse:everlaw:4705236006"
-  },
-  {
-   "closed_at": 1791402364,
-   "company": "figma",
-   "hours_open": 826.7,
-   "title": "Software Engineer Intern (Winter 2027)",
-   "uid": "greenhouse:figma:6131089004"
-  },
-  {
    "closed_at": 1791402364,
    "company": "sofi",
    "hours_open": 314.4,
@@ -5599,8 +5529,78 @@
    "hours_open": 936.3,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1791832243,
+   "company": "Groupe DCM",
+   "hours_open": 584.1,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534670"
+  },
+  {
+   "closed_at": 1791832243,
+   "company": "micron",
+   "hours_open": 168.8,
+   "title": "New College Grad - Semiconductor Design Engineer, DRAM Products Group",
+   "uid": "workday:micron.wd1/External:New-College-Grad---Semiconductor-Design-Engineer--DRAM-Products-Group_JR114119"
+  },
+  {
+   "closed_at": 1791832243,
+   "company": "mmc",
+   "hours_open": 233.8,
+   "title": "Junior Full-Stack Engineer, Generative AI @ Marsh Tech",
+   "uid": "workday:mmc.wd1/MMC:Junior-Full-Stack-Engineer--Generative-AI---Marsh-Tech_R_367686"
+  },
+  {
+   "closed_at": 1791832243,
+   "company": "Amazon",
+   "hours_open": 240.8,
+   "title": "Software Development Engineer, Conversational Ads Experience",
+   "uid": "amazon:amazon:10567987"
+  },
+  {
+   "closed_at": 1791832243,
+   "company": "mastercard",
+   "hours_open": 935.3,
+   "title": "Site Reliability Engineering Intern, Summer 2027 – St. Louis, MO, US",
+   "uid": "workday:mastercard.wd1/Campus:Site-Reliability-Engineering-Intern--Summer-2027---St-Louis--MO--US_R-287654"
+  },
+  {
+   "closed_at": 1791832243,
+   "company": "kbr",
+   "hours_open": 959.6,
+   "title": "Junior Software Engineer",
+   "uid": "workday:kbr.wd5/kbr_careers:Junior-Software-Engineer_R2122294"
+  },
+  {
+   "closed_at": 1791832243,
+   "company": "NVIDIA",
+   "hours_open": 974.9,
+   "title": "Low Power ASIC Engineer New Grad",
+   "uid": "simplify:listings:a5a4f5d2-e953-462d-a6ea-fd5fe770de44"
+  },
+  {
+   "closed_at": 1791832243,
+   "company": "kla",
+   "hours_open": 283.4,
+   "title": "Software Engineering Intern",
+   "uid": "workday:kla.wd1/UR:Software-Engineering-Intern_2641581"
+  },
+  {
+   "closed_at": 1791832243,
+   "company": "spacex",
+   "hours_open": 937.9,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1791832243,
+   "company": "spacex",
+   "hours_open": 938.2,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 814,
- "updated_at": 1791831543
+ "count": 810,
+ "updated_at": 1791832243
 }
