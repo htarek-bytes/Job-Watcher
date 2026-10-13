@@ -1,174 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1791470133,
-   "company": "spacekinetic",
-   "hours_open": 567.2,
-   "title": "System Administrator",
-   "uid": "greenhouse:spacekinetic:5037994008"
-  },
-  {
-   "closed_at": 1791470546,
-   "company": "DefenseStorm",
-   "hours_open": 874.4,
-   "title": "Junior Product Engineer - Software Engineer 1",
-   "uid": "simplify:listings:50e60fbf-697c-49e1-88be-1f24e17fa22d"
-  },
-  {
-   "closed_at": 1791470546,
-   "company": "spacex",
-   "hours_open": 837.5,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1791470546,
-   "company": "andurilindustries",
-   "hours_open": 836.1,
-   "title": "CNC Programmer/Operator",
-   "uid": "greenhouse:andurilindustries:5179736007"
-  },
-  {
-   "closed_at": 1791470546,
-   "company": "spacex",
-   "hours_open": 836.1,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1791470986,
-   "company": "HAFMAN CONSULTING GROUP INC.",
-   "hours_open": 0.1,
-   "title": "information systems quality assurance analyst",
-   "uid": "jobbank:information systems analyst:50453138"
-  },
-  {
-   "closed_at": 1791470986,
-   "company": "Harris Kia",
-   "hours_open": 13.9,
-   "title": "cloud administrator",
-   "uid": "jobbank:cloud administrator:50448096"
-  },
-  {
-   "closed_at": 1791470986,
-   "company": "Source Code",
-   "hours_open": 39.8,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:systems analyst:50440640"
-  },
-  {
-   "closed_at": 1791470986,
-   "company": "Lancesoft",
-   "hours_open": 224.7,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50387533"
-  },
-  {
-   "closed_at": 1791470986,
-   "company": "Bell Canada",
-   "hours_open": 104.4,
-   "title": "analyst, computer systems",
-   "uid": "jobbank:systems analyst:50419044"
-  },
-  {
-   "closed_at": 1791471346,
-   "company": "Source Code",
-   "hours_open": 13.8,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:control systems analyst:50449266"
-  },
-  {
-   "closed_at": 1791471346,
-   "company": "spacex",
-   "hours_open": 838.0,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1791471346,
-   "company": "spacex",
-   "hours_open": 838.0,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1791482043,
-   "company": "doordashusa",
-   "hours_open": 10.8,
-   "title": "Software Engineer, Intern - Labs (Summer 2027)",
-   "uid": "greenhouse:doordashusa:8263774"
-  },
-  {
-   "closed_at": 1791482043,
-   "company": "stripe",
-   "hours_open": 18.0,
-   "title": "Software Engineer, Internal Identity",
-   "uid": "greenhouse:stripe:8263356"
-  },
-  {
-   "closed_at": 1791482043,
-   "company": "provectus",
-   "hours_open": 20.5,
-   "title": "Associate Forward Deployed Engineer",
-   "uid": "lever:provectus:8f3a9444-2977-4310-b2d5-12cc327a9916"
-  },
-  {
-   "closed_at": 1791482043,
-   "company": "blend",
-   "hours_open": 99.6,
-   "title": "NC Career Fair Software Engineer",
-   "uid": "greenhouse:blend:6214287004"
-  },
-  {
-   "closed_at": 1791482043,
-   "company": "Umano Medical",
-   "hours_open": 720.8,
-   "title": "Concepteur logiciel embarqué et cybersécurité",
-   "uid": "jobillico:analyste cybersecurite:17489580"
-  },
-  {
-   "closed_at": 1791482043,
-   "company": "City of North Vancouver",
-   "hours_open": 333.2,
-   "title": "geographic information systems (gis) analyst",
-   "uid": "jobbank:information systems analyst:50360270"
-  },
-  {
-   "closed_at": 1791482043,
-   "company": "Cooptel",
-   "hours_open": 720.8,
-   "title": "Administrateur réseau",
-   "uid": "jobillico:analyste reseau:17185045"
-  },
-  {
-   "closed_at": 1791482043,
-   "company": "cohere",
-   "hours_open": 720.8,
-   "title": "Forward Deployed Engineer, Infrastructure Specialist (North America)",
-   "uid": "ashby:cohere:be48aafc-9610-4ebd-8414-a0722a3cd59a"
-  },
-  {
-   "closed_at": 1791482043,
-   "company": "drweng",
-   "hours_open": 720.8,
-   "title": "Application Support Specialist (Data Specialist)",
-   "uid": "greenhouse:drweng:8028470"
-  },
-  {
-   "closed_at": 1791482043,
-   "company": "drweng",
-   "hours_open": 720.8,
-   "title": "Application Support Specialist",
-   "uid": "greenhouse:drweng:7513647"
-  },
-  {
-   "closed_at": 1791482043,
-   "company": "Amazon",
-   "hours_open": 219.7,
-   "title": "Software Development Engineer, Advertising Services",
-   "uid": "amazon:amazon:10563738"
-  },
-  {
    "closed_at": 1791482043,
    "company": "doordashusa",
    "hours_open": 839.2,
@@ -5599,8 +5431,176 @@
    "hours_open": 305.5,
    "title": "Development Test Engineer (Starshield)",
    "uid": "greenhouse:spacex:8859502002"
+  },
+  {
+   "closed_at": 1791915110,
+   "company": "doordashusa",
+   "hours_open": 315.0,
+   "title": "Software Engineer, Machine Learning (All Levels / All Teams)",
+   "uid": "greenhouse:doordashusa:5635021"
+  },
+  {
+   "closed_at": 1791915110,
+   "company": "Marigold",
+   "hours_open": 18.9,
+   "title": "Associate Software Engineer",
+   "uid": "simplify:listings:2568859c-6383-4f07-a5dc-5350765a1d3a"
+  },
+  {
+   "closed_at": 1791915110,
+   "company": "Great Lakes Group",
+   "hours_open": 45.7,
+   "title": "electrical controls engineer",
+   "uid": "jobbank:control systems analyst:50464497"
+  },
+  {
+   "closed_at": 1791915110,
+   "company": "Source Code",
+   "hours_open": 24.4,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:control systems analyst:50476529"
+  },
+  {
+   "closed_at": 1791915110,
+   "company": "City of Prince George",
+   "hours_open": 281.4,
+   "title": "power engineer",
+   "uid": "jobbank:scada:50406699"
+  },
+  {
+   "closed_at": 1791915110,
+   "company": "City of Calgary",
+   "hours_open": 8.4,
+   "title": "software developer",
+   "uid": "jobbank:entry level software developer:50478387"
+  },
+  {
+   "closed_at": 1791915110,
+   "company": "BC Pension Corporation",
+   "hours_open": 331.7,
+   "title": "systems analyst",
+   "uid": "jobbank:systems analyst:50392043"
+  },
+  {
+   "closed_at": 1791915110,
+   "company": "City of Brampton",
+   "hours_open": 625.2,
+   "title": "systems analyst",
+   "uid": "jobbank:systems analyst:50307090"
+  },
+  {
+   "closed_at": 1791915110,
+   "company": "Groupe DCM",
+   "hours_open": 613.3,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534679"
+  },
+  {
+   "closed_at": 1791915110,
+   "company": "later",
+   "hours_open": 961.2,
+   "title": "Software Development Co-op (Later Influence)",
+   "uid": "greenhouse:later:8643138002"
+  },
+  {
+   "closed_at": 1791915110,
+   "company": "micron",
+   "hours_open": 91.0,
+   "title": "Intern - IT Software Engineer",
+   "uid": "workday:micron.wd1/External:Intern---IT-Software-Engineer_JR113941"
+  },
+  {
+   "closed_at": 1791915110,
+   "company": "Otter.ai",
+   "hours_open": 138.3,
+   "title": "Software Engineer New Grad - Front-End",
+   "uid": "simplify:listings:24901885-b792-4344-a66a-26907a743ebc"
+  },
+  {
+   "closed_at": 1791915110,
+   "company": "marvell",
+   "hours_open": 130.9,
+   "title": "Machine Learning Engineer Intern, BS/MS - Summer 2027",
+   "uid": "workday:marvell.wd1/MarvellCareers:Machine-Learning-Engineer-Intern--BS-MS---Summer-2027_2604989-1"
+  },
+  {
+   "closed_at": 1791915110,
+   "company": "marvell",
+   "hours_open": 306.4,
+   "title": "Firmware Engineer Intern, BS - Summer 2027",
+   "uid": "workday:marvell.wd1/MarvellCareers2:Firmware-Engineer-Intern--BS---Summer-2027_2604461-1"
+  },
+  {
+   "closed_at": 1791915110,
+   "company": "kla",
+   "hours_open": 306.4,
+   "title": "Product Development Engineer Intern",
+   "uid": "workday:kla.wd1/UR:Product-Development-Engineer-Intern_2641521"
+  },
+  {
+   "closed_at": 1791915110,
+   "company": "Hewlett Packard Enterprise",
+   "hours_open": 178.3,
+   "title": "Electrical Hardware Engineer 1",
+   "uid": "simplify:listings:40ea1169-bb74-4d83-a641-e491930f9aea"
+  },
+  {
+   "closed_at": 1791915110,
+   "company": "marvell",
+   "hours_open": 449.2,
+   "title": "Test Equipment Engineer Intern",
+   "uid": "workday:marvell.wd1/MarvellCareers2:Test-Equipment-Engineer-Intern_2603826"
+  },
+  {
+   "closed_at": 1791915110,
+   "company": "doordashusa",
+   "hours_open": 959.5,
+   "title": "Software Engineer, Android (All Teams)",
+   "uid": "greenhouse:doordashusa:5630438"
+  },
+  {
+   "closed_at": 1791915110,
+   "company": "Lakeland Roman Catholic Separate School Division",
+   "hours_open": 499.8,
+   "title": "computer systems analyst",
+   "uid": "jobbank:control systems analyst:50064831"
+  },
+  {
+   "closed_at": 1791915110,
+   "company": "kla",
+   "hours_open": 964.6,
+   "title": "Software Engineering Intern",
+   "uid": "workday:kla.wd1/AnnArbor:Software-Engineering-Intern_2531653"
+  },
+  {
+   "closed_at": 1791915110,
+   "company": "truveta",
+   "hours_open": 961.2,
+   "title": "Machine Learning Engineer - LLMs & Generative AI",
+   "uid": "greenhouse:truveta:5555763004"
+  },
+  {
+   "closed_at": 1791915110,
+   "company": "spacex",
+   "hours_open": 958.3,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1791915110,
+   "company": "spacex",
+   "hours_open": 961.2,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1791915110,
+   "company": "andurilindustries",
+   "hours_open": 452.4,
+   "title": "Robotics Software Engineer",
+   "uid": "greenhouse:andurilindustries:5248679007"
   }
  ],
- "count": 819,
- "updated_at": 1791911493
+ "count": 824,
+ "updated_at": 1791915113
 }
