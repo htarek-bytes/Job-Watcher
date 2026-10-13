@@ -2,55 +2,6 @@
  "closed": [
   {
    "closed_at": 1791499461,
-   "company": "Source Code",
-   "hours_open": 21.6,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:control systems analyst:50449266"
-  },
-  {
-   "closed_at": 1791499461,
-   "company": "barrywehmiller",
-   "hours_open": 21.5,
-   "title": "Entry Level Software Engineer",
-   "uid": "workday:barrywehmiller.wd1/BWConfidential:Entry-Level-Software-Engineer_R023049"
-  },
-  {
-   "closed_at": 1791499461,
-   "company": "avnet",
-   "hours_open": 554.4,
-   "title": "Technical Sales Engineer - AMD/Xilinx",
-   "uid": "workday:avnet.wd1/external:Technical-Sales-Engineer---AMD-Xilinx_JR-022673-1"
-  },
-  {
-   "closed_at": 1791499461,
-   "company": "Highlight AI",
-   "hours_open": 106.1,
-   "title": "Early Career Product Engineer",
-   "uid": "simplify:listings:7b17adda-ec77-495d-b483-4f584209b5fa"
-  },
-  {
-   "closed_at": 1791499461,
-   "company": "Capgemini",
-   "hours_open": 106.1,
-   "title": "Junior Frontend Developer",
-   "uid": "simplify:listings:db894db3-f0ec-4d30-9a74-12bff5188ae7"
-  },
-  {
-   "closed_at": 1791499461,
-   "company": "L3Harris Technologies",
-   "hours_open": 175.9,
-   "title": "Associate Software Engineer",
-   "uid": "simplify:listings:ce8da1bf-1f37-4dae-8814-a1fba9205a40"
-  },
-  {
-   "closed_at": 1791499461,
-   "company": "spacex",
-   "hours_open": 842.8,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1791499461,
    "company": "spacex",
    "hours_open": 845.8,
    "title": "Wireless Software Engineer (Starlink)",
@@ -5599,8 +5550,57 @@
    "hours_open": 963.8,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1791926024,
+   "company": "wattswater",
+   "hours_open": 21.3,
+   "title": "Research Engineer I",
+   "uid": "workday:wattswater.wd5/external:Research-Engineer-I_10017514-1"
+  },
+  {
+   "closed_at": 1791926024,
+   "company": "aurora-operations-inc",
+   "hours_open": 170.1,
+   "title": "Software Engineer, Performance Engineering Optimization",
+   "uid": "ashby:aurora-operations-inc:b755dc84-3600-4a44-ae04-0f366883d553"
+  },
+  {
+   "closed_at": 1791926024,
+   "company": "G Square Builders Ltd.",
+   "hours_open": 5.2,
+   "title": "Web developer",
+   "uid": "jobbank:programmeur junior:50392767"
+  },
+  {
+   "closed_at": 1791926024,
+   "company": "zeissgroup",
+   "hours_open": 130.1,
+   "title": "Internship – Software Engineering & Agentic Systems for Digital Twins (f/m/x)",
+   "uid": "workday:zeissgroup.wd3/External:Internship---Software-Engineering---Agentic-Systems-for-Digital-Twins--f-m-x-_JR_1053820-3"
+  },
+  {
+   "closed_at": 1791926024,
+   "company": "twitch",
+   "hours_open": 964.3,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1791926024,
+   "company": "spacex",
+   "hours_open": 964.0,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1791926024,
+   "company": "spacex",
+   "hours_open": 964.3,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 812,
- "updated_at": 1791924456
+ "count": 807,
+ "updated_at": 1791926024
 }
