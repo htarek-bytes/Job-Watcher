@@ -1,90 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1791491812,
-   "company": "Validus Risk Management",
-   "hours_open": 836.7,
-   "title": "Full Stack Software Engineer (Python)",
-   "uid": "workable:validus-risk-management:F81DD0E33E"
-  },
-  {
-   "closed_at": 1791491812,
-   "company": "Vanguard EMS, Inc.",
-   "hours_open": 495.7,
-   "title": "Web Developer",
-   "uid": "workable:vanguard-ems-inc:37A401568C"
-  },
-  {
-   "closed_at": 1791491812,
-   "company": "Trexquant Investment",
-   "hours_open": 836.7,
-   "title": "AI Engineer (CHINA)",
-   "uid": "workable:trexquant:18DC4FFDDF"
-  },
-  {
-   "closed_at": 1791491812,
-   "company": "spacex",
-   "hours_open": 843.7,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1791491812,
-   "company": "spacex",
-   "hours_open": 843.4,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1791491812,
-   "company": "spacex",
-   "hours_open": 842.0,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1791499461,
-   "company": "Sierra Nevada Corporation",
-   "hours_open": 47.7,
-   "title": "Software Engineer 1",
-   "uid": "simplify:listings:6d98507e-f9d3-4151-8068-c847abca4557"
-  },
-  {
-   "closed_at": 1791499461,
-   "company": "CGI",
-   "hours_open": 725.6,
-   "title": "Conseiller en audit de cybersécurité",
-   "uid": "jobillico:analyste cybersecurite:17433750"
-  },
-  {
-   "closed_at": 1791499461,
-   "company": "Amazon",
-   "hours_open": 237.3,
-   "title": " Software Development Engineer, AWS OpenSearch",
-   "uid": "amazon:amazon:10563049"
-  },
-  {
-   "closed_at": 1791499461,
-   "company": "Amazon",
-   "hours_open": 143.2,
-   "title": "Software Development Engineer, EC2 Nitro Networking",
-   "uid": "amazon:amazon:10568419"
-  },
-  {
-   "closed_at": 1791499461,
-   "company": "Amazon",
-   "hours_open": 15.6,
-   "title": "Software Development Engineer, Robotics Development and Packaging Innovation",
-   "uid": "amazon:amazon:10572918"
-  },
-  {
-   "closed_at": 1791499461,
-   "company": "Amazon",
-   "hours_open": 148.4,
-   "title": "Software Development Engineer Intern (Embedded Systems) - Summer 2027 (USA)",
-   "uid": "amazon:amazon:10567914"
-  },
-  {
    "closed_at": 1791499461,
    "company": "Source Code",
    "hours_open": 21.6,
@@ -5599,8 +5515,92 @@
    "hours_open": 960.9,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1791924455,
+   "company": "discord",
+   "hours_open": 528.5,
+   "title": "Software Engineer, Safety Processing",
+   "uid": "greenhouse:discord:8823881002"
+  },
+  {
+   "closed_at": 1791924455,
+   "company": "Groupe DCM",
+   "hours_open": 615.9,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534679"
+  },
+  {
+   "closed_at": 1791924455,
+   "company": "sierraspace",
+   "hours_open": 133.2,
+   "title": "Thermal Analysis Engineer I",
+   "uid": "workday:sierraspace.wd1/Sierra_Space_External_Career_Site:Thermal-Analysis-Engineer-I_R26353"
+  },
+  {
+   "closed_at": 1791924455,
+   "company": "selinc",
+   "hours_open": 21.5,
+   "title": "Associate Engineer- Automation",
+   "uid": "workday:selinc.wd1/SEL:Senior-Automation-Engineer_2025-17812"
+  },
+  {
+   "closed_at": 1791924455,
+   "company": "selinc",
+   "hours_open": 21.5,
+   "title": "Associate Software Engineer- Go, Typescript, C#",
+   "uid": "workday:selinc.wd1/SEL:Associate-Software-Engineer--Go--Typescript--C-_2026-23482"
+  },
+  {
+   "closed_at": 1791924455,
+   "company": "doordashusa",
+   "hours_open": 962.1,
+   "title": "Software Engineer, Data and AI Platform",
+   "uid": "greenhouse:doordashusa:8171620"
+  },
+  {
+   "closed_at": 1791924455,
+   "company": "twitch",
+   "hours_open": 960.9,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1791924455,
+   "company": "doordashusa",
+   "hours_open": 962.1,
+   "title": "Software Engineer, Spark Platform",
+   "uid": "greenhouse:doordashusa:8044370"
+  },
+  {
+   "closed_at": 1791924455,
+   "company": "doordashusa",
+   "hours_open": 962.1,
+   "title": "Software Engineer, Data Platform (All Teams)",
+   "uid": "greenhouse:doordashusa:7577073"
+  },
+  {
+   "closed_at": 1791924455,
+   "company": "Forward Insurance Managers Ltd.",
+   "hours_open": 646.5,
+   "title": "Web programmer",
+   "uid": "jobbank:junior programmer:50303075"
+  },
+  {
+   "closed_at": 1791924455,
+   "company": "spacex",
+   "hours_open": 507.9,
+   "title": "Facilities Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8831439002"
+  },
+  {
+   "closed_at": 1791924455,
+   "company": "spacex",
+   "hours_open": 963.8,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
   }
  ],
- "count": 823,
- "updated_at": 1791920078
+ "count": 812,
+ "updated_at": 1791924456
 }
