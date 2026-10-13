@@ -1,41 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1791408573,
-   "company": "AbbVie",
-   "hours_open": 19.2,
-   "title": "Associate Engineer, Quality Systems",
-   "uid": "smartrecruiters:AbbVie:3743990015920416"
-  },
-  {
-   "closed_at": 1791408573,
-   "company": "spacex",
-   "hours_open": 817.6,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1791408573,
-   "company": "spacex",
-   "hours_open": 820.3,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1791408573,
-   "company": "spacex",
-   "hours_open": 820.5,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1791417211,
-   "company": "EquipmentShare",
-   "hours_open": 21.6,
-   "title": "Software Engineer 1",
-   "uid": "simplify:listings:ca291eaf-69cd-4a1c-91c7-dcc20bc50b33"
-  },
-  {
    "closed_at": 1791417211,
    "company": "coinbase",
    "hours_open": 148.0,
@@ -5599,8 +5564,43 @@
    "hours_open": 266.7,
    "title": "Autonomy Integration Software Engineer",
    "uid": "ashby:applied:5db42c47-dde8-44d6-9a93-5bcd83a829c7"
+  },
+  {
+   "closed_at": 1791854165,
+   "company": "ibotta",
+   "hours_open": 71.0,
+   "title": "IT Systems Administrator",
+   "uid": "ashby:ibotta:6c0ea74b-f008-4e21-b5aa-56b772625731"
+  },
+  {
+   "closed_at": 1791854165,
+   "company": "Lancesoft",
+   "hours_open": 58.2,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50449327"
+  },
+  {
+   "closed_at": 1791854165,
+   "company": "Groupe DCM",
+   "hours_open": 590.2,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534670"
+  },
+  {
+   "closed_at": 1791854165,
+   "company": "cloudflare",
+   "hours_open": 145.9,
+   "title": "People Team: Software Engineer Intern (Winter/Spring 2027)",
+   "uid": "greenhouse:cloudflare:7774167"
+  },
+  {
+   "closed_at": 1791854165,
+   "company": "spacex",
+   "hours_open": 941.4,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
   }
  ],
- "count": 803,
- "updated_at": 1791849194
+ "count": 805,
+ "updated_at": 1791854166
 }
