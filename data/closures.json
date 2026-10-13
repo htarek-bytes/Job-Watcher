@@ -1,139 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1791444813,
-   "company": "swa",
-   "hours_open": 154.4,
-   "title": "Summer 2027 Cybersecurity Engineer Internship",
-   "uid": "workday:swa.wd1/external:Summer-2027-Cybersecurity-Engineer-Internship_R-2026-73269"
-  },
-  {
-   "closed_at": 1791444813,
-   "company": "swa",
-   "hours_open": 154.4,
-   "title": "Summer 2027 Data Engineer Internship",
-   "uid": "workday:swa.wd1/external:Summer-2027-Data-Engineer-Internship_R-2026-73271"
-  },
-  {
-   "closed_at": 1791444813,
-   "company": "swa",
-   "hours_open": 154.4,
-   "title": "Summer 2027 Software Engineer Internship",
-   "uid": "workday:swa.wd1/external:Summer-2027-Software-Engineer-Internship_R-2026-73270"
-  },
-  {
-   "closed_at": 1791444813,
-   "company": "salesforce",
-   "hours_open": 126.1,
-   "title": "Business Development Associate (Early Career)",
-   "uid": "workday:salesforce.wd12/External_Career_Site:Business-Development-Associate--Early-Career-_JR340479-1"
-  },
-  {
-   "closed_at": 1791444813,
-   "company": "rockwellautomation",
-   "hours_open": 293.5,
-   "title": "Intern, AI Software Engineering (June-August 2027)",
-   "uid": "workday:rockwellautomation.wd1/External_Rockwell_Automation:Intern--AI-Software-Engineering--June-August-2027-_R26-6980-1"
-  },
-  {
-   "closed_at": 1791444813,
-   "company": "rockwellautomation",
-   "hours_open": 293.5,
-   "title": "Co-op, AI Software Engineering (6-8 months)",
-   "uid": "workday:rockwellautomation.wd1/External_Rockwell_Automation:Co-op--AI-Software-Engineering--6-8-months-_R26-6982-1"
-  },
-  {
-   "closed_at": 1791457838,
-   "company": "robinhood",
-   "hours_open": 26.3,
-   "title": "Software Engineer, Web3 Backend",
-   "uid": "greenhouse:robinhood:8258307"
-  },
-  {
-   "closed_at": 1791457838,
-   "company": "OneImaging",
-   "hours_open": 220.6,
-   "title": "Full Stack Associate Software Engineer",
-   "uid": "simplify:listings:7443e2ee-d487-4319-a352-cc1779444a7f"
-  },
-  {
-   "closed_at": 1791457838,
-   "company": "usc",
-   "hours_open": 661.9,
-   "title": "Programmer Analyst I",
-   "uid": "workday:usc.wd5/ExternalUSCCareers:Programmer-Analyst-I_REQ20180180"
-  },
-  {
-   "closed_at": 1791457838,
-   "company": "Hi-Tech Solution",
-   "hours_open": 18.8,
-   "title": "telecommunications service tester",
-   "uid": "jobbank:telecommunications analyst:49955305"
-  },
-  {
-   "closed_at": 1791457838,
-   "company": "allen-control-systems",
-   "hours_open": 831.3,
-   "title": "Business Systems Analyst",
-   "uid": "ashby:allen-control-systems:c56f0812-40e8-4db0-a820-26e02ed1882e"
-  },
-  {
-   "closed_at": 1791470133,
-   "company": "Chalk",
-   "hours_open": 10.7,
-   "title": "Software Engineer New Grad",
-   "uid": "simplify:listings:30d31584-e527-4263-b462-ed87f955068d"
-  },
-  {
-   "closed_at": 1791470133,
-   "company": "Cooptel",
-   "hours_open": 717.4,
-   "title": "Administrateur réseau",
-   "uid": "jobillico:analyste reseau:17185045"
-  },
-  {
-   "closed_at": 1791470133,
-   "company": "CGI",
-   "hours_open": 717.4,
-   "title": "Conseiller en architecture de cybersécurité",
-   "uid": "jobillico:analyste cybersecurite:17433753"
-  },
-  {
-   "closed_at": 1791470133,
-   "company": "Framestore",
-   "hours_open": 717.4,
-   "title": "IT Support Analyst",
-   "uid": "recruitee:framestore:2535963"
-  },
-  {
-   "closed_at": 1791470133,
-   "company": "Amazon",
-   "hours_open": 205.1,
-   "title": "Software Development Engineer, S3 Storage Cells",
-   "uid": "amazon:amazon:10564562"
-  },
-  {
-   "closed_at": 1791470133,
-   "company": "color-health",
-   "hours_open": 865.7,
-   "title": "Software Engineer, New Grad 2026",
-   "uid": "ashby:color-health:41fa6f16-b2f2-46c6-bdb4-9aae3b9b5b96"
-  },
-  {
-   "closed_at": 1791470133,
-   "company": "katalyst",
-   "hours_open": 837.6,
-   "title": "Embedded Controls Engineer, Spacecraft ",
-   "uid": "greenhouse:katalyst:6102774004"
-  },
-  {
-   "closed_at": 1791470133,
-   "company": "spacex",
-   "hours_open": 837.6,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
    "closed_at": 1791470133,
    "company": "spacekinetic",
    "hours_open": 567.2,
@@ -5599,8 +5466,141 @@
    "hours_open": 959.1,
    "title": "Security Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1791911493,
+   "company": "jabil",
+   "hours_open": 22.2,
+   "title": "Project Engineer I",
+   "uid": "workday:jabil.wd5/Jabil_Careers:Project-Engineer-I_J2460043-1"
+  },
+  {
+   "closed_at": 1791911493,
+   "company": "globalhr",
+   "hours_open": 22.2,
+   "title": "Software Engineering Intern (Summer 2027)",
+   "uid": "workday:globalhr.wd5/Private_Posting_No_TMP:Software-Engineering-Intern--Summer-2027-_01881524"
+  },
+  {
+   "closed_at": 1791911493,
+   "company": "globalhr",
+   "hours_open": 22.2,
+   "title": "Compression Systems Engineering - Structures Engineer Intern (Summer 2027)(Hybrid)",
+   "uid": "workday:globalhr.wd5/Private_Posting_No_TMP:Compression-Systems-Engineering---Structures-Engineer-Intern--Summer-2027--Hybrid-_01881393"
+  },
+  {
+   "closed_at": 1791911493,
+   "company": "Upstaff",
+   "hours_open": 106.8,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50458386"
+  },
+  {
+   "closed_at": 1791911493,
+   "company": "Groupe DCM",
+   "hours_open": 606.1,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534670"
+  },
+  {
+   "closed_at": 1791911493,
+   "company": "jci",
+   "hours_open": 90.2,
+   "title": "Software Engineering Co-Op",
+   "uid": "workday:jci.wd5/JCI:Software-Engineering-Co-Op_EB00075408"
+  },
+  {
+   "closed_at": 1791911493,
+   "company": "hp",
+   "hours_open": 112.5,
+   "title": "Presales Technical Consultant",
+   "uid": "workday:hp.wd5/externalcareersite:Presales-Technical-Consultant_3168178-1"
+  },
+  {
+   "closed_at": 1791911493,
+   "company": "highmarkhealth",
+   "hours_open": 22.2,
+   "title": "Associate Software Engineer",
+   "uid": "workday:highmarkhealth.wd1/highmark:Associate-Software-Engineer_J288021-1"
+  },
+  {
+   "closed_at": 1791911493,
+   "company": "gevernova",
+   "hours_open": 274.4,
+   "title": "GE Vernova Cyber UX Controls Engineer-1",
+   "uid": "workday:gevernova.wd5/vernova_externalsite:GE-Vernova-Cyber-UX-Controls-Engineer-1_R5054301-2"
+  },
+  {
+   "closed_at": 1791911493,
+   "company": "icf",
+   "hours_open": 320.7,
+   "title": "2027 Summer Intern, AI Engineer (Reston, VA)",
+   "uid": "workday:icf.wd5/icfexternal_career_site:XMLNAME-2027-Summer-Intern--AI-Engineer--Reston--VA-_R2603312-1"
+  },
+  {
+   "closed_at": 1791911493,
+   "company": "hntb",
+   "hours_open": 152.2,
+   "title": "New Grad Engineer I: Rail & Transit – Summer 2027",
+   "uid": "workday:hntb.wd5/hntb_careers:New-Grad-Engineer-I--Rail---Transit---Summer-2027_R-31631-1"
+  },
+  {
+   "closed_at": 1791911493,
+   "company": "Amazon",
+   "hours_open": 171.6,
+   "title": "Embedded Software Dev Engineer, Ring",
+   "uid": "amazon:amazon:10570289"
+  },
+  {
+   "closed_at": 1791911493,
+   "company": "Amazon",
+   "hours_open": 285.3,
+   "title": "Software Development Engineer, AWS Transactional Services",
+   "uid": "amazon:amazon:10566956"
+  },
+  {
+   "closed_at": 1791911493,
+   "company": "twitch",
+   "hours_open": 957.3,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1791911493,
+   "company": "gotion",
+   "hours_open": 979.2,
+   "title": "Junior Equipment Engineer",
+   "uid": "greenhouse:gotion:8483954002"
+  },
+  {
+   "closed_at": 1791911493,
+   "company": "doordashusa",
+   "hours_open": 958.5,
+   "title": "Software Engineer, Backend (All Teams)",
+   "uid": "greenhouse:doordashusa:5630445"
+  },
+  {
+   "closed_at": 1791911493,
+   "company": "Lakeland Roman Catholic Separate School Division",
+   "hours_open": 840.0,
+   "title": "computer systems analyst",
+   "uid": "jobbank:systems analyst:50064831"
+  },
+  {
+   "closed_at": 1791911493,
+   "company": "Quad Tech Solutions Inc.",
+   "hours_open": 144.8,
+   "title": "telecommunications engineer",
+   "uid": "jobbank:telecommunications analyst:50368593"
+  },
+  {
+   "closed_at": 1791911493,
+   "company": "spacex",
+   "hours_open": 305.5,
+   "title": "Development Test Engineer (Starshield)",
+   "uid": "greenhouse:spacex:8859502002"
   }
  ],
- "count": 812,
- "updated_at": 1791907435
+ "count": 819,
+ "updated_at": 1791911493
 }
