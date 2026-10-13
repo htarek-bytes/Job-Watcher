@@ -1,90 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1791444372,
-   "company": "nationwide",
-   "hours_open": 60.8,
-   "title": "Engineer, Software Engineer (Post Issue Optimization) - Java, Angular, and AWS - Entry Level",
-   "uid": "workday:nationwide.wd1/Nationwide_Career:Engineer--Software-Engineer--Post-Issue-Optimization----Java--Angular--and-AWS---Entry-Level_100567"
-  },
-  {
-   "closed_at": 1791444372,
-   "company": "pae",
-   "hours_open": 17.5,
-   "title": "Engineer 1",
-   "uid": "workday:pae.wd1/amentum_careers:Engineer-1_R0172195"
-  },
-  {
-   "closed_at": 1791444372,
-   "company": "philips",
-   "hours_open": 825.4,
-   "title": "Co-op – Software Engineer (R&D) – Cambridge, MA – January - August 2027",
-   "uid": "workday:philips.wd3/jobs-and-careers:Co-op---Software-Engineer--R-D----Cambridge--MA---January---August-2027_588891"
-  },
-  {
-   "closed_at": 1791444372,
-   "company": "philips",
-   "hours_open": 825.4,
-   "title": "Co-op – Software Engineering (APM) - Cambridge, MA - Jan - Aug 2027",
-   "uid": "workday:philips.wd3/jobs-and-careers:Co-op---Software-Engineering--APM----Cambridge--MA---Jan---Aug-2027_590097"
-  },
-  {
-   "closed_at": 1791444372,
-   "company": "nvidia",
-   "hours_open": 536.4,
-   "title": "ASIC Design Verification Engineer - New College Grad 2026",
-   "uid": "workday:nvidia.wd5/NVIDIAExternalCareerSite:ASIC-Design-Verification-Engineer---New-College-Grad-2026_JR2010391"
-  },
-  {
-   "closed_at": 1791444372,
-   "company": "nidec",
-   "hours_open": 851.8,
-   "title": "Hardware Electronics Engineer I",
-   "uid": "workday:nidec.wd1/nidec:Hardware-Electronics-Engineer-I_R0014784"
-  },
-  {
-   "closed_at": 1791444372,
-   "company": "NVIDIA",
-   "hours_open": 176.8,
-   "title": "System Design Engineer – New College Grad 2026",
-   "uid": "simplify:listings:7fb2f96e-3662-4a02-a0c2-e7bbd2663ce9"
-  },
-  {
-   "closed_at": 1791444813,
-   "company": "salesforce",
-   "hours_open": 314.7,
-   "title": "Software Engineering AMTS (College Grad)",
-   "uid": "workday:salesforce.wd12/External_Career_Site:Software-Engineering-AMTS--College-Grad-_JR355250-1"
-  },
-  {
-   "closed_at": 1791444813,
-   "company": "td",
-   "hours_open": 15.7,
-   "title": "Software Engineer I",
-   "uid": "workday:td.wd3/TD_Bank_Careers:Software-Engineer-I_R_1514704-1"
-  },
-  {
-   "closed_at": 1791444813,
-   "company": "Cooptel",
-   "hours_open": 710.4,
-   "title": "Administrateur réseau",
-   "uid": "jobillico:analyste reseau:17185045"
-  },
-  {
-   "closed_at": 1791444813,
-   "company": "sunlife",
-   "hours_open": 154.4,
-   "title": "Student, Associate Software Engineer (Winter 2027)",
-   "uid": "workday:sunlife.wd3/Campus:Student--Associate-Software-Engineer--Winter-2027-_JR00128318"
-  },
-  {
-   "closed_at": 1791444813,
-   "company": "swa",
-   "hours_open": 154.4,
-   "title": "Summer 2027 Technology Analyst Internship",
-   "uid": "workday:swa.wd1/external:Summer-2027-Technology-Analyst-Internship_R-2026-73268"
-  },
-  {
    "closed_at": 1791444813,
    "company": "swa",
    "hours_open": 154.4,
@@ -5599,8 +5515,92 @@
    "hours_open": 956.7,
    "title": "Photonic Layout Engineer",
    "uid": "greenhouse:ionq:6161104004"
+  },
+  {
+   "closed_at": 1791907434,
+   "company": "Farm Credit Canada",
+   "hours_open": 0.7,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50451696"
+  },
+  {
+   "closed_at": 1791907434,
+   "company": "Great Lakes Group",
+   "hours_open": 43.6,
+   "title": "electrical controls engineer",
+   "uid": "jobbank:control systems analyst:50464497"
+  },
+  {
+   "closed_at": 1791907434,
+   "company": "G Square Builders Ltd.",
+   "hours_open": 284.2,
+   "title": "Web developer",
+   "uid": "jobbank:developpeur junior:50392767"
+  },
+  {
+   "closed_at": 1791907434,
+   "company": "fis",
+   "hours_open": 481.3,
+   "title": "HPNS/ Tandem Junior Engineer",
+   "uid": "workday:fis.wd5/searchjobs:HPNS-Engineer-Sr-Lead--Software_JR0308900"
+  },
+  {
+   "closed_at": 1791907434,
+   "company": "dxctechnology",
+   "hours_open": 578.8,
+   "title": "Junior Java Developer (Mandarin)",
+   "uid": "workday:dxctechnology.wd1/dxcjobs:Junior-Java-Developer--Mandarin-_51584524"
+  },
+  {
+   "closed_at": 1791907434,
+   "company": "CesiumAstro",
+   "hours_open": 448.6,
+   "title": "FPGA Engineer 1",
+   "uid": "simplify:listings:b7c09e6c-300b-44d7-979c-ffb2447b3c5b"
+  },
+  {
+   "closed_at": 1791907434,
+   "company": "Amazon",
+   "hours_open": 261.7,
+   "title": "Software Development Engineer, Conversational Ads Experience",
+   "uid": "amazon:amazon:10567987"
+  },
+  {
+   "closed_at": 1791907434,
+   "company": "twitch",
+   "hours_open": 959.1,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1791907434,
+   "company": "Arya Health",
+   "hours_open": 977.0,
+   "title": "software development programmer",
+   "uid": "jobbank:junior programmer:50148592"
+  },
+  {
+   "closed_at": 1791907434,
+   "company": "dexcom",
+   "hours_open": 977.0,
+   "title": "Software Development Engineer 1",
+   "uid": "workday:dexcom.wd1/Dexcom:Software-Development-Engineer-1_JR120540"
+  },
+  {
+   "closed_at": 1791907434,
+   "company": "RTX",
+   "hours_open": 304.9,
+   "title": "Software Engineer/Developer 1",
+   "uid": "simplify:listings:da5add3d-df09-436a-b370-0fae4cb326df"
+  },
+  {
+   "closed_at": 1791907434,
+   "company": "spacex",
+   "hours_open": 959.1,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
   }
  ],
- "count": 818,
- "updated_at": 1791905034
+ "count": 812,
+ "updated_at": 1791907435
 }

@@ -1,5 +1,5 @@
 {
- "count": 7917,
+ "count": 7924,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -4176,6 +4176,7 @@
   "jobbank:junior programmer:50460922": 1791563644,
   "jobbank:junior programmer:50462056": 1791572271,
   "jobbank:junior programmer:50483827": 1791905032,
+  "jobbank:junior programmer:50484857": 1791907434,
   "jobbank:junior software developer:49875004": 1788390279,
   "jobbank:junior software developer:50080344": 1788390279,
   "jobbank:junior software developer:50096282": 1788390279,
@@ -4345,6 +4346,7 @@
   "jobbank:programmeur junior:50257748": 1790378233,
   "jobbank:programmeur junior:50257800": 1789854047,
   "jobbank:programmeur junior:50376038": 1791552626,
+  "jobbank:programmeur junior:50392767": 1791907434,
   "jobbank:programmeur junior:50406045": 1790946893,
   "jobbank:programmeur junior:50409587": 1790954029,
   "jobbank:programmeur junior:50461474": 1791877817,
@@ -5773,6 +5775,7 @@
   "simplify:listings:c58e3a3d-ab52-4b49-a119-97d65df470fb": 1788322770,
   "simplify:listings:c5d7115a-0381-48fe-937d-74497a7da062": 1788322770,
   "simplify:listings:c5ebc0c0-8869-4687-9766-de50225f915b": 1788460756,
+  "simplify:listings:c5f0ccae-5750-4c3e-9954-d45d8150a0a2": 1791907434,
   "simplify:listings:c6805667-f7a7-4da9-b10c-bc3a3281ac5c": 1788322770,
   "simplify:listings:c682a2d9-a140-4b5a-a543-aa0c5b3f1e01": 1788465250,
   "simplify:listings:c697da4f-8723-4870-a672-483d6fa92afa": 1791268590,
@@ -6915,6 +6918,7 @@
   "workday:clearwateranalytics.wd1/Clearwater_Analytics_Careers:Quantitative-Developer-I_R12180": 1790123242,
   "workday:clearwateranalytics.wd1/Clearwater_Analytics_Careers:Software-Development-Engineer-I_R12047": 1788390279,
   "workday:clearwateranalytics.wd1/Clearwater_Analytics_Careers:Software-Development-Engineer-I_R12059": 1788460756,
+  "workday:cni.wd503/CNI:Engineer-I_R9657": 1791907434,
   "workday:cni.wd503/CNI:Junior-Security-Analyst_R9489": 1789417897,
   "workday:costar.wd1/CoStarCareers:Matterport---Software-Engineer-I_R39503": 1789089172,
   "workday:costar.wd1/Costar_Campus:Associate-Software-Engineer---Arlington--VA_R39668": 1789417897,
@@ -6944,6 +6948,7 @@
   "workday:daikinapplied.wd1/Pre-Selected_Candidate_Site:Test-Engineer-I_R003050": 1788898936,
   "workday:deluxe.wd5/USA_CAN:Software-Engineer---Intern_261115WD": 1788898936,
   "workday:dexcom.wd1/Dexcom:SW-Development-Engineer-1_JR121067": 1789594041,
+  "workday:dexcom.wd1/Dexcom:SW-Development-Engineer-1_JR121427": 1791907434,
   "workday:dexcom.wd1/Dexcom:Software-Development-Engineer-1_JR120540": 1788390279,
   "workday:dimensional.wd5/dfa_careers:Internship-in-Technology---Software-Engineer_2026-9022": 1788880168,
   "workday:disney.wd5/disneycareer:Product-Software-Engineer-I_10157015": 1790809838,
@@ -6956,11 +6961,13 @@
   "workday:draftkings.wd1/Campus_Career_Portal:Software-Engineer-Intern--Summer-2027-_JR14929": 1788947734,
   "workday:draper.wd5/Draper_Careers:Co-Op-Student-Engineering_JR002974": 1791431778,
   "workday:dtna.wd5/dtna_affiliate:Applied-AI-Engineer-I_DT-19739-1": 1790039053,
+  "workday:dtna.wd5/dtna_affiliate:Autonomous-System-Test-Engineer-I_DT-20154-1": 1791907434,
   "workday:dtna.wd5/dtna_affiliate:Cab-Wiring-Engineer-I_DT-19764-1": 1790123242,
   "workday:dtna.wd5/dtna_affiliate:Integration-and-Coordination-Engineer-I_DT-19590-2": 1789135501,
   "workday:dtna.wd5/dtna_affiliate:Manufacturing-Systems-Engineer---Advanced-Manufacturing---AI-I_DT-19263": 1790383779,
   "workday:duboischemicals.wd1/external:Analytical-Scientist-I---Applications-Engineer-I_R103383": 1791293986,
   "workday:dxctechnology.wd1/dxcjobs:Junior-Java-Developer--Mandarin-_51584524": 1789823880,
+  "workday:dxctechnology.wd1/dxcjobs:Junior-Java-Developer--Mandarin-_51591599": 1791907434,
   "workday:dxctechnology.wd1/dxcjobs:Junior-Java-Developer_51584530": 1789823880,
   "workday:ebi.wd5/ebadcareers:Product-Engineer-Intern_REQ107697": 1789510394,
   "workday:ebi.wd5/ebicareers:Product-Engineer-Intern_REQ107697-1": 1790641647,
@@ -7919,5 +7926,5 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148,
   "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541": 1789106107
  },
- "updated_at": 1791905034
+ "updated_at": 1791907435
 }
