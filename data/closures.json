@@ -2,41 +2,6 @@
  "closed": [
   {
    "closed_at": 1791417211,
-   "company": "Umano Medical",
-   "hours_open": 702.7,
-   "title": "Concepteur logiciel embarqué et cybersécurité",
-   "uid": "jobillico:analyste cybersecurite:17489580"
-  },
-  {
-   "closed_at": 1791417211,
-   "company": "Cooptel",
-   "hours_open": 702.7,
-   "title": "Administrateur réseau",
-   "uid": "jobillico:analyste reseau:17185045"
-  },
-  {
-   "closed_at": 1791417211,
-   "company": "Protech Group",
-   "hours_open": 623.7,
-   "title": "Junior Application Developer - Database Orientation",
-   "uid": "simplify:listings:7cb90b67-c1af-4e1f-a9a9-e50dc88da299"
-  },
-  {
-   "closed_at": 1791417211,
-   "company": "ServiceNow",
-   "hours_open": 106.4,
-   "title": "Software Engineer, Core Infrastructure - Moveworks (New Grad)",
-   "uid": "smartrecruiters:ServiceNow:744000153279380"
-  },
-  {
-   "closed_at": 1791417211,
-   "company": "Jobs for Humanity",
-   "hours_open": 314.0,
-   "title": "Junior Cybersecurity Engineer",
-   "uid": "smartrecruiters:JobsForHumanity:744000151641432"
-  },
-  {
-   "closed_at": 1791417211,
    "company": "Sutherland",
    "hours_open": 465.5,
    "title": "Facilities Engineer (entry level) - Pili CamSur",
@@ -5599,8 +5564,43 @@
    "hours_open": 7.6,
    "title": "information technology (IT) analyst",
    "uid": "jobbank:control systems analyst:50476529"
+  },
+  {
+   "closed_at": 1791859140,
+   "company": "Source Code",
+   "hours_open": 147.6,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:systems analyst:50440640"
+  },
+  {
+   "closed_at": 1791859140,
+   "company": "didi",
+   "hours_open": 944.0,
+   "title": "Software Engineer, Map Fusion & Planning",
+   "uid": "greenhouse:didi:8131864"
+  },
+  {
+   "closed_at": 1791859140,
+   "company": "Cadence Design Systems",
+   "hours_open": 982.3,
+   "title": "Application Software Developer New Grad",
+   "uid": "simplify:listings:cfeb11b9-ce3a-4296-9dba-69307b8df18d"
+  },
+  {
+   "closed_at": 1791859140,
+   "company": "Quad Tech Solutions Inc.",
+   "hours_open": 130.2,
+   "title": "telecommunications engineer",
+   "uid": "jobbank:telecommunications analyst:50368593"
+  },
+  {
+   "closed_at": 1791859140,
+   "company": "spacex",
+   "hours_open": 945.7,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
   }
  ],
- "count": 804,
- "updated_at": 1791854635
+ "count": 805,
+ "updated_at": 1791859141
 }
