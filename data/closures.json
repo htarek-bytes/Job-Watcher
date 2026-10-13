@@ -1,167 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1791482043,
-   "company": "doordashusa",
-   "hours_open": 839.2,
-   "title": "Software Engineer, Machine Learning Infrastructure - Generative AI",
-   "uid": "greenhouse:doordashusa:8013249"
-  },
-  {
-   "closed_at": 1791482043,
-   "company": "shieldai",
-   "hours_open": 838.0,
-   "title": "Applications Engineer, Learning & Development- Open Level (R5053)",
-   "uid": "lever:shieldai:ca142049-83c4-40bf-9522-3e323d4c3672"
-  },
-  {
-   "closed_at": 1791482043,
-   "company": "NXP Semiconductors",
-   "hours_open": 877.6,
-   "title": "Systems & Applications Engineer - Entry Level",
-   "uid": "simplify:listings:93e23ebc-4de9-4648-9968-98e302f94a59"
-  },
-  {
-   "closed_at": 1791482043,
-   "company": "RTX",
-   "hours_open": 178.2,
-   "title": "Embedded Software Engineer 1",
-   "uid": "simplify:listings:9bea948d-dffb-4340-aa5a-3a7fa7ddd92e"
-  },
-  {
-   "closed_at": 1791482043,
-   "company": "accenturefederalservices",
-   "hours_open": 552.6,
-   "title": "F5 Network Engineer",
-   "uid": "greenhouse:accenturefederalservices:4712815006"
-  },
-  {
-   "closed_at": 1791482043,
-   "company": "spacex",
-   "hours_open": 838.0,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1791490059,
-   "company": "sharkninjaoperatingllc",
-   "hours_open": 65.1,
-   "title": "Product Safety & Compliance Engineer",
-   "uid": "greenhouse:sharkninjaoperatingllc:4718808006"
-  },
-  {
-   "closed_at": 1791490059,
-   "company": "alayacare",
-   "hours_open": 696.0,
-   "title": "Fullstack Developer (Python/React/AWS) - Data Team",
-   "uid": "greenhouse:alayacare:8790712002"
-  },
-  {
-   "closed_at": 1791490059,
-   "company": "nerdio-careers",
-   "hours_open": 622.4,
-   "title": "Solutions Engineer (Early Career)",
-   "uid": "rippling:nerdio-careers:0b82e6f3-fd54-40d7-996a-ca02b4c67f67"
-  },
-  {
-   "closed_at": 1791490059,
-   "company": "zoox",
-   "hours_open": 840.2,
-   "title": "Machine Learning Engineer - Behavior Models for Road Users",
-   "uid": "lever:zoox:d736debf-c361-4a7c-81fd-6c3125ab03c0"
-  },
-  {
-   "closed_at": 1791490059,
-   "company": "asana",
-   "hours_open": 843.2,
-   "title": "Software Engineer",
-   "uid": "greenhouse:asana:7961475"
-  },
-  {
-   "closed_at": 1791490059,
-   "company": "Nerdio",
-   "hours_open": 628.4,
-   "title": "Solutions Engineer - Early Career",
-   "uid": "simplify:listings:5f62b02a-d87f-4a82-9762-6fdf7588a8f1"
-  },
-  {
-   "closed_at": 1791490059,
-   "company": "Micron Technology",
-   "hours_open": 879.8,
-   "title": "AI Innovation Research Engineer New Grad",
-   "uid": "simplify:listings:883f115b-b0ad-4eae-8a80-2bbf523964d4"
-  },
-  {
-   "closed_at": 1791490059,
-   "company": "Princeton IT Services Inc",
-   "hours_open": 861.0,
-   "title": "software development programmer",
-   "uid": "jobbank:junior programmer:50092595"
-  },
-  {
-   "closed_at": 1791490059,
-   "company": "spacex",
-   "hours_open": 843.2,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1791490059,
-   "company": "spacex",
-   "hours_open": 841.5,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1791490199,
-   "company": "NielsenIQ",
-   "hours_open": 163.2,
-   "title": "Associate Software Engineer",
-   "uid": "smartrecruiters:NielsenIQ:744000152930140"
-  },
-  {
-   "closed_at": 1791490199,
-   "company": "Belle Graphics Inc.",
-   "hours_open": 27.7,
-   "title": "installation and repair technician - telecommunications",
-   "uid": "jobbank:telecommunications analyst:50200449"
-  },
-  {
-   "closed_at": 1791490638,
-   "company": "Source Code",
-   "hours_open": 45.3,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:systems analyst:50440640"
-  },
-  {
-   "closed_at": 1791490638,
-   "company": "Sopra Steria",
-   "hours_open": 60.4,
-   "title": "Network Engineer [26168]",
-   "uid": "smartrecruiters:SopraSteria1:744000153536657"
-  },
-  {
-   "closed_at": 1791490638,
-   "company": "City of Calgary",
-   "hours_open": 58.2,
-   "title": "business systems analyst",
-   "uid": "jobbank:infrastructure analyst:50435470"
-  },
-  {
-   "closed_at": 1791490638,
-   "company": "spacex",
-   "hours_open": 840.4,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1791490638,
-   "company": "spacex",
-   "hours_open": 843.3,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
    "closed_at": 1791491812,
    "company": "Validus Risk Management",
    "hours_open": 836.7,
@@ -5599,8 +5438,169 @@
    "hours_open": 452.4,
    "title": "Robotics Software Engineer",
    "uid": "greenhouse:andurilindustries:5248679007"
+  },
+  {
+   "closed_at": 1791920076,
+   "company": "CGI",
+   "hours_open": 842.4,
+   "title": "Conseiller(ère) en architecture de cybersécurité",
+   "uid": "jobillico:analyste cybersecurite:17433753"
+  },
+  {
+   "closed_at": 1791920076,
+   "company": "sharkninjaoperatingllc",
+   "hours_open": 486.9,
+   "title": "Product Developer",
+   "uid": "greenhouse:sharkninjaoperatingllc:4713791006"
+  },
+  {
+   "closed_at": 1791920076,
+   "company": "Dexcom",
+   "hours_open": 3.5,
+   "title": "Software Development Engineer 1",
+   "uid": "simplify:listings:c5f0ccae-5750-4c3e-9954-d45d8150a0a2"
+  },
+  {
+   "closed_at": 1791920076,
+   "company": "CANMEC",
+   "hours_open": 102.1,
+   "title": "Nous agrandissons l'équipe ON RECRUTE Technicien informatique",
+   "uid": "jobillico:technicien informatique:17600094"
+  },
+  {
+   "closed_at": 1791920076,
+   "company": "Groupe DCM",
+   "hours_open": 608.5,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534670"
+  },
+  {
+   "closed_at": 1791920076,
+   "company": "ngc",
+   "hours_open": 92.4,
+   "title": "2027 Intern Engineer - Product Support",
+   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Intern-Engineer---Product-Support_R10255457"
+  },
+  {
+   "closed_at": 1791920076,
+   "company": "ngc",
+   "hours_open": 113.0,
+   "title": "2027-Systems Engineer Intern - McClellan CA",
+   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Systems-Engineer-Intern---McClellan-CA_R10255163"
+  },
+  {
+   "closed_at": 1791920076,
+   "company": "nvidia",
+   "hours_open": 984.0,
+   "title": "Formal Verification Engineer - New College Grad 2026",
+   "uid": "workday:nvidia.wd5/NVIDIAExternalCareerSite:Formal-Verification-Engineer---New-College-Grad-2026_JR2020837"
+  },
+  {
+   "closed_at": 1791920076,
+   "company": "KLA",
+   "hours_open": 308.4,
+   "title": "Software Engineer 1",
+   "uid": "simplify:listings:ab4c9ca3-73cb-48b3-a095-093c436e265e"
+  },
+  {
+   "closed_at": 1791920076,
+   "company": "philips",
+   "hours_open": 354.6,
+   "title": "Intern – Embedded Systems Test Automation Engineer – Bothell, WA – Summer 2027",
+   "uid": "workday:philips.wd3/jobs-and-careers:Intern---Embedded-Systems-Test-Automation-Engineer---Bothell--WA---Summer-2027_592074"
+  },
+  {
+   "closed_at": 1791920076,
+   "company": "psu",
+   "hours_open": 384.5,
+   "title": "Systems Engineer Intern",
+   "uid": "workday:psu.wd1/PSU_Staff:Systems-Engineer-Intern_REQ_0000082601-1"
+  },
+  {
+   "closed_at": 1791920076,
+   "company": "Amazon",
+   "hours_open": 284.0,
+   "title": "Software Development Engineer, ROBOTICS, Early Career - 2027",
+   "uid": "amazon:amazon:10567489"
+  },
+  {
+   "closed_at": 1791920076,
+   "company": "Amazon",
+   "hours_open": 260.0,
+   "title": "Software Development Engineer, Amazon Robotics",
+   "uid": "amazon:amazon:10568411"
+  },
+  {
+   "closed_at": 1791920076,
+   "company": "Amazon",
+   "hours_open": 286.2,
+   "title": "Software Development Engineer, Ads Console Frameworks",
+   "uid": "amazon:amazon:10567389"
+  },
+  {
+   "closed_at": 1791920076,
+   "company": "twitch",
+   "hours_open": 962.6,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1791920076,
+   "company": "sharkninjaoperatingllc",
+   "hours_open": 955.6,
+   "title": "Associate Product Developer - Indoor Heated",
+   "uid": "greenhouse:sharkninjaoperatingllc:4702969006"
+  },
+  {
+   "closed_at": 1791920076,
+   "company": "babelstreet",
+   "hours_open": 960.9,
+   "title": "NLP/Linguistics Software Engineer",
+   "uid": "greenhouse:babelstreet:8008713"
+  },
+  {
+   "closed_at": 1791920076,
+   "company": "Zip",
+   "hours_open": 999.3,
+   "title": "Software Engineer New Grad",
+   "uid": "simplify:listings:cfdb84c0-3b66-4b42-90a5-9189a55f2592"
+  },
+  {
+   "closed_at": 1791920076,
+   "company": "radiancetech",
+   "hours_open": 815.5,
+   "title": "Junior Software Engineer",
+   "uid": "workday:radiancetech.wd12/Radiance_External:Junior-Software-Engineer_HR102399"
+  },
+  {
+   "closed_at": 1791920076,
+   "company": "nvidia",
+   "hours_open": 668.6,
+   "title": "ASIC Design Verification Engineer - New College Grad 2026",
+   "uid": "workday:nvidia.wd5/NVIDIAExternalCareerSite:ASIC-Design-Verification-Engineer---New-College-Grad-2026_JR2010391"
+  },
+  {
+   "closed_at": 1791920076,
+   "company": "spacex",
+   "hours_open": 962.3,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1791920076,
+   "company": "freedomconsulting",
+   "hours_open": 981.6,
+   "title": "Junior Software Engineer 730",
+   "uid": "greenhouse:freedomconsulting:5190737007"
+  },
+  {
+   "closed_at": 1791920076,
+   "company": "spacex",
+   "hours_open": 960.9,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
- "count": 824,
- "updated_at": 1791915113
+ "count": 823,
+ "updated_at": 1791920078
 }
