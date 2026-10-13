@@ -2,69 +2,6 @@
  "closed": [
   {
    "closed_at": 1791505348,
-   "company": "New Track Selfcare",
-   "hours_open": 4.2,
-   "title": "cloud administrator",
-   "uid": "jobbank:cloud administrator:50455232"
-  },
-  {
-   "closed_at": 1791505348,
-   "company": "bmo",
-   "hours_open": 161.9,
-   "title": "Production Support  Analyst",
-   "uid": "workday:bmo.wd3/External:Production-Support--Analyst_R260027517"
-  },
-  {
-   "closed_at": 1791505348,
-   "company": "bmo",
-   "hours_open": 336.3,
-   "title": "AI Engineer, Winter 2027 (Co-op/Internship) - 8 months",
-   "uid": "workday:bmo.wd3/Campus:AI-Engineer--Winter-2027--Co-op-Internship----8-months_R260027622-2"
-  },
-  {
-   "closed_at": 1791505348,
-   "company": "cae",
-   "hours_open": 360.3,
-   "title": "Product Cybersecurity Specialist",
-   "uid": "workday:cae.wd3/career:Product-Cybersecurity-Specialist_123467"
-  },
-  {
-   "closed_at": 1791505348,
-   "company": "boeing",
-   "hours_open": 336.3,
-   "title": "Associate Software Engineer - Developers",
-   "uid": "workday:boeing.wd1/EXTERNAL_CAREERS:Associate-Software-Engineer---Developers_JR2026512427-1"
-  },
-  {
-   "closed_at": 1791505348,
-   "company": "PROS Holdings, Inc.",
-   "hours_open": 552.1,
-   "title": "Software Engineer 1",
-   "uid": "simplify:listings:68797743-f70f-4505-beb0-26014dc59941"
-  },
-  {
-   "closed_at": 1791505348,
-   "company": "chaosindustries",
-   "hours_open": 575.5,
-   "title": "Software Deployment & Integration Engineer",
-   "uid": "greenhouse:chaosindustries:5167211007"
-  },
-  {
-   "closed_at": 1791505348,
-   "company": "altentechnologyusa",
-   "hours_open": 845.7,
-   "title": "Wire Harness Engineer",
-   "uid": "greenhouse:altentechnologyusa:5165292007"
-  },
-  {
-   "closed_at": 1791505348,
-   "company": "boeing",
-   "hours_open": 23.1,
-   "title": "Associate Software Engineer",
-   "uid": "workday:boeing.wd1/EXTERNAL_CAREERS:Associate-Software-Engineer_JR2026524131"
-  },
-  {
-   "closed_at": 1791505348,
    "company": "caci",
    "hours_open": 23.1,
    "title": "Entry Level C# Software Engineer",
@@ -5599,8 +5536,71 @@
    "hours_open": 965.7,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1791934009,
+   "company": "Upstaff",
+   "hours_open": 6.3,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50466144"
+  },
+  {
+   "closed_at": 1791934009,
+   "company": "City of Calgary",
+   "hours_open": 13.7,
+   "title": "software developer",
+   "uid": "jobbank:entry level software developer:50478387"
+  },
+  {
+   "closed_at": 1791934009,
+   "company": "zip",
+   "hours_open": 971.8,
+   "title": "Software Engineer, New Grad (2027 Start)",
+   "uid": "ashby:zip:b5242472-5679-4084-af77-238b6335b792"
+  },
+  {
+   "closed_at": 1791934009,
+   "company": "zip",
+   "hours_open": 941.8,
+   "title": "Software Engineer Intern (Winter 2027)",
+   "uid": "ashby:zip:2bc7327b-1c06-418a-beeb-bec1dd70480e"
+  },
+  {
+   "closed_at": 1791934009,
+   "company": "Amazon",
+   "hours_open": 120.7,
+   "title": "Software Development Engineer, Finance Technology",
+   "uid": "amazon:amazon:10574139"
+  },
+  {
+   "closed_at": 1791934009,
+   "company": "twitch",
+   "hours_open": 963.5,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1791934009,
+   "company": "Source Code",
+   "hours_open": 48.9,
+   "title": "software developer",
+   "uid": "jobbank:entry level software developer:50476398"
+  },
+  {
+   "closed_at": 1791934009,
+   "company": "spacex",
+   "hours_open": 963.5,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1791934009,
+   "company": "spacex",
+   "hours_open": 966.5,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
   }
  ],
- "count": 814,
- "updated_at": 1791931336
+ "count": 809,
+ "updated_at": 1791934011
 }
