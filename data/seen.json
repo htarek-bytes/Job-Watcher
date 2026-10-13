@@ -1,5 +1,5 @@
 {
- "count": 7910,
+ "count": 7917,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -1745,6 +1745,7 @@
   "greenhouse:andurilindustries:5262324007": 1791563644,
   "greenhouse:andurilindustries:5262328007": 1791563644,
   "greenhouse:andurilindustries:5262340007": 1791563644,
+  "greenhouse:andurilindustries:5262513007": 1791905032,
   "greenhouse:andurilindustries:5262583007": 1791580458,
   "greenhouse:anthropic:4982193008": 1788460756,
   "greenhouse:anthropic:5290838008": 1788750148,
@@ -4174,6 +4175,7 @@
   "jobbank:junior programmer:50454780": 1791490059,
   "jobbank:junior programmer:50460922": 1791563644,
   "jobbank:junior programmer:50462056": 1791572271,
+  "jobbank:junior programmer:50483827": 1791905032,
   "jobbank:junior software developer:49875004": 1788390279,
   "jobbank:junior software developer:50080344": 1788390279,
   "jobbank:junior software developer:50096282": 1788390279,
@@ -4282,6 +4284,7 @@
   "jobbank:junior software developer:50434695": 1791268203,
   "jobbank:junior software developer:50449327": 1791644718,
   "jobbank:junior software developer:50450738": 1791443319,
+  "jobbank:junior software developer:50451696": 1791905032,
   "jobbank:junior software developer:50453157": 1791470986,
   "jobbank:junior software developer:50454686": 1791490059,
   "jobbank:junior software developer:50458386": 1791526945,
@@ -6857,6 +6860,8 @@
   "workday:cae.wd3/career:Dveloppeureuse-logiciel-junior---Bancs-d-essais--Rive-Nord-_123921-1": 1791422190,
   "workday:cae.wd3/career:Product-Cybersecurity-Specialist_123467": 1790208212,
   "workday:cae.wd3/career:Software-Developer-Coop_123904": 1791363116,
+  "workday:cai.wd5/computer_aid:Software-Developer-Intern_R8554": 1791905032,
+  "workday:campaignmonitor.wd5/marigold:Associate-Software-Engineer_R2487": 1791905032,
   "workday:campbellsoup.wd5/externalcareers_globalsite:Data-Engineer--DA-AI-Co-Op_Req-65838": 1788435390,
   "workday:campbellsoup.wd5/externalcareers_globalsite:Modeling-and-Visualization-Engineer-Co-Op_Req-65846": 1788435390,
   "workday:canadiantirecorporation.wd3/Enterprise_External_Careers_Site:Analyst--Information-Security-Risk-Reporting_JR163997": 1789594041,
@@ -6875,6 +6880,7 @@
   "workday:cat.wd5/solarturbines:XMLNAME-2027-Entry-Level-Suppler-Technical-Engineer-_R0000383122": 1788368024,
   "workday:cboe.wd1/External_Career_CBOE:Associate-Software-Engineer--Web_R-4582-2": 1791643311,
   "workday:cboe.wd1/External_Career_CBOE:Linux-Engineer-Intern_R-4661": 1791643311,
+  "workday:cboe.wd1/External_Career_CBOE:Software-Engineer-Intern--C---_R-4726": 1791905032,
   "workday:cboe.wd1/External_Career_CBOE:Software-Engineer-Intern_R-4654": 1791643311,
   "workday:cccis.wd1/broadbean_external:Senior-Solutions-Engineer--First-Party-Casualty_0014791": 1789000440,
   "workday:ccf.wd1/ClevelandClinicCareers:New-Grad-RN-Resident---Acute-Care-Telemetry-Unit_341168-1": 1789708733,
@@ -6883,6 +6889,7 @@
   "workday:ccf.wd1/ClevelandClinicCareers:New-Grad-RN-Resident---Internal-Medicine-Telemetry_356937": 1791363116,
   "workday:ccf.wd1/ClevelandClinicCareers:New-Grad-RN-Resident---Med-Surg---Telemetry-Unit_350185": 1789708733,
   "workday:ccf.wd1/ClevelandClinicCareers:New-Grad-RN-Resident---Med-Surg---Telemetry_344169": 1791505232,
+  "workday:ccf.wd1/ClevelandClinicCareers:New-Grad-RN-Resident---Med-Surg-and-Telemetry_352611": 1791905032,
   "workday:ccf.wd1/ClevelandClinicCareers:New-Grad-RN-Resident---Stroke-Telemetry_338764-1": 1789996861,
   "workday:ccf.wd1/ClevelandClinicCareers:New-Grad-RN-Resident---Telemetry-Unit_338311": 1791573491,
   "workday:ccf.wd1/ClevelandClinicCareers:New-Grad-RN-Resident---Telemetry_355738": 1790871711,
@@ -7912,5 +7919,5 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148,
   "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541": 1789106107
  },
- "updated_at": 1791895295
+ "updated_at": 1791905034
 }
