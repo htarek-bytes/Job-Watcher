@@ -1,5 +1,5 @@
 {
- "count": 7900,
+ "count": 7907,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -4070,6 +4070,7 @@
   "jobbank:entry level software developer:50435510": 1791293674,
   "jobbank:entry level software developer:50440834": 1791327638,
   "jobbank:entry level software developer:50476398": 1791758009,
+  "jobbank:entry level software developer:50478387": 1791884727,
   "jobbank:information systems analyst:49969689": 1788887337,
   "jobbank:information systems analyst:50112346": 1788887337,
   "jobbank:information systems analyst:50163724": 1788887337,
@@ -6281,6 +6282,7 @@
   "smartrecruiters:Sutherland:744000149241549": 1789403727,
   "smartrecruiters:Sutherland:744000149246599": 1789403727,
   "smartrecruiters:Sutherland:744000150288779": 1789741525,
+  "smartrecruiters:TBD20261012CrownInnovationsInc:744000152187029": 1791884727,
   "smartrecruiters:TecTammina:87669480": 1788888205,
   "smartrecruiters:TecTammina:87753134": 1788888205,
   "smartrecruiters:TecTammina:87753231": 1788888205,
@@ -6290,6 +6292,7 @@
   "smartrecruiters:Tomra:744000151717579": 1790336783,
   "smartrecruiters:Tomra:744000154134220": 1791417211,
   "smartrecruiters:Tomra:744000154577189": 1791572271,
+  "smartrecruiters:WabashValleyPowerAlliance:744000155018604": 1791884727,
   "smartrecruiters:Wabtec:3743990015038935": 1788416995,
   "smartrecruiters:Wabtec:3743990015096896": 1788756975,
   "smartrecruiters:Wabtec:3743990015357976": 1789694005,
@@ -6310,9 +6313,12 @@
   "smartrecruiters:WesternDigital:744000148418653": 1788976297,
   "smartrecruiters:WesternDigital:744000151754639": 1790336783,
   "smartrecruiters:WesternDigital:744000152261929": 1790628463,
+  "smartrecruiters:WesternDigital:744000155153462": 1791884727,
+  "smartrecruiters:WesternDigital:744000155166490": 1791884727,
   "smartrecruiters:WilliamsRacing:744000146954769": 1788416995,
   "smartrecruiters:WilliamsRacing:744000146955095": 1788416995,
   "smartrecruiters:Wise:744000150462789": 1790116916,
+  "smartrecruiters:Wise:744000155158815": 1791884727,
   "smartrecruiters:dstaff:95663485": 1788794731,
   "smartrecruiters:hootsuite:108734419": 1788454653,
   "smartrecruiters:systemCanadaTechnologies:77497613": 1788889335,
@@ -6336,6 +6342,7 @@
   "workable:alphax:EF08099F74": 1788898936,
   "workable:amax-1:3EC8C52802": 1791572271,
   "workable:amax-1:6EFEFF4B11": 1788454653,
+  "workable:amax-1:9A9081EAEF": 1791884727,
   "workable:amax-1:BFB1EDFAC7": 1788750148,
   "workable:amax-1:FE4BA3799A": 1788408852,
   "workable:arondite:5C5C551ADA": 1788408852,
@@ -7902,5 +7909,5 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148,
   "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541": 1789106107
  },
- "updated_at": 1791879043
+ "updated_at": 1791884730
 }
