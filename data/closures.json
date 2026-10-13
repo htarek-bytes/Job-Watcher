@@ -2,27 +2,6 @@
  "closed": [
   {
    "closed_at": 1791417211,
-   "company": "Sutherland",
-   "hours_open": 465.5,
-   "title": "Facilities Engineer (entry level) - Pili CamSur",
-   "uid": "smartrecruiters:Sutherland:744000150288779"
-  },
-  {
-   "closed_at": 1791417211,
-   "company": "robinhood",
-   "hours_open": 822.9,
-   "title": "Web Engineer",
-   "uid": "greenhouse:robinhood:7543003"
-  },
-  {
-   "closed_at": 1791417211,
-   "company": "IXL Learning",
-   "hours_open": 859.6,
-   "title": "Software Developer New Grad - Integrations",
-   "uid": "simplify:listings:c58e3a3d-ab52-4b49-a119-97d65df470fb"
-  },
-  {
-   "closed_at": 1791417211,
    "company": "Lakeland Roman Catholic Separate School Division",
    "hours_open": 702.7,
    "title": "computer systems analyst",
@@ -5599,8 +5578,29 @@
    "hours_open": 945.7,
    "title": "Security Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1791862757,
+   "company": "Great Lakes Group",
+   "hours_open": 31.1,
+   "title": "electrical controls engineer",
+   "uid": "jobbank:control systems analyst:50464497"
+  },
+  {
+   "closed_at": 1791862757,
+   "company": "Lancesoft",
+   "hours_open": 60.6,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50449327"
+  },
+  {
+   "closed_at": 1791862757,
+   "company": "twitch",
+   "hours_open": 946.7,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
   }
  ],
- "count": 805,
- "updated_at": 1791859141
+ "count": 803,
+ "updated_at": 1791862762
 }
