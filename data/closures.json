@@ -1,83 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1791643311,
-   "company": "spacex",
-   "hours_open": 882.8,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1791643748,
-   "company": "Source Code",
-   "hours_open": 87.8,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:systems analyst:50440640"
-  },
-  {
-   "closed_at": 1791643748,
-   "company": "Groupe DCM",
-   "hours_open": 537.9,
-   "title": "Programmeur CNC / CNC Programmer",
-   "uid": "jobillico:programmeur junior:17534679"
-  },
-  {
-   "closed_at": 1791643748,
-   "company": "globalhr",
-   "hours_open": 77.8,
-   "title": "Software Engineer Co-op (January 2027)",
-   "uid": "workday:globalhr.wd5/rec_rtx_ext_gateway:Software-Engineer-Co-op--January-2027-_01878330"
-  },
-  {
-   "closed_at": 1791643748,
-   "company": "hntb",
-   "hours_open": 77.8,
-   "title": "New Grad Engineer I: Rail & Transit – Summer 2027",
-   "uid": "workday:hntb.wd5/hntb_careers:New-Grad-Engineer-I--Rail---Transit---Summer-2027_R-31631-1"
-  },
-  {
-   "closed_at": 1791643748,
-   "company": "twitch",
-   "hours_open": 885.9,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1791643748,
-   "company": "spacex",
-   "hours_open": 885.9,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1791644718,
-   "company": "CANMEC",
-   "hours_open": 25.6,
-   "title": "Nous agrandissons l'équipe ON RECRUTE Technicien informatique",
-   "uid": "jobillico:technicien informatique:17600094"
-  },
-  {
-   "closed_at": 1791644718,
-   "company": "twitch",
-   "hours_open": 883.2,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1791644718,
-   "company": "medtronic",
-   "hours_open": 55.7,
-   "title": "Software Engineering Intern – Summer 2027",
-   "uid": "workday:medtronic.wd1/MedtronicCareers:Software-Engineering-Intern---Summer-2027_R73630-1"
-  },
-  {
-   "closed_at": 1791644718,
-   "company": "spacex",
-   "hours_open": 883.2,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
    "closed_at": 1791645294,
    "company": "Lancesoft",
    "hours_open": 0.2,
@@ -5599,8 +5522,85 @@
    "hours_open": 989.6,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1792017471,
+   "company": "micron",
+   "hours_open": 119.4,
+   "title": "New College Grad - CAD Engineer",
+   "uid": "workday:micron.wd1/External:New-College-Grad---CAD-Engineer_JR114754"
+  },
+  {
+   "closed_at": 1792017471,
+   "company": "micron",
+   "hours_open": 12.8,
+   "title": "New College Grad - Computer Engineer, Engineering Automation",
+   "uid": "workday:micron.wd1/External:New-College-Grad---Computer-Engineer--Engineering-Automation_JR103691"
+  },
+  {
+   "closed_at": 1792017471,
+   "company": "manulife",
+   "hours_open": 220.3,
+   "title": "Spring Co-op 2027 - Software Engineering, Security & Operations",
+   "uid": "workday:manulife.wd3/MFCJH_Jobs:Spring-Co-op-2027---Software-Engineering--Security---Operations_JR26091121"
+  },
+  {
+   "closed_at": 1792017471,
+   "company": "marvell",
+   "hours_open": 220.3,
+   "title": "Hardware Engineer Intern, BS - Summer 2027",
+   "uid": "workday:marvell.wd1/MarvellCareers:Hardware-Engineer-Intern--BS---Summer-2027_2604975-1"
+  },
+  {
+   "closed_at": 1792017471,
+   "company": "marvell",
+   "hours_open": 960.7,
+   "title": "Firmware Engineer Intern, MS - Summer 2027",
+   "uid": "workday:marvell.wd1/MarvellCareers:Firmware-Engineer-Intern--MS---Summer-2027_2604513"
+  },
+  {
+   "closed_at": 1792017471,
+   "company": "marvell",
+   "hours_open": 350.1,
+   "title": "AI-Native Development Platform Engineer Intern, MS - Summer 2027",
+   "uid": "workday:marvell.wd1/MarvellCareers:AI-Native-Development-Platform-Engineer-Intern--MS---Summer-2027_2603848-1"
+  },
+  {
+   "closed_at": 1792017471,
+   "company": "lthc",
+   "hours_open": 511.6,
+   "title": "College Intern - Summer 2027 - Mobile Software Engineering Team",
+   "uid": "workday:lthc.wd1/ExcellusBCBSCareers:College-Intern---Summer-2027---Mobile-Software-Engineering-Team_JR104025-3"
+  },
+  {
+   "closed_at": 1792017471,
+   "company": "Hewlett Packard Enterprise",
+   "hours_open": 519.7,
+   "title": "Electrical/Hardware Engineer 1",
+   "uid": "simplify:listings:e52513e2-804f-43b4-ae87-411d4c56ff26"
+  },
+  {
+   "closed_at": 1792017471,
+   "company": "kbr",
+   "hours_open": 1011.0,
+   "title": "Junior Software Engineer",
+   "uid": "workday:kbr.wd5/kbr_careers:Junior-Software-Engineer_R2122294"
+  },
+  {
+   "closed_at": 1792017471,
+   "company": "kla",
+   "hours_open": 993.0,
+   "title": "Software Engineering Intern",
+   "uid": "workday:kla.wd1/AnnArbor:Software-Engineering-Intern_2531653"
+  },
+  {
+   "closed_at": 1792017471,
+   "company": "NXP Semiconductors",
+   "hours_open": 791.3,
+   "title": "Entry Level Semiconductor Test Engineer",
+   "uid": "simplify:listings:b8e99c43-8e02-4d04-89d1-f5bd150c6cfc"
   }
  ],
  "count": 811,
- "updated_at": 1792017337
+ "updated_at": 1792017472
 }
