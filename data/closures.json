@@ -2,62 +2,6 @@
  "closed": [
   {
    "closed_at": 1791513396,
-   "company": "micron",
-   "hours_open": 703.3,
-   "title": "New College Grad - IC Package Layout Engineer",
-   "uid": "workday:micron.wd1/External:New-College-Grad---IC-Package-Layout-Engineer_JR108957"
-  },
-  {
-   "closed_at": 1791513396,
-   "company": "moog",
-   "hours_open": 223.9,
-   "title": "Intern, Software Engineering",
-   "uid": "workday:moog.wd5/moog_external_career_site:Intern--Software-Engineering_R-26-19948"
-  },
-  {
-   "closed_at": 1791513396,
-   "company": "marvell",
-   "hours_open": 371.5,
-   "title": "Security Verification/Validation Engineer Intern, BS - Summer 2027",
-   "uid": "workday:marvell.wd1/MarvellCareers:Security-Verification-Validation-Engineer-Intern--BS---Summer-2027_2604148-1"
-  },
-  {
-   "closed_at": 1791513396,
-   "company": "mastercard",
-   "hours_open": 19.3,
-   "title": "Software Engineer I",
-   "uid": "workday:mastercard.wd1/CorporateCareers:Software-Engineer-I_R-292618-1"
-  },
-  {
-   "closed_at": 1791513396,
-   "company": "ngc",
-   "hours_open": 19.2,
-   "title": "2027 Test Engineer Intern - Sunnyvale CA",
-   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Test-Engineer-Intern---Sunnyvale-CA_R10255018-1"
-  },
-  {
-   "closed_at": 1791513396,
-   "company": "General Motors",
-   "hours_open": 698.0,
-   "title": "Software Engineer Early Career - AV Launch",
-   "uid": "simplify:listings:cab7d392-b643-4122-8740-452bad253389"
-  },
-  {
-   "closed_at": 1791513396,
-   "company": "mii",
-   "hours_open": 866.5,
-   "title": "Design Engineer I",
-   "uid": "workday:mii.wd5/MiTek:Design-Engineer-I_R06601"
-  },
-  {
-   "closed_at": 1791513396,
-   "company": "Micron Technology",
-   "hours_open": 838.2,
-   "title": "HBM Product Development Failure Analysis Engineer New Grad",
-   "uid": "simplify:listings:d524ecf8-071b-4ee2-8461-4ae3e02bf245"
-  },
-  {
-   "closed_at": 1791513396,
    "company": "spacex",
    "hours_open": 337.8,
    "title": "Software Engineer (AI Data Engineering)",
@@ -5599,8 +5543,64 @@
    "hours_open": 968.5,
    "title": "Operations Development Engineer (Starlink)",
    "uid": "greenhouse:spacex:8406964002"
+  },
+  {
+   "closed_at": 1791943539,
+   "company": "Wabash Valley Power Alliance",
+   "hours_open": 16.3,
+   "title": "NineStar Connect - Network Engineer I",
+   "uid": "smartrecruiters:WabashValleyPowerAlliance:744000155018604"
+  },
+  {
+   "closed_at": 1791943539,
+   "company": "CGI",
+   "hours_open": 848.9,
+   "title": "Conseiller(ère) en architecture de cybersécurité",
+   "uid": "jobillico:analyste cybersecurite:17433753"
+  },
+  {
+   "closed_at": 1791943539,
+   "company": "AlphaX",
+   "hours_open": 89.2,
+   "title": "Project Engineer - Commercial Electrical Projects",
+   "uid": "workable:alphax:B70AF6F846"
+  },
+  {
+   "closed_at": 1791943539,
+   "company": "Renesas Electronics",
+   "hours_open": 146.2,
+   "title": "Intern Verification Engineer",
+   "uid": "smartrecruiters:RenesasElectronics:744000154056909"
+  },
+  {
+   "closed_at": 1791943539,
+   "company": "twitch",
+   "hours_open": 969.1,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1791943539,
+   "company": "Quad Tech Solutions Inc.",
+   "hours_open": 153.7,
+   "title": "telecommunications engineer",
+   "uid": "jobbank:telecommunications analyst:50368593"
+  },
+  {
+   "closed_at": 1791943539,
+   "company": "spacex",
+   "hours_open": 968.9,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1791943539,
+   "company": "spacex",
+   "hours_open": 969.1,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 812,
- "updated_at": 1791941146
+ "count": 808,
+ "updated_at": 1791943540
 }
