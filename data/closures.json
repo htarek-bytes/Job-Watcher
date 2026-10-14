@@ -1,83 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1791554054,
-   "company": "Source Code",
-   "hours_open": 36.7,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:control systems analyst:50449266"
-  },
-  {
-   "closed_at": 1791563644,
-   "company": "stripe",
-   "hours_open": 40.7,
-   "title": "Software Engineer, Internal Identity",
-   "uid": "greenhouse:stripe:8263356"
-  },
-  {
-   "closed_at": 1791563644,
-   "company": "ServiceNow",
-   "hours_open": 20.3,
-   "title": "Associate Software Engineer",
-   "uid": "smartrecruiters:ServiceNow:744000154515244"
-  },
-  {
-   "closed_at": 1791563644,
-   "company": "lyft",
-   "hours_open": 582.2,
-   "title": "Software Engineer, Identity",
-   "uid": "greenhouse:lyft:8806552002"
-  },
-  {
-   "closed_at": 1791563644,
-   "company": "Eurofins",
-   "hours_open": 43.1,
-   "title": "Sales Engineer",
-   "uid": "smartrecruiters:Eurofins:744000154181040"
-  },
-  {
-   "closed_at": 1791563644,
-   "company": "Eurofins",
-   "hours_open": 43.1,
-   "title": "Associate Engineer",
-   "uid": "smartrecruiters:Eurofins:744000154180759"
-  },
-  {
-   "closed_at": 1791563644,
-   "company": "Nordstrom",
-   "hours_open": 40.7,
-   "title": "Engineer 1",
-   "uid": "simplify:listings:addc9110-286b-45d0-9b03-24ea2d3042c6"
-  },
-  {
-   "closed_at": 1791563644,
-   "company": "Technologies Lannex inc.",
-   "hours_open": 50.6,
-   "title": "Technicien Informatique",
-   "uid": "jobillico:technicien informatique:17586117"
-  },
-  {
-   "closed_at": 1791563644,
-   "company": "Cela",
-   "hours_open": 3.1,
-   "title": "full stack Web developer",
-   "uid": "jobbank:programmeur junior:50376038"
-  },
-  {
-   "closed_at": 1791563644,
-   "company": "Bell Canada",
-   "hours_open": 25.7,
-   "title": "analyst, computer systems",
-   "uid": "jobbank:analyste de systemes:50419044"
-  },
-  {
-   "closed_at": 1791563644,
-   "company": "Surrey Police Service",
-   "hours_open": 496.0,
-   "title": "systems analyst",
-   "uid": "jobbank:systems analyst:50318878"
-  },
-  {
    "closed_at": 1791563644,
    "company": "Groupe DCM",
    "hours_open": 515.6,
@@ -5599,8 +5522,85 @@
    "hours_open": 176.5,
    "title": "Associate Software Engineer 1",
    "uid": "simplify:listings:6ddb8adb-ad8e-4cb9-9c50-bb88be88f2a6"
+  },
+  {
+   "closed_at": 1791971240,
+   "company": "Stellar Software Solutions",
+   "hours_open": 108.6,
+   "title": "network infrastructure engineer",
+   "uid": "jobbank:specialiste infrastructure:50462911"
+  },
+  {
+   "closed_at": 1791971240,
+   "company": "manulife",
+   "hours_open": 90.7,
+   "title": "Winter Co-op 2027 - Software Engineering",
+   "uid": "workday:manulife.wd3/MFCJH_adminJobs:Winter-Co-op-2027---Software-Engineering_JR26081661-1"
+  },
+  {
+   "closed_at": 1791971240,
+   "company": "kla",
+   "hours_open": 146.4,
+   "title": "Product Development Applications Engineer Intern  (Broadband Plasma Division)",
+   "uid": "workday:kla.wd1/UR:Product-Development-Applications-Engineer-Intern---Broadband-Plasma-Division-_2641396-2"
+  },
+  {
+   "closed_at": 1791971240,
+   "company": "marvell",
+   "hours_open": 948.0,
+   "title": "Firmware Engineer Intern, BS - Summer 2027",
+   "uid": "workday:marvell.wd1/MarvellCareers:Firmware-Engineer-Intern--BS---Summer-2027_2604461"
+  },
+  {
+   "closed_at": 1791971240,
+   "company": "marvell",
+   "hours_open": 242.3,
+   "title": "Product Engineer Intern, BS - Summer 2027",
+   "uid": "workday:marvell.wd1/MarvellCareers2:Product-Engineer-Intern--BS---Summer-2027_2603839"
+  },
+  {
+   "closed_at": 1791971240,
+   "company": "jj",
+   "hours_open": 16.6,
+   "title": "Solution Engineer Enterprise Contracting",
+   "uid": "workday:jj.wd5/JJ:Solution-Engineer-Enterprise-Contracting_R-103782-1"
+  },
+  {
+   "closed_at": 1791971240,
+   "company": "marvell",
+   "hours_open": 864.3,
+   "title": "AI Infrastructure Engineer Intern",
+   "uid": "workday:marvell.wd1/MarvellCareers:AI-Infrastructure-Engineer-Intern_2604499"
+  },
+  {
+   "closed_at": 1791971240,
+   "company": "kla",
+   "hours_open": 15.6,
+   "title": "Software Engineering Intern",
+   "uid": "workday:kla.wd1/UR:Software-Engineering-Intern_2641821-2"
+  },
+  {
+   "closed_at": 1791971240,
+   "company": "kbr",
+   "hours_open": 998.2,
+   "title": "Junior Software Engineer",
+   "uid": "workday:kbr.wd5/KBR_Careers:Junior-Software-Engineer_R2122294"
+  },
+  {
+   "closed_at": 1791971240,
+   "company": "True Anomaly",
+   "hours_open": 1013.5,
+   "title": "Flight Software Engineer 1 New Grad",
+   "uid": "simplify:listings:5516fbba-d287-4ee8-b391-dd0e5a0c4797"
+  },
+  {
+   "closed_at": 1791971240,
+   "company": "leidos",
+   "hours_open": 15.6,
+   "title": "Junior Software Developer",
+   "uid": "workday:leidos.wd5/External:Junior-Software-Developer_R-00194110"
   }
  ],
- "count": 812,
- "updated_at": 1791963152
+ "count": 811,
+ "updated_at": 1791971241
 }

@@ -1,5 +1,5 @@
 {
- "count": 8051,
+ "count": 8057,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -4391,6 +4391,7 @@
   "jobbank:network administrator:50472542": 1791691192,
   "jobbank:network administrator:50473074": 1791700475,
   "jobbank:network administrator:50474803": 1791736061,
+  "jobbank:network administrator:50492673": 1791971240,
   "jobbank:network analyst:50259233": 1789061242,
   "jobbank:network analyst:50389758": 1790706099,
   "jobbank:network analyst:50396377": 1790781388,
@@ -5902,6 +5903,7 @@
   "simplify:listings:d35dd23b-846b-4263-be1b-ff94fdfab2e5": 1789168928,
   "simplify:listings:d3b9d664-582b-4b4c-a7bb-70489dda21e2": 1789517822,
   "simplify:listings:d3bdb070-74f3-4fe0-ad6a-508f9dc3d75a": 1788907909,
+  "simplify:listings:d43487d1-4809-495d-a719-9d722f620595": 1791971240,
   "simplify:listings:d50d1577-1658-457d-a65f-f577f9996936": 1790091113,
   "simplify:listings:d522f753-5acf-4e73-b719-53a0479344e8": 1791241882,
   "simplify:listings:d524ecf8-071b-4ee2-8461-4ae3e02bf245": 1788495756,
@@ -7434,6 +7436,7 @@
   "workday:kla.wd1/UR:Product-Development-Applications-Engineer-Intern---Broadband-Plasma-Division-_2641396-2": 1791444048,
   "workday:kla.wd1/UR:Product-Development-Engineer-Intern_2641521": 1790812097,
   "workday:kla.wd1/UR:Product-Development-Engineering-Intern_2641562": 1790812097,
+  "workday:kla.wd1/UR:Product-Development-Intern---Electron-Beam-Instrumentation_2642030-2": 1791971240,
   "workday:kla.wd1/UR:Software-Engineer-Intern---AI_2641817-2": 1791915110,
   "workday:kla.wd1/UR:Software-Engineering-Intern--C----Unix-_2641325": 1790175830,
   "workday:kla.wd1/UR:Software-Engineering-Intern_2641581": 1790812097,
@@ -7484,6 +7487,7 @@
   "workday:manulife.wd3/MFCJH_Jobs:Winter-Co-op-2027---Software-Engineering_JR26081663": 1790263709,
   "workday:manulife.wd3/MFCJH_adminJobs:Winter-Co-op-2027---Software-Engineering--8-Months-_JR26081664-1": 1791915110,
   "workday:manulife.wd3/MFCJH_adminJobs:Winter-Co-op-2027---Software-Engineering_JR26081661-1": 1791644718,
+  "workday:manulife.wd3/MFCJH_adminJobs:Winter-Co-op-2027---Software-Engineering_JR26081663-1": 1791971240,
   "workday:mars.wd3/external:Associate-Engineer-Technical-Services_R168934-1": 1791586940,
   "workday:mars.wd3/external:Solution-Engineer_R161845-1": 1788756975,
   "workday:marvell.wd1/MarvellCareers2:AI-Native-Development-Platform-Engineer-Intern--MS---Summer-2027_2603848": 1790707195,
@@ -7559,6 +7563,7 @@
   "workday:micron.wd1/External:Module-Hardware-Engineer_JR113177": 1790643496,
   "workday:micron.wd1/External:New-College-Grad---AI-Infrastructure---HBM-Architecture-Engineer_JR109578": 1789682887,
   "workday:micron.wd1/External:New-College-Grad---CAD-Engineer_JR114754": 1791587462,
+  "workday:micron.wd1/External:New-College-Grad---Computer-Engineer--Engineering-Automation_JR103691": 1791971240,
   "workday:micron.wd1/External:New-College-Grad---Design-Engineer--DRAM-Technology-and-Products_JR105519": 1788408852,
   "workday:micron.wd1/External:New-College-Grad---Device-Process-Integration-Engineer---CMOS_JR109090": 1788903151,
   "workday:micron.wd1/External:New-College-Grad---ENGINEER--TD-IE-OPS_JR114193": 1791587462,
@@ -7566,6 +7571,7 @@
   "workday:micron.wd1/External:New-College-Grad---Engineer--ASIC-Digital-Design_JR112164": 1789682887,
   "workday:micron.wd1/External:New-College-Grad---Engineer--DPG-Compute-PE-Y-Q_JR106445": 1788393936,
   "workday:micron.wd1/External:New-College-Grad---Engineer--Node-Development-PE_JR112177": 1790096131,
+  "workday:micron.wd1/External:New-College-Grad---Equipment-Engineer_JR114819": 1791971240,
   "workday:micron.wd1/External:New-College-Grad---F4-IT-Network-Engineer_JR114671": 1791832243,
   "workday:micron.wd1/External:New-College-Grad---Films--Metals--and-Implant-MDE-Shift-Engineer_JR112165": 1790041362,
   "workday:micron.wd1/External:New-College-Grad---HBM-Product-Development-Failure-Analysis-Engineer_JR110630": 1788465250,
@@ -8053,5 +8059,5 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148,
   "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541": 1789106107
  },
- "updated_at": 1791963152
+ "updated_at": 1791971241
 }
