@@ -2,27 +2,6 @@
  "closed": [
   {
    "closed_at": 1791505898,
-   "company": "disney",
-   "hours_open": 209.0,
-   "title": "Product Software Engineer I",
-   "uid": "workday:disney.wd5/disneycareerdc:Product-Software-Engineer-I_10157015-2"
-  },
-  {
-   "closed_at": 1791505898,
-   "company": "fifththird",
-   "hours_open": 17.4,
-   "title": "Software Engineer Co-Op - Enterprise Finance Applications - Summer 2027",
-   "uid": "workday:fifththird.wd5/53careers:Software-Engineer-Co-Op---Enterprise-Finance-Applications---Summer-2027_R71588"
-  },
-  {
-   "closed_at": 1791505898,
-   "company": "Source Code",
-   "hours_open": 23.4,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:control systems analyst:50449266"
-  },
-  {
-   "closed_at": 1791505898,
    "company": "spacex",
    "hours_open": 847.6,
    "title": "Security Software Engineer (Starlink)",
@@ -5599,8 +5578,29 @@
    "hours_open": 967.1,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1791938688,
+   "company": "CANMEC",
+   "hours_open": 107.2,
+   "title": "Nous agrandissons l'équipe ON RECRUTE Technicien informatique",
+   "uid": "jobillico:technicien informatique:17600094"
+  },
+  {
+   "closed_at": 1791938688,
+   "company": "cintal",
+   "hours_open": 124.6,
+   "title": "Embedded Software Engineer 1",
+   "uid": "rippling:cintal:77ede633-2c0f-4a92-bb22-5219fb448dd3"
+  },
+  {
+   "closed_at": 1791938688,
+   "company": "edgehog-trading",
+   "hours_open": 935.4,
+   "title": "Junior FPGA Developer",
+   "uid": "rippling:edgehog-trading:10ba9bbf-9fbe-49ff-8f58-a88041de1438"
   }
  ],
- "count": 806,
- "updated_at": 1791937388
+ "count": 803,
+ "updated_at": 1791938689
 }
