@@ -1,104 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1791526945,
-   "company": "saabusa",
-   "hours_open": 848.0,
-   "title": "Software Engineering Co-Op (Summer 2027)",
-   "uid": "workday:saabusa.wd1/saab_careers:Software-Engineering-Co-Op--Summer-2027-_R-03237-1"
-  },
-  {
-   "closed_at": 1791526945,
-   "company": "r1rcm",
-   "hours_open": 701.0,
-   "title": "Software Engineer I",
-   "uid": "workday:r1rcm.wd1/R1RCM:Software-Engineer-I_R260000003130"
-  },
-  {
-   "closed_at": 1791526945,
-   "company": "RTX",
-   "hours_open": 40.4,
-   "title": "Power Electronics Test Engineer 1",
-   "uid": "simplify:listings:c470d3f7-8434-4bde-b108-52aa94d886e9"
-  },
-  {
-   "closed_at": 1791526945,
-   "company": "spacex",
-   "hours_open": 853.4,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1791526945,
-   "company": "spacex",
-   "hours_open": 853.4,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1791527068,
-   "company": "upenn",
-   "hours_open": 59.3,
-   "title": "Junior Systems Administrator, Linguistic Data Consortium",
-   "uid": "workday:upenn.wd1/careers-at-penn:Junior-Systems-Administrator--Linguistic-Data-Consortium_JR00128750"
-  },
-  {
-   "closed_at": 1791527068,
-   "company": "tandemdiabetes",
-   "hours_open": 500.9,
-   "title": "Technical Operations Specialist I",
-   "uid": "workday:tandemdiabetes.wd12/tandemdiabetes:Technical-Operations-Specialist-I_JR101524-1"
-  },
-  {
-   "closed_at": 1791527068,
-   "company": "twitch",
-   "hours_open": 853.4,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1791527068,
-   "company": "tmobile",
-   "hours_open": 768.4,
-   "title": "Solutions Engineer, SMB - Tampa",
-   "uid": "workday:tmobile.wd1/External:Solutions-Engineer--SMB---Tampa_REQ369984-2"
-  },
-  {
-   "closed_at": 1791527068,
-   "company": "spacex",
-   "hours_open": 850.5,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1791527068,
-   "company": "spacex",
-   "hours_open": 853.2,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1791527938,
-   "company": "Aurelian",
-   "hours_open": 4.0,
-   "title": "Software Engineer New Grad",
-   "uid": "simplify:listings:7aabe808-d12f-4399-b2f0-e348094fa171"
-  },
-  {
-   "closed_at": 1791527938,
-   "company": "zoll",
-   "hours_open": 875.0,
-   "title": "Junior Algorithm Engineer",
-   "uid": "workday:zoll.wd5/ZOLLMedicalCorp:Junior-Algorithm-Engineer_R19377"
-  },
-  {
-   "closed_at": 1791527938,
-   "company": "spacex",
-   "hours_open": 853.7,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
    "closed_at": 1791528523,
    "company": "ibotta",
    "hours_open": 654.2,
@@ -5599,8 +5501,106 @@
    "hours_open": 558.0,
    "title": "2027 Software Engineer New College Grad (Bachelor's) - Gloucester, MA",
    "uid": "workday:amat.wd1/External:XMLNAME-2027-Software-Engineer-New-College-Grad--Bachelor-s----Gloucester--MA_R2625914"
+  },
+  {
+   "closed_at": 1791955795,
+   "company": "ccf",
+   "hours_open": 14.1,
+   "title": "New Grad RN Resident – Med/Surg and Telemetry",
+   "uid": "workday:ccf.wd1/ClevelandClinicCareers:New-Grad-RN-Resident---Med-Surg-and-Telemetry_352611"
+  },
+  {
+   "closed_at": 1791955795,
+   "company": "Export Development Canada | Exportation et développement Canada",
+   "hours_open": 18.4,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50483505"
+  },
+  {
+   "closed_at": 1791955795,
+   "company": "CANMEC",
+   "hours_open": 112.0,
+   "title": "Nous agrandissons l'équipe ON RECRUTE Technicien informatique",
+   "uid": "jobillico:technicien informatique:17600094"
+  },
+  {
+   "closed_at": 1791955795,
+   "company": "Farm Credit Canada",
+   "hours_open": 14.1,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50451696"
+  },
+  {
+   "closed_at": 1791955795,
+   "company": "cadence",
+   "hours_open": 852.3,
+   "title": "Distributed Systems Engineer",
+   "uid": "workday:cadence.wd1/Univ_Careers:Distributed-Systems-Engineer_R53233"
+  },
+  {
+   "closed_at": 1791955795,
+   "company": "City of Calgary",
+   "hours_open": 19.7,
+   "title": "software developer",
+   "uid": "jobbank:entry level software developer:50478387"
+  },
+  {
+   "closed_at": 1791955795,
+   "company": "boeing",
+   "hours_open": 592.4,
+   "title": "Astrodynamics Engineer (Entry-Level) - Millennium Space Systems",
+   "uid": "workday:boeing.wd1/external_subsidiary:Astrodynamics-Engineer--Entry-Level----Millennium-Space-Systems_JR2026524945"
+  },
+  {
+   "closed_at": 1791955795,
+   "company": "campaignmonitor",
+   "hours_open": 14.1,
+   "title": "Associate Software Engineer",
+   "uid": "workday:campaignmonitor.wd5/marigold:Associate-Software-Engineer_R2487"
+  },
+  {
+   "closed_at": 1791955795,
+   "company": "twitch",
+   "hours_open": 972.5,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1791955795,
+   "company": "Source Code",
+   "hours_open": 54.9,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:systems analyst:50476529"
+  },
+  {
+   "closed_at": 1791955795,
+   "company": "Source Code",
+   "hours_open": 6.1,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50489244"
+  },
+  {
+   "closed_at": 1791955795,
+   "company": "Arya Health",
+   "hours_open": 990.4,
+   "title": "software development programmer",
+   "uid": "jobbank:junior programmer:50148592"
+  },
+  {
+   "closed_at": 1791955795,
+   "company": "spacex",
+   "hours_open": 972.5,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1791955795,
+   "company": "spacex",
+   "hours_open": 972.5,
+   "title": "Test Engineer (Starship)",
+   "uid": "greenhouse:spacex:8627642002"
   }
  ],
- "count": 803,
- "updated_at": 1791954730
+ "count": 814,
+ "updated_at": 1791955796
 }

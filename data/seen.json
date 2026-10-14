@@ -1,5 +1,5 @@
 {
- "count": 8037,
+ "count": 8045,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -4226,6 +4226,7 @@
   "jobbank:junior programmer:50483827": 1791905032,
   "jobbank:junior programmer:50484857": 1791907434,
   "jobbank:junior programmer:50486949": 1791924455,
+  "jobbank:junior programmer:50491568": 1791955795,
   "jobbank:junior software developer:49875004": 1788390279,
   "jobbank:junior software developer:50080344": 1788390279,
   "jobbank:junior software developer:50096282": 1788390279,
@@ -4347,6 +4348,7 @@
   "jobbank:junior software developer:50483505": 1791889518,
   "jobbank:junior software developer:50489190": 1791934009,
   "jobbank:junior software developer:50489244": 1791934009,
+  "jobbank:junior software developer:50492107": 1791955795,
   "jobbank:linux administrator:49626621": 1789082121,
   "jobbank:linux administrator:50163764": 1788887337,
   "jobbank:linux administrator:50205276": 1788887337,
@@ -4533,6 +4535,8 @@
   "jobbank:systems analyst:50479326": 1791824020,
   "jobbank:systems analyst:50480771": 1791847101,
   "jobbank:systems analyst:50485091": 1791911493,
+  "jobbank:systems analyst:50491898": 1791955795,
+  "jobbank:systems analyst:50491950": 1791955795,
   "jobbank:telecommunications analyst:49780105": 1791390300,
   "jobbank:telecommunications analyst:49818659": 1791390300,
   "jobbank:telecommunications analyst:49947219": 1791390300,
@@ -6863,6 +6867,7 @@
   "workday:bmo.wd3/External:AI-Platform-Analyst--8-months--Co-op-Internship----8-months_R260026129-2": 1788888205,
   "workday:bmo.wd3/External:Business---Operations-Development-Specialist--New-Grad-_R260027681": 1790347721,
   "workday:bmo.wd3/External:DDI-Network-Engineer_R260026568": 1790752952,
+  "workday:bmo.wd3/External:Devops-Analyst---Technical_R260028097": 1791955795,
   "workday:bmo.wd3/External:Junior-Software-Developer--Winter-2027--Co-op-Internship----4-Months_R260024650-1": 1788760848,
   "workday:bmo.wd3/External:Machine-Learning-Developer--New-or-Recent-Graduate-_R260024265": 1788470575,
   "workday:bmo.wd3/External:Production-Support--Analyst_R260027517": 1790922474,
@@ -6935,6 +6940,7 @@
   "workday:caci.wd1/external:Software-Engineering-Intern---Summer-2027_332041": 1790208212,
   "workday:caci.wd1/external:Software-Engineering-Intern---Summer-2027_332372": 1790167181,
   "workday:caci.wd1/external:Software-Engineering-Intern---Summer-2027_332386": 1790120419,
+  "workday:caci.wd1/external:Systems-Engineer-Intern---Summer-2027_333048": 1791955795,
   "workday:cadence.wd1/External_Careers:Adams-MultiBody-Dynamics-Application-Software-Developer--Recent-Grad-2026-_R55788": 1788368024,
   "workday:cadence.wd1/External_Careers:Intern--Software-Engineering--Hardware-Verification-R-D_R56477": 1790208212,
   "workday:cadence.wd1/Univ_Careers:Adams-Application-Software-Developer---Recent-Grad-2026-_R55736-2": 1788368024,
@@ -6956,6 +6962,7 @@
   "workday:cae.wd3/career:Dveloppeureuse-logiciel-junior---Bancs-d-essais--Rive-Nord-_123921-1": 1791422190,
   "workday:cae.wd3/career:Product-Cybersecurity-Specialist_123467": 1790208212,
   "workday:cae.wd3/career:Software-Developer-Coop_123904": 1791363116,
+  "workday:cai.wd5/computer_aid:Server-Engineer-Intern_R8557": 1791955795,
   "workday:cai.wd5/computer_aid:Software-Developer-Intern_R8554": 1791905032,
   "workday:campaignmonitor.wd5/marigold:Associate-Software-Engineer_R2487": 1791905032,
   "workday:campbellsoup.wd5/externalcareers_globalsite:Data-Engineer--DA-AI-Co-Op_Req-65838": 1788435390,
@@ -6989,6 +6996,7 @@
   "workday:ccf.wd1/ClevelandClinicCareers:New-Grad-RN-Resident---Stroke-Telemetry_338764-1": 1789996861,
   "workday:ccf.wd1/ClevelandClinicCareers:New-Grad-RN-Resident---Telemetry-Unit_338311": 1791573491,
   "workday:ccf.wd1/ClevelandClinicCareers:New-Grad-RN-Resident---Telemetry_355738": 1790871711,
+  "workday:ccf.wd1/ClevelandClinicCareers:RN---Acute-Care-Neurology-and-Cardiac-Telemetry_334418-1": 1791955795,
   "workday:ccf.wd1/ClevelandClinicCareers:Software-Developer-I_334982": 1789708733,
   "workday:cdk.wd1/CDK:Associate-Software-Engineer_JR9201-1": 1788368024,
   "workday:cdk.wd1/CDK:Payments-Sales-Engineer_JR9247-1": 1788750148,
@@ -8039,5 +8047,5 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148,
   "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541": 1789106107
  },
- "updated_at": 1791954730
+ "updated_at": 1791955796
 }
