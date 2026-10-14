@@ -1,167 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1791528523,
-   "company": "ibotta",
-   "hours_open": 654.2,
-   "title": "IT Compliance & Automation Analyst",
-   "uid": "ashby:ibotta:cdfcd557-a413-4c47-a3bd-21bb2cd66414"
-  },
-  {
-   "closed_at": 1791528523,
-   "company": "twitch",
-   "hours_open": 850.9,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1791528523,
-   "company": "highlightai",
-   "hours_open": 113.9,
-   "title": "Early Career Product Engineer",
-   "uid": "ashby:highlightai:dd8526be-514c-46a5-98be-b068b10b4cbb"
-  },
-  {
-   "closed_at": 1791528523,
-   "company": "spacex",
-   "hours_open": 853.9,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1791538635,
-   "company": "AM/PM Service - Point of Sale & Service",
-   "hours_open": 508.3,
-   "title": "network administrator",
-   "uid": "jobbank:network administrator:50312058"
-  },
-  {
-   "closed_at": 1791538635,
-   "company": "Boeing",
-   "hours_open": 82.4,
-   "title": "Entry Level Test & Evaluation Engineer",
-   "uid": "simplify:listings:54aec1a8-4f38-44e4-bd9f-1bdf812162b7"
-  },
-  {
-   "closed_at": 1791538635,
-   "company": "Walmart",
-   "hours_open": 9.3,
-   "title": "Software Engineer 2 Intern",
-   "uid": "simplify:listings:9a65a8df-82be-4934-8e8f-0308d4a7686a"
-  },
-  {
-   "closed_at": 1791538635,
-   "company": "Clay",
-   "hours_open": 178.1,
-   "title": "Early Career Software Engineer",
-   "uid": "simplify:listings:2bdc9b65-ae92-4477-b012-6fd3d78589be"
-  },
-  {
-   "closed_at": 1791538635,
-   "company": "Amazon",
-   "hours_open": 199.5,
-   "title": "Software Development Engineer, Agentic AI",
-   "uid": "amazon:amazon:10566212"
-  },
-  {
-   "closed_at": 1791538635,
-   "company": "twitch",
-   "hours_open": 856.7,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1791538635,
-   "company": "saronic",
-   "hours_open": 853.6,
-   "title": "ServiceNow Developer",
-   "uid": "ashby:saronic:9d70cd7f-5492-4a24-9196-2343d8277a7e"
-  },
-  {
-   "closed_at": 1791538635,
-   "company": "spacex",
-   "hours_open": 856.4,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1791552626,
-   "company": "miovision",
-   "hours_open": 406.0,
-   "title": "Hardware Developer, Electrical",
-   "uid": "ashby:miovision:503adf7e-955d-4f64-b562-4f32575ec00f"
-  },
-  {
-   "closed_at": 1791552626,
-   "company": "Harbor Foods",
-   "hours_open": 33.6,
-   "title": "WMS Software Developer 1",
-   "uid": "simplify:listings:54109d7b-e383-4172-8aba-eda5ce54188b"
-  },
-  {
-   "closed_at": 1791552626,
-   "company": "Expedia Group",
-   "hours_open": 163.1,
-   "title": "Software Development Engineer 1",
-   "uid": "simplify:listings:819788dd-4ad4-477b-9a53-cea660803173"
-  },
-  {
-   "closed_at": 1791552626,
-   "company": "Cela",
-   "hours_open": 185.6,
-   "title": "full stack Web developer",
-   "uid": "jobbank:developpeur junior:50376038"
-  },
-  {
-   "closed_at": 1791552626,
-   "company": "United Launch Alliance",
-   "hours_open": 182.0,
-   "title": "Embedded Flight Software Engineer 1",
-   "uid": "simplify:listings:db3417bd-b16e-4797-b4f6-4a38ef7d6e26"
-  },
-  {
-   "closed_at": 1791552626,
-   "company": "relativity",
-   "hours_open": 858.9,
-   "title": "Factory Test Technical Specialist I - 1st Shift",
-   "uid": "greenhouse:relativity:8622941002"
-  },
-  {
-   "closed_at": 1791552626,
-   "company": "spacex",
-   "hours_open": 857.6,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1791552626,
-   "company": "spacex",
-   "hours_open": 860.5,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1791552963,
-   "company": "agile-defense",
-   "hours_open": 62.2,
-   "title": "Enterprise Cloud Systems Engineer - Intermediate",
-   "uid": "lever:agile-defense:57ea8741-f95f-4d96-94c9-b9afaa4ff09d"
-  },
-  {
-   "closed_at": 1791552963,
-   "company": "Cooptel",
-   "hours_open": 740.5,
-   "title": "Administrateur réseau",
-   "uid": "jobillico:analyste reseau:17185045"
-  },
-  {
-   "closed_at": 1791552963,
-   "company": "CANMEC",
-   "hours_open": 0.1,
-   "title": "Nous agrandissons l'équipe ON RECRUTE Technicien informatique",
-   "uid": "jobillico:technicien informatique:17600094"
-  },
-  {
    "closed_at": 1791552963,
    "company": "freedomconsulting",
    "hours_open": 879.6,
@@ -5599,8 +5438,169 @@
    "hours_open": 972.5,
    "title": "Test Engineer (Starship)",
    "uid": "greenhouse:spacex:8627642002"
+  },
+  {
+   "closed_at": 1791959028,
+   "company": "robinhood",
+   "hours_open": 712.4,
+   "title": "Software Developer Intern, Web (Summer 2027)",
+   "uid": "greenhouse:robinhood:8199744"
+  },
+  {
+   "closed_at": 1791959028,
+   "company": "robinhood",
+   "hours_open": 712.4,
+   "title": "Software Developer Intern, Backend (Summer 2027)",
+   "uid": "greenhouse:robinhood:8142930"
+  },
+  {
+   "closed_at": 1791959028,
+   "company": "robinhood",
+   "hours_open": 712.4,
+   "title": "Software Developer Intern/Co-op, Backend (Winter 2027)",
+   "uid": "greenhouse:robinhood:8194428"
+  },
+  {
+   "closed_at": 1791959028,
+   "company": "robinhood",
+   "hours_open": 712.4,
+   "title": "Software Developer Intern, iOS (Summer 2027)",
+   "uid": "greenhouse:robinhood:8199729"
+  },
+  {
+   "closed_at": 1791959028,
+   "company": "robinhood",
+   "hours_open": 712.4,
+   "title": "Software Engineering Intern, Android (Summer 2027)",
+   "uid": "greenhouse:robinhood:8142961"
+  },
+  {
+   "closed_at": 1791959028,
+   "company": "robinhood",
+   "hours_open": 712.4,
+   "title": "Software Engineering Intern, iOS (Summer 2027)",
+   "uid": "greenhouse:robinhood:8142959"
+  },
+  {
+   "closed_at": 1791959028,
+   "company": "robinhood",
+   "hours_open": 712.4,
+   "title": "Software Engineering Intern, Backend (Summer 2027)",
+   "uid": "greenhouse:robinhood:8123225"
+  },
+  {
+   "closed_at": 1791959028,
+   "company": "robinhood",
+   "hours_open": 712.4,
+   "title": "Software Engineering Intern, Web (Summer 2027)",
+   "uid": "greenhouse:robinhood:8142963"
+  },
+  {
+   "closed_at": 1791959028,
+   "company": "Stellar Software Solutions",
+   "hours_open": 105.2,
+   "title": "network infrastructure engineer",
+   "uid": "jobbank:specialiste infrastructure:50462911"
+  },
+  {
+   "closed_at": 1791959028,
+   "company": "Great Lakes Group",
+   "hours_open": 57.9,
+   "title": "electrical controls engineer",
+   "uid": "jobbank:control systems analyst:50464497"
+  },
+  {
+   "closed_at": 1791959028,
+   "company": "Maarut",
+   "hours_open": 0.9,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:systems analyst:50491898"
+  },
+  {
+   "closed_at": 1791959028,
+   "company": "ecolab",
+   "hours_open": 146.5,
+   "title": "Junior Quality Control Software Developer",
+   "uid": "workday:ecolab.wd1/ecolab_external:Junior-Quality-Control-Software-Developer_R00307033"
+  },
+  {
+   "closed_at": 1791959028,
+   "company": "LogiSense Corporation",
+   "hours_open": 25.3,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50478059"
+  },
+  {
+   "closed_at": 1791959028,
+   "company": "Upstaff",
+   "hours_open": 6.9,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50489190"
+  },
+  {
+   "closed_at": 1791959028,
+   "company": "Aldwych Consulting Ltd",
+   "hours_open": 13.2,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:systems analyst:50485091"
+  },
+  {
+   "closed_at": 1791959028,
+   "company": "The Federal Reserve System",
+   "hours_open": 175.4,
+   "title": "AI Solutions Engineer Associate",
+   "uid": "simplify:listings:834fe4c4-f68e-4dbc-bf7d-5c3c22356240"
+  },
+  {
+   "closed_at": 1791959028,
+   "company": "dxctechnology",
+   "hours_open": 593.1,
+   "title": "Junior Java Developer",
+   "uid": "workday:dxctechnology.wd1/dxcjobs:Junior-Java-Developer_51584530"
+  },
+  {
+   "closed_at": 1791959028,
+   "company": "dexcom",
+   "hours_open": 14.3,
+   "title": "SW Development Engineer 1",
+   "uid": "workday:dexcom.wd1/Dexcom:SW-Development-Engineer-1_JR121427"
+  },
+  {
+   "closed_at": 1791959028,
+   "company": "360.Agency",
+   "hours_open": 515.1,
+   "title": "network system administrator",
+   "uid": "jobbank:systems administrator:50342628"
+  },
+  {
+   "closed_at": 1791959028,
+   "company": "ALL ROUTES LOGISTICS INC.",
+   "hours_open": 853.0,
+   "title": "network system administrator",
+   "uid": "jobbank:systems administrator:50243159"
+  },
+  {
+   "closed_at": 1791959028,
+   "company": "Lakeland Roman Catholic Separate School Division",
+   "hours_open": 853.2,
+   "title": "computer systems analyst",
+   "uid": "jobbank:systems analyst:50064831"
+  },
+  {
+   "closed_at": 1791959028,
+   "company": "SIFT",
+   "hours_open": 981.4,
+   "title": "Software Engineer New Grad",
+   "uid": "simplify:listings:894eb687-31ed-49f7-86c8-228331a4c092"
+  },
+  {
+   "closed_at": 1791959028,
+   "company": "spacex",
+   "hours_open": 973.4,
+   "title": "Integration Engineer (Starship) - Night Shift",
+   "uid": "greenhouse:spacex:8527462002"
   }
  ],
- "count": 814,
- "updated_at": 1791955796
+ "count": 823,
+ "updated_at": 1791959028
 }
