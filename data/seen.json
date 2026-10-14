@@ -1,5 +1,5 @@
 {
- "count": 8048,
+ "count": 8051,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -5952,6 +5952,7 @@
   "simplify:listings:def54711-e5fe-4a9d-93e2-3d38983e8f08": 1790205166,
   "simplify:listings:defd53c6-373d-4684-81eb-df7e464d1c50": 1790723272,
   "simplify:listings:df030492-3a72-4388-a440-77952fc6c3d3": 1791807288,
+  "simplify:listings:df3fee7e-6a02-448c-a6f3-f3953f1f2727": 1791963151,
   "simplify:listings:df413b1f-2b57-43c8-8fb8-09002684e08a": 1791328929,
   "simplify:listings:df5178c3-1535-4962-aac1-d88d87dc2a97": 1788495756,
   "simplify:listings:df7ccad4-e94d-42b5-914a-8875029af2a8": 1788322770,
@@ -7183,6 +7184,7 @@
   "workday:globalfoundries.wd1/External:AI-ML-Analytics-Engineer--2027-New-College-Graduate-_JR-2604942": 1790641647,
   "workday:globalfoundries.wd1/External:Advanced-Manufacturing-Equipment-Engineer--2027-New-College-Graduate-_JR-2604708": 1789418056,
   "workday:globalfoundries.wd1/External:Associate-Engineer---Engineer---Penang_JR-2501592": 1788377607,
+  "workday:globalfoundries.wd1/External:Buildings-Engineer--2027-New-College-Graduate-_JR-2604712": 1791963151,
   "workday:globalfoundries.wd1/External:Design-Application-Engineer--2027-New-College-Grad-_JR-2604190": 1790384195,
   "workday:globalfoundries.wd1/External:Device-Engineer--ULP-CMOS--2026-New-College-Graduate-_JR-2604336": 1790560114,
   "workday:globalfoundries.wd1/External:Electrical-Test-Engineer--Wafer-Test--2027-New-College-Graduate-_JR-2604747": 1788377607,
@@ -7250,6 +7252,7 @@
   "workday:globalhr.wd5/rec_rtx_ext_gateway:Production-Support-Engineering-Co-Op--Summer-Fall-2027-_01872653": 1789362342,
   "workday:globalhr.wd5/rec_rtx_ext_gateway:Production-Support-Engineering-Co-op--Winter-Spring-2027-_01872654": 1789362342,
   "workday:globalhr.wd5/rec_rtx_ext_gateway:Production-Test-Engineer-Intern--Summer-2027-_01872985": 1789510394,
+  "workday:globalhr.wd5/rec_rtx_ext_gateway:RF-Systems-Engineer-Intern--Onsite-_01880592": 1791963151,
   "workday:globalhr.wd5/rec_rtx_ext_gateway:Radar-Systems-Engineer-I_01874482": 1789362342,
   "workday:globalhr.wd5/rec_rtx_ext_gateway:Receiver--Exciter----Processing-Architecture-Software-Engineer-Intern--Summer-2027-_01873484": 1789594467,
   "workday:globalhr.wd5/rec_rtx_ext_gateway:Software-Engineer--DevSecOps-Co-Op--Summer-Fall-2027---Hybrid-_01873555": 1790923532,
@@ -8050,5 +8053,5 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148,
   "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541": 1789106107
  },
- "updated_at": 1791959028
+ "updated_at": 1791963152
 }

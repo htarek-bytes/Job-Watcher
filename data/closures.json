@@ -1,90 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1791552963,
-   "company": "freedomconsulting",
-   "hours_open": 879.6,
-   "title": "Junior Software Engineer 744",
-   "uid": "greenhouse:freedomconsulting:5199607007"
-  },
-  {
-   "closed_at": 1791552963,
-   "company": "agile-defense",
-   "hours_open": 860.6,
-   "title": "Data Engineer - CDAO",
-   "uid": "lever:agile-defense:45d8560d-1321-4603-a2fc-db27f1bd3425"
-  },
-  {
-   "closed_at": 1791553775,
-   "company": "shieldai",
-   "hours_open": 196.9,
-   "title": "Safety-Critical Software Engineer (R5788)",
-   "uid": "lever:shieldai:bfa00574-c549-48fb-9065-2840c4d17cfc"
-  },
-  {
-   "closed_at": 1791553775,
-   "company": "Source Code",
-   "hours_open": 62.8,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:systems analyst:50440640"
-  },
-  {
-   "closed_at": 1791553775,
-   "company": "CAE",
-   "hours_open": 62.5,
-   "title": "Embedded System Specialist",
-   "uid": "simplify:listings:97a859bd-1aef-427f-9ffe-f8687989c427"
-  },
-  {
-   "closed_at": 1791553775,
-   "company": "twitch",
-   "hours_open": 857.9,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1791554054,
-   "company": "AECOM",
-   "hours_open": 17.7,
-   "title": "Entry-Level Roadway Engineer - Networking Event with AECOM – Atlanta, GA",
-   "uid": "smartrecruiters:AECOM2:744000154441987"
-  },
-  {
-   "closed_at": 1791554054,
-   "company": "Bosch Group",
-   "hours_open": 17.7,
-   "title": "Junior Digital Verification Engineer",
-   "uid": "smartrecruiters:BoschGroup:744000154430929"
-  },
-  {
-   "closed_at": 1791554054,
-   "company": "Bosch Group",
-   "hours_open": 17.7,
-   "title": "[EAA] Embedded Software Test Engineer Intern (C/C++)",
-   "uid": "smartrecruiters:BoschGroup:744000154384809"
-  },
-  {
-   "closed_at": 1791554054,
-   "company": "ADGA Group Consultants Inc",
-   "hours_open": 495.9,
-   "title": "Intelligence Mission Data Systems Analyst",
-   "uid": "smartrecruiters:ADGAGroupConsultantsInc1:744000150431169"
-  },
-  {
-   "closed_at": 1791554054,
-   "company": "CANMEC",
-   "hours_open": 0.4,
-   "title": "Nous agrandissons l'équipe ON RECRUTE Technicien informatique",
-   "uid": "jobillico:technicien informatique:17600094"
-  },
-  {
-   "closed_at": 1791554054,
-   "company": "twitch",
-   "hours_open": 860.9,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
    "closed_at": 1791554054,
    "company": "Source Code",
    "hours_open": 36.7,
@@ -5599,8 +5515,92 @@
    "hours_open": 973.4,
    "title": "Integration Engineer (Starship) - Night Shift",
    "uid": "greenhouse:spacex:8527462002"
+  },
+  {
+   "closed_at": 1791963151,
+   "company": "jabil",
+   "hours_open": 144.2,
+   "title": "Electronic Engineer I",
+   "uid": "workday:jabil.wd5/Jabil_Careers:Electronic-Engineer-I_J2452980"
+  },
+  {
+   "closed_at": 1791963151,
+   "company": "harriscomputer",
+   "hours_open": 14.3,
+   "title": "Associate Software Engineer",
+   "uid": "workday:harriscomputer.wd3/1:Associate-Software-Engineer_R0047141"
+  },
+  {
+   "closed_at": 1791963151,
+   "company": "globalhr",
+   "hours_open": 14.3,
+   "title": "Software Engineering Intern (Summer 2027)",
+   "uid": "workday:globalhr.wd5/Private_Posting_No_TMP:Software-Engineering-Intern--Summer-2027-_01880895-1"
+  },
+  {
+   "closed_at": 1791963151,
+   "company": "Stellar Software Solutions",
+   "hours_open": 96.8,
+   "title": "network infrastructure engineer",
+   "uid": "jobbank:infrastructure analyst:50462911"
+  },
+  {
+   "closed_at": 1791963151,
+   "company": "CANMEC",
+   "hours_open": 114.0,
+   "title": "Nous agrandissons l'équipe ON RECRUTE Technicien informatique",
+   "uid": "jobillico:technicien informatique:17600094"
+  },
+  {
+   "closed_at": 1791963151,
+   "company": "Medavie",
+   "hours_open": 38.6,
+   "title": "applications analyst - computer systems",
+   "uid": "jobbank:systems analyst:50479326"
+  },
+  {
+   "closed_at": 1791963151,
+   "company": "highmarkhealth",
+   "hours_open": 185.9,
+   "title": "Associate Software Engineer",
+   "uid": "workday:highmarkhealth.wd1/highmark:Associate-Software-Engineer_J286291"
+  },
+  {
+   "closed_at": 1791963151,
+   "company": "geaerospace",
+   "hours_open": 36.6,
+   "title": "Engines Engineering Co-op – Computer or Software Engineering – US – Fall 2027 - Returning Students",
+   "uid": "workday:geaerospace.wd5/ge_externalsite:Engines-Engineering-Co-op---Computer-or-Software-Engineering---US---Fall-2027---Returning-Students_R5030075-1"
+  },
+  {
+   "closed_at": 1791963151,
+   "company": "geaerospace",
+   "hours_open": 36.6,
+   "title": "Engines Engineering Intern – Computer or Software Engineering – US – Summer 2027 - Returning Students",
+   "uid": "workday:geaerospace.wd5/ge_externalsite:Engines-Engineering-Intern---Computer-or-Software-Engineering---US---Summer-2027---Returning-Students_R5030074-1"
+  },
+  {
+   "closed_at": 1791963151,
+   "company": "Lakeland Roman Catholic Separate School Division",
+   "hours_open": 513.2,
+   "title": "computer systems analyst",
+   "uid": "jobbank:control systems analyst:50064831"
+  },
+  {
+   "closed_at": 1791963151,
+   "company": "globalfoundries",
+   "hours_open": 996.0,
+   "title": "Packaging Design Integration Engineer (2026 New College Graduate)",
+   "uid": "workday:globalfoundries.wd1/External:Packaging-Design-Integration-Engineer--2026-New-College-Graduate-_JR-2603919"
+  },
+  {
+   "closed_at": 1791963151,
+   "company": "L3Harris Technologies",
+   "hours_open": 176.5,
+   "title": "Associate Software Engineer 1",
+   "uid": "simplify:listings:6ddb8adb-ad8e-4cb9-9c50-bb88be88f2a6"
   }
  ],
- "count": 823,
- "updated_at": 1791959028
+ "count": 812,
+ "updated_at": 1791963152
 }
