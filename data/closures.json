@@ -1,111 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1791598928,
-   "company": "saronic",
-   "hours_open": 870.3,
-   "title": "Structures Test Engineer",
-   "uid": "ashby:saronic:89c34139-0005-4bd5-aa25-845d56a76bd3"
-  },
-  {
-   "closed_at": 1791598928,
-   "company": "spacex",
-   "hours_open": 873.4,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1791599248,
-   "company": "Source Code",
-   "hours_open": 0.2,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:systems analyst:50449266"
-  },
-  {
-   "closed_at": 1791599248,
-   "company": "Bell Canada",
-   "hours_open": 35.6,
-   "title": "analyst, computer systems",
-   "uid": "jobbank:analyste de systemes:50419044"
-  },
-  {
-   "closed_at": 1791599248,
-   "company": "Groupe DCM",
-   "hours_open": 519.4,
-   "title": "Programmeur CNC / CNC Programmer",
-   "uid": "jobillico:programmeur junior:17534670"
-  },
-  {
-   "closed_at": 1791599537,
-   "company": "Source Code",
-   "hours_open": 75.5,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:systems analyst:50440640"
-  },
-  {
-   "closed_at": 1791599537,
-   "company": "Bell Canada",
-   "hours_open": 140.2,
-   "title": "analyst, computer systems",
-   "uid": "jobbank:systems analyst:50419044"
-  },
-  {
-   "closed_at": 1791599537,
-   "company": "Cooptel",
-   "hours_open": 753.4,
-   "title": "Administrateur réseau",
-   "uid": "jobillico:analyste reseau:17185045"
-  },
-  {
-   "closed_at": 1791599537,
-   "company": "CANMEC",
-   "hours_open": 13.0,
-   "title": "Nous agrandissons l'équipe ON RECRUTE Technicien informatique",
-   "uid": "jobillico:technicien informatique:17600094"
-  },
-  {
-   "closed_at": 1791599537,
-   "company": "twitch",
-   "hours_open": 873.6,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1791599537,
-   "company": "spacex",
-   "hours_open": 870.6,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1791614826,
-   "company": "Stellar Software Solutions",
-   "hours_open": 9.5,
-   "title": "network infrastructure engineer",
-   "uid": "jobbank:specialiste infrastructure:50462911"
-  },
-  {
-   "closed_at": 1791614826,
-   "company": "Maarut",
-   "hours_open": 96.3,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50434328"
-  },
-  {
-   "closed_at": 1791614826,
-   "company": "Nesda Technologies Ltd",
-   "hours_open": 354.0,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50364672"
-  },
-  {
-   "closed_at": 1791614826,
-   "company": "TD Bank",
-   "hours_open": 162.7,
-   "title": "Software Engineer 1",
-   "uid": "simplify:listings:4a59e495-170c-4f60-a7fe-8a6708d5ce94"
-  },
-  {
    "closed_at": 1791614826,
    "company": "Aequilibrium Software Inc.",
    "hours_open": 337.5,
@@ -5599,8 +5494,113 @@
    "hours_open": 71.1,
    "title": "electrical controls engineer",
    "uid": "jobbank:control systems analyst:50464497"
+  },
+  {
+   "closed_at": 1792010428,
+   "company": "Stellar Software Solutions",
+   "hours_open": 119.4,
+   "title": "network infrastructure engineer",
+   "uid": "jobbank:specialiste infrastructure:50462911"
+  },
+  {
+   "closed_at": 1792010428,
+   "company": "1password",
+   "hours_open": 864.3,
+   "title": "Developer, Full Stack/iOS",
+   "uid": "ashby:1password:f51cc73a-fde2-4686-b54b-f183cdaedb45"
+  },
+  {
+   "closed_at": 1792010428,
+   "company": "abbott",
+   "hours_open": 163.5,
+   "title": "Associate Software Engineer",
+   "uid": "workday:abbott.wd5/abbottcareers:Associate-Software-Engineer_31163984-1"
+  },
+  {
+   "closed_at": 1792010428,
+   "company": "americancentury",
+   "hours_open": 452.2,
+   "title": "Infrastructure Automation Engineer Intern",
+   "uid": "workday:americancentury.wd5/AmericanCenturyInvestments:Infrastructure-Automation-Engineer-Intern_R0005750"
+  },
+  {
+   "closed_at": 1792010428,
+   "company": "Amazon",
+   "hours_open": 211.2,
+   "title": "Software Development Engineer, Amazon Leo for Government",
+   "uid": "amazon:amazon:10569946"
+  },
+  {
+   "closed_at": 1792010428,
+   "company": "Amazon",
+   "hours_open": 289.9,
+   "title": "Software Development Engineer, AWS Agentic AI",
+   "uid": "amazon:amazon:10568156"
+  },
+  {
+   "closed_at": 1792010428,
+   "company": "appdirect",
+   "hours_open": 863.1,
+   "title": "Pre-Sales Engineer",
+   "uid": "greenhouse:appdirect:8786257002"
+  },
+  {
+   "closed_at": 1792010428,
+   "company": "Slip Robotics",
+   "hours_open": 525.8,
+   "title": "Associate Field Robotics Engineer",
+   "uid": "workable:slip-robotics:406185F608"
+  },
+  {
+   "closed_at": 1792010428,
+   "company": "accenture",
+   "hours_open": 1004.6,
+   "title": "Software Engineering New Associate (Fresh Diploma Graduate Program)",
+   "uid": "workday:accenture.wd103/AccentureCareers:Software-Engineering-New-Associate--Fresh-Diploma-Graduate-Program-_R00144534"
+  },
+  {
+   "closed_at": 1792010428,
+   "company": "TP-Link Systems Inc.",
+   "hours_open": 1006.7,
+   "title": "2026 Early Career System Hardware Design Engineer",
+   "uid": "workable:tp-link-usa-corp:428D85D8DC"
+  },
+  {
+   "closed_at": 1792010428,
+   "company": "TP-Link Systems Inc.",
+   "hours_open": 1006.7,
+   "title": "2026 Early Career Embedded Software Engineer",
+   "uid": "workable:tp-link-usa-corp:F943A617EC"
+  },
+  {
+   "closed_at": 1792010428,
+   "company": "Northrop Grumman",
+   "hours_open": 22.0,
+   "title": "Associate Cloud Software Engineer 1",
+   "uid": "simplify:listings:220ebe6a-b4c3-4df9-ae47-b15716b1b0b3"
+  },
+  {
+   "closed_at": 1792010428,
+   "company": "rocketlab",
+   "hours_open": 980.7,
+   "title": "Electric Propulsion Test Engineer",
+   "uid": "greenhouse:rocketlab:7891331003"
+  },
+  {
+   "closed_at": 1792010428,
+   "company": "spacex",
+   "hours_open": 987.4,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1792010428,
+   "company": "spacex",
+   "hours_open": 986.0,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
- "count": 802,
- "updated_at": 1792006609
+ "count": 815,
+ "updated_at": 1792010429
 }
