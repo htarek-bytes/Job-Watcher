@@ -1,5 +1,5 @@
 {
- "count": 8060,
+ "count": 8067,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -4350,6 +4350,8 @@
   "jobbank:junior software developer:50489190": 1791934009,
   "jobbank:junior software developer:50489244": 1791934009,
   "jobbank:junior software developer:50492107": 1791955795,
+  "jobbank:junior software developer:50493091": 1791973931,
+  "jobbank:junior software developer:50493195": 1791973931,
   "jobbank:linux administrator:49626621": 1789082121,
   "jobbank:linux administrator:50163764": 1788887337,
   "jobbank:linux administrator:50205276": 1788887337,
@@ -4541,6 +4543,7 @@
   "jobbank:systems analyst:50491950": 1791955795,
   "jobbank:systems analyst:50492278": 1791959028,
   "jobbank:systems analyst:50492410": 1791959028,
+  "jobbank:systems analyst:50493270": 1791973931,
   "jobbank:telecommunications analyst:49780105": 1791390300,
   "jobbank:telecommunications analyst:49818659": 1791390300,
   "jobbank:telecommunications analyst:49947219": 1791390300,
@@ -7859,6 +7862,8 @@
   "workday:rockwellautomation.wd1/External_Rockwell_Automation:Intern--Technical-Sales---Consulting--Canada-_R26-5965-2": 1790041773,
   "workday:rockwellautomation.wd1/External_Rockwell_Automation:Intern--Technical-Sales---Consulting--USA-_R26-5962-2": 1790041773,
   "workday:rockwellautomation.wd1/External_Rockwell_Automation:Spring-2027-Co-op--Embedded-Software-Engineer--January-2027---August-2027-_R26-3473-1": 1790311773,
+  "workday:rollsroyce.wd3/Intern_Graduate:Integrated-Control-Systems-Engineer-Intern--Software-_JR6161452": 1791973931,
+  "workday:rollsroyce.wd3/Intern_Graduate:Integrated-Control-Systems-Engineer-Intern--Systems-_JR6161462": 1791973931,
   "workday:saabusa.wd1/saab_careers:Software-Engineer-Co-Op--Summer-2027-_R-03264-1": 1789425451,
   "workday:saabusa.wd1/saab_careers:Software-Engineering-Co-Op--Spring---Summer-2027-_R-03240-1": 1788550448,
   "workday:saabusa.wd1/saab_careers:Software-Engineering-Co-Op--Summer-2027-_R-03237-1": 1788474010,
@@ -7887,6 +7892,7 @@
   "workday:selinc.wd1/SEL:Senior-Automation-Engineer_2025-17812": 1791847101,
   "workday:selinc.wd1/SEL:Software-Engineer-Intern_2026-23076": 1790362723,
   "workday:selinc.wd1/SEL:Software-Engineering-Intern---Power-Systems_2026-22933": 1788539216,
+  "workday:semtech.wd1/SemtechCareers:Associate-Engineer--Software-Engineering_REQ3652": 1791973931,
   "workday:semtech.wd1/SemtechCareers:Software-Developer---Web-Cloud-Application--Co-op_REQ3644": 1791232806,
   "workday:shi.wd12/shicareers:Canada-Solutions-Engineer_JR3171": 1791654658,
   "workday:shi.wd12/shicareers:Enterprise-Solutions-Engineer_JR3414": 1791654658,
@@ -7895,6 +7901,7 @@
   "workday:shi.wd12/shicareers:Solutions-Engineer---Enterprise---NYC_JR2605": 1791654658,
   "workday:shi.wd12/shicareers:Solutions-Engineer---Enterprise_JR2785": 1791654658,
   "workday:shi.wd12/shicareers:Solutions-Engineer---Enterprise_JR3576": 1791702645,
+  "workday:shi.wd12/shicareers:Solutions-Engineer---Enterprise_JR3781": 1791973931,
   "workday:shi.wd12/shicareers:Solutions-Engineer---Strategic_JR2472-1": 1791654658,
   "workday:sierraspace.wd1/Sierra_Space_External_Career_Site:Loads---Dynamics-Engineer-I_R26356-1": 1791444813,
   "workday:sierraspace.wd1/Sierra_Space_External_Career_Site:Radiation-Engineer--Electrical--I_R26361-1": 1791444813,
@@ -8062,5 +8069,5 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148,
   "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541": 1789106107
  },
- "updated_at": 1791973079
+ "updated_at": 1791973932
 }
