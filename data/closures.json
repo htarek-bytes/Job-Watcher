@@ -2,20 +2,6 @@
  "closed": [
   {
    "closed_at": 1791598928,
-   "company": "twitch",
-   "hours_open": 870.5,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1791598928,
-   "company": "snowflake",
-   "hours_open": 75.4,
-   "title": "Solution Engineer",
-   "uid": "ashby:snowflake:8615dbbf-56c2-4321-a27b-8b691f5ec921"
-  },
-  {
-   "closed_at": 1791598928,
    "company": "saronic",
    "hours_open": 870.3,
    "title": "Structures Test Engineer",
@@ -5599,8 +5585,22 @@
    "hours_open": 986.6,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1792006609,
+   "company": "CANMEC",
+   "hours_open": 126.1,
+   "title": "Nous agrandissons l'équipe ON RECRUTE Technicien informatique",
+   "uid": "jobillico:technicien informatique:17600094"
+  },
+  {
+   "closed_at": 1792006609,
+   "company": "Great Lakes Group",
+   "hours_open": 71.1,
+   "title": "electrical controls engineer",
+   "uid": "jobbank:control systems analyst:50464497"
   }
  ],
- "count": 808,
- "updated_at": 1792006237
+ "count": 802,
+ "updated_at": 1792006609
 }
