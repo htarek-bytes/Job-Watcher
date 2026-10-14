@@ -2,27 +2,6 @@
  "closed": [
   {
    "closed_at": 1791586940,
-   "company": "CANMEC",
-   "hours_open": 9.5,
-   "title": "Nous agrandissons l'équipe ON RECRUTE Technicien informatique",
-   "uid": "jobillico:technicien informatique:17600094"
-  },
-  {
-   "closed_at": 1791586940,
-   "company": "1password",
-   "hours_open": 870.1,
-   "title": "Developer, Rust",
-   "uid": "ashby:1password:c247ea98-bf31-45f0-a38b-1fe255909538"
-  },
-  {
-   "closed_at": 1791586940,
-   "company": "isu",
-   "hours_open": 184.1,
-   "title": "Research and Development Engineer I",
-   "uid": "workday:isu.wd1/IowaStateJobs:Research-and-Development-Engineer-I_R20019-1"
-  },
-  {
-   "closed_at": 1791586940,
    "company": "kla",
    "hours_open": 215.2,
    "title": "Product Development Engineering Intern",
@@ -5599,8 +5578,29 @@
    "hours_open": 449.3,
    "title": "Cloud DevOps Engineer",
    "uid": "greenhouse:accenturefederalservices:4716350006"
+  },
+  {
+   "closed_at": 1791991610,
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
+   "hours_open": 862.3,
+   "title": "Administrateur Réseau TI",
+   "uid": "jobillico:analyste reseau:17386419"
+  },
+  {
+   "closed_at": 1791991610,
+   "company": "spacex",
+   "hours_open": 979.5,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1791991610,
+   "company": "spacex",
+   "hours_open": 982.5,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
   }
  ],
- "count": 812,
- "updated_at": 1791991009
+ "count": 803,
+ "updated_at": 1791991610
 }
