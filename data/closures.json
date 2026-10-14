@@ -1,62 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1791593852,
-   "company": "spacex",
-   "hours_open": 871.7,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1791598552,
-   "company": "Source Code",
-   "hours_open": 75.3,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:systems analyst:50440640"
-  },
-  {
-   "closed_at": 1791598552,
-   "company": "Bell Canada",
-   "hours_open": 139.9,
-   "title": "analyst, computer systems",
-   "uid": "jobbank:systems analyst:50419044"
-  },
-  {
-   "closed_at": 1791598552,
-   "company": "Groupe DCM",
-   "hours_open": 525.3,
-   "title": "Programmeur CNC / CNC Programmer",
-   "uid": "jobillico:programmeur junior:17534679"
-  },
-  {
-   "closed_at": 1791598552,
-   "company": "twitch",
-   "hours_open": 873.3,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1791598552,
-   "company": "spacex",
-   "hours_open": 27.5,
-   "title": "Site Reliability Engineer, Data Center Infrastructure ",
-   "uid": "greenhouse:spacex:8880672002"
-  },
-  {
-   "closed_at": 1791598552,
-   "company": "spacex",
-   "hours_open": 871.6,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1791598928,
-   "company": "Cooptel",
-   "hours_open": 753.2,
-   "title": "Administrateur réseau",
-   "uid": "jobillico:analyste reseau:17185045"
-  },
-  {
    "closed_at": 1791598928,
    "company": "twitch",
    "hours_open": 870.5,
@@ -5599,8 +5543,64 @@
    "hours_open": 986.0,
    "title": "DevOps Engineer",
    "uid": "greenhouse:accenturefederalservices:4689022006"
+  },
+  {
+   "closed_at": 1792006237,
+   "company": "Sopra Steria",
+   "hours_open": 17.4,
+   "title": "Digital Learning and Media Production Support Officer [26182]",
+   "uid": "smartrecruiters:SopraSteria1:744000155271799"
+  },
+  {
+   "closed_at": 1792006237,
+   "company": "ServiceNow",
+   "hours_open": 143.2,
+   "title": "Cybersecurity Advisory Solution Consultant",
+   "uid": "smartrecruiters:ServiceNow:744000154436554"
+  },
+  {
+   "closed_at": 1792006237,
+   "company": "ServiceNow",
+   "hours_open": 163.6,
+   "title": "Forward Deployed Solution Engineer – Applied AI FDE",
+   "uid": "smartrecruiters:ServiceNow:744000154154044"
+  },
+  {
+   "closed_at": 1792006237,
+   "company": "Amazon",
+   "hours_open": 50.6,
+   "title": "Software Development Engineer, Inter Datacenter Network Engineering",
+   "uid": "amazon:amazon:10575760"
+  },
+  {
+   "closed_at": 1792006237,
+   "company": "twitch",
+   "hours_open": 983.6,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1792006237,
+   "company": "spacex",
+   "hours_open": 986.6,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1792006237,
+   "company": "spacex",
+   "hours_open": 986.6,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1792006237,
+   "company": "spacex",
+   "hours_open": 986.6,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 814,
- "updated_at": 1792004396
+ "count": 808,
+ "updated_at": 1792006237
 }
