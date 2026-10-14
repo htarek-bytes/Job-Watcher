@@ -1,97 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1791563644,
-   "company": "Groupe DCM",
-   "hours_open": 515.6,
-   "title": "Programmeur CNC / CNC Programmer",
-   "uid": "jobillico:programmeur junior:17534679"
-  },
-  {
-   "closed_at": 1791563644,
-   "company": "Amazon",
-   "hours_open": 22.7,
-   "title": "Software Development Engineer, Cloudwatch Agent Observability",
-   "uid": "amazon:amazon:10573558"
-  },
-  {
-   "closed_at": 1791563644,
-   "company": "Amazon",
-   "hours_open": 213.9,
-   "title": "Software Development Engineer, Amazon Quick",
-   "uid": "amazon:amazon:10565705"
-  },
-  {
-   "closed_at": 1791563644,
-   "company": "Kwikwetlem First Nation",
-   "hours_open": 717.2,
-   "title": "communications specialist",
-   "uid": "jobbank:specialiste infrastructure:50252116"
-  },
-  {
-   "closed_at": 1791563644,
-   "company": "Freedom Technology Solutions Group",
-   "hours_open": 498.6,
-   "title": "Junior Software Engineer",
-   "uid": "simplify:listings:1137567c-261b-4ccb-8a65-00a55a4d57b5"
-  },
-  {
-   "closed_at": 1791563644,
-   "company": "Princeton IT Services Inc",
-   "hours_open": 881.5,
-   "title": "software development programmer",
-   "uid": "jobbank:junior programmer:50092595"
-  },
-  {
-   "closed_at": 1791563644,
-   "company": "RTX",
-   "hours_open": 16.2,
-   "title": "Embedded Security Software Engineer 1",
-   "uid": "simplify:listings:9199e425-2144-4178-bac6-c9f1802f9f1e"
-  },
-  {
-   "closed_at": 1791563644,
-   "company": "RTX",
-   "hours_open": 22.7,
-   "title": "Embedded Software Engineer 1",
-   "uid": "simplify:listings:eca699ea-4b3d-45f9-bfb7-6f596296fddc"
-  },
-  {
-   "closed_at": 1791563644,
-   "company": "rocketlab",
-   "hours_open": 256.1,
-   "title": "Avionics Test Engineer I",
-   "uid": "greenhouse:rocketlab:8007235003"
-  },
-  {
-   "closed_at": 1791563644,
-   "company": "RTX",
-   "hours_open": 16.2,
-   "title": "Software Engineer 1",
-   "uid": "simplify:listings:ac4101d2-7b55-4a95-8cb3-623155d4a3d5"
-  },
-  {
-   "closed_at": 1791563644,
-   "company": "spacex",
-   "hours_open": 863.6,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1791563644,
-   "company": "spacex",
-   "hours_open": 863.6,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1791572271,
-   "company": "CWILL",
-   "hours_open": 64.5,
-   "title": "DevOps/SRE Engineer - Bilingual Mandarin Required",
-   "uid": "workable:cwill-us:B2199498C1"
-  },
-  {
    "closed_at": 1791572271,
    "company": "Sopra Steria",
    "hours_open": 43.1,
@@ -5599,8 +5508,99 @@
    "hours_open": 15.6,
    "title": "Junior Software Developer",
    "uid": "workday:leidos.wd5/External:Junior-Software-Developer_R-00194110"
+  },
+  {
+   "closed_at": 1791973079,
+   "company": "Export Development Canada | Exportation et développement Canada",
+   "hours_open": 23.2,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50483505"
+  },
+  {
+   "closed_at": 1791973079,
+   "company": "Stellar Software Solutions",
+   "hours_open": 99.5,
+   "title": "network infrastructure engineer",
+   "uid": "jobbank:infrastructure analyst:50462911"
+  },
+  {
+   "closed_at": 1791973079,
+   "company": "nvidia",
+   "hours_open": 91.1,
+   "title": "ASIC Clocks Verification Engineer - New College Grad 2026",
+   "uid": "workday:nvidia.wd5/NVIDIAExternalCareerSite:ASIC-Clocks-Verification-Engineer---New-College-Grad-2026_JR2027579"
+  },
+  {
+   "closed_at": 1791973079,
+   "company": "rb",
+   "hours_open": 164.4,
+   "title": "AI Solutions Engineer - Associate",
+   "uid": "workday:rb.wd5/FRS:AI-Solutions-Engineer---Associate_R-0000033675-1"
+  },
+  {
+   "closed_at": 1791973079,
+   "company": "nvidia",
+   "hours_open": 14.7,
+   "title": "Formal Verification Engineer - New College Grad 2026",
+   "uid": "workday:nvidia.wd5/NVIDIAExternalCareerSite:Formal-Verification-Engineer---New-College-Grad-2026_JR2007627"
+  },
+  {
+   "closed_at": 1791973079,
+   "company": "pg",
+   "hours_open": 980.7,
+   "title": "Purdue University R&D Engineer Co-op- Purdue Students Graduating in 2028/2029 ONLY",
+   "uid": "workday:pg.wd5/1000:Purdue-University-R-D-Engineer-Co-op--Purdue-Students-Graduating-in-2028-2029-ONLY_R000155305"
+  },
+  {
+   "closed_at": 1791973079,
+   "company": "paloaltonetworks",
+   "hours_open": 893.4,
+   "title": "Solutions Consultant",
+   "uid": "workday:paloaltonetworks.wd5/panwexternalcareers:Solutions-Consultant_JR-020644"
+  },
+  {
+   "closed_at": 1791973079,
+   "company": "ngc",
+   "hours_open": 14.7,
+   "title": "2027 Intern Engineer - Product Support",
+   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Intern-Engineer---Product-Support_R10255683-1"
+  },
+  {
+   "closed_at": 1791973079,
+   "company": "ngc",
+   "hours_open": 37.0,
+   "title": "2027 Systems Engineer Intern - Chantilly VA",
+   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Software-Engineer-Intern---Chantilly-VA_R10255633"
+  },
+  {
+   "closed_at": 1791973079,
+   "company": "twitch",
+   "hours_open": 974.4,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1791973079,
+   "company": "Hi-Tech Solution",
+   "hours_open": 161.9,
+   "title": "telecommunications service tester",
+   "uid": "jobbank:telecommunications analyst:49955305"
+  },
+  {
+   "closed_at": 1791973079,
+   "company": "spacex",
+   "hours_open": 977.1,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1791973079,
+   "company": "spacex",
+   "hours_open": 977.3,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 811,
- "updated_at": 1791971241
+ "count": 813,
+ "updated_at": 1791973079
 }
