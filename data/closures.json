@@ -1,48 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1791505348,
-   "company": "spacex",
-   "hours_open": 847.4,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1791505348,
-   "company": "spacex",
-   "hours_open": 847.4,
-   "title": "Embedded Software Engineer, OS/Platform (Starshield)",
-   "uid": "greenhouse:spacex:8530798002"
-  },
-  {
-   "closed_at": 1791505898,
-   "company": "bmo",
-   "hours_open": 0.2,
-   "title": "Software Developer ( Early Career )-15",
-   "uid": "workday:bmo.wd3/External:Software-Developer---Early-Career---15_R260021450"
-  },
-  {
-   "closed_at": 1791505898,
-   "company": "entrust",
-   "hours_open": 39.6,
-   "title": "Software Engineer Co-op",
-   "uid": "workday:entrust.wd1/entrustcareers:Software-Engineer-Co-op_R004416"
-  },
-  {
-   "closed_at": 1791505898,
-   "company": "dxctechnology",
-   "hours_open": 467.2,
-   "title": "Junior Java Developer",
-   "uid": "workday:dxctechnology.wd1/dxcjobs:Junior-Java-Developer_51584530"
-  },
-  {
-   "closed_at": 1791505898,
-   "company": "ebi",
-   "hours_open": 554.3,
-   "title": "Product Engineer Intern",
-   "uid": "workday:ebi.wd5/ebadcareers:Product-Engineer-Intern_REQ107697"
-  },
-  {
    "closed_at": 1791505898,
    "company": "disney",
    "hours_open": 209.0,
@@ -5599,8 +5557,50 @@
    "hours_open": 965.4,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1791937387,
+   "company": "economicmodeling",
+   "hours_open": 19.3,
+   "title": "Sales Solutions Engineer - 1079",
+   "uid": "lever:economicmodeling:937c703c-975e-441e-8a50-c453138edf16"
+  },
+  {
+   "closed_at": 1791937387,
+   "company": "Groupe DCM",
+   "hours_open": 619.5,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534679"
+  },
+  {
+   "closed_at": 1791937387,
+   "company": "agile-defense",
+   "hours_open": 967.4,
+   "title": "System Engineer (MBSE)",
+   "uid": "lever:agile-defense:7798d63a-674f-4e35-829c-3852505c40bc"
+  },
+  {
+   "closed_at": 1791937387,
+   "company": "NVIDIA",
+   "hours_open": 1004.1,
+   "title": "ASIC Verification Engineer New Grad",
+   "uid": "simplify:listings:f5893e69-dd4b-4dc3-a8ff-6cd0a24bde9f"
+  },
+  {
+   "closed_at": 1791937387,
+   "company": "spacex",
+   "hours_open": 967.4,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1791937387,
+   "company": "spacex",
+   "hours_open": 967.1,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
   }
  ],
- "count": 808,
- "updated_at": 1791936036
+ "count": 806,
+ "updated_at": 1791937388
 }
