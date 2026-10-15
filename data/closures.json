@@ -1,125 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1791824020,
-   "company": "Talroo",
-   "hours_open": 972.6,
-   "title": "Associate Software Engineer",
-   "uid": "simplify:listings:8887ad16-4066-4575-b625-4ceb47a7ccc1"
-  },
-  {
-   "closed_at": 1791824020,
-   "company": "adyen",
-   "hours_open": 62.4,
-   "title": "Software Engineer I (Front End) - Lifecycle Experience",
-   "uid": "greenhouse:adyen:8153114"
-  },
-  {
-   "closed_at": 1791824020,
-   "company": "caci",
-   "hours_open": 69.6,
-   "title": "Junior Software Engineer",
-   "uid": "workday:caci.wd1/external:Junior-Software-Engineer_333295"
-  },
-  {
-   "closed_at": 1791824020,
-   "company": "caci",
-   "hours_open": 234.4,
-   "title": "Early Career NASA Space Reactor – 1 Freedom Flight Software Development Engineer",
-   "uid": "workday:caci.wd1/external:Early-Career-NASA-Space-Reactor---1-Freedom-Flight-Software-Development-Engineer_333050"
-  },
-  {
-   "closed_at": 1791824020,
-   "company": "RTX",
-   "hours_open": 281.7,
-   "title": "Software Developer Engineer 1",
-   "uid": "simplify:listings:8e1c4d71-6011-41b4-8948-e9bef181663f"
-  },
-  {
-   "closed_at": 1791824020,
-   "company": "spacex",
-   "hours_open": 935.9,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1791824020,
-   "company": "spacex",
-   "hours_open": 935.9,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1791827431,
-   "company": "alarmcom",
-   "hours_open": 0.9,
-   "title": "Quality Engineer",
-   "uid": "greenhouse:alarmcom:8870659002"
-  },
-  {
-   "closed_at": 1791827431,
-   "company": "figureai",
-   "hours_open": 138.8,
-   "title": "Security Engineer Intern [Winter 2027]",
-   "uid": "greenhouse:figureai:4719593006"
-  },
-  {
-   "closed_at": 1791827431,
-   "company": "accenturefederalservices",
-   "hours_open": 147.3,
-   "title": "Information Systems Security Engineer (ISSE)",
-   "uid": "greenhouse:accenturefederalservices:4719254006"
-  },
-  {
-   "closed_at": 1791827431,
-   "company": "Stellar Software Solutions",
-   "hours_open": 59.1,
-   "title": "network infrastructure engineer",
-   "uid": "jobbank:infrastructure analyst:50462911"
-  },
-  {
-   "closed_at": 1791827431,
-   "company": "Great Lakes Group",
-   "hours_open": 21.3,
-   "title": "electrical controls engineer",
-   "uid": "jobbank:control systems analyst:50464497"
-  },
-  {
-   "closed_at": 1791827431,
-   "company": "Source Code",
-   "hours_open": 138.8,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:systems analyst:50440640"
-  },
-  {
-   "closed_at": 1791827431,
-   "company": "Groupe DCM",
-   "hours_open": 582.8,
-   "title": "Programmeur CNC / CNC Programmer",
-   "uid": "jobillico:programmeur junior:17534670"
-  },
-  {
-   "closed_at": 1791827431,
-   "company": "ebi",
-   "hours_open": 329.4,
-   "title": "Product Engineer Intern",
-   "uid": "workday:ebi.wd5/ebicareers:Product-Engineer-Intern_REQ107697-1"
-  },
-  {
-   "closed_at": 1791827431,
-   "company": "relativity",
-   "hours_open": 935.2,
-   "title": "Quality Inspector Technical Specialist I ",
-   "uid": "greenhouse:relativity:8641281002"
-  },
-  {
-   "closed_at": 1791827431,
-   "company": "mongodb",
-   "hours_open": 623.5,
-   "title": "Software Engineer 3, Atlas Search Systems",
-   "uid": "greenhouse:mongodb:7523920"
-  },
-  {
    "closed_at": 1791827431,
    "company": "altentechnologyusa",
    "hours_open": 162.7,
@@ -5599,8 +5480,127 @@
    "hours_open": 1008.8,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1792100265,
+   "company": "shyftlabs",
+   "hours_open": 552.3,
+   "title": "Data Engineer -Databricks",
+   "uid": "lever:shyftlabs:caa715c3-56f5-497b-83dc-6e38a318b040"
+  },
+  {
+   "closed_at": 1792100265,
+   "company": "Hewlett Packard Enterprise",
+   "hours_open": 17.1,
+   "title": "VLSI Engineer 1",
+   "uid": "simplify:listings:1b0f87a8-276f-4a3a-9c55-02609b1b724d"
+  },
+  {
+   "closed_at": 1792100265,
+   "company": "Stellar Software Solutions",
+   "hours_open": 134.8,
+   "title": "network infrastructure engineer",
+   "uid": "jobbank:infrastructure analyst:50462911"
+  },
+  {
+   "closed_at": 1792100265,
+   "company": "Hewlett Packard Enterprise",
+   "hours_open": 3.2,
+   "title": "Electrical Hardware Engineer 1",
+   "uid": "simplify:listings:01344890-67d8-4104-b037-69d43c22eed3"
+  },
+  {
+   "closed_at": 1792100265,
+   "company": "Micron Technology",
+   "hours_open": 669.3,
+   "title": "AI Infrastructure & HBM Architecture Engineer New Grad",
+   "uid": "simplify:listings:4b27fb44-61dc-4210-81de-325e8e32c947"
+  },
+  {
+   "closed_at": 1792100265,
+   "company": "Amazon",
+   "hours_open": 217.8,
+   "title": "Software Development Engineer, Advanced Analytics - LLD",
+   "uid": "amazon:amazon:10571021"
+  },
+  {
+   "closed_at": 1792100265,
+   "company": "Amazon",
+   "hours_open": 149.1,
+   "title": "Software Development Engineer, DynamoDB Index and Search",
+   "uid": "amazon:amazon:10574713"
+  },
+  {
+   "closed_at": 1792100265,
+   "company": "Amazon",
+   "hours_open": 159.3,
+   "title": "Software Development Engineer, Ads AI Core Infra",
+   "uid": "amazon:amazon:10574268"
+  },
+  {
+   "closed_at": 1792100265,
+   "company": "Amazon",
+   "hours_open": 74.6,
+   "title": "Software Development Engineer, Agentic Workspaces",
+   "uid": "amazon:amazon:10576141"
+  },
+  {
+   "closed_at": 1792100265,
+   "company": "twitch",
+   "hours_open": 1012.7,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1792100265,
+   "company": "field-ai",
+   "hours_open": 930.6,
+   "title": "AI Solutions Engineer (Fixed-Term)",
+   "uid": "lever:field-ai:65561b5c-2348-4b88-9e73-ff9c6265dbf4"
+  },
+  {
+   "closed_at": 1792100265,
+   "company": "justworks",
+   "hours_open": 45.6,
+   "title": "Software Engineer",
+   "uid": "greenhouse:justworks:6917404"
+  },
+  {
+   "closed_at": 1792100265,
+   "company": "Superhuman",
+   "hours_open": 740.0,
+   "title": "Software Engineer - Early Career",
+   "uid": "simplify:listings:1c123b94-fb07-4a60-97b4-43dec605b42f"
+  },
+  {
+   "closed_at": 1792100265,
+   "company": "cloudflare",
+   "hours_open": 1012.7,
+   "title": "Vulnerability Management Engineer",
+   "uid": "greenhouse:cloudflare:7579269"
+  },
+  {
+   "closed_at": 1792100265,
+   "company": "RTX",
+   "hours_open": 30.9,
+   "title": "Software Engineer 1",
+   "uid": "simplify:listings:978ae261-9fe1-407c-a650-d771ba39ab6d"
+  },
+  {
+   "closed_at": 1792100265,
+   "company": "spacex",
+   "hours_open": 1012.7,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1792100265,
+   "company": "Northrop Grumman",
+   "hours_open": 1049.3,
+   "title": "Associate Software Engineer/Software Engineer - Associate Engineer Software (T01) - Engineer Software (T02)",
+   "uid": "simplify:listings:47db7b74-b29c-4098-9e87-68af93ab3843"
   }
  ],
- "count": 806,
- "updated_at": 1792092566
+ "count": 817,
+ "updated_at": 1792100266
 }
