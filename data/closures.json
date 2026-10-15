@@ -2,41 +2,6 @@
  "closed": [
   {
    "closed_at": 1791778908,
-   "company": "Groupe DCM",
-   "hours_open": 569.3,
-   "title": "Programmeur CNC / CNC Programmer",
-   "uid": "jobillico:programmeur junior:17534670"
-  },
-  {
-   "closed_at": 1791778908,
-   "company": "cscgeneration-2",
-   "hours_open": 612.5,
-   "title": "AI Solutions Engineer",
-   "uid": "lever:cscgeneration-2:40715594-0edc-4909-967c-71d252215c51"
-  },
-  {
-   "closed_at": 1791778908,
-   "company": "twitch",
-   "hours_open": 920.5,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1791778908,
-   "company": "LogiSense Corporation",
-   "hours_open": 146.9,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50432855"
-  },
-  {
-   "closed_at": 1791778908,
-   "company": "TikTok",
-   "hours_open": 960.0,
-   "title": "Backend Software Engineer New Grad - Trust & Safety",
-   "uid": "simplify:listings:de1b7df6-c4f8-41ea-bdff-5598ed16df6d"
-  },
-  {
-   "closed_at": 1791778908,
    "company": "Prevue HR Systems Inc.",
    "hours_open": 155.2,
    "title": "software developer",
@@ -5599,8 +5564,43 @@
    "hours_open": 1003.3,
    "title": "Security Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1792079350,
+   "company": "Stellar Software Solutions",
+   "hours_open": 138.6,
+   "title": "network infrastructure engineer",
+   "uid": "jobbank:specialiste infrastructure:50462911"
+  },
+  {
+   "closed_at": 1792079350,
+   "company": "trimedx",
+   "hours_open": 15.2,
+   "title": "Imaging Engineer I",
+   "uid": "workday:trimedx.wd1/TMX:Imaging-Engineer-I_R15129"
+  },
+  {
+   "closed_at": 1792079350,
+   "company": "spacex",
+   "hours_open": 886.7,
+   "title": "Telecommunications Specialist",
+   "uid": "greenhouse:spacex:8688026002"
+  },
+  {
+   "closed_at": 1792079350,
+   "company": "spacex",
+   "hours_open": 1006.9,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1792079350,
+   "company": "spacex",
+   "hours_open": 1006.9,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 806,
- "updated_at": 1792077009
+ "count": 805,
+ "updated_at": 1792079352
 }
