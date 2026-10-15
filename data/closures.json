@@ -1,55 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1791654658,
-   "company": "NOV",
-   "hours_open": 925.5,
-   "title": "Product Engineer 1",
-   "uid": "simplify:listings:e6e83f1e-6b71-420e-9c60-f96aa09727e3"
-  },
-  {
-   "closed_at": 1791658366,
-   "company": "CANMEC",
-   "hours_open": 29.4,
-   "title": "Nous agrandissons l'équipe ON RECRUTE Technicien informatique",
-   "uid": "jobillico:technicien informatique:17600094"
-  },
-  {
-   "closed_at": 1791658366,
-   "company": "Cooptel",
-   "hours_open": 769.7,
-   "title": "Administrateur réseau",
-   "uid": "jobillico:analyste reseau:17185045"
-  },
-  {
-   "closed_at": 1791658366,
-   "company": "twitch",
-   "hours_open": 887.0,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1791658366,
-   "company": "spacex",
-   "hours_open": 887.0,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1791658366,
-   "company": "spacex",
-   "hours_open": 889.9,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1791658366,
-   "company": "spacex",
-   "hours_open": 889.9,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
    "closed_at": 1791659826,
    "company": "CANMEC",
    "hours_open": 29.8,
@@ -5599,8 +5550,57 @@
    "hours_open": 23.1,
    "title": "Software Development Engineer, Amazon Leo GBO Engineering",
    "uid": "amazon:amazon:10578122"
+  },
+  {
+   "closed_at": 1792022723,
+   "company": "semtech",
+   "hours_open": 13.6,
+   "title": "Associate Engineer, Software Engineering",
+   "uid": "workday:semtech.wd1/SemtechCareers:Associate-Engineer--Software-Engineering_REQ3652"
+  },
+  {
+   "closed_at": 1792022723,
+   "company": "discord",
+   "hours_open": 700.2,
+   "title": "Software Engineer, Distributed Systems",
+   "uid": "greenhouse:discord:8806163002"
+  },
+  {
+   "closed_at": 1792022723,
+   "company": "sralab",
+   "hours_open": 559.1,
+   "title": "Clinical Applications Analyst I",
+   "uid": "workday:sralab.wd1/SRAlabCareers:Clinical-Applications-Analyst-I_JR-1065540-1"
+  },
+  {
+   "closed_at": 1792022723,
+   "company": "salesforce",
+   "hours_open": 1012.5,
+   "title": "Software Engineering AMTS (College Grad)",
+   "uid": "workday:salesforce.wd12/Futureforce_NewGradRoles:Software-Engineering-AMTS--College-Grad-_JR355250"
+  },
+  {
+   "closed_at": 1792022723,
+   "company": "spacex",
+   "hours_open": 988.2,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1792022723,
+   "company": "spacex",
+   "hours_open": 990.9,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1792022723,
+   "company": "spacex",
+   "hours_open": 991.1,
+   "title": "Structures Engineer, Build (Starship)",
+   "uid": "greenhouse:spacex:8493500002"
   }
  ],
- "count": 812,
- "updated_at": 1792020479
+ "count": 807,
+ "updated_at": 1792022724
 }

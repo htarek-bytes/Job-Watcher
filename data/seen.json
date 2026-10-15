@@ -1,5 +1,5 @@
 {
- "count": 8186,
+ "count": 8191,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -3696,6 +3696,7 @@
   "greenhouse:spacex:8883775002": 1791831542,
   "greenhouse:spacex:8886427002": 1791931335,
   "greenhouse:spacex:8886434002": 1791997673,
+  "greenhouse:spacex:8889422002": 1792022723,
   "greenhouse:stratacareers:8030865003": 1791936035,
   "greenhouse:stripe:6042172": 1788454653,
   "greenhouse:stripe:6176758": 1788454653,
@@ -7970,6 +7971,8 @@
   "workday:resmed.wd3/ResMed_External_Careers:Associate-Software-Engineer_JR_053889-1": 1790884489,
   "workday:rochester.wd5/UR_Staff:Research-Data-Engineer-I_R269057": 1791381341,
   "workday:rockwellautomation.wd1/External-Rockwell-Automation-Early-Careers:Co-op--AI-Software-Engineering--6-8-months-_R26-6982": 1790535986,
+  "workday:rockwellautomation.wd1/External-Rockwell-Automation-Early-Careers:Co-op--Hardware-Development-Engineer--Jan---July-2027-_R26-6638": 1792022723,
+  "workday:rockwellautomation.wd1/External-Rockwell-Automation-Early-Careers:Co-op--Hardware-Development-Engineer--June---Dec-2027-_R26-6891": 1792022723,
   "workday:rockwellautomation.wd1/External-Rockwell-Automation-Early-Careers:Co-op--Technical-Sales--OTTO-by-Rockwell-Automation-_R26-6218": 1790535986,
   "workday:rockwellautomation.wd1/External-Rockwell-Automation-Early-Careers:Intern--AI-Software-Engineering--June-August-2027-_R26-6980": 1790535986,
   "workday:rockwellautomation.wd1/External-Rockwell-Automation-Early-Careers:Intern--Application-Engineer_R26-7707": 1791232806,
@@ -8102,6 +8105,8 @@
   "workday:thomsonreuters.wd5/External_Career_Site:Software-Engineer--Professional-Services-1_JREQ204070": 1791232806,
   "workday:thomsonreuters.wd5/External_Career_Site:Software-Engineer-1_JREQ203998": 1790820503,
   "workday:thomsonreuters.wd5/External_Career_Site:Software-Engineer-Co-Op_JREQ203587": 1790993922,
+  "workday:thrivent.wd5/external:Associate-Software-Engineer---Junior-Intern-Summer-2027_REQ-48334": 1792022723,
+  "workday:thrivent.wd5/external:IT-Application-Engineer-Intern--Investments---Summer-2027_REQ-48511-2": 1792022723,
   "workday:tjx.wd1/tjx_external:Business-Intelligence---Automation-Analyst-Co-op_REQ145459": 1788903151,
   "workday:tjx.wd1/tjx_external:IT-Engineer-Internship---Summer-2027_REQ153160": 1788539216,
   "workday:tmobile.wd1/External:Associate-Engineer--Agentic-AI_REQ368440": 1789517822,
@@ -8188,5 +8193,5 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148,
   "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541": 1789106107
  },
- "updated_at": 1792020479
+ "updated_at": 1792022724
 }
