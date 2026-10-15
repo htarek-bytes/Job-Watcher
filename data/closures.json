@@ -1,55 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1791702645,
-   "company": "relx",
-   "hours_open": 921.2,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - June)",
-   "uid": "workday:relx.wd3/RiskSolutions:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-1"
-  },
-  {
-   "closed_at": 1791702645,
-   "company": "relx",
-   "hours_open": 921.2,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Boca Raton - June)",
-   "uid": "workday:relx.wd3/RiskSolutions:Tech-Accelerate-Graduate-Program---Software-Engineer--Boca-Raton---June-_R116023-2"
-  },
-  {
-   "closed_at": 1791702645,
-   "company": "spacex",
-   "hours_open": 899.3,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1791703631,
-   "company": "CANMEC",
-   "hours_open": 41.9,
-   "title": "Nous agrandissons l'équipe ON RECRUTE Technicien informatique",
-   "uid": "jobillico:technicien informatique:17600094"
-  },
-  {
-   "closed_at": 1791703631,
-   "company": "Groupe DCM",
-   "hours_open": 548.4,
-   "title": "Programmeur CNC / CNC Programmer",
-   "uid": "jobillico:programmeur junior:17534670"
-  },
-  {
-   "closed_at": 1791703631,
-   "company": "twitch",
-   "hours_open": 902.5,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1791703631,
-   "company": "spacex",
-   "hours_open": 902.5,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
    "closed_at": 1791704068,
    "company": "Groupe DCM",
    "hours_open": 554.6,
@@ -5599,8 +5550,57 @@
    "hours_open": 1.1,
    "title": "network administrator",
    "uid": "jobbank:network administrator:50500279"
+  },
+  {
+   "closed_at": 1792045638,
+   "company": "Bosch Group",
+   "hours_open": 11.5,
+   "title": "IoT Engineer Intern (Jakarta)",
+   "uid": "smartrecruiters:BoschGroup:744000155438299"
+  },
+  {
+   "closed_at": 1792045638,
+   "company": "Bosch Group",
+   "hours_open": 11.5,
+   "title": "IoT Engineer Intern (Batam)",
+   "uid": "smartrecruiters:BoschGroup:744000155438229"
+  },
+  {
+   "closed_at": 1792045638,
+   "company": "Stellar Software Solutions",
+   "hours_open": 119.7,
+   "title": "network infrastructure engineer",
+   "uid": "jobbank:infrastructure analyst:50462911"
+  },
+  {
+   "closed_at": 1792045638,
+   "company": "DPMSYSTEMS IT CONSULTING SERVICES",
+   "hours_open": 0.9,
+   "title": "information systems analyst - computer systems",
+   "uid": "jobbank:information systems analyst:50311291"
+  },
+  {
+   "closed_at": 1792045638,
+   "company": "dlb-associates",
+   "hours_open": 1008.0,
+   "title": "Engineer Intern 2027",
+   "uid": "rippling:dlb-associates:c6f48880-fb91-42ab-b4db-a3bcdfe55903"
+  },
+  {
+   "closed_at": 1792045638,
+   "company": "twitch",
+   "hours_open": 997.5,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1792045638,
+   "company": "spacex",
+   "hours_open": 997.5,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
   }
  ],
  "count": 807,
- "updated_at": 1792042421
+ "updated_at": 1792045640
 }
