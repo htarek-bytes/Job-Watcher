@@ -1,5 +1,5 @@
 {
- "count": 8264,
+ "count": 8270,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -5767,6 +5767,7 @@
   "simplify:listings:8eaeeea9-e989-429e-afc9-1418dcb4545c": 1791268590,
   "simplify:listings:8edf16f9-31db-4a81-b28d-bfabbbdece38": 1789412713,
   "simplify:listings:8f1666d8-5267-460a-9e6f-0b622ef9f60d": 1789017180,
+  "simplify:listings:8fb0dded-666d-47fa-9cab-28bc7ada4f75": 1792077007,
   "simplify:listings:90326487-43c7-4181-ac71-44e331484bf4": 1788322770,
   "simplify:listings:90b7dcd2-ef8d-4a60-891d-0978390afa8e": 1788322770,
   "simplify:listings:90b92c02-68ac-4402-b8f2-91494bc89e19": 1788322770,
@@ -6113,6 +6114,7 @@
   "simplify:listings:e388f3ae-1f83-414c-aa91-7073a448bb2e": 1788322770,
   "simplify:listings:e3baf487-91f1-4382-825c-a0b8cbdd9ea8": 1788322770,
   "simplify:listings:e3cfe515-6df5-4847-9b31-0a9b950a8524": 1788322770,
+  "simplify:listings:e3dc3916-c56e-4402-833e-d675b99b9d0c": 1792077007,
   "simplify:listings:e477c19e-0543-43fc-af92-9a394bca77e5": 1792017471,
   "simplify:listings:e4824029-8de4-4ad1-9c18-b4c968025116": 1788322770,
   "simplify:listings:e5120578-f019-43c6-9320-1c5f4685d5d8": 1788322770,
@@ -8069,6 +8071,7 @@
   "workday:salesforce.wd12/External_Career_Site:Solution-Engineer--Pre-Sales----Informatica_JR331878": 1788984410,
   "workday:salesforce.wd12/External_Career_Site:Solution-Engineer--Public-Sector--Canada_JR360224": 1790100520,
   "workday:salesforce.wd12/External_Career_Site:Specialist-Solution-Engineer_JR358388-1": 1789362913,
+  "workday:salesforce.wd12/External_Career_Site:Summer-2027-Intern---Solution-Engineer_JR364363-1": 1792077007,
   "workday:salesforce.wd12/Futureforce_NewGradRoles:Business-Development-Associate_JR347430": 1788454653,
   "workday:salesforce.wd12/Futureforce_NewGradRoles:Software-Engineering-AMTS--College-Grad-_JR355250": 1788377835,
   "workday:sandvik.wd3/sandvik-jobs:Solution-Engineer---Integration-Delivery_R0097990": 1790990847,
@@ -8090,14 +8093,17 @@
   "workday:semtech.wd1/SemtechCareers:Software-Developer---Web-Cloud-Application--Co-op_REQ3644": 1791232806,
   "workday:shi.wd12/shicareers:Canada-Solutions-Engineer_JR3171": 1791654658,
   "workday:shi.wd12/shicareers:Enterprise-Solutions-Engineer_JR3414": 1791654658,
+  "workday:shi.wd12/shicareers:IDCS-Solutions-Consultant_JR3026": 1792077007,
   "workday:shi.wd12/shicareers:Presales-Solutions-Engineer---Network_JR2387": 1791654658,
   "workday:shi.wd12/shicareers:Solutions-Engineer---Commercial_JR2638-2": 1791654658,
+  "workday:shi.wd12/shicareers:Solutions-Engineer---Commercial_JR3927": 1792077007,
   "workday:shi.wd12/shicareers:Solutions-Engineer---Enterprise---NYC_JR2605": 1791654658,
   "workday:shi.wd12/shicareers:Solutions-Engineer---Enterprise_JR2785": 1791654658,
   "workday:shi.wd12/shicareers:Solutions-Engineer---Enterprise_JR3576": 1791702645,
   "workday:shi.wd12/shicareers:Solutions-Engineer---Enterprise_JR3781": 1791973931,
   "workday:shi.wd12/shicareers:Solutions-Engineer---Strategic_JR2472-1": 1791654658,
   "workday:sierraspace.wd1/Sierra_Space_External_Career_Site:Loads---Dynamics-Engineer-I_R26356-1": 1791444813,
+  "workday:sierraspace.wd1/Sierra_Space_External_Career_Site:Material-Science-Engineer-I_R26360-1": 1792077007,
   "workday:sierraspace.wd1/Sierra_Space_External_Career_Site:Radiation-Engineer--Electrical--I_R26361-1": 1791444813,
   "workday:sierraspace.wd1/Sierra_Space_External_Career_Site:Test-Engineer-I_R26402-1": 1791847101,
   "workday:sierraspace.wd1/Sierra_Space_External_Career_Site:Thermal-Analysis-Engineer-I_R26353": 1791444813,
@@ -8266,5 +8272,5 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148,
   "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541": 1789106107
  },
- "updated_at": 1792076519
+ "updated_at": 1792077009
 }
