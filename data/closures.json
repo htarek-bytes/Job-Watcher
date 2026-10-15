@@ -2,20 +2,6 @@
  "closed": [
   {
    "closed_at": 1791700475,
-   "company": "Source Code",
-   "hours_open": 103.6,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:systems analyst:50440640"
-  },
-  {
-   "closed_at": 1791700475,
-   "company": "nationwide",
-   "hours_open": 132.0,
-   "title": "Engineer, Software Engineer (Post Issue Optimization) - Java, Angular, and AWS - Entry Level",
-   "uid": "workday:nationwide.wd1/Nationwide_Career:Engineer--Software-Engineer--Post-Issue-Optimization----Java--Angular--and-AWS---Entry-Level_100567"
-  },
-  {
-   "closed_at": 1791700475,
    "company": "CGI",
    "hours_open": 781.4,
    "title": "Analyste en opérations de cybersécurité",
@@ -5599,8 +5585,22 @@
    "hours_open": 995.5,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1792041134,
+   "company": "NVIDIA",
+   "hours_open": 122.9,
+   "title": "C++ Software Engineer New Grad - Infrastructure Tools",
+   "uid": "simplify:listings:82fb089b-e0cb-414d-9953-9f5d35538486"
+  },
+  {
+   "closed_at": 1792041134,
+   "company": "Amazon",
+   "hours_open": 60.3,
+   "title": "Software Development Engineer, Amazon Connect InterApps (AWS)",
+   "uid": "amazon:amazon:10575952"
   }
  ],
- "count": 806,
- "updated_at": 1792038632
+ "count": 802,
+ "updated_at": 1792041134
 }
