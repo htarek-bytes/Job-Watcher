@@ -1,5 +1,5 @@
 {
- "count": 8349,
+ "count": 8352,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -357,6 +357,7 @@
   "amazon:amazon:10580592": 1792100265,
   "amazon:amazon:10580768": 1792100265,
   "amazon:amazon:10580930": 1792100265,
+  "amazon:amazon:10580991": 1792108368,
   "ashby:1password:49f0fe51-fcdc-46d8-a046-35f357b0cf6e": 1792100265,
   "ashby:1password:4ff46f84-a5c9-4232-84b6-1dfa8e737148": 1788750148,
   "ashby:1password:7f885c41-7572-439c-886f-bc508eb9a3d7": 1788454653,
@@ -6984,6 +6985,8 @@
   "workday:ag.wd3/Airbus:Embedded-Software-Development-Engineer---Entry-level-Software-developer--m-f-_JR10427609-2": 1789743494,
   "workday:ag.wd3/Airbus:Engineering-Quality-Manager--m-f-_JR10422130-1": 1790922137,
   "workday:ag.wd3/Airbus:Flight-Control-System-Specialist---Spcialiste-des-Systmes-de-Commandes-de-Vol_JR10430617-1": 1790922137,
+  "workday:ag.wd3/Airbus:Intern-Frontend-Developer_JR10451058": 1792108368,
+  "workday:ag.wd3/Airbus:Intern-System-Integration-Developer_JR10451063": 1792108368,
   "workday:ag.wd3/Airbus:Internship-in-Avionics-Systems---Database-Architecture_JR10434356": 1790086284,
   "workday:ag.wd3/Airbus:Junior-Backend-Engineer--m-w-d-_JR10434602-1": 1789164172,
   "workday:ag.wd3/Airbus:Junior-Cloud---DevOps-Engineer---Kubernetes-Specialist--f-m-d-_JR10430847": 1789134086,
@@ -8351,5 +8354,5 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148,
   "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541": 1789106107
  },
- "updated_at": 1792103825
+ "updated_at": 1792108369
 }

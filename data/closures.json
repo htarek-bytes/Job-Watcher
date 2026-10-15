@@ -2,69 +2,6 @@
  "closed": [
   {
    "closed_at": 1791839989,
-   "company": "Lancesoft",
-   "hours_open": 54.2,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50449327"
-  },
-  {
-   "closed_at": 1791839989,
-   "company": "Groupe DCM",
-   "hours_open": 592.4,
-   "title": "Programmeur CNC / CNC Programmer",
-   "uid": "jobillico:programmeur junior:17534679"
-  },
-  {
-   "closed_at": 1791839989,
-   "company": "ngc",
-   "hours_open": 90.7,
-   "title": "2027 Intern - Airworthiness Engineer",
-   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Intern---Airworthiness-Engineer_R10255197"
-  },
-  {
-   "closed_at": 1791839989,
-   "company": "pg",
-   "hours_open": 943.7,
-   "title": "Purdue University R&D Engineer Co-op- Purdue Students Graduating in 2028/2029 ONLY",
-   "uid": "workday:pg.wd5/1000:Purdue-University-R-D-Engineer-Co-op--Purdue-Students-Graduating-in-2028-2029-ONLY_R000155305"
-  },
-  {
-   "closed_at": 1791839989,
-   "company": "psu",
-   "hours_open": 435.9,
-   "title": "Systems Administrator Intern",
-   "uid": "workday:psu.wd1/PSU_Staff:Systems-Administrator-Intern_REQ_0000082540-2"
-  },
-  {
-   "closed_at": 1791839989,
-   "company": "Amazon",
-   "hours_open": 146.3,
-   "title": "Software Development Engineer Intern - Mobile(iOS/Android) - Summer 2027 (USA)",
-   "uid": "amazon:amazon:10571004"
-  },
-  {
-   "closed_at": 1791839989,
-   "company": "Amazon",
-   "hours_open": 93.0,
-   "title": "Software Development Engineer, SCOT-Inbound, Inventory Routing and Replenishment",
-   "uid": "amazon:amazon:10574174"
-  },
-  {
-   "closed_at": 1791839989,
-   "company": "Amazon",
-   "hours_open": 4.4,
-   "title": "Software Development Engineer I, AWS IoT Fleet Management",
-   "uid": "amazon:amazon:10571756"
-  },
-  {
-   "closed_at": 1791839989,
-   "company": "stripe",
-   "hours_open": 940.4,
-   "title": "Security Analyst ",
-   "uid": "greenhouse:stripe:8142302"
-  },
-  {
-   "closed_at": 1791839989,
    "company": "pros",
    "hours_open": 633.4,
    "title": "Machine Learning Engineer I",
@@ -5599,8 +5536,71 @@
    "hours_open": 1013.7,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1792108368,
+   "company": "Umano Medical",
+   "hours_open": 894.7,
+   "title": "Concepteur logiciel embarqué et cybersécurité",
+   "uid": "jobillico:analyste cybersecurite:17489580"
+  },
+  {
+   "closed_at": 1792108368,
+   "company": "amat",
+   "hours_open": 190.7,
+   "title": "New College Grad Software Engineer I (Bachelors - Santa Clara, CA)",
+   "uid": "workday:amat.wd1/External:New-College-Grad-Software-Engineer-I--Bachelors---Santa-Clara--CA-_R2628998"
+  },
+  {
+   "closed_at": 1792108368,
+   "company": "Amazon",
+   "hours_open": 151.3,
+   "title": "Software Development Engineer, AWS Transform Migrations ",
+   "uid": "amazon:amazon:10574795"
+  },
+  {
+   "closed_at": 1792108368,
+   "company": "analogdevices",
+   "hours_open": 27.2,
+   "title": "Associate Software Engineer",
+   "uid": "workday:analogdevices.wd1/External:Android-Mobile-Developer_R262556"
+  },
+  {
+   "closed_at": 1792108368,
+   "company": "twitch",
+   "hours_open": 1014.9,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1792108368,
+   "company": "perscholashires",
+   "hours_open": 1013.2,
+   "title": "LMS Platform Automation Specialist",
+   "uid": "greenhouse:perscholashires:4665931006"
+  },
+  {
+   "closed_at": 1792108368,
+   "company": "spacex",
+   "hours_open": 1014.9,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1792108368,
+   "company": "spacex",
+   "hours_open": 1014.9,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1792108368,
+   "company": "spacex",
+   "hours_open": 1013.2,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
- "count": 812,
- "updated_at": 1792103825
+ "count": 809,
+ "updated_at": 1792108369
 }
