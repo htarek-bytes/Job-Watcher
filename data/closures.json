@@ -1,27 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1791728440,
-   "company": "spacex",
-   "hours_open": 906.4,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1791728566,
-   "company": "twitch",
-   "hours_open": 909.4,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1791728566,
-   "company": "spacex",
-   "hours_open": 909.4,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
    "closed_at": 1791742671,
    "company": "Groupe DCM",
    "hours_open": 559.2,
@@ -5599,8 +5578,29 @@
    "hours_open": 0.2,
    "title": "Entry Level .Net Developer",
    "uid": "simplify:listings:ecb0c9cf-1170-4e73-ba89-5eabe76a1168"
+  },
+  {
+   "closed_at": 1792059511,
+   "company": "CANMEC",
+   "hours_open": 140.8,
+   "title": "Nous agrandissons l'équipe ON RECRUTE Technicien informatique",
+   "uid": "jobillico:technicien informatique:17600094"
+  },
+  {
+   "closed_at": 1792059511,
+   "company": "bristolmyerssquibb",
+   "hours_open": 154.0,
+   "title": "2027 Summer Internship Product Development",
+   "uid": "workday:bristolmyerssquibb.wd5/bms:XMLNAME-2027-Summer-Internship-Product-Development_R1607364"
+  },
+  {
+   "closed_at": 1792059511,
+   "company": "boeing",
+   "hours_open": 12.7,
+   "title": "Entry Level Software Engineer–Developer (Development)",
+   "uid": "workday:boeing.wd1/external_subsidiary:Entry-Level-Software-Engineer-Developer--Development-_JR2026522577"
   }
  ],
  "count": 803,
- "updated_at": 1792059020
+ "updated_at": 1792059511
 }
