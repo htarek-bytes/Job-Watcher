@@ -2,27 +2,6 @@
  "closed": [
   {
    "closed_at": 1791700475,
-   "company": "CGI",
-   "hours_open": 781.4,
-   "title": "Analyste en opérations de cybersécurité",
-   "uid": "jobillico:analyste cybersecurite:17433747"
-  },
-  {
-   "closed_at": 1791700475,
-   "company": "Logesco Informatique",
-   "hours_open": 770.5,
-   "title": "network administrator",
-   "uid": "jobbank:network administrator:49871595"
-  },
-  {
-   "closed_at": 1791700475,
-   "company": "CarePartners",
-   "hours_open": 2.6,
-   "title": "network administrator",
-   "uid": "jobbank:network administrator:50472542"
-  },
-  {
-   "closed_at": 1791700475,
    "company": "spacex",
    "hours_open": 901.6,
    "title": "Security Software Engineer (Starlink)",
@@ -5599,8 +5578,29 @@
    "hours_open": 60.3,
    "title": "Software Development Engineer, Amazon Connect InterApps (AWS)",
    "uid": "amazon:amazon:10575952"
+  },
+  {
+   "closed_at": 1792041832,
+   "company": "SirenOpt",
+   "hours_open": 3.7,
+   "title": "Software Engineer - Early Career - C++ & Systems",
+   "uid": "simplify:listings:a254c38f-5fae-467c-9cff-3dd2e72094f5"
+  },
+  {
+   "closed_at": 1792041832,
+   "company": "brillio-2",
+   "hours_open": 48.3,
+   "title": "IVR QA Automation Engineer- R01568701",
+   "uid": "lever:brillio-2:dfe16c41-6927-4935-8148-654f3be3cf19"
+  },
+  {
+   "closed_at": 1792041832,
+   "company": "Belle Graphics Inc.",
+   "hours_open": 181.0,
+   "title": "installation and repair technician - telecommunications",
+   "uid": "jobbank:telecommunications analyst:50200449"
   }
  ],
- "count": 802,
- "updated_at": 1792041134
+ "count": 803,
+ "updated_at": 1792041832
 }
