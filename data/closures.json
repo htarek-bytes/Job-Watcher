@@ -1,27 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1791727509,
-   "company": "spacex",
-   "hours_open": 909.1,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1791728440,
-   "company": "Groupe DCM",
-   "hours_open": 561.4,
-   "title": "Programmeur CNC / CNC Programmer",
-   "uid": "jobillico:programmeur junior:17534679"
-  },
-  {
-   "closed_at": 1791728440,
-   "company": "twitch",
-   "hours_open": 906.4,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
    "closed_at": 1791728440,
    "company": "spacex",
    "hours_open": 906.4,
@@ -5599,8 +5578,29 @@
    "hours_open": 137.4,
    "title": "Embedded Security Software Engineer 1",
    "uid": "simplify:listings:5c0127a5-b356-4cb2-9c05-080f60e3dfeb"
+  },
+  {
+   "closed_at": 1792059019,
+   "company": "ag",
+   "hours_open": 29.0,
+   "title": "Data acquisition systems and solutions engineer",
+   "uid": "workday:ag.wd3/Airbus:Data-acquisition-systems-and-solutions-engineer_JR10430178-1"
+  },
+  {
+   "closed_at": 1792059019,
+   "company": "Belle Graphics Inc.",
+   "hours_open": 185.8,
+   "title": "installation and repair technician - telecommunications",
+   "uid": "jobbank:telecommunications analyst:50200449"
+  },
+  {
+   "closed_at": 1792059019,
+   "company": "DellFor Technologies",
+   "hours_open": 0.2,
+   "title": "Entry Level .Net Developer",
+   "uid": "simplify:listings:ecb0c9cf-1170-4e73-ba89-5eabe76a1168"
   }
  ],
- "count": 804,
- "updated_at": 1792058413
+ "count": 803,
+ "updated_at": 1792059020
 }
