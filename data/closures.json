@@ -1,90 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1791831542,
-   "company": "Source Code",
-   "hours_open": 1.1,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:control systems analyst:50476529"
-  },
-  {
-   "closed_at": 1791831542,
-   "company": "spacex",
-   "hours_open": 936.3,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1791832243,
-   "company": "Groupe DCM",
-   "hours_open": 584.1,
-   "title": "Programmeur CNC / CNC Programmer",
-   "uid": "jobillico:programmeur junior:17534670"
-  },
-  {
-   "closed_at": 1791832243,
-   "company": "micron",
-   "hours_open": 168.8,
-   "title": "New College Grad - Semiconductor Design Engineer, DRAM Products Group",
-   "uid": "workday:micron.wd1/External:New-College-Grad---Semiconductor-Design-Engineer--DRAM-Products-Group_JR114119"
-  },
-  {
-   "closed_at": 1791832243,
-   "company": "mmc",
-   "hours_open": 233.8,
-   "title": "Junior Full-Stack Engineer, Generative AI @ Marsh Tech",
-   "uid": "workday:mmc.wd1/MMC:Junior-Full-Stack-Engineer--Generative-AI---Marsh-Tech_R_367686"
-  },
-  {
-   "closed_at": 1791832243,
-   "company": "Amazon",
-   "hours_open": 240.8,
-   "title": "Software Development Engineer, Conversational Ads Experience",
-   "uid": "amazon:amazon:10567987"
-  },
-  {
-   "closed_at": 1791832243,
-   "company": "mastercard",
-   "hours_open": 935.3,
-   "title": "Site Reliability Engineering Intern, Summer 2027 – St. Louis, MO, US",
-   "uid": "workday:mastercard.wd1/Campus:Site-Reliability-Engineering-Intern--Summer-2027---St-Louis--MO--US_R-287654"
-  },
-  {
-   "closed_at": 1791832243,
-   "company": "kbr",
-   "hours_open": 959.6,
-   "title": "Junior Software Engineer",
-   "uid": "workday:kbr.wd5/kbr_careers:Junior-Software-Engineer_R2122294"
-  },
-  {
-   "closed_at": 1791832243,
-   "company": "NVIDIA",
-   "hours_open": 974.9,
-   "title": "Low Power ASIC Engineer New Grad",
-   "uid": "simplify:listings:a5a4f5d2-e953-462d-a6ea-fd5fe770de44"
-  },
-  {
-   "closed_at": 1791832243,
-   "company": "kla",
-   "hours_open": 283.4,
-   "title": "Software Engineering Intern",
-   "uid": "workday:kla.wd1/UR:Software-Engineering-Intern_2641581"
-  },
-  {
-   "closed_at": 1791832243,
-   "company": "spacex",
-   "hours_open": 937.9,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1791832243,
-   "company": "spacex",
-   "hours_open": 938.2,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
    "closed_at": 1791839989,
    "company": "Lancesoft",
    "hours_open": 54.2,
@@ -5599,8 +5515,92 @@
    "hours_open": 528.1,
    "title": "FMS-ACES Tier 2 Application Support Specialist (Appian Service Desk)",
    "uid": "workable:credence:EEC6146250"
+  },
+  {
+   "closed_at": 1792103822,
+   "company": "CANMEC",
+   "hours_open": 153.1,
+   "title": "Nous agrandissons l'équipe ON RECRUTE Technicien informatique",
+   "uid": "jobillico:technicien informatique:17600094"
+  },
+  {
+   "closed_at": 1792103822,
+   "company": "Hewlett Packard Enterprise",
+   "hours_open": 543.7,
+   "title": "Electrical/Hardware Engineer 1",
+   "uid": "simplify:listings:e52513e2-804f-43b4-ae87-411d4c56ff26"
+  },
+  {
+   "closed_at": 1792103822,
+   "company": "twitch",
+   "hours_open": 1010.7,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1792103822,
+   "company": "MSR-FSR",
+   "hours_open": 997.3,
+   "title": "Field Service Engineer",
+   "uid": "workable:msr-fsr:DA7AA1914A"
+  },
+  {
+   "closed_at": 1792103822,
+   "company": "Regime Solutions Inc.",
+   "hours_open": 28.6,
+   "title": "computer systems analyst",
+   "uid": "jobbank:analyste de systemes:50243696"
+  },
+  {
+   "closed_at": 1792103822,
+   "company": "Sigma Defense",
+   "hours_open": 893.5,
+   "title": "1742 - System Administrator",
+   "uid": "workable:sigmadefense:C2BD9E157C"
+  },
+  {
+   "closed_at": 1792103822,
+   "company": "RTX",
+   "hours_open": 172.7,
+   "title": "Embedded Software Engineer 1",
+   "uid": "simplify:listings:eca699ea-4b3d-45f9-bfb7-6f596296fddc"
+  },
+  {
+   "closed_at": 1792103822,
+   "company": "RTX",
+   "hours_open": 143.6,
+   "title": "Flight Controls Hardware Engineer 1",
+   "uid": "simplify:listings:f472e7ad-4e16-4bd9-b799-88dd58d1ffc3"
+  },
+  {
+   "closed_at": 1792103822,
+   "company": "L3Harris Technologies",
+   "hours_open": 167.9,
+   "title": "Associate Software Engineer",
+   "uid": "simplify:listings:fa94c35b-fcdd-4481-b510-d9d27045e0ba"
+  },
+  {
+   "closed_at": 1792103822,
+   "company": "RTX",
+   "hours_open": 1.0,
+   "title": "Software Engineer 1",
+   "uid": "simplify:listings:c3384287-a4cf-419c-9379-1dd42e8526d4"
+  },
+  {
+   "closed_at": 1792103822,
+   "company": "spacex",
+   "hours_open": 1010.7,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1792103822,
+   "company": "spacex",
+   "hours_open": 1013.7,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 805,
- "updated_at": 1792102972
+ "count": 812,
+ "updated_at": 1792103825
 }
