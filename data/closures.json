@@ -1,34 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1791725259,
-   "company": "twitch",
-   "hours_open": 905.6,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1791725259,
-   "company": "spacex",
-   "hours_open": 905.6,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1791727509,
-   "company": "Groupe DCM",
-   "hours_open": 555.0,
-   "title": "Programmeur CNC / CNC Programmer",
-   "uid": "jobillico:programmeur junior:17534670"
-  },
-  {
-   "closed_at": 1791727509,
-   "company": "twitch",
-   "hours_open": 909.1,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
    "closed_at": 1791727509,
    "company": "spacex",
    "hours_open": 909.1,
@@ -5599,8 +5571,36 @@
    "hours_open": 1037.0,
    "title": "Entry Level ASP.NET programmer",
    "uid": "simplify:listings:454b7531-1c3f-4d4c-a1c8-7fdefccc4258"
+  },
+  {
+   "closed_at": 1792058413,
+   "company": "DellFor Technologies",
+   "hours_open": 1037.7,
+   "title": "Entry-Level Java Developer",
+   "uid": "simplify:listings:b95085e2-8361-490f-ab61-0871fb589712"
+  },
+  {
+   "closed_at": 1792058413,
+   "company": "DellFor Technologies",
+   "hours_open": 1037.7,
+   "title": "Entry-Level Java Developer - Java",
+   "uid": "simplify:listings:aaf52812-d0ae-44a7-988a-4919b6c8e74c"
+  },
+  {
+   "closed_at": 1792058413,
+   "company": "DellFor Technologies",
+   "hours_open": 1037.7,
+   "title": "Entry Level .Net Developer",
+   "uid": "simplify:listings:e25c595d-2be1-4931-921c-4ed75b55ddfe"
+  },
+  {
+   "closed_at": 1792058413,
+   "company": "RTX",
+   "hours_open": 137.4,
+   "title": "Embedded Security Software Engineer 1",
+   "uid": "simplify:listings:5c0127a5-b356-4cb2-9c05-080f60e3dfeb"
   }
  ],
- "count": 805,
- "updated_at": 1792056107
+ "count": 804,
+ "updated_at": 1792058413
 }
