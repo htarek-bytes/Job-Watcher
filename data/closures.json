@@ -1,48 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1791691192,
-   "company": "spacex",
-   "hours_open": 898.8,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1791691192,
-   "company": "spacex",
-   "hours_open": 899.0,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1791700475,
-   "company": "Magna Mining Inc.",
-   "hours_open": 12.7,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:systems analyst:50467801"
-  },
-  {
-   "closed_at": 1791700475,
-   "company": "CANMEC",
-   "hours_open": 41.1,
-   "title": "Nous agrandissons l'équipe ON RECRUTE Technicien informatique",
-   "uid": "jobillico:technicien informatique:17600094"
-  },
-  {
-   "closed_at": 1791700475,
-   "company": "ngc",
-   "hours_open": 71.1,
-   "title": "2027 Electrical/Systems Engineer Intern - Baltimore MD",
-   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Electrical-Systems-Engineer-Intern---Baltimore-MD_R10255010"
-  },
-  {
-   "closed_at": 1791700475,
-   "company": "ngc",
-   "hours_open": 71.1,
-   "title": "2027 Mechanical/Aerospace Engineer Intern - Baltimore MD",
-   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Mechanical-Aerospace-Engineer-Intern---Baltimore-MD_R10255003"
-  },
-  {
    "closed_at": 1791700475,
    "company": "Source Code",
    "hours_open": 103.6,
@@ -5599,8 +5557,50 @@
    "hours_open": 992.7,
    "title": "Security Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1792038627,
+   "company": "saronic",
+   "hours_open": 157.8,
+   "title": "IT Production Support Technician ",
+   "uid": "ashby:saronic:903ae290-30cc-4874-968d-3c530317c911"
+  },
+  {
+   "closed_at": 1792038627,
+   "company": "Stellar Software Solutions",
+   "hours_open": 117.7,
+   "title": "network infrastructure engineer",
+   "uid": "jobbank:infrastructure analyst:50462911"
+  },
+  {
+   "closed_at": 1792038627,
+   "company": "Richard et Levesque",
+   "hours_open": 319.4,
+   "title": "Web developer",
+   "uid": "jobbank:developpeur junior:50401772"
+  },
+  {
+   "closed_at": 1792038627,
+   "company": "snowflake",
+   "hours_open": 992.5,
+   "title": "Infrastructure Engineer, Observe by Snowflake",
+   "uid": "ashby:snowflake:143a2248-564b-4cfa-85f5-d47bac911d74"
+  },
+  {
+   "closed_at": 1792038627,
+   "company": "spacex",
+   "hours_open": 992.6,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1792038627,
+   "company": "spacex",
+   "hours_open": 995.5,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 820,
- "updated_at": 1792028392
+ "count": 806,
+ "updated_at": 1792038632
 }
