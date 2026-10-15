@@ -2,41 +2,6 @@
  "closed": [
   {
    "closed_at": 1791831542,
-   "company": "Mastercard",
-   "hours_open": 284.3,
-   "title": "Data Engineer 1",
-   "uid": "simplify:listings:2769aa70-1382-4688-a523-01231176c4df"
-  },
-  {
-   "closed_at": 1791831542,
-   "company": "globalhr",
-   "hours_open": 330.5,
-   "title": "Information Systems Engineer Intern",
-   "uid": "workday:globalhr.wd5/Private_Posting_No_TMP:Information-Systems-Engineer-Intern_01877969"
-  },
-  {
-   "closed_at": 1791831542,
-   "company": "Amazon",
-   "hours_open": 67.9,
-   "title": "Software Development Engineer, Amazon Customer Service ",
-   "uid": "amazon:amazon:10575233"
-  },
-  {
-   "closed_at": 1791831542,
-   "company": "Amazon",
-   "hours_open": 146.2,
-   "title": "Software Development Engineer, Amazon Fulfillment Technologies (AFT)  - Platform Engineering & Services",
-   "uid": "amazon:amazon:10570543"
-  },
-  {
-   "closed_at": 1791831542,
-   "company": "oscar",
-   "hours_open": 184.9,
-   "title": "Analytics Engineer I",
-   "uid": "greenhouse:oscar:7914958"
-  },
-  {
-   "closed_at": 1791831542,
    "company": "Source Code",
    "hours_open": 1.1,
    "title": "information technology (IT) analyst",
@@ -5599,8 +5564,43 @@
    "hours_open": 22.7,
    "title": "Software Engineer/Developer 1",
    "uid": "simplify:listings:a6635562-b768-4870-a2d2-3e1802de470d"
+  },
+  {
+   "closed_at": 1792102971,
+   "company": "Umano Medical",
+   "hours_open": 893.2,
+   "title": "Concepteur logiciel embarqué et cybersécurité",
+   "uid": "jobillico:analyste cybersecurite:17489580"
+  },
+  {
+   "closed_at": 1792102971,
+   "company": "ServiceNow",
+   "hours_open": 85.3,
+   "title": "Advisory Solution Consultant",
+   "uid": "smartrecruiters:ServiceNow:744000154921069"
+  },
+  {
+   "closed_at": 1792102971,
+   "company": "Tomra",
+   "hours_open": 190.5,
+   "title": "Pre-Sales Engineer",
+   "uid": "smartrecruiters:Tomra:744000154134220"
+  },
+  {
+   "closed_at": 1792102971,
+   "company": "Regime Solutions Inc.",
+   "hours_open": 891.6,
+   "title": "computer systems analyst",
+   "uid": "jobbank:systems analyst:50243696"
+  },
+  {
+   "closed_at": 1792102971,
+   "company": "Credence",
+   "hours_open": 528.1,
+   "title": "FMS-ACES Tier 2 Application Support Specialist (Appian Service Desk)",
+   "uid": "workable:credence:EEC6146250"
   }
  ],
- "count": 808,
- "updated_at": 1792102365
+ "count": 805,
+ "updated_at": 1792102972
 }
