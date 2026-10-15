@@ -2,34 +2,6 @@
  "closed": [
   {
    "closed_at": 1791824020,
-   "company": "alarmcom",
-   "hours_open": 67.7,
-   "title": "Quality Engineer",
-   "uid": "greenhouse:alarmcom:8796080002"
-  },
-  {
-   "closed_at": 1791824020,
-   "company": "stripe",
-   "hours_open": 233.3,
-   "title": "Software Engineer, Revenue and Financial Automation",
-   "uid": "greenhouse:stripe:8076616"
-  },
-  {
-   "closed_at": 1791824020,
-   "company": "CGI",
-   "hours_open": 815.7,
-   "title": "Analyste en opérations de cybersécurité",
-   "uid": "jobillico:analyste cybersecurite:17433747"
-  },
-  {
-   "closed_at": 1791824020,
-   "company": "altentechnologyusa",
-   "hours_open": 141.8,
-   "title": "Design Release Engineer - Safety Restraint Systems",
-   "uid": "greenhouse:altentechnologyusa:5259188007"
-  },
-  {
-   "closed_at": 1791824020,
    "company": "icapitalnetwork",
    "hours_open": 146.4,
    "title": "Artificial Intelligence / Machine Learning Engineer - Associate",
@@ -5599,8 +5571,36 @@
    "hours_open": 420.9,
    "title": "Full Stack Software Engineer, Launch Software",
    "uid": "greenhouse:spacex:8849598002"
+  },
+  {
+   "closed_at": 1792091020,
+   "company": "Richard et Levesque",
+   "hours_open": 333.9,
+   "title": "Web developer",
+   "uid": "jobbank:developpeur junior:50401772"
+  },
+  {
+   "closed_at": 1792091020,
+   "company": "Umano Medical",
+   "hours_open": 889.9,
+   "title": "Concepteur logiciel embarqué et cybersécurité",
+   "uid": "jobillico:analyste cybersecurite:17489580"
+  },
+  {
+   "closed_at": 1792091020,
+   "company": "ontic",
+   "hours_open": 1010.1,
+   "title": "Analytics Engineer ",
+   "uid": "ashby:ontic:27d32707-54e2-47be-be62-376df6d2b0f3"
+  },
+  {
+   "closed_at": 1792091020,
+   "company": "Regime Solutions Inc.",
+   "hours_open": 25.1,
+   "title": "computer systems analyst",
+   "uid": "jobbank:analyste de systemes:50243696"
   }
  ],
- "count": 803,
- "updated_at": 1792090594
+ "count": 804,
+ "updated_at": 1792091020
 }
