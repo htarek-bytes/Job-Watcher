@@ -1,83 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1791758009,
-   "company": "kbr",
-   "hours_open": 939.0,
-   "title": "Junior Software Engineer",
-   "uid": "workday:kbr.wd5/KBR_Careers:Junior-Software-Engineer_R2122294"
-  },
-  {
-   "closed_at": 1791759078,
-   "company": "CANMEC",
-   "hours_open": 57.3,
-   "title": "Nous agrandissons l'équipe ON RECRUTE Technicien informatique",
-   "uid": "jobillico:technicien informatique:17600094"
-  },
-  {
-   "closed_at": 1791759078,
-   "company": "ngc",
-   "hours_open": 68.2,
-   "title": "2027 Software Engineer Intern – McClellan CA",
-   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Software-Engineer-Intern---McClellan-CA_R10255207"
-  },
-  {
-   "closed_at": 1791759078,
-   "company": "pg",
-   "hours_open": 126.1,
-   "title": "IT Technical Specialist Industrial Placement 2027",
-   "uid": "workday:pg.wd5/1000:IT-Technical-Specialist-Industrial-Placement-2027_R000160302"
-  },
-  {
-   "closed_at": 1791759078,
-   "company": "twitch",
-   "hours_open": 915.0,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1791759078,
-   "company": "radiancetech",
-   "hours_open": 437.4,
-   "title": "Junior Software Engineer",
-   "uid": "workday:radiancetech.wd12/Radiance_External:Junior-Software-Engineer_HR102428"
-  },
-  {
-   "closed_at": 1791759078,
-   "company": "relx",
-   "hours_open": 939.2,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - January)",
-   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617-1"
-  },
-  {
-   "closed_at": 1791759078,
-   "company": "relx",
-   "hours_open": 939.2,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - June)",
-   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-2"
-  },
-  {
-   "closed_at": 1791759078,
-   "company": "relx",
-   "hours_open": 939.2,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Boca Raton - June)",
-   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Boca-Raton---June-_R116023"
-  },
-  {
-   "closed_at": 1791759078,
-   "company": "spacex",
-   "hours_open": 915.0,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1791759279,
-   "company": "twitch",
-   "hours_open": 918.0,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
    "closed_at": 1791759279,
    "company": "shi",
    "hours_open": 15.7,
@@ -5599,8 +5522,85 @@
    "hours_open": 1003.6,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1792076112,
+   "company": "databricks",
+   "hours_open": 21.8,
+   "title": "Solutions Engineer",
+   "uid": "greenhouse:databricks:8886384002"
+  },
+  {
+   "closed_at": 1792076112,
+   "company": "Stellar Software Solutions",
+   "hours_open": 128.1,
+   "title": "network infrastructure engineer",
+   "uid": "jobbank:infrastructure analyst:50462911"
+  },
+  {
+   "closed_at": 1792076112,
+   "company": "kyndryl",
+   "hours_open": 175.6,
+   "title": "Kyndryl Early Career Program - Systems Administration, Mainframe",
+   "uid": "workday:kyndryl.wd5/KyndrylEarlyCareers:Kyndryl-Early-Career-Program---Systems-Administration--Mainframe_R-69926"
+  },
+  {
+   "closed_at": 1792076112,
+   "company": "intel",
+   "hours_open": 843.1,
+   "title": "Operations Research Engineer Intern",
+   "uid": "workday:intel.wd1/external:Operations-Research-Engineer-Intern_JR0286945"
+  },
+  {
+   "closed_at": 1792076112,
+   "company": "marvell",
+   "hours_open": 16.3,
+   "title": "Firmware Engineer Intern, MS - Summer 2027",
+   "uid": "workday:marvell.wd1/MarvellCareers2:Firmware-Engineer-Intern--MS---Summer-2027_2604513-1"
+  },
+  {
+   "closed_at": 1792076112,
+   "company": "marvell",
+   "hours_open": 351.1,
+   "title": "Firmware Engineer Intern, BS - Summer 2027",
+   "uid": "workday:marvell.wd1/MarvellCareers2:Firmware-Engineer-Intern--BS---Summer-2027_2604461-1"
+  },
+  {
+   "closed_at": 1792076112,
+   "company": "marvell",
+   "hours_open": 380.3,
+   "title": "AI-Native Development Platform Engineer Intern, MS - Summer 2027",
+   "uid": "workday:marvell.wd1/MarvellCareers2:AI-Native-Development-Platform-Engineer-Intern--MS---Summer-2027_2603848"
+  },
+  {
+   "closed_at": 1792076112,
+   "company": "icf",
+   "hours_open": 366.5,
+   "title": "2027 Summer Intern, AI Engineer (Reston, VA)",
+   "uid": "workday:icf.wd5/icfexternal_career_site:XMLNAME-2027-Summer-Intern--AI-Engineer--Reston--VA-_R2603312-1"
+  },
+  {
+   "closed_at": 1792076112,
+   "company": "hp",
+   "hours_open": 45.7,
+   "title": "Presales Technical Consultant, Print & Solutions – NWAI",
+   "uid": "workday:hp.wd5/EXTEU-AC-CareerSite:Presales-Technical-Consultant--Print---Solutions---NWAI_3168410"
+  },
+  {
+   "closed_at": 1792076112,
+   "company": "hp",
+   "hours_open": 16.3,
+   "title": "Presales Technical Consultant",
+   "uid": "workday:hp.wd5/externalcareersite:Presales-Technical-Consultant_3168177-1"
+  },
+  {
+   "closed_at": 1792076112,
+   "company": "kla",
+   "hours_open": 753.8,
+   "title": "Software Engineering Intern",
+   "uid": "workday:kla.wd1/annarbor:Software-Engineering-Intern_2531653"
   }
  ],
- "count": 816,
- "updated_at": 1792073800
+ "count": 811,
+ "updated_at": 1792076112
 }
