@@ -1,5 +1,5 @@
 {
- "count": 8227,
+ "count": 8232,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -4218,6 +4218,7 @@
   "jobbank:information systems analyst:50223741": 1788887337,
   "jobbank:information systems analyst:50269564": 1789168928,
   "jobbank:information systems analyst:50301801": 1789586515,
+  "jobbank:information systems analyst:50311291": 1792042421,
   "jobbank:information systems analyst:50360270": 1790282422,
   "jobbank:information systems analyst:50392109": 1790721061,
   "jobbank:information systems analyst:50403078": 1790871711,
@@ -4445,6 +4446,8 @@
   "jobbank:junior software developer:50493091": 1791973931,
   "jobbank:junior software developer:50493195": 1791973931,
   "jobbank:junior software developer:50501195": 1792038627,
+  "jobbank:junior software developer:50502013": 1792042421,
+  "jobbank:junior software developer:50502098": 1792042421,
   "jobbank:linux administrator:49626621": 1789082121,
   "jobbank:linux administrator:50163764": 1788887337,
   "jobbank:linux administrator:50205276": 1788887337,
@@ -4524,6 +4527,7 @@
   "jobbank:scada:50451749": 1791470133,
   "jobbank:scada:50459946": 1791572271,
   "jobbank:scada:50466344": 1791614826,
+  "jobbank:scada:50501896": 1792042421,
   "jobbank:specialiste infrastructure:50088534": 1788887337,
   "jobbank:specialiste infrastructure:50176096": 1788887337,
   "jobbank:specialiste infrastructure:50241850": 1788887337,
@@ -4641,6 +4645,7 @@
   "jobbank:systems analyst:50493270": 1791973931,
   "jobbank:systems analyst:50495348": 1791991610,
   "jobbank:systems analyst:50496050": 1792000805,
+  "jobbank:systems analyst:50501627": 1792042421,
   "jobbank:telecommunications analyst:49780105": 1791390300,
   "jobbank:telecommunications analyst:49818659": 1791390300,
   "jobbank:telecommunications analyst:49947219": 1791390300,
@@ -8229,5 +8234,5 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148,
   "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541": 1789106107
  },
- "updated_at": 1792041832
+ "updated_at": 1792042421
 }
