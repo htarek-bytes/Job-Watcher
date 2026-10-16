@@ -1,97 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1791839989,
-   "company": "pros",
-   "hours_open": 633.4,
-   "title": "Machine Learning Engineer I",
-   "uid": "workday:pros.wd5/pros_careers:Machine-Learning-Engineer-I_R3566"
-  },
-  {
-   "closed_at": 1791839989,
-   "company": "nvidia",
-   "hours_open": 961.7,
-   "title": "Low Power ASIC Engineer - New College Grad 2026",
-   "uid": "workday:nvidia.wd5/NVIDIAExternalCareerSite:Low-Power-ASIC-Engineer---New-College-Grad-2026_JR2017005"
-  },
-  {
-   "closed_at": 1791839989,
-   "company": "spacex",
-   "hours_open": 940.4,
-   "title": "Automation & Controls Engineer (Asset Engineering)",
-   "uid": "greenhouse:spacex:8540471002"
-  },
-  {
-   "closed_at": 1791839989,
-   "company": "astranis",
-   "hours_open": 940.4,
-   "title": "CAD Engineer",
-   "uid": "greenhouse:astranis:4350927006"
-  },
-  {
-   "closed_at": 1791839989,
-   "company": "Amazon",
-   "hours_open": 102.7,
-   "title": "Software Development Engineer, Leo Security",
-   "uid": "amazon:amazon:10573250"
-  },
-  {
-   "closed_at": 1791847101,
-   "company": "americaninstitutesforresearch",
-   "hours_open": 272.5,
-   "title": "Business Development Associate (Part-Time)",
-   "uid": "greenhouse:americaninstitutesforresearch:5439651008"
-  },
-  {
-   "closed_at": 1791847101,
-   "company": "Aderant",
-   "hours_open": 6.4,
-   "title": "Associate Software Engineer",
-   "uid": "simplify:listings:2081ec0c-9ef0-4e78-8859-84739cedab0c"
-  },
-  {
-   "closed_at": 1791847101,
-   "company": "CGI",
-   "hours_open": 822.2,
-   "title": "Conseiller(ère) en architecture de cybersécurité",
-   "uid": "jobillico:analyste cybersecurite:17433753"
-  },
-  {
-   "closed_at": 1791847101,
-   "company": "thermofisher",
-   "hours_open": 71.9,
-   "title": "Junior C++ Developer – Desktop SEM",
-   "uid": "workday:thermofisher.wd5/ThermoFisherCareers:Junior-C---Developer---Desktop-SEM_R-01370268"
-  },
-  {
-   "closed_at": 1791847101,
-   "company": "CANMEC",
-   "hours_open": 81.8,
-   "title": "Nous agrandissons l'équipe ON RECRUTE Technicien informatique",
-   "uid": "jobillico:technicien informatique:17600094"
-  },
-  {
-   "closed_at": 1791847101,
-   "company": "thomsonreuters",
-   "hours_open": 111.7,
-   "title": "Junior DevOps Engineer - Reuters Imagen",
-   "uid": "workday:thomsonreuters.wd5/External_Career_Site:Junior-DevOps-Engineer---Reuters-Imagen_JREQ204129"
-  },
-  {
-   "closed_at": 1791847101,
-   "company": "sanofi",
-   "hours_open": 170.6,
-   "title": "2027 Spring Co-op Biologics Drug Product Development, Waltham, MA",
-   "uid": "workday:sanofi.wd3/SanofiCareers:XMLNAME-2027-Spring-Co-op-Biologics-Drug-Product-Development--Waltham--MA_R2854210-1"
-  },
-  {
-   "closed_at": 1791847101,
-   "company": "thomsonreuters",
-   "hours_open": 237.0,
-   "title": "Software Engineer Co-Op",
-   "uid": "workday:thomsonreuters.wd5/External_Career_Site:Software-Engineer-Co-Op_JREQ203587"
-  },
-  {
    "closed_at": 1791847101,
    "company": "Hewlett Packard Enterprise",
    "hours_open": 159.4,
@@ -5599,8 +5508,99 @@
    "hours_open": 1013.2,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1792110118,
+   "company": "boeing",
+   "hours_open": 26.8,
+   "title": "Entry-Level Flight Simulation Software Engineer",
+   "uid": "workday:boeing.wd1/external_subsidiary:Entry-Level-Flight-Simulation-Software-Engineer_JR2026523155"
+  },
+  {
+   "closed_at": 1792110118,
+   "company": "cisco",
+   "hours_open": 99.9,
+   "title": "Solutions Engineer - Splunk (Remote)",
+   "uid": "workday:cisco.wd5/cisco_careers:Solutions-Engineer---Splunk--Remote-_2024724-1"
+  },
+  {
+   "closed_at": 1792110118,
+   "company": "broadcom",
+   "hours_open": 149.1,
+   "title": "Solution Engineer - ValueOps",
+   "uid": "workday:broadcom.wd1/external_career:Solution-Engineer---ValueOps_R027294"
+  },
+  {
+   "closed_at": 1792110118,
+   "company": "cae",
+   "hours_open": 191.1,
+   "title": "Junior Software Developer - System Integration Labs (North Shore)",
+   "uid": "workday:cae.wd3/career:Dveloppeureuse-logiciel-junior---Bancs-d-essais--Rive-Nord-_123921-1"
+  },
+  {
+   "closed_at": 1792110118,
+   "company": "boeing",
+   "hours_open": 26.8,
+   "title": "Entry Level B1 Software Systems Engineer",
+   "uid": "workday:boeing.wd1/external_subsidiary:Entry-Level-B1-Software-Systems-Engineer_JR2026521428-1"
+  },
+  {
+   "closed_at": 1792110118,
+   "company": "ccf",
+   "hours_open": 26.1,
+   "title": "New Grad RN Resident - Medical Telemetry",
+   "uid": "workday:ccf.wd1/ClevelandClinicCareers:New-Grad-RN-Resident---Medical-Telemetry_356782"
+  },
+  {
+   "closed_at": 1792110118,
+   "company": "twitch",
+   "hours_open": 1012.5,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1792110118,
+   "company": "Belle Graphics Inc.",
+   "hours_open": 199.9,
+   "title": "installation and repair technician - telecommunications",
+   "uid": "jobbank:telecommunications analyst:50200449"
+  },
+  {
+   "closed_at": 1792110118,
+   "company": "cadence",
+   "hours_open": 994.2,
+   "title": "Adams MultiBody Dynamics Application Software Developer (Recent Grad 2026)",
+   "uid": "workday:cadence.wd1/University_Talent_NCG:Adams-MultiBody-Dynamics-Application-Software-Developer--Recent-Grad-2026-_R55788-2"
+  },
+  {
+   "closed_at": 1792110118,
+   "company": "Regime Solutions Inc.",
+   "hours_open": 893.6,
+   "title": "computer systems analyst",
+   "uid": "jobbank:systems analyst:50243696"
+  },
+  {
+   "closed_at": 1792110118,
+   "company": "spacex",
+   "hours_open": 1012.5,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1792110118,
+   "company": "spacex",
+   "hours_open": 1015.1,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1792110118,
+   "company": "caci",
+   "hours_open": 26.8,
+   "title": "Software Engineering Intern - Summer 2027",
+   "uid": "workday:caci.wd1/external:Software-Engineering-Intern---Summer-2027_332543"
   }
  ],
- "count": 809,
- "updated_at": 1792108369
+ "count": 813,
+ "updated_at": 1792110119
 }

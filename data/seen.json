@@ -1,5 +1,5 @@
 {
- "count": 8352,
+ "count": 8357,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -6082,6 +6082,7 @@
   "simplify:listings:cf43075d-b9ba-4cce-b884-1d0b1597dcd4": 1791431778,
   "simplify:listings:cfdb84c0-3b66-4b42-90a5-9189a55f2592": 1788322770,
   "simplify:listings:cfeb11b9-ce3a-4296-9dba-69307b8df18d": 1788322770,
+  "simplify:listings:cffd6ec4-0af4-4f8a-9510-a43b93ec0b6b": 1792110118,
   "simplify:listings:d03ac761-2dfa-4cd7-bd7c-797b6ff89c19": 1788322770,
   "simplify:listings:d0a9a917-c584-4609-9cdb-f603bc663215": 1788322770,
   "simplify:listings:d1354a8b-e1fb-48c3-bf6f-93d3bea41db3": 1788709735,
@@ -7131,6 +7132,7 @@
   "workday:boeing.wd1/EXTERNAL_CAREERS:Associate-Software-Engineer_JR2026524131": 1791422190,
   "workday:boeing.wd1/EXTERNAL_CAREERS:Boeing-Engineering---Technology-Innovation-Graduate-Researcher-Program--Software-Engineering-Artificial-Intelligence-Intern_JR2026523687": 1788903151,
   "workday:boeing.wd1/EXTERNAL_CAREERS:Entry-Level-Simulation-Software-Engineer_JR2026516853-1": 1789164282,
+  "workday:boeing.wd1/EXTERNAL_CAREERS:Intern-Software-Engineer_JR2026492187-1": 1792110118,
   "workday:boeing.wd1/EXTERNAL_CAREERS:Software-Engineer_JR2026517990-1": 1788425964,
   "workday:boeing.wd1/external_subsidiary:ATLO--Assembly--Test----Launch-Operations--Engineer---Millennium-Space-Systems_JR2026511990": 1790632644,
   "workday:boeing.wd1/external_subsidiary:Associate-Software-Engineer--Phantom-Works_JR2026523287-1": 1789070335,
@@ -7175,6 +7177,7 @@
   "workday:caci.wd1/external:Software-Developer-Data-Scientist-Intern---Summer-2027_331120": 1788979404,
   "workday:caci.wd1/external:Software-Development-Engineer-Intern---Summer-2027_332894-1": 1790871589,
   "workday:caci.wd1/external:Software-Development-Intern---Summer-2027_332790": 1790871589,
+  "workday:caci.wd1/external:Software-Development-Intern---Summer-2027_333051": 1792110118,
   "workday:caci.wd1/external:Software-Development-Intern---Summer-2027_333085": 1791293862,
   "workday:caci.wd1/external:Software-Engineer---Early-Career---Cloud_330679": 1790259920,
   "workday:caci.wd1/external:Software-Engineer-Intern---Summer-2027_331648": 1788548796,
@@ -7188,6 +7191,7 @@
   "workday:caci.wd1/external:Software-Engineering-Intern---Summer-2027_332372": 1790167181,
   "workday:caci.wd1/external:Software-Engineering-Intern---Summer-2027_332386": 1790120419,
   "workday:caci.wd1/external:Software-Engineering-Intern---Summer-2027_332543": 1792013705,
+  "workday:caci.wd1/external:Software-Test-Engineer-Intern---Spring-2027_333422": 1792110118,
   "workday:caci.wd1/external:Systems-Engineer-Intern---Summer-2027_333048": 1791955795,
   "workday:cadence.wd1/External_Careers:Adams-MultiBody-Dynamics-Application-Software-Developer--Recent-Grad-2026-_R55788": 1788368024,
   "workday:cadence.wd1/External_Careers:Intern--Software-Engineering--Hardware-Verification-R-D_R56477": 1790208212,
@@ -7241,6 +7245,7 @@
   "workday:ccf.wd1/ClevelandClinicCareers:New-Grad-RN-Resident---Internal-Medicine-Telemetry_356467": 1791824020,
   "workday:ccf.wd1/ClevelandClinicCareers:New-Grad-RN-Resident---Internal-Medicine-Telemetry_356937": 1791363116,
   "workday:ccf.wd1/ClevelandClinicCareers:New-Grad-RN-Resident---Med-Surg---Telemetry-Unit_350185": 1789708733,
+  "workday:ccf.wd1/ClevelandClinicCareers:New-Grad-RN-Resident---Med-Surg---Telemetry-Unit_354695": 1792110118,
   "workday:ccf.wd1/ClevelandClinicCareers:New-Grad-RN-Resident---Med-Surg---Telemetry_344169": 1791505232,
   "workday:ccf.wd1/ClevelandClinicCareers:New-Grad-RN-Resident---Med-Surg-and-Telemetry_352611": 1791905032,
   "workday:ccf.wd1/ClevelandClinicCareers:New-Grad-RN-Resident---Medical-Telemetry_356782": 1792016061,
@@ -8354,5 +8359,5 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148,
   "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541": 1789106107
  },
- "updated_at": 1792108369
+ "updated_at": 1792110119
 }
