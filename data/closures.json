@@ -1,76 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1791849193,
-   "company": "Lakeland Roman Catholic Separate School Division",
-   "hours_open": 574.6,
-   "title": "computer systems analyst",
-   "uid": "jobbank:analyste de systemes:50064831"
-  },
-  {
-   "closed_at": 1791849193,
-   "company": "applied",
-   "hours_open": 266.7,
-   "title": "Autonomy Integration Software Engineer",
-   "uid": "ashby:applied:5db42c47-dde8-44d6-9a93-5bcd83a829c7"
-  },
-  {
-   "closed_at": 1791854165,
-   "company": "ibotta",
-   "hours_open": 71.0,
-   "title": "IT Systems Administrator",
-   "uid": "ashby:ibotta:6c0ea74b-f008-4e21-b5aa-56b772625731"
-  },
-  {
-   "closed_at": 1791854165,
-   "company": "Lancesoft",
-   "hours_open": 58.2,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50449327"
-  },
-  {
-   "closed_at": 1791854165,
-   "company": "Groupe DCM",
-   "hours_open": 590.2,
-   "title": "Programmeur CNC / CNC Programmer",
-   "uid": "jobillico:programmeur junior:17534670"
-  },
-  {
-   "closed_at": 1791854165,
-   "company": "cloudflare",
-   "hours_open": 145.9,
-   "title": "People Team: Software Engineer Intern (Winter/Spring 2027)",
-   "uid": "greenhouse:cloudflare:7774167"
-  },
-  {
-   "closed_at": 1791854165,
-   "company": "spacex",
-   "hours_open": 941.4,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1791854635,
-   "company": "CANMEC",
-   "hours_open": 83.9,
-   "title": "Nous agrandissons l'équipe ON RECRUTE Technicien informatique",
-   "uid": "jobillico:technicien informatique:17600094"
-  },
-  {
-   "closed_at": 1791854635,
-   "company": "twitch",
-   "hours_open": 941.5,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1791854635,
-   "company": "mercor",
-   "hours_open": 941.4,
-   "title": "Agentic Finance Engineer",
-   "uid": "ashby:mercor:c019b11f-4fbb-46a2-bbad-338ba8f4bedb"
-  },
-  {
    "closed_at": 1791854635,
    "company": "Source Code",
    "hours_open": 7.6,
@@ -5599,8 +5529,78 @@
    "hours_open": 1037.0,
    "title": "Tapeout Engineer, 2026 New College Graduate",
    "uid": "workday:globalfoundries.wd1/External:Tapeout-Engineer--2026-New-College-Graduate_JR-2602561"
+  },
+  {
+   "closed_at": 1792111440,
+   "company": "Umano Medical",
+   "hours_open": 895.6,
+   "title": "Concepteur logiciel embarqué et cybersécurité",
+   "uid": "jobillico:analyste cybersecurite:17489580"
+  },
+  {
+   "closed_at": 1792111440,
+   "company": "micron",
+   "hours_open": 166.1,
+   "title": "New College Grad - Process Integration Engineer",
+   "uid": "workday:micron.wd1/External:New-College-Grad---Process-Integration-Engineer_JR114667"
+  },
+  {
+   "closed_at": 1792111440,
+   "company": "kyndryl",
+   "hours_open": 185.4,
+   "title": "Kyndryl Early Career Program - Systems Administration, Mainframe",
+   "uid": "workday:kyndryl.wd5/KyndrylEarlyCareers:Kyndryl-Early-Career-Program---Systems-Administration--Mainframe_R-69926"
+  },
+  {
+   "closed_at": 1792111440,
+   "company": "marvell",
+   "hours_open": 986.8,
+   "title": "Firmware Engineer Intern, MS - Summer 2027",
+   "uid": "workday:marvell.wd1/MarvellCareers:Firmware-Engineer-Intern--MS---Summer-2027_2604513"
+  },
+  {
+   "closed_at": 1792111440,
+   "company": "marvell",
+   "hours_open": 376.2,
+   "title": "AI-Native Development Platform Engineer Intern, MS - Summer 2027",
+   "uid": "workday:marvell.wd1/MarvellCareers:AI-Native-Development-Platform-Engineer-Intern--MS---Summer-2027_2603848-1"
+  },
+  {
+   "closed_at": 1792111440,
+   "company": "lnw",
+   "hours_open": 26.1,
+   "title": "Associate Software Engineer",
+   "uid": "workday:lnw.wd5/lightwonderexternalcareers:Associate-Software-Engineer_R322882-1"
+  },
+  {
+   "closed_at": 1792111440,
+   "company": "lnw",
+   "hours_open": 26.1,
+   "title": "Intern Software Engineering",
+   "uid": "workday:lnw.wd5/lightwonderexternalcareers:Intern-Software-Engineering_R322885"
+  },
+  {
+   "closed_at": 1792111440,
+   "company": "Belle Graphics Inc.",
+   "hours_open": 200.3,
+   "title": "installation and repair technician - telecommunications",
+   "uid": "jobbank:telecommunications analyst:50200449"
+  },
+  {
+   "closed_at": 1792111440,
+   "company": "Litera",
+   "hours_open": 2.1,
+   "title": "Associate Software Engineer",
+   "uid": "simplify:listings:ab71d070-1a5b-40d5-a65e-a1b8fbf30f38"
+  },
+  {
+   "closed_at": 1792111440,
+   "company": "leidos",
+   "hours_open": 9.8,
+   "title": "Junior Software Developer",
+   "uid": "workday:leidos.wd5/external:Junior-Software-Developer_R-00194110"
   }
  ],
- "count": 809,
- "updated_at": 1792110858
+ "count": 810,
+ "updated_at": 1792111441
 }
