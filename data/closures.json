@@ -1,55 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1791937387,
-   "company": "spacex",
-   "hours_open": 967.1,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1791938688,
-   "company": "CANMEC",
-   "hours_open": 107.2,
-   "title": "Nous agrandissons l'équipe ON RECRUTE Technicien informatique",
-   "uid": "jobillico:technicien informatique:17600094"
-  },
-  {
-   "closed_at": 1791938688,
-   "company": "cintal",
-   "hours_open": 124.6,
-   "title": "Embedded Software Engineer 1",
-   "uid": "rippling:cintal:77ede633-2c0f-4a92-bb22-5219fb448dd3"
-  },
-  {
-   "closed_at": 1791938688,
-   "company": "edgehog-trading",
-   "hours_open": 935.4,
-   "title": "Junior FPGA Developer",
-   "uid": "rippling:edgehog-trading:10ba9bbf-9fbe-49ff-8f58-a88041de1438"
-  },
-  {
-   "closed_at": 1791941146,
-   "company": "Bosch Group",
-   "hours_open": 17.3,
-   "title": "[EAA] Embedded Test Engineer Intern (C/C++)",
-   "uid": "smartrecruiters:BoschGroup:744000155154629"
-  },
-  {
-   "closed_at": 1791941146,
-   "company": "AbbVie",
-   "hours_open": 17.3,
-   "title": "Engineer, Technology I",
-   "uid": "smartrecruiters:AbbVie:3743990016070631"
-  },
-  {
-   "closed_at": 1791941146,
-   "company": "Bosch Group",
-   "hours_open": 17.3,
-   "title": "Information Security and Privacy Intern",
-   "uid": "smartrecruiters:BoschGroup:744000155120934"
-  },
-  {
    "closed_at": 1791941146,
    "company": "Bosch Group",
    "hours_open": 17.3,
@@ -5599,8 +5550,57 @@
    "hours_open": 1036.9,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1792194422,
+   "company": "sugarcrm",
+   "hours_open": 218.3,
+   "title": "Junior Engineer",
+   "uid": "lever:sugarcrm:017a4113-d3bb-4859-af90-e8de85892baa"
+  },
+  {
+   "closed_at": 1792194422,
+   "company": "sugarcrm",
+   "hours_open": 238.9,
+   "title": "Software Engineer (Future Hiring)",
+   "uid": "lever:sugarcrm:b251a1d5-e42f-4b3d-8235-9f3ad015db00"
+  },
+  {
+   "closed_at": 1792194422,
+   "company": "twitch",
+   "hours_open": 1038.8,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1792194422,
+   "company": "reddit",
+   "hours_open": 28.8,
+   "title": "Machine Learning Engineer",
+   "uid": "greenhouse:reddit:7131934"
+  },
+  {
+   "closed_at": 1792194422,
+   "company": "voltus",
+   "hours_open": 1035.9,
+   "title": "Project Engineer",
+   "uid": "lever:voltus:58a0d4db-bae6-4649-9628-aa5d44072ceb"
+  },
+  {
+   "closed_at": 1792194422,
+   "company": "spacex",
+   "hours_open": 1035.9,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1792194422,
+   "company": "spacex",
+   "hours_open": 1038.8,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 805,
- "updated_at": 1792193508
+ "count": 807,
+ "updated_at": 1792194423
 }
