@@ -2,34 +2,6 @@
  "closed": [
   {
    "closed_at": 1791915110,
-   "company": "City of Brampton",
-   "hours_open": 625.2,
-   "title": "systems analyst",
-   "uid": "jobbank:systems analyst:50307090"
-  },
-  {
-   "closed_at": 1791915110,
-   "company": "Groupe DCM",
-   "hours_open": 613.3,
-   "title": "Programmeur CNC / CNC Programmer",
-   "uid": "jobillico:programmeur junior:17534679"
-  },
-  {
-   "closed_at": 1791915110,
-   "company": "later",
-   "hours_open": 961.2,
-   "title": "Software Development Co-op (Later Influence)",
-   "uid": "greenhouse:later:8643138002"
-  },
-  {
-   "closed_at": 1791915110,
-   "company": "micron",
-   "hours_open": 91.0,
-   "title": "Intern - IT Software Engineer",
-   "uid": "workday:micron.wd1/External:Intern---IT-Software-Engineer_JR113941"
-  },
-  {
-   "closed_at": 1791915110,
    "company": "Otter.ai",
    "hours_open": 138.3,
    "title": "Software Engineer New Grad - Front-End",
@@ -5599,8 +5571,36 @@
    "hours_open": 17.6,
    "title": "Software Development Intern - Summer 2027",
    "uid": "workday:caci.wd1/external:Software-Development-Intern---Summer-2027_333051"
+  },
+  {
+   "closed_at": 1792173806,
+   "company": "eversource",
+   "hours_open": 147.2,
+   "title": "Associate Engineer, Protection & Controls (hybrid schedule)",
+   "uid": "workday:eversource.wd1/ExternalSite:Associate-Engineer--Protection---Controls--hybrid-schedule-_R-031236"
+  },
+  {
+   "closed_at": 1792173806,
+   "company": "costar",
+   "hours_open": 707.2,
+   "title": "Associate Software Engineer - Irvine, CA",
+   "uid": "workday:costar.wd1/Costar_Campus:Associate-Software-Engineer---Irvine--CA_R39736"
+  },
+  {
+   "closed_at": 1792173806,
+   "company": "costar",
+   "hours_open": 707.2,
+   "title": "Associate Software Engineer - San Diego, CA",
+   "uid": "workday:costar.wd1/Costar_Campus:Associate-Software-Engineer---San-Diego--CA_R39674"
+  },
+  {
+   "closed_at": 1792173806,
+   "company": "ecolab",
+   "hours_open": 206.1,
+   "title": "Animal Health, Dairy Farm, Agriculture Industry - Technical Sales Intern",
+   "uid": "workday:ecolab.wd1/ecolab_external:Animal-Health--Dairy-Farm--Agriculture-Industry---Technical-Sales-Intern_R00303111"
   }
  ],
- "count": 809,
- "updated_at": 1792173651
+ "count": 804,
+ "updated_at": 1792173806
 }
