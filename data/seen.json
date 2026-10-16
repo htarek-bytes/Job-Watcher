@@ -1,5 +1,5 @@
 {
- "count": 8394,
+ "count": 8396,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -4966,6 +4966,7 @@
   "lever:matchgroup:61e35c3c-3156-4760-a088-4a3765e37f8e": 1788454653,
   "lever:matchgroup:69396299-e587-4063-aef6-0ce2fd66e9ee": 1789751981,
   "lever:mirego:50a2268a-ac83-4ff9-9952-f6c30486f192": 1788454653,
+  "lever:mirego:58f91480-7532-4b79-8aee-f6846f8b13b6": 1792154519,
   "lever:mirego:9e799575-050f-4bf1-8623-73debe9eb5b4": 1791224409,
   "lever:nexuse-group:0eff47b7-f4f4-4519-9016-5dc2b2470cf4": 1788528043,
   "lever:nexuse-group:6a247b67-8613-4e05-b63f-a254f246a075": 1788528043,
@@ -5069,6 +5070,7 @@
   "lever:shieldai:78842190-deba-4864-9ef9-272009cb15a4": 1788465250,
   "lever:shieldai:79c3b65f-ce0c-4868-bedf-4ddcc4cfe583": 1791328929,
   "lever:shieldai:7acef65d-2466-4959-9e86-106ecb4e7fe4": 1788887337,
+  "lever:shieldai:8436804b-9460-4a14-9062-b45d4583a00a": 1792154519,
   "lever:shieldai:8ab0ecee-89be-4670-bcc0-055b8afbf254": 1788465250,
   "lever:shieldai:8afc41da-27a5-4054-a3c7-87b3ceb6cf0a": 1788465250,
   "lever:shieldai:8c850c75-081d-4d09-bebf-096379a93010": 1789020474,
@@ -8395,5 +8397,6 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Junior-Algorithm-Engineer_R19377": 1788377927,
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148,
   "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541": 1789106107
- }
+ },
+ "updated_at": 1792154520
 }
