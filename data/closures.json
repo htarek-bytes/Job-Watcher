@@ -2,34 +2,6 @@
  "closed": [
   {
    "closed_at": 1791847101,
-   "company": "Hewlett Packard Enterprise",
-   "hours_open": 159.4,
-   "title": "VLSI Engineer 2 New Grad",
-   "uid": "simplify:listings:4a4ec7cc-a958-4c9b-91dc-88badf3c2593"
-  },
-  {
-   "closed_at": 1791847101,
-   "company": "statestreet",
-   "hours_open": 170.6,
-   "title": "Junior Software Engineer",
-   "uid": "workday:statestreet.wd1/Global:Junior-Software-Engineer_R-793923"
-  },
-  {
-   "closed_at": 1791847101,
-   "company": "Amazon",
-   "hours_open": 244.9,
-   "title": "Software Development Engineer, Conversational Ads Experience",
-   "uid": "amazon:amazon:10567987"
-  },
-  {
-   "closed_at": 1791847101,
-   "company": "lightspeed",
-   "hours_open": 942.3,
-   "title": "AI & Machine Learning Engineer",
-   "uid": "ashby:lightspeed:0b8bb2c8-8049-4b53-b1d1-74397807ccf2"
-  },
-  {
-   "closed_at": 1791847101,
    "company": "Lakeland Roman Catholic Separate School Division",
    "hours_open": 822.2,
    "title": "computer systems analyst",
@@ -5599,8 +5571,36 @@
    "hours_open": 26.8,
    "title": "Software Engineering Intern - Summer 2027",
    "uid": "workday:caci.wd1/external:Software-Engineering-Intern---Summer-2027_332543"
+  },
+  {
+   "closed_at": 1792110409,
+   "company": "ecolab",
+   "hours_open": 188.5,
+   "title": "Automation Specialist",
+   "uid": "workday:ecolab.wd1/ecolab_external:Automation-Specialist_R00306935-1"
+  },
+  {
+   "closed_at": 1792110409,
+   "company": "evergreenix",
+   "hours_open": 817.9,
+   "title": "Software Engineer I",
+   "uid": "workday:evergreenix.wd1/external-careers2:Software-Engineer-I_JR500748-1"
+  },
+  {
+   "closed_at": 1792110409,
+   "company": "twitch",
+   "hours_open": 1015.5,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1792110409,
+   "company": "spacex",
+   "hours_open": 1015.5,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 813,
- "updated_at": 1792110119
+ "count": 804,
+ "updated_at": 1792110410
 }
