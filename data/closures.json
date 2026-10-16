@@ -2,34 +2,6 @@
  "closed": [
   {
    "closed_at": 1791877817,
-   "company": "CANMEC",
-   "hours_open": 90.3,
-   "title": "Nous agrandissons l'équipe ON RECRUTE Technicien informatique",
-   "uid": "jobillico:technicien informatique:17600094"
-  },
-  {
-   "closed_at": 1791877817,
-   "company": "Source Code",
-   "hours_open": 152.8,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:systems analyst:50440640"
-  },
-  {
-   "closed_at": 1791877817,
-   "company": "Vancouver Psychology Centre",
-   "hours_open": 343.4,
-   "title": "software development programmer",
-   "uid": "jobbank:junior programmer:50386333"
-  },
-  {
-   "closed_at": 1791877817,
-   "company": "ICON Creative Studio",
-   "hours_open": 684.5,
-   "title": "network system administrator",
-   "uid": "jobbank:systems administrator:50285632"
-  },
-  {
-   "closed_at": 1791877817,
    "company": "Together AI",
    "hours_open": 582.6,
    "title": "Software Engineer New Grad",
@@ -5599,8 +5571,36 @@
    "hours_open": 1018.2,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1792126753,
+   "company": "Luminai",
+   "hours_open": 6.4,
+   "title": "Forward Deployed Engineer New Grad",
+   "uid": "simplify:listings:73d0508d-dd1e-4792-919a-46002cc966b1"
+  },
+  {
+   "closed_at": 1792126753,
+   "company": "decagon",
+   "hours_open": 182.4,
+   "title": "Software Engineer, Enterprise Product",
+   "uid": "ashby:decagon:0f41f8dc-a3c9-47e1-a3fe-5f137d83850e"
+  },
+  {
+   "closed_at": 1792126753,
+   "company": "twitch",
+   "hours_open": 1017.1,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1792126753,
+   "company": "spacex",
+   "hours_open": 1020.0,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 803,
- "updated_at": 1792126310
+ "count": 804,
+ "updated_at": 1792126754
 }
