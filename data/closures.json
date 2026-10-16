@@ -2,13 +2,6 @@
  "closed": [
   {
    "closed_at": 1791879041,
-   "company": "Source Code",
-   "hours_open": 14.3,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:control systems analyst:50476529"
-  },
-  {
-   "closed_at": 1791879041,
    "company": "Alto-Shaam",
    "hours_open": 801.2,
    "title": "Quality Engineer I",
@@ -5599,8 +5592,15 @@
    "hours_open": 703.7,
    "title": "System Integration Software Engineer 1 - System Integration Software Engineer I",
    "uid": "simplify:listings:f0decac3-42e6-41b6-8f73-a954263e1bd7"
+  },
+  {
+   "closed_at": 1792142647,
+   "company": "Umano Medical",
+   "hours_open": 904.3,
+   "title": "Concepteur logiciel embarqué et cybersécurité",
+   "uid": "jobillico:analyste cybersecurite:17489580"
   }
  ],
- "count": 811,
- "updated_at": 1792135690
+ "count": 801,
+ "updated_at": 1792142647
 }
