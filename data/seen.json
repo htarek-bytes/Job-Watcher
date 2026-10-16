@@ -1,5 +1,5 @@
 {
- "count": 8438,
+ "count": 8445,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -3784,6 +3784,7 @@
   "greenhouse:spacex:8882642002": 1791598552,
   "greenhouse:spacex:8883775002": 1791831542,
   "greenhouse:spacex:8884186002": 1792170020,
+  "greenhouse:spacex:8884556002": 1792184209,
   "greenhouse:spacex:8886427002": 1791931335,
   "greenhouse:spacex:8886434002": 1791997673,
   "greenhouse:spacex:8889422002": 1792022723,
@@ -8213,6 +8214,8 @@
   "workday:rockwellautomation.wd1/External-Rockwell-Automation-Early-Careers:Intern--Technical-Sales---Consulting--Canada-_R26-5965-1": 1790535986,
   "workday:rockwellautomation.wd1/External-Rockwell-Automation-Early-Careers:Intern--Technical-Sales---Consulting--USA-_R26-5962-1": 1790535986,
   "workday:rockwellautomation.wd1/External_Rockwell_Automation:Co-op--AI-Software-Engineering--6-8-months-_R26-6982-1": 1790388104,
+  "workday:rockwellautomation.wd1/External_Rockwell_Automation:Co-op--Hardware-Development-Engineer--Jan---July-2027-_R26-6638-1": 1792184209,
+  "workday:rockwellautomation.wd1/External_Rockwell_Automation:Co-op--Hardware-Development-Engineer--June---Dec-2027-_R26-6891-1": 1792184209,
   "workday:rockwellautomation.wd1/External_Rockwell_Automation:Intern--AI-Software-Engineering--June-August-2027-_R26-6980-1": 1790388104,
   "workday:rockwellautomation.wd1/External_Rockwell_Automation:Intern--Technical-Sales---Consulting--Canada-_R26-5965-2": 1790041773,
   "workday:rockwellautomation.wd1/External_Rockwell_Automation:Intern--Technical-Sales---Consulting--USA-_R26-5962-2": 1790041773,
@@ -8222,6 +8225,7 @@
   "workday:saabusa.wd1/saab_careers:Software-Engineer-Co-Op--Summer-2027-_R-03264-1": 1789425451,
   "workday:saabusa.wd1/saab_careers:Software-Engineering-Co-Op--Spring---Summer-2027-_R-03240-1": 1788550448,
   "workday:saabusa.wd1/saab_careers:Software-Engineering-Co-Op--Summer-2027-_R-03237-1": 1788474010,
+  "workday:salesforce.wd12/External_Career_Site:Account-Solution-Engineer---Federal-Civilian_JR363499-1": 1792184209,
   "workday:salesforce.wd12/External_Career_Site:Account-Solution-Engineer--Higher-Education_JR359265": 1789425451,
   "workday:salesforce.wd12/External_Career_Site:Account-Solution-Engineer_JR360701": 1790010082,
   "workday:salesforce.wd12/External_Career_Site:Business-Development-Associate--Early-Career-_JR340479-1": 1790990847,
@@ -8247,6 +8251,7 @@
   "workday:selinc.wd1/SEL:Power-Engineer-Intern_2026-21156": 1788539216,
   "workday:selinc.wd1/SEL:Power-Systems-Sales-Engineer---Caribbean---Central-America_2026-19581": 1789683100,
   "workday:selinc.wd1/SEL:Senior-Automation-Engineer_2025-17812": 1791847101,
+  "workday:selinc.wd1/SEL:Software-Engineer-Intern_2026-22958": 1792184209,
   "workday:selinc.wd1/SEL:Software-Engineer-Intern_2026-23076": 1790362723,
   "workday:selinc.wd1/SEL:Software-Engineering-Intern---Power-Systems_2026-22933": 1788539216,
   "workday:semtech.wd1/SemtechCareers:Associate-Engineer--Software-Engineering_REQ3652": 1791973931,
@@ -8348,6 +8353,7 @@
   "workday:thrivent.wd5/external:IT-Application-Engineer-Intern--Investments---Summer-2027_REQ-48511-2": 1792022723,
   "workday:tjx.wd1/tjx_external:Business-Intelligence---Automation-Analyst-Co-op_REQ145459": 1788903151,
   "workday:tjx.wd1/tjx_external:IT-Engineer-Internship---Summer-2027_REQ153160": 1788539216,
+  "workday:tmobile.wd1/External:Associate-Engineer---Software---Mobile-App-Development_REQ370392-1": 1792184209,
   "workday:tmobile.wd1/External:Associate-Engineer--Agentic-AI_REQ368440": 1789517822,
   "workday:tmobile.wd1/External:Associate-Software-Engineer_REQ367954-1": 1788890289,
   "workday:tmobile.wd1/External:Solution-Engineer---Strategic-Automotive_REQ375789": 1790820503,
@@ -8378,6 +8384,7 @@
   "workday:tsc.wd12/TSC-Careers:NPI-Test-Engineer-I_JR2763": 1788394042,
   "workday:tsc.wd12/TSC-Careers:Operations-Systems-Analyst-I_JR2750": 1788454653,
   "workday:tsc.wd12/TSC-Careers:Software-Engineer-I_JR2567-1": 1788394042,
+  "workday:tsys.wd1/tsys:Data-Solution-Consultant_R0076646": 1792184209,
   "workday:ttc.wd1/Toro_External_Careers:Embedded-Software-Engineering-Intern---The-Toro-Company_JR17114": 1792079350,
   "workday:ttc.wd1/Toro_External_Careers:Hardware-and-Software-Engineering-Intern---Ditch-Witch_JR17183": 1792079350,
   "workday:ttc.wd1/Toro_External_Careers:Software-Developer--I_JR15377": 1792079350,
@@ -8440,5 +8447,5 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148,
   "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541": 1789106107
  },
- "updated_at": 1792180451
+ "updated_at": 1792184211
 }
