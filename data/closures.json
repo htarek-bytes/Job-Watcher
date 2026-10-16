@@ -1,62 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1791934009,
-   "company": "spacex",
-   "hours_open": 963.5,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1791934009,
-   "company": "spacex",
-   "hours_open": 966.5,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1791936035,
-   "company": "Justworks",
-   "hours_open": 1.3,
-   "title": "Associate Software Engineer - Frontend",
-   "uid": "simplify:listings:a79e6835-8f6d-4436-8c3c-6762dafc0a75"
-  },
-  {
-   "closed_at": 1791936035,
-   "company": "CANMEC",
-   "hours_open": 106.5,
-   "title": "Nous agrandissons l'équipe ON RECRUTE Technicien informatique",
-   "uid": "jobillico:technicien informatique:17600094"
-  },
-  {
-   "closed_at": 1791936035,
-   "company": "Icentia inc.",
-   "hours_open": 4.4,
-   "title": "Technicien TI, Cybersécurité et Agents IA",
-   "uid": "jobillico:analyste cybersecurite:17592852"
-  },
-  {
-   "closed_at": 1791936035,
-   "company": "TaxRise",
-   "hours_open": 168.6,
-   "title": "Junior Software Developer",
-   "uid": "simplify:listings:62da524e-ffa4-4bcd-a604-fcc071409fb5"
-  },
-  {
-   "closed_at": 1791936035,
-   "company": "Applied Materials",
-   "hours_open": 548.6,
-   "title": "Software Engineer New Grad",
-   "uid": "simplify:listings:fe444a2e-411b-4a40-b6f4-9098bbd980bb"
-  },
-  {
-   "closed_at": 1791936035,
-   "company": "twitch",
-   "hours_open": 967.1,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
    "closed_at": 1791936035,
    "company": "voyagertechnologiesinc",
    "hours_open": 967.1,
@@ -5599,8 +5543,64 @@
    "hours_open": 1035.9,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1792192729,
+   "company": "saronic",
+   "hours_open": 42.8,
+   "title": "Marine Quality Engineer",
+   "uid": "ashby:saronic:8f25b4cd-04db-463c-a662-566c03430df3"
+  },
+  {
+   "closed_at": 1792192729,
+   "company": "Arcfield",
+   "hours_open": 32.1,
+   "title": "Software Engineer 1",
+   "uid": "simplify:listings:e3dc3916-c56e-4402-833e-d675b99b9d0c"
+  },
+  {
+   "closed_at": 1792192729,
+   "company": "Meta",
+   "hours_open": 69.2,
+   "title": "ASIC Engineer New Grad - Design",
+   "uid": "simplify:listings:96f4312a-37af-4609-8d5e-e3fd90643296"
+  },
+  {
+   "closed_at": 1792192729,
+   "company": "Signet Jewelers",
+   "hours_open": 56.6,
+   "title": "Software Engineer 1",
+   "uid": "simplify:listings:ccf805e9-e970-4b46-bde0-96d9de47c8a6"
+  },
+  {
+   "closed_at": 1792192729,
+   "company": "Dexcom",
+   "hours_open": 79.2,
+   "title": "Software Development Engineer 1",
+   "uid": "simplify:listings:c5f0ccae-5750-4c3e-9954-d45d8150a0a2"
+  },
+  {
+   "closed_at": 1792192729,
+   "company": "nexthopai",
+   "hours_open": 864.5,
+   "title": "Software Engineer - New Grad [Santa Clara & Bellevue]",
+   "uid": "bamboohr:nexthopai:24"
+  },
+  {
+   "closed_at": 1792192729,
+   "company": "twitch",
+   "hours_open": 1035.4,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1792192729,
+   "company": "spacex",
+   "hours_open": 1038.4,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
  "count": 808,
- "updated_at": 1792189829
+ "updated_at": 1792192731
 }
