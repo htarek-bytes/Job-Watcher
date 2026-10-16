@@ -2,97 +2,6 @@
  "closed": [
   {
    "closed_at": 1791867960,
-   "company": "economicmodeling",
-   "hours_open": 107.2,
-   "title": "Software Engineer - 1092 - (Moscow, ID)",
-   "uid": "lever:economicmodeling:bbd08018-de36-4c25-b259-8e4cc6c91ecc"
-  },
-  {
-   "closed_at": 1791867960,
-   "company": "economicmodeling",
-   "hours_open": 107.2,
-   "title": "Sales Solutions Engineer - 1079",
-   "uid": "lever:economicmodeling:c4986d73-6b7a-4e9c-b404-fa03407480a9"
-  },
-  {
-   "closed_at": 1791867960,
-   "company": "togetherai",
-   "hours_open": 574.4,
-   "title": "Software Engineer, New Grad (2027)",
-   "uid": "greenhouse:togetherai:5211582007"
-  },
-  {
-   "closed_at": 1791867960,
-   "company": "togetherai",
-   "hours_open": 574.4,
-   "title": "Software Engineer Intern (Winter 2027)",
-   "uid": "greenhouse:togetherai:5238031007"
-  },
-  {
-   "closed_at": 1791867960,
-   "company": "togetherai",
-   "hours_open": 574.4,
-   "title": "Software Engineer Intern (Summer 2027)",
-   "uid": "greenhouse:togetherai:5232036007"
-  },
-  {
-   "closed_at": 1791867960,
-   "company": "togetherai",
-   "hours_open": 574.4,
-   "title": "Software Development In Test Intern (Summer 2027)",
-   "uid": "greenhouse:togetherai:5238472007"
-  },
-  {
-   "closed_at": 1791867960,
-   "company": "cscgeneration-2",
-   "hours_open": 512.8,
-   "title": "Software Engineer - Legacy Applications & Modernization - Intern/Part Time",
-   "uid": "lever:cscgeneration-2:3a04b45f-a2eb-438a-a8ac-b07324223813"
-  },
-  {
-   "closed_at": 1791867960,
-   "company": "mongodb",
-   "hours_open": 948.1,
-   "title": "Software Engineer 3, Atlas Vector Search",
-   "uid": "greenhouse:mongodb:7523911"
-  },
-  {
-   "closed_at": 1791867960,
-   "company": "mongodb",
-   "hours_open": 948.1,
-   "title": "Software Engineer 3, Search Systems Replication & Routing",
-   "uid": "greenhouse:mongodb:7235322"
-  },
-  {
-   "closed_at": 1791867960,
-   "company": "Source Code",
-   "hours_open": 11.3,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:control systems analyst:50476529"
-  },
-  {
-   "closed_at": 1791867960,
-   "company": "LogiSense Corporation",
-   "hours_open": 24.7,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50434509"
-  },
-  {
-   "closed_at": 1791867960,
-   "company": "EXFO inc",
-   "hours_open": 828.0,
-   "title": "Développeur logiciel embarqué – Télécommunications",
-   "uid": "jobillico:developpeur logiciel:17359277"
-  },
-  {
-   "closed_at": 1791867960,
-   "company": "Groupe DCM",
-   "hours_open": 600.2,
-   "title": "Programmeur CNC / CNC Programmer",
-   "uid": "jobillico:programmeur junior:17534679"
-  },
-  {
-   "closed_at": 1791867960,
    "company": "spacex",
    "hours_open": 945.2,
    "title": "Security Software Engineer (Starlink)",
@@ -5599,8 +5508,99 @@
    "hours_open": 1015.8,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1792126109,
+   "company": "shi",
+   "hours_open": 13.6,
+   "title": "Solutions Engineer - Commercial",
+   "uid": "workday:shi.wd12/shicareers:Solutions-Engineer---Commercial_JR3927"
+  },
+  {
+   "closed_at": 1792126109,
+   "company": "DEMPTON SOLUTIONS TECHNOLOGIQUES INC.",
+   "hours_open": 156.2,
+   "title": "programmer analyst",
+   "uid": "jobbank:junior programmer:50460922"
+  },
+  {
+   "closed_at": 1792126109,
+   "company": "Umano Medical",
+   "hours_open": 899.7,
+   "title": "Concepteur logiciel embarqué et cybersécurité",
+   "uid": "jobillico:analyste cybersecurite:17489580"
+  },
+  {
+   "closed_at": 1792126109,
+   "company": "tmobile",
+   "hours_open": 343.7,
+   "title": "Solution Engineer - Virtual Business",
+   "uid": "workday:tmobile.wd1/External:Solution-Engineer---Virtual-Business_REQ375985-2"
+  },
+  {
+   "closed_at": 1792126109,
+   "company": "statestreet",
+   "hours_open": 702.4,
+   "title": "Junior Software Engineer",
+   "uid": "workday:statestreet.wd1/Global:Junior-Software-Engineer_R-797359-2"
+  },
+  {
+   "closed_at": 1792126109,
+   "company": "twitch",
+   "hours_open": 1016.9,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1792126109,
+   "company": "shi",
+   "hours_open": 13.6,
+   "title": "Solutions Consultant - IDCS",
+   "uid": "workday:shi.wd12/shicareers:IDCS-Solutions-Consultant_JR3026"
+  },
+  {
+   "closed_at": 1792126109,
+   "company": "spacex",
+   "hours_open": 394.4,
+   "title": "Security Engineer (OT)",
+   "uid": "greenhouse:spacex:8854691002"
+  },
+  {
+   "closed_at": 1792126109,
+   "company": "spacex",
+   "hours_open": 394.4,
+   "title": "Security Engineer (Software)",
+   "uid": "greenhouse:spacex:8856394002"
+  },
+  {
+   "closed_at": 1792126109,
+   "company": "spacex",
+   "hours_open": 1019.8,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1792126109,
+   "company": "spacex",
+   "hours_open": 1019.8,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1792126109,
+   "company": "spacex",
+   "hours_open": 1019.8,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1792126109,
+   "company": "spacex",
+   "hours_open": 406.7,
+   "title": "Security Engineer",
+   "uid": "greenhouse:spacex:8854707002"
   }
  ],
- "count": 810,
- "updated_at": 1792117642
+ "count": 813,
+ "updated_at": 1792126110
 }
