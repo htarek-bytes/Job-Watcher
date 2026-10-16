@@ -1,34 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1791928358,
-   "company": "katalyst",
-   "hours_open": 964.9,
-   "title": "Software Engineer, Ground Software",
-   "uid": "greenhouse:katalyst:6130553004"
-  },
-  {
-   "closed_at": 1791928358,
-   "company": "spacex",
-   "hours_open": 964.9,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1791928358,
-   "company": "spacex",
-   "hours_open": 963.2,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1791928358,
-   "company": "Amazon",
-   "hours_open": 288.7,
-   "title": "Software Development Engineer, ADC2S",
-   "uid": "amazon:amazon:10567329"
-  },
-  {
    "closed_at": 1791931335,
    "company": "CGI",
    "hours_open": 845.6,
@@ -5599,8 +5571,36 @@
    "hours_open": 1035.7,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1792184636,
+   "company": "YO AI Labs",
+   "hours_open": 11.7,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50511932"
+  },
+  {
+   "closed_at": 1792184636,
+   "company": "usaa",
+   "hours_open": 261.9,
+   "title": "Software Engineer I",
+   "uid": "workday:usaa.wd1/USAAJOBSWD:Software-Engineer-I_R0120279-1"
+  },
+  {
+   "closed_at": 1792184636,
+   "company": "spacex",
+   "hours_open": 1033.2,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1792184636,
+   "company": "spacex",
+   "hours_open": 1036.1,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
   }
  ],
- "count": 818,
- "updated_at": 1792184211
+ "count": 804,
+ "updated_at": 1792184637
 }
