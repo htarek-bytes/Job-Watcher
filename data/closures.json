@@ -2,27 +2,6 @@
  "closed": [
   {
    "closed_at": 1791907434,
-   "company": "fis",
-   "hours_open": 481.3,
-   "title": "HPNS/ Tandem Junior Engineer",
-   "uid": "workday:fis.wd5/searchjobs:HPNS-Engineer-Sr-Lead--Software_JR0308900"
-  },
-  {
-   "closed_at": 1791907434,
-   "company": "dxctechnology",
-   "hours_open": 578.8,
-   "title": "Junior Java Developer (Mandarin)",
-   "uid": "workday:dxctechnology.wd1/dxcjobs:Junior-Java-Developer--Mandarin-_51584524"
-  },
-  {
-   "closed_at": 1791907434,
-   "company": "CesiumAstro",
-   "hours_open": 448.6,
-   "title": "FPGA Engineer 1",
-   "uid": "simplify:listings:b7c09e6c-300b-44d7-979c-ffb2447b3c5b"
-  },
-  {
-   "closed_at": 1791907434,
    "company": "Amazon",
    "hours_open": 261.7,
    "title": "Software Development Engineer, Conversational Ads Experience",
@@ -5599,8 +5578,29 @@
    "hours_open": 1027.6,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1792160457,
+   "company": "Logesco Informatique",
+   "hours_open": 909.2,
+   "title": "Administrateur de réseau",
+   "uid": "jobillico:analyste reseau:17188132"
+  },
+  {
+   "closed_at": 1792160457,
+   "company": "coinbase",
+   "hours_open": 724.4,
+   "title": "Software Engineer",
+   "uid": "greenhouse:coinbase:8207374"
+  },
+  {
+   "closed_at": 1792160457,
+   "company": "AlphaX",
+   "hours_open": 60.3,
+   "title": "Project Engineer - Commercial Electrical Projects",
+   "uid": "workable:alphax:2A759D9391"
   }
  ],
- "count": 819,
- "updated_at": 1792160198
+ "count": 803,
+ "updated_at": 1792160458
 }
