@@ -1,153 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1791920076,
-   "company": "nvidia",
-   "hours_open": 984.0,
-   "title": "Formal Verification Engineer - New College Grad 2026",
-   "uid": "workday:nvidia.wd5/NVIDIAExternalCareerSite:Formal-Verification-Engineer---New-College-Grad-2026_JR2020837"
-  },
-  {
-   "closed_at": 1791920076,
-   "company": "KLA",
-   "hours_open": 308.4,
-   "title": "Software Engineer 1",
-   "uid": "simplify:listings:ab4c9ca3-73cb-48b3-a095-093c436e265e"
-  },
-  {
-   "closed_at": 1791920076,
-   "company": "philips",
-   "hours_open": 354.6,
-   "title": "Intern – Embedded Systems Test Automation Engineer – Bothell, WA – Summer 2027",
-   "uid": "workday:philips.wd3/jobs-and-careers:Intern---Embedded-Systems-Test-Automation-Engineer---Bothell--WA---Summer-2027_592074"
-  },
-  {
-   "closed_at": 1791920076,
-   "company": "psu",
-   "hours_open": 384.5,
-   "title": "Systems Engineer Intern",
-   "uid": "workday:psu.wd1/PSU_Staff:Systems-Engineer-Intern_REQ_0000082601-1"
-  },
-  {
-   "closed_at": 1791920076,
-   "company": "Amazon",
-   "hours_open": 284.0,
-   "title": "Software Development Engineer, ROBOTICS, Early Career - 2027",
-   "uid": "amazon:amazon:10567489"
-  },
-  {
-   "closed_at": 1791920076,
-   "company": "Amazon",
-   "hours_open": 260.0,
-   "title": "Software Development Engineer, Amazon Robotics",
-   "uid": "amazon:amazon:10568411"
-  },
-  {
-   "closed_at": 1791920076,
-   "company": "Amazon",
-   "hours_open": 286.2,
-   "title": "Software Development Engineer, Ads Console Frameworks",
-   "uid": "amazon:amazon:10567389"
-  },
-  {
-   "closed_at": 1791920076,
-   "company": "twitch",
-   "hours_open": 962.6,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1791920076,
-   "company": "sharkninjaoperatingllc",
-   "hours_open": 955.6,
-   "title": "Associate Product Developer - Indoor Heated",
-   "uid": "greenhouse:sharkninjaoperatingllc:4702969006"
-  },
-  {
-   "closed_at": 1791920076,
-   "company": "babelstreet",
-   "hours_open": 960.9,
-   "title": "NLP/Linguistics Software Engineer",
-   "uid": "greenhouse:babelstreet:8008713"
-  },
-  {
-   "closed_at": 1791920076,
-   "company": "Zip",
-   "hours_open": 999.3,
-   "title": "Software Engineer New Grad",
-   "uid": "simplify:listings:cfdb84c0-3b66-4b42-90a5-9189a55f2592"
-  },
-  {
-   "closed_at": 1791920076,
-   "company": "radiancetech",
-   "hours_open": 815.5,
-   "title": "Junior Software Engineer",
-   "uid": "workday:radiancetech.wd12/Radiance_External:Junior-Software-Engineer_HR102399"
-  },
-  {
-   "closed_at": 1791920076,
-   "company": "nvidia",
-   "hours_open": 668.6,
-   "title": "ASIC Design Verification Engineer - New College Grad 2026",
-   "uid": "workday:nvidia.wd5/NVIDIAExternalCareerSite:ASIC-Design-Verification-Engineer---New-College-Grad-2026_JR2010391"
-  },
-  {
-   "closed_at": 1791920076,
-   "company": "spacex",
-   "hours_open": 962.3,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1791920076,
-   "company": "freedomconsulting",
-   "hours_open": 981.6,
-   "title": "Junior Software Engineer 730",
-   "uid": "greenhouse:freedomconsulting:5190737007"
-  },
-  {
-   "closed_at": 1791920076,
-   "company": "spacex",
-   "hours_open": 960.9,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1791924455,
-   "company": "discord",
-   "hours_open": 528.5,
-   "title": "Software Engineer, Safety Processing",
-   "uid": "greenhouse:discord:8823881002"
-  },
-  {
-   "closed_at": 1791924455,
-   "company": "Groupe DCM",
-   "hours_open": 615.9,
-   "title": "Programmeur CNC / CNC Programmer",
-   "uid": "jobillico:programmeur junior:17534679"
-  },
-  {
-   "closed_at": 1791924455,
-   "company": "sierraspace",
-   "hours_open": 133.2,
-   "title": "Thermal Analysis Engineer I",
-   "uid": "workday:sierraspace.wd1/Sierra_Space_External_Career_Site:Thermal-Analysis-Engineer-I_R26353"
-  },
-  {
-   "closed_at": 1791924455,
-   "company": "selinc",
-   "hours_open": 21.5,
-   "title": "Associate Engineer- Automation",
-   "uid": "workday:selinc.wd1/SEL:Senior-Automation-Engineer_2025-17812"
-  },
-  {
-   "closed_at": 1791924455,
-   "company": "selinc",
-   "hours_open": 21.5,
-   "title": "Associate Software Engineer- Go, Typescript, C#",
-   "uid": "workday:selinc.wd1/SEL:Associate-Software-Engineer--Go--Typescript--C-_2026-23482"
-  },
-  {
    "closed_at": 1791924455,
    "company": "doordashusa",
    "hours_open": 962.1,
@@ -5599,8 +5452,155 @@
    "hours_open": 1031.6,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1792180450,
+   "company": "justworks",
+   "hours_open": 22.3,
+   "title": "Associate Software Engineer - International",
+   "uid": "greenhouse:justworks:8179702"
+  },
+  {
+   "closed_at": 1792180450,
+   "company": "gitlab",
+   "hours_open": 44.4,
+   "title": "Cloud Platform Engineer",
+   "uid": "greenhouse:gitlab:8889193002"
+  },
+  {
+   "closed_at": 1792180450,
+   "company": "Meubles RD - Candiac",
+   "hours_open": 12.4,
+   "title": "Web developer",
+   "uid": "jobbank:developpeur junior:50495527"
+  },
+  {
+   "closed_at": 1792180450,
+   "company": "Meubles RD",
+   "hours_open": 12.4,
+   "title": "Web developer",
+   "uid": "jobbank:programmeur junior:50495666"
+  },
+  {
+   "closed_at": 1792180450,
+   "company": "YO AI Labs",
+   "hours_open": 10.5,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50511932"
+  },
+  {
+   "closed_at": 1792180450,
+   "company": "Great Lakes Group",
+   "hours_open": 119.4,
+   "title": "electrical controls engineer",
+   "uid": "jobbank:control systems analyst:50464497"
+  },
+  {
+   "closed_at": 1792180450,
+   "company": "rb",
+   "hours_open": 204.5,
+   "title": "AI Solutions Engineer - Experienced",
+   "uid": "workday:rb.wd5/FRS:AI-Solutions-Engineer---Experienced_R-0000033598-1"
+  },
+  {
+   "closed_at": 1792180450,
+   "company": "philips",
+   "hours_open": 265.3,
+   "title": "Co-op – R&D Engineer – Colorado Springs, CO – Summer 2027",
+   "uid": "workday:philips.wd3/jobs-and-careers:Co-op---R-D-Engineer---Colorado-Springs--CO---Summer-2027_591611"
+  },
+  {
+   "closed_at": 1792180450,
+   "company": "ngc",
+   "hours_open": 44.4,
+   "title": "2027 Cyber Software Engineer Intern - San Antonio TX",
+   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Cyber-Software-Engineer-Intern---San-Antonio-TX_R10256037"
+  },
+  {
+   "closed_at": 1792180450,
+   "company": "ngc",
+   "hours_open": 44.4,
+   "title": "2027 Intern - Airworthiness Engineer",
+   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Intern---Airworthiness-Engineer_R10255205"
+  },
+  {
+   "closed_at": 1792180450,
+   "company": "purestorage",
+   "hours_open": 906.3,
+   "title": "Designated Services Engineer (Shift: 7:00 AM to 4:00 PM Mountain Time)",
+   "uid": "greenhouse:purestorage:8126804"
+  },
+  {
+   "closed_at": 1792180450,
+   "company": "gopuff",
+   "hours_open": 1034.9,
+   "title": "Data Engineer",
+   "uid": "lever:gopuff:fece6961-007a-455f-b002-6da8a590ba0f"
+  },
+  {
+   "closed_at": 1792180450,
+   "company": "relx",
+   "hours_open": 1053.9,
+   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - January)",
+   "uid": "workday:relx.wd3/RiskSolutions:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617"
+  },
+  {
+   "closed_at": 1792180450,
+   "company": "relx",
+   "hours_open": 1053.9,
+   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - June)",
+   "uid": "workday:relx.wd3/RiskSolutions:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-1"
+  },
+  {
+   "closed_at": 1792180450,
+   "company": "relx",
+   "hours_open": 1053.9,
+   "title": "Tech Accelerate Graduate Program - Software Engineer (Boca Raton - June)",
+   "uid": "workday:relx.wd3/RiskSolutions:Tech-Accelerate-Graduate-Program---Software-Engineer--Boca-Raton---June-_R116023-2"
+  },
+  {
+   "closed_at": 1792180450,
+   "company": "nvidia",
+   "hours_open": 28.9,
+   "title": "ASIC Verification Engineer - New College Grad 2027",
+   "uid": "workday:nvidia.wd5/NVIDIAExternalCareerSite:ASIC-Verification-Engineer---New-College-Grad-2027_JR2027719"
+  },
+  {
+   "closed_at": 1792180450,
+   "company": "verkada",
+   "hours_open": 952.9,
+   "title": "Federal Solutions Engineer",
+   "uid": "greenhouse:verkada:5226698007"
+  },
+  {
+   "closed_at": 1792180450,
+   "company": "andurilindustries",
+   "hours_open": 1033.2,
+   "title": "Agentic AI Engineer, Automation",
+   "uid": "greenhouse:andurilindustries:5219383007"
+  },
+  {
+   "closed_at": 1792180450,
+   "company": "spacex",
+   "hours_open": 1034.9,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1792180450,
+   "company": "spacex",
+   "hours_open": 1034.9,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1792180450,
+   "company": "spacex",
+   "hours_open": 1034.9,
+   "title": "Automation & Controls Engineer (Starship Launch Hardware)",
+   "uid": "greenhouse:spacex:8433913002"
   }
  ],
- "count": 815,
- "updated_at": 1792174532
+ "count": 821,
+ "updated_at": 1792180451
 }
