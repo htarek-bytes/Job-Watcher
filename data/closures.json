@@ -1,27 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1791867960,
-   "company": "spacex",
-   "hours_open": 945.2,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1791867960,
-   "company": "spacex",
-   "hours_open": 948.1,
-   "title": "Mission Integration Engineer, C3 - Top Secret Clearance",
-   "uid": "greenhouse:spacex:8468689002"
-  },
-  {
-   "closed_at": 1791877817,
-   "company": "shieldai",
-   "hours_open": 662.5,
-   "title": "Associate Systems Administrator (R5873)",
-   "uid": "lever:shieldai:f42c020c-82f4-4b7e-a6c5-3fece0fb27c2"
-  },
-  {
    "closed_at": 1791877817,
    "company": "CANMEC",
    "hours_open": 90.3,
@@ -5599,8 +5578,29 @@
    "hours_open": 406.7,
    "title": "Security Engineer",
    "uid": "greenhouse:spacex:8854707002"
+  },
+  {
+   "closed_at": 1792126310,
+   "company": "twitch",
+   "hours_open": 1019.9,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1792126310,
+   "company": "Belle Graphics Inc.",
+   "hours_open": 204.4,
+   "title": "installation and repair technician - telecommunications",
+   "uid": "jobbank:telecommunications analyst:50200449"
+  },
+  {
+   "closed_at": 1792126310,
+   "company": "spacex",
+   "hours_open": 1018.2,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
- "count": 813,
- "updated_at": 1792126110
+ "count": 803,
+ "updated_at": 1792126310
 }
