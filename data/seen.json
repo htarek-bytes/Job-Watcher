@@ -1,5 +1,5 @@
 {
- "count": 8364,
+ "count": 8372,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -2679,6 +2679,7 @@
   "greenhouse:machindustries:4454978009": 1792101857,
   "greenhouse:machindustries:4455005009": 1792102971,
   "greenhouse:machindustries:4455036009": 1792103822,
+  "greenhouse:machindustries:4455148009": 1792117641,
   "greenhouse:map:8816124002": 1789664284,
   "greenhouse:maybellquantum:5345023008": 1788460756,
   "greenhouse:maybellquantum:5439773008": 1790781019,
@@ -2966,6 +2967,7 @@
   "greenhouse:rocketlab:8015847003": 1791997673,
   "greenhouse:rocketlab:8019630003": 1791563644,
   "greenhouse:rocketlab:8029637003": 1792020478,
+  "greenhouse:rocketlab:8034180003": 1792117641,
   "greenhouse:samsara:7311741": 1788750148,
   "greenhouse:samsara:7311761": 1788750148,
   "greenhouse:samsara:7624120": 1788750148,
@@ -3770,6 +3772,7 @@
   "greenhouse:spacex:8890337002": 1792024568,
   "greenhouse:spacex:8892801002": 1792088688,
   "greenhouse:spacex:8893016002": 1792090592,
+  "greenhouse:spacex:8893406002": 1792117641,
   "greenhouse:stratacareers:8030865003": 1791936035,
   "greenhouse:stripe:6042172": 1788454653,
   "greenhouse:stripe:6176758": 1788454653,
@@ -5822,6 +5825,7 @@
   "simplify:listings:8f1666d8-5267-460a-9e6f-0b622ef9f60d": 1789017180,
   "simplify:listings:8fb0dded-666d-47fa-9cab-28bc7ada4f75": 1792077007,
   "simplify:listings:90326487-43c7-4181-ac71-44e331484bf4": 1788322770,
+  "simplify:listings:9047dd23-9bb9-4503-8b3a-3792489b8b50": 1792117641,
   "simplify:listings:90b7dcd2-ef8d-4a60-891d-0978390afa8e": 1788322770,
   "simplify:listings:90b92c02-68ac-4402-b8f2-91494bc89e19": 1788322770,
   "simplify:listings:915951dd-70ca-48b8-9767-8d9541dbca43": 1788528043,
@@ -6089,6 +6093,7 @@
   "simplify:listings:d1775023-8318-4c20-8b84-7725fb52c8a3": 1789033698,
   "simplify:listings:d1b109a6-58b7-44a3-8f0d-f218c896370a": 1788322770,
   "simplify:listings:d1eed041-7ca0-4a39-8adc-7011f5c8b2df": 1789485027,
+  "simplify:listings:d1f50127-9dc7-4b88-a4ae-bffdc7c84812": 1792117641,
   "simplify:listings:d1fb6d0c-1130-4775-b71b-7abf9d9f4e0a": 1788322770,
   "simplify:listings:d24846e3-7ab0-4dc5-8419-0d070719ad82": 1788322770,
   "simplify:listings:d2686e45-dd4b-4b65-870c-0ea4607f8198": 1788322770,
@@ -8093,6 +8098,7 @@
   "workday:pros.wd5/pros_careers:Machine-Learning-Engineer-I_R3566": 1789559826,
   "workday:pros.wd5/pros_careers:Software-Engineer-I_R3608": 1789559826,
   "workday:psu.wd1/PSU_Staff:Cybersecurity-Assurance-Intern_REQ_0000081843-1": 1788442554,
+  "workday:psu.wd1/PSU_Staff:R-D-Engineer-Intern_REQ_0000083331": 1792117641,
   "workday:psu.wd1/PSU_Staff:Research-and-Development-Engineer-Intern_REQ_0000082128": 1788442554,
   "workday:psu.wd1/PSU_Staff:Systems-Administrator-Intern_REQ_0000082540-2": 1790270603,
   "workday:psu.wd1/PSU_Staff:Systems-Engineer-Intern_REQ_0000082601-1": 1790535986,
@@ -8132,6 +8138,7 @@
   "workday:resmed.wd3/ResMed_External_Careers:Associate-Software-Engineer_JR_052316-1": 1790311773,
   "workday:resmed.wd3/ResMed_External_Careers:Associate-Software-Engineer_JR_053125": 1788377835,
   "workday:resmed.wd3/ResMed_External_Careers:Associate-Software-Engineer_JR_053889-1": 1790884489,
+  "workday:roche.wd3/roche-ext:Junior-Custom-Software-Developer---RDT-Data-Platforms_202610-125284": 1792117641,
   "workday:rochester.wd5/UR_Staff:Research-Data-Engineer-I_R269057": 1791381341,
   "workday:rockwellautomation.wd1/External-Rockwell-Automation-Early-Careers:Co-op--AI-Software-Engineering--6-8-months-_R26-6982": 1790535986,
   "workday:rockwellautomation.wd1/External-Rockwell-Automation-Early-Careers:Co-op--Hardware-Development-Engineer--Jan---July-2027-_R26-6638": 1792022723,
@@ -8156,6 +8163,7 @@
   "workday:salesforce.wd12/External_Career_Site:Account-Solution-Engineer_JR360701": 1790010082,
   "workday:salesforce.wd12/External_Career_Site:Business-Development-Associate--Early-Career-_JR340479-1": 1790990847,
   "workday:salesforce.wd12/External_Career_Site:Business-Development-Associate_JR347430-1": 1789517822,
+  "workday:salesforce.wd12/External_Career_Site:Principal--Specialist-SE_JR361441": 1792117641,
   "workday:salesforce.wd12/External_Career_Site:Software-Engineering-AMTS--College-Grad-_JR355250-1": 1790311773,
   "workday:salesforce.wd12/External_Career_Site:Solution-Engineer--Pre-Sales----Informatica_JR331878": 1788984410,
   "workday:salesforce.wd12/External_Career_Site:Solution-Engineer--Public-Sector--Canada_JR360224": 1790100520,
@@ -8366,5 +8374,5 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148,
   "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541": 1789106107
  },
- "updated_at": 1792111441
+ "updated_at": 1792117642
 }
