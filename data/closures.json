@@ -1,90 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792004394,
-   "company": "Alt Informatique",
-   "hours_open": 359.6,
-   "title": "Technicien informatique junior",
-   "uid": "jobillico:technicien informatique:17572023"
-  },
-  {
-   "closed_at": 1792004394,
-   "company": "Bertelsmann-Jobs",
-   "hours_open": 125.1,
-   "title": "Presales Consultant - Cyber Security (m/w/d)",
-   "uid": "smartrecruiters:Bertelsmann-Jobs:744000154592114"
-  },
-  {
-   "closed_at": 1792004394,
-   "company": "Amazon",
-   "hours_open": 4.3,
-   "title": "Amazon Robotics - Software Development Engineer Intern/Co-op - 2027",
-   "uid": "amazon:amazon:10578583"
-  },
-  {
-   "closed_at": 1792004394,
-   "company": "altentechnologyusa",
-   "hours_open": 840.1,
-   "title": "Embedded Software Application Engineer",
-   "uid": "greenhouse:altentechnologyusa:5233722007"
-  },
-  {
-   "closed_at": 1792004394,
-   "company": "altentechnologyusa",
-   "hours_open": 984.3,
-   "title": "Design Release Engineer",
-   "uid": "greenhouse:altentechnologyusa:5221953007"
-  },
-  {
-   "closed_at": 1792004394,
-   "company": "Capital One",
-   "hours_open": 1022.7,
-   "title": "Software Engineer New Grad - Software Engineer",
-   "uid": "simplify:listings:d03ac761-2dfa-4cd7-bd7c-797b6ff89c19"
-  },
-  {
-   "closed_at": 1792004394,
-   "company": "Hatch IT",
-   "hours_open": 1022.7,
-   "title": "Junior Data Engineer - DEA",
-   "uid": "simplify:listings:eded4bc5-bc12-47b0-8029-6e97c596ae81"
-  },
-  {
-   "closed_at": 1792004394,
-   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
-   "hours_open": 865.8,
-   "title": "Administrateur Réseau TI",
-   "uid": "jobillico:analyste reseau:17386419"
-  },
-  {
-   "closed_at": 1792004394,
-   "company": "spacex",
-   "hours_open": 983.1,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1792004394,
-   "company": "spacex",
-   "hours_open": 985.8,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1792004394,
-   "company": "accenturefederalservices",
-   "hours_open": 986.0,
-   "title": "DevOps Engineer",
-   "uid": "greenhouse:accenturefederalservices:4689022006"
-  },
-  {
-   "closed_at": 1792006237,
-   "company": "Sopra Steria",
-   "hours_open": 17.4,
-   "title": "Digital Learning and Media Production Support Officer [26182]",
-   "uid": "smartrecruiters:SopraSteria1:744000155271799"
-  },
-  {
    "closed_at": 1792006237,
    "company": "ServiceNow",
    "hours_open": 143.2,
@@ -5599,8 +5515,92 @@
    "hours_open": 1056.8,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1792270793,
+   "company": "ngc",
+   "hours_open": 25.1,
+   "title": "Sentinel - Launch Execution Network (LEN) Systems Engineer - 14378-1",
+   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:Sentinel---Launch-Execution-Network--LEN--Systems-Engineer---14378-1_R10256360"
+  },
+  {
+   "closed_at": 1792270793,
+   "company": "YO AI Labs",
+   "hours_open": 37.5,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50511622"
+  },
+  {
+   "closed_at": 1792270793,
+   "company": "twitch",
+   "hours_open": 1057.1,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1792270793,
+   "company": "reddit",
+   "hours_open": 21.2,
+   "title": "Machine Learning Engineer",
+   "uid": "greenhouse:reddit:7131932"
+  },
+  {
+   "closed_at": 1792270793,
+   "company": "Belle Graphics Inc.",
+   "hours_open": 244.6,
+   "title": "installation and repair technician - telecommunications",
+   "uid": "jobbank:telecommunications analyst:50200449"
+  },
+  {
+   "closed_at": 1792270793,
+   "company": "Hi-Tech Solution",
+   "hours_open": 244.6,
+   "title": "telecommunications service tester",
+   "uid": "jobbank:telecommunications analyst:49955305"
+  },
+  {
+   "closed_at": 1792270793,
+   "company": "nidec",
+   "hours_open": 1081.4,
+   "title": "Hardware Electronics Engineer I",
+   "uid": "workday:nidec.wd1/nidec:Hardware-Electronics-Engineer-I_R0014784"
+  },
+  {
+   "closed_at": 1792270793,
+   "company": "DPMSYSTEMS IT CONSULTING SERVICES",
+   "hours_open": 712.1,
+   "title": "information systems analyst - computer systems",
+   "uid": "jobbank:systems analyst:50311291"
+  },
+  {
+   "closed_at": 1792270793,
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
+   "hours_open": 939.8,
+   "title": "Administrateur Réseau TI",
+   "uid": "jobillico:analyste reseau:17386419"
+  },
+  {
+   "closed_at": 1792270793,
+   "company": "spacex",
+   "hours_open": 1057.1,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1792270793,
+   "company": "spacex",
+   "hours_open": 1059.8,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1792270793,
+   "company": "spacex",
+   "hours_open": 1060.0,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 808,
- "updated_at": 1792265393
+ "count": 812,
+ "updated_at": 1792270794
 }
