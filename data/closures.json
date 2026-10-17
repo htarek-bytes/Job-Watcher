@@ -3,13 +3,6 @@
   {
    "closed_at": 1791973079,
    "company": "spacex",
-   "hours_open": 977.1,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1791973079,
-   "company": "spacex",
    "hours_open": 977.3,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
@@ -5599,8 +5592,15 @@
    "hours_open": 929.6,
    "title": "Administrateur Réseau TI",
    "uid": "jobillico:analyste reseau:17386419"
+  },
+  {
+   "closed_at": 1792234616,
+   "company": "Stellar Software Solutions",
+   "hours_open": 181.7,
+   "title": "network infrastructure engineer",
+   "uid": "jobbank:specialiste infrastructure:50462911"
   }
  ],
- "count": 813,
- "updated_at": 1792233721
+ "count": 801,
+ "updated_at": 1792234616
 }
