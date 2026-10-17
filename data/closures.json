@@ -1,111 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1791953094,
-   "company": "Saskatchewan Liquor & Gaming Authority (SLGA)",
-   "hours_open": 166.1,
-   "title": "software developer",
-   "uid": "jobbank:junior programmer:50442971"
-  },
-  {
-   "closed_at": 1791953094,
-   "company": "CDW",
-   "hours_open": 333.4,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:systems analyst:50394988"
-  },
-  {
-   "closed_at": 1791953094,
-   "company": "Groupe DCM",
-   "hours_open": 623.8,
-   "title": "Programmeur CNC / CNC Programmer",
-   "uid": "jobillico:programmeur junior:17534679"
-  },
-  {
-   "closed_at": 1791953094,
-   "company": "AMAX",
-   "hours_open": 105.8,
-   "title": "System Solutions Engineer",
-   "uid": "workable:amax-1:3EC8C52802"
-  },
-  {
-   "closed_at": 1791953094,
-   "company": "twitch",
-   "hours_open": 968.8,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1791953094,
-   "company": "Texas Sports Academy Main",
-   "hours_open": 851.6,
-   "title": "L2 It Operations Specialist",
-   "uid": "workable:texas-sports-academy-main:83683E0DB1"
-  },
-  {
-   "closed_at": 1791953094,
-   "company": "Texas Sports Academy Main",
-   "hours_open": 851.6,
-   "title": "IT Operations Specialist (3-Month Contract)",
-   "uid": "workable:texas-sports-academy-main:B342D25D00"
-  },
-  {
-   "closed_at": 1791953094,
-   "company": "Texas Sports Academy Main",
-   "hours_open": 851.6,
-   "title": "IT Operations Specialist",
-   "uid": "workable:texas-sports-academy-main:9B0595E51E"
-  },
-  {
-   "closed_at": 1791953094,
-   "company": "spacex",
-   "hours_open": 971.8,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1791953094,
-   "company": "spacex",
-   "hours_open": 970.1,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1791953094,
-   "company": "Amazon",
-   "hours_open": 202.4,
-   "title": "Software Development Engineer , Inventory Accounting",
-   "uid": "amazon:amazon:10569390"
-  },
-  {
-   "closed_at": 1791954727,
-   "company": "Stellar Software Solutions",
-   "hours_open": 94.4,
-   "title": "network infrastructure engineer",
-   "uid": "jobbank:infrastructure analyst:50462911"
-  },
-  {
-   "closed_at": 1791954727,
-   "company": "assetmark",
-   "hours_open": 767.1,
-   "title": "Junior AWS Operations Engineer",
-   "uid": "workday:assetmark.wd5/AssetMark_Careers:Junior-AWS-Operations-Engineer_Req-003729"
-  },
-  {
-   "closed_at": 1791954727,
-   "company": "amat",
-   "hours_open": 558.0,
-   "title": "2027 Software Engineer New College Grad (Bachelor's) - Gloucester, MA",
-   "uid": "workday:amat.wd1/External:XMLNAME-2027-Software-Engineer-New-College-Grad--Bachelor-s----Gloucester--MA_R2625914"
-  },
-  {
-   "closed_at": 1791955795,
-   "company": "ccf",
-   "hours_open": 14.1,
-   "title": "New Grad RN Resident – Med/Surg and Telemetry",
-   "uid": "workday:ccf.wd1/ClevelandClinicCareers:New-Grad-RN-Resident---Med-Surg-and-Telemetry_352611"
-  },
-  {
    "closed_at": 1791955795,
    "company": "Export Development Canada | Exportation et développement Canada",
    "hours_open": 18.4,
@@ -5599,8 +5494,113 @@
    "hours_open": 369.3,
    "title": "Software Engineering Intern",
    "uid": "workday:avav.wd1/avav:Software-Engineering-Intern_8797"
+  },
+  {
+   "closed_at": 1792213486,
+   "company": "cox",
+   "hours_open": 935.1,
+   "title": "Software Engineering Intern - Summer 2027 (Atlanta, GA)",
+   "uid": "workday:cox.wd1/Cox_External_Career_Site_1:Software-Engineering-Intern---Summer-2027--Atlanta--GA-_R202682166"
+  },
+  {
+   "closed_at": 1792213486,
+   "company": "tia",
+   "hours_open": 106.1,
+   "title": "Business Automation Engineer",
+   "uid": "greenhouse:tia:8027897003"
+  },
+  {
+   "closed_at": 1792213486,
+   "company": "cox",
+   "hours_open": 107.2,
+   "title": "Data Engineer I",
+   "uid": "workday:cox.wd1/Cox_External_Career_Site_1:Data-Engineer-I_R202683561-1"
+  },
+  {
+   "closed_at": 1792213486,
+   "company": "Stellar Software Solutions",
+   "hours_open": 166.3,
+   "title": "network infrastructure engineer",
+   "uid": "jobbank:infrastructure analyst:50462911"
+  },
+  {
+   "closed_at": 1792213486,
+   "company": "Great Lakes Group",
+   "hours_open": 128.6,
+   "title": "electrical controls engineer",
+   "uid": "jobbank:control systems analyst:50464497"
+  },
+  {
+   "closed_at": 1792213486,
+   "company": "Trimoksha Technologies",
+   "hours_open": 559.2,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50352371"
+  },
+  {
+   "closed_at": 1792213486,
+   "company": "Aequilibrium Software Inc.",
+   "hours_open": 166.3,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50465996"
+  },
+  {
+   "closed_at": 1792213486,
+   "company": "YO AI Labs",
+   "hours_open": 21.6,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50511622"
+  },
+  {
+   "closed_at": 1792213486,
+   "company": "Helios WorldWide",
+   "hours_open": 173.9,
+   "title": "Junior Creative Engineer",
+   "uid": "simplify:listings:55d3dd4c-a153-4f94-9eed-f115d0face66"
+  },
+  {
+   "closed_at": 1792213486,
+   "company": "bristolmyerssquibb",
+   "hours_open": 196.7,
+   "title": "2027 Summer Internship Product Development",
+   "uid": "workday:bristolmyerssquibb.wd5/bms:XMLNAME-2027-Summer-Internship-Product-Development_R1607364"
+  },
+  {
+   "closed_at": 1792213486,
+   "company": "dexcom",
+   "hours_open": 85.0,
+   "title": "SW Development Engineer 1",
+   "uid": "workday:dexcom.wd1/Dexcom:SW-Development-Engineer-1_JR121427"
+  },
+  {
+   "closed_at": 1792213486,
+   "company": "lyft",
+   "hours_open": 1044.1,
+   "title": "Business Systems Engineer",
+   "uid": "greenhouse:lyft:8772602002"
+  },
+  {
+   "closed_at": 1792213486,
+   "company": "lyft",
+   "hours_open": 1044.1,
+   "title": "Software Engineer",
+   "uid": "greenhouse:lyft:8772594002"
+  },
+  {
+   "closed_at": 1792213486,
+   "company": "spacex",
+   "hours_open": 1041.2,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1792213486,
+   "company": "spacex",
+   "hours_open": 1042.4,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
- "count": 804,
- "updated_at": 1792201143
+ "count": 815,
+ "updated_at": 1792213487
 }

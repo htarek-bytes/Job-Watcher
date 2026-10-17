@@ -1,5 +1,5 @@
 {
- "count": 8493,
+ "count": 8498,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -2674,6 +2674,8 @@
   "greenhouse:lyft:8862215002": 1790980021,
   "greenhouse:lyft:8888403002": 1792017336,
   "greenhouse:lyft:8894909002": 1792170020,
+  "greenhouse:lyft:8896654002": 1792213486,
+  "greenhouse:lyft:8896679002": 1792213486,
   "greenhouse:machindustries:4381326009": 1791327897,
   "greenhouse:machindustries:4381332009": 1791327897,
   "greenhouse:machindustries:4385342009": 1791402364,
@@ -4563,6 +4565,7 @@
   "jobbank:junior software developer:50511932": 1792142527,
   "jobbank:junior software developer:50512095": 1792135690,
   "jobbank:junior software developer:50517346": 1792189828,
+  "jobbank:junior software developer:50520710": 1792213486,
   "jobbank:linux administrator:49626621": 1789082121,
   "jobbank:linux administrator:50163764": 1788887337,
   "jobbank:linux administrator:50205276": 1788887337,
@@ -7376,6 +7379,7 @@
   "workday:chevron.wd5/University:XMLNAME-2026-2027-Petroleum-Engineer-Full-Time--Previous-Intern-_R000072349": 1788442300,
   "workday:chevron.wd5/University:XMLNAME-2026-2027-Petroleum-Engineer-Intern--previous-intern-_R000072341": 1788539216,
   "workday:chevron.wd5/University:XMLNAME-2026-2027-Petroleum-Engineer-Intern_R000072407": 1788442300,
+  "workday:choicehotels.wd5/External:Software-Engineer-1_R22450": 1792213486,
   "workday:cigna.wd5/cignacareers:Analyste--Soutien-technique---IT-Service-Desk-Analyst---Express-Scripts-Canada_26012517": 1791431778,
   "workday:cisco.wd5/cisco_careers:Software-Consulting-Engineer-I--Intern--United-States_2025180": 1788936095,
   "workday:cisco.wd5/cisco_careers:Solutions-Engineer---Splunk--Remote-_2024724-1": 1791750630,
@@ -7416,6 +7420,7 @@
   "workday:daikinapplied.wd1/Pre-Selected_Candidate_Site:Test-Engineer-I_R003050": 1788898936,
   "workday:deluxe.wd5/USA_CAN:Software-Engineer---Intern_261115WD": 1788898936,
   "workday:dexcom.wd1/Dexcom:SW-Development-Engineer-1_JR121067": 1789594041,
+  "workday:dexcom.wd1/Dexcom:SW-Development-Engineer-1_JR121399": 1792213486,
   "workday:dexcom.wd1/Dexcom:SW-Development-Engineer-1_JR121427": 1791907434,
   "workday:dexcom.wd1/Dexcom:Software-Development-Engineer-1_JR120540": 1788390279,
   "workday:dimensional.wd5/dfa_careers:Internship-in-Technology---Software-Engineer_2026-9022": 1788880168,
@@ -8495,5 +8500,5 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148,
   "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541": 1789106107
  },
- "updated_at": 1792201143
+ "updated_at": 1792213486
 }
