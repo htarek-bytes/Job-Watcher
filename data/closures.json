@@ -2,55 +2,6 @@
  "closed": [
   {
    "closed_at": 1791989029,
-   "company": "Centre d'amitié autochtone de Val-d'Or inc.",
-   "hours_open": 861.6,
-   "title": "Technicien informatique",
-   "uid": "jobillico:technicien informatique:17451279"
-  },
-  {
-   "closed_at": 1791989029,
-   "company": "d2l",
-   "hours_open": 994.3,
-   "title": "Software Developer - New Graduate",
-   "uid": "greenhouse:d2l:7455458"
-  },
-  {
-   "closed_at": 1791989029,
-   "company": "Amazon",
-   "hours_open": 284.0,
-   "title": "Software Development Engineer, Amazon Catalog services team",
-   "uid": "amazon:amazon:10568162"
-  },
-  {
-   "closed_at": 1791989029,
-   "company": "netic",
-   "hours_open": 833.3,
-   "title": "Forward Deployed Engineer",
-   "uid": "ashby:netic:286a085a-2942-455a-a384-8c44ff5b7e85"
-  },
-  {
-   "closed_at": 1791989029,
-   "company": "540",
-   "hours_open": 974.8,
-   "title": "Data Engineer",
-   "uid": "greenhouse:540:7886211003"
-  },
-  {
-   "closed_at": 1791989029,
-   "company": "tulip",
-   "hours_open": 899.7,
-   "title": "Manufacturing Solutions Engineer",
-   "uid": "greenhouse:tulip:7801117003"
-  },
-  {
-   "closed_at": 1791989029,
-   "company": "Hi-Tech Solution",
-   "hours_open": 166.3,
-   "title": "telecommunications service tester",
-   "uid": "jobbank:telecommunications analyst:49955305"
-  },
-  {
-   "closed_at": 1791989029,
    "company": "AeroVironment",
    "hours_open": 237.7,
    "title": "Junior Software Engineer",
@@ -5599,8 +5550,57 @@
    "hours_open": 30.7,
    "title": "software developer",
    "uid": "jobbank:junior software developer:50511622"
+  },
+  {
+   "closed_at": 1792254140,
+   "company": "Great Lakes Group",
+   "hours_open": 10.5,
+   "title": "electrical controls engineer",
+   "uid": "jobbank:control systems analyst:50520784"
+  },
+  {
+   "closed_at": 1792254140,
+   "company": "Meubles RD - Candiac",
+   "hours_open": 20.5,
+   "title": "Web developer",
+   "uid": "jobbank:programmeur junior:50495527"
+  },
+  {
+   "closed_at": 1792254140,
+   "company": "VicSquare Arcade",
+   "hours_open": 362.7,
+   "title": "electronic business (e-business) Web site developer",
+   "uid": "jobbank:developpeur junior:50406045"
+  },
+  {
+   "closed_at": 1792254140,
+   "company": "SANSHTECH INC.",
+   "hours_open": 376.8,
+   "title": "Web developer",
+   "uid": "jobbank:developpeur junior:50405631"
+  },
+  {
+   "closed_at": 1792254140,
+   "company": "maximor",
+   "hours_open": 1067.8,
+   "title": "Software engineering Intern",
+   "uid": "ashby:maximor:3ff6e57d-5430-4836-b6f0-19044d8ee6d8"
+  },
+  {
+   "closed_at": 1792254140,
+   "company": "maximor",
+   "hours_open": 1080.5,
+   "title": "Software Engineer (New Grad)",
+   "uid": "ashby:maximor:67d0c7d0-fddb-4b8d-aed8-0647337a988e"
+  },
+  {
+   "closed_at": 1792254140,
+   "company": "Maarut",
+   "hours_open": 17.9,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50517346"
   }
  ],
- "count": 802,
- "updated_at": 1792246265
+ "count": 807,
+ "updated_at": 1792254141
 }
