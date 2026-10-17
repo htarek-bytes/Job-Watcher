@@ -1,5 +1,5 @@
 {
- "count": 8498,
+ "count": 8504,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -4235,6 +4235,7 @@
   "jobbank:control systems analyst:50449266": 1791421832,
   "jobbank:control systems analyst:50464497": 1791750630,
   "jobbank:control systems analyst:50476529": 1791827431,
+  "jobbank:control systems analyst:50520784": 1792216296,
   "jobbank:cybersecurity analyst:49819441": 1788887337,
   "jobbank:cybersecurity analyst:49890153": 1788887337,
   "jobbank:cybersecurity analyst:50253155": 1788988461,
@@ -7455,6 +7456,7 @@
   "workday:ecolab.wd1/ecolab_external:Paper---Pulp-Engineering-Technical-Sales--Intern_R00305937": 1791431778,
   "workday:ecolab.wd1/ecolab_external:Technical-Sales-Engineer_R00302837": 1791643748,
   "workday:ensemblehp.wd5/ensemblehealthpartnerscareers:Solution-Engineer--Data-Governance_R048509": 1788753415,
+  "workday:entegris.wd1/entegriscareers:Controls-Engineer-Co-Op_REQ-14676": 1792216296,
   "workday:entegris.wd1/entegriscareers:Cybersecurity-Engineer-Co-Op_REQ-14472-1": 1789070853,
   "workday:entegris.wd1/entegriscareers:Mechanical-Test-Engineer-Co-Op_REQ-14477-1": 1789089172,
   "workday:entegris.wd1/entegriscareers:Quality-Engineer-Co-Op_REQ-14434": 1788979927,
@@ -7462,8 +7464,10 @@
   "workday:entegris.wd1/entegriscareers:Solutions-Engineering-Co-Op_REQ-14431": 1789070853,
   "workday:entrust.wd1/entrustcareers:Intern--Software-Development---Hybrid-in-Ottawa_R004360": 1790174707,
   "workday:entrust.wd1/entrustcareers:Software-Engineer-Co-op_R004416": 1791363327,
+  "workday:entrust.wd1/entrustcareers:Software-Engineering-Co-op_R004425": 1792216296,
   "workday:entrust.wd1/entrustcareers:XMLNAME--Intern---Software-Development----8-months---Hybrid-Ottawa_R004359": 1790174707,
   "workday:equifax.wd5/UR_External:Site-Reliability-Engineer-Intern_J00178674": 1788442300,
+  "workday:evergreenix.wd1/external-careers2:Software-Engineer-I_JR500693-1": 1792216296,
   "workday:evergreenix.wd1/external-careers2:Software-Engineer-I_JR500748-1": 1789166059,
   "workday:evergreenix.wd1/external-careers2:Software-Engineer-I_JR500749-1": 1792017336,
   "workday:eversource.wd1/ExternalSite:Associate-Engineer--Grid-Operations-Technology--Hybrid-Schedule-_R-032080": 1792110409,
@@ -7545,7 +7549,9 @@
   "workday:gevernova.wd5/vernova_externalsite:Early-Career-Traininship--Technical-Applications-Engineer_R5050516": 1788377927,
   "workday:gevernova.wd5/vernova_externalsite:Engineering-Intern---Power-Conversion---Storage-AI-Tool-Developer--2027_R5049957-2": 1790096007,
   "workday:gevernova.wd5/vernova_externalsite:Field-Services-Engineer---Early-Career-Trainee_R5049070-3": 1788377927,
+  "workday:gevernova.wd5/vernova_externalsite:Firmware-Engineer---Early-Career_R5055844-2": 1792216296,
   "workday:gevernova.wd5/vernova_externalsite:GE-Vernova---Energy-Optimization-Software-Engineer-Intern---Summer-2027_R5050015-2": 1788979927,
+  "workday:gevernova.wd5/vernova_externalsite:GE-Vernova---Project-Engineer-Intern---Summer-2027_R5050023-2": 1792216296,
   "workday:gevernova.wd5/vernova_externalsite:GE-Vernova---Project-Engineer-Intern---Summer-2027_R5050026-2": 1788548796,
   "workday:gevernova.wd5/vernova_externalsite:GE-Vernova-CIC-Systems-Engineer-Co-op---Spring---Summer-2027_R5051807-2": 1788465250,
   "workday:gevernova.wd5/vernova_externalsite:GE-Vernova-CIC-Systems-Engineer-Co-op---Summer-Fall-2027_R5051597-2": 1788465250,
@@ -8500,5 +8506,5 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148,
   "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541": 1789106107
  },
- "updated_at": 1792213486
+ "updated_at": 1792216297
 }
