@@ -1,104 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1791997673,
-   "company": "hatchit",
-   "hours_open": 984.2,
-   "title": "Data Engineer (DEA)",
-   "uid": "lever:hatchit:ef9f679b-9359-4f72-9704-7c662c05f5f8"
-  },
-  {
-   "closed_at": 1791997673,
-   "company": "hatchit",
-   "hours_open": 1001.2,
-   "title": "Junior Data Engineer (DEA)",
-   "uid": "lever:hatchit:7f2e771d-2363-4e85-b62f-ca130c478a97"
-  },
-  {
-   "closed_at": 1791997673,
-   "company": "spacex",
-   "hours_open": 984.2,
-   "title": "Solar Cell Quality Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8745828002"
-  },
-  {
-   "closed_at": 1791997673,
-   "company": "spacex",
-   "hours_open": 984.2,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1791997673,
-   "company": "spacex",
-   "hours_open": 984.2,
-   "title": "Solar Cell Reliability Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8653679002"
-  },
-  {
-   "closed_at": 1791997673,
-   "company": "spacex",
-   "hours_open": 983.9,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1791997673,
-   "company": "spacex",
-   "hours_open": 984.2,
-   "title": "Build Engineer, Structures (Starship)",
-   "uid": "greenhouse:spacex:8562456002"
-  },
-  {
-   "closed_at": 1791997673,
-   "company": "accenturefederalservices",
-   "hours_open": 1003.2,
-   "title": "Junior Systems Engineer ",
-   "uid": "greenhouse:accenturefederalservices:4627901006"
-  },
-  {
-   "closed_at": 1791997673,
-   "company": "accenturefederalservices",
-   "hours_open": 864.0,
-   "title": "Systems Administrator",
-   "uid": "greenhouse:accenturefederalservices:4617533006"
-  },
-  {
-   "closed_at": 1791997673,
-   "company": "andurilindustries",
-   "hours_open": 22.9,
-   "title": "Robotics Software Engineer ",
-   "uid": "greenhouse:andurilindustries:5264635007"
-  },
-  {
-   "closed_at": 1791997673,
-   "company": "Amazon",
-   "hours_open": 285.2,
-   "title": "Software Development Engineer - Embedded, Flight Computer Software",
-   "uid": "amazon:amazon:10568209"
-  },
-  {
-   "closed_at": 1792000805,
-   "company": "taxrise",
-   "hours_open": 18.0,
-   "title": "Junior Software Developer",
-   "uid": "greenhouse:taxrise:4434618009"
-  },
-  {
-   "closed_at": 1792000805,
-   "company": "Logesco Informatique",
-   "hours_open": 864.9,
-   "title": "Administrateur de réseau",
-   "uid": "jobillico:analyste reseau:17188132"
-  },
-  {
-   "closed_at": 1792000805,
-   "company": "stripe",
-   "hours_open": 649.0,
-   "title": "Financial Connections TechOps Integration Reliability Engineer",
-   "uid": "greenhouse:stripe:8004223"
-  },
-  {
    "closed_at": 1792000805,
    "company": "Amazon",
    "hours_open": 22.4,
@@ -5599,8 +5501,106 @@
    "hours_open": 33.4,
    "title": "software developer",
    "uid": "jobbank:junior software developer:50511932"
+  },
+  {
+   "closed_at": 1792264774,
+   "company": "Great Lakes Group",
+   "hours_open": 13.5,
+   "title": "electrical controls engineer",
+   "uid": "jobbank:control systems analyst:50520784"
+  },
+  {
+   "closed_at": 1792264774,
+   "company": "evergreenix",
+   "hours_open": 13.5,
+   "title": "Software Engineer I",
+   "uid": "workday:evergreenix.wd1/external-careers2:Software-Engineer-I_JR500693-1"
+  },
+  {
+   "closed_at": 1792264774,
+   "company": "YO AI Labs",
+   "hours_open": 35.9,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50511622"
+  },
+  {
+   "closed_at": 1792264774,
+   "company": "hpe",
+   "hours_open": 98.1,
+   "title": "Technical Sales Graduate",
+   "uid": "workday:hpe.wd5/acjobsite:Technical-Sales-Graduate_1213591"
+  },
+  {
+   "closed_at": 1792264774,
+   "company": "iberdrola",
+   "hours_open": 764.7,
+   "title": "Associate Engineer - Distribution Planning",
+   "uid": "workday:iberdrola.wd3/iberdrola:Associate-Engineer---Distribution-Planning_R-29801"
+  },
+  {
+   "closed_at": 1792264774,
+   "company": "twitch",
+   "hours_open": 1055.4,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1792264774,
+   "company": "reddit",
+   "hours_open": 19.5,
+   "title": "Machine Learning Engineer",
+   "uid": "greenhouse:reddit:7131932"
+  },
+  {
+   "closed_at": 1792264774,
+   "company": "hpe",
+   "hours_open": 210.6,
+   "title": "Software Engineer Intern",
+   "uid": "workday:hpe.wd5/jobsathpe:Software-Engineer-Intern_1213625"
+  },
+  {
+   "closed_at": 1792264774,
+   "company": "hntb",
+   "hours_open": 250.3,
+   "title": "New Grad Engineer I: Rail & Transit – Summer 2027",
+   "uid": "workday:hntb.wd5/hntb_careers:New-Grad-Engineer-I--Rail---Transit---Summer-2027_R-31631-1"
+  },
+  {
+   "closed_at": 1792264774,
+   "company": "fnbcorp",
+   "hours_open": 938.2,
+   "title": "Summer 2027 Application Analyst Intern",
+   "uid": "workday:fnbcorp.wd501/FNBCORP:Summer-2027-Application-Analyst-Intern_2026-01958"
+  },
+  {
+   "closed_at": 1792264774,
+   "company": "fnbcorp",
+   "hours_open": 1053.9,
+   "title": "Summer 2027 Systems Analyst Intern",
+   "uid": "workday:fnbcorp.wd501/FNBCORP:Summer-2027-Systems-Analyst-Intern_2026-02021"
+  },
+  {
+   "closed_at": 1792264774,
+   "company": "spacex",
+   "hours_open": 1055.4,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1792264774,
+   "company": "spacex",
+   "hours_open": 1058.1,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1792264774,
+   "company": "spacex",
+   "hours_open": 1058.4,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 801,
- "updated_at": 1792262808
+ "count": 814,
+ "updated_at": 1792264775
 }
