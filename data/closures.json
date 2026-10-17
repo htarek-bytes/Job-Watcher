@@ -2,48 +2,6 @@
  "closed": [
   {
    "closed_at": 1791989029,
-   "company": "AeroVironment",
-   "hours_open": 237.7,
-   "title": "Junior Software Engineer",
-   "uid": "simplify:listings:83a81125-8501-43a2-b0c7-82b520ae9102"
-  },
-  {
-   "closed_at": 1791989029,
-   "company": "accenturefederalservices",
-   "hours_open": 115.8,
-   "title": "Application Security Engineer",
-   "uid": "greenhouse:accenturefederalservices:4720662006"
-  },
-  {
-   "closed_at": 1791989029,
-   "company": "andurilindustries",
-   "hours_open": 336.5,
-   "title": "Production Software Engineer",
-   "uid": "greenhouse:andurilindustries:5252846007"
-  },
-  {
-   "closed_at": 1791989029,
-   "company": "RTX",
-   "hours_open": 715.6,
-   "title": "Hardware In the Loop Software Engineer 1",
-   "uid": "simplify:listings:8edf16f9-31db-4a81-b28d-bfabbbdece38"
-  },
-  {
-   "closed_at": 1791989029,
-   "company": "RTX",
-   "hours_open": 16.0,
-   "title": "Software Engineer 1",
-   "uid": "simplify:listings:e2bb15f7-a843-4eb7-8a5e-5d2850c3e348"
-  },
-  {
-   "closed_at": 1791989029,
-   "company": "spacex",
-   "hours_open": 978.8,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1791989029,
    "company": "spacex",
    "hours_open": 981.8,
    "title": "Wireless Software Engineer (Starlink)",
@@ -5599,8 +5557,50 @@
    "hours_open": 17.9,
    "title": "software developer",
    "uid": "jobbank:junior software developer:50517346"
+  },
+  {
+   "closed_at": 1792254628,
+   "company": "Logesco Informatique",
+   "hours_open": 935.4,
+   "title": "Administrateur de réseau",
+   "uid": "jobillico:analyste reseau:17188132"
+  },
+  {
+   "closed_at": 1792254628,
+   "company": "YO AI Labs",
+   "hours_open": 31.1,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50511932"
+  },
+  {
+   "closed_at": 1792254628,
+   "company": "Maarut",
+   "hours_open": 0.1,
+   "title": "software developer",
+   "uid": "jobbank:entry level software developer:50517346"
+  },
+  {
+   "closed_at": 1792254628,
+   "company": "DPMSYSTEMS IT CONSULTING SERVICES",
+   "hours_open": 707.6,
+   "title": "information systems analyst - computer systems",
+   "uid": "jobbank:systems analyst:50311291"
+  },
+  {
+   "closed_at": 1792254628,
+   "company": "Belle Graphics Inc.",
+   "hours_open": 240.1,
+   "title": "installation and repair technician - telecommunications",
+   "uid": "jobbank:telecommunications analyst:50200449"
+  },
+  {
+   "closed_at": 1792254628,
+   "company": "Hi-Tech Solution",
+   "hours_open": 240.1,
+   "title": "telecommunications service tester",
+   "uid": "jobbank:telecommunications analyst:49955305"
   }
  ],
- "count": 807,
- "updated_at": 1792254141
+ "count": 806,
+ "updated_at": 1792254629
 }
