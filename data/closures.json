@@ -2,83 +2,6 @@
  "closed": [
   {
    "closed_at": 1791955795,
-   "company": "Export Development Canada | Exportation et développement Canada",
-   "hours_open": 18.4,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50483505"
-  },
-  {
-   "closed_at": 1791955795,
-   "company": "CANMEC",
-   "hours_open": 112.0,
-   "title": "Nous agrandissons l'équipe ON RECRUTE Technicien informatique",
-   "uid": "jobillico:technicien informatique:17600094"
-  },
-  {
-   "closed_at": 1791955795,
-   "company": "Farm Credit Canada",
-   "hours_open": 14.1,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50451696"
-  },
-  {
-   "closed_at": 1791955795,
-   "company": "cadence",
-   "hours_open": 852.3,
-   "title": "Distributed Systems Engineer",
-   "uid": "workday:cadence.wd1/Univ_Careers:Distributed-Systems-Engineer_R53233"
-  },
-  {
-   "closed_at": 1791955795,
-   "company": "City of Calgary",
-   "hours_open": 19.7,
-   "title": "software developer",
-   "uid": "jobbank:entry level software developer:50478387"
-  },
-  {
-   "closed_at": 1791955795,
-   "company": "boeing",
-   "hours_open": 592.4,
-   "title": "Astrodynamics Engineer (Entry-Level) - Millennium Space Systems",
-   "uid": "workday:boeing.wd1/external_subsidiary:Astrodynamics-Engineer--Entry-Level----Millennium-Space-Systems_JR2026524945"
-  },
-  {
-   "closed_at": 1791955795,
-   "company": "campaignmonitor",
-   "hours_open": 14.1,
-   "title": "Associate Software Engineer",
-   "uid": "workday:campaignmonitor.wd5/marigold:Associate-Software-Engineer_R2487"
-  },
-  {
-   "closed_at": 1791955795,
-   "company": "twitch",
-   "hours_open": 972.5,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1791955795,
-   "company": "Source Code",
-   "hours_open": 54.9,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:systems analyst:50476529"
-  },
-  {
-   "closed_at": 1791955795,
-   "company": "Source Code",
-   "hours_open": 6.1,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50489244"
-  },
-  {
-   "closed_at": 1791955795,
-   "company": "Arya Health",
-   "hours_open": 990.4,
-   "title": "software development programmer",
-   "uid": "jobbank:junior programmer:50148592"
-  },
-  {
-   "closed_at": 1791955795,
    "company": "spacex",
    "hours_open": 972.5,
    "title": "Security Software Engineer (Starlink)",
@@ -5599,8 +5522,85 @@
    "hours_open": 1042.4,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1792216167,
+   "company": "gevernova",
+   "hours_open": 11.7,
+   "title": "GE Vernova - Project Engineer Intern - Summer 2027",
+   "uid": "workday:gevernova.wd5/only_confidential_executive_recruiting:GE-Vernova---Project-Engineer-Intern---Summer-2027_R5050023-1"
+  },
+  {
+   "closed_at": 1792216167,
+   "company": "evergreenix",
+   "hours_open": 55.2,
+   "title": "Software Engineer I",
+   "uid": "workday:evergreenix.wd1/external-careers2:Software-Engineer-I_JR500749-1"
+  },
+  {
+   "closed_at": 1792216167,
+   "company": "gevernova",
+   "hours_open": 11.7,
+   "title": "Firmware Engineer - Early Career",
+   "uid": "workday:gevernova.wd5/only_confidential_executive_recruiting:Firmware-Engineer---Early-Career_R5055844-1"
+  },
+  {
+   "closed_at": 1792216167,
+   "company": "Stellar Software Solutions",
+   "hours_open": 176.6,
+   "title": "network infrastructure engineer",
+   "uid": "jobbank:specialiste infrastructure:50462911"
+  },
+  {
+   "closed_at": 1792216167,
+   "company": "Cox",
+   "hours_open": 102.5,
+   "title": "Data Engineer 1",
+   "uid": "simplify:listings:695405ef-24d8-4b85-9b40-efba7544ff78"
+  },
+  {
+   "closed_at": 1792216167,
+   "company": "globalhr",
+   "hours_open": 419.5,
+   "title": "FPGA/ASIC Engineer I",
+   "uid": "workday:globalhr.wd5/Private_Posting_No_TMP:FPGA-ASIC-Engineer-I_01876996"
+  },
+  {
+   "closed_at": 1792216167,
+   "company": "twitch",
+   "hours_open": 1041.9,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1792216167,
+   "company": "reddit",
+   "hours_open": 6.0,
+   "title": "Machine Learning Engineer",
+   "uid": "greenhouse:reddit:7131932"
+  },
+  {
+   "closed_at": 1792216167,
+   "company": "ecolab",
+   "hours_open": 217.9,
+   "title": "Food, Beverage, Dairy Plant Sanitation - Technical Sales Intern",
+   "uid": "workday:ecolab.wd1/ecolab_external:Food--Beverage--Dairy-Plant-Sanitation---Technical-Sales-Internship_R00303120"
+  },
+  {
+   "closed_at": 1792216167,
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
+   "hours_open": 924.7,
+   "title": "Administrateur Réseau TI",
+   "uid": "jobillico:analyste reseau:17386419"
+  },
+  {
+   "closed_at": 1792216167,
+   "company": "spacex",
+   "hours_open": 1044.9,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 815,
- "updated_at": 1792213487
+ "count": 811,
+ "updated_at": 1792216168
 }
