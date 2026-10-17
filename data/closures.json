@@ -1,48 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792013705,
-   "company": "caci",
-   "hours_open": 200.0,
-   "title": "Network Engineer Intern - Summer 2027",
-   "uid": "workday:caci.wd1/external:Network-Engineer-Intern---Summer-2027_332843"
-  },
-  {
-   "closed_at": 1792013705,
-   "company": "caci",
-   "hours_open": 200.0,
-   "title": "Software Development Intern - Summer 2027",
-   "uid": "workday:caci.wd1/external:Software-Development-Intern---Summer-2027_333085"
-  },
-  {
-   "closed_at": 1792013705,
-   "company": "spacex",
-   "hours_open": 985.7,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1792013705,
-   "company": "spacex",
-   "hours_open": 988.6,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1792013705,
-   "company": "spacex",
-   "hours_open": 988.6,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1792016061,
-   "company": "ccf",
-   "hours_open": 16.7,
-   "title": "New Grad RN – Acute Care Neurology and Cardiac Telemetry",
-   "uid": "workday:ccf.wd1/ClevelandClinicCareers:RN---Acute-Care-Neurology-and-Cardiac-Telemetry_334418-1"
-  },
-  {
    "closed_at": 1792016061,
    "company": "Micron Technology",
    "hours_open": 119.2,
@@ -5599,8 +5557,50 @@
    "hours_open": 1058.4,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1792272912,
+   "company": "Groupe Mario Coté",
+   "hours_open": 31.2,
+   "title": "Administrateur de réseau",
+   "uid": "jobillico:analyste reseau:17594211"
+  },
+  {
+   "closed_at": 1792272912,
+   "company": "twitch",
+   "hours_open": 1057.7,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1792272912,
+   "company": "reddit",
+   "hours_open": 21.8,
+   "title": "Machine Learning Engineer",
+   "uid": "greenhouse:reddit:7131932"
+  },
+  {
+   "closed_at": 1792272912,
+   "company": "spacex",
+   "hours_open": 1057.7,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1792272912,
+   "company": "spacex",
+   "hours_open": 1060.4,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1792272912,
+   "company": "spacex",
+   "hours_open": 1060.6,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 836,
- "updated_at": 1792271047
+ "count": 806,
+ "updated_at": 1792272912
 }
