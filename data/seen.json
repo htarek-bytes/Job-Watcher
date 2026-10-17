@@ -1,5 +1,5 @@
 {
- "count": 8504,
+ "count": 8509,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -367,6 +367,7 @@
   "amazon:amazon:10581627": 1792180450,
   "amazon:amazon:10581834": 1792185801,
   "amazon:amazon:10582047": 1792200706,
+  "amazon:amazon:10582059": 1792228686,
   "ashby:1password:49f0fe51-fcdc-46d8-a046-35f357b0cf6e": 1792100265,
   "ashby:1password:4ff46f84-a5c9-4232-84b6-1dfa8e737148": 1788750148,
   "ashby:1password:7f885c41-7572-439c-886f-bc508eb9a3d7": 1788454653,
@@ -5421,6 +5422,7 @@
   "simplify:listings:1de13b97-34aa-4238-8e96-9b36b4e9d623": 1788322770,
   "simplify:listings:1de667fa-952d-4928-b99f-a5098dca9028": 1789609638,
   "simplify:listings:1e5443b7-9106-40cd-ace8-a45d3bfe8afe": 1788322770,
+  "simplify:listings:1e71a3ad-b0cf-4e53-a601-f6e1b737e2a6": 1792228686,
   "simplify:listings:1e8644d0-127c-4750-bfbf-36aa12cae932": 1791074361,
   "simplify:listings:1eaa74d7-37e2-43bf-8dd7-2532b39fd848": 1788495756,
   "simplify:listings:1ecbece2-8bbd-45f2-b804-065bfabb8b21": 1789517822,
@@ -8281,6 +8283,9 @@
   "workday:rockwellautomation.wd1/External_Rockwell_Automation:Spring-2027-Co-op--Embedded-Software-Engineer--January-2027---August-2027-_R26-3473-1": 1790311773,
   "workday:rollsroyce.wd3/Intern_Graduate:Integrated-Control-Systems-Engineer-Intern--Software-_JR6161452": 1791973931,
   "workday:rollsroyce.wd3/Intern_Graduate:Integrated-Control-Systems-Engineer-Intern--Systems-_JR6161462": 1791973931,
+  "workday:ryan.wd1/RyanCareers:Summer-2027-Intern--Application-Development_R0020820-1": 1792228686,
+  "workday:ryan.wd1/RyanCareers:Summer-2027-Intern--Software-Development_R0020822-1": 1792228686,
+  "workday:ryan.wd1/RyanCareers:Summer-2027-Intern--Software-Engineering_R0020843-1": 1792228686,
   "workday:saabusa.wd1/saab_careers:Software-Engineer-Co-Op--Summer-2027-_R-03264-1": 1789425451,
   "workday:saabusa.wd1/saab_careers:Software-Engineering-Co-Op--Spring---Summer-2027-_R-03240-1": 1788550448,
   "workday:saabusa.wd1/saab_careers:Software-Engineering-Co-Op--Summer-2027-_R-03237-1": 1788474010,
@@ -8506,5 +8511,5 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148,
   "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541": 1789106107
  },
- "updated_at": 1792217726
+ "updated_at": 1792228687
 }
