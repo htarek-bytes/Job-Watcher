@@ -1,34 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1791943539,
-   "company": "twitch",
-   "hours_open": 969.1,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1791943539,
-   "company": "Quad Tech Solutions Inc.",
-   "hours_open": 153.7,
-   "title": "telecommunications engineer",
-   "uid": "jobbank:telecommunications analyst:50368593"
-  },
-  {
-   "closed_at": 1791943539,
-   "company": "spacex",
-   "hours_open": 968.9,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1791943539,
-   "company": "spacex",
-   "hours_open": 969.1,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
    "closed_at": 1791953094,
    "company": "Stellar Software Solutions",
    "hours_open": 103.5,
@@ -5599,8 +5571,36 @@
    "hours_open": 216.5,
    "title": "Security Specialist (Generalist)",
    "uid": "workable:credence:2E797E56AD"
+  },
+  {
+   "closed_at": 1792200706,
+   "company": "YO AI Labs",
+   "hours_open": 16.2,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50511932"
+  },
+  {
+   "closed_at": 1792200706,
+   "company": "Aderant",
+   "hours_open": 104.6,
+   "title": "Associate Software Engineer",
+   "uid": "simplify:listings:2081ec0c-9ef0-4e78-8859-84739cedab0c"
+  },
+  {
+   "closed_at": 1792200706,
+   "company": "Amazon",
+   "hours_open": 234.9,
+   "title": "Software Development Engineer, DynamoDB",
+   "uid": "amazon:amazon:10571455"
+  },
+  {
+   "closed_at": 1792200706,
+   "company": "Vector Atomic",
+   "hours_open": 1040.6,
+   "title": "Engineer - R&D",
+   "uid": "workable:vectoratomic:A778C7FA4D"
   }
  ],
- "count": 803,
- "updated_at": 1792200345
+ "count": 804,
+ "updated_at": 1792200706
 }
