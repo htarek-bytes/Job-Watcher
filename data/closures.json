@@ -2,55 +2,6 @@
  "closed": [
   {
    "closed_at": 1791971240,
-   "company": "kla",
-   "hours_open": 146.4,
-   "title": "Product Development Applications Engineer Intern  (Broadband Plasma Division)",
-   "uid": "workday:kla.wd1/UR:Product-Development-Applications-Engineer-Intern---Broadband-Plasma-Division-_2641396-2"
-  },
-  {
-   "closed_at": 1791971240,
-   "company": "marvell",
-   "hours_open": 948.0,
-   "title": "Firmware Engineer Intern, BS - Summer 2027",
-   "uid": "workday:marvell.wd1/MarvellCareers:Firmware-Engineer-Intern--BS---Summer-2027_2604461"
-  },
-  {
-   "closed_at": 1791971240,
-   "company": "marvell",
-   "hours_open": 242.3,
-   "title": "Product Engineer Intern, BS - Summer 2027",
-   "uid": "workday:marvell.wd1/MarvellCareers2:Product-Engineer-Intern--BS---Summer-2027_2603839"
-  },
-  {
-   "closed_at": 1791971240,
-   "company": "jj",
-   "hours_open": 16.6,
-   "title": "Solution Engineer Enterprise Contracting",
-   "uid": "workday:jj.wd5/JJ:Solution-Engineer-Enterprise-Contracting_R-103782-1"
-  },
-  {
-   "closed_at": 1791971240,
-   "company": "marvell",
-   "hours_open": 864.3,
-   "title": "AI Infrastructure Engineer Intern",
-   "uid": "workday:marvell.wd1/MarvellCareers:AI-Infrastructure-Engineer-Intern_2604499"
-  },
-  {
-   "closed_at": 1791971240,
-   "company": "kla",
-   "hours_open": 15.6,
-   "title": "Software Engineering Intern",
-   "uid": "workday:kla.wd1/UR:Software-Engineering-Intern_2641821-2"
-  },
-  {
-   "closed_at": 1791971240,
-   "company": "kbr",
-   "hours_open": 998.2,
-   "title": "Junior Software Engineer",
-   "uid": "workday:kbr.wd5/KBR_Careers:Junior-Software-Engineer_R2122294"
-  },
-  {
-   "closed_at": 1791971240,
    "company": "True Anomaly",
    "hours_open": 1013.5,
    "title": "Flight Software Engineer 1 New Grad",
@@ -5599,8 +5550,57 @@
    "hours_open": 1046.6,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1792230528,
+   "company": "Stellar Software Solutions",
+   "hours_open": 180.6,
+   "title": "network infrastructure engineer",
+   "uid": "jobbank:specialiste infrastructure:50462911"
+  },
+  {
+   "closed_at": 1792230528,
+   "company": "Groupe Mario Coté",
+   "hours_open": 19.5,
+   "title": "Administrateur de réseau",
+   "uid": "jobillico:analyste reseau:17594211"
+  },
+  {
+   "closed_at": 1792230528,
+   "company": "YO AI Labs",
+   "hours_open": 26.3,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50511622"
+  },
+  {
+   "closed_at": 1792230528,
+   "company": "uline",
+   "hours_open": 42.0,
+   "title": "Microsoft Solutions Engineer",
+   "uid": "workday:uline.wd1/Uline_Careers:Microsoft-Solutions-Engineer_R268296-1"
+  },
+  {
+   "closed_at": 1792230528,
+   "company": "twitch",
+   "hours_open": 1045.9,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1792230528,
+   "company": "reddit",
+   "hours_open": 10.0,
+   "title": "Machine Learning Engineer",
+   "uid": "greenhouse:reddit:7131932"
+  },
+  {
+   "closed_at": 1792230528,
+   "company": "spacex",
+   "hours_open": 1048.9,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 816,
- "updated_at": 1792228687
+ "count": 807,
+ "updated_at": 1792230528
 }
