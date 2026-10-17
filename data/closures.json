@@ -2,20 +2,6 @@
  "closed": [
   {
    "closed_at": 1791989029,
-   "company": "relaypro",
-   "hours_open": 670.8,
-   "title": "Software Engineering Intern (AI/ML) - Summer 2027",
-   "uid": "greenhouse:relaypro:8176774"
-  },
-  {
-   "closed_at": 1791989029,
-   "company": "CANMEC",
-   "hours_open": 121.2,
-   "title": "Nous agrandissons l'équipe ON RECRUTE Technicien informatique",
-   "uid": "jobillico:technicien informatique:17600094"
-  },
-  {
-   "closed_at": 1791989029,
    "company": "Centre d'amitié autochtone de Val-d'Or inc.",
    "hours_open": 861.6,
    "title": "Technicien informatique",
@@ -5599,8 +5585,22 @@
    "hours_open": 1051.3,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1792246265,
+   "company": "Groupe Mario Coté",
+   "hours_open": 23.8,
+   "title": "Administrateur de réseau",
+   "uid": "jobillico:analyste reseau:17594211"
+  },
+  {
+   "closed_at": 1792246265,
+   "company": "YO AI Labs",
+   "hours_open": 30.7,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50511622"
   }
  ],
- "count": 810,
- "updated_at": 1792245568
+ "count": 802,
+ "updated_at": 1792246265
 }
