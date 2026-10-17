@@ -4,13 +4,6 @@
    "closed_at": 1791997673,
    "company": "hatchit",
    "hours_open": 984.2,
-   "title": "Test Engineer (DEA)",
-   "uid": "lever:hatchit:60c36015-1d9c-4f3a-b0c8-054ff0187e55"
-  },
-  {
-   "closed_at": 1791997673,
-   "company": "hatchit",
-   "hours_open": 984.2,
    "title": "Data Engineer (DEA)",
    "uid": "lever:hatchit:ef9f679b-9359-4f72-9704-7c662c05f5f8"
   },
@@ -5599,8 +5592,15 @@
    "hours_open": 17.1,
    "title": "Software Engineering Intern",
    "uid": "workday:avav.wd1/avav:Software-Engineering-Intern_9094"
+  },
+  {
+   "closed_at": 1792262808,
+   "company": "YO AI Labs",
+   "hours_open": 33.4,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50511932"
   }
  ],
- "count": 806,
- "updated_at": 1792262656
+ "count": 801,
+ "updated_at": 1792262808
 }
