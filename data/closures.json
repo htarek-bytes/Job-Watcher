@@ -1,41 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792016061,
-   "company": "spacex",
-   "hours_open": 989.0,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1792016061,
-   "company": "spacex",
-   "hours_open": 987.6,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1792017336,
-   "company": "fis",
-   "hours_open": 534.8,
-   "title": "Junior QA Automation",
-   "uid": "workday:fis.wd5/searchjobs:SDET-Specialist_JR0307882"
-  },
-  {
-   "closed_at": 1792017336,
-   "company": "evergreenix",
-   "hours_open": 792.0,
-   "title": "Software Engineer I",
-   "uid": "workday:evergreenix.wd1/external-careers2:Software-Engineer-I_JR500748-1"
-  },
-  {
-   "closed_at": 1792017336,
-   "company": "exelixis",
-   "hours_open": 382.1,
-   "title": "Associate Engineer - DevSecOps",
-   "uid": "workday:exelixis.wd1/exel:Associate-Engineer---DevSecOps_JR7117"
-  },
-  {
    "closed_at": 1792017336,
    "company": "globalhr",
    "hours_open": 382.1,
@@ -5599,8 +5564,43 @@
    "hours_open": 39.9,
    "title": "software developer",
    "uid": "jobbank:junior software developer:50511622"
+  },
+  {
+   "closed_at": 1792279925,
+   "company": "twitch",
+   "hours_open": 1059.6,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1792279925,
+   "company": "reddit",
+   "hours_open": 23.8,
+   "title": "Machine Learning Engineer",
+   "uid": "greenhouse:reddit:7131932"
+  },
+  {
+   "closed_at": 1792279925,
+   "company": "Belle Graphics Inc.",
+   "hours_open": 247.1,
+   "title": "installation and repair technician - telecommunications",
+   "uid": "jobbank:telecommunications analyst:50200449"
+  },
+  {
+   "closed_at": 1792279925,
+   "company": "Hi-Tech Solution",
+   "hours_open": 247.1,
+   "title": "telecommunications service tester",
+   "uid": "jobbank:telecommunications analyst:49955305"
+  },
+  {
+   "closed_at": 1792279925,
+   "company": "spacex",
+   "hours_open": 1062.6,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
   }
  ],
- "count": 810,
- "updated_at": 1792279485
+ "count": 805,
+ "updated_at": 1792279925
 }
