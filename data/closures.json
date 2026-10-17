@@ -2,27 +2,6 @@
  "closed": [
   {
    "closed_at": 1792016061,
-   "company": "ecolab",
-   "hours_open": 162.3,
-   "title": "Engineering Technical Sales Intern",
-   "uid": "workday:ecolab.wd1/ecolab_external:Engineering-Technical-Sales-Intern_R00303114"
-  },
-  {
-   "closed_at": 1792016061,
-   "company": "cox",
-   "hours_open": 880.2,
-   "title": "Software Engineering Intern - Summer 2027 (Burlington, VT)",
-   "uid": "workday:cox.wd1/Cox_External_Career_Site_1:Software-Engineering-Intern---Summer-2027--Burlington--VT-_R202682172-1"
-  },
-  {
-   "closed_at": 1792016061,
-   "company": "cox",
-   "hours_open": 876.8,
-   "title": "Software Engineering Intern - Summer 2027 (Irvine, CA)",
-   "uid": "workday:cox.wd1/Cox_External_Career_Site_1:Software-Engineering-Intern---Summer-2027--Irvine--CA-_R202682173"
-  },
-  {
-   "closed_at": 1792016061,
    "company": "cox",
    "hours_open": 876.8,
    "title": "Software Engineering Intern - Summer 2027 (Draper UT)",
@@ -5599,8 +5578,29 @@
    "hours_open": 1060.4,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1792278361,
+   "company": "YO AI Labs",
+   "hours_open": 37.7,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50511932"
+  },
+  {
+   "closed_at": 1792278361,
+   "company": "Belle Graphics Inc.",
+   "hours_open": 246.7,
+   "title": "installation and repair technician - telecommunications",
+   "uid": "jobbank:telecommunications analyst:50200449"
+  },
+  {
+   "closed_at": 1792278361,
+   "company": "Hi-Tech Solution",
+   "hours_open": 246.7,
+   "title": "telecommunications service tester",
+   "uid": "jobbank:telecommunications analyst:49955305"
   }
  ],
- "count": 806,
- "updated_at": 1792278055
+ "count": 803,
+ "updated_at": 1792278361
 }
