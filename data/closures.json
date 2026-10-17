@@ -2,48 +2,6 @@
  "closed": [
   {
    "closed_at": 1792016061,
-   "company": "Micron Technology",
-   "hours_open": 119.2,
-   "title": "CAD Engineer New Grad",
-   "uid": "simplify:listings:ad4ca44e-474d-4210-b8d6-7e8d58de9313"
-  },
-  {
-   "closed_at": 1792016061,
-   "company": "Sierra Nevada Corporation",
-   "hours_open": 143.5,
-   "title": "Software Engineer 1",
-   "uid": "simplify:listings:a1a47707-43a0-48d4-97ae-3e9bbfd16000"
-  },
-  {
-   "closed_at": 1792016061,
-   "company": "duboischemicals",
-   "hours_open": 200.6,
-   "title": "Analytical Scientist I / Applications Engineer I",
-   "uid": "workday:duboischemicals.wd1/external:Analytical-Scientist-I---Applications-Engineer-I_R103383"
-  },
-  {
-   "closed_at": 1792016061,
-   "company": "dxctechnology",
-   "hours_open": 30.2,
-   "title": "Junior Java Developer (Mandarin)",
-   "uid": "workday:dxctechnology.wd1/dxcjobs:Junior-Java-Developer--Mandarin-_51591599"
-  },
-  {
-   "closed_at": 1792016061,
-   "company": "twitch",
-   "hours_open": 986.3,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1792016061,
-   "company": "figma",
-   "hours_open": 989.3,
-   "title": "Software Engineer - Mobile Web",
-   "uid": "greenhouse:figma:6100023004"
-  },
-  {
-   "closed_at": 1792016061,
    "company": "ecolab",
    "hours_open": 162.3,
    "title": "Engineering Technical Sales Intern",
@@ -5599,8 +5557,50 @@
    "hours_open": 1060.6,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1792278231,
+   "company": "YO AI Labs",
+   "hours_open": 39.6,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50511622"
+  },
+  {
+   "closed_at": 1792278231,
+   "company": "twitch",
+   "hours_open": 1062.1,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1792278231,
+   "company": "reddit",
+   "hours_open": 52.1,
+   "title": "Machine Learning Engineer",
+   "uid": "greenhouse:reddit:7131934"
+  },
+  {
+   "closed_at": 1792278231,
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
+   "hours_open": 941.9,
+   "title": "Administrateur Réseau TI",
+   "uid": "jobillico:analyste reseau:17386419"
+  },
+  {
+   "closed_at": 1792278231,
+   "company": "spacex",
+   "hours_open": 1062.1,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1792278231,
+   "company": "spacex",
+   "hours_open": 1060.4,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
- "count": 800,
- "updated_at": 1792273398
+ "count": 806,
+ "updated_at": 1792278231
 }
