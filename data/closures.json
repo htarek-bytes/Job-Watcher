@@ -2,48 +2,6 @@
  "closed": [
   {
    "closed_at": 1791959028,
-   "company": "The Federal Reserve System",
-   "hours_open": 175.4,
-   "title": "AI Solutions Engineer Associate",
-   "uid": "simplify:listings:834fe4c4-f68e-4dbc-bf7d-5c3c22356240"
-  },
-  {
-   "closed_at": 1791959028,
-   "company": "dxctechnology",
-   "hours_open": 593.1,
-   "title": "Junior Java Developer",
-   "uid": "workday:dxctechnology.wd1/dxcjobs:Junior-Java-Developer_51584530"
-  },
-  {
-   "closed_at": 1791959028,
-   "company": "dexcom",
-   "hours_open": 14.3,
-   "title": "SW Development Engineer 1",
-   "uid": "workday:dexcom.wd1/Dexcom:SW-Development-Engineer-1_JR121427"
-  },
-  {
-   "closed_at": 1791959028,
-   "company": "360.Agency",
-   "hours_open": 515.1,
-   "title": "network system administrator",
-   "uid": "jobbank:systems administrator:50342628"
-  },
-  {
-   "closed_at": 1791959028,
-   "company": "ALL ROUTES LOGISTICS INC.",
-   "hours_open": 853.0,
-   "title": "network system administrator",
-   "uid": "jobbank:systems administrator:50243159"
-  },
-  {
-   "closed_at": 1791959028,
-   "company": "Lakeland Roman Catholic Separate School Division",
-   "hours_open": 853.2,
-   "title": "computer systems analyst",
-   "uid": "jobbank:systems analyst:50064831"
-  },
-  {
-   "closed_at": 1791959028,
    "company": "SIFT",
    "hours_open": 981.4,
    "title": "Software Engineer New Grad",
@@ -5599,8 +5557,50 @@
    "hours_open": 22.7,
    "title": "software developer",
    "uid": "jobbank:junior software developer:50511622"
+  },
+  {
+   "closed_at": 1792217726,
+   "company": "Nesda Technologies Ltd",
+   "hours_open": 516.7,
+   "title": "network support technician",
+   "uid": "jobbank:linux administrator:50364689"
+  },
+  {
+   "closed_at": 1792217726,
+   "company": "twitch",
+   "hours_open": 1042.4,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1792217726,
+   "company": "reddit",
+   "hours_open": 6.5,
+   "title": "Machine Learning Engineer",
+   "uid": "greenhouse:reddit:7131932"
+  },
+  {
+   "closed_at": 1792217726,
+   "company": "Study 2020 Consulting INC",
+   "hours_open": 925.1,
+   "title": "network system administrator",
+   "uid": "jobbank:systems administrator:49984747"
+  },
+  {
+   "closed_at": 1792217726,
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
+   "hours_open": 925.1,
+   "title": "Administrateur Réseau TI",
+   "uid": "jobillico:analyste reseau:17386419"
+  },
+  {
+   "closed_at": 1792217726,
+   "company": "spacex",
+   "hours_open": 1045.3,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 817,
- "updated_at": 1792217322
+ "count": 806,
+ "updated_at": 1792217726
 }
