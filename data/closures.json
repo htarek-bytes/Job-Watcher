@@ -1,90 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792020478,
-   "company": "oshkoshcorporation",
-   "hours_open": 333.9,
-   "title": "Electrification Engineer Intern",
-   "uid": "workday:oshkoshcorporation.wd5/Oshkosh:Electrification-Engineer-Intern_R50654-1"
-  },
-  {
-   "closed_at": 1792020478,
-   "company": "pg",
-   "hours_open": 993.9,
-   "title": "Northeastern University R&D Engineer Co-op- Northeastern Students Graduating in 2029 ONLY",
-   "uid": "workday:pg.wd5/1000:Northeastern-University-R-D-Engineer-Co-op--Northeastern-Students-Graduating-in-2028-2029-ONLY_R000155302"
-  },
-  {
-   "closed_at": 1792020478,
-   "company": "ngc",
-   "hours_open": 27.9,
-   "title": "2027 Computer Engineer Intern - Manhattan Beach CA",
-   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Computer-Engineer-Intern---Manhattan-Beach-CA_R10255835"
-  },
-  {
-   "closed_at": 1792020478,
-   "company": "ngc",
-   "hours_open": 13.2,
-   "title": "Associate Cloud Software Engineer (Level 1)",
-   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:Associate-Cloud-Software-Engineer--Level-1-_R10255928"
-  },
-  {
-   "closed_at": 1792020478,
-   "company": "rakuten",
-   "hours_open": 696.5,
-   "title": "Early Career AI Engineer, Intern",
-   "uid": "workday:rakuten.wd1/RakutenAmericas:Intern---Software-Engineering--AI-User-Experience_1031437"
-  },
-  {
-   "closed_at": 1792020478,
-   "company": "twitch",
-   "hours_open": 987.6,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1792020478,
-   "company": "nvidia",
-   "hours_open": 382.5,
-   "title": "ASIC Verification Engineer - New College Grad 2027",
-   "uid": "workday:nvidia.wd5/NVIDIAExternalCareerSite:ASIC-Verification-Engineer---New-College-Grad-2027_JR2026343"
-  },
-  {
-   "closed_at": 1792020478,
-   "company": "rocketlab",
-   "hours_open": 983.5,
-   "title": "Radio Frequency Test Engineer Intern",
-   "uid": "greenhouse:rocketlab:7845193003"
-  },
-  {
-   "closed_at": 1792020478,
-   "company": "spacex",
-   "hours_open": 990.5,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1792020478,
-   "company": "andurilindustries",
-   "hours_open": 319.1,
-   "title": "Product Operations Technical Specialist, Air Defense",
-   "uid": "greenhouse:andurilindustries:4972456007"
-  },
-  {
-   "closed_at": 1792020478,
-   "company": "Amazon",
-   "hours_open": 23.1,
-   "title": "Software Development Engineer, Amazon Leo GBO Engineering",
-   "uid": "amazon:amazon:10578122"
-  },
-  {
-   "closed_at": 1792022723,
-   "company": "semtech",
-   "hours_open": 13.6,
-   "title": "Associate Engineer, Software Engineering",
-   "uid": "workday:semtech.wd1/SemtechCareers:Associate-Engineer--Software-Engineering_REQ3652"
-  },
-  {
    "closed_at": 1792022723,
    "company": "discord",
    "hours_open": 700.2,
@@ -5599,8 +5515,92 @@
    "hours_open": 1062.9,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1792300363,
+   "company": "capco",
+   "hours_open": 278.7,
+   "title": "AI Engineer",
+   "uid": "greenhouse:capco:8258742"
+  },
+  {
+   "closed_at": 1792300363,
+   "company": "Groupe DCM",
+   "hours_open": 1086.1,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17357741"
+  },
+  {
+   "closed_at": 1792300363,
+   "company": "Logesco Informatique",
+   "hours_open": 948.1,
+   "title": "Administrateur de réseau",
+   "uid": "jobillico:analyste reseau:17188132"
+  },
+  {
+   "closed_at": 1792300363,
+   "company": "Stellar Software Solutions",
+   "hours_open": 190.4,
+   "title": "network infrastructure engineer",
+   "uid": "jobbank:infrastructure analyst:50462911"
+  },
+  {
+   "closed_at": 1792300363,
+   "company": "YO AI Labs",
+   "hours_open": 43.8,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50511932"
+  },
+  {
+   "closed_at": 1792300363,
+   "company": "twitch",
+   "hours_open": 1068.3,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1792300363,
+   "company": "reddit",
+   "hours_open": 58.3,
+   "title": "Machine Learning Engineer",
+   "uid": "greenhouse:reddit:7131934"
+  },
+  {
+   "closed_at": 1792300363,
+   "company": "Maarut",
+   "hours_open": 12.8,
+   "title": "software developer",
+   "uid": "jobbank:entry level software developer:50517346"
+  },
+  {
+   "closed_at": 1792300363,
+   "company": "EXFO inc",
+   "hours_open": 1061.8,
+   "title": "Concepteur logiciel / Software Design Engineer",
+   "uid": "jobillico:software developer:17294693"
+  },
+  {
+   "closed_at": 1792300363,
+   "company": "DPMSYSTEMS IT CONSULTING SERVICES",
+   "hours_open": 720.3,
+   "title": "information systems analyst - computer systems",
+   "uid": "jobbank:systems analyst:50311291"
+  },
+  {
+   "closed_at": 1792300363,
+   "company": "spacex",
+   "hours_open": 1068.3,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1792300363,
+   "company": "spacex",
+   "hours_open": 1068.3,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 806,
- "updated_at": 1792287066
+ "count": 812,
+ "updated_at": 1792300363
 }
