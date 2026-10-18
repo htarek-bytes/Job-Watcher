@@ -2,41 +2,6 @@
  "closed": [
   {
    "closed_at": 1792100265,
-   "company": "Amazon",
-   "hours_open": 149.1,
-   "title": "Software Development Engineer, DynamoDB Index and Search",
-   "uid": "amazon:amazon:10574713"
-  },
-  {
-   "closed_at": 1792100265,
-   "company": "Amazon",
-   "hours_open": 159.3,
-   "title": "Software Development Engineer, Ads AI Core Infra",
-   "uid": "amazon:amazon:10574268"
-  },
-  {
-   "closed_at": 1792100265,
-   "company": "Amazon",
-   "hours_open": 74.6,
-   "title": "Software Development Engineer, Agentic Workspaces",
-   "uid": "amazon:amazon:10576141"
-  },
-  {
-   "closed_at": 1792100265,
-   "company": "twitch",
-   "hours_open": 1012.7,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1792100265,
-   "company": "field-ai",
-   "hours_open": 930.6,
-   "title": "AI Solutions Engineer (Fixed-Term)",
-   "uid": "lever:field-ai:65561b5c-2348-4b88-9e73-ff9c6265dbf4"
-  },
-  {
-   "closed_at": 1792100265,
    "company": "justworks",
    "hours_open": 45.6,
    "title": "Software Engineer",
@@ -5599,8 +5564,43 @@
    "hours_open": 78.0,
    "title": "information systems analyst - computer systems",
    "uid": "jobbank:information systems analyst:50311291"
+  },
+  {
+   "closed_at": 1792323758,
+   "company": "twitch",
+   "hours_open": 1074.8,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1792323758,
+   "company": "reddit",
+   "hours_open": 64.8,
+   "title": "Machine Learning Engineer",
+   "uid": "greenhouse:reddit:7131934"
+  },
+  {
+   "closed_at": 1792323758,
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
+   "hours_open": 954.6,
+   "title": "Administrateur Réseau TI",
+   "uid": "jobillico:analyste reseau:17386419"
+  },
+  {
+   "closed_at": 1792323758,
+   "company": "spacex",
+   "hours_open": 1071.8,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1792323758,
+   "company": "spacex",
+   "hours_open": 1074.5,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
   }
  ],
- "count": 804,
- "updated_at": 1792323316
+ "count": 805,
+ "updated_at": 1792323758
 }
