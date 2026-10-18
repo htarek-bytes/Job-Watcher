@@ -2,13 +2,6 @@
  "closed": [
   {
    "closed_at": 1792102364,
-   "company": "Regime Solutions Inc.",
-   "hours_open": 28.2,
-   "title": "computer systems analyst",
-   "uid": "jobbank:analyste de systemes:50243696"
-  },
-  {
-   "closed_at": 1792102364,
    "company": "RTX",
    "hours_open": 22.7,
    "title": "Software Engineer/Developer 1",
@@ -5599,8 +5592,15 @@
    "hours_open": 957.7,
    "title": "Administrateur Réseau TI",
    "uid": "jobillico:analyste reseau:17386419"
+  },
+  {
+   "closed_at": 1792335219,
+   "company": "AbbVie",
+   "hours_open": 48.8,
+   "title": "(Junior) Packaging Engineer (all genders) (Vollzeit, unbefristet)",
+   "uid": "smartrecruiters:AbbVie:3743990016171365"
   }
  ],
- "count": 804,
- "updated_at": 1792334941
+ "count": 801,
+ "updated_at": 1792335220
 }
