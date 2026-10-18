@@ -2,13 +2,6 @@
  "closed": [
   {
    "closed_at": 1792091449,
-   "company": "CANMEC",
-   "hours_open": 149.7,
-   "title": "Nous agrandissons l'équipe ON RECRUTE Technicien informatique",
-   "uid": "jobillico:technicien informatique:17600094"
-  },
-  {
-   "closed_at": 1792091449,
    "company": "asuresoftware",
    "hours_open": 883.5,
    "title": "Intern - Software Engineering ",
@@ -5599,8 +5592,15 @@
    "hours_open": 429.9,
    "title": "2027 Summer Intern, AI Engineer (Reston, VA)",
    "uid": "workday:icf.wd5/icfexternal_career_site:XMLNAME-2027-Summer-Intern--AI-Engineer--Reston--VA-_R2603312-1"
+  },
+  {
+   "closed_at": 1792305242,
+   "company": "YO AI Labs",
+   "hours_open": 45.2,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50511932"
   }
  ],
- "count": 802,
- "updated_at": 1792304662
+ "count": 801,
+ "updated_at": 1792305242
 }
