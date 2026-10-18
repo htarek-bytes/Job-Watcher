@@ -1,20 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792102364,
-   "company": "RTX",
-   "hours_open": 22.7,
-   "title": "Software Engineer/Developer 1",
-   "uid": "simplify:listings:a6635562-b768-4870-a2d2-3e1802de470d"
-  },
-  {
-   "closed_at": 1792102971,
-   "company": "Umano Medical",
-   "hours_open": 893.2,
-   "title": "Concepteur logiciel embarqué et cybersécurité",
-   "uid": "jobillico:analyste cybersecurite:17489580"
-  },
-  {
    "closed_at": 1792102971,
    "company": "ServiceNow",
    "hours_open": 85.3,
@@ -5599,8 +5585,22 @@
    "hours_open": 48.8,
    "title": "(Junior) Packaging Engineer (all genders) (Vollzeit, unbefristet)",
    "uid": "smartrecruiters:AbbVie:3743990016171365"
+  },
+  {
+   "closed_at": 1792342783,
+   "company": "reddit",
+   "hours_open": 713.1,
+   "title": "Software Engineer, Ingestion Platform",
+   "uid": "greenhouse:reddit:8214910"
+  },
+  {
+   "closed_at": 1792342783,
+   "company": "Logesco Informatique",
+   "hours_open": 959.8,
+   "title": "Administrateur de réseau",
+   "uid": "jobillico:analyste reseau:17188132"
   }
  ],
- "count": 800,
- "updated_at": 1792342138
+ "count": 802,
+ "updated_at": 1792342783
 }
