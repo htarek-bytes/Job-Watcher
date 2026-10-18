@@ -2,13 +2,6 @@
  "closed": [
   {
    "closed_at": 1792110118,
-   "company": "cae",
-   "hours_open": 191.1,
-   "title": "Junior Software Developer - System Integration Labs (North Shore)",
-   "uid": "workday:cae.wd3/career:Dveloppeureuse-logiciel-junior---Bancs-d-essais--Rive-Nord-_123921-1"
-  },
-  {
-   "closed_at": 1792110118,
    "company": "boeing",
    "hours_open": 26.8,
    "title": "Entry Level B1 Software Systems Engineer",
@@ -5599,8 +5592,15 @@
    "hours_open": 53.4,
    "title": "Administrateur de réseau",
    "uid": "jobillico:analyste reseau:17594211"
+  },
+  {
+   "closed_at": 1792353498,
+   "company": "Logesco Informatique",
+   "hours_open": 962.8,
+   "title": "Administrateur de réseau",
+   "uid": "jobillico:analyste reseau:17188132"
   }
  ],
- "count": 807,
- "updated_at": 1792352626
+ "count": 801,
+ "updated_at": 1792353499
 }
