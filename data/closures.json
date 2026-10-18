@@ -2,20 +2,6 @@
  "closed": [
   {
    "closed_at": 1792017336,
-   "company": "twitch",
-   "hours_open": 989.6,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1792017336,
-   "company": "Belle Graphics Inc.",
-   "hours_open": 174.2,
-   "title": "installation and repair technician - telecommunications",
-   "uid": "jobbank:telecommunications analyst:50200449"
-  },
-  {
-   "closed_at": 1792017336,
    "company": "spacex",
    "hours_open": 989.6,
    "title": "Software Engineer (Starship)",
@@ -5599,8 +5585,22 @@
    "hours_open": 943.8,
    "title": "Administrateur de réseau",
    "uid": "jobillico:analyste reseau:17188132"
+  },
+  {
+   "closed_at": 1792285130,
+   "company": "Groupe Mario Coté",
+   "hours_open": 34.6,
+   "title": "Administrateur de réseau",
+   "uid": "jobillico:analyste reseau:17594211"
+  },
+  {
+   "closed_at": 1792285130,
+   "company": "YO AI Labs",
+   "hours_open": 41.5,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50511622"
   }
  ],
- "count": 801,
- "updated_at": 1792284883
+ "count": 802,
+ "updated_at": 1792285131
 }
