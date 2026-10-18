@@ -1,20 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792091020,
-   "company": "ontic",
-   "hours_open": 1010.1,
-   "title": "Analytics Engineer ",
-   "uid": "ashby:ontic:27d32707-54e2-47be-be62-376df6d2b0f3"
-  },
-  {
-   "closed_at": 1792091020,
-   "company": "Regime Solutions Inc.",
-   "hours_open": 25.1,
-   "title": "computer systems analyst",
-   "uid": "jobbank:analyste de systemes:50243696"
-  },
-  {
    "closed_at": 1792091449,
    "company": "CANMEC",
    "hours_open": 149.7,
@@ -5599,8 +5585,22 @@
    "hours_open": 948.5,
    "title": "Administrateur Réseau TI",
    "uid": "jobillico:analyste reseau:17386419"
+  },
+  {
+   "closed_at": 1792304662,
+   "company": "YO AI Labs",
+   "hours_open": 46.9,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50511622"
+  },
+  {
+   "closed_at": 1792304662,
+   "company": "icf",
+   "hours_open": 429.9,
+   "title": "2027 Summer Intern, AI Engineer (Reston, VA)",
+   "uid": "workday:icf.wd5/icfexternal_career_site:XMLNAME-2027-Summer-Intern--AI-Engineer--Reston--VA-_R2603312-1"
   }
  ],
- "count": 801,
- "updated_at": 1792301764
+ "count": 802,
+ "updated_at": 1792304662
 }
