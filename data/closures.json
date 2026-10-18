@@ -1,48 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792100265,
-   "company": "Northrop Grumman",
-   "hours_open": 1049.3,
-   "title": "Associate Software Engineer/Software Engineer - Associate Engineer Software (T01) - Engineer Software (T02)",
-   "uid": "simplify:listings:47db7b74-b29c-4098-9e87-68af93ab3843"
-  },
-  {
-   "closed_at": 1792101857,
-   "company": "AECOM",
-   "hours_open": 27.1,
-   "title": "Fire Protection Engineer I",
-   "uid": "smartrecruiters:AECOM2:744000155573658"
-  },
-  {
-   "closed_at": 1792101857,
-   "company": "Umano Medical",
-   "hours_open": 892.9,
-   "title": "Concepteur logiciel embarqué et cybersécurité",
-   "uid": "jobillico:analyste cybersecurite:17489580"
-  },
-  {
-   "closed_at": 1792101857,
-   "company": "Regime Solutions Inc.",
-   "hours_open": 891.3,
-   "title": "computer systems analyst",
-   "uid": "jobbank:systems analyst:50243696"
-  },
-  {
-   "closed_at": 1792102364,
-   "company": "Intuitive",
-   "hours_open": 12.8,
-   "title": "Technical Solution Consultant",
-   "uid": "smartrecruiters:Intuitive:744000155612514"
-  },
-  {
-   "closed_at": 1792102364,
-   "company": "Intuitive",
-   "hours_open": 12.8,
-   "title": "Key Account Technical Solution Consultant",
-   "uid": "smartrecruiters:Intuitive:744000155613769"
-  },
-  {
    "closed_at": 1792102364,
    "company": "Applied Materials",
    "hours_open": 186.3,
@@ -5599,8 +5557,50 @@
    "hours_open": 1076.6,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1792330977,
+   "company": "twitch",
+   "hours_open": 1076.8,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1792330977,
+   "company": "reddit",
+   "hours_open": 66.8,
+   "title": "Machine Learning Engineer",
+   "uid": "greenhouse:reddit:7131934"
+  },
+  {
+   "closed_at": 1792330977,
+   "company": "DPMSYSTEMS IT CONSULTING SERVICES",
+   "hours_open": 728.8,
+   "title": "information systems analyst - computer systems",
+   "uid": "jobbank:systems analyst:50311291"
+  },
+  {
+   "closed_at": 1792330977,
+   "company": "Regime Solutions Inc.",
+   "hours_open": 955.0,
+   "title": "computer systems analyst",
+   "uid": "jobbank:systems analyst:50243696"
+  },
+  {
+   "closed_at": 1792330977,
+   "company": "spacex",
+   "hours_open": 1073.8,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1792330977,
+   "company": "spacex",
+   "hours_open": 1076.5,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
   }
  ],
- "count": 800,
- "updated_at": 1792330743
+ "count": 806,
+ "updated_at": 1792330977
 }
