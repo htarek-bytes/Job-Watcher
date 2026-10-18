@@ -2,13 +2,6 @@
  "closed": [
   {
    "closed_at": 1792091020,
-   "company": "Umano Medical",
-   "hours_open": 889.9,
-   "title": "Concepteur logiciel embarqué et cybersécurité",
-   "uid": "jobillico:analyste cybersecurite:17489580"
-  },
-  {
-   "closed_at": 1792091020,
    "company": "ontic",
    "hours_open": 1010.1,
    "title": "Analytics Engineer ",
@@ -5599,8 +5592,15 @@
    "hours_open": 1066.8,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1792301764,
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
+   "hours_open": 948.5,
+   "title": "Administrateur Réseau TI",
+   "uid": "jobillico:analyste reseau:17386419"
   }
  ],
- "count": 957,
- "updated_at": 1792301096
+ "count": 801,
+ "updated_at": 1792301764
 }
