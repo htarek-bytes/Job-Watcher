@@ -2,13 +2,6 @@
  "closed": [
   {
    "closed_at": 1792108368,
-   "company": "Umano Medical",
-   "hours_open": 894.7,
-   "title": "Concepteur logiciel embarqué et cybersécurité",
-   "uid": "jobillico:analyste cybersecurite:17489580"
-  },
-  {
-   "closed_at": 1792108368,
    "company": "amat",
    "hours_open": 190.7,
    "title": "New College Grad Software Engineer I (Bachelors - Santa Clara, CA)",
@@ -5599,8 +5592,15 @@
    "hours_open": 409.5,
    "title": "Software Engineering Intern",
    "uid": "workday:avav.wd1/avav:Software-Engineering-Intern_8797"
+  },
+  {
+   "closed_at": 1792350122,
+   "company": "dexcom",
+   "hours_open": 38.0,
+   "title": "SW Development Engineer 1",
+   "uid": "workday:dexcom.wd1/Dexcom:SW-Development-Engineer-1_JR121399"
   }
  ],
- "count": 803,
- "updated_at": 1792345872
+ "count": 801,
+ "updated_at": 1792350122
 }
