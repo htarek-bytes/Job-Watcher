@@ -1,41 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792102364,
-   "company": "RTX",
-   "hours_open": 22.7,
-   "title": "Software Engineer/Developer 1",
-   "uid": "simplify:listings:a6635562-b768-4870-a2d2-3e1802de470d"
-  },
-  {
-   "closed_at": 1792102971,
-   "company": "Umano Medical",
-   "hours_open": 893.2,
-   "title": "Concepteur logiciel embarqué et cybersécurité",
-   "uid": "jobillico:analyste cybersecurite:17489580"
-  },
-  {
-   "closed_at": 1792102971,
-   "company": "ServiceNow",
-   "hours_open": 85.3,
-   "title": "Advisory Solution Consultant",
-   "uid": "smartrecruiters:ServiceNow:744000154921069"
-  },
-  {
-   "closed_at": 1792102971,
-   "company": "Tomra",
-   "hours_open": 190.5,
-   "title": "Pre-Sales Engineer",
-   "uid": "smartrecruiters:Tomra:744000154134220"
-  },
-  {
-   "closed_at": 1792102971,
-   "company": "Regime Solutions Inc.",
-   "hours_open": 891.6,
-   "title": "computer systems analyst",
-   "uid": "jobbank:systems analyst:50243696"
-  },
-  {
    "closed_at": 1792102971,
    "company": "Credence",
    "hours_open": 528.1,
@@ -5599,8 +5564,43 @@
    "hours_open": 48.8,
    "title": "(Junior) Packaging Engineer (all genders) (Vollzeit, unbefristet)",
    "uid": "smartrecruiters:AbbVie:3743990016171365"
+  },
+  {
+   "closed_at": 1792342643,
+   "company": "reddit",
+   "hours_open": 713.1,
+   "title": "Software Engineer, Ingestion Platform",
+   "uid": "greenhouse:reddit:8214910"
+  },
+  {
+   "closed_at": 1792342643,
+   "company": "Logesco Informatique",
+   "hours_open": 959.8,
+   "title": "Administrateur de réseau",
+   "uid": "jobillico:analyste reseau:17188132"
+  },
+  {
+   "closed_at": 1792342643,
+   "company": "twitch",
+   "hours_open": 1077.1,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1792342643,
+   "company": "spacex",
+   "hours_open": 1080.0,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1792342643,
+   "company": "spacex",
+   "hours_open": 1080.0,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
   }
  ],
- "count": 800,
- "updated_at": 1792342138
+ "count": 805,
+ "updated_at": 1792342643
 }
