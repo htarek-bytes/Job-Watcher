@@ -2,34 +2,6 @@
  "closed": [
   {
    "closed_at": 1792100265,
-   "company": "Stellar Software Solutions",
-   "hours_open": 134.8,
-   "title": "network infrastructure engineer",
-   "uid": "jobbank:infrastructure analyst:50462911"
-  },
-  {
-   "closed_at": 1792100265,
-   "company": "Hewlett Packard Enterprise",
-   "hours_open": 3.2,
-   "title": "Electrical Hardware Engineer 1",
-   "uid": "simplify:listings:01344890-67d8-4104-b037-69d43c22eed3"
-  },
-  {
-   "closed_at": 1792100265,
-   "company": "Micron Technology",
-   "hours_open": 669.3,
-   "title": "AI Infrastructure & HBM Architecture Engineer New Grad",
-   "uid": "simplify:listings:4b27fb44-61dc-4210-81de-325e8e32c947"
-  },
-  {
-   "closed_at": 1792100265,
-   "company": "Amazon",
-   "hours_open": 217.8,
-   "title": "Software Development Engineer, Advanced Analytics - LLD",
-   "uid": "amazon:amazon:10571021"
-  },
-  {
-   "closed_at": 1792100265,
    "company": "Amazon",
    "hours_open": 149.1,
    "title": "Software Development Engineer, DynamoDB Index and Search",
@@ -5599,8 +5571,36 @@
    "hours_open": 87.9,
    "title": "computer systems analyst",
    "uid": "jobbank:analyste de systemes:50243696"
+  },
+  {
+   "closed_at": 1792323315,
+   "company": "Dexcom",
+   "hours_open": 36.3,
+   "title": "Software Development Engineer 1",
+   "uid": "simplify:listings:7b2a26dd-7916-4ee7-ba75-e35c445c25b0"
+  },
+  {
+   "closed_at": 1792323315,
+   "company": "Magna Mining Inc.",
+   "hours_open": 132.3,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:systems analyst:50480771"
+  },
+  {
+   "closed_at": 1792323315,
+   "company": "Currier Plastics",
+   "hours_open": 231.0,
+   "title": "Tooling Engineer",
+   "uid": "workable:currier-plastics:E38D8E6920"
+  },
+  {
+   "closed_at": 1792323315,
+   "company": "DPMSYSTEMS IT CONSULTING SERVICES",
+   "hours_open": 78.0,
+   "title": "information systems analyst - computer systems",
+   "uid": "jobbank:information systems analyst:50311291"
   }
  ],
  "count": 804,
- "updated_at": 1792317188
+ "updated_at": 1792323316
 }
