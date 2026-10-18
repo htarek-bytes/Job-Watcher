@@ -1,1105 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792022723,
-   "company": "discord",
-   "hours_open": 700.2,
-   "title": "Software Engineer, Distributed Systems",
-   "uid": "greenhouse:discord:8806163002"
-  },
-  {
-   "closed_at": 1792022723,
-   "company": "sralab",
-   "hours_open": 559.1,
-   "title": "Clinical Applications Analyst I",
-   "uid": "workday:sralab.wd1/SRAlabCareers:Clinical-Applications-Analyst-I_JR-1065540-1"
-  },
-  {
-   "closed_at": 1792022723,
-   "company": "salesforce",
-   "hours_open": 1012.5,
-   "title": "Software Engineering AMTS (College Grad)",
-   "uid": "workday:salesforce.wd12/Futureforce_NewGradRoles:Software-Engineering-AMTS--College-Grad-_JR355250"
-  },
-  {
-   "closed_at": 1792022723,
-   "company": "spacex",
-   "hours_open": 988.2,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1792022723,
-   "company": "spacex",
-   "hours_open": 990.9,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1792022723,
-   "company": "spacex",
-   "hours_open": 991.1,
-   "title": "Structures Engineer, Build (Starship)",
-   "uid": "greenhouse:spacex:8493500002"
-  },
-  {
-   "closed_at": 1792024568,
-   "company": "doordashusa",
-   "hours_open": 154.0,
-   "title": "Software Engineer, Machine Learning Platform - MDX",
-   "uid": "greenhouse:doordashusa:8264534"
-  },
-  {
-   "closed_at": 1792024568,
-   "company": "In Line Contracting Ltd.",
-   "hours_open": 191.8,
-   "title": "cloud administrator",
-   "uid": "jobbank:cloud administrator:50440128"
-  },
-  {
-   "closed_at": 1792024568,
-   "company": "Amazon",
-   "hours_open": 29.0,
-   "title": "Software Development Engineer, Customer Experience and Business Trends",
-   "uid": "amazon:amazon:10576179"
-  },
-  {
-   "closed_at": 1792024568,
-   "company": "applied",
-   "hours_open": 991.6,
-   "title": "Hardware Test Engineer",
-   "uid": "ashby:applied:d8b7286e-bd47-407b-859d-f2b7f5822a8c"
-  },
-  {
-   "closed_at": 1792024568,
-   "company": "Belle Graphics Inc.",
-   "hours_open": 176.2,
-   "title": "installation and repair technician - telecommunications",
-   "uid": "jobbank:telecommunications analyst:50200449"
-  },
-  {
-   "closed_at": 1792024568,
-   "company": "Hi-Tech Solution",
-   "hours_open": 176.2,
-   "title": "telecommunications service tester",
-   "uid": "jobbank:telecommunications analyst:49955305"
-  },
-  {
-   "closed_at": 1792024568,
-   "company": "trimedx",
-   "hours_open": 365.1,
-   "title": "Imaging Engineer I",
-   "uid": "workday:trimedx.wd1/TMX:Imaging-Engineer-I_R15009"
-  },
-  {
-   "closed_at": 1792024568,
-   "company": "spacex",
-   "hours_open": 320.0,
-   "title": "IT Network Engineer (OT)",
-   "uid": "greenhouse:spacex:8859652002"
-  },
-  {
-   "closed_at": 1792024568,
-   "company": "spacex",
-   "hours_open": 550.9,
-   "title": "Network Engineer, AI Infrastructure (Starshield)",
-   "uid": "greenhouse:spacex:8829675002"
-  },
-  {
-   "closed_at": 1792024568,
-   "company": "spacex",
-   "hours_open": 991.6,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1792025521,
-   "company": "cerebras",
-   "hours_open": 138.2,
-   "title": "Hardware Technical Analyst",
-   "uid": "ashby:cerebras:e6ad7dfe-df4d-4b97-a8a5-fa1f1c3fc2bf"
-  },
-  {
-   "closed_at": 1792025521,
-   "company": "commure",
-   "hours_open": 792.2,
-   "title": "Business Intelligence Engineer (Bangladesh)",
-   "uid": "ashby:commure:2ae9c7b2-6fe3-4bc8-8ab0-be31450ca961"
-  },
-  {
-   "closed_at": 1792025521,
-   "company": "crusoe",
-   "hours_open": 989.0,
-   "title": "Learning & Development Specialist",
-   "uid": "ashby:crusoe:2b146de5-eed0-426b-8ecc-710afa51864c"
-  },
-  {
-   "closed_at": 1792025521,
-   "company": "cerebras",
-   "hours_open": 871.7,
-   "title": "ML Systems Integration Engineer",
-   "uid": "ashby:cerebras:c35a389c-807e-45fb-bfda-03f6b1361871"
-  },
-  {
-   "closed_at": 1792025521,
-   "company": "twitch",
-   "hours_open": 991.9,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1792025521,
-   "company": "spacex",
-   "hours_open": 991.9,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1792025521,
-   "company": "spacex",
-   "hours_open": 991.6,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1792025592,
-   "company": "cerebras",
-   "hours_open": 138.2,
-   "title": "Hardware Technical Analyst",
-   "uid": "ashby:cerebras:e6ad7dfe-df4d-4b97-a8a5-fa1f1c3fc2bf"
-  },
-  {
-   "closed_at": 1792025592,
-   "company": "commure",
-   "hours_open": 792.3,
-   "title": "Business Intelligence Engineer (Bangladesh)",
-   "uid": "ashby:commure:2ae9c7b2-6fe3-4bc8-8ab0-be31450ca961"
-  },
-  {
-   "closed_at": 1792025592,
-   "company": "Stellar Software Solutions",
-   "hours_open": 123.6,
-   "title": "network infrastructure engineer",
-   "uid": "jobbank:specialiste infrastructure:50462911"
-  },
-  {
-   "closed_at": 1792025592,
-   "company": "crusoe",
-   "hours_open": 989.0,
-   "title": "Learning & Development Specialist",
-   "uid": "ashby:crusoe:2b146de5-eed0-426b-8ecc-710afa51864c"
-  },
-  {
-   "closed_at": 1792025592,
-   "company": "cerebras",
-   "hours_open": 871.7,
-   "title": "ML Systems Integration Engineer",
-   "uid": "ashby:cerebras:c35a389c-807e-45fb-bfda-03f6b1361871"
-  },
-  {
-   "closed_at": 1792025592,
-   "company": "spacex",
-   "hours_open": 991.7,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1792025592,
-   "company": "spacex",
-   "hours_open": 990.2,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1792028391,
-   "company": "obvio",
-   "hours_open": 547.5,
-   "title": "Software Engineer, Annotation Systems",
-   "uid": "ashby:obvio:4c1c570f-77a9-4dd0-9e43-ba863f1c4ae7"
-  },
-  {
-   "closed_at": 1792028391,
-   "company": "Stellar Software Solutions",
-   "hours_open": 124.4,
-   "title": "network infrastructure engineer",
-   "uid": "jobbank:specialiste infrastructure:50462911"
-  },
-  {
-   "closed_at": 1792028391,
-   "company": "Amazon",
-   "hours_open": 114.9,
-   "title": "Software Development Engineer",
-   "uid": "amazon:amazon:10575340"
-  },
-  {
-   "closed_at": 1792028391,
-   "company": "Amazon",
-   "hours_open": 173.9,
-   "title": "Software Development Engineer, Agentic Commerce, Buy For Me",
-   "uid": "amazon:amazon:10572014"
-  },
-  {
-   "closed_at": 1792028391,
-   "company": "lance",
-   "hours_open": 48.4,
-   "title": "Forward Deployment Engineer",
-   "uid": "ashby:lance:3175603c-3b83-4de4-9e59-4f5595d62da7"
-  },
-  {
-   "closed_at": 1792028391,
-   "company": "twitch",
-   "hours_open": 989.8,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1792028391,
-   "company": "kognitos",
-   "hours_open": 1000.6,
-   "title": "Forward Deployed Engineer Intern (Mountain View)",
-   "uid": "ashby:kognitos:a4bc3ebf-b619-4c1b-9c9e-784d16c8b148"
-  },
-  {
-   "closed_at": 1792028391,
-   "company": "kognitos",
-   "hours_open": 992.7,
-   "title": "Forward Deployed Engineer",
-   "uid": "ashby:kognitos:75ef6778-ee45-4eb5-b2fa-02834f78a986"
-  },
-  {
-   "closed_at": 1792028391,
-   "company": "Belle Graphics Inc.",
-   "hours_open": 177.2,
-   "title": "installation and repair technician - telecommunications",
-   "uid": "jobbank:telecommunications analyst:50200449"
-  },
-  {
-   "closed_at": 1792028391,
-   "company": "Hi-Tech Solution",
-   "hours_open": 177.2,
-   "title": "telecommunications service tester",
-   "uid": "jobbank:telecommunications analyst:49955305"
-  },
-  {
-   "closed_at": 1792028391,
-   "company": "spacex",
-   "hours_open": 56.8,
-   "title": "Operations Engineer, Spaceport Facilities",
-   "uid": "greenhouse:spacex:8880818002"
-  },
-  {
-   "closed_at": 1792028391,
-   "company": "spacex",
-   "hours_open": 991.0,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1792028391,
-   "company": "spacex",
-   "hours_open": 992.7,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1792038627,
-   "company": "saronic",
-   "hours_open": 157.8,
-   "title": "IT Production Support Technician ",
-   "uid": "ashby:saronic:903ae290-30cc-4874-968d-3c530317c911"
-  },
-  {
-   "closed_at": 1792038627,
-   "company": "Stellar Software Solutions",
-   "hours_open": 117.7,
-   "title": "network infrastructure engineer",
-   "uid": "jobbank:infrastructure analyst:50462911"
-  },
-  {
-   "closed_at": 1792038627,
-   "company": "Richard et Levesque",
-   "hours_open": 319.4,
-   "title": "Web developer",
-   "uid": "jobbank:developpeur junior:50401772"
-  },
-  {
-   "closed_at": 1792038627,
-   "company": "snowflake",
-   "hours_open": 992.5,
-   "title": "Infrastructure Engineer, Observe by Snowflake",
-   "uid": "ashby:snowflake:143a2248-564b-4cfa-85f5-d47bac911d74"
-  },
-  {
-   "closed_at": 1792038627,
-   "company": "spacex",
-   "hours_open": 992.6,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1792038627,
-   "company": "spacex",
-   "hours_open": 995.5,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1792041134,
-   "company": "NVIDIA",
-   "hours_open": 122.9,
-   "title": "C++ Software Engineer New Grad - Infrastructure Tools",
-   "uid": "simplify:listings:82fb089b-e0cb-414d-9953-9f5d35538486"
-  },
-  {
-   "closed_at": 1792041134,
-   "company": "Amazon",
-   "hours_open": 60.3,
-   "title": "Software Development Engineer, Amazon Connect InterApps (AWS)",
-   "uid": "amazon:amazon:10575952"
-  },
-  {
-   "closed_at": 1792041832,
-   "company": "SirenOpt",
-   "hours_open": 3.7,
-   "title": "Software Engineer - Early Career - C++ & Systems",
-   "uid": "simplify:listings:a254c38f-5fae-467c-9cff-3dd2e72094f5"
-  },
-  {
-   "closed_at": 1792041832,
-   "company": "brillio-2",
-   "hours_open": 48.3,
-   "title": "IVR QA Automation Engineer- R01568701",
-   "uid": "lever:brillio-2:dfe16c41-6927-4935-8148-654f3be3cf19"
-  },
-  {
-   "closed_at": 1792041832,
-   "company": "Belle Graphics Inc.",
-   "hours_open": 181.0,
-   "title": "installation and repair technician - telecommunications",
-   "uid": "jobbank:telecommunications analyst:50200449"
-  },
-  {
-   "closed_at": 1792042421,
-   "company": "Stellar Software Solutions",
-   "hours_open": 128.3,
-   "title": "network infrastructure engineer",
-   "uid": "jobbank:specialiste infrastructure:50462911"
-  },
-  {
-   "closed_at": 1792042421,
-   "company": "Bullet Trade Services",
-   "hours_open": 166.4,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50450738"
-  },
-  {
-   "closed_at": 1792042421,
-   "company": "Maarut",
-   "hours_open": 23.2,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:systems analyst:50492278"
-  },
-  {
-   "closed_at": 1792042421,
-   "company": "ADECCO",
-   "hours_open": 246.3,
-   "title": "instrumentation engineer",
-   "uid": "jobbank:scada:50422418"
-  },
-  {
-   "closed_at": 1792042421,
-   "company": "Maarut",
-   "hours_open": 118.8,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50465267"
-  },
-  {
-   "closed_at": 1792042421,
-   "company": "DPMSYSTEMS IT CONSULTING SERVICES",
-   "hours_open": 648.6,
-   "title": "information systems analyst - computer systems",
-   "uid": "jobbank:systems analyst:50311291"
-  },
-  {
-   "closed_at": 1792042421,
-   "company": "CarePartners",
-   "hours_open": 1.1,
-   "title": "network administrator",
-   "uid": "jobbank:network administrator:50500279"
-  },
-  {
-   "closed_at": 1792045638,
-   "company": "Bosch Group",
-   "hours_open": 11.5,
-   "title": "IoT Engineer Intern (Jakarta)",
-   "uid": "smartrecruiters:BoschGroup:744000155438299"
-  },
-  {
-   "closed_at": 1792045638,
-   "company": "Bosch Group",
-   "hours_open": 11.5,
-   "title": "IoT Engineer Intern (Batam)",
-   "uid": "smartrecruiters:BoschGroup:744000155438229"
-  },
-  {
-   "closed_at": 1792045638,
-   "company": "Stellar Software Solutions",
-   "hours_open": 119.7,
-   "title": "network infrastructure engineer",
-   "uid": "jobbank:infrastructure analyst:50462911"
-  },
-  {
-   "closed_at": 1792045638,
-   "company": "DPMSYSTEMS IT CONSULTING SERVICES",
-   "hours_open": 0.9,
-   "title": "information systems analyst - computer systems",
-   "uid": "jobbank:information systems analyst:50311291"
-  },
-  {
-   "closed_at": 1792045638,
-   "company": "dlb-associates",
-   "hours_open": 1008.0,
-   "title": "Engineer Intern 2027",
-   "uid": "rippling:dlb-associates:c6f48880-fb91-42ab-b4db-a3bcdfe55903"
-  },
-  {
-   "closed_at": 1792045638,
-   "company": "twitch",
-   "hours_open": 997.5,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1792045638,
-   "company": "spacex",
-   "hours_open": 997.5,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1792056106,
-   "company": "CANMEC",
-   "hours_open": 139.9,
-   "title": "Nous agrandissons l'équipe ON RECRUTE Technicien informatique",
-   "uid": "jobillico:technicien informatique:17600094"
-  },
-  {
-   "closed_at": 1792056106,
-   "company": "Lexia Communications Inc.",
-   "hours_open": 346.7,
-   "title": "computer programmer",
-   "uid": "jobbank:junior programmer:50398942"
-  },
-  {
-   "closed_at": 1792056106,
-   "company": "ServiceNow",
-   "hours_open": 157.1,
-   "title": " AVP Technical Sales Leader – Identity COE",
-   "uid": "smartrecruiters:ServiceNow:744000154486659"
-  },
-  {
-   "closed_at": 1792056106,
-   "company": "Precision IT Consulting INC",
-   "hours_open": 880.2,
-   "title": "computer network technician",
-   "uid": "jobbank:linux administrator:50163764"
-  },
-  {
-   "closed_at": 1792056106,
-   "company": "Atria Group",
-   "hours_open": 1037.0,
-   "title": "Entry Level ASP.NET programmer",
-   "uid": "simplify:listings:454b7531-1c3f-4d4c-a1c8-7fdefccc4258"
-  },
-  {
-   "closed_at": 1792058413,
-   "company": "DellFor Technologies",
-   "hours_open": 1037.7,
-   "title": "Entry-Level Java Developer",
-   "uid": "simplify:listings:b95085e2-8361-490f-ab61-0871fb589712"
-  },
-  {
-   "closed_at": 1792058413,
-   "company": "DellFor Technologies",
-   "hours_open": 1037.7,
-   "title": "Entry-Level Java Developer - Java",
-   "uid": "simplify:listings:aaf52812-d0ae-44a7-988a-4919b6c8e74c"
-  },
-  {
-   "closed_at": 1792058413,
-   "company": "DellFor Technologies",
-   "hours_open": 1037.7,
-   "title": "Entry Level .Net Developer",
-   "uid": "simplify:listings:e25c595d-2be1-4931-921c-4ed75b55ddfe"
-  },
-  {
-   "closed_at": 1792058413,
-   "company": "RTX",
-   "hours_open": 137.4,
-   "title": "Embedded Security Software Engineer 1",
-   "uid": "simplify:listings:5c0127a5-b356-4cb2-9c05-080f60e3dfeb"
-  },
-  {
-   "closed_at": 1792059019,
-   "company": "ag",
-   "hours_open": 29.0,
-   "title": "Data acquisition systems and solutions engineer",
-   "uid": "workday:ag.wd3/Airbus:Data-acquisition-systems-and-solutions-engineer_JR10430178-1"
-  },
-  {
-   "closed_at": 1792059019,
-   "company": "Belle Graphics Inc.",
-   "hours_open": 185.8,
-   "title": "installation and repair technician - telecommunications",
-   "uid": "jobbank:telecommunications analyst:50200449"
-  },
-  {
-   "closed_at": 1792059019,
-   "company": "DellFor Technologies",
-   "hours_open": 0.2,
-   "title": "Entry Level .Net Developer",
-   "uid": "simplify:listings:ecb0c9cf-1170-4e73-ba89-5eabe76a1168"
-  },
-  {
-   "closed_at": 1792059511,
-   "company": "CANMEC",
-   "hours_open": 140.8,
-   "title": "Nous agrandissons l'équipe ON RECRUTE Technicien informatique",
-   "uid": "jobillico:technicien informatique:17600094"
-  },
-  {
-   "closed_at": 1792059511,
-   "company": "bristolmyerssquibb",
-   "hours_open": 154.0,
-   "title": "2027 Summer Internship Product Development",
-   "uid": "workday:bristolmyerssquibb.wd5/bms:XMLNAME-2027-Summer-Internship-Product-Development_R1607364"
-  },
-  {
-   "closed_at": 1792059511,
-   "company": "boeing",
-   "hours_open": 12.7,
-   "title": "Entry Level Software Engineer–Developer (Development)",
-   "uid": "workday:boeing.wd1/external_subsidiary:Entry-Level-Software-Engineer-Developer--Development-_JR2026522577"
-  },
-  {
-   "closed_at": 1792065211,
-   "company": "Dexcom",
-   "hours_open": 52.1,
-   "title": "Hardware Engineer 1",
-   "uid": "simplify:listings:9d4bdf3b-b23d-4858-80f0-a8d8279cdc65"
-  },
-  {
-   "closed_at": 1792065211,
-   "company": "Stellar Software Solutions",
-   "hours_open": 134.7,
-   "title": "network infrastructure engineer",
-   "uid": "jobbank:specialiste infrastructure:50462911"
-  },
-  {
-   "closed_at": 1792065211,
-   "company": "twitch",
-   "hours_open": 1000.0,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1792065211,
-   "company": "cox",
-   "hours_open": 893.9,
-   "title": "Software Engineering Intern - Summer 2027 (Atlanta, GA)",
-   "uid": "workday:cox.wd1/Cox_External_Career_Site_1:Software-Engineering-Intern---Summer-2027--Atlanta--GA-_R202682166"
-  },
-  {
-   "closed_at": 1792065211,
-   "company": "cadence",
-   "hours_open": 1027.0,
-   "title": "Adams MultiBody Dynamics Application Software Developer (Recent Grad 2026)",
-   "uid": "workday:cadence.wd1/External_Careers:Adams-MultiBody-Dynamics-Application-Software-Developer--Recent-Grad-2026-_R55788"
-  },
-  {
-   "closed_at": 1792065211,
-   "company": "RTX",
-   "hours_open": 139.3,
-   "title": "Full Stack Software Engineer 1",
-   "uid": "simplify:listings:abf307ea-f290-4086-8c5b-8986750b9083"
-  },
-  {
-   "closed_at": 1792065211,
-   "company": "RTX",
-   "hours_open": 180.0,
-   "title": "Embedded Software Developer 1",
-   "uid": "simplify:listings:e5467def-2b54-4bda-90a0-cdb22e92de7f"
-  },
-  {
-   "closed_at": 1792073799,
-   "company": "gitlab",
-   "hours_open": 14.8,
-   "title": "Cloud Platform Engineer",
-   "uid": "greenhouse:gitlab:8889193002"
-  },
-  {
-   "closed_at": 1792073799,
-   "company": "andurilindustries",
-   "hours_open": 690.9,
-   "title": "IT Systems Engineer",
-   "uid": "greenhouse:andurilindustries:5239480007"
-  },
-  {
-   "closed_at": 1792073799,
-   "company": "globalhr",
-   "hours_open": 67.3,
-   "title": "Software Engineer Intern",
-   "uid": "workday:globalhr.wd5/Private_Posting_No_TMP:Software-Engineer-Intern_01874282-1"
-  },
-  {
-   "closed_at": 1792073799,
-   "company": "highmarkhealth",
-   "hours_open": 67.3,
-   "title": "Associate Software Engineer",
-   "uid": "workday:highmarkhealth.wd1/highmark:Associate-Software-Engineer_J288021-1"
-  },
-  {
-   "closed_at": 1792073799,
-   "company": "LogiSense Corporation",
-   "hours_open": 27.7,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50493091"
-  },
-  {
-   "closed_at": 1792073799,
-   "company": "Bullet Trade Services",
-   "hours_open": 4.9,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50503212"
-  },
-  {
-   "closed_at": 1792073799,
-   "company": "ADECCO",
-   "hours_open": 4.9,
-   "title": "instrumentation engineer",
-   "uid": "jobbank:scada:50502768"
-  },
-  {
-   "closed_at": 1792073799,
-   "company": "opentable",
-   "hours_open": 993.4,
-   "title": "System Engineer I",
-   "uid": "greenhouse:opentable:8644093002"
-  },
-  {
-   "closed_at": 1792073799,
-   "company": "evergreenix",
-   "hours_open": 15.7,
-   "title": "Software Engineer I",
-   "uid": "workday:evergreenix.wd1/external-careers2:Software-Engineer-I_JR500749-1"
-  },
-  {
-   "closed_at": 1792073799,
-   "company": "dxctechnology",
-   "hours_open": 625.0,
-   "title": "Junior Java Developer (Mandarin)",
-   "uid": "workday:dxctechnology.wd1/dxcjobs:Junior-Java-Developer--Mandarin-_51584524"
-  },
-  {
-   "closed_at": 1792073799,
-   "company": "haier",
-   "hours_open": 1008.7,
-   "title": "Software Engineering Co-op_Summer 2027",
-   "uid": "workday:haier.wd3/ge_appliances:Software-Engineering-Co-op-Summer-2027_REQ-26427"
-  },
-  {
-   "closed_at": 1792073799,
-   "company": "entegris",
-   "hours_open": 834.2,
-   "title": "Cybersecurity Engineer Co-Op",
-   "uid": "workday:entegris.wd1/entegriscareers:Cybersecurity-Engineer-Co-Op_REQ-14472-1"
-  },
-  {
-   "closed_at": 1792073799,
-   "company": "spacex",
-   "hours_open": 1005.3,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1792073799,
-   "company": "spacex",
-   "hours_open": 1005.0,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1792073799,
-   "company": "andurilindustries",
-   "hours_open": 1003.6,
-   "title": "Integration and Test Engineer",
-   "uid": "greenhouse:andurilindustries:5179798007"
-  },
-  {
-   "closed_at": 1792073799,
-   "company": "spacex",
-   "hours_open": 1003.6,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1792076112,
-   "company": "databricks",
-   "hours_open": 21.8,
-   "title": "Solutions Engineer",
-   "uid": "greenhouse:databricks:8886384002"
-  },
-  {
-   "closed_at": 1792076112,
-   "company": "Stellar Software Solutions",
-   "hours_open": 128.1,
-   "title": "network infrastructure engineer",
-   "uid": "jobbank:infrastructure analyst:50462911"
-  },
-  {
-   "closed_at": 1792076112,
-   "company": "kyndryl",
-   "hours_open": 175.6,
-   "title": "Kyndryl Early Career Program - Systems Administration, Mainframe",
-   "uid": "workday:kyndryl.wd5/KyndrylEarlyCareers:Kyndryl-Early-Career-Program---Systems-Administration--Mainframe_R-69926"
-  },
-  {
-   "closed_at": 1792076112,
-   "company": "intel",
-   "hours_open": 843.1,
-   "title": "Operations Research Engineer Intern",
-   "uid": "workday:intel.wd1/external:Operations-Research-Engineer-Intern_JR0286945"
-  },
-  {
-   "closed_at": 1792076112,
-   "company": "marvell",
-   "hours_open": 16.3,
-   "title": "Firmware Engineer Intern, MS - Summer 2027",
-   "uid": "workday:marvell.wd1/MarvellCareers2:Firmware-Engineer-Intern--MS---Summer-2027_2604513-1"
-  },
-  {
-   "closed_at": 1792076112,
-   "company": "marvell",
-   "hours_open": 351.1,
-   "title": "Firmware Engineer Intern, BS - Summer 2027",
-   "uid": "workday:marvell.wd1/MarvellCareers2:Firmware-Engineer-Intern--BS---Summer-2027_2604461-1"
-  },
-  {
-   "closed_at": 1792076112,
-   "company": "marvell",
-   "hours_open": 380.3,
-   "title": "AI-Native Development Platform Engineer Intern, MS - Summer 2027",
-   "uid": "workday:marvell.wd1/MarvellCareers2:AI-Native-Development-Platform-Engineer-Intern--MS---Summer-2027_2603848"
-  },
-  {
-   "closed_at": 1792076112,
-   "company": "icf",
-   "hours_open": 366.5,
-   "title": "2027 Summer Intern, AI Engineer (Reston, VA)",
-   "uid": "workday:icf.wd5/icfexternal_career_site:XMLNAME-2027-Summer-Intern--AI-Engineer--Reston--VA-_R2603312-1"
-  },
-  {
-   "closed_at": 1792076112,
-   "company": "hp",
-   "hours_open": 45.7,
-   "title": "Presales Technical Consultant, Print & Solutions – NWAI",
-   "uid": "workday:hp.wd5/EXTEU-AC-CareerSite:Presales-Technical-Consultant--Print---Solutions---NWAI_3168410"
-  },
-  {
-   "closed_at": 1792076112,
-   "company": "hp",
-   "hours_open": 16.3,
-   "title": "Presales Technical Consultant",
-   "uid": "workday:hp.wd5/externalcareersite:Presales-Technical-Consultant_3168177-1"
-  },
-  {
-   "closed_at": 1792076112,
-   "company": "kla",
-   "hours_open": 753.8,
-   "title": "Software Engineering Intern",
-   "uid": "workday:kla.wd1/annarbor:Software-Engineering-Intern_2531653"
-  },
-  {
-   "closed_at": 1792076519,
-   "company": "ngc",
-   "hours_open": 712.0,
-   "title": "2027 Cyber Software Engineer Intern - Cincinnati OH",
-   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Cyber-Software-Engineer-Intern---Cincinnati-OH_R10249186"
-  },
-  {
-   "closed_at": 1792076519,
-   "company": "nvidia",
-   "hours_open": 1027.4,
-   "title": "Formal Verification Engineer - New College Grad 2026",
-   "uid": "workday:nvidia.wd5/NVIDIAExternalCareerSite:Formal-Verification-Engineer---New-College-Grad-2026_JR2020837"
-  },
-  {
-   "closed_at": 1792076519,
-   "company": "Arya Health",
-   "hours_open": 1024.0,
-   "title": "software development programmer",
-   "uid": "jobbank:junior programmer:50148592"
-  },
-  {
-   "closed_at": 1792076519,
-   "company": "ncr",
-   "hours_open": 924.0,
-   "title": "Sales Engineer – Atlanta Demonstration Lab",
-   "uid": "workday:ncr.wd1/ext_us:Sales-Engineer---Atlanta-Demonstration-Lab_R0157349-1"
-  },
-  {
-   "closed_at": 1792076519,
-   "company": "nvidia",
-   "hours_open": 15.6,
-   "title": "ASIC Verification Engineer - New College Grad 2026",
-   "uid": "workday:nvidia.wd5/NVIDIAExternalCareerSite:ASIC-Verification-Engineer---New-College-Grad-2026_JR2012573"
-  },
-  {
-   "closed_at": 1792077007,
-   "company": "salesforce",
-   "hours_open": 710.9,
-   "title": "Business Development Associate, Early Career",
-   "uid": "workday:salesforce.wd12/External_Career_Site:Business-Development-Associate_JR347430-1"
-  },
-  {
-   "closed_at": 1792077007,
-   "company": "twitch",
-   "hours_open": 1006.2,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1792077007,
-   "company": "relx",
-   "hours_open": 1025.2,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - January)",
-   "uid": "workday:relx.wd3/RiskSolutions:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617"
-  },
-  {
-   "closed_at": 1792077007,
-   "company": "relx",
-   "hours_open": 1025.2,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - June)",
-   "uid": "workday:relx.wd3/RiskSolutions:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-1"
-  },
-  {
-   "closed_at": 1792077007,
-   "company": "relx",
-   "hours_open": 1025.2,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Boca Raton - June)",
-   "uid": "workday:relx.wd3/RiskSolutions:Tech-Accelerate-Graduate-Program---Software-Engineer--Boca-Raton---June-_R116023-2"
-  },
-  {
-   "closed_at": 1792077007,
-   "company": "spacex",
-   "hours_open": 1003.3,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1792079350,
-   "company": "Stellar Software Solutions",
-   "hours_open": 138.6,
-   "title": "network infrastructure engineer",
-   "uid": "jobbank:specialiste infrastructure:50462911"
-  },
-  {
-   "closed_at": 1792079350,
-   "company": "trimedx",
-   "hours_open": 15.2,
-   "title": "Imaging Engineer I",
-   "uid": "workday:trimedx.wd1/TMX:Imaging-Engineer-I_R15129"
-  },
-  {
-   "closed_at": 1792079350,
-   "company": "spacex",
-   "hours_open": 886.7,
-   "title": "Telecommunications Specialist",
-   "uid": "greenhouse:spacex:8688026002"
-  },
-  {
-   "closed_at": 1792079350,
-   "company": "spacex",
-   "hours_open": 1006.9,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1792079350,
-   "company": "spacex",
-   "hours_open": 1006.9,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1792088688,
-   "company": "Analog Devices",
-   "hours_open": 18.9,
-   "title": "Associate Software Engineer",
-   "uid": "simplify:listings:5213f441-13c0-44bc-b8b9-3aa1d5e0a19b"
-  },
-  {
-   "closed_at": 1792088688,
-   "company": "Abba Inn Gower House",
-   "hours_open": 50.3,
-   "title": "computer programmer",
-   "uid": "jobbank:junior programmer:50484857"
-  },
-  {
-   "closed_at": 1792088688,
-   "company": "twitch",
-   "hours_open": 25.3,
-   "title": "Software Engineer I",
-   "uid": "greenhouse:twitch:8887222002"
-  },
-  {
-   "closed_at": 1792088688,
-   "company": "alta-ares",
-   "hours_open": 215.3,
-   "title": "Flight Test Engineer",
-   "uid": "ashby:alta-ares:567c1c2d-c83c-4bb1-aae8-bc630c932050"
-  },
-  {
-   "closed_at": 1792088688,
-   "company": "elevenlabs",
-   "hours_open": 258.8,
-   "title": "Enterprise Solutions Engineer - Greece",
-   "uid": "ashby:elevenlabs:d05779a0-51da-417f-9921-39be5271402a"
-  },
-  {
-   "closed_at": 1792088688,
-   "company": "Stellar Software Solutions",
-   "hours_open": 131.6,
-   "title": "network infrastructure engineer",
-   "uid": "jobbank:infrastructure analyst:50462911"
-  },
-  {
-   "closed_at": 1792088688,
-   "company": "Richard et Levesque",
-   "hours_open": 13.9,
-   "title": "Web developer",
-   "uid": "jobbank:programmeur junior:50401772"
-  },
-  {
-   "closed_at": 1792088688,
-   "company": "Town of Qualicum Beach",
-   "hours_open": 329.6,
-   "title": "geographic information systems (gis) analyst",
-   "uid": "jobbank:information systems analyst:50406694"
-  },
-  {
-   "closed_at": 1792088688,
-   "company": "Amazon",
-   "hours_open": 304.1,
-   "title": "Software Development Engineer (SDE2), AWS",
-   "uid": "amazon:amazon:10568432"
-  },
-  {
-   "closed_at": 1792088688,
-   "company": "Amazon",
-   "hours_open": 25.3,
-   "title": "Software Development Engineer, AWS Cognito, AWS Cognito",
-   "uid": "amazon:amazon:10578719"
-  },
-  {
-   "closed_at": 1792088688,
-   "company": "Amazon",
-   "hours_open": 9.1,
-   "title": "Software Development Engineer, AWS Neuron, Annapurna Labs",
-   "uid": "amazon:amazon:10579585"
-  },
-  {
-   "closed_at": 1792088688,
-   "company": "asteraearlycareer2027",
-   "hours_open": 211.3,
-   "title": "Hardware Lab Engineer Intern",
-   "uid": "greenhouse:asteraearlycareer2027:4729020005"
-  },
-  {
-   "closed_at": 1792088688,
-   "company": "twitch",
-   "hours_open": 1006.5,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1792088688,
-   "company": "impact",
-   "hours_open": 1009.5,
-   "title": "Software Engineer",
-   "uid": "greenhouse:impact:8636977002"
-  },
-  {
-   "closed_at": 1792088688,
-   "company": "10alabs",
-   "hours_open": 1002.5,
-   "title": "Cybersecurity Engineer",
-   "uid": "greenhouse:10alabs:4330885009"
-  },
-  {
-   "closed_at": 1792088688,
-   "company": "Hewlett Packard Enterprise",
-   "hours_open": 19.8,
-   "title": "Electrical Hardware Engineer 1",
-   "uid": "simplify:listings:05d54393-81ea-4ba1-b623-e1e0fc2e3bb2"
-  },
-  {
-   "closed_at": 1792088688,
-   "company": "applied",
-   "hours_open": 333.2,
-   "title": "Autonomy Integration Software Engineer",
-   "uid": "ashby:applied:5db42c47-dde8-44d6-9a93-5bcd83a829c7"
-  },
-  {
-   "closed_at": 1792088688,
-   "company": "accenturefederalservices",
-   "hours_open": 72.6,
-   "title": "Information Systems Security Engineer (ISSE)",
-   "uid": "greenhouse:accenturefederalservices:4719692006"
-  },
-  {
-   "closed_at": 1792088688,
-   "company": "spacex",
-   "hours_open": 1007.8,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1792088688,
-   "company": "accenturefederalservices",
-   "hours_open": 312.0,
-   "title": "Cloud Engineer",
-   "uid": "greenhouse:accenturefederalservices:4718456006"
-  },
-  {
-   "closed_at": 1792090592,
-   "company": "CANMEC",
-   "hours_open": 149.4,
-   "title": "Nous agrandissons l'équipe ON RECRUTE Technicien informatique",
-   "uid": "jobillico:technicien informatique:17600094"
-  },
-  {
-   "closed_at": 1792090592,
-   "company": "DPMSYSTEMS IT CONSULTING SERVICES",
-   "hours_open": 662.0,
-   "title": "information systems analyst - computer systems",
-   "uid": "jobbank:systems analyst:50311291"
-  },
-  {
-   "closed_at": 1792090592,
-   "company": "spacex",
-   "hours_open": 420.9,
-   "title": "Full Stack Software Engineer, Launch Software",
-   "uid": "greenhouse:spacex:8849598002"
-  },
-  {
-   "closed_at": 1792091020,
-   "company": "Richard et Levesque",
-   "hours_open": 333.9,
-   "title": "Web developer",
-   "uid": "jobbank:developpeur junior:50401772"
-  },
-  {
    "closed_at": 1792091020,
    "company": "Umano Medical",
    "hours_open": 889.9,
@@ -5599,8 +4500,1107 @@
    "hours_open": 1068.3,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "Fed IT",
+   "hours_open": 13.0,
+   "title": "network system administrator",
+   "uid": "jobbank:systems administrator:50522469"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "Match Point Solutions",
+   "hours_open": 18.7,
+   "title": "server administrator",
+   "uid": "jobbank:linux administrator:50521567"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "Aequilibrium Software Inc.",
+   "hours_open": 24.3,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50520710"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "ENERSYS INC.",
+   "hours_open": 33.5,
+   "title": "programmer analyst",
+   "uid": "jobbank:junior programmer:50515786"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "Great Lakes Group",
+   "hours_open": 23.6,
+   "title": "electrical controls engineer",
+   "uid": "jobbank:control systems analyst:50520784"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "SQUALUS GROUP",
+   "hours_open": 63.1,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50503603"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "NearSource",
+   "hours_open": 71.9,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50502098"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "Confédération des syndicats nationaux",
+   "hours_open": 57.9,
+   "title": "network administrator",
+   "uid": "jobbank:network administrator:50506681"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "Lancesoft",
+   "hours_open": 71.9,
+   "title": "software developer",
+   "uid": "jobbank:scada:50501896"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "Parent Organization",
+   "hours_open": 63.1,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50503610"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "CBHM International LTD.",
+   "hours_open": 72.9,
+   "title": "Web application developer",
+   "uid": "jobbank:developpeur junior:50500150"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "LE GROUPE ESTRIE-RICHELIEU, COMPAGNIE D'ASSURANCE",
+   "hours_open": 84.3,
+   "title": "full stack Web developer",
+   "uid": "jobbank:developpeur junior:50495497"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "Meubles RD - Candiac",
+   "hours_open": 45.9,
+   "title": "Web developer",
+   "uid": "jobbank:developpeur junior:50495527"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "Meubles RD",
+   "hours_open": 39.3,
+   "title": "Web developer",
+   "uid": "jobbank:developpeur junior:50495666"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "City of New Westminster",
+   "hours_open": 83.4,
+   "title": "systems analyst",
+   "uid": "jobbank:systems analyst:50496050"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "WORLDWIDE WE GROW LTD.",
+   "hours_open": 86.0,
+   "title": "computer systems analyst",
+   "uid": "jobbank:systems analyst:50495348"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "Bell Canada",
+   "hours_open": 91.6,
+   "title": "network administrator",
+   "uid": "jobbank:network administrator:50492673"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "SCLB",
+   "hours_open": 86.7,
+   "title": "installation and repair technician - telecommunications",
+   "uid": "jobbank:telecommunications analyst:50494678"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "PAS/PAMC",
+   "hours_open": 110.0,
+   "title": "programmer analyst",
+   "uid": "jobbank:junior programmer:50483827"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "CONNECT THE DOC",
+   "hours_open": 99.3,
+   "title": "Web application developer",
+   "uid": "jobbank:developpeur junior:50490722"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "Clientserver Tech Systems",
+   "hours_open": 104.2,
+   "title": "software developer",
+   "uid": "jobbank:developpeur junior:50487224"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "Eye On Technology Inc.",
+   "hours_open": 101.4,
+   "title": "network support analyst",
+   "uid": "jobbank:network analyst:50489786"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "Fed IT",
+   "hours_open": 157.0,
+   "title": "network administrator",
+   "uid": "jobbank:network administrator:50474803"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "Magna Mining Inc.",
+   "hours_open": 126.1,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:systems analyst:50480771"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "Englobe Corp.",
+   "hours_open": 190.6,
+   "title": "control systems engineer",
+   "uid": "jobbank:scada:50466344"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "YCSD Inc",
+   "hours_open": 207.9,
+   "title": "mobile applications developer",
+   "uid": "jobbank:developpeur junior:50459336"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "Nord Quantique",
+   "hours_open": 215.0,
+   "title": "Internet systems administrator",
+   "uid": "jobbank:systems administrator:50458829"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "McCain Foods",
+   "hours_open": 202.5,
+   "title": "software developer",
+   "uid": "jobbank:scada:50459946"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "First Class Realty Inc., Brokerage",
+   "hours_open": 196.5,
+   "title": "cloud administrator",
+   "uid": "jobbank:cloud administrator:50462597"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "Zirnhelt Timber Frames",
+   "hours_open": 196.5,
+   "title": "cloud administrator",
+   "uid": "jobbank:cloud administrator:50463645"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "Stellar Software Solutions",
+   "hours_open": 200.2,
+   "title": "network infrastructure engineer",
+   "uid": "jobbank:specialiste infrastructure:50462911"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "Canadian Light Source Inc.",
+   "hours_open": 225.3,
+   "title": "developer, software",
+   "uid": "jobbank:junior software developer:50454686"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "City of Regina",
+   "hours_open": 227.5,
+   "title": "programmer analyst",
+   "uid": "jobbank:junior programmer:50454320"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "Linear Transfer Automation Inc.",
+   "hours_open": 227.5,
+   "title": "programmer, systems",
+   "uid": "jobbank:junior programmer:50453620"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "EXO-C INC.",
+   "hours_open": 225.3,
+   "title": "computer programmer",
+   "uid": "jobbank:junior programmer:50454780"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "XYZ STUDIO LTD.",
+   "hours_open": 222.7,
+   "title": "Web developer",
+   "uid": "jobbank:developpeur junior:50456218"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "HYDRO-QUEBEC",
+   "hours_open": 230.8,
+   "title": "database developer",
+   "uid": "jobbank:developpeur junior:50452722"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "HYDRO-QUEBEC",
+   "hours_open": 225.1,
+   "title": "network system administrator",
+   "uid": "jobbank:systems administrator:50455634"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "HAFMAN CONSULTING GROUP INC.",
+   "hours_open": 230.6,
+   "title": "information systems quality assurance analyst",
+   "uid": "jobbank:systems analyst:50453138"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "CPR Cell Phone Repair St.Catherines",
+   "hours_open": 225.2,
+   "title": "telecommunications equipment technician",
+   "uid": "jobbank:telecommunications analyst:50455460"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "DLGL TECHNOLOGIES CORPORATION",
+   "hours_open": 255.5,
+   "title": "developer, software",
+   "uid": "jobbank:developpeur junior:50444616"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "Superior Property Management",
+   "hours_open": 249.6,
+   "title": "network system administrator",
+   "uid": "jobbank:systems administrator:50447420"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "CDW",
+   "hours_open": 95.0,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:systems analyst:50492410"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "Maarut",
+   "hours_open": 71.9,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:systems analyst:50501627"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "Thompson-Nicola Regional District",
+   "hours_open": 245.5,
+   "title": "geographic information systems (gis) analyst",
+   "uid": "jobbank:information systems analyst:50449056"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "Ministère des Ressources naturelles et des Forêts",
+   "hours_open": 253.5,
+   "title": "geographic information systems (gis) analyst",
+   "uid": "jobbank:information systems analyst:50445353"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "AWC Process Solutions Ltd.",
+   "hours_open": 230.8,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:scada:50451749"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "Subcool Mechanical Inc",
+   "hours_open": 253.0,
+   "title": "cloud administrator",
+   "uid": "jobbank:cloud administrator:50445878"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "Chlyn Safety Services Ltd.",
+   "hours_open": 249.6,
+   "title": "cloud administrator",
+   "uid": "jobbank:cloud administrator:50447592"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "La Corporation d'entretien prédictif",
+   "hours_open": 278.9,
+   "title": "network system administrator",
+   "uid": "jobbank:systems administrator:50437037"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "Solutions GA",
+   "hours_open": 276.7,
+   "title": "network administrator",
+   "uid": "jobbank:network administrator:50437419"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "BoldMAC Ltd",
+   "hours_open": 274.3,
+   "title": "control systems engineer",
+   "uid": "jobbank:scada:50439264"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "ALLCOMM CABLING INC.",
+   "hours_open": 253.0,
+   "title": "telecommunications technician",
+   "uid": "jobbank:telecommunications analyst:50438575"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "Kraft Berger LLP",
+   "hours_open": 294.2,
+   "title": "network administrator",
+   "uid": "jobbank:network administrator:50430199"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "Study 2020 Consulting INC",
+   "hours_open": 309.2,
+   "title": "network security administrator",
+   "uid": "jobbank:network administrator:50424797"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "SaskGaming",
+   "hours_open": 300.2,
+   "title": "service desk analyst",
+   "uid": "jobbank:infrastructure analyst:50426114"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "City of Kelowna",
+   "hours_open": 293.2,
+   "title": "business systems analyst",
+   "uid": "jobbank:infrastructure analyst:50431917"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "City of Calgary",
+   "hours_open": 296.7,
+   "title": "marine systems engineer",
+   "uid": "jobbank:scada:50428376"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "CLOO Imaging Solutions",
+   "hours_open": 320.9,
+   "title": "cloud administrator",
+   "uid": "jobbank:cloud administrator:50422012"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "Media Resources",
+   "hours_open": 339.7,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50418314"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "Bell Canada",
+   "hours_open": 0.2,
+   "title": "systems analyst",
+   "uid": "jobbank:systems analyst:50525715"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "SimpleK division de ASSA ABLOY High Security Group Inc.",
+   "hours_open": 374.2,
+   "title": "developer, software",
+   "uid": "jobbank:junior software developer:50410122"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "T&T Supermarket Inc",
+   "hours_open": 367.0,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50412133"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "Profit Solutions International Inc.",
+   "hours_open": 371.0,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50410403"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "Future Electronics",
+   "hours_open": 376.3,
+   "title": "Java programmer",
+   "uid": "jobbank:junior programmer:50409321"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "Future Electronics",
+   "hours_open": 371.0,
+   "title": "front-end developer",
+   "uid": "jobbank:developpeur junior:50409587"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "Karmakarah Technologies Inc",
+   "hours_open": 367.0,
+   "title": "systems analyst",
+   "uid": "jobbank:systems analyst:50412027"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "PCL Construction",
+   "hours_open": 279.8,
+   "title": "network administrator",
+   "uid": "jobbank:network administrator:50435424"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "Future Electronics",
+   "hours_open": 375.7,
+   "title": "network analyst",
+   "uid": "jobbank:network analyst:50409591"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "UPSCALE TECHOFY INC",
+   "hours_open": 371.0,
+   "title": "cybersecurity analyst",
+   "uid": "jobbank:cybersecurity analyst:50411161"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "VicSquare Arcade",
+   "hours_open": 376.2,
+   "title": "electronic business (e-business) Web site developer",
+   "uid": "jobbank:programmeur junior:50406045"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "Groupe Biscuits Leclerc",
+   "hours_open": 393.5,
+   "title": "network system administrator",
+   "uid": "jobbank:systems administrator:50404729"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "T&T Supermarket",
+   "hours_open": 397.1,
+   "title": "network system administrator",
+   "uid": "jobbank:systems administrator:50403133"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "Aldwych Consulting Ltd",
+   "hours_open": 90.9,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:systems analyst:50493270"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "St. Joseph's Continuing Care Centre of Sudbury",
+   "hours_open": 397.1,
+   "title": "network infrastructure engineer",
+   "uid": "jobbank:infrastructure analyst:50402681"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "Vale Base Metals",
+   "hours_open": 396.8,
+   "title": "business systems analyst",
+   "uid": "jobbank:infrastructure analyst:50403173"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "Equal Air",
+   "hours_open": 397.1,
+   "title": "information systems analyst - computer systems",
+   "uid": "jobbank:information systems analyst:50403078"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "Lexia Communications Inc.",
+   "hours_open": 414.8,
+   "title": "computer programmer",
+   "uid": "jobbank:junior programmer:50398942"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "Saskatchewan Liquor & Gaming Authority (SLGA)",
+   "hours_open": 95.9,
+   "title": "software developer",
+   "uid": "jobbank:junior programmer:50491568"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "Zencom",
+   "hours_open": 253.0,
+   "title": "telecommunications technician",
+   "uid": "jobbank:telecommunications analyst:50396357"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "FOP EXPERTS CONSEILS INC.",
+   "hours_open": 438.9,
+   "title": "information systems technical analyst",
+   "uid": "jobbank:information systems analyst:50392109"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "Auralarm Ltd.",
+   "hours_open": 253.0,
+   "title": "telecommunications technician",
+   "uid": "jobbank:telecommunications analyst:50391573"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "Sherwood Electromotion Inc",
+   "hours_open": 442.8,
+   "title": "network technical specialist",
+   "uid": "jobbank:analyste reseau:50391508"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "TECHSAVY INC.",
+   "hours_open": 253.0,
+   "title": "telecommunications technician",
+   "uid": "jobbank:telecommunications analyst:50383753"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "Scalable Systems",
+   "hours_open": 140.1,
+   "title": "cloud administrator",
+   "uid": "jobbank:cloud administrator:50477850"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "Vaisesika Consulting Inc.",
+   "hours_open": 535.4,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50368572"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "ADECCO",
+   "hours_open": 59.0,
+   "title": "instrumentation engineer",
+   "uid": "jobbank:scada:50504997"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "NOVIPRO",
+   "hours_open": 590.7,
+   "title": "information technology (it) system administrator",
+   "uid": "jobbank:systems administrator:50348569"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "Eco Medical Equipment",
+   "hours_open": 586.4,
+   "title": "cloud administrator",
+   "uid": "jobbank:cloud administrator:50349556"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "La Cartoucherie",
+   "hours_open": 589.9,
+   "title": "network support technician",
+   "uid": "jobbank:linux administrator:50348283"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "Trimoksha Technologies",
+   "hours_open": 610.1,
+   "title": "information systems analyst - computer systems",
+   "uid": "jobbank:systems analyst:50342697"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "Blitz TI",
+   "hours_open": 613.9,
+   "title": "network administrator",
+   "uid": "jobbank:network administrator:50339477"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "Xiingo",
+   "hours_open": 609.5,
+   "title": "computer network technician",
+   "uid": "jobbank:linux administrator:50343124"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "City of Calgary",
+   "hours_open": 255.5,
+   "title": "network administrator",
+   "uid": "jobbank:network administrator:50443952"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "Sienna Senior Living",
+   "hours_open": 132.5,
+   "title": "cloud administrator",
+   "uid": "jobbank:cloud administrator:50479397"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "Analyst Technical Solutions",
+   "hours_open": 627.7,
+   "title": "server administrator",
+   "uid": "jobbank:linux administrator:50335015"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "Apex Fibre Limited",
+   "hours_open": 253.0,
+   "title": "telecommunications equipment technician",
+   "uid": "jobbank:telecommunications analyst:50327086"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "Analyst Technical Solutions",
+   "hours_open": 696.7,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:systems analyst:50320313"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "Bell Canada",
+   "hours_open": 230.6,
+   "title": "analyst, computer systems",
+   "uid": "jobbank:analyste de systemes:50419044"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "YO AI Labs",
+   "hours_open": 45.9,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50511622"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "Marketvan",
+   "hours_open": 393.5,
+   "title": "Web developer",
+   "uid": "jobbank:junior programmer:50404579"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "twitch",
+   "hours_open": 1065.5,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "reddit",
+   "hours_open": 29.6,
+   "title": "Machine Learning Engineer",
+   "uid": "greenhouse:reddit:7131932"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "Techy Logs Software Inc",
+   "hours_open": 72.9,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50501195"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "Maarut",
+   "hours_open": 30.9,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50517346"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "Source Code",
+   "hours_open": 95.9,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:systems analyst:50491950"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "Appsys Consulting Inc.",
+   "hours_open": 230.6,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50453157"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "Nord Quantique",
+   "hours_open": 286.9,
+   "title": "developer, software",
+   "uid": "jobbank:junior software developer:50434695"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "BetterPro",
+   "hours_open": 294.2,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50430957"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "Source Code",
+   "hours_open": 45.9,
+   "title": "software developer",
+   "uid": "jobbank:entry level software developer:50512097"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "EXPERTISA SYSTÈMES INTÉGRÉS INC.",
+   "hours_open": 398.6,
+   "title": "network system administrator",
+   "uid": "jobbank:systems administrator:50401790"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "FOP EXPERTS CONSEILS INC.",
+   "hours_open": 392.3,
+   "title": "network system administrator",
+   "uid": "jobbank:systems administrator:50405422"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "FOP EXPERTS CONSEILS INC.",
+   "hours_open": 392.3,
+   "title": "network security analyst",
+   "uid": "jobbank:network analyst:50405420"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "F J Construction specialties ltd",
+   "hours_open": 438.9,
+   "title": "information systems analyst - computer systems",
+   "uid": "jobbank:systems analyst:50392352"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "FOP EXPERTS CONSEILS INC.",
+   "hours_open": 276.7,
+   "title": "programmer analyst",
+   "uid": "jobbank:junior programmer:50403800"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "360.Agency",
+   "hours_open": 610.1,
+   "title": "network system administrator",
+   "uid": "jobbank:systems administrator:50342628"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "TechSmash Inc.",
+   "hours_open": 729.4,
+   "title": "computer programmer",
+   "uid": "jobbank:junior programmer:50309180"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "DPMSYSTEMS IT CONSULTING SERVICES",
+   "hours_open": 71.9,
+   "title": "information systems analyst - computer systems",
+   "uid": "jobbank:information systems analyst:50311291"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "VIZDOM TECH ALBERTA LTD.",
+   "hours_open": 751.1,
+   "title": "network administrator",
+   "uid": "jobbank:network administrator:50302907"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "APT Consulting Limited",
+   "hours_open": 774.8,
+   "title": "information systems analyst - computer systems",
+   "uid": "jobbank:systems analyst:50295353"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "Turris",
+   "hours_open": 253.0,
+   "title": "rigger - telecommunications",
+   "uid": "jobbank:telecommunications analyst:50284117"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "SRS TECHNOLOGIES INC",
+   "hours_open": 873.6,
+   "title": "computer programmer",
+   "uid": "jobbank:junior programmer:50267927"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "Royal Alarms Limited",
+   "hours_open": 253.0,
+   "title": "telecommunications equipment technician",
+   "uid": "jobbank:telecommunications analyst:50268670"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "SYNCHRONIUM INNOVATIONS INC.",
+   "hours_open": 920.2,
+   "title": "cybersecurity analyst",
+   "uid": "jobbank:cybersecurity analyst:50253155"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "Horizon Canada Inc",
+   "hours_open": 253.0,
+   "title": "telecommunications technician",
+   "uid": "jobbank:telecommunications analyst:50237368"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "Belle Graphics Inc.",
+   "hours_open": 253.0,
+   "title": "installation and repair technician - telecommunications",
+   "uid": "jobbank:telecommunications analyst:50200449"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "SRS TECHNOLOGIES INC",
+   "hours_open": 1086.3,
+   "title": "systems programmer",
+   "uid": "jobbank:junior programmer:50178388"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "Aarorn Technologies Inc.",
+   "hours_open": 948.3,
+   "title": "information systems analyst - computer systems",
+   "uid": "jobbank:information systems analyst:50163724"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "Arya Health",
+   "hours_open": 1086.3,
+   "title": "software development programmer",
+   "uid": "jobbank:junior programmer:50148592"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "WINDOW MART",
+   "hours_open": 948.3,
+   "title": "network system administrator",
+   "uid": "jobbank:systems administrator:50121823"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "Lakeland Roman Catholic Separate School Division",
+   "hours_open": 607.1,
+   "title": "computer systems analyst",
+   "uid": "jobbank:control systems analyst:50064831"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "CloudLabs",
+   "hours_open": 948.3,
+   "title": "systems analyst",
+   "uid": "jobbank:systems analyst:50053328"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "Maison Russet inc",
+   "hours_open": 1086.3,
+   "title": "computer programmer",
+   "uid": "jobbank:junior programmer:50000629"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "NETECH CABLING INC.",
+   "hours_open": 253.0,
+   "title": "telecommunications technician",
+   "uid": "jobbank:telecommunications analyst:49985402"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "Miratech",
+   "hours_open": 948.3,
+   "title": "information systems analyst - computer systems",
+   "uid": "jobbank:information systems analyst:49969689"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "Hi-Tech Solution",
+   "hours_open": 253.0,
+   "title": "telecommunications service tester",
+   "uid": "jobbank:telecommunications analyst:49955305"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "GQ TECHNOLOGY TRADING INC",
+   "hours_open": 253.0,
+   "title": "telecommunications technician",
+   "uid": "jobbank:telecommunications analyst:49947219"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "Forward Insurance Managers Ltd.",
+   "hours_open": 104.6,
+   "title": "Web programmer",
+   "uid": "jobbank:junior programmer:50486949"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "Visfuture Inc.",
+   "hours_open": 948.3,
+   "title": "cybersecurity analyst",
+   "uid": "jobbank:cybersecurity analyst:49890153"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "Logesco Informatique",
+   "hours_open": 166.8,
+   "title": "network administrator",
+   "uid": "jobbank:network administrator:50473074"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "Mardel 3PL Inc.",
+   "hours_open": 948.3,
+   "title": "systems analyst",
+   "uid": "jobbank:systems analyst:49858708"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "Lax Kw'alaams Band",
+   "hours_open": 948.3,
+   "title": "network system administrator",
+   "uid": "jobbank:systems administrator:49812698"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "Brahman Techworks",
+   "hours_open": 253.0,
+   "title": "telecommunications technician",
+   "uid": "jobbank:telecommunications analyst:49780105"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "YOCHANA IT SOLUTIONS INC",
+   "hours_open": 35.2,
+   "title": "Java programmer",
+   "uid": "jobbank:junior programmer:50515517"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "Global Fleet Management Inc.",
+   "hours_open": 751.8,
+   "title": "information systems analyst - computer systems",
+   "uid": "jobbank:systems analyst:50302902"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "LHEIDLI T'ENNEH",
+   "hours_open": 948.3,
+   "title": "network system administrator",
+   "uid": "jobbank:systems administrator:49831486"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "Silaris Solutions Inc",
+   "hours_open": 296.7,
+   "title": "cybersecurity specialist",
+   "uid": "jobbank:specialiste infrastructure:50430052"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "GN Systems Inc",
+   "hours_open": 253.0,
+   "title": "telecommunications equipment technician",
+   "uid": "jobbank:telecommunications analyst:50404821"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "Advance Plus Tech Solutions Inc.",
+   "hours_open": 253.0,
+   "title": "telecommunications technician",
+   "uid": "jobbank:telecommunications analyst:50313582"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "Regime Solutions Inc.",
+   "hours_open": 946.7,
+   "title": "computer systems analyst",
+   "uid": "jobbank:systems analyst:50243696"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "BAASS Business Solutions Inc.",
+   "hours_open": 948.3,
+   "title": "computer systems analyst",
+   "uid": "jobbank:systems analyst:50201711"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "Princeton IT Services Inc",
+   "hours_open": 1086.3,
+   "title": "software development programmer",
+   "uid": "jobbank:junior programmer:50092595"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "Yupana Wireless Solutions Inc.",
+   "hours_open": 253.0,
+   "title": "telecommunications technician",
+   "uid": "jobbank:telecommunications analyst:50007886"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "Smartway Freight Systems Inc.",
+   "hours_open": 948.3,
+   "title": "network system administrator",
+   "uid": "jobbank:systems administrator:49967696"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "E-NET SOLUTIONS INC.",
+   "hours_open": 253.0,
+   "title": "telecommunications technician",
+   "uid": "jobbank:telecommunications analyst:49818659"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "spacex",
+   "hours_open": 1068.2,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1792301096,
+   "company": "spacex",
+   "hours_open": 1066.8,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
- "count": 812,
- "updated_at": 1792300363
+ "count": 957,
+ "updated_at": 1792301096
 }
