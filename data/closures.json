@@ -2,13 +2,6 @@
  "closed": [
   {
    "closed_at": 1792111440,
-   "company": "micron",
-   "hours_open": 166.1,
-   "title": "New College Grad - Process Integration Engineer",
-   "uid": "workday:micron.wd1/External:New-College-Grad---Process-Integration-Engineer_JR114667"
-  },
-  {
-   "closed_at": 1792111440,
    "company": "kyndryl",
    "hours_open": 185.4,
    "title": "Kyndryl Early Career Program - Systems Administration, Mainframe",
@@ -5599,8 +5592,15 @@
    "hours_open": 1086.5,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1792366841,
+   "company": "DPMSYSTEMS IT CONSULTING SERVICES",
+   "hours_open": 738.7,
+   "title": "information systems analyst - computer systems",
+   "uid": "jobbank:systems analyst:50311291"
   }
  ],
- "count": 802,
- "updated_at": 1792365894
+ "count": 801,
+ "updated_at": 1792366841
 }
