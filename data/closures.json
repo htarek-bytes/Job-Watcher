@@ -1,48 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792091449,
-   "company": "andurilindustries",
-   "hours_open": 1008.5,
-   "title": "Camera Test Engineer",
-   "uid": "greenhouse:andurilindustries:5196583007"
-  },
-  {
-   "closed_at": 1792091449,
-   "company": "spacex",
-   "hours_open": 1010.2,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1792092566,
-   "company": "Stellar Software Solutions",
-   "hours_open": 142.3,
-   "title": "network infrastructure engineer",
-   "uid": "jobbank:specialiste infrastructure:50462911"
-  },
-  {
-   "closed_at": 1792092566,
-   "company": "Richard et Levesque",
-   "hours_open": 15.0,
-   "title": "Web developer",
-   "uid": "jobbank:programmeur junior:50401772"
-  },
-  {
-   "closed_at": 1792092566,
-   "company": "YOCHANA IT SOLUTIONS INC",
-   "hours_open": 335.6,
-   "title": "Java programmer",
-   "uid": "jobbank:junior programmer:50404251"
-  },
-  {
-   "closed_at": 1792092566,
-   "company": "Regime Solutions Inc.",
-   "hours_open": 25.5,
-   "title": "computer systems analyst",
-   "uid": "jobbank:analyste de systemes:50243696"
-  },
-  {
    "closed_at": 1792092566,
    "company": "spacex",
    "hours_open": 1010.3,
@@ -5599,8 +5557,50 @@
    "hours_open": 1072.7,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1792316929,
+   "company": "Great Lakes Group",
+   "hours_open": 28.0,
+   "title": "electrical controls engineer",
+   "uid": "jobbank:control systems analyst:50520784"
+  },
+  {
+   "closed_at": 1792316929,
+   "company": "YO AI Labs",
+   "hours_open": 50.3,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50511622"
+  },
+  {
+   "closed_at": 1792316929,
+   "company": "trimble",
+   "hours_open": 954.7,
+   "title": "Software Engineering Intern",
+   "uid": "workday:trimble.wd1/TrimbleCareers:Software-Engineering-Intern_R57676"
+  },
+  {
+   "closed_at": 1792316929,
+   "company": "Global Fleet Management Inc.",
+   "hours_open": 756.2,
+   "title": "information systems analyst - computer systems",
+   "uid": "jobbank:systems analyst:50302902"
+  },
+  {
+   "closed_at": 1792316929,
+   "company": "Regime Solutions Inc.",
+   "hours_open": 951.1,
+   "title": "computer systems analyst",
+   "uid": "jobbank:systems analyst:50243696"
+  },
+  {
+   "closed_at": 1792316929,
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
+   "hours_open": 952.7,
+   "title": "Administrateur Réseau TI",
+   "uid": "jobillico:analyste reseau:17386419"
   }
  ],
- "count": 805,
- "updated_at": 1792316219
+ "count": 806,
+ "updated_at": 1792316929
 }
