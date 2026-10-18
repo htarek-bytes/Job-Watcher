@@ -1,27 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792103822,
-   "company": "RTX",
-   "hours_open": 1.0,
-   "title": "Software Engineer 1",
-   "uid": "simplify:listings:c3384287-a4cf-419c-9379-1dd42e8526d4"
-  },
-  {
-   "closed_at": 1792103822,
-   "company": "spacex",
-   "hours_open": 1010.7,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1792103822,
-   "company": "spacex",
-   "hours_open": 1013.7,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
    "closed_at": 1792108368,
    "company": "Umano Medical",
    "hours_open": 894.7,
@@ -5599,8 +5578,29 @@
    "hours_open": 1080.4,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1792345872,
+   "company": "Groupe Mario Coté",
+   "hours_open": 51.5,
+   "title": "Administrateur de réseau",
+   "uid": "jobillico:analyste reseau:17594211"
+  },
+  {
+   "closed_at": 1792345872,
+   "company": "Lakeland Roman Catholic Separate School Division",
+   "hours_open": 960.7,
+   "title": "computer systems analyst",
+   "uid": "jobbank:systems analyst:50064831"
+  },
+  {
+   "closed_at": 1792345872,
+   "company": "avav",
+   "hours_open": 409.5,
+   "title": "Software Engineering Intern",
+   "uid": "workday:avav.wd1/avav:Software-Engineering-Intern_8797"
   }
  ],
- "count": 810,
- "updated_at": 1792345073
+ "count": 803,
+ "updated_at": 1792345872
 }
