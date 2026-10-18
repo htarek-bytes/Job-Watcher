@@ -1,55 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792017336,
-   "company": "spacex",
-   "hours_open": 989.6,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1792017471,
-   "company": "micron",
-   "hours_open": 119.4,
-   "title": "New College Grad - CAD Engineer",
-   "uid": "workday:micron.wd1/External:New-College-Grad---CAD-Engineer_JR114754"
-  },
-  {
-   "closed_at": 1792017471,
-   "company": "micron",
-   "hours_open": 12.8,
-   "title": "New College Grad - Computer Engineer, Engineering Automation",
-   "uid": "workday:micron.wd1/External:New-College-Grad---Computer-Engineer--Engineering-Automation_JR103691"
-  },
-  {
-   "closed_at": 1792017471,
-   "company": "manulife",
-   "hours_open": 220.3,
-   "title": "Spring Co-op 2027 - Software Engineering, Security & Operations",
-   "uid": "workday:manulife.wd3/MFCJH_Jobs:Spring-Co-op-2027---Software-Engineering--Security---Operations_JR26091121"
-  },
-  {
-   "closed_at": 1792017471,
-   "company": "marvell",
-   "hours_open": 220.3,
-   "title": "Hardware Engineer Intern, BS - Summer 2027",
-   "uid": "workday:marvell.wd1/MarvellCareers:Hardware-Engineer-Intern--BS---Summer-2027_2604975-1"
-  },
-  {
-   "closed_at": 1792017471,
-   "company": "marvell",
-   "hours_open": 960.7,
-   "title": "Firmware Engineer Intern, MS - Summer 2027",
-   "uid": "workday:marvell.wd1/MarvellCareers:Firmware-Engineer-Intern--MS---Summer-2027_2604513"
-  },
-  {
-   "closed_at": 1792017471,
-   "company": "marvell",
-   "hours_open": 350.1,
-   "title": "AI-Native Development Platform Engineer Intern, MS - Summer 2027",
-   "uid": "workday:marvell.wd1/MarvellCareers:AI-Native-Development-Platform-Engineer-Intern--MS---Summer-2027_2603848-1"
-  },
-  {
    "closed_at": 1792017471,
    "company": "lthc",
    "hours_open": 511.6,
@@ -5599,8 +5550,57 @@
    "hours_open": 41.5,
    "title": "software developer",
    "uid": "jobbank:junior software developer:50511622"
+  },
+  {
+   "closed_at": 1792286748,
+   "company": "Logesco Informatique",
+   "hours_open": 944.3,
+   "title": "Administrateur de réseau",
+   "uid": "jobillico:analyste reseau:17188132"
+  },
+  {
+   "closed_at": 1792286748,
+   "company": "VY SYSTEMS CANADA INC.",
+   "hours_open": 438.0,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50391961"
+  },
+  {
+   "closed_at": 1792286748,
+   "company": "twitch",
+   "hours_open": 1064.5,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1792286748,
+   "company": "reddit",
+   "hours_open": 54.5,
+   "title": "Machine Learning Engineer",
+   "uid": "greenhouse:reddit:7131934"
+  },
+  {
+   "closed_at": 1792286748,
+   "company": "DPMSYSTEMS IT CONSULTING SERVICES",
+   "hours_open": 67.9,
+   "title": "information systems analyst - computer systems",
+   "uid": "jobbank:information systems analyst:50311291"
+  },
+  {
+   "closed_at": 1792286748,
+   "company": "spacex",
+   "hours_open": 1064.5,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1792286748,
+   "company": "spacex",
+   "hours_open": 1064.5,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 802,
- "updated_at": 1792285131
+ "count": 807,
+ "updated_at": 1792286748
 }
