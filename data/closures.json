@@ -1,34 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792110118,
-   "company": "spacex",
-   "hours_open": 1012.5,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1792110118,
-   "company": "spacex",
-   "hours_open": 1015.1,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1792110118,
-   "company": "caci",
-   "hours_open": 26.8,
-   "title": "Software Engineering Intern - Summer 2027",
-   "uid": "workday:caci.wd1/external:Software-Engineering-Intern---Summer-2027_332543"
-  },
-  {
-   "closed_at": 1792110409,
-   "company": "ecolab",
-   "hours_open": 188.5,
-   "title": "Automation Specialist",
-   "uid": "workday:ecolab.wd1/ecolab_external:Automation-Specialist_R00306935-1"
-  },
-  {
    "closed_at": 1792110409,
    "company": "evergreenix",
    "hours_open": 817.9,
@@ -5599,8 +5571,36 @@
    "hours_open": 1084.4,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1792359542,
+   "company": "twitch",
+   "hours_open": 1084.7,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1792359542,
+   "company": "DPMSYSTEMS IT CONSULTING SERVICES",
+   "hours_open": 88.1,
+   "title": "information systems analyst - computer systems",
+   "uid": "jobbank:information systems analyst:50311291"
+  },
+  {
+   "closed_at": 1792359542,
+   "company": "spacex",
+   "hours_open": 1081.7,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1792359542,
+   "company": "spacex",
+   "hours_open": 1084.4,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
   }
  ],
- "count": 806,
- "updated_at": 1792358607
+ "count": 804,
+ "updated_at": 1792359542
 }
