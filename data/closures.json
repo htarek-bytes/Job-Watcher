@@ -2,13 +2,6 @@
  "closed": [
   {
    "closed_at": 1792017336,
-   "company": "hp",
-   "hours_open": 29.4,
-   "title": "Presales Technical Consultant",
-   "uid": "workday:hp.wd5/EXTEU-AC-CareerSite:Presales-Technical-Consultant_3168177"
-  },
-  {
-   "closed_at": 1792017336,
    "company": "twitch",
    "hours_open": 989.6,
    "title": "Software Development Engineer, Security Platform",
@@ -5599,8 +5592,15 @@
    "hours_open": 1063.5,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1792284883,
+   "company": "Logesco Informatique",
+   "hours_open": 943.8,
+   "title": "Administrateur de réseau",
+   "uid": "jobillico:analyste reseau:17188132"
   }
  ],
- "count": 804,
- "updated_at": 1792284381
+ "count": 801,
+ "updated_at": 1792284883
 }
