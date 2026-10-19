@@ -1,48 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792159598,
-   "company": "CoStar Group",
-   "hours_open": 708.3,
-   "title": "Associate Software Engineer",
-   "uid": "simplify:listings:fec5c82d-3e40-46de-bad2-93a1b2669f21"
-  },
-  {
-   "closed_at": 1792159598,
-   "company": "spacex",
-   "hours_open": 1026.2,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1792159598,
-   "company": "spacex",
-   "hours_open": 1028.9,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1792159598,
-   "company": "spacex",
-   "hours_open": 1029.2,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1791905032,
-   "company": "ccf",
-   "hours_open": 610.1,
-   "title": "New Grad RN Resident – Med/Surg & Telemetry Unit",
-   "uid": "workday:ccf.wd1/ClevelandClinicCareers:New-Grad-RN-Resident---Med-Surg---Telemetry-Unit_350185"
-  },
-  {
-   "closed_at": 1791905032,
-   "company": "ccf",
-   "hours_open": 22.5,
-   "title": "New Grad RN Resident – Internal Medicine Telemetry",
-   "uid": "workday:ccf.wd1/ClevelandClinicCareers:New-Grad-RN-Resident---Internal-Medicine-Telemetry_356467"
-  },
-  {
    "closed_at": 1792159731,
    "company": "AECOM",
    "hours_open": 16.1,
@@ -5599,8 +5557,50 @@
    "hours_open": 977.2,
    "title": "Administrateur Réseau TI",
    "uid": "jobillico:analyste reseau:17386419"
+  },
+  {
+   "closed_at": 1792406721,
+   "company": "Groupe Mario Coté",
+   "hours_open": 68.4,
+   "title": "Administrateur de réseau",
+   "uid": "jobillico:analyste reseau:17594211"
+  },
+  {
+   "closed_at": 1792406721,
+   "company": "twitch",
+   "hours_open": 1097.8,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1792406721,
+   "company": "reddit",
+   "hours_open": 59.0,
+   "title": "Machine Learning Engineer",
+   "uid": "greenhouse:reddit:7131932"
+  },
+  {
+   "closed_at": 1792406721,
+   "company": "Source Code",
+   "hours_open": 6.1,
+   "title": "software developer",
+   "uid": "jobbank:entry level software developer:50511820"
+  },
+  {
+   "closed_at": 1792406721,
+   "company": "spacex",
+   "hours_open": 1094.9,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1792406721,
+   "company": "spacex",
+   "hours_open": 1096.1,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
- "count": 818,
- "updated_at": 1792405193
+ "count": 806,
+ "updated_at": 1792406721
 }
