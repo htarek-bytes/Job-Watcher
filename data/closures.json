@@ -2,13 +2,6 @@
  "closed": [
   {
    "closed_at": 1792117641,
-   "company": "GlobalFoundries",
-   "hours_open": 1054.1,
-   "title": "Tapeout Engineer New Grad",
-   "uid": "simplify:listings:a2b45a60-8ee3-4c7a-9e53-e95d40fb400c"
-  },
-  {
-   "closed_at": 1792117641,
    "company": "Intuit",
    "hours_open": 1054.1,
    "title": "Software Engineer 1",
@@ -5599,8 +5592,15 @@
    "hours_open": 1087.4,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1792373271,
+   "company": "DPMSYSTEMS IT CONSULTING SERVICES",
+   "hours_open": 740.5,
+   "title": "information systems analyst - computer systems",
+   "uid": "jobbank:systems analyst:50311291"
   }
  ],
- "count": 803,
- "updated_at": 1792369417
+ "count": 801,
+ "updated_at": 1792373271
 }
