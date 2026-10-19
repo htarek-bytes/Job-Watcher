@@ -2,27 +2,6 @@
  "closed": [
   {
    "closed_at": 1792117641,
-   "company": "relx",
-   "hours_open": 1038.8,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - January)",
-   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617-1"
-  },
-  {
-   "closed_at": 1792117641,
-   "company": "relx",
-   "hours_open": 1038.8,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - June)",
-   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-2"
-  },
-  {
-   "closed_at": 1792117641,
-   "company": "relx",
-   "hours_open": 1038.8,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Boca Raton - June)",
-   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Boca-Raton---June-_R116023"
-  },
-  {
-   "closed_at": 1792117641,
    "company": "GlobalFoundries",
    "hours_open": 1054.1,
    "title": "Tapeout Engineer New Grad",
@@ -5599,8 +5578,29 @@
    "hours_open": 967.0,
    "title": "computer systems analyst",
    "uid": "jobbank:systems analyst:50064831"
+  },
+  {
+   "closed_at": 1792369417,
+   "company": "Great Lakes Group",
+   "hours_open": 42.6,
+   "title": "electrical controls engineer",
+   "uid": "jobbank:control systems analyst:50520784"
+  },
+  {
+   "closed_at": 1792369417,
+   "company": "twitch",
+   "hours_open": 1087.4,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1792369417,
+   "company": "spacex",
+   "hours_open": 1087.4,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
   }
  ],
- "count": 811,
- "updated_at": 1792368468
+ "count": 803,
+ "updated_at": 1792369417
 }
