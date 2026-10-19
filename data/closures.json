@@ -2,20 +2,6 @@
  "closed": [
   {
    "closed_at": 1792117641,
-   "company": "Intuit",
-   "hours_open": 1054.1,
-   "title": "Software Engineer 1",
-   "uid": "simplify:listings:55a00559-28b9-41bc-b6dc-cda5714e2846"
-  },
-  {
-   "closed_at": 1792117641,
-   "company": "RTX",
-   "hours_open": 170.1,
-   "title": "Embedded Security Software Engineer 1",
-   "uid": "simplify:listings:9199e425-2144-4178-bac6-c9f1802f9f1e"
-  },
-  {
-   "closed_at": 1792117641,
    "company": "spacex",
    "hours_open": 1015.8,
    "title": "Software Engineer (Starship)",
@@ -5599,8 +5585,22 @@
    "hours_open": 740.5,
    "title": "information systems analyst - computer systems",
    "uid": "jobbank:systems analyst:50311291"
+  },
+  {
+   "closed_at": 1792374403,
+   "company": "DPMSYSTEMS IT CONSULTING SERVICES",
+   "hours_open": 92.2,
+   "title": "information systems analyst - computer systems",
+   "uid": "jobbank:information systems analyst:50311291"
+  },
+  {
+   "closed_at": 1792374403,
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
+   "hours_open": 968.6,
+   "title": "Administrateur Réseau TI",
+   "uid": "jobillico:analyste reseau:17386419"
   }
  ],
- "count": 801,
- "updated_at": 1792373271
+ "count": 802,
+ "updated_at": 1792374403
 }
