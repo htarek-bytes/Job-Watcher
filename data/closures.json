@@ -1,48 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792126310,
-   "company": "Belle Graphics Inc.",
-   "hours_open": 204.4,
-   "title": "installation and repair technician - telecommunications",
-   "uid": "jobbank:telecommunications analyst:50200449"
-  },
-  {
-   "closed_at": 1792126310,
-   "company": "spacex",
-   "hours_open": 1018.2,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1792126753,
-   "company": "Luminai",
-   "hours_open": 6.4,
-   "title": "Forward Deployed Engineer New Grad",
-   "uid": "simplify:listings:73d0508d-dd1e-4792-919a-46002cc966b1"
-  },
-  {
-   "closed_at": 1792126753,
-   "company": "decagon",
-   "hours_open": 182.4,
-   "title": "Software Engineer, Enterprise Product",
-   "uid": "ashby:decagon:0f41f8dc-a3c9-47e1-a3fe-5f137d83850e"
-  },
-  {
-   "closed_at": 1792126753,
-   "company": "twitch",
-   "hours_open": 1017.1,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1792126753,
-   "company": "spacex",
-   "hours_open": 1020.0,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
    "closed_at": 1792127048,
    "company": "twitch",
    "hours_open": 1020.1,
@@ -5599,8 +5557,50 @@
    "hours_open": 630.3,
    "title": "computer systems analyst",
    "uid": "jobbank:control systems analyst:50064831"
+  },
+  {
+   "closed_at": 1792386327,
+   "company": "Profit Solutions International Inc.",
+   "hours_open": 394.7,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50410403"
+  },
+  {
+   "closed_at": 1792386327,
+   "company": "Amazon",
+   "hours_open": 286.5,
+   "title": "Software Development Engineer, DynamoDB",
+   "uid": "amazon:amazon:10571455"
+  },
+  {
+   "closed_at": 1792386327,
+   "company": "twitch",
+   "hours_open": 1089.2,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1792386327,
+   "company": "reddit",
+   "hours_open": 82.1,
+   "title": "Machine Learning Engineer",
+   "uid": "greenhouse:reddit:7131934"
+  },
+  {
+   "closed_at": 1792386327,
+   "company": "spacex",
+   "hours_open": 1092.1,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1792386327,
+   "company": "spacex",
+   "hours_open": 1092.1,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 814,
- "updated_at": 1792384707
+ "count": 806,
+ "updated_at": 1792386327
 }
