@@ -1,111 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792180450,
-   "company": "relx",
-   "hours_open": 1053.9,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - June)",
-   "uid": "workday:relx.wd3/RiskSolutions:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-1"
-  },
-  {
-   "closed_at": 1792180450,
-   "company": "relx",
-   "hours_open": 1053.9,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Boca Raton - June)",
-   "uid": "workday:relx.wd3/RiskSolutions:Tech-Accelerate-Graduate-Program---Software-Engineer--Boca-Raton---June-_R116023-2"
-  },
-  {
-   "closed_at": 1792180450,
-   "company": "nvidia",
-   "hours_open": 28.9,
-   "title": "ASIC Verification Engineer - New College Grad 2027",
-   "uid": "workday:nvidia.wd5/NVIDIAExternalCareerSite:ASIC-Verification-Engineer---New-College-Grad-2027_JR2027719"
-  },
-  {
-   "closed_at": 1792180450,
-   "company": "verkada",
-   "hours_open": 952.9,
-   "title": "Federal Solutions Engineer",
-   "uid": "greenhouse:verkada:5226698007"
-  },
-  {
-   "closed_at": 1792180450,
-   "company": "andurilindustries",
-   "hours_open": 1033.2,
-   "title": "Agentic AI Engineer, Automation",
-   "uid": "greenhouse:andurilindustries:5219383007"
-  },
-  {
-   "closed_at": 1792180450,
-   "company": "spacex",
-   "hours_open": 1034.9,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1792180450,
-   "company": "spacex",
-   "hours_open": 1034.9,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1792180450,
-   "company": "spacex",
-   "hours_open": 1034.9,
-   "title": "Automation & Controls Engineer (Starship Launch Hardware)",
-   "uid": "greenhouse:spacex:8433913002"
-  },
-  {
-   "closed_at": 1792184209,
-   "company": "salesforce",
-   "hours_open": 18.5,
-   "title": "Specialist Solution Engineer – Analytics (Tableau)",
-   "uid": "workday:salesforce.wd12/External_Career_Site:Principal--Specialist-SE_JR361441"
-  },
-  {
-   "closed_at": 1792184209,
-   "company": "YO AI Labs",
-   "hours_open": 13.5,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50511622"
-  },
-  {
-   "closed_at": 1792184209,
-   "company": "salesforce",
-   "hours_open": 1036.0,
-   "title": "Business Development Associate, Early Career",
-   "uid": "workday:salesforce.wd12/Futureforce_NewGradRoles:Business-Development-Associate_JR347430"
-  },
-  {
-   "closed_at": 1792184209,
-   "company": "tmobile",
-   "hours_open": 378.8,
-   "title": "Solution Engineer - Virtual Business",
-   "uid": "workday:tmobile.wd1/External:Solution-Engineer---Virtual-Business_REQ375980-1"
-  },
-  {
-   "closed_at": 1792184209,
-   "company": "rockwellautomation",
-   "hours_open": 457.8,
-   "title": "Intern, AI Software Engineering (June-August 2027)",
-   "uid": "workday:rockwellautomation.wd1/External-Rockwell-Automation-Early-Careers:Intern--AI-Software-Engineering--June-August-2027-_R26-6980"
-  },
-  {
-   "closed_at": 1792184209,
-   "company": "rockwellautomation",
-   "hours_open": 457.8,
-   "title": "Co-op, AI Software Engineering (6-8 months)",
-   "uid": "workday:rockwellautomation.wd1/External-Rockwell-Automation-Early-Careers:Co-op--AI-Software-Engineering--6-8-months-_R26-6982"
-  },
-  {
-   "closed_at": 1792184209,
-   "company": "rockwellautomation",
-   "hours_open": 44.9,
-   "title": "Co-op, Hardware Development Engineer (June - Dec 2027)",
-   "uid": "workday:rockwellautomation.wd1/External-Rockwell-Automation-Early-Careers:Co-op--Hardware-Development-Engineer--June---Dec-2027-_R26-6891"
-  },
-  {
    "closed_at": 1792184209,
    "company": "rockwellautomation",
    "hours_open": 44.9,
@@ -5599,8 +5494,113 @@
    "hours_open": 978.6,
    "title": "Managed Services Engineer (On-site)",
    "uid": "greenhouse:trace3:8174379"
+  },
+  {
+   "closed_at": 1792445462,
+   "company": "stratacareers",
+   "hours_open": 141.5,
+   "title": "Infrastructure Engineer",
+   "uid": "greenhouse:stratacareers:8030865003"
+  },
+  {
+   "closed_at": 1792445462,
+   "company": "cssmerge",
+   "hours_open": 334.3,
+   "title": "Machine Learning Engineer Intern",
+   "uid": "greenhouse:cssmerge:8869106002"
+  },
+  {
+   "closed_at": 1792445462,
+   "company": "Meubles RD",
+   "hours_open": 79.4,
+   "title": "Web developer",
+   "uid": "jobbank:developpeur junior:50495666"
+  },
+  {
+   "closed_at": 1792445462,
+   "company": "Groupe Mario Coté",
+   "hours_open": 79.2,
+   "title": "Administrateur de réseau",
+   "uid": "jobillico:analyste reseau:17594211"
+  },
+  {
+   "closed_at": 1792445462,
+   "company": "Mastercard",
+   "hours_open": 285.6,
+   "title": "Software Engineer 1",
+   "uid": "simplify:listings:1500308c-6503-4df2-8df9-612bfda181f2"
+  },
+  {
+   "closed_at": 1792445462,
+   "company": "Amazon",
+   "hours_open": 2.0,
+   "title": "Software Development Engineer",
+   "uid": "amazon:amazon:10583145"
+  },
+  {
+   "closed_at": 1792445462,
+   "company": "Amazon",
+   "hours_open": 310.5,
+   "title": "Software Engineer, Fauna",
+   "uid": "amazon:amazon:10571270"
+  },
+  {
+   "closed_at": 1792445462,
+   "company": "Amazon",
+   "hours_open": 124.4,
+   "title": "Software Development Engineer, EC2 UltraServer Availability",
+   "uid": "amazon:amazon:10578757"
+  },
+  {
+   "closed_at": 1792445462,
+   "company": "cscgeneration-2",
+   "hours_open": 673.2,
+   "title": "Software Engineer - Legacy Applications & Modernization - Intern/Part Time",
+   "uid": "lever:cscgeneration-2:3a04b45f-a2eb-438a-a8ac-b07324223813"
+  },
+  {
+   "closed_at": 1792445462,
+   "company": "impact",
+   "hours_open": 1108.6,
+   "title": "Associate QA Engineer",
+   "uid": "greenhouse:impact:8648110002"
+  },
+  {
+   "closed_at": 1792445462,
+   "company": "hhaexchange",
+   "hours_open": 1105.6,
+   "title": "Full Stack Engineer",
+   "uid": "lever:hhaexchange:37711e74-f9e9-42c5-9c4f-66df2afab2e2"
+  },
+  {
+   "closed_at": 1792445462,
+   "company": "reddit",
+   "hours_open": 69.7,
+   "title": "Machine Learning Engineer",
+   "uid": "greenhouse:reddit:7131932"
+  },
+  {
+   "closed_at": 1792445462,
+   "company": "spacex",
+   "hours_open": 1108.6,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1792445462,
+   "company": "palantir",
+   "hours_open": 1120.9,
+   "title": "Forward Deployed Software Engineer, Internship - Intel",
+   "uid": "lever:palantir:9e40d77f-b07c-437b-98e7-def9b0184d89"
+  },
+  {
+   "closed_at": 1792445462,
+   "company": "palantir",
+   "hours_open": 1120.9,
+   "title": "Forward Deployed Software Engineer, Internship - Defense Tech",
+   "uid": "lever:palantir:cccfe1bd-f15b-4fe5-b044-c793e7961c1b"
   }
  ],
- "count": 802,
- "updated_at": 1792440642
+ "count": 815,
+ "updated_at": 1792445463
 }
