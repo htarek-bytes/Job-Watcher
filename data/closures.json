@@ -2,34 +2,6 @@
  "closed": [
   {
    "closed_at": 1792180450,
-   "company": "philips",
-   "hours_open": 265.3,
-   "title": "Co-op – R&D Engineer – Colorado Springs, CO – Summer 2027",
-   "uid": "workday:philips.wd3/jobs-and-careers:Co-op---R-D-Engineer---Colorado-Springs--CO---Summer-2027_591611"
-  },
-  {
-   "closed_at": 1792180450,
-   "company": "ngc",
-   "hours_open": 44.4,
-   "title": "2027 Cyber Software Engineer Intern - San Antonio TX",
-   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Cyber-Software-Engineer-Intern---San-Antonio-TX_R10256037"
-  },
-  {
-   "closed_at": 1792180450,
-   "company": "ngc",
-   "hours_open": 44.4,
-   "title": "2027 Intern - Airworthiness Engineer",
-   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Intern---Airworthiness-Engineer_R10255205"
-  },
-  {
-   "closed_at": 1792180450,
-   "company": "purestorage",
-   "hours_open": 906.3,
-   "title": "Designated Services Engineer (Shift: 7:00 AM to 4:00 PM Mountain Time)",
-   "uid": "greenhouse:purestorage:8126804"
-  },
-  {
-   "closed_at": 1792180450,
    "company": "gopuff",
    "hours_open": 1034.9,
    "title": "Data Engineer",
@@ -5599,8 +5571,36 @@
    "hours_open": 306.7,
    "title": "Software Development Engineer (Embedded Systems) Intern, Amazon Leo - Summer 2027 (USA)",
    "uid": "amazon:amazon:10571374"
+  },
+  {
+   "closed_at": 1792440219,
+   "company": "BMO Financial",
+   "hours_open": 15.4,
+   "title": "software developer",
+   "uid": "jobbank:developpeur junior:50511177"
+  },
+  {
+   "closed_at": 1792440219,
+   "company": "point72",
+   "hours_open": 1083.6,
+   "title": "Software Engineer, Back Office Systems",
+   "uid": "greenhouse:point72:8773519002"
+  },
+  {
+   "closed_at": 1792440219,
+   "company": "silvus",
+   "hours_open": 1100.1,
+   "title": " FPGA Design Engineer",
+   "uid": "greenhouse:silvus:5228214008"
+  },
+  {
+   "closed_at": 1792440219,
+   "company": "accenturefederalservices",
+   "hours_open": 0.5,
+   "title": "Pega Application Developer",
+   "uid": "greenhouse:accenturefederalservices:4723163006"
   }
  ],
- "count": 817,
- "updated_at": 1792438366
+ "count": 804,
+ "updated_at": 1792440220
 }
