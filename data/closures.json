@@ -1,125 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792160198,
-   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
-   "hours_open": 909.1,
-   "title": "Administrateur Réseau TI",
-   "uid": "jobillico:analyste reseau:17386419"
-  },
-  {
-   "closed_at": 1792160198,
-   "company": "spacex",
-   "hours_open": 1029.3,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1792160198,
-   "company": "spacex",
-   "hours_open": 1027.6,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1792160457,
-   "company": "Logesco Informatique",
-   "hours_open": 909.2,
-   "title": "Administrateur de réseau",
-   "uid": "jobillico:analyste reseau:17188132"
-  },
-  {
-   "closed_at": 1792160457,
-   "company": "coinbase",
-   "hours_open": 724.4,
-   "title": "Software Engineer",
-   "uid": "greenhouse:coinbase:8207374"
-  },
-  {
-   "closed_at": 1792160457,
-   "company": "AlphaX",
-   "hours_open": 60.3,
-   "title": "Project Engineer - Commercial Electrical Projects",
-   "uid": "workable:alphax:2A759D9391"
-  },
-  {
-   "closed_at": 1792170020,
-   "company": "ag",
-   "hours_open": 17.1,
-   "title": "Intern System Integration Developer",
-   "uid": "workday:ag.wd3/Airbus:Intern-System-Integration-Developer_JR10451063"
-  },
-  {
-   "closed_at": 1792170020,
-   "company": "ag",
-   "hours_open": 17.1,
-   "title": "Intern Frontend Developer",
-   "uid": "workday:ag.wd3/Airbus:Intern-Frontend-Developer_JR10451058"
-  },
-  {
-   "closed_at": 1792170020,
-   "company": "YO AI Labs",
-   "hours_open": 9.5,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50511622"
-  },
-  {
-   "closed_at": 1792170020,
-   "company": "gassouth",
-   "hours_open": 21.8,
-   "title": "Software Engineering Intern",
-   "uid": "greenhouse:gassouth:8247622"
-  },
-  {
-   "closed_at": 1792170020,
-   "company": "launchdarkly",
-   "hours_open": 690.1,
-   "title": "Product Security Engineer",
-   "uid": "greenhouse:launchdarkly:7998757003"
-  },
-  {
-   "closed_at": 1792170020,
-   "company": "Groupe Mario Coté",
-   "hours_open": 2.7,
-   "title": "Administrateur de réseau",
-   "uid": "jobillico:analyste reseau:17594211"
-  },
-  {
-   "closed_at": 1792170020,
-   "company": "Amazon",
-   "hours_open": 240.2,
-   "title": "Software Development Engineer, Piezo",
-   "uid": "amazon:amazon:10570607"
-  },
-  {
-   "closed_at": 1792170020,
-   "company": "robinhood",
-   "hours_open": 869.7,
-   "title": "Software Engineer, Tokenization",
-   "uid": "greenhouse:robinhood:8189007"
-  },
-  {
-   "closed_at": 1792170020,
-   "company": "sofi",
-   "hours_open": 1003.6,
-   "title": "Vulnerability Management Engineer",
-   "uid": "greenhouse:sofi:7987003003"
-  },
-  {
-   "closed_at": 1792170020,
-   "company": "twitch",
-   "hours_open": 1029.1,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1792170020,
-   "company": "stripe",
-   "hours_open": 1032.0,
-   "title": "Security Analyst ",
-   "uid": "greenhouse:stripe:8142302"
-  },
-  {
    "closed_at": 1792170020,
    "company": "cssmerge",
    "hours_open": 67.1,
@@ -5599,8 +5480,127 @@
    "hours_open": 1100.9,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1792419840,
+   "company": "axon",
+   "hours_open": 62.9,
+   "title": "Software Engineer I ",
+   "uid": "greenhouse:axon:7703668003"
+  },
+  {
+   "closed_at": 1792419840,
+   "company": "rockwellautomation",
+   "hours_open": 110.3,
+   "title": "Co-op, Hardware Development Engineer (June - Dec 2027)",
+   "uid": "workday:rockwellautomation.wd1/External-Rockwell-Automation-Early-Careers:Co-op--Hardware-Development-Engineer--June---Dec-2027-_R26-6891"
+  },
+  {
+   "closed_at": 1792419840,
+   "company": "rockwellautomation",
+   "hours_open": 110.3,
+   "title": "Co-op, Hardware Development Engineer (Jan - July 2027)",
+   "uid": "workday:rockwellautomation.wd1/External-Rockwell-Automation-Early-Careers:Co-op--Hardware-Development-Engineer--Jan---July-2027-_R26-6638"
+  },
+  {
+   "closed_at": 1792419840,
+   "company": "salesforce",
+   "hours_open": 396.9,
+   "title": "Business Development Associate (Early Career)",
+   "uid": "workday:salesforce.wd12/External_Career_Site:Business-Development-Associate--Early-Career-_JR340479-1"
+  },
+  {
+   "closed_at": 1792419840,
+   "company": "sandvik",
+   "hours_open": 396.9,
+   "title": "Solution Engineer - Integration Delivery",
+   "uid": "workday:sandvik.wd3/sandvik-jobs:Solution-Engineer---Integration-Delivery_R0097990"
+  },
+  {
+   "closed_at": 1792419840,
+   "company": "twitch",
+   "hours_open": 1098.5,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1792419840,
+   "company": "reddit",
+   "hours_open": 91.5,
+   "title": "Machine Learning Engineer",
+   "uid": "greenhouse:reddit:7131934"
+  },
+  {
+   "closed_at": 1792419840,
+   "company": "point72",
+   "hours_open": 1099.7,
+   "title": "Software Engineer, Macro Quant Analytics Technology",
+   "uid": "greenhouse:point72:8060321002"
+  },
+  {
+   "closed_at": 1792419840,
+   "company": "GEOCELLCANADA Inc.",
+   "hours_open": 4.1,
+   "title": "telecommunications technician",
+   "uid": "jobbank:telecommunications analyst:50029740"
+  },
+  {
+   "closed_at": 1792419840,
+   "company": "rockwellautomation",
+   "hours_open": 523.3,
+   "title": "Intern, Technical Sales & Consulting (USA)",
+   "uid": "workday:rockwellautomation.wd1/External-Rockwell-Automation-Early-Careers:Intern--Technical-Sales---Consulting--USA-_R26-5962-1"
+  },
+  {
+   "closed_at": 1792419840,
+   "company": "relx",
+   "hours_open": 1120.4,
+   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - January)",
+   "uid": "workday:relx.wd3/RiskSolutions:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617"
+  },
+  {
+   "closed_at": 1792419840,
+   "company": "relx",
+   "hours_open": 1120.4,
+   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - June)",
+   "uid": "workday:relx.wd3/RiskSolutions:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-1"
+  },
+  {
+   "closed_at": 1792419840,
+   "company": "relx",
+   "hours_open": 1120.4,
+   "title": "Tech Accelerate Graduate Program - Software Engineer (Boca Raton - June)",
+   "uid": "workday:relx.wd3/RiskSolutions:Tech-Accelerate-Graduate-Program---Software-Engineer--Boca-Raton---June-_R116023-2"
+  },
+  {
+   "closed_at": 1792419840,
+   "company": "relx",
+   "hours_open": 248.0,
+   "title": "Software Engineer 1",
+   "uid": "workday:relx.wd3/relx:Software-Engineer-1_R117973-1"
+  },
+  {
+   "closed_at": 1792419840,
+   "company": "Silicon Laboratories",
+   "hours_open": 1138.1,
+   "title": "Digital Design Engineer 1",
+   "uid": "simplify:listings:c7142e93-997d-4cb6-a4e3-6cd5fac970ad"
+  },
+  {
+   "closed_at": 1792419840,
+   "company": "spacex",
+   "hours_open": 1101.4,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1792419840,
+   "company": "spacex",
+   "hours_open": 1101.2,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
   }
  ],
- "count": 814,
- "updated_at": 1792417904
+ "count": 817,
+ "updated_at": 1792419841
 }
