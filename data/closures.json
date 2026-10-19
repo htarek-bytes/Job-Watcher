@@ -2,20 +2,6 @@
  "closed": [
   {
    "closed_at": 1792180450,
-   "company": "gopuff",
-   "hours_open": 1034.9,
-   "title": "Data Engineer",
-   "uid": "lever:gopuff:fece6961-007a-455f-b002-6da8a590ba0f"
-  },
-  {
-   "closed_at": 1792180450,
-   "company": "relx",
-   "hours_open": 1053.9,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - January)",
-   "uid": "workday:relx.wd3/RiskSolutions:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617"
-  },
-  {
-   "closed_at": 1792180450,
    "company": "relx",
    "hours_open": 1053.9,
    "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - June)",
@@ -5599,8 +5585,22 @@
    "hours_open": 0.5,
    "title": "Pega Application Developer",
    "uid": "greenhouse:accenturefederalservices:4723163006"
+  },
+  {
+   "closed_at": 1792440641,
+   "company": "City of Calgary",
+   "hours_open": 9.8,
+   "title": "software developer",
+   "uid": "jobbank:developpeur junior:50531042"
+  },
+  {
+   "closed_at": 1792440641,
+   "company": "trace3",
+   "hours_open": 978.6,
+   "title": "Managed Services Engineer (On-site)",
+   "uid": "greenhouse:trace3:8174379"
   }
  ],
- "count": 804,
- "updated_at": 1792440220
+ "count": 802,
+ "updated_at": 1792440642
 }
