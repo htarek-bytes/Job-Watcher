@@ -2,27 +2,6 @@
  "closed": [
   {
    "closed_at": 1792184209,
-   "company": "rockwellautomation",
-   "hours_open": 44.9,
-   "title": "Co-op, Hardware Development Engineer (Jan - July 2027)",
-   "uid": "workday:rockwellautomation.wd1/External-Rockwell-Automation-Early-Careers:Co-op--Hardware-Development-Engineer--Jan---July-2027-_R26-6638"
-  },
-  {
-   "closed_at": 1792184209,
-   "company": "selinc",
-   "hours_open": 506.0,
-   "title": "Software Engineer Intern",
-   "uid": "workday:selinc.wd1/SEL:Software-Engineer-Intern_2026-23076"
-  },
-  {
-   "closed_at": 1792184209,
-   "company": "twitch",
-   "hours_open": 1033.0,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1792184209,
    "company": "thenuclearcompany",
    "hours_open": 1048.6,
    "title": "Nuclear Engineer I",
@@ -5599,8 +5578,29 @@
    "hours_open": 1120.9,
    "title": "Forward Deployed Software Engineer, Internship - Defense Tech",
    "uid": "lever:palantir:cccfe1bd-f15b-4fe5-b044-c793e7961c1b"
+  },
+  {
+   "closed_at": 1792445751,
+   "company": "Amazon",
+   "hours_open": 123.6,
+   "title": "Software Development Engineer, BigMesh, Traffic Engineering",
+   "uid": "amazon:amazon:10578212"
+  },
+  {
+   "closed_at": 1792445751,
+   "company": "zoox",
+   "hours_open": 1105.7,
+   "title": "Software Engineer, ML Platform (ML Training)",
+   "uid": "lever:zoox:d4108968-e83d-4d87-a92c-e4cd1823801c"
+  },
+  {
+   "closed_at": 1792445751,
+   "company": "sprymethods",
+   "hours_open": 1105.7,
+   "title": "DevOps Engineer (Mid)",
+   "uid": "lever:sprymethods:193c56e7-bad3-43da-9584-d9cb09e8aa39"
   }
  ],
- "count": 815,
- "updated_at": 1792445463
+ "count": 803,
+ "updated_at": 1792445751
 }
