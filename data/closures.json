@@ -1,62 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792189828,
-   "company": "Applied Materials",
-   "hours_open": 1074.2,
-   "title": "TPS Engineer - Early In Career",
-   "uid": "simplify:listings:91c6469e-874d-43c0-8e4b-3d048400dac0"
-  },
-  {
-   "closed_at": 1792189828,
-   "company": "opengov",
-   "hours_open": 27.4,
-   "title": "Intern, Software Engineer",
-   "uid": "ashby:opengov:35c2d853-b6ab-4ba7-a6f7-ffb4cfc22f7b"
-  },
-  {
-   "closed_at": 1792189828,
-   "company": "spacex",
-   "hours_open": 1037.5,
-   "title": "Facilities Engineer (Fluids & Cryogenics)",
-   "uid": "greenhouse:spacex:8762054002"
-  },
-  {
-   "closed_at": 1792189828,
-   "company": "spacex",
-   "hours_open": 1037.5,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1792189828,
-   "company": "spacex",
-   "hours_open": 1035.9,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1792192729,
-   "company": "saronic",
-   "hours_open": 42.8,
-   "title": "Marine Quality Engineer",
-   "uid": "ashby:saronic:8f25b4cd-04db-463c-a662-566c03430df3"
-  },
-  {
-   "closed_at": 1792192729,
-   "company": "Arcfield",
-   "hours_open": 32.1,
-   "title": "Software Engineer 1",
-   "uid": "simplify:listings:e3dc3916-c56e-4402-833e-d675b99b9d0c"
-  },
-  {
-   "closed_at": 1792192729,
-   "company": "Meta",
-   "hours_open": 69.2,
-   "title": "ASIC Engineer New Grad - Design",
-   "uid": "simplify:listings:96f4312a-37af-4609-8d5e-e3fd90643296"
-  },
-  {
    "closed_at": 1792192729,
    "company": "Signet Jewelers",
    "hours_open": 56.6,
@@ -5599,8 +5543,64 @@
    "hours_open": 1110.4,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1792453430,
+   "company": "Vaisesika Consulting Inc.",
+   "hours_open": 577.7,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50368572"
+  },
+  {
+   "closed_at": 1792453430,
+   "company": "Liberty Mutual Canada",
+   "hours_open": 139.0,
+   "title": "Associate Software Developer (Node.js & Python)",
+   "uid": "workable:liberty-mutual-canada:A60F74CB9D"
+  },
+  {
+   "closed_at": 1792453430,
+   "company": "Infleqtion",
+   "hours_open": 1110.5,
+   "title": "Cloud Infrastructure Engineer (IT)",
+   "uid": "workable:coldquanta:0B3ABA7CD8"
+  },
+  {
+   "closed_at": 1792453430,
+   "company": "AMAX",
+   "hours_open": 1123.5,
+   "title": "Junior System Engineer",
+   "uid": "workable:amax-1:FE4BA3799A"
+  },
+  {
+   "closed_at": 1792453430,
+   "company": "altentechnologyusa",
+   "hours_open": 1109.1,
+   "title": "Embedded Linux Security Engineer",
+   "uid": "greenhouse:altentechnologyusa:5210052007"
+  },
+  {
+   "closed_at": 1792453430,
+   "company": "Accellor",
+   "hours_open": 70.3,
+   "title": "Full Stack Developer (React and Ruby on Rails)",
+   "uid": "workable:accellor:54126E5402"
+  },
+  {
+   "closed_at": 1792453430,
+   "company": "Accellor",
+   "hours_open": 70.3,
+   "title": "AI Developer",
+   "uid": "workable:accellor:9D7A608A44"
+  },
+  {
+   "closed_at": 1792453430,
+   "company": "spacex",
+   "hours_open": 1110.8,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 812,
- "updated_at": 1792452932
+ "count": 808,
+ "updated_at": 1792453431
 }
