@@ -2,20 +2,6 @@
  "closed": [
   {
    "closed_at": 1792174531,
-   "company": "YO AI Labs",
-   "hours_open": 10.8,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50511622"
-  },
-  {
-   "closed_at": 1792174531,
-   "company": "kla",
-   "hours_open": 378.5,
-   "title": "Product Development Engineering Intern",
-   "uid": "workday:kla.wd1/UR:Product-Development-Engineering-Intern_2641562"
-  },
-  {
-   "closed_at": 1792174531,
    "company": "kyndryl",
    "hours_open": 27.3,
    "title": "Kyndryl Early Career Program - Systems Administration, Mainframe",
@@ -5599,8 +5585,22 @@
    "hours_open": 1104.1,
    "title": "Security Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1792430052,
+   "company": "kayak",
+   "hours_open": 139.4,
+   "title": "Financial Systems Specialist",
+   "uid": "ashby:kayak:28830bee-2344-4112-bd39-184e0d92707c"
+  },
+  {
+   "closed_at": 1792430052,
+   "company": "clear",
+   "hours_open": 1102.6,
+   "title": "Software Engineer, Infrastructure ",
+   "uid": "greenhouse:clear:7901600"
   }
  ],
- "count": 825,
- "updated_at": 1792429416
+ "count": 802,
+ "updated_at": 1792430052
 }
