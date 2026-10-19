@@ -2,62 +2,6 @@
  "closed": [
   {
    "closed_at": 1792170020,
-   "company": "cssmerge",
-   "hours_open": 67.1,
-   "title": "Software Engineer Intern - Summer 2027",
-   "uid": "greenhouse:cssmerge:8687896002"
-  },
-  {
-   "closed_at": 1792170020,
-   "company": "magnetforensics",
-   "hours_open": 1032.0,
-   "title": "Microsoft Security Automation & Incident Response Engineer - Contract Position",
-   "uid": "lever:magnetforensics:b9398342-bc38-4ade-b37d-2d7f660ffa09"
-  },
-  {
-   "closed_at": 1792170020,
-   "company": "accenturefederalservices",
-   "hours_open": 46.0,
-   "title": "DevOps Engineer",
-   "uid": "greenhouse:accenturefederalservices:4720839006"
-  },
-  {
-   "closed_at": 1792170020,
-   "company": "asana",
-   "hours_open": 950.0,
-   "title": "Solutions Engineer, Command",
-   "uid": "greenhouse:asana:8078097"
-  },
-  {
-   "closed_at": 1792170020,
-   "company": "1password",
-   "hours_open": 950.0,
-   "title": "Sales Engineer (French) SMB",
-   "uid": "ashby:1password:4ff46f84-a5c9-4232-84b6-1dfa8e737148"
-  },
-  {
-   "closed_at": 1792170020,
-   "company": "City of Yellowknife",
-   "hours_open": 717.6,
-   "title": "geographic information systems (gis) analyst",
-   "uid": "jobbank:information systems analyst:50301801"
-  },
-  {
-   "closed_at": 1792170020,
-   "company": "Hi-Tech Solution",
-   "hours_open": 216.6,
-   "title": "telecommunications service tester",
-   "uid": "jobbank:telecommunications analyst:49955305"
-  },
-  {
-   "closed_at": 1792170020,
-   "company": "Capital Health",
-   "hours_open": 1068.7,
-   "title": "Product Engineer 1",
-   "uid": "simplify:listings:2ddddf54-3c3b-4af6-b8c2-5b755d594dc1"
-  },
-  {
-   "closed_at": 1792170020,
    "company": "Honeywell",
    "hours_open": 1068.7,
    "title": "Hardware Engineer 1",
@@ -5599,8 +5543,64 @@
    "hours_open": 1101.2,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1792420412,
+   "company": "tmobile",
+   "hours_open": 65.6,
+   "title": "Associate Engineer,  Software - Mobile App Development",
+   "uid": "workday:tmobile.wd1/External:Associate-Engineer---Software---Mobile-App-Development_REQ370392-1"
+  },
+  {
+   "closed_at": 1792420412,
+   "company": "Vaisesika Consulting Inc.",
+   "hours_open": 568.6,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50368572"
+  },
+  {
+   "closed_at": 1792420412,
+   "company": "twitch",
+   "hours_open": 1101.6,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1792420412,
+   "company": "reddit",
+   "hours_open": 62.8,
+   "title": "Machine Learning Engineer",
+   "uid": "greenhouse:reddit:7131932"
+  },
+  {
+   "closed_at": 1792420412,
+   "company": "shi",
+   "hours_open": 199.4,
+   "title": "Solutions Engineer - Enterprise",
+   "uid": "workday:shi.wd12/shicareers:Solutions-Engineer---Enterprise_JR3576"
+  },
+  {
+   "closed_at": 1792420412,
+   "company": "spacex",
+   "hours_open": 1098.7,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1792420412,
+   "company": "spacex",
+   "hours_open": 1101.6,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1792420412,
+   "company": "spacex",
+   "hours_open": 1099.9,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
- "count": 817,
- "updated_at": 1792419841
+ "count": 808,
+ "updated_at": 1792420412
 }
