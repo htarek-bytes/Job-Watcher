@@ -1,69 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792127048,
-   "company": "twitch",
-   "hours_open": 1020.1,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1792127048,
-   "company": "Regime Solutions Inc.",
-   "hours_open": 35.1,
-   "title": "computer systems analyst",
-   "uid": "jobbank:analyste de systemes:50243696"
-  },
-  {
-   "closed_at": 1792127048,
-   "company": "spacex",
-   "hours_open": 1018.4,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1792135690,
-   "company": "LogiSense Corporation",
-   "hours_open": 44.9,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50493091"
-  },
-  {
-   "closed_at": 1792135690,
-   "company": "Stellar Software Solutions",
-   "hours_open": 154.2,
-   "title": "network infrastructure engineer",
-   "uid": "jobbank:specialiste infrastructure:50462911"
-  },
-  {
-   "closed_at": 1792135690,
-   "company": "Upstaff",
-   "hours_open": 62.3,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50466144"
-  },
-  {
-   "closed_at": 1792135690,
-   "company": "ADNIKA TECH Inc.",
-   "hours_open": 347.6,
-   "title": "software development programmer",
-   "uid": "jobbank:junior programmer:50404200"
-  },
-  {
-   "closed_at": 1792135690,
-   "company": "DPMSYSTEMS IT CONSULTING SERVICES",
-   "hours_open": 25.9,
-   "title": "information systems analyst - computer systems",
-   "uid": "jobbank:information systems analyst:50311291"
-  },
-  {
-   "closed_at": 1792135690,
-   "company": "Duke Energy",
-   "hours_open": 80.2,
-   "title": "Associate Software Engineer - iGrid",
-   "uid": "simplify:listings:f1cfc7fb-05c9-4483-ba10-7aa8fcca688f"
-  },
-  {
    "closed_at": 1792135690,
    "company": "Torch Technologies",
    "hours_open": 343.9,
@@ -5599,8 +5536,71 @@
    "hours_open": 1092.1,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1792391509,
+   "company": "autodesk",
+   "hours_open": 408.2,
+   "title": "Intern, AI Data Developer (Winter)",
+   "uid": "workday:autodesk.wd1/Ext:Intern--AI-Data-Developer--Winter-_26WD101082-1"
+  },
+  {
+   "closed_at": 1792391509,
+   "company": "autodesk",
+   "hours_open": 227.4,
+   "title": "Intern, Software Engineer",
+   "uid": "workday:autodesk.wd1/Ext:Intern--Software-Engineer_26WD101095-1"
+  },
+  {
+   "closed_at": 1792391509,
+   "company": "twitch",
+   "hours_open": 1093.6,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1792391509,
+   "company": "reddit",
+   "hours_open": 54.7,
+   "title": "Machine Learning Engineer",
+   "uid": "greenhouse:reddit:7131932"
+  },
+  {
+   "closed_at": 1792391509,
+   "company": "Horizon Canada Inc",
+   "hours_open": 278.1,
+   "title": "telecommunications technician",
+   "uid": "jobbank:telecommunications analyst:50237368"
+  },
+  {
+   "closed_at": 1792391509,
+   "company": "accenture",
+   "hours_open": 1110.5,
+   "title": "Junior .NET Developer - Fresh Graduates",
+   "uid": "workday:accenture.wd103/AccentureCareers:Junior-NET-Developer---Fresh-Graduates_R00332478"
+  },
+  {
+   "closed_at": 1792391509,
+   "company": "accenture",
+   "hours_open": 162.3,
+   "title": "Software Engineering New Associate (Fresh Diploma Graduate Program)",
+   "uid": "workday:accenture.wd103/AccentureCareers:Software-Engineering-New-Associate--Fresh-Diploma-Graduate-Program-_R00235738"
+  },
+  {
+   "closed_at": 1792391509,
+   "company": "spacex",
+   "hours_open": 1090.6,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1792391509,
+   "company": "spacex",
+   "hours_open": 1091.9,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
- "count": 806,
- "updated_at": 1792386327
+ "count": 809,
+ "updated_at": 1792391509
 }
