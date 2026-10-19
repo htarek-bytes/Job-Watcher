@@ -1,181 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792170020,
-   "company": "Honeywell",
-   "hours_open": 1068.7,
-   "title": "Hardware Engineer 1",
-   "uid": "simplify:listings:65b6a15a-a5a3-4e40-907d-7022584646f9"
-  },
-  {
-   "closed_at": 1792170020,
-   "company": "freedomconsulting",
-   "hours_open": 22.1,
-   "title": "Pega Developer 796",
-   "uid": "greenhouse:freedomconsulting:5266665007"
-  },
-  {
-   "closed_at": 1792170020,
-   "company": "spacex",
-   "hours_open": 1029.1,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1792170020,
-   "company": "spacex",
-   "hours_open": 1032.0,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1792173651,
-   "company": "ccf",
-   "hours_open": 17.6,
-   "title": "New Grad RN Resident – Med/Surg & Telemetry Unit",
-   "uid": "workday:ccf.wd1/ClevelandClinicCareers:New-Grad-RN-Resident---Med-Surg---Telemetry-Unit_354695"
-  },
-  {
-   "closed_at": 1792173651,
-   "company": "Qualtrics",
-   "hours_open": 19.4,
-   "title": "Software Engineer 1",
-   "uid": "simplify:listings:6e3333b2-6b06-44e4-9cd6-fc5d4e28b7e9"
-  },
-  {
-   "closed_at": 1792173651,
-   "company": "altentechnologyusa",
-   "hours_open": 244.4,
-   "title": "Lab IT Engineer ",
-   "uid": "greenhouse:altentechnologyusa:5258668007"
-  },
-  {
-   "closed_at": 1792173651,
-   "company": "Logesco Informatique",
-   "hours_open": 912.9,
-   "title": "Administrateur de réseau",
-   "uid": "jobillico:analyste reseau:17188132"
-  },
-  {
-   "closed_at": 1792173651,
-   "company": "SM Informatique inc.",
-   "hours_open": 909.5,
-   "title": "technicien informatique réseautique",
-   "uid": "jobillico:technicien informatique:12325078"
-  },
-  {
-   "closed_at": 1792173651,
-   "company": "Vergers Leahy Inc.",
-   "hours_open": 912.9,
-   "title": "Technicien en informatique",
-   "uid": "jobillico:technicien informatique:17370693"
-  },
-  {
-   "closed_at": 1792173651,
-   "company": "capitalhealth",
-   "hours_open": 1057.1,
-   "title": "IT Product Engineer I",
-   "uid": "workday:capitalhealth.wd1/CapitalHealthCareers:IT-Product-Engineer-I_JR110768"
-  },
-  {
-   "closed_at": 1792173651,
-   "company": "Crown Innovations",
-   "hours_open": 101.8,
-   "title": "Systems Engineer 1",
-   "uid": "simplify:listings:df030492-3a72-4388-a440-77952fc6c3d3"
-  },
-  {
-   "closed_at": 1792173651,
-   "company": "caci",
-   "hours_open": 17.6,
-   "title": "Software Development Intern - Summer 2027",
-   "uid": "workday:caci.wd1/external:Software-Development-Intern---Summer-2027_333051"
-  },
-  {
-   "closed_at": 1792173806,
-   "company": "eversource",
-   "hours_open": 147.2,
-   "title": "Associate Engineer, Protection & Controls (hybrid schedule)",
-   "uid": "workday:eversource.wd1/ExternalSite:Associate-Engineer--Protection---Controls--hybrid-schedule-_R-031236"
-  },
-  {
-   "closed_at": 1792173806,
-   "company": "costar",
-   "hours_open": 707.2,
-   "title": "Associate Software Engineer - Irvine, CA",
-   "uid": "workday:costar.wd1/Costar_Campus:Associate-Software-Engineer---Irvine--CA_R39736"
-  },
-  {
-   "closed_at": 1792173806,
-   "company": "costar",
-   "hours_open": 707.2,
-   "title": "Associate Software Engineer - San Diego, CA",
-   "uid": "workday:costar.wd1/Costar_Campus:Associate-Software-Engineer---San-Diego--CA_R39674"
-  },
-  {
-   "closed_at": 1792173806,
-   "company": "ecolab",
-   "hours_open": 206.1,
-   "title": "Animal Health, Dairy Farm, Agriculture Industry - Technical Sales Intern",
-   "uid": "workday:ecolab.wd1/ecolab_external:Animal-Health--Dairy-Farm--Agriculture-Industry---Technical-Sales-Intern_R00303111"
-  },
-  {
-   "closed_at": 1792174056,
-   "company": "YO AI Labs",
-   "hours_open": 8.8,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50511932"
-  },
-  {
-   "closed_at": 1792174056,
-   "company": "Great Lakes Group",
-   "hours_open": 117.6,
-   "title": "electrical controls engineer",
-   "uid": "jobbank:control systems analyst:50464497"
-  },
-  {
-   "closed_at": 1792174056,
-   "company": "intel",
-   "hours_open": 870.3,
-   "title": "Operations Research Engineer Intern",
-   "uid": "workday:intel.wd1/external:Operations-Research-Engineer-Intern_JR0286945"
-  },
-  {
-   "closed_at": 1792174056,
-   "company": "freddiemac",
-   "hours_open": 1033.2,
-   "title": "Multifamily Software Development Intern – Summer 2027",
-   "uid": "workday:freddiemac.wd5/External:Multifamily-Software-Development-Intern---Summer-2027_JR17564"
-  },
-  {
-   "closed_at": 1792174056,
-   "company": "freddiemac",
-   "hours_open": 1036.6,
-   "title": "Single-Family Software Developer Intern- Summer 2027",
-   "uid": "workday:freddiemac.wd5/External:Single-Family-Software-Developer-Intern--Summer-2027_JR17544"
-  },
-  {
-   "closed_at": 1792174531,
-   "company": "jci",
-   "hours_open": 27.3,
-   "title": "Junior Embedded SW Engineer C/C++",
-   "uid": "workday:jci.wd5/JCI:Junior-Embedded-SW-Engineer-C-C--_WD30282623"
-  },
-  {
-   "closed_at": 1792174531,
-   "company": "jj",
-   "hours_open": 27.3,
-   "title": "Technical Operations Co-op",
-   "uid": "workday:jj.wd5/JJ:Technical-Operations-Co-op_R-100885"
-  },
-  {
-   "closed_at": 1792174531,
-   "company": "Meubles RD",
-   "hours_open": 4.1,
-   "title": "Web developer",
-   "uid": "jobbank:developpeur junior:50495666"
-  },
-  {
    "closed_at": 1792174531,
    "company": "YO AI Labs",
    "hours_open": 10.8,
@@ -5599,8 +5424,183 @@
    "hours_open": 1099.9,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1792429415,
+   "company": "1password",
+   "hours_open": 91.4,
+   "title": "Junior Developer",
+   "uid": "ashby:1password:a492badd-a02f-4360-aa15-7ea8c6e2c85e"
+  },
+  {
+   "closed_at": 1792429415,
+   "company": "1password",
+   "hours_open": 91.4,
+   "title": "Junior Security Engineer",
+   "uid": "ashby:1password:49f0fe51-fcdc-46d8-a046-35f357b0cf6e"
+  },
+  {
+   "closed_at": 1792429415,
+   "company": "City of Calgary",
+   "hours_open": 6.7,
+   "title": "software developer",
+   "uid": "jobbank:developpeur junior:50531042"
+  },
+  {
+   "closed_at": 1792429415,
+   "company": "Kronos Consulting",
+   "hours_open": 6.7,
+   "title": "software developer",
+   "uid": "jobbank:developpeur junior:50511497"
+  },
+  {
+   "closed_at": 1792429415,
+   "company": "Trimoksha Technologies",
+   "hours_open": 645.7,
+   "title": "information systems analyst - computer systems",
+   "uid": "jobbank:systems analyst:50342697"
+  },
+  {
+   "closed_at": 1792429415,
+   "company": "1password",
+   "hours_open": 1104.1,
+   "title": "Developer, Authorization",
+   "uid": "ashby:1password:d8e8cf3f-c994-43a7-854c-86849b95db41"
+  },
+  {
+   "closed_at": 1792429415,
+   "company": "Amazon",
+   "hours_open": 161.8,
+   "title": "Software Development Engineer, Sable",
+   "uid": "amazon:amazon:10576475"
+  },
+  {
+   "closed_at": 1792429415,
+   "company": "Amazon",
+   "hours_open": 312.3,
+   "title": "Software Development Engineer, Ads AI Core Infrastructure (ACI), Ads AI Core Infrastructure",
+   "uid": "amazon:amazon:10570504"
+  },
+  {
+   "closed_at": 1792429415,
+   "company": "Amazon",
+   "hours_open": 298.4,
+   "title": "Software Development Engineer, DynamoDB",
+   "uid": "amazon:amazon:10571455"
+  },
+  {
+   "closed_at": 1792429415,
+   "company": "cerebras",
+   "hours_open": 1104.1,
+   "title": "AI Inference Core - Infrastructure SW Engineer",
+   "uid": "ashby:cerebras:70f859f8-ea99-42bb-a2ac-ac0d230a2929"
+  },
+  {
+   "closed_at": 1792429415,
+   "company": "chime",
+   "hours_open": 1104.1,
+   "title": "Software Engineer, Communication Platform",
+   "uid": "greenhouse:chime:8681191002"
+  },
+  {
+   "closed_at": 1792429415,
+   "company": "redwoodmaterials",
+   "hours_open": 121.6,
+   "title": "Packaging Engineer",
+   "uid": "greenhouse:redwoodmaterials:6117051004"
+  },
+  {
+   "closed_at": 1792429415,
+   "company": "gotion",
+   "hours_open": 1104.1,
+   "title": "QMS Engineer",
+   "uid": "greenhouse:gotion:8508417002"
+  },
+  {
+   "closed_at": 1792429415,
+   "company": "gotion",
+   "hours_open": 1104.1,
+   "title": "Customer Quality Engineer",
+   "uid": "greenhouse:gotion:8483041002"
+  },
+  {
+   "closed_at": 1792429415,
+   "company": "redwoodmaterials",
+   "hours_open": 121.6,
+   "title": "Service Engineer, Energy Storage",
+   "uid": "greenhouse:redwoodmaterials:5823618004"
+  },
+  {
+   "closed_at": 1792429415,
+   "company": "point72",
+   "hours_open": 1102.4,
+   "title": "Service Desk Engineer, Technology",
+   "uid": "greenhouse:point72:8445684002"
+  },
+  {
+   "closed_at": 1792429415,
+   "company": "robinhood",
+   "hours_open": 121.8,
+   "title": "Software Engineer 1, Backend",
+   "uid": "greenhouse:robinhood:7263578"
+  },
+  {
+   "closed_at": 1792429415,
+   "company": "Arya Health",
+   "hours_open": 1122.0,
+   "title": "software development programmer",
+   "uid": "jobbank:junior programmer:50148592"
+  },
+  {
+   "closed_at": 1792429415,
+   "company": "GEOCELLCANADA Inc.",
+   "hours_open": 6.7,
+   "title": "telecommunications technician",
+   "uid": "jobbank:telecommunications analyst:50029740"
+  },
+  {
+   "closed_at": 1792429415,
+   "company": "zoll",
+   "hours_open": 1125.4,
+   "title": "Junior Algorithm Engineer",
+   "uid": "workday:zoll.wd5/ZOLLMedicalCorp:Junior-Algorithm-Engineer_R19377"
+  },
+  {
+   "closed_at": 1792429415,
+   "company": "Everfox",
+   "hours_open": 114.4,
+   "title": "Software Engineer 1",
+   "uid": "simplify:listings:e477c19e-0543-43fc-af92-9a394bca77e5"
+  },
+  {
+   "closed_at": 1792429415,
+   "company": "rocketems",
+   "hours_open": 306.0,
+   "title": "SMT Programmer",
+   "uid": "greenhouse:rocketems:4434567009"
+  },
+  {
+   "closed_at": 1792429415,
+   "company": "darkwolfsolutions",
+   "hours_open": 672.0,
+   "title": "Front End Engineer",
+   "uid": "greenhouse:darkwolfsolutions:8001074003"
+  },
+  {
+   "closed_at": 1792429415,
+   "company": "rocketlab",
+   "hours_open": 1097.1,
+   "title": "Production Engineer I",
+   "uid": "greenhouse:rocketlab:7954195003"
+  },
+  {
+   "closed_at": 1792429415,
+   "company": "spacex",
+   "hours_open": 1104.1,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
   }
  ],
- "count": 808,
- "updated_at": 1792420412
+ "count": 825,
+ "updated_at": 1792429416
 }
