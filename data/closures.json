@@ -1,90 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792184636,
-   "company": "YO AI Labs",
-   "hours_open": 11.7,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50511932"
-  },
-  {
-   "closed_at": 1792184636,
-   "company": "usaa",
-   "hours_open": 261.9,
-   "title": "Software Engineer I",
-   "uid": "workday:usaa.wd1/USAAJOBSWD:Software-Engineer-I_R0120279-1"
-  },
-  {
-   "closed_at": 1792184636,
-   "company": "spacex",
-   "hours_open": 1033.2,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1792184636,
-   "company": "spacex",
-   "hours_open": 1036.1,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1792185801,
-   "company": "YO AI Labs",
-   "hours_open": 13.9,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50511622"
-  },
-  {
-   "closed_at": 1792185801,
-   "company": "Ciena",
-   "hours_open": 238.0,
-   "title": "Signal and Power Integrity Engineer New Grad",
-   "uid": "simplify:listings:49fad5f7-8159-47be-8139-91fd5ee5d213"
-  },
-  {
-   "closed_at": 1792185801,
-   "company": "ibotta",
-   "hours_open": 764.5,
-   "title": "Data Engineer",
-   "uid": "ashby:ibotta:fe48cc5f-5be8-4575-924a-c36b21cbd706"
-  },
-  {
-   "closed_at": 1792185801,
-   "company": "twitch",
-   "hours_open": 1033.5,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1792185801,
-   "company": "spacex",
-   "hours_open": 1036.4,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1792189828,
-   "company": "twitch",
-   "hours_open": 1037.5,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1792189828,
-   "company": "Maarut",
-   "hours_open": 15.0,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50512095"
-  },
-  {
-   "closed_at": 1792189828,
-   "company": "CENTRE DE COLLABORATION MIQRO INNOVATION",
-   "hours_open": 721.1,
-   "title": "network system administrator",
-   "uid": "jobbank:systems administrator:50302731"
-  },
-  {
    "closed_at": 1792189828,
    "company": "Applied Materials",
    "hours_open": 1074.2,
@@ -5599,8 +5515,92 @@
    "hours_open": 1129.0,
    "title": "New Graduate Engineer, Electrical (Starshield)",
    "uid": "greenhouse:spacex:8483305002"
+  },
+  {
+   "closed_at": 1792452929,
+   "company": "SGS",
+   "hours_open": 30.8,
+   "title": "Junior Structural Design Review Engineer \"Civil\"",
+   "uid": "smartrecruiters:SGS:744000156179498"
+  },
+  {
+   "closed_at": 1792452929,
+   "company": "CGI",
+   "hours_open": 990.4,
+   "title": "Conseiller(ère) en gouvernance de la cybersécurité",
+   "uid": "jobillico:analyste cybersecurite:17433756"
+  },
+  {
+   "closed_at": 1792452929,
+   "company": "SGS",
+   "hours_open": 81.3,
+   "title": "Application Solution Engineer - FIS",
+   "uid": "smartrecruiters:SGS:744000155941389"
+  },
+  {
+   "closed_at": 1792452929,
+   "company": "ServiceNow",
+   "hours_open": 70.2,
+   "title": "Advisory Solution Consultant",
+   "uid": "smartrecruiters:ServiceNow:744000156076507"
+  },
+  {
+   "closed_at": 1792452929,
+   "company": "Wise",
+   "hours_open": 157.8,
+   "title": "Presales Consultant",
+   "uid": "smartrecruiters:Wise:744000155158815"
+  },
+  {
+   "closed_at": 1792452929,
+   "company": "KLA",
+   "hours_open": 144.9,
+   "title": "Software Engineer 1",
+   "uid": "simplify:listings:9f0b7c79-fd1e-4e6a-9acf-5e8be3d0ad01"
+  },
+  {
+   "closed_at": 1792452929,
+   "company": "asteraearlycareer2027",
+   "hours_open": 312.5,
+   "title": "Signal Integrity Engineer Intern",
+   "uid": "greenhouse:asteraearlycareer2027:4728581005"
+  },
+  {
+   "closed_at": 1792452929,
+   "company": "twitch",
+   "hours_open": 1107.7,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1792452929,
+   "company": "RTX",
+   "hours_open": 6.5,
+   "title": "Software Engineer/Developer 1",
+   "uid": "simplify:listings:35893c47-402b-4538-9d53-6d41d4ee9a72"
+  },
+  {
+   "closed_at": 1792452929,
+   "company": "RTX",
+   "hours_open": 97.0,
+   "title": "Software Engineer 1",
+   "uid": "simplify:listings:981edc39-404a-414f-8a63-adebe3f122e4"
+  },
+  {
+   "closed_at": 1792452929,
+   "company": "systemstechnologyresearch",
+   "hours_open": 1103.7,
+   "title": "Autonomy Algorithms Software Engineer",
+   "uid": "greenhouse:systemstechnologyresearch:4704682006"
+  },
+  {
+   "closed_at": 1792452929,
+   "company": "spacex",
+   "hours_open": 1110.4,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
   }
  ],
- "count": 816,
- "updated_at": 1792450981
+ "count": 812,
+ "updated_at": 1792452932
 }
