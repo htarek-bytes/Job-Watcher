@@ -1,5 +1,5 @@
 {
- "count": 8660,
+ "count": 8666,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -5933,6 +5933,7 @@
   "simplify:listings:804573fd-c370-4285-9bfb-f4b380ef3924": 1789166954,
   "simplify:listings:80d74961-722d-4792-ab7a-4f178e4e0e58": 1788460756,
   "simplify:listings:80ebf08c-0c7a-4d4e-972a-91adbc6e5509": 1788322770,
+  "simplify:listings:814742fa-a084-4b5c-8a86-88b5c02f9b2f": 1792462199,
   "simplify:listings:819788dd-4ad4-477b-9a53-cea660803173": 1790965328,
   "simplify:listings:825beba1-766e-4140-8632-472069da865c": 1788322770,
   "simplify:listings:82fb089b-e0cb-414d-9953-9f5d35538486": 1791598552,
@@ -7886,6 +7887,7 @@
   "workday:icf.wd5/icfexternal_career_site:Computer-Scientist---Software-Developer--Junior---Security-Clearance-Required_R2600165": 1788948248,
   "workday:icf.wd5/icfexternal_career_site:Junior-Software-Engineer--Entry-level---Remote-US-_R2603054": 1789594467,
   "workday:icf.wd5/icfexternal_career_site:XMLNAME-2027-Summer-Intern--AI-Engineer--Reston--VA-_R2603312-1": 1790756858,
+  "workday:icf.wd5/icfexternal_career_site:XMLNAME-2027-Summer-Intern--Business-Systems---Applications-Associate--Reston--VA-_R2603584": 1792462199,
   "workday:icf.wd5/icfexternal_career_site:XMLNAME-2027-Summer-Intern--Cloud-Engineer--AWS-Azure---Reston--VA-_R2603554": 1792174056,
   "workday:icf.wd5/icfexternal_career_site:XMLNAME-2027-Summer-Intern--Software-Engineer--Reston--VA-_R2603522": 1792017336,
   "workday:imh.wd108/IntermountainCareers:New-Grad-RN-Cardiac-Telemetry_R178527-1": 1790984102,
@@ -7919,6 +7921,7 @@
   "workday:jabil.wd5/Jabil_Careers:Test-Engineer-I_J2454860": 1788847246,
   "workday:jabil.wd5/Jabil_Careers:Test-Engineer-I_J2454862": 1789102462,
   "workday:jainglobal.wd5/ExternalSite:Junior-Compliance-Developer_JR100329": 1788377607,
+  "workday:jainglobal.wd5/ExternalSite:Junior-Developer--Compliance_JR100626-1": 1792462199,
   "workday:jainglobal.wd5/ExternalSite:Quantitative-Developer-Intern--Summer-2027---New-York-_JR100608": 1791911493,
   "workday:jci.wd5/JCI:ACE-Technical-Sales---Controls--Northwest-_WD30279381": 1789467869,
   "workday:jci.wd5/JCI:ACE-Technical-Sales---Controls--Southern-CA-or-Phoenix-AZ-_WD30279382-1": 1789467869,
@@ -7971,6 +7974,7 @@
   "workday:kla.wd1/UR:Product-Development-Engineer-Intern_2641521": 1790812097,
   "workday:kla.wd1/UR:Product-Development-Engineering-Intern_2641562": 1790812097,
   "workday:kla.wd1/UR:Product-Development-Intern---Electron-Beam-Instrumentation_2642030-2": 1791971240,
+  "workday:kla.wd1/UR:Semiconductor-Field-Service-Engineer---New-College-Grad_2642813": 1792462199,
   "workday:kla.wd1/UR:Software-Engineer-Intern---AI_2641817-2": 1791915110,
   "workday:kla.wd1/UR:Software-Engineering-Intern--C----Unix-_2641325": 1790175830,
   "workday:kla.wd1/UR:Software-Engineering-Intern_2641581": 1790812097,
@@ -7986,6 +7990,7 @@
   "workday:labcorp.wd1/external:Intern---Quality-Engineer_2630918": 1789137582,
   "workday:labcorp.wd1/external:Intern---Software-Developer_2632330": 1789424861,
   "workday:leidos.wd5/External:Junior-Software-Developer_R-00194110": 1791915110,
+  "workday:leidos.wd5/external:Junior-Software-Developer_R-00193099": 1792462199,
   "workday:leidos.wd5/external:Junior-Software-Developer_R-00194110": 1792076112,
   "workday:leonardocompany.wd3/LeonardoCareerSite:Industrial-Placement-Software-Engineer_R0033876": 1792352626,
   "workday:lifeworks.wd3/External:Cloud---Infrastructure-Specialist_R-22446-1": 1788903151,
@@ -8002,6 +8007,7 @@
   "workday:lplfinancial.wd1/university:New-Grad---2027---Data-Engineering_R-052493-1": 1788393936,
   "workday:lplfinancial.wd1/university:New-Grad---2027---Platform-Engineering_R-052500-1": 1788393936,
   "workday:lplfinancial.wd1/university:New-Grad-2027---Software-Engineering_R-052475": 1788393936,
+  "workday:lplfinancial.wd1/university:New-Grad-January-2027---Business-Development-Associate_R-054515": 1792462199,
   "workday:lplfinancial.wd1/university:Summer-Intern-2027--Cybersecurity_R-052919": 1788887337,
   "workday:lplfinancial.wd1/university:Summer-Intern-2027--Platform-Engineer_R-052920-1": 1788442554,
   "workday:lplfinancial.wd1/university:Summer-Intern-2027--Software-Engineer_R-052921": 1788442554,
@@ -8662,5 +8668,5 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148,
   "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541": 1789106107
  },
- "updated_at": 1792461855
+ "updated_at": 1792462200
 }
