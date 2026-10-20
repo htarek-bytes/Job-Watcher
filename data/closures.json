@@ -1,118 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792264774,
-   "company": "Great Lakes Group",
-   "hours_open": 13.5,
-   "title": "electrical controls engineer",
-   "uid": "jobbank:control systems analyst:50520784"
-  },
-  {
-   "closed_at": 1792264774,
-   "company": "evergreenix",
-   "hours_open": 13.5,
-   "title": "Software Engineer I",
-   "uid": "workday:evergreenix.wd1/external-careers2:Software-Engineer-I_JR500693-1"
-  },
-  {
-   "closed_at": 1792264774,
-   "company": "YO AI Labs",
-   "hours_open": 35.9,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50511622"
-  },
-  {
-   "closed_at": 1792264774,
-   "company": "hpe",
-   "hours_open": 98.1,
-   "title": "Technical Sales Graduate",
-   "uid": "workday:hpe.wd5/acjobsite:Technical-Sales-Graduate_1213591"
-  },
-  {
-   "closed_at": 1792264774,
-   "company": "iberdrola",
-   "hours_open": 764.7,
-   "title": "Associate Engineer - Distribution Planning",
-   "uid": "workday:iberdrola.wd3/iberdrola:Associate-Engineer---Distribution-Planning_R-29801"
-  },
-  {
-   "closed_at": 1792264774,
-   "company": "twitch",
-   "hours_open": 1055.4,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1792264774,
-   "company": "reddit",
-   "hours_open": 19.5,
-   "title": "Machine Learning Engineer",
-   "uid": "greenhouse:reddit:7131932"
-  },
-  {
-   "closed_at": 1792264774,
-   "company": "hpe",
-   "hours_open": 210.6,
-   "title": "Software Engineer Intern",
-   "uid": "workday:hpe.wd5/jobsathpe:Software-Engineer-Intern_1213625"
-  },
-  {
-   "closed_at": 1792264774,
-   "company": "hntb",
-   "hours_open": 250.3,
-   "title": "New Grad Engineer I: Rail & Transit – Summer 2027",
-   "uid": "workday:hntb.wd5/hntb_careers:New-Grad-Engineer-I--Rail---Transit---Summer-2027_R-31631-1"
-  },
-  {
-   "closed_at": 1792264774,
-   "company": "fnbcorp",
-   "hours_open": 938.2,
-   "title": "Summer 2027 Application Analyst Intern",
-   "uid": "workday:fnbcorp.wd501/FNBCORP:Summer-2027-Application-Analyst-Intern_2026-01958"
-  },
-  {
-   "closed_at": 1792264774,
-   "company": "fnbcorp",
-   "hours_open": 1053.9,
-   "title": "Summer 2027 Systems Analyst Intern",
-   "uid": "workday:fnbcorp.wd501/FNBCORP:Summer-2027-Systems-Analyst-Intern_2026-02021"
-  },
-  {
-   "closed_at": 1792264774,
-   "company": "spacex",
-   "hours_open": 1055.4,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1792264774,
-   "company": "spacex",
-   "hours_open": 1058.1,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1792264774,
-   "company": "spacex",
-   "hours_open": 1058.4,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1792265392,
-   "company": "Morningstar",
-   "hours_open": 20.2,
-   "title": "Associate Software Engineer",
-   "uid": "simplify:listings:414b435e-c949-4dc5-8d11-adbcb8ef0e01"
-  },
-  {
-   "closed_at": 1792265392,
-   "company": "YO AI Labs",
-   "hours_open": 34.1,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50511932"
-  },
-  {
    "closed_at": 1792265392,
    "company": "twitch",
    "hours_open": 1058.5,
@@ -5599,8 +5487,120 @@
    "hours_open": 1128.9,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1792523979,
+   "company": "dtna",
+   "hours_open": 17.6,
+   "title": "Software Developer I",
+   "uid": "workday:dtna.wd5/dtna_affiliate:Software-Developer-I_DT-20202"
+  },
+  {
+   "closed_at": 1792523979,
+   "company": "CGI",
+   "hours_open": 1010.2,
+   "title": "Conseiller(ère) en gouvernance de la cybersécurité",
+   "uid": "jobillico:analyste cybersecurite:17433756"
+  },
+  {
+   "closed_at": 1792523979,
+   "company": "ecolab",
+   "hours_open": 244.5,
+   "title": "Technical Sales Engineer",
+   "uid": "workday:ecolab.wd1/ecolab_external:Technical-Sales-Engineer_R00302837"
+  },
+  {
+   "closed_at": 1792523979,
+   "company": "dxctechnology",
+   "hours_open": 750.0,
+   "title": "Junior Java Developer",
+   "uid": "workday:dxctechnology.wd1/dxcjobs:Junior-Java-Developer_51584530"
+  },
+  {
+   "closed_at": 1792523979,
+   "company": "Amazon",
+   "hours_open": 167.8,
+   "title": "Software Development Engineer, Luna DevX",
+   "uid": "amazon:amazon:10577668"
+  },
+  {
+   "closed_at": 1792523979,
+   "company": "Amazon",
+   "hours_open": 146.2,
+   "title": "Software Development Engineer, AWS Vulnerability Management (AVM)",
+   "uid": "amazon:amazon:10578746"
+  },
+  {
+   "closed_at": 1792523979,
+   "company": "Amazon",
+   "hours_open": 169.1,
+   "title": "Software Development Engineer , FinTech Entity Data Service",
+   "uid": "amazon:amazon:10577327"
+  },
+  {
+   "closed_at": 1792523979,
+   "company": "lyft",
+   "hours_open": 86.2,
+   "title": "Software Engineer",
+   "uid": "greenhouse:lyft:8896679002"
+  },
+  {
+   "closed_at": 1792523979,
+   "company": "databricks",
+   "hours_open": 1142.7,
+   "title": "Software Engineering Intern (2027 Start) - Winter",
+   "uid": "greenhouse:databricks:8732364002"
+  },
+  {
+   "closed_at": 1792523979,
+   "company": "reddit",
+   "hours_open": 120.4,
+   "title": "Machine Learning Engineer",
+   "uid": "greenhouse:reddit:7131934"
+  },
+  {
+   "closed_at": 1792523979,
+   "company": "ecolab",
+   "hours_open": 303.4,
+   "title": "Mining Engineering Technical Sales Intern",
+   "uid": "workday:ecolab.wd1/ecolab_external:Mining-Engineering-Technical-Sales-Intern_R00303116-1"
+  },
+  {
+   "closed_at": 1792523979,
+   "company": "Uare.ai",
+   "hours_open": 1167.0,
+   "title": "Software Engineer – Early Career",
+   "uid": "simplify:listings:b013d54d-e343-4859-badb-79f7e0e59c09"
+  },
+  {
+   "closed_at": 1792523979,
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
+   "hours_open": 9.1,
+   "title": "Administrateur Réseau TI",
+   "uid": "jobillico:analyste reseau:17628663"
+  },
+  {
+   "closed_at": 1792523979,
+   "company": "andurilindustries",
+   "hours_open": 533.6,
+   "title": "Manufacturing Test Engineer, Test Automation",
+   "uid": "greenhouse:andurilindustries:5250144007"
+  },
+  {
+   "closed_at": 1792523979,
+   "company": "andurilindustries",
+   "hours_open": 533.6,
+   "title": "Manufacturing Test Engineer, Product & Integration",
+   "uid": "greenhouse:andurilindustries:5250143007"
+  },
+  {
+   "closed_at": 1792523979,
+   "company": "accenturefederalservices",
+   "hours_open": 666.4,
+   "title": "Quality Engineer (Tester) ",
+   "uid": "greenhouse:accenturefederalservices:4715781006"
   }
  ],
- "count": 812,
- "updated_at": 1792518797
+ "count": 816,
+ "updated_at": 1792523979
 }
