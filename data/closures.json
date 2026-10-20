@@ -1,48 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792278055,
-   "company": "twitch",
-   "hours_open": 1062.1,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1792278055,
-   "company": "reddit",
-   "hours_open": 52.1,
-   "title": "Machine Learning Engineer",
-   "uid": "greenhouse:reddit:7131934"
-  },
-  {
-   "closed_at": 1792278055,
-   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
-   "hours_open": 941.9,
-   "title": "Administrateur Réseau TI",
-   "uid": "jobillico:analyste reseau:17386419"
-  },
-  {
-   "closed_at": 1792278055,
-   "company": "spacex",
-   "hours_open": 1062.1,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1792278055,
-   "company": "spacex",
-   "hours_open": 1060.4,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1792278231,
-   "company": "YO AI Labs",
-   "hours_open": 39.6,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50511622"
-  },
-  {
    "closed_at": 1792278231,
    "company": "twitch",
    "hours_open": 1062.1,
@@ -5599,8 +5557,50 @@
    "hours_open": 1134.7,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1792540348,
+   "company": "Groupe Mario Coté",
+   "hours_open": 105.5,
+   "title": "Administrateur de réseau",
+   "uid": "jobillico:analyste reseau:17594211"
+  },
+  {
+   "closed_at": 1792540348,
+   "company": "nexthopai",
+   "hours_open": 1014.2,
+   "title": "Software Engineer - Hardware Diagnostics - New Grad",
+   "uid": "bamboohr:nexthopai:107"
+  },
+  {
+   "closed_at": 1792540348,
+   "company": "specteraerospace",
+   "hours_open": 1134.9,
+   "title": "Computational Design Engineer Co-Op - Spring 2027 ",
+   "uid": "bamboohr:specteraerospace:127"
+  },
+  {
+   "closed_at": 1792540348,
+   "company": "twitch",
+   "hours_open": 1134.9,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1792540348,
+   "company": "spacex",
+   "hours_open": 1134.9,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1792540348,
+   "company": "spacex",
+   "hours_open": 1134.6,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
   }
  ],
- "count": 802,
- "updated_at": 1792539525
+ "count": 806,
+ "updated_at": 1792540349
 }
