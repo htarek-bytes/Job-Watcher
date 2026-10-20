@@ -1,90 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792217322,
-   "company": "twitch",
-   "hours_open": 1045.2,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1792217322,
-   "company": "reddit",
-   "hours_open": 35.2,
-   "title": "Machine Learning Engineer",
-   "uid": "greenhouse:reddit:7131934"
-  },
-  {
-   "closed_at": 1792217322,
-   "company": "spacex",
-   "hours_open": 1043.5,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1792217322,
-   "company": "YO AI Labs",
-   "hours_open": 22.7,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50511622"
-  },
-  {
-   "closed_at": 1792217726,
-   "company": "Nesda Technologies Ltd",
-   "hours_open": 516.7,
-   "title": "network support technician",
-   "uid": "jobbank:linux administrator:50364689"
-  },
-  {
-   "closed_at": 1792217726,
-   "company": "twitch",
-   "hours_open": 1042.4,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1792217726,
-   "company": "reddit",
-   "hours_open": 6.5,
-   "title": "Machine Learning Engineer",
-   "uid": "greenhouse:reddit:7131932"
-  },
-  {
-   "closed_at": 1792217726,
-   "company": "Study 2020 Consulting INC",
-   "hours_open": 925.1,
-   "title": "network system administrator",
-   "uid": "jobbank:systems administrator:49984747"
-  },
-  {
-   "closed_at": 1792217726,
-   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
-   "hours_open": 925.1,
-   "title": "Administrateur Réseau TI",
-   "uid": "jobillico:analyste reseau:17386419"
-  },
-  {
-   "closed_at": 1792217726,
-   "company": "spacex",
-   "hours_open": 1045.3,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1792228686,
-   "company": "rockwellautomation",
-   "hours_open": 12.4,
-   "title": "Co-op, Hardware Development Engineer (June - Dec 2027)",
-   "uid": "workday:rockwellautomation.wd1/External_Rockwell_Automation:Co-op--Hardware-Development-Engineer--June---Dec-2027-_R26-6891-1"
-  },
-  {
-   "closed_at": 1792228686,
-   "company": "rockwellautomation",
-   "hours_open": 12.4,
-   "title": "Co-op, Hardware Development Engineer (Jan - July 2027)",
-   "uid": "workday:rockwellautomation.wd1/External_Rockwell_Automation:Co-op--Hardware-Development-Engineer--Jan---July-2027-_R26-6638-1"
-  },
-  {
    "closed_at": 1792228686,
    "company": "Meubles RD - Candiac",
    "hours_open": 13.4,
@@ -5599,8 +5515,92 @@
    "hours_open": 1137.8,
    "title": "Tech Accelerate Graduate Program - Software Engineer (Boca Raton - June)",
    "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Boca-Raton---June-_R116023"
+  },
+  {
+   "closed_at": 1792478321,
+   "company": "Daimler Truck",
+   "hours_open": 7.1,
+   "title": "Software Developer 1",
+   "uid": "simplify:listings:dab4c63b-ebb3-4ee4-bba8-3c48bc2001ab"
+  },
+  {
+   "closed_at": 1792478321,
+   "company": "Great Lakes Group",
+   "hours_open": 30.3,
+   "title": "electrical controls engineer",
+   "uid": "jobbank:control systems analyst:50520757"
+  },
+  {
+   "closed_at": 1792478321,
+   "company": "Stellar Software Solutions",
+   "hours_open": 249.4,
+   "title": "network infrastructure engineer",
+   "uid": "jobbank:specialiste infrastructure:50462911"
+  },
+  {
+   "closed_at": 1792478321,
+   "company": "Groupe Mario Coté",
+   "hours_open": 88.3,
+   "title": "Administrateur de réseau",
+   "uid": "jobillico:analyste reseau:17594211"
+  },
+  {
+   "closed_at": 1792478321,
+   "company": "T&T Supermarket Inc",
+   "hours_open": 416.2,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50412133"
+  },
+  {
+   "closed_at": 1792478321,
+   "company": "Future Electronics",
+   "hours_open": 425.5,
+   "title": "Java programmer",
+   "uid": "jobbank:junior programmer:50409321"
+  },
+  {
+   "closed_at": 1792478321,
+   "company": "Future Electronics",
+   "hours_open": 424.9,
+   "title": "network analyst",
+   "uid": "jobbank:network analyst:50409591"
+  },
+  {
+   "closed_at": 1792478321,
+   "company": "thomsonreuters",
+   "hours_open": 287.1,
+   "title": "Junior Dev Ops Engineer (Graduate) - Reuters Imagen",
+   "uid": "workday:thomsonreuters.wd5/External_Career_Site:Junior-DevOps-Engineer---Reuters-Imagen_JREQ204129"
+  },
+  {
+   "closed_at": 1792478321,
+   "company": "TechSmash Inc.",
+   "hours_open": 778.6,
+   "title": "computer programmer",
+   "uid": "jobbank:junior programmer:50309180"
+  },
+  {
+   "closed_at": 1792478321,
+   "company": "Maison Russet inc",
+   "hours_open": 1135.6,
+   "title": "computer programmer",
+   "uid": "jobbank:junior programmer:50000629"
+  },
+  {
+   "closed_at": 1792478321,
+   "company": "zebra",
+   "hours_open": 1130.0,
+   "title": "2026(6 months) Internship(Sri Lanka) -Software Engineering",
+   "uid": "workday:zebra.wd501/Zebra_careers:XMLNAME-2026-6-months--Internship-Sri-Lanka---Software-Engineering_JR102701"
+  },
+  {
+   "closed_at": 1792478321,
+   "company": "Silaris Solutions Inc",
+   "hours_open": 346.0,
+   "title": "cybersecurity specialist",
+   "uid": "jobbank:specialiste infrastructure:50430052"
   }
  ],
- "count": 817,
- "updated_at": 1792473775
+ "count": 812,
+ "updated_at": 1792478322
 }
