@@ -1,111 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792004394,
-   "company": "spacex",
-   "hours_open": 983.1,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1792004394,
-   "company": "spacex",
-   "hours_open": 985.8,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1792004394,
-   "company": "accenturefederalservices",
-   "hours_open": 986.0,
-   "title": "DevOps Engineer",
-   "uid": "greenhouse:accenturefederalservices:4689022006"
-  },
-  {
-   "closed_at": 1792006237,
-   "company": "Sopra Steria",
-   "hours_open": 17.4,
-   "title": "Digital Learning and Media Production Support Officer [26182]",
-   "uid": "smartrecruiters:SopraSteria1:744000155271799"
-  },
-  {
-   "closed_at": 1792270920,
-   "company": "ngc",
-   "hours_open": 25.1,
-   "title": "Sentinel - Launch Execution Network (LEN) Systems Engineer - 14378-1",
-   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:Sentinel---Launch-Execution-Network--LEN--Systems-Engineer---14378-1_R10256360"
-  },
-  {
-   "closed_at": 1792270920,
-   "company": "Belle Graphics Inc.",
-   "hours_open": 244.6,
-   "title": "installation and repair technician - telecommunications",
-   "uid": "jobbank:telecommunications analyst:50200449"
-  },
-  {
-   "closed_at": 1792270920,
-   "company": "Hi-Tech Solution",
-   "hours_open": 244.6,
-   "title": "telecommunications service tester",
-   "uid": "jobbank:telecommunications analyst:49955305"
-  },
-  {
-   "closed_at": 1792270920,
-   "company": "nidec",
-   "hours_open": 1081.4,
-   "title": "Hardware Electronics Engineer I",
-   "uid": "workday:nidec.wd1/nidec:Hardware-Electronics-Engineer-I_R0014784"
-  },
-  {
-   "closed_at": 1792270920,
-   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
-   "hours_open": 939.9,
-   "title": "Administrateur Réseau TI",
-   "uid": "jobillico:analyste reseau:17386419"
-  },
-  {
-   "closed_at": 1792271047,
-   "company": "salesforce",
-   "hours_open": 24.1,
-   "title": "Account Solution Engineer - Federal Civilian",
-   "uid": "workday:salesforce.wd12/External_Career_Site:Account-Solution-Engineer---Federal-Civilian_JR363499-1"
-  },
-  {
-   "closed_at": 1792271047,
-   "company": "semtech",
-   "hours_open": 288.4,
-   "title": "Software Developer – Web/Cloud Application, Co-op",
-   "uid": "workday:semtech.wd1/SemtechCareers:Software-Developer---Web-Cloud-Application--Co-op_REQ3644"
-  },
-  {
-   "closed_at": 1792271047,
-   "company": "YO AI Labs",
-   "hours_open": 35.7,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50511932"
-  },
-  {
-   "closed_at": 1792271047,
-   "company": "salesforce",
-   "hours_open": 355.6,
-   "title": "Business Development Associate (Early Career)",
-   "uid": "workday:salesforce.wd12/External_Career_Site:Business-Development-Associate--Early-Career-_JR340479-1"
-  },
-  {
-   "closed_at": 1792271047,
-   "company": "silabs",
-   "hours_open": 789.7,
-   "title": "Software Engineer I",
-   "uid": "workday:silabs.wd1/SiliconlabsCareers:Software-Engineer-I_21011-1"
-  },
-  {
-   "closed_at": 1792271047,
-   "company": "rockwellautomation",
-   "hours_open": 189.8,
-   "title": "Intern, Marketing Engineer",
-   "uid": "workday:rockwellautomation.wd1/External-Rockwell-Automation-Early-Careers:Intern--Marketing-Engineer_R26-7211"
-  },
-  {
    "closed_at": 1792271047,
    "company": "rockwellautomation",
    "hours_open": 482.0,
@@ -5599,8 +5494,113 @@
    "hours_open": 1129.6,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1792529776,
+   "company": "geotab",
+   "hours_open": 4.0,
+   "title": "AI Solutions Developer",
+   "uid": "greenhouse:geotab:5453886008"
+  },
+  {
+   "closed_at": 1792529776,
+   "company": "onehealthineers",
+   "hours_open": 30.5,
+   "title": "Interoperability Solutions Engineer",
+   "uid": "workday:onehealthineers.wd3/SHSJB:Interoperability-Solutions-Engineer_R-27450-1"
+  },
+  {
+   "closed_at": 1792529776,
+   "company": "ngc",
+   "hours_open": 15.6,
+   "title": "2027 Intern - Survivability Engineer",
+   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Intern---Survivability-Engineer_R10256592"
+  },
+  {
+   "closed_at": 1792529776,
+   "company": "ngc",
+   "hours_open": 1135.3,
+   "title": "2027 Software Engineer Intern - Linthicum Maryland",
+   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Software-Engineer-Intern---Linthicum-Maryland_R10248910"
+  },
+  {
+   "closed_at": 1792529776,
+   "company": "ngc",
+   "hours_open": 71.9,
+   "title": "2027 Software Engineering Intern - Boulder CO",
+   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Software-Engineering-Intern---Boulder-CO_R10256077"
+  },
+  {
+   "closed_at": 1792529776,
+   "company": "ngc",
+   "hours_open": 71.9,
+   "title": "2027 Software Engineering Intern - Colorado Springs",
+   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs_R10256080"
+  },
+  {
+   "closed_at": 1792529776,
+   "company": "ngc",
+   "hours_open": 71.9,
+   "title": "2027 Software Engineering Intern - Aurora CO",
+   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Software-Engineering-Intern---Aurora-CO_R10256393"
+  },
+  {
+   "closed_at": 1792529776,
+   "company": "pg",
+   "hours_open": 1135.3,
+   "title": "Purdue University R&D Engineer Co-op- Purdue Students Graduating in 2028/2029 ONLY",
+   "uid": "workday:pg.wd5/1000:Purdue-University-R-D-Engineer-Co-op--Purdue-Students-Graduating-in-2028-2029-ONLY_R000155305"
+  },
+  {
+   "closed_at": 1792529776,
+   "company": "Amazon",
+   "hours_open": 291.0,
+   "title": "Software Development Engineer, AWS Central SDE Team",
+   "uid": "amazon:amazon:10573324"
+  },
+  {
+   "closed_at": 1792529776,
+   "company": "Amazon",
+   "hours_open": 196.0,
+   "title": "Software Engineer, SSO Intelligence",
+   "uid": "amazon:amazon:10575853"
+  },
+  {
+   "closed_at": 1792529776,
+   "company": "lyft",
+   "hours_open": 1132.0,
+   "title": "Software Engineer",
+   "uid": "greenhouse:lyft:8772594002"
+  },
+  {
+   "closed_at": 1792529776,
+   "company": "ncr",
+   "hours_open": 1153.3,
+   "title": "SW Engineer I",
+   "uid": "workday:ncr.wd1/ext_us:SW-Engineer-I_R0157595"
+  },
+  {
+   "closed_at": 1792529776,
+   "company": "spacex",
+   "hours_open": 1129.0,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1792529776,
+   "company": "spacex",
+   "hours_open": 1131.7,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1792529776,
+   "company": "spacex",
+   "hours_open": 1132.0,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
  "count": 815,
- "updated_at": 1792527454
+ "updated_at": 1792529776
 }
