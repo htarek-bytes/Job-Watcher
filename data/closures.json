@@ -2,20 +2,6 @@
  "closed": [
   {
    "closed_at": 1792271047,
-   "company": "snc",
-   "hours_open": 1054.7,
-   "title": "Software Engineering Intern (Summer 2027)",
-   "uid": "workday:snc.wd1/snc_external_career_site:Software-Engineering-Intern--Summer-2027-_R0030761-1"
-  },
-  {
-   "closed_at": 1792271047,
-   "company": "spacex",
-   "hours_open": 1060.1,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1792271047,
    "company": "spacex",
    "hours_open": 1060.1,
    "title": "Wireless Software Engineer (Starlink)",
@@ -5599,8 +5585,22 @@
    "hours_open": 1130.6,
    "title": "Security Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1792535440,
+   "company": "fsh",
+   "hours_open": 97.1,
+   "title": "Engineer - Intern",
+   "uid": "ashby:fsh:ae9aa402-9f8c-401d-b201-218ccd21b150"
+  },
+  {
+   "closed_at": 1792535440,
+   "company": "harvey",
+   "hours_open": 423.7,
+   "title": "Software Engineer, Security",
+   "uid": "ashby:harvey:d2624850-8dd4-4eb4-b5dc-f386b715a26f"
   }
  ],
- "count": 809,
- "updated_at": 1792535280
+ "count": 802,
+ "updated_at": 1792535440
 }
