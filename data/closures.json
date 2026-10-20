@@ -2,69 +2,6 @@
  "closed": [
   {
    "closed_at": 1792271047,
-   "company": "ryan",
-   "hours_open": 11.8,
-   "title": "Summer 2027 Intern, Application Development",
-   "uid": "workday:ryan.wd1/RyanCareers:Summer-2027-Intern--Application-Development_R0020820-1"
-  },
-  {
-   "closed_at": 1792271047,
-   "company": "selinc",
-   "hours_open": 24.1,
-   "title": "Software Engineer Intern",
-   "uid": "workday:selinc.wd1/SEL:Software-Engineer-Intern_2026-22958"
-  },
-  {
-   "closed_at": 1792271047,
-   "company": "twitch",
-   "hours_open": 1060.1,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1792271047,
-   "company": "reddit",
-   "hours_open": 50.1,
-   "title": "Machine Learning Engineer",
-   "uid": "greenhouse:reddit:7131934"
-  },
-  {
-   "closed_at": 1792271047,
-   "company": "DPMSYSTEMS IT CONSULTING SERVICES",
-   "hours_open": 63.5,
-   "title": "information systems analyst - computer systems",
-   "uid": "jobbank:information systems analyst:50311291"
-  },
-  {
-   "closed_at": 1792271047,
-   "company": "stryker",
-   "hours_open": 1061.9,
-   "title": "Summer 2027 Internship - Software Engineering - California",
-   "uid": "workday:stryker.wd1/StrykerCareers:Summer-2027-Internship---Software-Engineering---California_R572624"
-  },
-  {
-   "closed_at": 1792271047,
-   "company": "stryker",
-   "hours_open": 1061.9,
-   "title": "Summer 2027 Internship - Software Engineering - Florida",
-   "uid": "workday:stryker.wd1/StrykerCareers:Summer-2027-Internship---Software-Engineering---Florida_R572629-1"
-  },
-  {
-   "closed_at": 1792271047,
-   "company": "stryker",
-   "hours_open": 1061.9,
-   "title": "Summer 2027 Internship - Software Engineering - Michigan",
-   "uid": "workday:stryker.wd1/StrykerCareers:Summer-2027-Internship---Software-Engineering---Michigan_R572632-1"
-  },
-  {
-   "closed_at": 1792271047,
-   "company": "stryker",
-   "hours_open": 1061.9,
-   "title": "Summer 2027 Internship - Software Engineering - Indiana",
-   "uid": "workday:stryker.wd1/StrykerCareers:Summer-2027-Internship---Software-Engineering---Indiana_R572631"
-  },
-  {
-   "closed_at": 1792271047,
    "company": "snc",
    "hours_open": 1054.7,
    "title": "Software Engineering Intern (Summer 2027)",
@@ -5599,8 +5536,71 @@
    "hours_open": 1130.5,
    "title": "Robotics Software Engineer, Verification & Validation",
    "uid": "greenhouse:andurilindustries:5083521007"
+  },
+  {
+   "closed_at": 1792535279,
+   "company": "stripe",
+   "hours_open": 26.9,
+   "title": "Backend / API Engineer, Radar",
+   "uid": "greenhouse:stripe:8301253"
+  },
+  {
+   "closed_at": 1792535279,
+   "company": "Groupe Mario Coté",
+   "hours_open": 104.1,
+   "title": "Administrateur de réseau",
+   "uid": "jobillico:analyste reseau:17594211"
+  },
+  {
+   "closed_at": 1792535279,
+   "company": "Alcoa Canada",
+   "hours_open": 1013.3,
+   "title": "Conseiller(ère) en cybersécurité (Amérique du Nord)",
+   "uid": "jobillico:analyste cybersecurite:17502948"
+  },
+  {
+   "closed_at": 1792535279,
+   "company": "jumio",
+   "hours_open": 1131.8,
+   "title": "Machine Learning Engineer - (Computer Vision)",
+   "uid": "greenhouse:jumio:4713201005"
+  },
+  {
+   "closed_at": 1792535279,
+   "company": "Western Alliance",
+   "hours_open": 127.3,
+   "title": "Engineer 1",
+   "uid": "simplify:listings:8fb0dded-666d-47fa-9cab-28bc7ada4f75"
+  },
+  {
+   "closed_at": 1792535279,
+   "company": "accenturefederalservices",
+   "hours_open": 1133.5,
+   "title": "Fullstack Developer (Ruby on Rails & React)",
+   "uid": "greenhouse:accenturefederalservices:4696593006"
+  },
+  {
+   "closed_at": 1792535279,
+   "company": "reddit",
+   "hours_open": 123.5,
+   "title": "Machine Learning Engineer",
+   "uid": "greenhouse:reddit:7131934"
+  },
+  {
+   "closed_at": 1792535279,
+   "company": "tsc",
+   "hours_open": 1110.0,
+   "title": "Junior Electrical Test Engineer",
+   "uid": "workday:tsc.wd12/TSC-Careers:Junior-Electrical-Test-Engineer_JR2773"
+  },
+  {
+   "closed_at": 1792535279,
+   "company": "spacex",
+   "hours_open": 1130.6,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
   }
  ],
- "count": 805,
- "updated_at": 1792530386
+ "count": 809,
+ "updated_at": 1792535280
 }
