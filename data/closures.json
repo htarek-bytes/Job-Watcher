@@ -1,90 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792228686,
-   "company": "twitch",
-   "hours_open": 1048.3,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1792228686,
-   "company": "reddit",
-   "hours_open": 38.4,
-   "title": "Machine Learning Engineer",
-   "uid": "greenhouse:reddit:7131934"
-  },
-  {
-   "closed_at": 1792228686,
-   "company": "Montreal Institute for Learning Algorithms",
-   "hours_open": 1085.0,
-   "title": "AI Applications Developer Junior - AI Applications Development",
-   "uid": "simplify:listings:3306d8fb-6c29-4d88-94cb-972dc1945579"
-  },
-  {
-   "closed_at": 1792228686,
-   "company": "rockwellautomation",
-   "hours_open": 607.5,
-   "title": "Intern, Technical Sales & Consulting (USA)",
-   "uid": "workday:rockwellautomation.wd1/External_Rockwell_Automation:Intern--Technical-Sales---Consulting--USA-_R26-5962-2"
-  },
-  {
-   "closed_at": 1792228686,
-   "company": "relx",
-   "hours_open": 1069.7,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - January)",
-   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617-1"
-  },
-  {
-   "closed_at": 1792228686,
-   "company": "relx",
-   "hours_open": 1069.7,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - June)",
-   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-2"
-  },
-  {
-   "closed_at": 1792228686,
-   "company": "relx",
-   "hours_open": 1069.7,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Boca Raton - June)",
-   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Boca-Raton---June-_R116023"
-  },
-  {
-   "closed_at": 1792228686,
-   "company": "spacex",
-   "hours_open": 1046.6,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1792230373,
-   "company": "Stellar Software Solutions",
-   "hours_open": 180.5,
-   "title": "network infrastructure engineer",
-   "uid": "jobbank:specialiste infrastructure:50462911"
-  },
-  {
-   "closed_at": 1792230373,
-   "company": "Groupe Mario Coté",
-   "hours_open": 19.4,
-   "title": "Administrateur de réseau",
-   "uid": "jobillico:analyste reseau:17594211"
-  },
-  {
-   "closed_at": 1792230373,
-   "company": "uline",
-   "hours_open": 42.0,
-   "title": "Microsoft Solutions Engineer",
-   "uid": "workday:uline.wd1/Uline_Careers:Microsoft-Solutions-Engineer_R268296-1"
-  },
-  {
-   "closed_at": 1792230373,
-   "company": "twitch",
-   "hours_open": 1045.9,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
    "closed_at": 1792230373,
    "company": "reddit",
    "hours_open": 10.0,
@@ -5599,8 +5515,92 @@
    "hours_open": 246.5,
    "title": "GTM Engineer  ",
    "uid": "ashby:bobyard:4c0845da-df8a-4f27-a08f-2f43b1724d00"
+  },
+  {
+   "closed_at": 1792481577,
+   "company": "maticrobots",
+   "hours_open": 12.0,
+   "title": "Manufacturing Design Engineer Intern",
+   "uid": "ashby:maticrobots:92a24480-15df-4413-9736-91a4efd5058a"
+  },
+  {
+   "closed_at": 1792481577,
+   "company": "maticrobots",
+   "hours_open": 12.0,
+   "title": "Mechanical Design Engineer Intern",
+   "uid": "ashby:maticrobots:4b9f178f-5346-443d-899e-4d8a76372517"
+  },
+  {
+   "closed_at": 1792481577,
+   "company": "harvey",
+   "hours_open": 408.7,
+   "title": "Software Engineering Intern (Winter 2027)",
+   "uid": "ashby:harvey:d40e15aa-2351-4be8-ac8f-1faf60bfcdbf"
+  },
+  {
+   "closed_at": 1792481577,
+   "company": "luminai",
+   "hours_open": 98.6,
+   "title": "Forward Deployed Engineer - New Grad ",
+   "uid": "ashby:luminai:ba606839-0f3b-47db-bd36-12406aec5a37"
+  },
+  {
+   "closed_at": 1792481577,
+   "company": "niantic-spatial",
+   "hours_open": 280.8,
+   "title": "Software Engineering Intern (Summer 2027)",
+   "uid": "ashby:niantic-spatial:898b2da7-03cd-486e-96e3-3430a148c8fd"
+  },
+  {
+   "closed_at": 1792481577,
+   "company": "Groupe Mario Coté",
+   "hours_open": 89.2,
+   "title": "Administrateur de réseau",
+   "uid": "jobillico:analyste reseau:17594211"
+  },
+  {
+   "closed_at": 1792481577,
+   "company": "twitch",
+   "hours_open": 1115.6,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1792481577,
+   "company": "DPMSYSTEMS IT CONSULTING SERVICES",
+   "hours_open": 770.6,
+   "title": "information systems analyst - computer systems",
+   "uid": "jobbank:systems analyst:50311291"
+  },
+  {
+   "closed_at": 1792481577,
+   "company": "spacex",
+   "hours_open": 1115.6,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1792481577,
+   "company": "systemstechnologyresearch",
+   "hours_open": 1111.6,
+   "title": "Autonomy Algorithms Software Engineer",
+   "uid": "greenhouse:systemstechnologyresearch:4704682006"
+  },
+  {
+   "closed_at": 1792481577,
+   "company": "spacex",
+   "hours_open": 1118.6,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1792481577,
+   "company": "spacex",
+   "hours_open": 1116.9,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
- "count": 806,
- "updated_at": 1792481291
+ "count": 812,
+ "updated_at": 1792481577
 }
