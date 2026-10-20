@@ -1,62 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792193507,
-   "company": "ujet",
-   "hours_open": 1026.6,
-   "title": "Full Stack Engineer, AI Platform",
-   "uid": "greenhouse:ujet:4710463005"
-  },
-  {
-   "closed_at": 1792193507,
-   "company": "spacex",
-   "hours_open": 1036.9,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1792194422,
-   "company": "sugarcrm",
-   "hours_open": 218.3,
-   "title": "Junior Engineer",
-   "uid": "lever:sugarcrm:017a4113-d3bb-4859-af90-e8de85892baa"
-  },
-  {
-   "closed_at": 1792194422,
-   "company": "sugarcrm",
-   "hours_open": 238.9,
-   "title": "Software Engineer (Future Hiring)",
-   "uid": "lever:sugarcrm:b251a1d5-e42f-4b3d-8235-9f3ad015db00"
-  },
-  {
-   "closed_at": 1792194422,
-   "company": "twitch",
-   "hours_open": 1038.8,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1792194422,
-   "company": "reddit",
-   "hours_open": 28.8,
-   "title": "Machine Learning Engineer",
-   "uid": "greenhouse:reddit:7131934"
-  },
-  {
-   "closed_at": 1792194422,
-   "company": "voltus",
-   "hours_open": 1035.9,
-   "title": "Project Engineer",
-   "uid": "lever:voltus:58a0d4db-bae6-4649-9628-aa5d44072ceb"
-  },
-  {
-   "closed_at": 1792194422,
-   "company": "spacex",
-   "hours_open": 1035.9,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
    "closed_at": 1792194422,
    "company": "spacex",
    "hours_open": 1038.8,
@@ -5599,8 +5543,64 @@
    "hours_open": 1111.7,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1792456836,
+   "company": "Logesco Informatique",
+   "hours_open": 991.5,
+   "title": "Administrateur de réseau",
+   "uid": "jobillico:analyste reseau:17188132"
+  },
+  {
+   "closed_at": 1792456836,
+   "company": "twitch",
+   "hours_open": 1111.7,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1792456836,
+   "company": "andersen",
+   "hours_open": 1135.8,
+   "title": "RDI Materials Associate Engineer",
+   "uid": "workday:andersen.wd12/Andersen_External_Career_Site:RDI-Materials-Associate-Engineer_R-8110"
+  },
+  {
+   "closed_at": 1792456836,
+   "company": "caci",
+   "hours_open": 78.7,
+   "title": "Aerospace Engineer Intern - Summer 2027",
+   "uid": "workday:caci.wd1/external:Aerospace-Engineer-Intern---Summer-2027_333648"
+  },
+  {
+   "closed_at": 1792456836,
+   "company": "caci",
+   "hours_open": 96.3,
+   "title": "Software Test Engineer Intern - Spring 2027",
+   "uid": "workday:caci.wd1/external:Software-Test-Engineer-Intern---Spring-2027_333422"
+  },
+  {
+   "closed_at": 1792456836,
+   "company": "systemstechnologyresearch",
+   "hours_open": 991.5,
+   "title": "Autonomy Algorithms Software Engineer",
+   "uid": "greenhouse:systemstechnologyresearch:4704680006"
+  },
+  {
+   "closed_at": 1792456836,
+   "company": "spacex",
+   "hours_open": 1111.4,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1792456836,
+   "company": "spacex",
+   "hours_open": 1110.0,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
- "count": 810,
- "updated_at": 1792456663
+ "count": 808,
+ "updated_at": 1792456837
 }
