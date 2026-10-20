@@ -1,90 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792262322,
-   "company": "reddit",
-   "hours_open": 47.7,
-   "title": "Machine Learning Engineer",
-   "uid": "greenhouse:reddit:7131934"
-  },
-  {
-   "closed_at": 1792262322,
-   "company": "DPMSYSTEMS IT CONSULTING SERVICES",
-   "hours_open": 709.7,
-   "title": "information systems analyst - computer systems",
-   "uid": "jobbank:systems analyst:50311291"
-  },
-  {
-   "closed_at": 1792262322,
-   "company": "spacex",
-   "hours_open": 1057.7,
-   "title": "Automation & Controls Engineer, Infrastructure & Utility (Starship)",
-   "uid": "greenhouse:spacex:8727906002"
-  },
-  {
-   "closed_at": 1792262322,
-   "company": "spacex",
-   "hours_open": 1057.7,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1792262322,
-   "company": "spacex",
-   "hours_open": 1056.0,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1792262655,
-   "company": "Groupe Mario Coté",
-   "hours_open": 28.4,
-   "title": "Administrateur de réseau",
-   "uid": "jobillico:analyste reseau:17594211"
-  },
-  {
-   "closed_at": 1792262655,
-   "company": "bmo",
-   "hours_open": 790.2,
-   "title": "Quantitative Developer (Alpha Research Team) - GAM, Summer 2027 (Co-op/Internship) - 12 months",
-   "uid": "workday:bmo.wd3/Campus:Quantitative-Developer--Alpha-Research-Team----GAM--Summer-2027--Co-op-Internship----12-months_R260026715"
-  },
-  {
-   "closed_at": 1792262655,
-   "company": "YO AI Labs",
-   "hours_open": 35.3,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50511622"
-  },
-  {
-   "closed_at": 1792262655,
-   "company": "DPMSYSTEMS IT CONSULTING SERVICES",
-   "hours_open": 61.2,
-   "title": "information systems analyst - computer systems",
-   "uid": "jobbank:information systems analyst:50311291"
-  },
-  {
-   "closed_at": 1792262655,
-   "company": "Hi-Tech Solution",
-   "hours_open": 242.3,
-   "title": "telecommunications service tester",
-   "uid": "jobbank:telecommunications analyst:49955305"
-  },
-  {
-   "closed_at": 1792262655,
-   "company": "avav",
-   "hours_open": 17.1,
-   "title": "Software Engineering Intern",
-   "uid": "workday:avav.wd1/avav:Software-Engineering-Intern_9094"
-  },
-  {
-   "closed_at": 1792262808,
-   "company": "YO AI Labs",
-   "hours_open": 33.4,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50511932"
-  },
-  {
    "closed_at": 1792264774,
    "company": "Great Lakes Group",
    "hours_open": 13.5,
@@ -5599,8 +5515,92 @@
    "hours_open": 1128.8,
    "title": "Security Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1792518797,
+   "company": "TECHSAVY INC.",
+   "hours_open": 313.5,
+   "title": "telecommunications technician",
+   "uid": "jobbank:telecommunications analyst:50383753"
+  },
+  {
+   "closed_at": 1792518797,
+   "company": "cadence",
+   "hours_open": 16.2,
+   "title": "CST Application Engineer Intern - Systems ATX",
+   "uid": "workday:cadence.wd1/University_CST:CST-Application-Engineer-Intern---Systems-ATX_R56800-1"
+  },
+  {
+   "closed_at": 1792518797,
+   "company": "cboe",
+   "hours_open": 243.2,
+   "title": "Associate Software Engineer, Web",
+   "uid": "workday:cboe.wd1/External_Career_CBOE:Associate-Software-Engineer--Web_R-4582-2"
+  },
+  {
+   "closed_at": 1792518797,
+   "company": "cadence",
+   "hours_open": 16.2,
+   "title": "CST Application Engineer Intern - Physical Systems",
+   "uid": "workday:cadence.wd1/University_CST:CST-Application-Engineer-Intern---Physical-Systems_R56702"
+  },
+  {
+   "closed_at": 1792518797,
+   "company": "cadence",
+   "hours_open": 16.2,
+   "title": "CST Application Engineer Intern - Silicon",
+   "uid": "workday:cadence.wd1/University_CST:CST-Application-Engineer-Intern---Silicon_R56655-3"
+  },
+  {
+   "closed_at": 1792518797,
+   "company": "twitch",
+   "hours_open": 1128.9,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1792518797,
+   "company": "reddit",
+   "hours_open": 90.1,
+   "title": "Machine Learning Engineer",
+   "uid": "greenhouse:reddit:7131932"
+  },
+  {
+   "closed_at": 1792518797,
+   "company": "cadence",
+   "hours_open": 1122.5,
+   "title": "Software Engineer  (new college grad Dec 2026)",
+   "uid": "workday:cadence.wd1/University_Talent:Software-Engineer---new-college-grad-Dec-2026-_R55738-1"
+  },
+  {
+   "closed_at": 1792518797,
+   "company": "cadence",
+   "hours_open": 1141.7,
+   "title": "Adams MultiBody Dynamics Application Software Developer (Recent Grad 2026)",
+   "uid": "workday:cadence.wd1/University_Talent:Adams-MultiBody-Dynamics-Application-Software-Developer--Recent-Grad-2026-_R55788-3"
+  },
+  {
+   "closed_at": 1792518797,
+   "company": "Advance Plus Tech Solutions Inc.",
+   "hours_open": 313.5,
+   "title": "telecommunications technician",
+   "uid": "jobbank:telecommunications analyst:50313582"
+  },
+  {
+   "closed_at": 1792518797,
+   "company": "spacex",
+   "hours_open": 1126.0,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1792518797,
+   "company": "spacex",
+   "hours_open": 1128.9,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 811,
- "updated_at": 1792518270
+ "count": 812,
+ "updated_at": 1792518797
 }
