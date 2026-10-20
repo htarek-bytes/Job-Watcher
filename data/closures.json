@@ -2,20 +2,6 @@
  "closed": [
   {
    "closed_at": 1792233721,
-   "company": "DPMSYSTEMS IT CONSULTING SERVICES",
-   "hours_open": 53.1,
-   "title": "information systems analyst - computer systems",
-   "uid": "jobbank:information systems analyst:50311291"
-  },
-  {
-   "closed_at": 1792233721,
-   "company": "xcelenergy",
-   "hours_open": 884.0,
-   "title": "Reliability Engineer Intern- TX",
-   "uid": "workday:xcelenergy.wd1/External:Reliability-Engineer-Intern--TX_JR115432-2"
-  },
-  {
-   "closed_at": 1792233721,
    "company": "RTX",
    "hours_open": 334.6,
    "title": "FPGA/ASIC Engineer 1",
@@ -5599,8 +5585,22 @@
    "hours_open": 1121.3,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1792491475,
+   "company": "T&T Supermarket Inc",
+   "hours_open": 419.8,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50412133"
+  },
+  {
+   "closed_at": 1792491475,
+   "company": "DPMSYSTEMS IT CONSULTING SERVICES",
+   "hours_open": 773.4,
+   "title": "information systems analyst - computer systems",
+   "uid": "jobbank:systems analyst:50311291"
   }
  ],
- "count": 812,
- "updated_at": 1792491230
+ "count": 802,
+ "updated_at": 1792491476
 }
