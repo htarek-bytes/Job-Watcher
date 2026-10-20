@@ -1,83 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792256522,
-   "company": "YO AI Labs",
-   "hours_open": 33.6,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50511622"
-  },
-  {
-   "closed_at": 1792256522,
-   "company": "twitch",
-   "hours_open": 1053.1,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1792256522,
-   "company": "reddit",
-   "hours_open": 17.2,
-   "title": "Machine Learning Engineer",
-   "uid": "greenhouse:reddit:7131932"
-  },
-  {
-   "closed_at": 1792256522,
-   "company": "DPMSYSTEMS IT CONSULTING SERVICES",
-   "hours_open": 59.5,
-   "title": "information systems analyst - computer systems",
-   "uid": "jobbank:information systems analyst:50311291"
-  },
-  {
-   "closed_at": 1792256522,
-   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
-   "hours_open": 935.9,
-   "title": "Administrateur Réseau TI",
-   "uid": "jobillico:analyste reseau:17386419"
-  },
-  {
-   "closed_at": 1792256522,
-   "company": "spacex",
-   "hours_open": 1056.1,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1792256522,
-   "company": "spacex",
-   "hours_open": 1056.1,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1792262322,
-   "company": "Logesco Informatique",
-   "hours_open": 937.5,
-   "title": "Administrateur de réseau",
-   "uid": "jobillico:analyste reseau:17188132"
-  },
-  {
-   "closed_at": 1792262322,
-   "company": "YO AI Labs",
-   "hours_open": 33.3,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50511932"
-  },
-  {
-   "closed_at": 1792262322,
-   "company": "Boeing",
-   "hours_open": 5.6,
-   "title": "Entry Level ASIC/FPGA Design Verification Engineer",
-   "uid": "simplify:listings:1e82626b-b282-49ae-8b03-5ea3f30359d8"
-  },
-  {
-   "closed_at": 1792262322,
-   "company": "twitch",
-   "hours_open": 1057.7,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
    "closed_at": 1792262322,
    "company": "reddit",
    "hours_open": 47.7,
@@ -5599,8 +5522,85 @@
    "hours_open": 1126.3,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1792518270,
+   "company": "docebo",
+   "hours_open": 643.6,
+   "title": "Information Security Compliance Specialist",
+   "uid": "ashby:docebo:c5763837-c5e5-4df5-a3c3-0b553fae3fc0"
+  },
+  {
+   "closed_at": 1792518270,
+   "company": "Logesco Informatique",
+   "hours_open": 1008.6,
+   "title": "Administrateur de réseau",
+   "uid": "jobillico:analyste reseau:17188132"
+  },
+  {
+   "closed_at": 1792518270,
+   "company": "stripe",
+   "hours_open": 1128.8,
+   "title": "Integration Reliability Engineer, Payments",
+   "uid": "greenhouse:stripe:8054241"
+  },
+  {
+   "closed_at": 1792518270,
+   "company": "Amazon",
+   "hours_open": 190.8,
+   "title": "Software Development Engineer, Amazon Fulfillment Technologies (AFT)  - Platform Engineering & Services",
+   "uid": "amazon:amazon:10576206"
+  },
+  {
+   "closed_at": 1792518270,
+   "company": "Amazon",
+   "hours_open": 287.8,
+   "title": "Software Development Engineer, Developer Experience",
+   "uid": "amazon:amazon:10573518"
+  },
+  {
+   "closed_at": 1792518270,
+   "company": "twitch",
+   "hours_open": 1125.8,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1792518270,
+   "company": "justworks",
+   "hours_open": 161.7,
+   "title": "Salesforce Developer",
+   "uid": "greenhouse:justworks:8013023"
+  },
+  {
+   "closed_at": 1792518270,
+   "company": "reddit",
+   "hours_open": 118.8,
+   "title": "Machine Learning Engineer",
+   "uid": "greenhouse:reddit:7131934"
+  },
+  {
+   "closed_at": 1792518270,
+   "company": "acxiomllc",
+   "hours_open": 17.1,
+   "title": "Intern - Solution Consultant",
+   "uid": "workday:acxiomllc.wd5/AcxiomUSA:Intern---Solution-Consultant_JR014438"
+  },
+  {
+   "closed_at": 1792518270,
+   "company": "Two Circles",
+   "hours_open": 262.7,
+   "title": "QA Engineer - Partnership Intelligence",
+   "uid": "workable:twocircles:3E5C87E353"
+  },
+  {
+   "closed_at": 1792518270,
+   "company": "spacex",
+   "hours_open": 1128.8,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
   }
  ],
- "count": 816,
- "updated_at": 1792515455
+ "count": 811,
+ "updated_at": 1792518270
 }
