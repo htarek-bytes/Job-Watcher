@@ -1,5 +1,5 @@
 {
- "count": 8643,
+ "count": 8648,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -7079,7 +7079,9 @@
   "workable:saalex:EEE78C89A9": 1789539827,
   "workable:saalex:FA1809A6D1": 1791572467,
   "workable:scitec:0941E0F014": 1790033691,
+  "workable:scitec:3DAB79A03D": 1792456662,
   "workable:scitec:53804431F8": 1792103822,
+  "workable:scitec:DEAB60B853": 1792456662,
   "workable:scitec:F09ABB200B": 1789454401,
   "workable:seeq:0BEAE8BEA3": 1789586515,
   "workable:seeq:41E65B3CDE": 1788477845,
@@ -7198,9 +7200,11 @@
   "workday:accenture.wd103/AccentureCareers:Software-Engineering-New-Associate--Fresh-Diploma-Graduate-Program-_R00144534": 1788393810,
   "workday:accenture.wd103/AccentureCareers:Software-Engineering-New-Associate--Fresh-Diploma-Graduate-Program-_R00235738": 1791807288,
   "workday:accenture.wd103/AccentureCareers:XMLNAME--Junior--AI-Native-Software-Engineer---all-genders-_R00359893-1": 1790340300,
+  "workday:acxiomllc.wd5/AcxiomUSA:Intern---Solution-Consultant_JR014438": 1792456662,
   "workday:aderant.wd5/Aderant_External_Careers:Associate-Software-Engineer_REQ_100000484": 1792200706,
   "workday:adobe.wd5/external_experienced:XMLNAME-2027-Intern---Machine-Learning-Engineer_R171519": 1788435390,
   "workday:adobe.wd5/external_experienced:XMLNAME-2027-Intern---Software-Engineer_R171666": 1788454653,
+  "workday:adobe.wd5/external_experienced:XMLNAME-2027-Intern--Software-Engineer_R173015": 1792456662,
   "workday:adobe.wd5/external_experienced:XMLNAME-2027-University-Graduate---AI-Forward-Deployed-Engineer_R172018": 1790117695,
   "workday:adobe.wd5/external_experienced:XMLNAME-2027-University-Graduate---Machine-Learning-Engineer_R172085": 1790292621,
   "workday:adobe.wd5/external_experienced:XMLNAME-2027-University-Graduate---Software-Engineer_R172083": 1790292621,
@@ -7245,6 +7249,7 @@
   "workday:amat.wd1/External:Algorithm-Developer-I-New-College-Grad--Bachelor-s--Santa-Clara--CA-_R2626605": 1788368024,
   "workday:amat.wd1/External:EHS-Safety-Engineer-New-College-Grad--Bachelors---Santa-Clara--CA-_R2626244": 1788368024,
   "workday:amat.wd1/External:New-College-Grad-Software-Engineer-I--Bachelors---Santa-Clara--CA-_R2628998": 1791421754,
+  "workday:amat.wd1/External:Software-Engineer--Bachelors-Degree--New-College-Grad--Santa-Clara-_R2630683": 1792456662,
   "workday:amat.wd1/External:Software-Engineer--New-College-Grad--Master-s--Chandler--AZ-_R2627911": 1788472811,
   "workday:amat.wd1/External:XMLNAME-2027-Software-Engineer-New-College-Grad--Bachelor-s----Gloucester--MA_R2625914": 1789946076,
   "workday:ambarella.wd108/ambarella:Software-Architecture-Engineer-Intern_JR100365": 1791144783,
@@ -8645,5 +8650,5 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148,
   "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541": 1789106107
  },
- "updated_at": 1792453431
+ "updated_at": 1792456663
 }

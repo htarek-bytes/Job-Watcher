@@ -1,76 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792192729,
-   "company": "Signet Jewelers",
-   "hours_open": 56.6,
-   "title": "Software Engineer 1",
-   "uid": "simplify:listings:ccf805e9-e970-4b46-bde0-96d9de47c8a6"
-  },
-  {
-   "closed_at": 1792192729,
-   "company": "Dexcom",
-   "hours_open": 79.2,
-   "title": "Software Development Engineer 1",
-   "uid": "simplify:listings:c5f0ccae-5750-4c3e-9954-d45d8150a0a2"
-  },
-  {
-   "closed_at": 1792192729,
-   "company": "nexthopai",
-   "hours_open": 864.5,
-   "title": "Software Engineer - New Grad [Santa Clara & Bellevue]",
-   "uid": "bamboohr:nexthopai:24"
-  },
-  {
-   "closed_at": 1792192729,
-   "company": "twitch",
-   "hours_open": 1035.4,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1792192729,
-   "company": "spacex",
-   "hours_open": 1038.4,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1792193277,
-   "company": "Great Lakes Group",
-   "hours_open": 123.0,
-   "title": "electrical controls engineer",
-   "uid": "jobbank:control systems analyst:50464497"
-  },
-  {
-   "closed_at": 1792193277,
-   "company": "DPMSYSTEMS IT CONSULTING SERVICES",
-   "hours_open": 690.5,
-   "title": "information systems analyst - computer systems",
-   "uid": "jobbank:systems analyst:50311291"
-  },
-  {
-   "closed_at": 1792193507,
-   "company": "DPMSYSTEMS IT CONSULTING SERVICES",
-   "hours_open": 42.0,
-   "title": "information systems analyst - computer systems",
-   "uid": "jobbank:information systems analyst:50311291"
-  },
-  {
-   "closed_at": 1792193507,
-   "company": "Belle Graphics Inc.",
-   "hours_open": 223.1,
-   "title": "installation and repair technician - telecommunications",
-   "uid": "jobbank:telecommunications analyst:50200449"
-  },
-  {
-   "closed_at": 1792193507,
-   "company": "Hi-Tech Solution",
-   "hours_open": 223.1,
-   "title": "telecommunications service tester",
-   "uid": "jobbank:telecommunications analyst:49955305"
-  },
-  {
    "closed_at": 1792193507,
    "company": "ujet",
    "hours_open": 1026.6,
@@ -5599,8 +5529,78 @@
    "hours_open": 1110.8,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1792456662,
+   "company": "aah",
+   "hours_open": 31.0,
+   "title": "New Graduate Nurse (RN) - Cardiac Medical Telemetry",
+   "uid": "workday:aah.wd5/External:New-Graduate-Nurse--RN----Cardiac-Medical-Telemetry_R281790"
+  },
+  {
+   "closed_at": 1792456662,
+   "company": "ag",
+   "hours_open": 79.6,
+   "title": "SKYWISE AI Automation Specialist",
+   "uid": "workday:ag.wd3/Airbus:SKYWISE-AI-Automation-Specialist_JR10451235"
+  },
+  {
+   "closed_at": 1792456662,
+   "company": "ag",
+   "hours_open": 79.6,
+   "title": "Intern Backend Developer",
+   "uid": "workday:ag.wd3/Airbus:Intern-Backend-Developer_JR10451110"
+  },
+  {
+   "closed_at": 1792456662,
+   "company": "Groupe Mario Coté",
+   "hours_open": 82.3,
+   "title": "Administrateur de réseau",
+   "uid": "jobillico:analyste reseau:17594211"
+  },
+  {
+   "closed_at": 1792456662,
+   "company": "Alcoa Canada",
+   "hours_open": 991.5,
+   "title": "Conseiller(ère) en cybersécurité (Amérique du Nord)",
+   "uid": "jobillico:analyste cybersecurite:17502948"
+  },
+  {
+   "closed_at": 1792456662,
+   "company": "adobe",
+   "hours_open": 1111.7,
+   "title": "2027 Intern - Software Engineer",
+   "uid": "workday:adobe.wd5/external_experienced:XMLNAME-2027-Intern---Software-Engineer_R171666"
+  },
+  {
+   "closed_at": 1792456662,
+   "company": "TP-Link Systems Inc.",
+   "hours_open": 991.5,
+   "title": "IT Support Analyst",
+   "uid": "workable:tp-link-usa-corp:8B2A5741EC"
+  },
+  {
+   "closed_at": 1792456662,
+   "company": "voyagertechnologiesinc",
+   "hours_open": 238.1,
+   "title": "Robotics Software Engineer ",
+   "uid": "greenhouse:voyagertechnologiesinc:4437875009"
+  },
+  {
+   "closed_at": 1792456662,
+   "company": "spacex",
+   "hours_open": 1108.7,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1792456662,
+   "company": "spacex",
+   "hours_open": 1111.7,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
   }
  ],
- "count": 808,
- "updated_at": 1792453431
+ "count": 810,
+ "updated_at": 1792456663
 }
