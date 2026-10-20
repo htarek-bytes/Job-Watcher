@@ -1,125 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792216167,
-   "company": "reddit",
-   "hours_open": 6.0,
-   "title": "Machine Learning Engineer",
-   "uid": "greenhouse:reddit:7131932"
-  },
-  {
-   "closed_at": 1792216167,
-   "company": "ecolab",
-   "hours_open": 217.9,
-   "title": "Food, Beverage, Dairy Plant Sanitation - Technical Sales Intern",
-   "uid": "workday:ecolab.wd1/ecolab_external:Food--Beverage--Dairy-Plant-Sanitation---Technical-Sales-Internship_R00303120"
-  },
-  {
-   "closed_at": 1792216167,
-   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
-   "hours_open": 924.7,
-   "title": "Administrateur Réseau TI",
-   "uid": "jobillico:analyste reseau:17386419"
-  },
-  {
-   "closed_at": 1792216167,
-   "company": "spacex",
-   "hours_open": 1044.9,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1791955795,
-   "company": "Source Code",
-   "hours_open": 6.1,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50489244"
-  },
-  {
-   "closed_at": 1791955795,
-   "company": "Arya Health",
-   "hours_open": 990.4,
-   "title": "software development programmer",
-   "uid": "jobbank:junior programmer:50148592"
-  },
-  {
-   "closed_at": 1792216296,
-   "company": "gevernova",
-   "hours_open": 11.7,
-   "title": "GE Vernova - Project Engineer Intern - Summer 2027",
-   "uid": "workday:gevernova.wd5/only_confidential_executive_recruiting:GE-Vernova---Project-Engineer-Intern---Summer-2027_R5050023-1"
-  },
-  {
-   "closed_at": 1792216296,
-   "company": "evergreenix",
-   "hours_open": 55.3,
-   "title": "Software Engineer I",
-   "uid": "workday:evergreenix.wd1/external-careers2:Software-Engineer-I_JR500749-1"
-  },
-  {
-   "closed_at": 1792216296,
-   "company": "gevernova",
-   "hours_open": 11.7,
-   "title": "Firmware Engineer - Early Career",
-   "uid": "workday:gevernova.wd5/only_confidential_executive_recruiting:Firmware-Engineer---Early-Career_R5055844-1"
-  },
-  {
-   "closed_at": 1792216296,
-   "company": "Stellar Software Solutions",
-   "hours_open": 176.6,
-   "title": "network infrastructure engineer",
-   "uid": "jobbank:specialiste infrastructure:50462911"
-  },
-  {
-   "closed_at": 1792216296,
-   "company": "YO AI Labs",
-   "hours_open": 20.5,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50511932"
-  },
-  {
-   "closed_at": 1792216296,
-   "company": "Cox",
-   "hours_open": 102.6,
-   "title": "Data Engineer 1",
-   "uid": "simplify:listings:695405ef-24d8-4b85-9b40-efba7544ff78"
-  },
-  {
-   "closed_at": 1792216296,
-   "company": "globalhr",
-   "hours_open": 419.5,
-   "title": "FPGA/ASIC Engineer I",
-   "uid": "workday:globalhr.wd5/Private_Posting_No_TMP:FPGA-ASIC-Engineer-I_01876996"
-  },
-  {
-   "closed_at": 1792216296,
-   "company": "ecolab",
-   "hours_open": 217.9,
-   "title": "Food, Beverage, Dairy Plant Sanitation - Technical Sales Intern",
-   "uid": "workday:ecolab.wd1/ecolab_external:Food--Beverage--Dairy-Plant-Sanitation---Technical-Sales-Internship_R00303120"
-  },
-  {
-   "closed_at": 1792216296,
-   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
-   "hours_open": 924.7,
-   "title": "Administrateur Réseau TI",
-   "uid": "jobillico:analyste reseau:17386419"
-  },
-  {
-   "closed_at": 1792217322,
-   "company": "Groupe Mario Coté",
-   "hours_open": 15.8,
-   "title": "Administrateur de réseau",
-   "uid": "jobillico:analyste reseau:17594211"
-  },
-  {
-   "closed_at": 1792217322,
-   "company": "Richard et Levesque",
-   "hours_open": 49.6,
-   "title": "Web developer",
-   "uid": "jobbank:programmeur junior:50401772"
-  },
-  {
    "closed_at": 1792217322,
    "company": "twitch",
    "hours_open": 1045.2,
@@ -5599,8 +5480,127 @@
    "hours_open": 1116.4,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1792473774,
+   "company": "shi",
+   "hours_open": 96.6,
+   "title": "Solutions Engineer - Cloud & DevOps",
+   "uid": "workday:shi.wd12/shicareers:Solutions-Engineer---Cloud---DevOps_JR3909-1"
+  },
+  {
+   "closed_at": 1792473774,
+   "company": "Logesco Informatique",
+   "hours_open": 996.2,
+   "title": "Administrateur de réseau",
+   "uid": "jobillico:analyste reseau:17188132"
+  },
+  {
+   "closed_at": 1792473774,
+   "company": "Stellar Software Solutions",
+   "hours_open": 238.6,
+   "title": "network infrastructure engineer",
+   "uid": "jobbank:infrastructure analyst:50462911"
+  },
+  {
+   "closed_at": 1792473774,
+   "company": "salesforce",
+   "hours_open": 110.2,
+   "title": "Summer 2027 Intern - Solution Engineer",
+   "uid": "workday:salesforce.wd12/External_Career_Site:Summer-2027-Intern---Solution-Engineer_JR364363-1"
+  },
+  {
+   "closed_at": 1792473774,
+   "company": "salesforce",
+   "hours_open": 600.6,
+   "title": "Software Engineering AMTS (College Grad)",
+   "uid": "workday:salesforce.wd12/External_Career_Site:Software-Engineering-AMTS--College-Grad-_JR355250-1"
+  },
+  {
+   "closed_at": 1792473774,
+   "company": "rockwellautomation",
+   "hours_open": 80.4,
+   "title": "Co-op, Hardware Development Engineer (June - Dec 2027)",
+   "uid": "workday:rockwellautomation.wd1/External_Rockwell_Automation:Co-op--Hardware-Development-Engineer--June---Dec-2027-_R26-6891-1"
+  },
+  {
+   "closed_at": 1792473774,
+   "company": "rockwellautomation",
+   "hours_open": 80.4,
+   "title": "Co-op, Hardware Development Engineer (Jan - July 2027)",
+   "uid": "workday:rockwellautomation.wd1/External_Rockwell_Automation:Co-op--Hardware-Development-Engineer--Jan---July-2027-_R26-6638-1"
+  },
+  {
+   "closed_at": 1792473774,
+   "company": "salesforce",
+   "hours_open": 15.0,
+   "title": "Business Development Associate (Early Career)",
+   "uid": "workday:salesforce.wd12/Futureforce_NewGradRoles:Business-Development-Associate--Early-Career-_JR340479"
+  },
+  {
+   "closed_at": 1792473774,
+   "company": "rockwellautomation",
+   "hours_open": 579.4,
+   "title": "Intern, AI Software Engineering (June-August 2027)",
+   "uid": "workday:rockwellautomation.wd1/External_Rockwell_Automation:Intern--AI-Software-Engineering--June-August-2027-_R26-6980-1"
+  },
+  {
+   "closed_at": 1792473774,
+   "company": "rockwellautomation",
+   "hours_open": 579.4,
+   "title": "Co-op, AI Software Engineering (6-8 months)",
+   "uid": "workday:rockwellautomation.wd1/External_Rockwell_Automation:Co-op--AI-Software-Engineering--6-8-months-_R26-6982-1"
+  },
+  {
+   "closed_at": 1792473774,
+   "company": "DPMSYSTEMS IT CONSULTING SERVICES",
+   "hours_open": 119.8,
+   "title": "information systems analyst - computer systems",
+   "uid": "jobbank:information systems analyst:50311291"
+  },
+  {
+   "closed_at": 1792473774,
+   "company": "GEOCELLCANADA Inc.",
+   "hours_open": 19.1,
+   "title": "telecommunications technician",
+   "uid": "jobbank:telecommunications analyst:50029740"
+  },
+  {
+   "closed_at": 1792473774,
+   "company": "Hi-Tech Solution",
+   "hours_open": 301.0,
+   "title": "telecommunications service tester",
+   "uid": "jobbank:telecommunications analyst:49955305"
+  },
+  {
+   "closed_at": 1792473774,
+   "company": "rockwellautomation",
+   "hours_open": 675.6,
+   "title": "Intern, Technical Sales & Consulting (USA)",
+   "uid": "workday:rockwellautomation.wd1/External_Rockwell_Automation:Intern--Technical-Sales---Consulting--USA-_R26-5962-2"
+  },
+  {
+   "closed_at": 1792473774,
+   "company": "relx",
+   "hours_open": 1137.8,
+   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - January)",
+   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617-1"
+  },
+  {
+   "closed_at": 1792473774,
+   "company": "relx",
+   "hours_open": 1137.8,
+   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - June)",
+   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-2"
+  },
+  {
+   "closed_at": 1792473774,
+   "company": "relx",
+   "hours_open": 1137.8,
+   "title": "Tech Accelerate Graduate Program - Software Engineer (Boca Raton - June)",
+   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Boca-Raton---June-_R116023"
   }
  ],
- "count": 816,
- "updated_at": 1792473553
+ "count": 817,
+ "updated_at": 1792473775
 }
