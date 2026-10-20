@@ -2,34 +2,6 @@
  "closed": [
   {
    "closed_at": 1792242206,
-   "company": "Boeing",
-   "hours_open": 86.4,
-   "title": "Entry Level ASIC/FPGA Design Verification Engineer",
-   "uid": "simplify:listings:a5785364-41bc-49ce-9e8f-78f6b1bcae79"
-  },
-  {
-   "closed_at": 1792242206,
-   "company": "twitch",
-   "hours_open": 1052.1,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1792242206,
-   "company": "reddit",
-   "hours_open": 42.1,
-   "title": "Machine Learning Engineer",
-   "uid": "greenhouse:reddit:7131934"
-  },
-  {
-   "closed_at": 1792242206,
-   "company": "Hi-Tech Solution",
-   "hours_open": 236.6,
-   "title": "telecommunications service tester",
-   "uid": "jobbank:telecommunications analyst:49955305"
-  },
-  {
-   "closed_at": 1792242206,
    "company": "Northrop Grumman",
    "hours_open": 13.7,
    "title": "Associate Software Engineer - Pathways",
@@ -5599,8 +5571,36 @@
    "hours_open": 1.9,
    "title": "Administrateur Réseau TI",
    "uid": "jobillico:analyste reseau:17628663"
+  },
+  {
+   "closed_at": 1792500885,
+   "company": "Palantir",
+   "hours_open": 10.7,
+   "title": "Software Engineer New Grad - Query Engines",
+   "uid": "simplify:listings:814742fa-a084-4b5c-8a86-88b5c02f9b2f"
+  },
+  {
+   "closed_at": 1792500885,
+   "company": "Logesco Informatique",
+   "hours_open": 1003.8,
+   "title": "Administrateur de réseau",
+   "uid": "jobillico:analyste reseau:17188132"
+  },
+  {
+   "closed_at": 1792500885,
+   "company": "skillcloudhcm",
+   "hours_open": 1121.0,
+   "title": "Product Development Engineer-ME",
+   "uid": "lever:skillcloudhcm:58d795ad-3f7b-4b00-9d3b-2755839e1dbc"
+  },
+  {
+   "closed_at": 1792500885,
+   "company": "palantir",
+   "hours_open": 1124.0,
+   "title": "Forward Deployed Software Engineer - Autonomous Systems C2",
+   "uid": "lever:palantir:c62264f5-5da8-40fe-9b44-f7f0f0012e11"
   }
  ],
  "count": 804,
- "updated_at": 1792498125
+ "updated_at": 1792500886
 }
