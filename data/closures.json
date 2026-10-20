@@ -1,118 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792254140,
-   "company": "maximor",
-   "hours_open": 1080.5,
-   "title": "Software Engineer (New Grad)",
-   "uid": "ashby:maximor:67d0c7d0-fddb-4b8d-aed8-0647337a988e"
-  },
-  {
-   "closed_at": 1792254140,
-   "company": "Maarut",
-   "hours_open": 17.9,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50517346"
-  },
-  {
-   "closed_at": 1792254628,
-   "company": "Logesco Informatique",
-   "hours_open": 935.4,
-   "title": "Administrateur de réseau",
-   "uid": "jobillico:analyste reseau:17188132"
-  },
-  {
-   "closed_at": 1792254628,
-   "company": "YO AI Labs",
-   "hours_open": 31.1,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50511932"
-  },
-  {
-   "closed_at": 1792254628,
-   "company": "Maarut",
-   "hours_open": 0.1,
-   "title": "software developer",
-   "uid": "jobbank:entry level software developer:50517346"
-  },
-  {
-   "closed_at": 1792254628,
-   "company": "DPMSYSTEMS IT CONSULTING SERVICES",
-   "hours_open": 707.6,
-   "title": "information systems analyst - computer systems",
-   "uid": "jobbank:systems analyst:50311291"
-  },
-  {
-   "closed_at": 1792254628,
-   "company": "Belle Graphics Inc.",
-   "hours_open": 240.1,
-   "title": "installation and repair technician - telecommunications",
-   "uid": "jobbank:telecommunications analyst:50200449"
-  },
-  {
-   "closed_at": 1792254628,
-   "company": "Hi-Tech Solution",
-   "hours_open": 240.1,
-   "title": "telecommunications service tester",
-   "uid": "jobbank:telecommunications analyst:49955305"
-  },
-  {
-   "closed_at": 1792254805,
-   "company": "YO AI Labs",
-   "hours_open": 31.2,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50511932"
-  },
-  {
-   "closed_at": 1792254805,
-   "company": "twitch",
-   "hours_open": 1052.7,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1792254805,
-   "company": "reddit",
-   "hours_open": 16.8,
-   "title": "Machine Learning Engineer",
-   "uid": "greenhouse:reddit:7131932"
-  },
-  {
-   "closed_at": 1792254805,
-   "company": "Maarut",
-   "hours_open": 0.2,
-   "title": "software developer",
-   "uid": "jobbank:entry level software developer:50517346"
-  },
-  {
-   "closed_at": 1792254805,
-   "company": "Belle Graphics Inc.",
-   "hours_open": 240.1,
-   "title": "installation and repair technician - telecommunications",
-   "uid": "jobbank:telecommunications analyst:50200449"
-  },
-  {
-   "closed_at": 1792254805,
-   "company": "Hi-Tech Solution",
-   "hours_open": 240.1,
-   "title": "telecommunications service tester",
-   "uid": "jobbank:telecommunications analyst:49955305"
-  },
-  {
-   "closed_at": 1792254805,
-   "company": "spacex",
-   "hours_open": 1055.6,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1792254805,
-   "company": "spacex",
-   "hours_open": 1055.6,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
    "closed_at": 1792256522,
    "company": "YO AI Labs",
    "hours_open": 33.6,
@@ -5599,8 +5487,120 @@
    "hours_open": 1126.3,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1792515454,
+   "company": "sharkninjaoperatingllc",
+   "hours_open": 453.0,
+   "title": "Product Integrity Engineer - Robots",
+   "uid": "greenhouse:sharkninjaoperatingllc:4717847006"
+  },
+  {
+   "closed_at": 1792515454,
+   "company": "Citizens Financial Group",
+   "hours_open": 23.9,
+   "title": "Software Engineer 1",
+   "uid": "simplify:listings:0a4cd2e5-65b4-4298-ab71-d0c7705a376c"
+  },
+  {
+   "closed_at": 1792515454,
+   "company": "CGI",
+   "hours_open": 1007.8,
+   "title": "Conseiller(ère) en gouvernance de la cybersécurité",
+   "uid": "jobillico:analyste cybersecurite:17433756"
+  },
+  {
+   "closed_at": 1792515454,
+   "company": "Ministère des Ressources naturelles et des Forêts",
+   "hours_open": 313.1,
+   "title": "geographic information systems (gis) analyst",
+   "uid": "jobbank:information systems analyst:50445353"
+  },
+  {
+   "closed_at": 1792515454,
+   "company": "Amazon",
+   "hours_open": 118.5,
+   "title": "Software Development Engineer, Amazon Customer Service",
+   "uid": "amazon:amazon:10580018"
+  },
+  {
+   "closed_at": 1792515454,
+   "company": "Amazon",
+   "hours_open": 136.4,
+   "title": "Software Development Engineer, Customer Experience and Business Trends",
+   "uid": "amazon:amazon:10579384"
+  },
+  {
+   "closed_at": 1792515454,
+   "company": "Amazon",
+   "hours_open": 256.0,
+   "title": "Software Development Engineer, Global From Day1",
+   "uid": "amazon:amazon:10575314"
+  },
+  {
+   "closed_at": 1792515454,
+   "company": "twitch",
+   "hours_open": 1128.0,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1792515454,
+   "company": "reddit",
+   "hours_open": 89.2,
+   "title": "Machine Learning Engineer",
+   "uid": "greenhouse:reddit:7131932"
+  },
+  {
+   "closed_at": 1792515454,
+   "company": "Focus Group",
+   "hours_open": 1045.9,
+   "title": "Solution Engineer - Network",
+   "uid": "workable:focus-group:00137CF211"
+  },
+  {
+   "closed_at": 1792515454,
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
+   "hours_open": 6.7,
+   "title": "Administrateur Réseau TI",
+   "uid": "jobillico:analyste reseau:17628663"
+  },
+  {
+   "closed_at": 1792515454,
+   "company": "spacex",
+   "hours_open": 423.6,
+   "title": "Software Engineer (Starshield Products)",
+   "uid": "greenhouse:spacex:8864991002"
+  },
+  {
+   "closed_at": 1792515454,
+   "company": "spacex",
+   "hours_open": 1125.1,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1792515454,
+   "company": "accenturefederalservices",
+   "hours_open": 1007.8,
+   "title": "Junior Systems Administrator",
+   "uid": "greenhouse:accenturefederalservices:4702368006"
+  },
+  {
+   "closed_at": 1792515454,
+   "company": "spacex",
+   "hours_open": 1127.7,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1792515454,
+   "company": "spacex",
+   "hours_open": 1126.3,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
- "count": 808,
- "updated_at": 1792509218
+ "count": 816,
+ "updated_at": 1792515455
 }
