@@ -1,90 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792230373,
-   "company": "reddit",
-   "hours_open": 10.0,
-   "title": "Machine Learning Engineer",
-   "uid": "greenhouse:reddit:7131932"
-  },
-  {
-   "closed_at": 1792230373,
-   "company": "DPMSYSTEMS IT CONSULTING SERVICES",
-   "hours_open": 700.8,
-   "title": "information systems analyst - computer systems",
-   "uid": "jobbank:systems analyst:50311291"
-  },
-  {
-   "closed_at": 1792230373,
-   "company": "spacex",
-   "hours_open": 1048.8,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1792230528,
-   "company": "Stellar Software Solutions",
-   "hours_open": 180.6,
-   "title": "network infrastructure engineer",
-   "uid": "jobbank:specialiste infrastructure:50462911"
-  },
-  {
-   "closed_at": 1792230528,
-   "company": "Groupe Mario Coté",
-   "hours_open": 19.5,
-   "title": "Administrateur de réseau",
-   "uid": "jobillico:analyste reseau:17594211"
-  },
-  {
-   "closed_at": 1792230528,
-   "company": "YO AI Labs",
-   "hours_open": 26.3,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50511622"
-  },
-  {
-   "closed_at": 1792230528,
-   "company": "uline",
-   "hours_open": 42.0,
-   "title": "Microsoft Solutions Engineer",
-   "uid": "workday:uline.wd1/Uline_Careers:Microsoft-Solutions-Engineer_R268296-1"
-  },
-  {
-   "closed_at": 1792230528,
-   "company": "twitch",
-   "hours_open": 1045.9,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1792230528,
-   "company": "reddit",
-   "hours_open": 10.0,
-   "title": "Machine Learning Engineer",
-   "uid": "greenhouse:reddit:7131932"
-  },
-  {
-   "closed_at": 1792230528,
-   "company": "spacex",
-   "hours_open": 1048.9,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1792233721,
-   "company": "Stellar Software Solutions",
-   "hours_open": 171.9,
-   "title": "network infrastructure engineer",
-   "uid": "jobbank:infrastructure analyst:50462911"
-  },
-  {
-   "closed_at": 1792233721,
-   "company": "YO AI Labs",
-   "hours_open": 27.2,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50511622"
-  },
-  {
    "closed_at": 1792233721,
    "company": "DPMSYSTEMS IT CONSULTING SERVICES",
    "hours_open": 53.1,
@@ -5599,8 +5515,92 @@
    "hours_open": 1116.9,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1792491230,
+   "company": "OSF HealthCare",
+   "hours_open": 27.3,
+   "title": "Data Engineer 1",
+   "uid": "simplify:listings:5a59f0ee-1571-4abb-9f4a-04fb4914313a"
+  },
+  {
+   "closed_at": 1792491230,
+   "company": "Logesco Informatique",
+   "hours_open": 1001.1,
+   "title": "Administrateur de réseau",
+   "uid": "jobillico:analyste reseau:17188132"
+  },
+  {
+   "closed_at": 1792491230,
+   "company": "CGI",
+   "hours_open": 1001.1,
+   "title": "Conseiller(ère) en gouvernance de la cybersécurité",
+   "uid": "jobillico:analyste cybersecurite:17433756"
+  },
+  {
+   "closed_at": 1792491230,
+   "company": "Stellar Software Solutions",
+   "hours_open": 253.0,
+   "title": "network infrastructure engineer",
+   "uid": "jobbank:specialiste infrastructure:50462911"
+  },
+  {
+   "closed_at": 1792491230,
+   "company": "Monti Inc",
+   "hours_open": 154.8,
+   "title": "Associate Software Engineer - Intelligence Systems",
+   "uid": "simplify:listings:662a9504-a02e-4a49-b186-8619c9b721c5"
+  },
+  {
+   "closed_at": 1792491230,
+   "company": "twitch",
+   "hours_open": 1121.3,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1792491230,
+   "company": "DPMSYSTEMS IT CONSULTING SERVICES",
+   "hours_open": 124.7,
+   "title": "information systems analyst - computer systems",
+   "uid": "jobbank:information systems analyst:50311291"
+  },
+  {
+   "closed_at": 1792491230,
+   "company": "spacex",
+   "hours_open": 1121.3,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1792491230,
+   "company": "systemstechnologyresearch",
+   "hours_open": 1001.1,
+   "title": "Autonomy Algorithms Software Engineer",
+   "uid": "greenhouse:systemstechnologyresearch:4704680006"
+  },
+  {
+   "closed_at": 1792491230,
+   "company": "spacex",
+   "hours_open": 1121.0,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1792491230,
+   "company": "Saalex",
+   "hours_open": 819.8,
+   "title": "Junior Data Integrity Engineer (Avionics Software & Data Analysis)",
+   "uid": "workable:saalex:2D1B9D4A3C"
+  },
+  {
+   "closed_at": 1792491230,
+   "company": "spacex",
+   "hours_open": 1121.3,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
  "count": 812,
- "updated_at": 1792481577
+ "updated_at": 1792491230
 }
