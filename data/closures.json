@@ -2,41 +2,6 @@
  "closed": [
   {
    "closed_at": 1792271047,
-   "company": "rockwellautomation",
-   "hours_open": 482.0,
-   "title": "Intern, AI Software Engineering (June-August 2027)",
-   "uid": "workday:rockwellautomation.wd1/External-Rockwell-Automation-Early-Careers:Intern--AI-Software-Engineering--June-August-2027-_R26-6980"
-  },
-  {
-   "closed_at": 1792271047,
-   "company": "rockwellautomation",
-   "hours_open": 482.0,
-   "title": "Co-op, AI Software Engineering (6-8 months)",
-   "uid": "workday:rockwellautomation.wd1/External-Rockwell-Automation-Early-Careers:Co-op--AI-Software-Engineering--6-8-months-_R26-6982"
-  },
-  {
-   "closed_at": 1792271047,
-   "company": "synnex",
-   "hours_open": 1081.4,
-   "title": "Test Engineer I",
-   "uid": "workday:synnex.wd5/hyvecareers:Test-Engineer-I_R51397"
-  },
-  {
-   "closed_at": 1792271047,
-   "company": "ryan",
-   "hours_open": 11.8,
-   "title": "Summer 2027 Intern, Software Engineering",
-   "uid": "workday:ryan.wd1/RyanCareers:Summer-2027-Intern--Software-Engineering_R0020843-1"
-  },
-  {
-   "closed_at": 1792271047,
-   "company": "ryan",
-   "hours_open": 11.8,
-   "title": "Summer 2027 Intern, Software Development",
-   "uid": "workday:ryan.wd1/RyanCareers:Summer-2027-Intern--Software-Development_R0020822-1"
-  },
-  {
-   "closed_at": 1792271047,
    "company": "ryan",
    "hours_open": 11.8,
    "title": "Summer 2027 Intern, Application Development",
@@ -5599,8 +5564,43 @@
    "hours_open": 1132.0,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1792530386,
+   "company": "twitch",
+   "hours_open": 1132.1,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1792530386,
+   "company": "reddit",
+   "hours_open": 93.3,
+   "title": "Machine Learning Engineer",
+   "uid": "greenhouse:reddit:7131932"
+  },
+  {
+   "closed_at": 1792530386,
+   "company": "GEOCELLCANADA Inc.",
+   "hours_open": 34.8,
+   "title": "telecommunications technician",
+   "uid": "jobbank:telecommunications analyst:50029740"
+  },
+  {
+   "closed_at": 1792530386,
+   "company": "spacex",
+   "hours_open": 1132.1,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1792530386,
+   "company": "andurilindustries",
+   "hours_open": 1130.5,
+   "title": "Robotics Software Engineer, Verification & Validation",
+   "uid": "greenhouse:andurilindustries:5083521007"
   }
  ],
- "count": 815,
- "updated_at": 1792529776
+ "count": 805,
+ "updated_at": 1792530386
 }
