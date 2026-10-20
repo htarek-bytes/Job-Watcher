@@ -1,48 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792200344,
-   "company": "Credence",
-   "hours_open": 216.5,
-   "title": "Security Specialist (Generalist)",
-   "uid": "workable:credence:2E797E56AD"
-  },
-  {
-   "closed_at": 1792200706,
-   "company": "YO AI Labs",
-   "hours_open": 16.2,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50511932"
-  },
-  {
-   "closed_at": 1792200706,
-   "company": "Aderant",
-   "hours_open": 104.6,
-   "title": "Associate Software Engineer",
-   "uid": "simplify:listings:2081ec0c-9ef0-4e78-8859-84739cedab0c"
-  },
-  {
-   "closed_at": 1792200706,
-   "company": "Amazon",
-   "hours_open": 234.9,
-   "title": "Software Development Engineer, DynamoDB",
-   "uid": "amazon:amazon:10571455"
-  },
-  {
-   "closed_at": 1792200706,
-   "company": "Vector Atomic",
-   "hours_open": 1040.6,
-   "title": "Engineer - R&D",
-   "uid": "workable:vectoratomic:A778C7FA4D"
-  },
-  {
-   "closed_at": 1792201143,
-   "company": "Meubles RD - Candiac",
-   "hours_open": 5.7,
-   "title": "Web developer",
-   "uid": "jobbank:programmeur junior:50495527"
-  },
-  {
    "closed_at": 1792201143,
    "company": "Richard et Levesque",
    "hours_open": 364.5,
@@ -5599,8 +5557,50 @@
    "hours_open": 1112.7,
    "title": "Software Engineer, Growth",
    "uid": "ashby:replit:447a6e11-b06b-4cc5-9203-cd55883f2af4"
+  },
+  {
+   "closed_at": 1792461855,
+   "company": "ecolab",
+   "hours_open": 286.1,
+   "title": "Junior Quality Control Software Developer",
+   "uid": "workday:ecolab.wd1/ecolab_external:Junior-Quality-Control-Software-Developer_R00307033"
+  },
+  {
+   "closed_at": 1792461855,
+   "company": "twitch",
+   "hours_open": 1110.2,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1792461855,
+   "company": "globalfoundries",
+   "hours_open": 1134.5,
+   "title": "Packaging Design Integration Engineer (2026 New College Graduate)",
+   "uid": "workday:globalfoundries.wd1/External:Packaging-Design-Integration-Engineer--2026-New-College-Graduate-_JR-2603919"
+  },
+  {
+   "closed_at": 1792461855,
+   "company": "systemstechnologyresearch",
+   "hours_open": 1106.1,
+   "title": "Autonomy Algorithms Software Engineer",
+   "uid": "greenhouse:systemstechnologyresearch:4704682006"
+  },
+  {
+   "closed_at": 1792461855,
+   "company": "spacex",
+   "hours_open": 1113.1,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1792461855,
+   "company": "spacex",
+   "hours_open": 1113.1,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 813,
- "updated_at": 1792460549
+ "count": 806,
+ "updated_at": 1792461856
 }
