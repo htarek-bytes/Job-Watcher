@@ -1,62 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792245568,
-   "company": "spacex",
-   "hours_open": 1051.3,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1792246265,
-   "company": "Groupe Mario Coté",
-   "hours_open": 23.8,
-   "title": "Administrateur de réseau",
-   "uid": "jobillico:analyste reseau:17594211"
-  },
-  {
-   "closed_at": 1792246265,
-   "company": "YO AI Labs",
-   "hours_open": 30.7,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50511622"
-  },
-  {
-   "closed_at": 1792254140,
-   "company": "Great Lakes Group",
-   "hours_open": 10.5,
-   "title": "electrical controls engineer",
-   "uid": "jobbank:control systems analyst:50520784"
-  },
-  {
-   "closed_at": 1792254140,
-   "company": "Meubles RD - Candiac",
-   "hours_open": 20.5,
-   "title": "Web developer",
-   "uid": "jobbank:programmeur junior:50495527"
-  },
-  {
-   "closed_at": 1792254140,
-   "company": "VicSquare Arcade",
-   "hours_open": 362.7,
-   "title": "electronic business (e-business) Web site developer",
-   "uid": "jobbank:developpeur junior:50406045"
-  },
-  {
-   "closed_at": 1792254140,
-   "company": "SANSHTECH INC.",
-   "hours_open": 376.8,
-   "title": "Web developer",
-   "uid": "jobbank:developpeur junior:50405631"
-  },
-  {
-   "closed_at": 1792254140,
-   "company": "maximor",
-   "hours_open": 1067.8,
-   "title": "Software engineering Intern",
-   "uid": "ashby:maximor:3ff6e57d-5430-4836-b6f0-19044d8ee6d8"
-  },
-  {
    "closed_at": 1792254140,
    "company": "maximor",
    "hours_open": 1080.5,
@@ -5599,8 +5543,64 @@
    "hours_open": 1124.5,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1792509217,
+   "company": "AMAX",
+   "hours_open": 260.3,
+   "title": "System Solutions Engineer",
+   "uid": "workable:amax-1:3EC8C52802"
+  },
+  {
+   "closed_at": 1792509217,
+   "company": "AlphaX",
+   "hours_open": 96.9,
+   "title": "Project Engineer - Commercial Electrical Projects",
+   "uid": "workable:alphax:B7CEC735EB"
+  },
+  {
+   "closed_at": 1792509217,
+   "company": "Wabtec",
+   "hours_open": 112.8,
+   "title": "Junior Service Engineer",
+   "uid": "smartrecruiters:Wabtec:3743990016139426"
+  },
+  {
+   "closed_at": 1792509217,
+   "company": "BestEx Research",
+   "hours_open": 956.8,
+   "title": "FIX Onboarding Engineer (Electronic Trading)",
+   "uid": "workable:bestex-research:33E26D04FC"
+  },
+  {
+   "closed_at": 1792509217,
+   "company": "BestEx Research",
+   "hours_open": 1126.0,
+   "title": "Quant Developer - Low Latency C++",
+   "uid": "workable:bestex-research:3F7068AD2F"
+  },
+  {
+   "closed_at": 1792509217,
+   "company": "spacex",
+   "hours_open": 1126.3,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1792509217,
+   "company": "Arondite",
+   "hours_open": 1006.1,
+   "title": "Technical Operations Specialist",
+   "uid": "workable:arondite:CB32B1E5EA"
+  },
+  {
+   "closed_at": 1792509217,
+   "company": "spacex",
+   "hours_open": 1126.3,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 814,
- "updated_at": 1792509100
+ "count": 808,
+ "updated_at": 1792509218
 }
