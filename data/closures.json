@@ -2,20 +2,6 @@
  "closed": [
   {
    "closed_at": 1792301096,
-   "company": "Turris",
-   "hours_open": 253.0,
-   "title": "rigger - telecommunications",
-   "uid": "jobbank:telecommunications analyst:50284117"
-  },
-  {
-   "closed_at": 1792301096,
-   "company": "SRS TECHNOLOGIES INC",
-   "hours_open": 873.6,
-   "title": "computer programmer",
-   "uid": "jobbank:junior programmer:50267927"
-  },
-  {
-   "closed_at": 1792301096,
    "company": "Royal Alarms Limited",
    "hours_open": 253.0,
    "title": "telecommunications equipment technician",
@@ -5599,8 +5585,22 @@
    "hours_open": 1152.8,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1792606589,
+   "company": "xai",
+   "hours_open": 1141.4,
+   "title": "Infrastructure Security Engineer",
+   "uid": "greenhouse:xai:5090998007"
+  },
+  {
+   "closed_at": 1792606589,
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
+   "hours_open": 32.0,
+   "title": "Administrateur Réseau TI",
+   "uid": "jobillico:analyste reseau:17628663"
   }
  ],
- "count": 809,
- "updated_at": 1792605783
+ "count": 802,
+ "updated_at": 1792606589
 }
