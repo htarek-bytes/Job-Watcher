@@ -2,83 +2,6 @@
  "closed": [
   {
    "closed_at": 1792301096,
-   "company": "EXO-C INC.",
-   "hours_open": 225.3,
-   "title": "computer programmer",
-   "uid": "jobbank:junior programmer:50454780"
-  },
-  {
-   "closed_at": 1792301096,
-   "company": "XYZ STUDIO LTD.",
-   "hours_open": 222.7,
-   "title": "Web developer",
-   "uid": "jobbank:developpeur junior:50456218"
-  },
-  {
-   "closed_at": 1792301096,
-   "company": "HYDRO-QUEBEC",
-   "hours_open": 230.8,
-   "title": "database developer",
-   "uid": "jobbank:developpeur junior:50452722"
-  },
-  {
-   "closed_at": 1792301096,
-   "company": "HYDRO-QUEBEC",
-   "hours_open": 225.1,
-   "title": "network system administrator",
-   "uid": "jobbank:systems administrator:50455634"
-  },
-  {
-   "closed_at": 1792301096,
-   "company": "HAFMAN CONSULTING GROUP INC.",
-   "hours_open": 230.6,
-   "title": "information systems quality assurance analyst",
-   "uid": "jobbank:systems analyst:50453138"
-  },
-  {
-   "closed_at": 1792301096,
-   "company": "CPR Cell Phone Repair St.Catherines",
-   "hours_open": 225.2,
-   "title": "telecommunications equipment technician",
-   "uid": "jobbank:telecommunications analyst:50455460"
-  },
-  {
-   "closed_at": 1792301096,
-   "company": "DLGL TECHNOLOGIES CORPORATION",
-   "hours_open": 255.5,
-   "title": "developer, software",
-   "uid": "jobbank:developpeur junior:50444616"
-  },
-  {
-   "closed_at": 1792301096,
-   "company": "Superior Property Management",
-   "hours_open": 249.6,
-   "title": "network system administrator",
-   "uid": "jobbank:systems administrator:50447420"
-  },
-  {
-   "closed_at": 1792301096,
-   "company": "CDW",
-   "hours_open": 95.0,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:systems analyst:50492410"
-  },
-  {
-   "closed_at": 1792301096,
-   "company": "Maarut",
-   "hours_open": 71.9,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:systems analyst:50501627"
-  },
-  {
-   "closed_at": 1792301096,
-   "company": "Thompson-Nicola Regional District",
-   "hours_open": 245.5,
-   "title": "geographic information systems (gis) analyst",
-   "uid": "jobbank:information systems analyst:50449056"
-  },
-  {
-   "closed_at": 1792301096,
    "company": "Ministère des Ressources naturelles et des Forêts",
    "hours_open": 253.5,
    "title": "geographic information systems (gis) analyst",
@@ -5599,8 +5522,85 @@
    "hours_open": 30.3,
    "title": "SW Development Engineer 1",
    "uid": "workday:dexcom.wd1/Dexcom:SW-Development-Engineer-1_JR121398"
+  },
+  {
+   "closed_at": 1792578880,
+   "company": "jabil",
+   "hours_open": 14.3,
+   "title": "Test Engineer I",
+   "uid": "workday:jabil.wd5/Jabil_Careers:Test-Engineer-I_J2468078"
+  },
+  {
+   "closed_at": 1792578880,
+   "company": "jabil",
+   "hours_open": 14.3,
+   "title": "Automation Engineer I",
+   "uid": "workday:jabil.wd5/Jabil_Careers:Automation-Engineer-I_J2463375"
+  },
+  {
+   "closed_at": 1792578880,
+   "company": "jci",
+   "hours_open": 14.3,
+   "title": "PTS Engineer 1",
+   "uid": "workday:jci.wd5/JCI:PTS-Engineer-1_WD30282305-1"
+  },
+  {
+   "closed_at": 1792578880,
+   "company": "LogiSense Corporation",
+   "hours_open": 5.0,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50547629"
+  },
+  {
+   "closed_at": 1792578880,
+   "company": "Alcoa Canada",
+   "hours_open": 1025.4,
+   "title": "Conseiller(ère) en cybersécurité (Amérique du Nord)",
+   "uid": "jobillico:analyste cybersecurite:17502948"
+  },
+  {
+   "closed_at": 1792578880,
+   "company": "hpe",
+   "hours_open": 87.3,
+   "title": "Technical Sales Graduate",
+   "uid": "workday:hpe.wd5/jobsathpe:Technical-Sales-Graduate_1213591-1"
+  },
+  {
+   "closed_at": 1792578880,
+   "company": "twitch",
+   "hours_open": 1142.7,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1792578880,
+   "company": "jci",
+   "hours_open": 876.1,
+   "title": "ACE Technical Sales - Security ACVS (Toronto, Canada)",
+   "uid": "workday:jci.wd5/JCI:ACE-Technical-Sales---Security-ACVS--Southwest-_WD30279385-1"
+  },
+  {
+   "closed_at": 1792578880,
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
+   "hours_open": 24.3,
+   "title": "Administrateur Réseau TI",
+   "uid": "jobillico:analyste reseau:17628663"
+  },
+  {
+   "closed_at": 1792578880,
+   "company": "spacex",
+   "hours_open": 1142.7,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1792578880,
+   "company": "spacex",
+   "hours_open": 1143.9,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
- "count": 803,
- "updated_at": 1792569453
+ "count": 811,
+ "updated_at": 1792578881
 }
