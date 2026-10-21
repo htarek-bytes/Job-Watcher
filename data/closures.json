@@ -2,132 +2,6 @@
  "closed": [
   {
    "closed_at": 1792301096,
-   "company": "Fed IT",
-   "hours_open": 13.0,
-   "title": "network system administrator",
-   "uid": "jobbank:systems administrator:50522469"
-  },
-  {
-   "closed_at": 1792301096,
-   "company": "Match Point Solutions",
-   "hours_open": 18.7,
-   "title": "server administrator",
-   "uid": "jobbank:linux administrator:50521567"
-  },
-  {
-   "closed_at": 1792301096,
-   "company": "Aequilibrium Software Inc.",
-   "hours_open": 24.3,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50520710"
-  },
-  {
-   "closed_at": 1792301096,
-   "company": "ENERSYS INC.",
-   "hours_open": 33.5,
-   "title": "programmer analyst",
-   "uid": "jobbank:junior programmer:50515786"
-  },
-  {
-   "closed_at": 1792301096,
-   "company": "Great Lakes Group",
-   "hours_open": 23.6,
-   "title": "electrical controls engineer",
-   "uid": "jobbank:control systems analyst:50520784"
-  },
-  {
-   "closed_at": 1792301096,
-   "company": "SQUALUS GROUP",
-   "hours_open": 63.1,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50503603"
-  },
-  {
-   "closed_at": 1792301096,
-   "company": "NearSource",
-   "hours_open": 71.9,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50502098"
-  },
-  {
-   "closed_at": 1792301096,
-   "company": "Confédération des syndicats nationaux",
-   "hours_open": 57.9,
-   "title": "network administrator",
-   "uid": "jobbank:network administrator:50506681"
-  },
-  {
-   "closed_at": 1792301096,
-   "company": "Lancesoft",
-   "hours_open": 71.9,
-   "title": "software developer",
-   "uid": "jobbank:scada:50501896"
-  },
-  {
-   "closed_at": 1792301096,
-   "company": "Parent Organization",
-   "hours_open": 63.1,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50503610"
-  },
-  {
-   "closed_at": 1792301096,
-   "company": "CBHM International LTD.",
-   "hours_open": 72.9,
-   "title": "Web application developer",
-   "uid": "jobbank:developpeur junior:50500150"
-  },
-  {
-   "closed_at": 1792301096,
-   "company": "LE GROUPE ESTRIE-RICHELIEU, COMPAGNIE D'ASSURANCE",
-   "hours_open": 84.3,
-   "title": "full stack Web developer",
-   "uid": "jobbank:developpeur junior:50495497"
-  },
-  {
-   "closed_at": 1792301096,
-   "company": "Meubles RD - Candiac",
-   "hours_open": 45.9,
-   "title": "Web developer",
-   "uid": "jobbank:developpeur junior:50495527"
-  },
-  {
-   "closed_at": 1792301096,
-   "company": "Meubles RD",
-   "hours_open": 39.3,
-   "title": "Web developer",
-   "uid": "jobbank:developpeur junior:50495666"
-  },
-  {
-   "closed_at": 1792301096,
-   "company": "City of New Westminster",
-   "hours_open": 83.4,
-   "title": "systems analyst",
-   "uid": "jobbank:systems analyst:50496050"
-  },
-  {
-   "closed_at": 1792301096,
-   "company": "WORLDWIDE WE GROW LTD.",
-   "hours_open": 86.0,
-   "title": "computer systems analyst",
-   "uid": "jobbank:systems analyst:50495348"
-  },
-  {
-   "closed_at": 1792301096,
-   "company": "Bell Canada",
-   "hours_open": 91.6,
-   "title": "network administrator",
-   "uid": "jobbank:network administrator:50492673"
-  },
-  {
-   "closed_at": 1792301096,
-   "company": "SCLB",
-   "hours_open": 86.7,
-   "title": "installation and repair technician - telecommunications",
-   "uid": "jobbank:telecommunications analyst:50494678"
-  },
-  {
-   "closed_at": 1792301096,
    "company": "PAS/PAMC",
    "hours_open": 110.0,
    "title": "programmer analyst",
@@ -5599,8 +5473,134 @@
    "hours_open": 1137.5,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1792560848,
+   "company": "LogiSense Corporation",
+   "hours_open": 163.0,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50493091"
+  },
+  {
+   "closed_at": 1792560848,
+   "company": "Logesco Informatique",
+   "hours_open": 1020.4,
+   "title": "Administrateur de réseau",
+   "uid": "jobillico:analyste reseau:17188132"
+  },
+  {
+   "closed_at": 1792560848,
+   "company": "Magna Mining Inc.",
+   "hours_open": 24.2,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:systems analyst:50539331"
+  },
+  {
+   "closed_at": 1792560848,
+   "company": "CDW",
+   "hours_open": 167.2,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:systems analyst:50492410"
+  },
+  {
+   "closed_at": 1792560848,
+   "company": "AWC Process Solutions Ltd.",
+   "hours_open": 303.0,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:scada:50451749"
+  },
+  {
+   "closed_at": 1792560848,
+   "company": "Blitz TI",
+   "hours_open": 686.0,
+   "title": "network administrator",
+   "uid": "jobbank:network administrator:50339477"
+  },
+  {
+   "closed_at": 1792560848,
+   "company": "Hewlett Packard Enterprise",
+   "hours_open": 3.9,
+   "title": "VLSI Engineer 1",
+   "uid": "simplify:listings:ebc9825c-1eff-4957-846a-a6c77915283b"
+  },
+  {
+   "closed_at": 1792560848,
+   "company": "Western Digital",
+   "hours_open": 111.3,
+   "title": "Engineer, Product Design Engineering (New Graduate / 0-2 Years Experience)",
+   "uid": "smartrecruiters:WesternDigital:744000155977569"
+  },
+  {
+   "closed_at": 1792560848,
+   "company": "twitch",
+   "hours_open": 1137.7,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1792560848,
+   "company": "Source Code",
+   "hours_open": 17.4,
+   "title": "software developer",
+   "uid": "jobbank:entry level software developer:50540579"
+  },
+  {
+   "closed_at": 1792560848,
+   "company": "City of Calgary",
+   "hours_open": 327.6,
+   "title": "network administrator",
+   "uid": "jobbank:network administrator:50443952"
+  },
+  {
+   "closed_at": 1792560848,
+   "company": "DPMSYSTEMS IT CONSULTING SERVICES",
+   "hours_open": 144.0,
+   "title": "information systems analyst - computer systems",
+   "uid": "jobbank:information systems analyst:50311291"
+  },
+  {
+   "closed_at": 1792560848,
+   "company": "Qualcomm",
+   "hours_open": 940.9,
+   "title": "Machine Learning Engineer New Grad - AI Processors - Machine Learning Engineering",
+   "uid": "simplify:listings:f658e592-7705-4abf-9fec-d62ac98b287e"
+  },
+  {
+   "closed_at": 1792560848,
+   "company": "Skyward",
+   "hours_open": 1123.5,
+   "title": "Software Engineer - Intern",
+   "uid": "smartrecruiters:Skyward1:744000147320799"
+  },
+  {
+   "closed_at": 1792560848,
+   "company": "BestEx Research",
+   "hours_open": 1140.3,
+   "title": "Quant Data Engineer",
+   "uid": "workable:bestex-research:E34784FE63"
+  },
+  {
+   "closed_at": 1792560848,
+   "company": "spacex",
+   "hours_open": 1137.7,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1792560848,
+   "company": "spacex",
+   "hours_open": 1138.9,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1792560848,
+   "company": "k2spacecorporation",
+   "hours_open": 396.5,
+   "title": "Vehicle & Mission Operations Engineer",
+   "uid": "greenhouse:k2spacecorporation:5031524008"
   }
  ],
- "count": 808,
- "updated_at": 1792549627
+ "count": 818,
+ "updated_at": 1792560848
 }
