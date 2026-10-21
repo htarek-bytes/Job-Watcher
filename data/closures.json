@@ -2,34 +2,6 @@
  "closed": [
   {
    "closed_at": 1792301096,
-   "company": "McCain Foods",
-   "hours_open": 202.5,
-   "title": "software developer",
-   "uid": "jobbank:scada:50459946"
-  },
-  {
-   "closed_at": 1792301096,
-   "company": "First Class Realty Inc., Brokerage",
-   "hours_open": 196.5,
-   "title": "cloud administrator",
-   "uid": "jobbank:cloud administrator:50462597"
-  },
-  {
-   "closed_at": 1792301096,
-   "company": "Zirnhelt Timber Frames",
-   "hours_open": 196.5,
-   "title": "cloud administrator",
-   "uid": "jobbank:cloud administrator:50463645"
-  },
-  {
-   "closed_at": 1792301096,
-   "company": "Stellar Software Solutions",
-   "hours_open": 200.2,
-   "title": "network infrastructure engineer",
-   "uid": "jobbank:specialiste infrastructure:50462911"
-  },
-  {
-   "closed_at": 1792301096,
    "company": "Canadian Light Source Inc.",
    "hours_open": 225.3,
    "title": "developer, software",
@@ -5599,8 +5571,36 @@
    "hours_open": 1021.4,
    "title": "network system administrator",
    "uid": "jobbank:systems administrator:49967696"
+  },
+  {
+   "closed_at": 1792567780,
+   "company": "Auralarm Ltd.",
+   "hours_open": 327.1,
+   "title": "telecommunications technician",
+   "uid": "jobbank:telecommunications analyst:50391573"
+  },
+  {
+   "closed_at": 1792567780,
+   "company": "twitch",
+   "hours_open": 1142.5,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1792567780,
+   "company": "spacex",
+   "hours_open": 1142.5,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1792567780,
+   "company": "spacex",
+   "hours_open": 1142.5,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 808,
- "updated_at": 1792564386
+ "count": 804,
+ "updated_at": 1792567781
 }

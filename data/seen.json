@@ -1,5 +1,5 @@
 {
- "count": 8795,
+ "count": 8798,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -2367,6 +2367,7 @@
   "greenhouse:doordashusa:8264542": 1791470133,
   "greenhouse:doordashusa:8267987": 1791580458,
   "greenhouse:doordashusa:8283735": 1792024568,
+  "greenhouse:doordashusa:8304878": 1792567780,
   "greenhouse:drweng:6586001": 1788454653,
   "greenhouse:drweng:6586065": 1788903151,
   "greenhouse:drweng:6821173": 1788454653,
@@ -7436,6 +7437,7 @@
   "workday:baxter.wd1/baxter:Controls-Engineer-I_JR-210746-1": 1790980231,
   "workday:bb.wd3/QNX:QNX-Open-Source-Software-Developer--New-Graduate-Graduate-_20260289": 1788377607,
   "workday:bb.wd3/blackberry:QNX-Open-Source-Software-Developer--New-Graduate-Graduate-_20260289-1": 1788368024,
+  "workday:bcidaho.wd5/BCI:AI-Engineer-I_R3397": 1792567780,
   "workday:bdo.wd3/BDO:Co-op-or-Intern--DevOps-Engineer--September-2026-_JR7058": 1789413651,
   "workday:bdo.wd3/BDO:DevOps-Engineer---New-Grad--January-2027-_JR7192-1": 1791422190,
   "workday:bdo.wd3/BDO:DevOps-Engineer---New-Grad--January-2027-_JR7194": 1791572780,
@@ -7580,6 +7582,7 @@
   "workday:canadiantirecorporation.wd3/Enterprise_External_Careers_Site:Business-Process---Automation-Specialist_JR163829": 1788979404,
   "workday:canadiantirecorporation.wd3/Enterprise_External_Careers_Site:Business-Systems-Engineer---AI_JR160709": 1788898936,
   "workday:canadiantirecorporation.wd3/Enterprise_External_Careers_Site:Enterprise-Data-Visualization---BI-Platform-Analyst_JR163657-1": 1788898936,
+  "workday:canadiantirecorporation.wd3/Enterprise_External_Careers_Site:Info-Security-Specialist_JR165970": 1792567780,
   "workday:capitalhealth.wd1/CapitalHealthCareers:IT-Product-Engineer-I_JR110768": 1788368024,
   "workday:capitalone.wd12/Capital_One:Associate--Software-Engineer--New-Grad-Card-Expansion_R247320": 1788368024,
   "workday:capitalone.wd12/Capital_One:Associate--Software-Engineer--New-Grad_R1003048": 1791363116,
@@ -8797,5 +8800,5 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148,
   "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541": 1789106107
  },
- "updated_at": 1792564386
+ "updated_at": 1792567780
 }
