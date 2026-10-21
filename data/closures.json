@@ -2,55 +2,6 @@
  "closed": [
   {
    "closed_at": 1792301096,
-   "company": "PCL Construction",
-   "hours_open": 279.8,
-   "title": "network administrator",
-   "uid": "jobbank:network administrator:50435424"
-  },
-  {
-   "closed_at": 1792301096,
-   "company": "Future Electronics",
-   "hours_open": 375.7,
-   "title": "network analyst",
-   "uid": "jobbank:network analyst:50409591"
-  },
-  {
-   "closed_at": 1792301096,
-   "company": "UPSCALE TECHOFY INC",
-   "hours_open": 371.0,
-   "title": "cybersecurity analyst",
-   "uid": "jobbank:cybersecurity analyst:50411161"
-  },
-  {
-   "closed_at": 1792301096,
-   "company": "VicSquare Arcade",
-   "hours_open": 376.2,
-   "title": "electronic business (e-business) Web site developer",
-   "uid": "jobbank:programmeur junior:50406045"
-  },
-  {
-   "closed_at": 1792301096,
-   "company": "Groupe Biscuits Leclerc",
-   "hours_open": 393.5,
-   "title": "network system administrator",
-   "uid": "jobbank:systems administrator:50404729"
-  },
-  {
-   "closed_at": 1792301096,
-   "company": "T&T Supermarket",
-   "hours_open": 397.1,
-   "title": "network system administrator",
-   "uid": "jobbank:systems administrator:50403133"
-  },
-  {
-   "closed_at": 1792301096,
-   "company": "Aldwych Consulting Ltd",
-   "hours_open": 90.9,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:systems analyst:50493270"
-  },
-  {
-   "closed_at": 1792301096,
    "company": "St. Joseph's Continuing Care Centre of Sudbury",
    "hours_open": 397.1,
    "title": "network infrastructure engineer",
@@ -5599,8 +5550,57 @@
    "hours_open": 26.9,
    "title": "Administrateur Réseau TI",
    "uid": "jobillico:analyste reseau:17628663"
+  },
+  {
+   "closed_at": 1792589859,
+   "company": "Groupe Mario Coté",
+   "hours_open": 119.3,
+   "title": "Administrateur de réseau",
+   "uid": "jobillico:analyste reseau:17594211"
+  },
+  {
+   "closed_at": 1792589859,
+   "company": "perfectserve",
+   "hours_open": 805.2,
+   "title": "Junior QA Engineer - US Remote",
+   "uid": "greenhouse:perfectserve:6188132004"
+  },
+  {
+   "closed_at": 1792589859,
+   "company": "twitch",
+   "hours_open": 1148.7,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1792589859,
+   "company": "zoll",
+   "hours_open": 1066.6,
+   "title": "Microsoft 365 Solutions Engineer",
+   "uid": "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369"
+  },
+  {
+   "closed_at": 1792589859,
+   "company": "RTX",
+   "hours_open": 135.0,
+   "title": "Reliability Analyst & Test Engineer 1",
+   "uid": "simplify:listings:ff2d1b33-f961-40da-8987-bc3acdae007b"
+  },
+  {
+   "closed_at": 1792589859,
+   "company": "spacex",
+   "hours_open": 1148.7,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1792589859,
+   "company": "spacex",
+   "hours_open": 1148.7,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 806,
- "updated_at": 1792588171
+ "count": 807,
+ "updated_at": 1792589861
 }
