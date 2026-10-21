@@ -1,76 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792278231,
-   "company": "twitch",
-   "hours_open": 1062.1,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1792278231,
-   "company": "reddit",
-   "hours_open": 52.1,
-   "title": "Machine Learning Engineer",
-   "uid": "greenhouse:reddit:7131934"
-  },
-  {
-   "closed_at": 1792278231,
-   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
-   "hours_open": 941.9,
-   "title": "Administrateur Réseau TI",
-   "uid": "jobillico:analyste reseau:17386419"
-  },
-  {
-   "closed_at": 1792278231,
-   "company": "spacex",
-   "hours_open": 1062.1,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1792278231,
-   "company": "spacex",
-   "hours_open": 1060.4,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1792278361,
-   "company": "YO AI Labs",
-   "hours_open": 37.7,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50511932"
-  },
-  {
-   "closed_at": 1792278361,
-   "company": "Belle Graphics Inc.",
-   "hours_open": 246.7,
-   "title": "installation and repair technician - telecommunications",
-   "uid": "jobbank:telecommunications analyst:50200449"
-  },
-  {
-   "closed_at": 1792278361,
-   "company": "Hi-Tech Solution",
-   "hours_open": 246.7,
-   "title": "telecommunications service tester",
-   "uid": "jobbank:telecommunications analyst:49955305"
-  },
-  {
-   "closed_at": 1792279485,
-   "company": "YO AI Labs",
-   "hours_open": 39.9,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50511622"
-  },
-  {
-   "closed_at": 1792279925,
-   "company": "twitch",
-   "hours_open": 1059.6,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
    "closed_at": 1792279925,
    "company": "reddit",
    "hours_open": 23.8,
@@ -5599,8 +5529,78 @@
    "hours_open": 1134.6,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1792543879,
+   "company": "Logesco Informatique",
+   "hours_open": 1015.7,
+   "title": "Administrateur de réseau",
+   "uid": "jobillico:analyste reseau:17188132"
+  },
+  {
+   "closed_at": 1792543879,
+   "company": "Amazon",
+   "hours_open": 101.0,
+   "title": "Software Development Engineer, Network Monitoring & Remediation",
+   "uid": "amazon:amazon:10581624"
+  },
+  {
+   "closed_at": 1792543879,
+   "company": "belvederetrading",
+   "hours_open": 1153.0,
+   "title": "Software Engineer - Entry Level 2027",
+   "uid": "lever:belvederetrading:2f6480e5-7bf1-4c41-b3b5-3c7404d95b5f"
+  },
+  {
+   "closed_at": 1792543879,
+   "company": "drweng",
+   "hours_open": 1143.8,
+   "title": "Platform Engineer Intern",
+   "uid": "greenhouse:drweng:7997729"
+  },
+  {
+   "closed_at": 1792543879,
+   "company": "field-ai",
+   "hours_open": 1133.0,
+   "title": "BIM/VDC Engineer",
+   "uid": "lever:field-ai:f93989e6-a29d-4411-a79b-ce6c949ffdec"
+  },
+  {
+   "closed_at": 1792543879,
+   "company": "uareai",
+   "hours_open": 1148.5,
+   "title": "Software Engineer (Early Career)",
+   "uid": "greenhouse:uareai:4036519009"
+  },
+  {
+   "closed_at": 1792543879,
+   "company": "Nexthop.ai",
+   "hours_open": 1023.4,
+   "title": "Software Engineer New Grad - Hardware Diagnostics",
+   "uid": "simplify:listings:10504711-cbfe-426e-b2c7-d85abee618a4"
+  },
+  {
+   "closed_at": 1792543879,
+   "company": "truveta",
+   "hours_open": 364.2,
+   "title": "Software Engineer - Clinical Analytics",
+   "uid": "greenhouse:truveta:6217329004"
+  },
+  {
+   "closed_at": 1792543879,
+   "company": "voyagertechnologiesinc",
+   "hours_open": 845.8,
+   "title": "Systems Engineer - Aerospace",
+   "uid": "greenhouse:voyagertechnologiesinc:4405625009"
+  },
+  {
+   "closed_at": 1792543879,
+   "company": "voyagertechnologiesinc",
+   "hours_open": 845.8,
+   "title": "Software Engineer ",
+   "uid": "greenhouse:voyagertechnologiesinc:4405677009"
   }
  ],
- "count": 806,
- "updated_at": 1792540349
+ "count": 810,
+ "updated_at": 1792543879
 }
