@@ -2,76 +2,6 @@
  "closed": [
   {
    "closed_at": 1792301096,
-   "company": "Scalable Systems",
-   "hours_open": 140.1,
-   "title": "cloud administrator",
-   "uid": "jobbank:cloud administrator:50477850"
-  },
-  {
-   "closed_at": 1792301096,
-   "company": "Vaisesika Consulting Inc.",
-   "hours_open": 535.4,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50368572"
-  },
-  {
-   "closed_at": 1792301096,
-   "company": "ADECCO",
-   "hours_open": 59.0,
-   "title": "instrumentation engineer",
-   "uid": "jobbank:scada:50504997"
-  },
-  {
-   "closed_at": 1792301096,
-   "company": "NOVIPRO",
-   "hours_open": 590.7,
-   "title": "information technology (it) system administrator",
-   "uid": "jobbank:systems administrator:50348569"
-  },
-  {
-   "closed_at": 1792301096,
-   "company": "Eco Medical Equipment",
-   "hours_open": 586.4,
-   "title": "cloud administrator",
-   "uid": "jobbank:cloud administrator:50349556"
-  },
-  {
-   "closed_at": 1792301096,
-   "company": "La Cartoucherie",
-   "hours_open": 589.9,
-   "title": "network support technician",
-   "uid": "jobbank:linux administrator:50348283"
-  },
-  {
-   "closed_at": 1792301096,
-   "company": "Trimoksha Technologies",
-   "hours_open": 610.1,
-   "title": "information systems analyst - computer systems",
-   "uid": "jobbank:systems analyst:50342697"
-  },
-  {
-   "closed_at": 1792301096,
-   "company": "Blitz TI",
-   "hours_open": 613.9,
-   "title": "network administrator",
-   "uid": "jobbank:network administrator:50339477"
-  },
-  {
-   "closed_at": 1792301096,
-   "company": "Xiingo",
-   "hours_open": 609.5,
-   "title": "computer network technician",
-   "uid": "jobbank:linux administrator:50343124"
-  },
-  {
-   "closed_at": 1792301096,
-   "company": "City of Calgary",
-   "hours_open": 255.5,
-   "title": "network administrator",
-   "uid": "jobbank:network administrator:50443952"
-  },
-  {
-   "closed_at": 1792301096,
    "company": "Sienna Senior Living",
    "hours_open": 132.5,
    "title": "cloud administrator",
@@ -5599,8 +5529,78 @@
    "hours_open": 1150.7,
    "title": "Electrical Test Engineer, PCB (Starlink)",
    "uid": "greenhouse:spacex:8532471002"
+  },
+  {
+   "closed_at": 1792597212,
+   "company": "Logesco Informatique",
+   "hours_open": 1030.5,
+   "title": "Administrateur de réseau",
+   "uid": "jobillico:analyste reseau:17188132"
+  },
+  {
+   "closed_at": 1792597212,
+   "company": "Media Resources",
+   "hours_open": 421.9,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50418314"
+  },
+  {
+   "closed_at": 1792597212,
+   "company": "twitch",
+   "hours_open": 1150.7,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1792597212,
+   "company": "rhoda-ai",
+   "hours_open": 331.9,
+   "title": "Robot Software Engineer",
+   "uid": "ashby:rhoda-ai:02a6ffea-7d21-4412-a5f1-cc3425f1af05"
+  },
+  {
+   "closed_at": 1792597212,
+   "company": "Capital One",
+   "hours_open": 1187.3,
+   "title": "Software Engineer New Grad - Software Engineer",
+   "uid": "simplify:listings:d03ac761-2dfa-4cd7-bd7c-797b6ff89c19"
+  },
+  {
+   "closed_at": 1792597212,
+   "company": "Blue Cross of Idaho",
+   "hours_open": 13.2,
+   "title": "AI Engineer 1",
+   "uid": "simplify:listings:95049413-d496-4bfa-9d12-e16f926251e5"
+  },
+  {
+   "closed_at": 1792597212,
+   "company": "RTX",
+   "hours_open": 16.4,
+   "title": "Software Engineer 1",
+   "uid": "simplify:listings:a7309900-70f4-42e4-a032-fd7570013f54"
+  },
+  {
+   "closed_at": 1792597212,
+   "company": "systemstechnologyresearch",
+   "hours_open": 1030.5,
+   "title": "Autonomy Algorithms Software Engineer",
+   "uid": "greenhouse:systemstechnologyresearch:4704680006"
+  },
+  {
+   "closed_at": 1792597212,
+   "company": "spacex",
+   "hours_open": 1150.7,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1792597212,
+   "company": "spacex",
+   "hours_open": 1149.0,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
  "count": 810,
- "updated_at": 1792597016
+ "updated_at": 1792597214
 }
