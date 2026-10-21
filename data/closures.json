@@ -2,69 +2,6 @@
  "closed": [
   {
    "closed_at": 1792301096,
-   "company": "ALLCOMM CABLING INC.",
-   "hours_open": 253.0,
-   "title": "telecommunications technician",
-   "uid": "jobbank:telecommunications analyst:50438575"
-  },
-  {
-   "closed_at": 1792301096,
-   "company": "Kraft Berger LLP",
-   "hours_open": 294.2,
-   "title": "network administrator",
-   "uid": "jobbank:network administrator:50430199"
-  },
-  {
-   "closed_at": 1792301096,
-   "company": "Study 2020 Consulting INC",
-   "hours_open": 309.2,
-   "title": "network security administrator",
-   "uid": "jobbank:network administrator:50424797"
-  },
-  {
-   "closed_at": 1792301096,
-   "company": "SaskGaming",
-   "hours_open": 300.2,
-   "title": "service desk analyst",
-   "uid": "jobbank:infrastructure analyst:50426114"
-  },
-  {
-   "closed_at": 1792301096,
-   "company": "City of Kelowna",
-   "hours_open": 293.2,
-   "title": "business systems analyst",
-   "uid": "jobbank:infrastructure analyst:50431917"
-  },
-  {
-   "closed_at": 1792301096,
-   "company": "City of Calgary",
-   "hours_open": 296.7,
-   "title": "marine systems engineer",
-   "uid": "jobbank:scada:50428376"
-  },
-  {
-   "closed_at": 1792301096,
-   "company": "CLOO Imaging Solutions",
-   "hours_open": 320.9,
-   "title": "cloud administrator",
-   "uid": "jobbank:cloud administrator:50422012"
-  },
-  {
-   "closed_at": 1792301096,
-   "company": "Media Resources",
-   "hours_open": 339.7,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50418314"
-  },
-  {
-   "closed_at": 1792301096,
-   "company": "Bell Canada",
-   "hours_open": 0.2,
-   "title": "systems analyst",
-   "uid": "jobbank:systems analyst:50525715"
-  },
-  {
-   "closed_at": 1792301096,
    "company": "SimpleK division de ASSA ABLOY High Security Group Inc.",
    "hours_open": 374.2,
    "title": "developer, software",
@@ -5599,8 +5536,71 @@
    "hours_open": 1145.7,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1792585063,
+   "company": "ngc",
+   "hours_open": 207.0,
+   "title": "2027 Systems Engineer Intern - Chantilly VA",
+   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Software-Engineer-Intern---Chantilly-VA_R10255633"
+  },
+  {
+   "closed_at": 1792585063,
+   "company": "roche",
+   "hours_open": 129.8,
+   "title": "Junior Custom Software Developer - RDT Data Platforms",
+   "uid": "workday:roche.wd3/roche-ext:Junior-Custom-Software-Developer---RDT-Data-Platforms_202610-125284"
+  },
+  {
+   "closed_at": 1792585063,
+   "company": "pg",
+   "hours_open": 355.5,
+   "title": "IT Technical Specialist Industrial Placement 2027",
+   "uid": "workday:pg.wd5/1000:IT-Technical-Specialist-Industrial-Placement-2027_R000160302"
+  },
+  {
+   "closed_at": 1792585063,
+   "company": "nvidia",
+   "hours_open": 539.3,
+   "title": "Mixed Signal Design Engineer - New College Grad 2026",
+   "uid": "workday:nvidia.wd5/NVIDIAExternalCareerSite:Mixed-Signal-Design-Engineer---New-College-Grad-2026_JR2025693"
+  },
+  {
+   "closed_at": 1792585063,
+   "company": "twitch",
+   "hours_open": 1144.4,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1792585063,
+   "company": "nvidia",
+   "hours_open": 1020.6,
+   "title": "ASIC Floorplan Design Engineer - New College Grad 2026",
+   "uid": "workday:nvidia.wd5/NVIDIAExternalCareerSite:ASIC-Floorplan-Design-Engineer---New-College-Grad-2026_JR2024651"
+  },
+  {
+   "closed_at": 1792585063,
+   "company": "RTX",
+   "hours_open": 406.0,
+   "title": "Receiver – Exciter - & Processing Architecture Software Engineer I",
+   "uid": "simplify:listings:f4abd014-83a4-4f62-b404-1fe28a2f422a"
+  },
+  {
+   "closed_at": 1792585063,
+   "company": "spacex",
+   "hours_open": 1144.4,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1792585063,
+   "company": "spacex",
+   "hours_open": 1145.6,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
- "count": 807,
- "updated_at": 1792579149
+ "count": 809,
+ "updated_at": 1792585063
 }
