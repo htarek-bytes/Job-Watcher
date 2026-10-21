@@ -1,76 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792345072,
-   "company": "spacex",
-   "hours_open": 1077.7,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1792345072,
-   "company": "spacex",
-   "hours_open": 1080.4,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1792345872,
-   "company": "Groupe Mario Coté",
-   "hours_open": 51.5,
-   "title": "Administrateur de réseau",
-   "uid": "jobillico:analyste reseau:17594211"
-  },
-  {
-   "closed_at": 1792345872,
-   "company": "Lakeland Roman Catholic Separate School Division",
-   "hours_open": 960.7,
-   "title": "computer systems analyst",
-   "uid": "jobbank:systems analyst:50064831"
-  },
-  {
-   "closed_at": 1792345872,
-   "company": "avav",
-   "hours_open": 409.5,
-   "title": "Software Engineering Intern",
-   "uid": "workday:avav.wd1/avav:Software-Engineering-Intern_8797"
-  },
-  {
-   "closed_at": 1792350122,
-   "company": "dexcom",
-   "hours_open": 38.0,
-   "title": "SW Development Engineer 1",
-   "uid": "workday:dexcom.wd1/Dexcom:SW-Development-Engineer-1_JR121399"
-  },
-  {
-   "closed_at": 1792351288,
-   "company": "evergreenix",
-   "hours_open": 92.8,
-   "title": "Software Engineer I",
-   "uid": "workday:evergreenix.wd1/external-careers2:Software-Engineer-I_JR500749-1"
-  },
-  {
-   "closed_at": 1792351288,
-   "company": "hpe",
-   "hours_open": 24.0,
-   "title": "Technical Sales Graduate",
-   "uid": "workday:hpe.wd5/jobsathpe:Technical-Sales-Graduate_1213591-1"
-  },
-  {
-   "closed_at": 1792351288,
-   "company": "iberdrola",
-   "hours_open": 910.6,
-   "title": "Associate Engineer - Distribution Planning",
-   "uid": "workday:iberdrola.wd3/iberdrola:Associate-Engineer---Distribution-Planning_R-30914"
-  },
-  {
-   "closed_at": 1792351288,
-   "company": "andurilindustries",
-   "hours_open": 1080.7,
-   "title": "Systems Engineer, Battlespace",
-   "uid": "greenhouse:andurilindustries:5169846007"
-  },
-  {
    "closed_at": 1792351461,
    "company": "Logesco Informatique",
    "hours_open": 962.3,
@@ -5599,8 +5529,78 @@
    "hours_open": 1156.2,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1792625972,
+   "company": "gitlab",
+   "hours_open": 168.2,
+   "title": "Cloud Platform Engineer",
+   "uid": "greenhouse:gitlab:8889193002"
+  },
+  {
+   "closed_at": 1792625972,
+   "company": "danaher",
+   "hours_open": 15.7,
+   "title": "Solutions Consultant",
+   "uid": "workday:danaher.wd1/danaherjobs:Solutions-Consultant_R1320104-1"
+  },
+  {
+   "closed_at": 1792625972,
+   "company": "Stellar Software Solutions",
+   "hours_open": 280.9,
+   "title": "network infrastructure engineer",
+   "uid": "jobbank:infrastructure analyst:50462911"
+  },
+  {
+   "closed_at": 1792625972,
+   "company": "twitch",
+   "hours_open": 1158.7,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1792625972,
+   "company": "pryzm",
+   "hours_open": 1155.6,
+   "title": "Forward Deployed Engineer",
+   "uid": "ashby:pryzm:22f2fab1-7f66-43d2-a268-40e2d25fe173"
+  },
+  {
+   "closed_at": 1792625972,
+   "company": "globalfoundries",
+   "hours_open": 1180.1,
+   "title": "SoC Design Verification Engineer (2026 New College Graduate)",
+   "uid": "workday:globalfoundries.wd1/External:SoC-Design-Verification-Engineer--2026-New-College-Graduate-_JR-2601515"
+  },
+  {
+   "closed_at": 1792625972,
+   "company": "draftkings",
+   "hours_open": 1021.7,
+   "title": "Software Engineer Intern (Summer 2027)",
+   "uid": "workday:draftkings.wd1/Campus_Career_Portal:Software-Engineer-Intern--Summer-2027-_JR14929"
+  },
+  {
+   "closed_at": 1792625972,
+   "company": "RTX",
+   "hours_open": 54.6,
+   "title": "Software Engineer/Developer 1",
+   "uid": "simplify:listings:35893c47-402b-4538-9d53-6d41d4ee9a72"
+  },
+  {
+   "closed_at": 1792625972,
+   "company": "systemstechnologyresearch",
+   "hours_open": 1038.5,
+   "title": "Autonomy Algorithms Software Engineer",
+   "uid": "greenhouse:systemstechnologyresearch:4704680006"
+  },
+  {
+   "closed_at": 1792625972,
+   "company": "astranis",
+   "hours_open": 1158.7,
+   "title": "Machinist/Programmer",
+   "uid": "greenhouse:astranis:4596812006"
   }
  ],
- "count": 806,
- "updated_at": 1792622943
+ "count": 810,
+ "updated_at": 1792625972
 }
