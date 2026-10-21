@@ -2,13 +2,6 @@
  "closed": [
   {
    "closed_at": 1792301096,
-   "company": "PAS/PAMC",
-   "hours_open": 110.0,
-   "title": "programmer analyst",
-   "uid": "jobbank:junior programmer:50483827"
-  },
-  {
-   "closed_at": 1792301096,
    "company": "CONNECT THE DOC",
    "hours_open": 99.3,
    "title": "Web application developer",
@@ -5599,8 +5592,15 @@
    "hours_open": 396.5,
    "title": "Vehicle & Mission Operations Engineer",
    "uid": "greenhouse:k2spacecorporation:5031524008"
+  },
+  {
+   "closed_at": 1792561315,
+   "company": "Starling",
+   "hours_open": 84.5,
+   "title": "Information Security Operations Analyst (Toronto, Canada)",
+   "uid": "workable:starling-bank:A57D6CB4AC"
   }
  ],
- "count": 818,
- "updated_at": 1792560848
+ "count": 801,
+ "updated_at": 1792561315
 }
