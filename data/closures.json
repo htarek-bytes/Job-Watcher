@@ -1,62 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792300363,
-   "company": "YO AI Labs",
-   "hours_open": 43.8,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50511932"
-  },
-  {
-   "closed_at": 1792300363,
-   "company": "twitch",
-   "hours_open": 1068.3,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1792300363,
-   "company": "reddit",
-   "hours_open": 58.3,
-   "title": "Machine Learning Engineer",
-   "uid": "greenhouse:reddit:7131934"
-  },
-  {
-   "closed_at": 1792300363,
-   "company": "Maarut",
-   "hours_open": 12.8,
-   "title": "software developer",
-   "uid": "jobbank:entry level software developer:50517346"
-  },
-  {
-   "closed_at": 1792300363,
-   "company": "EXFO inc",
-   "hours_open": 1061.8,
-   "title": "Concepteur logiciel / Software Design Engineer",
-   "uid": "jobillico:software developer:17294693"
-  },
-  {
-   "closed_at": 1792300363,
-   "company": "DPMSYSTEMS IT CONSULTING SERVICES",
-   "hours_open": 720.3,
-   "title": "information systems analyst - computer systems",
-   "uid": "jobbank:systems analyst:50311291"
-  },
-  {
-   "closed_at": 1792300363,
-   "company": "spacex",
-   "hours_open": 1068.3,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1792300363,
-   "company": "spacex",
-   "hours_open": 1068.3,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
    "closed_at": 1792301096,
    "company": "Fed IT",
    "hours_open": 13.0,
@@ -5599,8 +5543,64 @@
    "hours_open": 139.6,
    "title": "Technical Sales Consultant Analytical Chemistry",
    "uid": "smartrecruiters:AntonPaar1:744000152681609"
+  },
+  {
+   "closed_at": 1792549626,
+   "company": "SGS",
+   "hours_open": 26.9,
+   "title": "Junior Structural Design Review Engineer \"Civil\"",
+   "uid": "smartrecruiters:SGS:744000156250559"
+  },
+  {
+   "closed_at": 1792549626,
+   "company": "ServiceNow",
+   "hours_open": 124.1,
+   "title": "Partner Solution Engineer ",
+   "uid": "smartrecruiters:ServiceNow:744000155827304"
+  },
+  {
+   "closed_at": 1792549626,
+   "company": "ServiceNow",
+   "hours_open": 137.1,
+   "title": "Advisory Solution Consultant - Moveworks",
+   "uid": "smartrecruiters:ServiceNow:744000155696229"
+  },
+  {
+   "closed_at": 1792549626,
+   "company": "ServiceNow",
+   "hours_open": 108.2,
+   "title": "Advisory Solution Consultant - Core Business Solutions",
+   "uid": "smartrecruiters:ServiceNow:744000155944309"
+  },
+  {
+   "closed_at": 1792549626,
+   "company": "twitch",
+   "hours_open": 1137.5,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1792549626,
+   "company": "LLNL",
+   "hours_open": 761.0,
+   "title": "Computing Undergraduate Student Intern: DevOps Internship Program - Summer 2027",
+   "uid": "smartrecruiters:LLNL:3743990015408206"
+  },
+  {
+   "closed_at": 1792549626,
+   "company": "spacex",
+   "hours_open": 1137.5,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1792549626,
+   "company": "spacex",
+   "hours_open": 1137.5,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 805,
- "updated_at": 1792548071
+ "count": 808,
+ "updated_at": 1792549627
 }
