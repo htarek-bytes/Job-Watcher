@@ -2,76 +2,6 @@
  "closed": [
   {
    "closed_at": 1792301096,
-   "company": "St. Joseph's Continuing Care Centre of Sudbury",
-   "hours_open": 397.1,
-   "title": "network infrastructure engineer",
-   "uid": "jobbank:infrastructure analyst:50402681"
-  },
-  {
-   "closed_at": 1792301096,
-   "company": "Vale Base Metals",
-   "hours_open": 396.8,
-   "title": "business systems analyst",
-   "uid": "jobbank:infrastructure analyst:50403173"
-  },
-  {
-   "closed_at": 1792301096,
-   "company": "Equal Air",
-   "hours_open": 397.1,
-   "title": "information systems analyst - computer systems",
-   "uid": "jobbank:information systems analyst:50403078"
-  },
-  {
-   "closed_at": 1792301096,
-   "company": "Lexia Communications Inc.",
-   "hours_open": 414.8,
-   "title": "computer programmer",
-   "uid": "jobbank:junior programmer:50398942"
-  },
-  {
-   "closed_at": 1792301096,
-   "company": "Saskatchewan Liquor & Gaming Authority (SLGA)",
-   "hours_open": 95.9,
-   "title": "software developer",
-   "uid": "jobbank:junior programmer:50491568"
-  },
-  {
-   "closed_at": 1792301096,
-   "company": "Zencom",
-   "hours_open": 253.0,
-   "title": "telecommunications technician",
-   "uid": "jobbank:telecommunications analyst:50396357"
-  },
-  {
-   "closed_at": 1792301096,
-   "company": "FOP EXPERTS CONSEILS INC.",
-   "hours_open": 438.9,
-   "title": "information systems technical analyst",
-   "uid": "jobbank:information systems analyst:50392109"
-  },
-  {
-   "closed_at": 1792301096,
-   "company": "Auralarm Ltd.",
-   "hours_open": 253.0,
-   "title": "telecommunications technician",
-   "uid": "jobbank:telecommunications analyst:50391573"
-  },
-  {
-   "closed_at": 1792301096,
-   "company": "Sherwood Electromotion Inc",
-   "hours_open": 442.8,
-   "title": "network technical specialist",
-   "uid": "jobbank:analyste reseau:50391508"
-  },
-  {
-   "closed_at": 1792301096,
-   "company": "TECHSAVY INC.",
-   "hours_open": 253.0,
-   "title": "telecommunications technician",
-   "uid": "jobbank:telecommunications analyst:50383753"
-  },
-  {
-   "closed_at": 1792301096,
    "company": "Scalable Systems",
    "hours_open": 140.1,
    "title": "cloud administrator",
@@ -5599,8 +5529,78 @@
    "hours_open": 1148.7,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1792597012,
+   "company": "Domtar",
+   "hours_open": 24.4,
+   "title": "Administrateur système Windows",
+   "uid": "jobillico:administrateur systeme:17631324"
+  },
+  {
+   "closed_at": 1792597012,
+   "company": "Alcoa Canada",
+   "hours_open": 1030.5,
+   "title": "Conseiller(ère) en cybersécurité (Amérique du Nord)",
+   "uid": "jobillico:analyste cybersecurite:17502948"
+  },
+  {
+   "closed_at": 1792597012,
+   "company": "Amazon",
+   "hours_open": 115.7,
+   "title": "Software Development Engineer, Network Monitoring & Remediation",
+   "uid": "amazon:amazon:10581624"
+  },
+  {
+   "closed_at": 1792597012,
+   "company": "purestorage",
+   "hours_open": 1022.0,
+   "title": "Technical Services Engineer, Portworx",
+   "uid": "greenhouse:purestorage:8153343"
+  },
+  {
+   "closed_at": 1792597012,
+   "company": "twitch",
+   "hours_open": 1147.7,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1792597012,
+   "company": "andurilindustries",
+   "hours_open": 39.9,
+   "title": "Software Engineer - Payload Integrations",
+   "uid": "greenhouse:andurilindustries:5269031007"
+  },
+  {
+   "closed_at": 1792597012,
+   "company": "rocketems",
+   "hours_open": 46.6,
+   "title": "SMT Programmer (Second Shift)",
+   "uid": "greenhouse:rocketems:4457517009"
+  },
+  {
+   "closed_at": 1792597012,
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
+   "hours_open": 29.4,
+   "title": "Administrateur Réseau TI",
+   "uid": "jobillico:analyste reseau:17628663"
+  },
+  {
+   "closed_at": 1792597012,
+   "company": "accenturefederalservices",
+   "hours_open": 1150.7,
+   "title": "DevOps Engineer",
+   "uid": "greenhouse:accenturefederalservices:4689022006"
+  },
+  {
+   "closed_at": 1792597012,
+   "company": "spacex",
+   "hours_open": 1150.7,
+   "title": "Electrical Test Engineer, PCB (Starlink)",
+   "uid": "greenhouse:spacex:8532471002"
   }
  ],
- "count": 807,
- "updated_at": 1792589861
+ "count": 810,
+ "updated_at": 1792597016
 }
