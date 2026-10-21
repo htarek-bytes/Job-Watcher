@@ -1,97 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792316929,
-   "company": "trimble",
-   "hours_open": 954.7,
-   "title": "Software Engineering Intern",
-   "uid": "workday:trimble.wd1/TrimbleCareers:Software-Engineering-Intern_R57676"
-  },
-  {
-   "closed_at": 1792316929,
-   "company": "Global Fleet Management Inc.",
-   "hours_open": 756.2,
-   "title": "information systems analyst - computer systems",
-   "uid": "jobbank:systems analyst:50302902"
-  },
-  {
-   "closed_at": 1792316929,
-   "company": "Regime Solutions Inc.",
-   "hours_open": 951.1,
-   "title": "computer systems analyst",
-   "uid": "jobbank:systems analyst:50243696"
-  },
-  {
-   "closed_at": 1792316929,
-   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
-   "hours_open": 952.7,
-   "title": "Administrateur Réseau TI",
-   "uid": "jobillico:analyste reseau:17386419"
-  },
-  {
-   "closed_at": 1792317188,
-   "company": "Groupe Mario Coté",
-   "hours_open": 43.5,
-   "title": "Administrateur de réseau",
-   "uid": "jobillico:analyste reseau:17594211"
-  },
-  {
-   "closed_at": 1792317188,
-   "company": "YO AI Labs",
-   "hours_open": 48.5,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50511932"
-  },
-  {
-   "closed_at": 1792317188,
-   "company": "Global Fleet Management Inc.",
-   "hours_open": 0.1,
-   "title": "information systems analyst - computer systems",
-   "uid": "jobbank:information systems analyst:50302902"
-  },
-  {
-   "closed_at": 1792317188,
-   "company": "Regime Solutions Inc.",
-   "hours_open": 87.9,
-   "title": "computer systems analyst",
-   "uid": "jobbank:analyste de systemes:50243696"
-  },
-  {
-   "closed_at": 1792323315,
-   "company": "Dexcom",
-   "hours_open": 36.3,
-   "title": "Software Development Engineer 1",
-   "uid": "simplify:listings:7b2a26dd-7916-4ee7-ba75-e35c445c25b0"
-  },
-  {
-   "closed_at": 1792323315,
-   "company": "Magna Mining Inc.",
-   "hours_open": 132.3,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:systems analyst:50480771"
-  },
-  {
-   "closed_at": 1792323315,
-   "company": "Currier Plastics",
-   "hours_open": 231.0,
-   "title": "Tooling Engineer",
-   "uid": "workable:currier-plastics:E38D8E6920"
-  },
-  {
-   "closed_at": 1792323315,
-   "company": "DPMSYSTEMS IT CONSULTING SERVICES",
-   "hours_open": 78.0,
-   "title": "information systems analyst - computer systems",
-   "uid": "jobbank:information systems analyst:50311291"
-  },
-  {
-   "closed_at": 1792323758,
-   "company": "twitch",
-   "hours_open": 1074.8,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
    "closed_at": 1792323758,
    "company": "reddit",
    "hours_open": 64.8,
@@ -5599,8 +5508,99 @@
    "hours_open": 1154.1,
    "title": "Mission Software Engineer, Air Vehicle Autonomy, C++",
    "uid": "greenhouse:andurilindustries:4673932007"
+  },
+  {
+   "closed_at": 1792618555,
+   "company": "Western Digital",
+   "hours_open": 16.0,
+   "title": "Internship - Software Development Engineering (Embedded)",
+   "uid": "smartrecruiters:WesternDigital:744000156706399"
+  },
+  {
+   "closed_at": 1792618555,
+   "company": "twitch",
+   "hours_open": 313.5,
+   "title": "Software Engineer I",
+   "uid": "greenhouse:twitch:8879673002"
+  },
+  {
+   "closed_at": 1792618555,
+   "company": "archer56",
+   "hours_open": 476.7,
+   "title": "VMS Software Engineer",
+   "uid": "greenhouse:archer56:7652666003"
+  },
+  {
+   "closed_at": 1792618555,
+   "company": "Stellar Software Solutions",
+   "hours_open": 278.8,
+   "title": "network infrastructure engineer",
+   "uid": "jobbank:infrastructure analyst:50462911"
+  },
+  {
+   "closed_at": 1792618555,
+   "company": "Amazon",
+   "hours_open": 50.1,
+   "title": "Software Development Engineer - Amazon MSK, Managed Streaming for Kafka",
+   "uid": "amazon:amazon:10583039"
+  },
+  {
+   "closed_at": 1792618555,
+   "company": "Amazon",
+   "hours_open": 313.5,
+   "title": "Software Development Engineer, Agentic AI, Velocity Labs",
+   "uid": "amazon:amazon:10573921"
+  },
+  {
+   "closed_at": 1792618555,
+   "company": "stripe",
+   "hours_open": 1156.6,
+   "title": "Security Analyst ",
+   "uid": "greenhouse:stripe:8142302"
+  },
+  {
+   "closed_at": 1792618555,
+   "company": "freeformfuturecorp",
+   "hours_open": 1036.4,
+   "title": "IT System Administrator ",
+   "uid": "greenhouse:freeformfuturecorp:7810360003"
+  },
+  {
+   "closed_at": 1792618555,
+   "company": "altentechnologyusa",
+   "hours_open": 1154.9,
+   "title": "Systems Engineer",
+   "uid": "greenhouse:altentechnologyusa:5165299007"
+  },
+  {
+   "closed_at": 1792618555,
+   "company": "Amazon",
+   "hours_open": 0.9,
+   "title": "Software Development Engineer, Amazon Quick",
+   "uid": "amazon:amazon:10585475"
+  },
+  {
+   "closed_at": 1792618555,
+   "company": "AVK",
+   "hours_open": 1156.4,
+   "title": "Electrical Project Engineer",
+   "uid": "workable:avk-seg-uk-ltd:D48DFEC02C"
+  },
+  {
+   "closed_at": 1792618555,
+   "company": "gotion",
+   "hours_open": 1156.6,
+   "title": "Lean Engineer ",
+   "uid": "greenhouse:gotion:8562148002"
+  },
+  {
+   "closed_at": 1792618555,
+   "company": "spacex",
+   "hours_open": 1154.9,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
- "count": 825,
- "updated_at": 1792615394
+ "count": 813,
+ "updated_at": 1792618556
 }
