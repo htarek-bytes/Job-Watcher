@@ -1,5 +1,5 @@
 {
- "count": 9008,
+ "count": 9010,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -8640,6 +8640,7 @@
   "workday:onto.wd1/onto_careers:Development-Engineer-1_R-6389": 1789682887,
   "workday:onto.wd1/onto_careers:Field-Service-Engineer-1_R-5922": 1788539216,
   "workday:onto.wd1/onto_careers:Supervisor--Field-Services_R-5957": 1788377835,
+  "workday:oshkoshcorporation.wd5/Oshkosh:DSM-MBD-Engineer-Intern_R51331": 1792699610,
   "workday:oshkoshcorporation.wd5/Oshkosh:Electrical-Integration-Engineer-Intern_R50260-1": 1789168928,
   "workday:oshkoshcorporation.wd5/Oshkosh:Electrification-Engineer-Intern_R50654-1": 1790818434,
   "workday:oshkoshcorporation.wd5/Oshkosh:Engineer-Intern---Industrial_R49877": 1788442554,
@@ -8791,6 +8792,7 @@
   "workday:sanofi.wd3/SanofiCareers:XMLNAME-2027-Spring-Co-op-Biologics-Drug-Product-Development--Waltham--MA_R2854210-1": 1791232806,
   "workday:sanofi.wd3/SanofiCareers:XMLNAME-2027-Spring-Co-op-CMC-Early-Stage-Drug-Product-Development--Framingham--MA_R2855890": 1792419840,
   "workday:sanofi.wd3/SanofiCareers:XMLNAME-2027-Spring-Co-op-Cyber-Security-Operations-Center--Morristown--NJ_R2854248": 1790052462,
+  "workday:sanofi.wd3/SanofiCareers:XMLNAME-2027-Spring-Co-op-Laboratory-Automation-Engineer-Process-Chemistry-Lab--Cambridge--MA_R2856035": 1792699610,
   "workday:santander.wd3/SantanderCareers:SGTO-Software-Engineering-Analyst-I_Req0896874": 1788377835,
   "workday:sec.wd3/Samsung_Careers:AMHS-Entry-level-Engineer_R120379": 1789517822,
   "workday:sec.wd3/Samsung_Careers:XMLNAME-2027-New-Grad--SEED--Program_R119156-1": 1788377835,
@@ -9010,5 +9012,5 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148,
   "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541": 1789106107
  },
- "updated_at": 1792699473
+ "updated_at": 1792699610
 }
