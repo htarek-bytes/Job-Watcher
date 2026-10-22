@@ -1,55 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792429415,
-   "company": "rocketems",
-   "hours_open": 306.0,
-   "title": "SMT Programmer",
-   "uid": "greenhouse:rocketems:4434567009"
-  },
-  {
-   "closed_at": 1792429415,
-   "company": "darkwolfsolutions",
-   "hours_open": 672.0,
-   "title": "Front End Engineer",
-   "uid": "greenhouse:darkwolfsolutions:8001074003"
-  },
-  {
-   "closed_at": 1792429415,
-   "company": "rocketlab",
-   "hours_open": 1097.1,
-   "title": "Production Engineer I",
-   "uid": "greenhouse:rocketlab:7954195003"
-  },
-  {
-   "closed_at": 1792429415,
-   "company": "spacex",
-   "hours_open": 1104.1,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1792430052,
-   "company": "kayak",
-   "hours_open": 139.4,
-   "title": "Financial Systems Specialist",
-   "uid": "ashby:kayak:28830bee-2344-4112-bd39-184e0d92707c"
-  },
-  {
-   "closed_at": 1792430052,
-   "company": "clear",
-   "hours_open": 1102.6,
-   "title": "Software Engineer, Infrastructure ",
-   "uid": "greenhouse:clear:7901600"
-  },
-  {
-   "closed_at": 1792438366,
-   "company": "botauto",
-   "hours_open": 668.2,
-   "title": "Intern, IT Specialist",
-   "uid": "greenhouse:botauto:5430792008"
-  },
-  {
    "closed_at": 1792438366,
    "company": "Vaisesika Consulting Inc.",
    "hours_open": 573.5,
@@ -5599,8 +5550,57 @@
    "hours_open": 1173.8,
    "title": "DevOps Engineer",
    "uid": "greenhouse:darkwolfsolutions:7672377003"
+  },
+  {
+   "closed_at": 1792682083,
+   "company": "lightspeedhq",
+   "hours_open": 1174.3,
+   "title": "Analytics Engineer",
+   "uid": "ashby:lightspeedhq:bebf18c5-3437-4ab3-86db-d065b0611445"
+  },
+  {
+   "closed_at": 1792682083,
+   "company": "Groupe DCM",
+   "hours_open": 826.3,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534679"
+  },
+  {
+   "closed_at": 1792682083,
+   "company": "HAFMAN CONSULTING GROUP INC.",
+   "hours_open": 336.4,
+   "title": "information systems quality assurance analyst",
+   "uid": "jobbank:systems analyst:50453138"
+  },
+  {
+   "closed_at": 1792682083,
+   "company": "cssmerge",
+   "hours_open": 209.4,
+   "title": "Software Engineer Intern - Winter 2027",
+   "uid": "greenhouse:cssmerge:8687915002"
+  },
+  {
+   "closed_at": 1792682083,
+   "company": "DPMSYSTEMS IT CONSULTING SERVICES",
+   "hours_open": 177.7,
+   "title": "information systems analyst - computer systems",
+   "uid": "jobbank:information systems analyst:50311291"
+  },
+  {
+   "closed_at": 1792682083,
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
+   "hours_open": 53.0,
+   "title": "Administrateur Réseau TI",
+   "uid": "jobillico:analyste reseau:17628663"
+  },
+  {
+   "closed_at": 1792682083,
+   "company": "Amazon",
+   "hours_open": 306.0,
+   "title": "Software Development Engineer, Amazon Leo Live",
+   "uid": "amazon:amazon:10575136"
   }
  ],
- "count": 814,
- "updated_at": 1792680203
+ "count": 807,
+ "updated_at": 1792682083
 }
