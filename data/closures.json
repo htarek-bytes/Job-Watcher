@@ -1,118 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792445462,
-   "company": "palantir",
-   "hours_open": 1120.9,
-   "title": "Forward Deployed Software Engineer, Internship - Intel",
-   "uid": "lever:palantir:9e40d77f-b07c-437b-98e7-def9b0184d89"
-  },
-  {
-   "closed_at": 1792445462,
-   "company": "palantir",
-   "hours_open": 1120.9,
-   "title": "Forward Deployed Software Engineer, Internship - Defense Tech",
-   "uid": "lever:palantir:cccfe1bd-f15b-4fe5-b044-c793e7961c1b"
-  },
-  {
-   "closed_at": 1792445751,
-   "company": "Amazon",
-   "hours_open": 123.6,
-   "title": "Software Development Engineer, BigMesh, Traffic Engineering",
-   "uid": "amazon:amazon:10578212"
-  },
-  {
-   "closed_at": 1792445751,
-   "company": "zoox",
-   "hours_open": 1105.7,
-   "title": "Software Engineer, ML Platform (ML Training)",
-   "uid": "lever:zoox:d4108968-e83d-4d87-a92c-e4cd1823801c"
-  },
-  {
-   "closed_at": 1792445751,
-   "company": "sprymethods",
-   "hours_open": 1105.7,
-   "title": "DevOps Engineer (Mid)",
-   "uid": "lever:sprymethods:193c56e7-bad3-43da-9584-d9cb09e8aa39"
-  },
-  {
-   "closed_at": 1792450979,
-   "company": "Axon",
-   "hours_open": 71.7,
-   "title": "Software Engineer 1",
-   "uid": "simplify:listings:984e5620-d97d-4408-9534-5b618ea183b2"
-  },
-  {
-   "closed_at": 1792450979,
-   "company": "AECOM",
-   "hours_open": 70.3,
-   "title": "Junior Geotechnical Engineer",
-   "uid": "smartrecruiters:AECOM2:744000156043431"
-  },
-  {
-   "closed_at": 1792450979,
-   "company": "AbbVie",
-   "hours_open": 70.3,
-   "title": "Associate Engineer, Technical Development Program",
-   "uid": "smartrecruiters:AbbVie:3743990016186871"
-  },
-  {
-   "closed_at": 1792450979,
-   "company": "ALTEN",
-   "hours_open": 80.9,
-   "title": "Junior Software Developer C/C++ (all gender)",
-   "uid": "smartrecruiters:ALTEN:744000155966274"
-  },
-  {
-   "closed_at": 1792450979,
-   "company": "CoStar Group",
-   "hours_open": 92.6,
-   "title": "Software Engineer 1",
-   "uid": "simplify:listings:9047dd23-9bb9-4503-8b3a-3792489b8b50"
-  },
-  {
-   "closed_at": 1792450979,
-   "company": "stripe",
-   "hours_open": 1110.1,
-   "title": "Full Stack Engineer, Link",
-   "uid": "greenhouse:stripe:8062305"
-  },
-  {
-   "closed_at": 1792450979,
-   "company": "reddit",
-   "hours_open": 100.1,
-   "title": "Machine Learning Engineer",
-   "uid": "greenhouse:reddit:7131934"
-  },
-  {
-   "closed_at": 1792450979,
-   "company": "Micron Technology",
-   "hours_open": 1094.1,
-   "title": "New College Grad - Design Engineer - Circuit Design",
-   "uid": "simplify:listings:b27bdb2b-fba2-4b47-bb69-c965e4a9e543"
-  },
-  {
-   "closed_at": 1792450979,
-   "company": "NXP Semiconductors",
-   "hours_open": 1146.7,
-   "title": "Systems & Applications Engineer - Entry Level",
-   "uid": "simplify:listings:93e23ebc-4de9-4648-9968-98e302f94a59"
-  },
-  {
-   "closed_at": 1792450979,
-   "company": "Crown Innovations",
-   "hours_open": 1111.9,
-   "title": "Systems Engineer 1",
-   "uid": "simplify:listings:9a8dfe52-a8c8-4604-9197-455c8a8630c0"
-  },
-  {
-   "closed_at": 1792450979,
-   "company": "AMAX",
-   "hours_open": 1146.7,
-   "title": "Junior Systems Engineer",
-   "uid": "simplify:listings:aec682d0-cef7-4fab-b024-14111b89bd50"
-  },
-  {
    "closed_at": 1792450979,
    "company": "State Street",
    "hours_open": 623.8,
@@ -5599,8 +5487,120 @@
    "hours_open": 1173.6,
    "title": "Software Development Engineer, Security Platform",
    "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1792695217,
+   "company": "appnovation",
+   "hours_open": 1.4,
+   "title": "Web Platforms Engineer",
+   "uid": "greenhouse:appnovation:8908238002"
+  },
+  {
+   "closed_at": 1792695217,
+   "company": "databricks",
+   "hours_open": 4.2,
+   "title": "Associate Forward Deployed Engineer",
+   "uid": "greenhouse:databricks:8907988002"
+  },
+  {
+   "closed_at": 1792695217,
+   "company": "Source Code",
+   "hours_open": 205.4,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:systems analyst:50491950"
+  },
+  {
+   "closed_at": 1792695217,
+   "company": "magnetforensics",
+   "hours_open": 672.3,
+   "title": "Software Development Engineer in Test",
+   "uid": "lever:magnetforensics:450d6c28-ac1d-4411-a176-3eb5655c5545"
+  },
+  {
+   "closed_at": 1792695217,
+   "company": "Nuro",
+   "hours_open": 403.7,
+   "title": "Software Engineer New Grad - Routing",
+   "uid": "simplify:listings:fbb35820-5f6d-46ad-b912-0db35c744da1"
+  },
+  {
+   "closed_at": 1792695217,
+   "company": "Amazon",
+   "hours_open": 193.8,
+   "title": "Software Development Engineer, Navigation Experiences (NavX)",
+   "uid": "amazon:amazon:10578733"
+  },
+  {
+   "closed_at": 1792695217,
+   "company": "sharkninjaoperatingllc",
+   "hours_open": 1171.0,
+   "title": "Product Integrity Engineer - Floorcare ",
+   "uid": "greenhouse:sharkninjaoperatingllc:4710293006"
+  },
+  {
+   "closed_at": 1792695217,
+   "company": "appnovation",
+   "hours_open": 812.9,
+   "title": "Full-Stack AI Engineer",
+   "uid": "greenhouse:appnovation:8761000002"
+  },
+  {
+   "closed_at": 1792695217,
+   "company": "GEOCELLCANADA Inc.",
+   "hours_open": 80.6,
+   "title": "telecommunications technician",
+   "uid": "jobbank:telecommunications analyst:50029740"
+  },
+  {
+   "closed_at": 1792695217,
+   "company": "Amazon",
+   "hours_open": 51.7,
+   "title": "Software Development Engineer",
+   "uid": "amazon:amazon:10583973"
+  },
+  {
+   "closed_at": 1792695217,
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
+   "hours_open": 56.7,
+   "title": "Administrateur Réseau TI",
+   "uid": "jobillico:analyste reseau:17628663"
+  },
+  {
+   "closed_at": 1792695217,
+   "company": "freedomconsulting",
+   "hours_open": 317.4,
+   "title": "Junior Software Engineer 780",
+   "uid": "greenhouse:freedomconsulting:5248064007"
+  },
+  {
+   "closed_at": 1792695217,
+   "company": "spacex",
+   "hours_open": 1177.9,
+   "title": "Hardware Development Engineer, PCBA Manufacturing (Starlink)",
+   "uid": "greenhouse:spacex:8755479002"
+  },
+  {
+   "closed_at": 1792695217,
+   "company": "spacex",
+   "hours_open": 1177.9,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1792695217,
+   "company": "spacex",
+   "hours_open": 1177.9,
+   "title": "Hardware Development Engineer, PCBA (STARLINK)",
+   "uid": "greenhouse:spacex:8702819002"
+  },
+  {
+   "closed_at": 1792695217,
+   "company": "Amazon",
+   "hours_open": 311.9,
+   "title": "Software Development Engineer, VirtSat Team",
+   "uid": "amazon:amazon:10575014"
   }
  ],
- "count": 825,
- "updated_at": 1792690107
+ "count": 816,
+ "updated_at": 1792695218
 }
