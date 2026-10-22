@@ -1,83 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792460549,
-   "company": "cadence",
-   "hours_open": 1136.8,
-   "title": "Adams MultiBody Dynamics Application Software Developer (Recent Grad 2026)",
-   "uid": "workday:cadence.wd1/External_Careers:Adams-MultiBody-Dynamics-Application-Software-Developer--Recent-Grad-2026-_R55788"
-  },
-  {
-   "closed_at": 1792460549,
-   "company": "lightmatter",
-   "hours_open": 368.7,
-   "title": "Silicon Packaging Engineer - Intern & New Grad",
-   "uid": "greenhouse:lightmatter:5422712008"
-  },
-  {
-   "closed_at": 1792460549,
-   "company": "blackedgecapital",
-   "hours_open": 1120.7,
-   "title": "Quantitative Developer Intern",
-   "uid": "greenhouse:blackedgecapital:4703821005"
-  },
-  {
-   "closed_at": 1792460549,
-   "company": "replit",
-   "hours_open": 1112.7,
-   "title": "Software Engineer, Growth Infrastructure",
-   "uid": "ashby:replit:37f81c18-c742-4f7d-bf81-34c3f5142973"
-  },
-  {
-   "closed_at": 1792460549,
-   "company": "replit",
-   "hours_open": 1112.7,
-   "title": "Software Engineer, Growth",
-   "uid": "ashby:replit:447a6e11-b06b-4cc5-9203-cd55883f2af4"
-  },
-  {
-   "closed_at": 1792461855,
-   "company": "ecolab",
-   "hours_open": 286.1,
-   "title": "Junior Quality Control Software Developer",
-   "uid": "workday:ecolab.wd1/ecolab_external:Junior-Quality-Control-Software-Developer_R00307033"
-  },
-  {
-   "closed_at": 1792461855,
-   "company": "twitch",
-   "hours_open": 1110.2,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1792461855,
-   "company": "globalfoundries",
-   "hours_open": 1134.5,
-   "title": "Packaging Design Integration Engineer (2026 New College Graduate)",
-   "uid": "workday:globalfoundries.wd1/External:Packaging-Design-Integration-Engineer--2026-New-College-Graduate-_JR-2603919"
-  },
-  {
-   "closed_at": 1792461855,
-   "company": "systemstechnologyresearch",
-   "hours_open": 1106.1,
-   "title": "Autonomy Algorithms Software Engineer",
-   "uid": "greenhouse:systemstechnologyresearch:4704682006"
-  },
-  {
-   "closed_at": 1792461855,
-   "company": "spacex",
-   "hours_open": 1113.1,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1792461855,
-   "company": "spacex",
-   "hours_open": 1113.1,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
    "closed_at": 1792462199,
    "company": "johnsonelectric",
    "hours_open": 243.1,
@@ -5599,8 +5522,85 @@
    "hours_open": 1218.2,
    "title": "Associate Engineer - AI and Agentics",
    "uid": "simplify:listings:b9b4d3e6-5667-4e7c-81f4-b1dce70d602c"
+  },
+  {
+   "closed_at": 1792711195,
+   "company": "Fed IT",
+   "hours_open": 127.0,
+   "title": "network system administrator",
+   "uid": "jobbank:systems administrator:50522469"
+  },
+  {
+   "closed_at": 1792711195,
+   "company": "Groupe DCM",
+   "hours_open": 828.2,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534670"
+  },
+  {
+   "closed_at": 1792711195,
+   "company": "Logesco Informatique",
+   "hours_open": 1062.2,
+   "title": "Administrateur de réseau",
+   "uid": "jobillico:analyste reseau:17188132"
+  },
+  {
+   "closed_at": 1792711195,
+   "company": "Freedom Technology Solutions Group",
+   "hours_open": 318.8,
+   "title": "Junior Software Engineer",
+   "uid": "simplify:listings:e2216fd3-a972-4f1f-be6c-56a736fc3dc1"
+  },
+  {
+   "closed_at": 1792711195,
+   "company": "twitch",
+   "hours_open": 1182.4,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1792711195,
+   "company": "pariveda",
+   "hours_open": 1207.4,
+   "title": "Entry-Level Software Engineer",
+   "uid": "ashby:pariveda:cc4fc0be-c414-4aba-a15d-64daa03476a0"
+  },
+  {
+   "closed_at": 1792711195,
+   "company": "radiant-industries",
+   "hours_open": 829.3,
+   "title": "Certification Engineer",
+   "uid": "ashby:radiant-industries:d275a515-4c88-406c-bc76-9d15bf8ebc1d"
+  },
+  {
+   "closed_at": 1792711195,
+   "company": "Palantir",
+   "hours_open": 1219.0,
+   "title": "Forward Deployed Software Engineer New Grad",
+   "uid": "simplify:listings:f6f83b45-cf4c-4a3e-8f32-4c64672610a1"
+  },
+  {
+   "closed_at": 1792711195,
+   "company": "ionq",
+   "hours_open": 1180.7,
+   "title": "Optical Integration Engineer",
+   "uid": "greenhouse:ionq:6123720004"
+  },
+  {
+   "closed_at": 1792711195,
+   "company": "spacex",
+   "hours_open": 1180.7,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1792711195,
+   "company": "accenturefederalservices",
+   "hours_open": 384.3,
+   "title": "Data Engineer",
+   "uid": "greenhouse:accenturefederalservices:4718041006"
   }
  ],
- "count": 807,
- "updated_at": 1792708137
+ "count": 811,
+ "updated_at": 1792711197
 }
