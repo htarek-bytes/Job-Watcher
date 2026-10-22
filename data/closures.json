@@ -2,76 +2,6 @@
  "closed": [
   {
    "closed_at": 1792438366,
-   "company": "Vaisesika Consulting Inc.",
-   "hours_open": 573.5,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50368572"
-  },
-  {
-   "closed_at": 1792438366,
-   "company": "1Password",
-   "hours_open": 2.5,
-   "title": "Junior Developer",
-   "uid": "simplify:listings:5a0765ab-4584-4368-a6b7-5253647fb5f1"
-  },
-  {
-   "closed_at": 1792438366,
-   "company": "Amazon",
-   "hours_open": 113.9,
-   "title": "Software Development Engineer",
-   "uid": "amazon:amazon:10579435"
-  },
-  {
-   "closed_at": 1792438366,
-   "company": "Amazon",
-   "hours_open": 97.1,
-   "title": "Software Development Engineer, Audible AI Voice Production ",
-   "uid": "amazon:amazon:10580035"
-  },
-  {
-   "closed_at": 1792438366,
-   "company": "Amazon",
-   "hours_open": 263.4,
-   "title": "Software Development Engineer, Amazon Demand Side Platform",
-   "uid": "amazon:amazon:10573840"
-  },
-  {
-   "closed_at": 1792438366,
-   "company": "pathrobotics",
-   "hours_open": 1104.9,
-   "title": "IT Systems Engineer",
-   "uid": "greenhouse:pathrobotics:8726278002"
-  },
-  {
-   "closed_at": 1792438366,
-   "company": "ramp",
-   "hours_open": 1024.5,
-   "title": "Solutions Consultant, Mid-Market",
-   "uid": "ashby:ramp:f36f233b-bb27-4334-87df-8dc02b897724"
-  },
-  {
-   "closed_at": 1792438366,
-   "company": "verkada",
-   "hours_open": 1106.6,
-   "title": "Software Engineer - Computer Vision",
-   "uid": "greenhouse:verkada:5195995007"
-  },
-  {
-   "closed_at": 1792438366,
-   "company": "reddit",
-   "hours_open": 96.6,
-   "title": "Machine Learning Engineer",
-   "uid": "greenhouse:reddit:7131934"
-  },
-  {
-   "closed_at": 1792438366,
-   "company": "Ciena",
-   "hours_open": 1143.2,
-   "title": "ASIC Synthesis and STA Engineer New Grad",
-   "uid": "simplify:listings:67918f68-ac64-470f-a00b-81c89c23d4d3"
-  },
-  {
-   "closed_at": 1792438366,
    "company": "Old Mission",
    "hours_open": 1143.2,
    "title": "Software Engineer – Graduate Program - August Start",
@@ -5599,8 +5529,78 @@
    "hours_open": 306.0,
    "title": "Software Development Engineer, Amazon Leo Live",
    "uid": "amazon:amazon:10575136"
+  },
+  {
+   "closed_at": 1792685177,
+   "company": "Logesco Informatique",
+   "hours_open": 1055.0,
+   "title": "Administrateur de réseau",
+   "uid": "jobillico:analyste reseau:17188132"
+  },
+  {
+   "closed_at": 1792685177,
+   "company": "avav",
+   "hours_open": 17.3,
+   "title": "Summer 2027 Software Engineering Intern",
+   "uid": "workday:avav.wd1/avav:Summer-2027-Software-Engineering-Intern_8550"
+  },
+  {
+   "closed_at": 1792685177,
+   "company": "avnet",
+   "hours_open": 673.7,
+   "title": "Technical Sales Engineer - AMD/Xilinx",
+   "uid": "workday:avnet.wd1/external:Technical-Sales-Engineer_JR-022739"
+  },
+  {
+   "closed_at": 1792685177,
+   "company": "bah",
+   "hours_open": 350.8,
+   "title": "AI Software Developer, Junior",
+   "uid": "workday:bah.wd1/Confidential:AI-Software-Developer--Junior_R0251196"
+  },
+  {
+   "closed_at": 1792685177,
+   "company": "Amazon",
+   "hours_open": 47.1,
+   "title": "Software Development Engineer, Customer Experience and Business Trends",
+   "uid": "amazon:amazon:10576474"
+  },
+  {
+   "closed_at": 1792685177,
+   "company": "gopuff",
+   "hours_open": 1008.6,
+   "title": "Analytics Engineer",
+   "uid": "lever:gopuff:bfa7bc15-793e-486c-a3f5-b27d84c53025"
+  },
+  {
+   "closed_at": 1792685177,
+   "company": "shifttechnology",
+   "hours_open": 1146.7,
+   "title": "Applied Data Scientist / Engineer  (Toronto-Hybrid)",
+   "uid": "greenhouse:shifttechnology:7987030003"
+  },
+  {
+   "closed_at": 1792685177,
+   "company": "avav",
+   "hours_open": 134.5,
+   "title": "Software Engineering Intern",
+   "uid": "workday:avav.wd1/avav:Software-Engineering-Intern_9094"
+  },
+  {
+   "closed_at": 1792685177,
+   "company": "spacex",
+   "hours_open": 1175.1,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1792685177,
+   "company": "spacex",
+   "hours_open": 1175.1,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 807,
- "updated_at": 1792682083
+ "count": 810,
+ "updated_at": 1792685178
 }
