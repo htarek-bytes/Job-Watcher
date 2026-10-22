@@ -1,48 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792450979,
-   "company": "State Street",
-   "hours_open": 623.8,
-   "title": "Junior SIEM Data Engineer",
-   "uid": "simplify:listings:a1b78398-f928-4540-906d-107312019bc7"
-  },
-  {
-   "closed_at": 1792450979,
-   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
-   "hours_open": 989.9,
-   "title": "Administrateur Réseau TI",
-   "uid": "jobillico:analyste reseau:17386419"
-  },
-  {
-   "closed_at": 1792450979,
-   "company": "rocketlab",
-   "hours_open": 747.3,
-   "title": "Harness Design Engineer I",
-   "uid": "greenhouse:rocketlab:7998641003"
-  },
-  {
-   "closed_at": 1792450979,
-   "company": "spacex",
-   "hours_open": 1108.4,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1792450979,
-   "company": "spacex",
-   "hours_open": 1129.0,
-   "title": "New Graduate Engineer, Electrical (Starshield)",
-   "uid": "greenhouse:spacex:8483305002"
-  },
-  {
-   "closed_at": 1792452929,
-   "company": "SGS",
-   "hours_open": 30.8,
-   "title": "Junior Structural Design Review Engineer \"Civil\"",
-   "uid": "smartrecruiters:SGS:744000156179498"
-  },
-  {
    "closed_at": 1792452929,
    "company": "CGI",
    "hours_open": 990.4,
@@ -5599,8 +5557,50 @@
    "hours_open": 311.9,
    "title": "Software Development Engineer, VirtSat Team",
    "uid": "amazon:amazon:10575014"
+  },
+  {
+   "closed_at": 1792696578,
+   "company": "jabil",
+   "hours_open": 19.1,
+   "title": "IT Engineer I",
+   "uid": "workday:jabil.wd5/Jabil_Careers:IT-Engineer-I_J2465680"
+  },
+  {
+   "closed_at": 1792696578,
+   "company": "hp",
+   "hours_open": 19.1,
+   "title": "Software Quality Assurance Engineer 1",
+   "uid": "workday:hp.wd5/EXTEU-AC-CareerSite:Software-Quality-Assurance-Engineer-1_3169763"
+  },
+  {
+   "closed_at": 1792696578,
+   "company": "Source Code",
+   "hours_open": 13.2,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:control systems analyst:50553479"
+  },
+  {
+   "closed_at": 1792696578,
+   "company": "Groupe Mario Coté",
+   "hours_open": 148.9,
+   "title": "Administrateur de réseau",
+   "uid": "jobillico:analyste reseau:17594211"
+  },
+  {
+   "closed_at": 1792696578,
+   "company": "iberdrola",
+   "hours_open": 218.1,
+   "title": "Associate Engineer - Protection & Control",
+   "uid": "workday:iberdrola.wd3/iberdrola:Associate-Engineer---Protection---Control_R-34072"
+  },
+  {
+   "closed_at": 1792696578,
+   "company": "kbr",
+   "hours_open": 1199.7,
+   "title": "Junior Software Engineer",
+   "uid": "workday:kbr.wd5/kbr_careers:Junior-Software-Engineer_R2122294"
   }
  ],
- "count": 816,
- "updated_at": 1792695218
+ "count": 806,
+ "updated_at": 1792696579
 }
