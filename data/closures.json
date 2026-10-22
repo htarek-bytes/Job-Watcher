@@ -2,41 +2,6 @@
  "closed": [
   {
    "closed_at": 1792462199,
-   "company": "kla",
-   "hours_open": 458.4,
-   "title": "Product Development Engineering Intern",
-   "uid": "workday:kla.wd1/UR:Product-Development-Engineering-Intern_2641562"
-  },
-  {
-   "closed_at": 1792462199,
-   "company": "intel",
-   "hours_open": 950.3,
-   "title": "Operations Research Engineer Intern",
-   "uid": "workday:intel.wd1/external:Operations-Research-Engineer-Intern_JR0286945"
-  },
-  {
-   "closed_at": 1792462199,
-   "company": "icf",
-   "hours_open": 473.7,
-   "title": "2027 Summer Intern, AI Engineer (Reston, VA)",
-   "uid": "workday:icf.wd5/icfexternal_career_site:XMLNAME-2027-Summer-Intern--AI-Engineer--Reston--VA-_R2603312-1"
-  },
-  {
-   "closed_at": 1792462199,
-   "company": "twitch",
-   "hours_open": 1113.2,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1792462199,
-   "company": "systemstechnologyresearch",
-   "hours_open": 993.0,
-   "title": "Autonomy Algorithms Software Engineer",
-   "uid": "greenhouse:systemstechnologyresearch:4704680006"
-  },
-  {
-   "closed_at": 1792462199,
    "company": "spacex",
    "hours_open": 1112.9,
    "title": "Wireless Software Engineer (Starlink)",
@@ -5599,8 +5564,43 @@
    "hours_open": 1182.1,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1792712307,
+   "company": "Great Lakes Group",
+   "hours_open": 34.5,
+   "title": "electrical controls engineer",
+   "uid": "jobbank:control systems analyst:50546374"
+  },
+  {
+   "closed_at": 1792712307,
+   "company": "Source Code",
+   "hours_open": 210.1,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:systems analyst:50491950"
+  },
+  {
+   "closed_at": 1792712307,
+   "company": "twitch",
+   "hours_open": 1182.7,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1792712307,
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
+   "hours_open": 61.4,
+   "title": "Administrateur Réseau TI",
+   "uid": "jobillico:analyste reseau:17628663"
+  },
+  {
+   "closed_at": 1792712307,
+   "company": "spacex",
+   "hours_open": 1179.7,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
   }
  ],
- "count": 802,
- "updated_at": 1792711382
+ "count": 805,
+ "updated_at": 1792712307
 }
