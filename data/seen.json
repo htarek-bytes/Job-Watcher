@@ -1,5 +1,5 @@
 {
- "count": 9020,
+ "count": 9029,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -758,6 +758,7 @@
   "ashby:ema:9728a171-9617-4533-9f03-10c14c3b6ca5": 1788480130,
   "ashby:embedding-vc:5c8433ea-c7e6-4350-bbd5-2889e7fdb2b1": 1788409504,
   "ashby:embedding-vc:5d382f97-5444-45b6-b491-140e88d151a7": 1788954949,
+  "ashby:embedding-vc:778637f7-cf85-4d17-8e05-aab7847f91e5": 1792708136,
   "ashby:embedding-vc:b49531ff-4850-4bab-8fbf-72a8ec299e60": 1788954949,
   "ashby:embedding-vc:c7556b13-3332-4541-b0ec-42872eda7b51": 1791928358,
   "ashby:endeavorai:e397ddef-2102-40e5-82e8-cd1e126f9da8": 1788393691,
@@ -803,6 +804,12 @@
   "ashby:harvey:4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc": 1791010186,
   "ashby:harvey:d2624850-8dd4-4eb4-b5dc-f386b715a26f": 1791010186,
   "ashby:harvey:d40e15aa-2351-4be8-ac8f-1faf60bfcdbf": 1791010186,
+  "ashby:havocai:23bcb262-6aad-49cc-aa81-4dd8de385b3b": 1792708136,
+  "ashby:havocai:4bb9664f-b244-4d45-b9c1-f876d24dfc6d": 1792708136,
+  "ashby:havocai:6214439d-c450-467a-8b6d-b2be0399f048": 1792708136,
+  "ashby:havocai:9f77117e-eb52-40e9-8c35-a7954514851f": 1792708136,
+  "ashby:havocai:e51defa3-e41b-4f6c-bfe3-4d89e694004f": 1792708136,
+  "ashby:havocai:f7e2a1b3-8999-40ae-93d7-fc3ed79750f5": 1792708136,
   "ashby:highlightai:dd8526be-514c-46a5-98be-b068b10b4cbb": 1791118539,
   "ashby:highlightta:432f529f-5755-4aba-a385-1939154cb77a": 1792090592,
   "ashby:hipp:51d0ec27-511b-4035-9c25-937d6738803b": 1788454653,
@@ -4658,6 +4665,7 @@
   "jobbank:junior programmer:50531374": 1792417903,
   "jobbank:junior programmer:50533282": 1792429415,
   "jobbank:junior programmer:50554601": 1792680203,
+  "jobbank:junior programmer:50560878": 1792708136,
   "jobbank:junior software developer:49875004": 1788390279,
   "jobbank:junior software developer:50080344": 1788390279,
   "jobbank:junior software developer:50096282": 1788390279,
@@ -5028,6 +5036,7 @@
   "jobbank:systems analyst:50550550": 1792611499,
   "jobbank:systems analyst:50550876": 1792611499,
   "jobbank:systems analyst:50553479": 1792699473,
+  "jobbank:systems analyst:50560777": 1792708136,
   "jobbank:telecommunications analyst:49780105": 1791390300,
   "jobbank:telecommunications analyst:49818659": 1791390300,
   "jobbank:telecommunications analyst:49947219": 1791390300,
@@ -9022,5 +9031,5 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148,
   "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541": 1789106107
  },
- "updated_at": 1792706473
+ "updated_at": 1792708137
 }
