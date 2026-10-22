@@ -4,7 +4,7 @@
   "ashby": {
    "1password": {
     "first_seen": 1788390118,
-    "last_match": 1792685199,
+    "last_match": 1792685072,
     "last_seen": 1792429929,
     "origin": "hunted-ca",
     "postings": 1
@@ -326,7 +326,7 @@
    },
    "clickhouse": {
     "first_seen": 1788353233,
-    "last_match": 1792685199,
+    "last_match": 1792685072,
     "origin": "config"
    },
    "cobot": {
@@ -345,7 +345,7 @@
    },
    "cohere": {
     "first_seen": 1788353233,
-    "last_match": 1792685199,
+    "last_match": 1792685072,
     "origin": "config"
    },
    "collinear-ai": {
@@ -384,7 +384,7 @@
    },
    "constellation": {
     "first_seen": 1788453933,
-    "last_match": 1792685199,
+    "last_match": 1792685072,
     "last_seen": 1788453933,
     "origin": "hunted-ca"
    },
@@ -417,8 +417,8 @@
    },
    "cursor": {
     "first_seen": 1788353233,
-    "last_match": 1792685199,
-    "last_seen": 1792685199,
+    "last_match": 1792685072,
+    "last_seen": 1792685072,
     "origin": "config",
     "postings": 1
    },
@@ -447,8 +447,8 @@
    },
    "deepgram": {
     "first_seen": 1788453933,
-    "last_match": 1792685199,
-    "last_seen": 1792685199,
+    "last_match": 1792685072,
+    "last_seen": 1792685072,
     "origin": "hunted-ca",
     "postings": 1
    },
@@ -479,7 +479,7 @@
    },
    "docebo": {
     "first_seen": 1788453933,
-    "last_match": 1792685199,
+    "last_match": 1792685072,
     "last_seen": 1788453933,
     "origin": "hunted-ca"
    },
@@ -875,7 +875,7 @@
    },
    "jobber": {
     "first_seen": 1788390118,
-    "last_match": 1792685199,
+    "last_match": 1792685072,
     "last_seen": 1788390118,
     "origin": "hunted-ca"
    },
@@ -976,13 +976,13 @@
    },
    "lightspeed": {
     "first_seen": 1788390118,
-    "last_match": 1792685199,
+    "last_match": 1792685072,
     "last_seen": 1788390118,
     "origin": "hunted-ca"
    },
    "lightspeedhq": {
     "first_seen": 1788390118,
-    "last_match": 1792685199,
+    "last_match": 1792685072,
     "last_seen": 1788390118,
     "origin": "hunted-ca"
    },
@@ -995,7 +995,7 @@
    },
    "linear": {
     "first_seen": 1788353233,
-    "last_match": 1792685199,
+    "last_match": 1792685072,
     "origin": "config"
    },
    "liquid": {
@@ -1033,7 +1033,7 @@
    },
    "loopio": {
     "first_seen": 1788453933,
-    "last_match": 1792685199,
+    "last_match": 1792685072,
     "last_seen": 1788453933,
     "origin": "hunted-ca"
    },
@@ -1065,7 +1065,7 @@
    },
    "maple": {
     "first_seen": 1788453933,
-    "last_match": 1792685199,
+    "last_match": 1792685072,
     "last_seen": 1788453933,
     "origin": "hunted-ca"
    },
@@ -1138,7 +1138,7 @@
    },
    "miovision": {
     "first_seen": 1788390118,
-    "last_match": 1792685199,
+    "last_match": 1792685072,
     "last_seen": 1788390118,
     "origin": "hunted-ca"
    },
@@ -1154,7 +1154,7 @@
    },
    "modal": {
     "first_seen": 1788353233,
-    "last_match": 1792685199,
+    "last_match": 1792685072,
     "origin": "config"
    },
    "monogram": {
@@ -1303,8 +1303,8 @@
    },
    "openai": {
     "first_seen": 1788353233,
-    "last_match": 1792685199,
-    "last_seen": 1792685199,
+    "last_match": 1792685072,
+    "last_seen": 1792685072,
     "origin": "config",
     "postings": 1
    },
@@ -1378,7 +1378,7 @@
    },
    "perplexity": {
     "first_seen": 1788353233,
-    "last_match": 1792685199,
+    "last_match": 1792685072,
     "origin": "config"
    },
    "polymath": {
@@ -1408,7 +1408,7 @@
    },
    "procurify": {
     "first_seen": 1788390118,
-    "last_match": 1792685199,
+    "last_match": 1792685072,
     "last_seen": 1788390118,
     "origin": "hunted-ca"
    },
@@ -1475,7 +1475,7 @@
    },
    "ramp": {
     "first_seen": 1788353233,
-    "last_match": 1792685199,
+    "last_match": 1792685072,
     "origin": "config"
    },
    "realmalliance": {
@@ -1499,13 +1499,13 @@
    },
    "relayfi": {
     "first_seen": 1788453933,
-    "last_match": 1792685199,
+    "last_match": 1792685072,
     "last_seen": 1788453933,
     "origin": "hunted-ca"
    },
    "replit": {
     "first_seen": 1788353233,
-    "last_match": 1792685199,
+    "last_match": 1792685072,
     "last_seen": 1792010340,
     "origin": "config",
     "postings": 1
@@ -1605,7 +1605,7 @@
    },
    "sequence": {
     "first_seen": 1788390118,
-    "last_match": 1792685199,
+    "last_match": 1792685072,
     "last_seen": 1788390118,
     "origin": "hunted-ca"
    },
@@ -1669,7 +1669,7 @@
    },
    "solink": {
     "first_seen": 1788453933,
-    "last_match": 1792685199,
+    "last_match": 1792685072,
     "last_seen": 1788453933,
     "origin": "hunted-ca"
    },
@@ -1708,7 +1708,7 @@
    },
    "supabase": {
     "first_seen": 1788353233,
-    "last_match": 1792685199,
+    "last_match": 1792685072,
     "origin": "config"
    },
    "superhuman": {
@@ -1739,7 +1739,7 @@
    },
    "telus-digital": {
     "first_seen": 1788453933,
-    "last_match": 1792685199,
+    "last_match": 1792685072,
     "last_seen": 1788453933,
     "origin": "hunted-ca"
    },
@@ -1769,7 +1769,7 @@
    },
    "top-hat": {
     "first_seen": 1788390118,
-    "last_match": 1792685199,
+    "last_match": 1792685072,
     "last_seen": 1788390118,
     "origin": "hunted-ca"
    },
@@ -1827,7 +1827,7 @@
    },
    "trulioo": {
     "first_seen": 1788390118,
-    "last_match": 1792685199,
+    "last_match": 1792685072,
     "last_seen": 1790292546,
     "origin": "hunted-ca",
     "postings": 1
@@ -1886,7 +1886,7 @@
    },
    "vector": {
     "first_seen": 1788390118,
-    "last_match": 1792685199,
+    "last_match": 1792685072,
     "last_seen": 1788390118,
     "origin": "hunted-ca"
    },
@@ -2036,7 +2036,7 @@
    },
    "avidbots": {
     "first_seen": 1788390118,
-    "last_match": 1792685199,
+    "last_match": 1792685072,
     "last_seen": 1788390118,
     "origin": "hunted-ca"
    },
@@ -2053,7 +2053,7 @@
    },
    "bluemetrix": {
     "first_seen": 1788453933,
-    "last_match": 1792685199,
+    "last_match": 1792685072,
     "last_seen": 1788453933,
     "origin": "hunted-ca"
    },
@@ -2091,7 +2091,7 @@
    },
    "enghouse": {
     "first_seen": 1788453933,
-    "last_match": 1792685199,
+    "last_match": 1792685072,
     "last_seen": 1788453933,
     "origin": "hunted-ca"
    },
@@ -2151,7 +2151,7 @@
    },
    "payfacto": {
     "first_seen": 1788390118,
-    "last_match": 1792685199,
+    "last_match": 1792685072,
     "last_seen": 1788390118,
     "origin": "hunted-ca"
    },
@@ -2194,7 +2194,7 @@
    },
    "ranovus": {
     "first_seen": 1788453933,
-    "last_match": 1792685199,
+    "last_match": 1792685072,
     "last_seen": 1788453933,
     "origin": "hunted-ca"
    },
@@ -2217,7 +2217,7 @@
    },
    "signal1": {
     "first_seen": 1788390118,
-    "last_match": 1792685199,
+    "last_match": 1792685072,
     "last_seen": 1788390118,
     "origin": "hunted-ca"
    },
@@ -2249,7 +2249,7 @@
    },
    "tulip": {
     "first_seen": 1788390118,
-    "last_match": 1792685199,
+    "last_match": 1792685072,
     "last_seen": 1788390118,
     "origin": "hunted-ca"
    },
@@ -2380,8 +2380,8 @@
    },
    "affirm": {
     "first_seen": 1788353233,
-    "last_match": 1792685199,
-    "last_seen": 1792685199,
+    "last_match": 1792685072,
+    "last_seen": 1792685072,
     "origin": "config",
     "postings": 6
    },
@@ -2394,7 +2394,7 @@
    },
    "airbnb": {
     "first_seen": 1788353233,
-    "last_match": 1792685199,
+    "last_match": 1792685072,
     "origin": "config"
    },
    "alarmcom": {
@@ -2406,7 +2406,7 @@
    },
    "alayacare": {
     "first_seen": 1788390118,
-    "last_match": 1792685199,
+    "last_match": 1792685072,
     "last_seen": 1788390118,
     "origin": "hunted-ca"
    },
@@ -2457,7 +2457,7 @@
    },
    "appdirect": {
     "first_seen": 1788453933,
-    "last_match": 1792685199,
+    "last_match": 1792685072,
     "last_seen": 1788453933,
     "origin": "hunted-ca"
    },
@@ -2481,7 +2481,7 @@
    },
    "appnovation": {
     "first_seen": 1788390118,
-    "last_match": 1792685199,
+    "last_match": 1792685072,
     "last_seen": 1788390118,
     "origin": "hunted-ca"
    },
@@ -2522,7 +2522,7 @@
    },
    "asana": {
     "first_seen": 1788353233,
-    "last_match": 1792685199,
+    "last_match": 1792685072,
     "origin": "config"
    },
    "aspectbiosystems": {
@@ -2688,7 +2688,7 @@
    },
    "brex": {
     "first_seen": 1788353233,
-    "last_match": 1792685199,
+    "last_match": 1792685072,
     "origin": "config"
    },
    "bridgewater89": {
@@ -2772,7 +2772,7 @@
    },
    "chime": {
     "first_seen": 1788353233,
-    "last_match": 1792685199,
+    "last_match": 1792685072,
     "origin": "config"
    },
    "chowbus": {
@@ -2810,17 +2810,17 @@
    },
    "cloudflare": {
     "first_seen": 1788353233,
-    "last_match": 1792685199,
+    "last_match": 1792685072,
     "origin": "config"
    },
    "coinbase": {
     "first_seen": 1788353233,
-    "last_match": 1792685199,
+    "last_match": 1792685072,
     "origin": "config"
    },
    "colabsoftware": {
     "first_seen": 1788390118,
-    "last_match": 1792685199,
+    "last_match": 1792685072,
     "last_seen": 1788390118,
     "origin": "hunted-ca"
    },
@@ -2859,7 +2859,7 @@
    },
    "d2l": {
     "first_seen": 1788390118,
-    "last_match": 1792685199,
+    "last_match": 1792685072,
     "last_seen": 1788390118,
     "origin": "hunted-ca"
    },
@@ -2872,7 +2872,7 @@
    },
    "databricks": {
     "first_seen": 1788353233,
-    "last_match": 1792685199,
+    "last_match": 1792685072,
     "origin": "config"
    },
    "datacor": {
@@ -2884,7 +2884,7 @@
    },
    "datadog": {
     "first_seen": 1788353233,
-    "last_match": 1792685199,
+    "last_match": 1792685072,
     "origin": "config"
    },
    "dataiku": {
@@ -2909,7 +2909,7 @@
    },
    "discord": {
     "first_seen": 1788353233,
-    "last_match": 1792685199,
+    "last_match": 1792685072,
     "origin": "config"
    },
    "doordash": {
@@ -3016,7 +3016,7 @@
    },
    "faire": {
     "first_seen": 1788353233,
-    "last_match": 1792685199,
+    "last_match": 1792685072,
     "origin": "config"
    },
    "fairlife": {
@@ -3075,7 +3075,7 @@
    },
    "flexport": {
     "first_seen": 1788353233,
-    "last_match": 1792685199,
+    "last_match": 1792685072,
     "origin": "config"
    },
    "flipp": {
@@ -3179,7 +3179,7 @@
    },
    "gitlab": {
     "first_seen": 1788353233,
-    "last_match": 1792685199,
+    "last_match": 1792685072,
     "origin": "config"
    },
    "globalwebindex": {
@@ -3406,7 +3406,7 @@
    },
    "knak": {
     "first_seen": 1788453933,
-    "last_match": 1792685199,
+    "last_match": 1792685072,
     "last_seen": 1788453933,
     "origin": "hunted-ca"
    },
@@ -3482,7 +3482,7 @@
    },
    "lyft": {
     "first_seen": 1788353233,
-    "last_match": 1792685199,
+    "last_match": 1792685072,
     "origin": "config"
    },
    "machindustries": {
@@ -3571,7 +3571,7 @@
    },
    "mongodb": {
     "first_seen": 1788353233,
-    "last_match": 1792685199,
+    "last_match": 1792685072,
     "origin": "config"
    },
    "monzo": {
@@ -3708,7 +3708,7 @@
    },
    "pinterest": {
     "first_seen": 1788353233,
-    "last_match": 1792685199,
+    "last_match": 1792685072,
     "origin": "config"
    },
    "plaid": {
@@ -3737,7 +3737,7 @@
    },
    "poka": {
     "first_seen": 1788390118,
-    "last_match": 1792685199,
+    "last_match": 1792685072,
     "last_seen": 1788390118,
     "origin": "hunted-ca"
    },
@@ -3783,7 +3783,7 @@
    },
    "reddit": {
     "first_seen": 1788353233,
-    "last_match": 1792685199,
+    "last_match": 1792685072,
     "origin": "config"
    },
    "redwoodmaterials": {
@@ -3820,13 +3820,13 @@
    },
    "ritual": {
     "first_seen": 1788390118,
-    "last_match": 1792685199,
+    "last_match": 1792685072,
     "last_seen": 1788390118,
     "origin": "hunted-ca"
    },
    "robinhood": {
     "first_seen": 1788353233,
-    "last_match": 1792685199,
+    "last_match": 1792685072,
     "last_seen": 1791958943,
     "origin": "config",
     "postings": 1
@@ -3854,13 +3854,13 @@
    },
    "samsara": {
     "first_seen": 1788353233,
-    "last_match": 1792685199,
+    "last_match": 1792685072,
     "origin": "config"
    },
    "scaleai": {
     "first_seen": 1788353233,
-    "last_match": 1792685199,
-    "last_seen": 1792685199,
+    "last_match": 1792685072,
+    "last_seen": 1792685072,
     "origin": "config",
     "postings": 3
    },
@@ -4012,7 +4012,7 @@
    },
    "stripe": {
     "first_seen": 1788353233,
-    "last_match": 1792685199,
+    "last_match": 1792685072,
     "origin": "config"
    },
    "super": {
@@ -4071,7 +4071,7 @@
    },
    "tenstorrent": {
     "first_seen": 1788453933,
-    "last_match": 1792685199,
+    "last_match": 1792685072,
     "last_seen": 1788453933,
     "origin": "hunted-ca"
    },
@@ -4191,14 +4191,14 @@
    },
    "tulip": {
     "first_seen": 1788390118,
-    "last_match": 1792685199,
+    "last_match": 1792685072,
     "last_seen": 1788390118,
     "origin": "hunted-ca"
    },
    "twitch": {
     "first_seen": 1788353233,
-    "last_match": 1792685199,
-    "last_seen": 1792685199,
+    "last_match": 1792685072,
+    "last_seen": 1792685072,
     "origin": "config",
     "postings": 1
    },
@@ -4225,7 +4225,7 @@
    },
    "vercel": {
     "first_seen": 1788353233,
-    "last_match": 1792685199,
+    "last_match": 1792685072,
     "origin": "config"
    },
    "verifone": {
@@ -4236,7 +4236,7 @@
    },
    "verkada": {
     "first_seen": 1788353233,
-    "last_match": 1792685199,
+    "last_match": 1792685072,
     "origin": "config"
    },
    "vestwell": {
@@ -4300,7 +4300,7 @@
    },
    "workleap": {
     "first_seen": 1788390118,
-    "last_match": 1792685199,
+    "last_match": 1792685072,
     "last_seen": 1788390118,
     "origin": "hunted-ca"
    },
@@ -4450,7 +4450,7 @@
    },
    "bluecatnetworks": {
     "first_seen": 1788390118,
-    "last_match": 1792685199,
+    "last_match": 1792685072,
     "last_seen": 1788390118,
     "origin": "hunted-ca"
    },
@@ -4624,7 +4624,7 @@
    },
    "fullscript": {
     "first_seen": 1788453933,
-    "last_match": 1792685199,
+    "last_match": 1792685072,
     "last_seen": 1788453933,
     "origin": "hunted-ca"
    },
@@ -4788,7 +4788,7 @@
    },
    "magnetforensics": {
     "first_seen": 1788453933,
-    "last_match": 1792685199,
+    "last_match": 1792685072,
     "last_seen": 1788453933,
     "origin": "hunted-ca"
    },
@@ -4807,8 +4807,8 @@
    },
    "matchgroup": {
     "first_seen": 1788353233,
-    "last_match": 1792685199,
-    "last_seen": 1792685199,
+    "last_match": 1792685072,
+    "last_seen": 1792685072,
     "origin": "config",
     "postings": 1
    },
@@ -4827,7 +4827,7 @@
    },
    "mirego": {
     "first_seen": 1788453933,
-    "last_match": 1792685199,
+    "last_match": 1792685072,
     "last_seen": 1788453933,
     "origin": "hunted-ca"
    },
@@ -4974,7 +4974,7 @@
    },
    "relay": {
     "first_seen": 1788453933,
-    "last_match": 1792685199,
+    "last_match": 1792685072,
     "last_seen": 1788453933,
     "origin": "hunted-ca"
    },
@@ -5209,7 +5209,7 @@
    },
    "waabi": {
     "first_seen": 1788390118,
-    "last_match": 1792685199,
+    "last_match": 1792685072,
     "last_seen": 1788390118,
     "origin": "hunted-ca"
    },
@@ -5228,7 +5228,7 @@
    },
    "waveapps": {
     "first_seen": 1788390118,
-    "last_match": 1792685199,
+    "last_match": 1792685072,
     "last_seen": 1788390118,
     "origin": "hunted-ca"
    },
@@ -5329,7 +5329,7 @@
   "rippling": {
    "360insights": {
     "first_seen": 1788390118,
-    "last_match": 1792685199,
+    "last_match": 1792685072,
     "last_seen": 1788390118,
     "origin": "hunted-ca"
    },
@@ -6638,7 +6638,7 @@
    },
    "hootsuite": {
     "first_seen": 1788390118,
-    "last_match": 1792685199,
+    "last_match": 1792685072,
     "last_seen": 1788390118,
     "origin": "hunted-ca"
    },
@@ -6791,7 +6791,7 @@
    },
    "borrowell": {
     "first_seen": 1788390118,
-    "last_match": 1792685199,
+    "last_match": 1792685072,
     "last_seen": 1788390118,
     "origin": "hunted-ca"
    },
@@ -7133,7 +7133,7 @@
    },
    "nuvei": {
     "first_seen": 1788390118,
-    "last_match": 1792685199,
+    "last_match": 1792685072,
     "last_seen": 1788390118,
     "origin": "hunted-ca"
    },
@@ -11444,5 +11444,5 @@
    }
   }
  },
- "updated_at": 1792685295
+ "updated_at": 1792685296
 }
