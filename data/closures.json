@@ -1,97 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792351461,
-   "company": "Logesco Informatique",
-   "hours_open": 962.3,
-   "title": "Administrateur de réseau",
-   "uid": "jobillico:analyste reseau:17188132"
-  },
-  {
-   "closed_at": 1792351461,
-   "company": "evergreenix",
-   "hours_open": 92.8,
-   "title": "Software Engineer I",
-   "uid": "workday:evergreenix.wd1/external-careers2:Software-Engineer-I_JR500749-1"
-  },
-  {
-   "closed_at": 1792351461,
-   "company": "hpe",
-   "hours_open": 24.1,
-   "title": "Technical Sales Graduate",
-   "uid": "workday:hpe.wd5/jobsathpe:Technical-Sales-Graduate_1213591-1"
-  },
-  {
-   "closed_at": 1792351461,
-   "company": "iberdrola",
-   "hours_open": 910.6,
-   "title": "Associate Engineer - Distribution Planning",
-   "uid": "workday:iberdrola.wd3/iberdrola:Associate-Engineer---Distribution-Planning_R-30914"
-  },
-  {
-   "closed_at": 1792351461,
-   "company": "andurilindustries",
-   "hours_open": 1080.8,
-   "title": "Systems Engineer, Battlespace",
-   "uid": "greenhouse:andurilindustries:5169846007"
-  },
-  {
-   "closed_at": 1792352626,
-   "company": "mmc",
-   "hours_open": 378.3,
-   "title": "Junior Full-Stack Engineer, Generative AI @ Marsh Tech",
-   "uid": "workday:mmc.wd1/MMC:Junior-Full-Stack-Engineer--Generative-AI---Marsh-Tech_R_367686"
-  },
-  {
-   "closed_at": 1792352626,
-   "company": "Groupe Mario Coté",
-   "hours_open": 53.4,
-   "title": "Administrateur de réseau",
-   "uid": "jobillico:analyste reseau:17594211"
-  },
-  {
-   "closed_at": 1792353498,
-   "company": "Logesco Informatique",
-   "hours_open": 962.8,
-   "title": "Administrateur de réseau",
-   "uid": "jobillico:analyste reseau:17188132"
-  },
-  {
-   "closed_at": 1792358606,
-   "company": "twitch",
-   "hours_open": 1081.5,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1792358606,
-   "company": "didi",
-   "hours_open": 138.7,
-   "title": "Software Engineer – Map Fusion & Planning",
-   "uid": "greenhouse:didi:7991538"
-  },
-  {
-   "closed_at": 1792358606,
-   "company": "relx",
-   "hours_open": 753.2,
-   "title": "Software Engineer 1",
-   "uid": "workday:relx.wd3/RiskSolutions:Software-Engineer-1_R117973"
-  },
-  {
-   "closed_at": 1792358606,
-   "company": "DPMSYSTEMS IT CONSULTING SERVICES",
-   "hours_open": 736.5,
-   "title": "information systems analyst - computer systems",
-   "uid": "jobbank:systems analyst:50311291"
-  },
-  {
-   "closed_at": 1792358606,
-   "company": "spacex",
-   "hours_open": 1084.4,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
    "closed_at": 1792358606,
    "company": "spacex",
    "hours_open": 1084.4,
@@ -5599,8 +5508,99 @@
    "hours_open": 1158.7,
    "title": "Machinist/Programmer",
    "uid": "greenhouse:astranis:4596812006"
+  },
+  {
+   "closed_at": 1792627914,
+   "company": "icf",
+   "hours_open": 46.0,
+   "title": "2027 Summer Intern, Business Systems & Applications Associate (Reston, VA)",
+   "uid": "workday:icf.wd5/icfexternal_career_site:XMLNAME-2027-Summer-Intern--Business-Systems---Applications-Associate--Reston--VA-_R2603584"
+  },
+  {
+   "closed_at": 1792627914,
+   "company": "LogiSense Corporation",
+   "hours_open": 18.6,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50547629"
+  },
+  {
+   "closed_at": 1792627914,
+   "company": "Canadian Light Source Inc.",
+   "hours_open": 316.1,
+   "title": "developer, software",
+   "uid": "jobbank:junior software developer:50454686"
+  },
+  {
+   "closed_at": 1792627914,
+   "company": "hpe",
+   "hours_open": 199.0,
+   "title": "Technical Sales Graduate",
+   "uid": "workday:hpe.wd5/acjobsite:Technical-Sales-Graduate_1213591"
+  },
+  {
+   "closed_at": 1792627914,
+   "company": "guidehouse",
+   "hours_open": 46.1,
+   "title": "Microsoft Copilot Studio & Power Platform Solution Engineer",
+   "uid": "workday:guidehouse.wd1/external:Microsoft-Copilot-Studio---Power-Platform-Solution-Engineer_45141"
+  },
+  {
+   "closed_at": 1792627914,
+   "company": "intel",
+   "hours_open": 289.2,
+   "title": "AI Software Engineering Graduate Intern",
+   "uid": "workday:intel.wd1/external:AI-Software-Engineering-Graduate-Intern_JR0287917"
+  },
+  {
+   "closed_at": 1792627914,
+   "company": "globalhr",
+   "hours_open": 13.6,
+   "title": "Software Engineering Intern (Summer 2027)",
+   "uid": "workday:globalhr.wd5/rec_rtx_ext_gateway:Software-Engineering-Intern--Summer-2027-_01882939"
+  },
+  {
+   "closed_at": 1792627914,
+   "company": "globalhr",
+   "hours_open": 13.6,
+   "title": "Part time Software Engineer Co-op (Remote)",
+   "uid": "workday:globalhr.wd5/rec_rtx_ext_gateway:Part-time-Software-Engineer-Co-op--Remote-_01883452"
+  },
+  {
+   "closed_at": 1792627914,
+   "company": "goodwillaz",
+   "hours_open": 13.6,
+   "title": "Systems Administrator I",
+   "uid": "workday:goodwillaz.wd1/GoodwillAZ:Systems-Administrator-II_R21438"
+  },
+  {
+   "closed_at": 1792627914,
+   "company": "jci",
+   "hours_open": 27.9,
+   "title": "Presales Engineer (CCTV & Security Systems)",
+   "uid": "workday:jci.wd5/JCI:Presales-Engineer_WD30280723"
+  },
+  {
+   "closed_at": 1792627914,
+   "company": "Analyst Technical Solutions",
+   "hours_open": 718.5,
+   "title": "server administrator",
+   "uid": "jobbank:linux administrator:50335015"
+  },
+  {
+   "closed_at": 1792627914,
+   "company": "kbr",
+   "hours_open": 1180.6,
+   "title": "Junior Software Engineer",
+   "uid": "workday:kbr.wd5/KBR_Careers:Junior-Software-Engineer_R2122294"
+  },
+  {
+   "closed_at": 1792627914,
+   "company": "graco",
+   "hours_open": 842.6,
+   "title": "Software Engineer Intern",
+   "uid": "workday:graco.wd501/Graco_Careers:Software-Engineer-Intern_R0023556"
   }
  ],
- "count": 810,
- "updated_at": 1792625972
+ "count": 813,
+ "updated_at": 1792627915
 }
