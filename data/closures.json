@@ -1,76 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792393002,
-   "company": "Profit Solutions International Inc.",
-   "hours_open": 1.9,
-   "title": "software developer",
-   "uid": "jobbank:developpeur junior:50410403"
-  },
-  {
-   "closed_at": 1792393002,
-   "company": "twitch",
-   "hours_open": 1091.0,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1792393002,
-   "company": "reddit",
-   "hours_open": 84.0,
-   "title": "Machine Learning Engineer",
-   "uid": "greenhouse:reddit:7131934"
-  },
-  {
-   "closed_at": 1792393002,
-   "company": "spacex",
-   "hours_open": 1094.0,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1792393002,
-   "company": "spacex",
-   "hours_open": 1094.0,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1792393120,
-   "company": "Huntington Ingalls Industries",
-   "hours_open": 55.7,
-   "title": "Software Engineer 1",
-   "uid": "simplify:listings:9d5ab9cc-2af9-4430-af63-0d0f31bf19e2"
-  },
-  {
-   "closed_at": 1792393120,
-   "company": "LogiSense Corporation",
-   "hours_open": 116.4,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50493091"
-  },
-  {
-   "closed_at": 1792393120,
-   "company": "Profit Solutions International Inc.",
-   "hours_open": 1.9,
-   "title": "software developer",
-   "uid": "jobbank:developpeur junior:50410403"
-  },
-  {
-   "closed_at": 1792393120,
-   "company": "twitch",
-   "hours_open": 1091.1,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1792393120,
-   "company": "reddit",
-   "hours_open": 84.0,
-   "title": "Machine Learning Engineer",
-   "uid": "greenhouse:reddit:7131934"
-  },
-  {
    "closed_at": 1792393120,
    "company": "spacex",
    "hours_open": 1094.0,
@@ -5599,8 +5529,78 @@
    "hours_open": 1162.4,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1792649101,
+   "company": "Logesco Informatique",
+   "hours_open": 1044.9,
+   "title": "Administrateur de réseau",
+   "uid": "jobillico:analyste reseau:17188132"
+  },
+  {
+   "closed_at": 1792649101,
+   "company": "HAFMAN CONSULTING GROUP INC.",
+   "hours_open": 327.3,
+   "title": "information systems quality assurance analyst",
+   "uid": "jobbank:systems analyst:50453138"
+  },
+  {
+   "closed_at": 1792649101,
+   "company": "radiant-industries",
+   "hours_open": 812.0,
+   "title": "2027 New Graduate - Tooling Engineer",
+   "uid": "ashby:radiant-industries:63dd2f25-8650-4ce9-a88b-ec1fc224ba1c"
+  },
+  {
+   "closed_at": 1792649101,
+   "company": "radiant-industries",
+   "hours_open": 812.0,
+   "title": "2027 New Graduate - Nuclear Engineer",
+   "uid": "ashby:radiant-industries:34c3d21e-5260-4bdd-8e7b-46e310e57c02"
+  },
+  {
+   "closed_at": 1792649101,
+   "company": "radiant-industries",
+   "hours_open": 812.0,
+   "title": "2027 New Graduate - Software Engineer",
+   "uid": "ashby:radiant-industries:1ec29cec-d18f-417d-adc6-31adda87c687"
+  },
+  {
+   "closed_at": 1792649101,
+   "company": "radiant-industries",
+   "hours_open": 812.0,
+   "title": "2027 New Graduate - Reactor Operations Engineer",
+   "uid": "ashby:radiant-industries:e53dc696-0e18-4d3c-bcc3-30d89ea03795"
+  },
+  {
+   "closed_at": 1792649101,
+   "company": "DPMSYSTEMS IT CONSULTING SERVICES",
+   "hours_open": 168.5,
+   "title": "information systems analyst - computer systems",
+   "uid": "jobbank:information systems analyst:50311291"
+  },
+  {
+   "closed_at": 1792649101,
+   "company": "northwoodspace",
+   "hours_open": 1165.1,
+   "title": "RF Hardware Engineer",
+   "uid": "ashby:northwoodspace:5d76a025-bb64-4ddd-8b97-8649c41d89ed"
+  },
+  {
+   "closed_at": 1792649101,
+   "company": "northwoodspace",
+   "hours_open": 1177.5,
+   "title": "Software Engineering Intern (2027 Summer Internship)",
+   "uid": "ashby:northwoodspace:ce3d4b73-461e-4128-a6f1-f933897e8119"
+  },
+  {
+   "closed_at": 1792649101,
+   "company": "northwoodspace",
+   "hours_open": 1177.5,
+   "title": "Embedded Software Engineering Intern (2027 Summer Internship)",
+   "uid": "ashby:northwoodspace:d0cca9dd-ea90-4c3b-94b4-17761932d11c"
   }
  ],
- "count": 807,
- "updated_at": 1792645485
+ "count": 810,
+ "updated_at": 1792649102
 }
