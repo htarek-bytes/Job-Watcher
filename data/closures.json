@@ -1,76 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792360673,
-   "company": "Logesco Informatique",
-   "hours_open": 964.8,
-   "title": "Administrateur de réseau",
-   "uid": "jobillico:analyste reseau:17188132"
-  },
-  {
-   "closed_at": 1792360673,
-   "company": "Lakeland Roman Catholic Separate School Division",
-   "hours_open": 964.8,
-   "title": "computer systems analyst",
-   "uid": "jobbank:systems analyst:50064831"
-  },
-  {
-   "closed_at": 1792362309,
-   "company": "Groupe Mario Coté",
-   "hours_open": 56.1,
-   "title": "Administrateur de réseau",
-   "uid": "jobillico:analyste reseau:17594211"
-  },
-  {
-   "closed_at": 1792362309,
-   "company": "YO AI Labs",
-   "hours_open": 62.9,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50511622"
-  },
-  {
-   "closed_at": 1792365894,
-   "company": "Logesco Informatique",
-   "hours_open": 966.3,
-   "title": "Administrateur de réseau",
-   "uid": "jobillico:analyste reseau:17188132"
-  },
-  {
-   "closed_at": 1792365894,
-   "company": "spacex",
-   "hours_open": 1086.5,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1792366841,
-   "company": "DPMSYSTEMS IT CONSULTING SERVICES",
-   "hours_open": 738.7,
-   "title": "information systems analyst - computer systems",
-   "uid": "jobbank:systems analyst:50311291"
-  },
-  {
-   "closed_at": 1792366973,
-   "company": "Aldwych Consulting Ltd",
-   "hours_open": 109.2,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:systems analyst:50493270"
-  },
-  {
-   "closed_at": 1792366973,
-   "company": "twitch",
-   "hours_open": 1083.8,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1792366973,
-   "company": "Lakeland Roman Catholic Separate School Division",
-   "hours_open": 625.4,
-   "title": "computer systems analyst",
-   "uid": "jobbank:control systems analyst:50064831"
-  },
-  {
    "closed_at": 1792366973,
    "company": "General Dynamics Produits de défense et Systèmes Tactiques",
    "hours_open": 966.6,
@@ -5599,8 +5529,78 @@
    "hours_open": 1159.3,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1792630935,
+   "company": "salesforce",
+   "hours_open": 43.7,
+   "title": "Summer 2027 Intern - Software Engineer (Security/Government)",
+   "uid": "workday:salesforce.wd12/External_Career_Site:Summer-2027-Intern---Software-Engineer--Security-Government-_JR364911-1"
+  },
+  {
+   "closed_at": 1792630935,
+   "company": "CGI",
+   "hours_open": 1039.9,
+   "title": "Conseiller(ère) en gouvernance de la cybersécurité",
+   "uid": "jobillico:analyste cybersecurite:17433756"
+  },
+  {
+   "closed_at": 1792630935,
+   "company": "Stellar Software Solutions",
+   "hours_open": 282.3,
+   "title": "network infrastructure engineer",
+   "uid": "jobbank:infrastructure analyst:50462911"
+  },
+  {
+   "closed_at": 1792630935,
+   "company": "nvidia",
+   "hours_open": 197.5,
+   "title": "Formal Verification Engineer - New College Grad 2026",
+   "uid": "workday:nvidia.wd5/NVIDIAExternalCareerSite:Formal-Verification-Engineer---New-College-Grad-2026_JR2007627"
+  },
+  {
+   "closed_at": 1792630935,
+   "company": "twitch",
+   "hours_open": 1160.1,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1792630935,
+   "company": "relx",
+   "hours_open": 1179.1,
+   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - January)",
+   "uid": "workday:relx.wd3/RiskSolutions:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617"
+  },
+  {
+   "closed_at": 1792630935,
+   "company": "relx",
+   "hours_open": 1179.1,
+   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - June)",
+   "uid": "workday:relx.wd3/RiskSolutions:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-1"
+  },
+  {
+   "closed_at": 1792630935,
+   "company": "relx",
+   "hours_open": 1179.1,
+   "title": "Tech Accelerate Graduate Program - Software Engineer (Boca Raton - June)",
+   "uid": "workday:relx.wd3/RiskSolutions:Tech-Accelerate-Graduate-Program---Software-Engineer--Boca-Raton---June-_R116023-2"
+  },
+  {
+   "closed_at": 1792630935,
+   "company": "spacex",
+   "hours_open": 1157.1,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1792630935,
+   "company": "systemstechnologyresearch",
+   "hours_open": 1039.9,
+   "title": "Autonomy Algorithms Software Engineer",
+   "uid": "greenhouse:systemstechnologyresearch:4704680006"
   }
  ],
- "count": 812,
- "updated_at": 1792628252
+ "count": 810,
+ "updated_at": 1792630935
 }
