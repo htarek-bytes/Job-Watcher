@@ -1,90 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792358606,
-   "company": "spacex",
-   "hours_open": 1084.4,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1792359542,
-   "company": "twitch",
-   "hours_open": 1084.7,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1792359542,
-   "company": "DPMSYSTEMS IT CONSULTING SERVICES",
-   "hours_open": 88.1,
-   "title": "information systems analyst - computer systems",
-   "uid": "jobbank:information systems analyst:50311291"
-  },
-  {
-   "closed_at": 1792359542,
-   "company": "spacex",
-   "hours_open": 1081.7,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1792359542,
-   "company": "spacex",
-   "hours_open": 1084.4,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1792359703,
-   "company": "Groupe Mario Coté",
-   "hours_open": 55.3,
-   "title": "Administrateur de réseau",
-   "uid": "jobillico:analyste reseau:17594211"
-  },
-  {
-   "closed_at": 1792359703,
-   "company": "Aldwych Consulting Ltd",
-   "hours_open": 107.2,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:systems analyst:50493270"
-  },
-  {
-   "closed_at": 1792359703,
-   "company": "twitch",
-   "hours_open": 1084.7,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1792359703,
-   "company": "DPMSYSTEMS IT CONSULTING SERVICES",
-   "hours_open": 88.1,
-   "title": "information systems analyst - computer systems",
-   "uid": "jobbank:information systems analyst:50311291"
-  },
-  {
-   "closed_at": 1792359703,
-   "company": "Lakeland Roman Catholic Separate School Division",
-   "hours_open": 623.3,
-   "title": "computer systems analyst",
-   "uid": "jobbank:control systems analyst:50064831"
-  },
-  {
-   "closed_at": 1792359703,
-   "company": "spacex",
-   "hours_open": 1081.8,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1792359703,
-   "company": "spacex",
-   "hours_open": 1084.5,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
    "closed_at": 1792360673,
    "company": "Logesco Informatique",
    "hours_open": 964.8,
@@ -5599,8 +5515,92 @@
    "hours_open": 842.6,
    "title": "Software Engineer Intern",
    "uid": "workday:graco.wd501/Graco_Careers:Software-Engineer-Intern_R0023556"
+  },
+  {
+   "closed_at": 1792628251,
+   "company": "mongodb",
+   "hours_open": 1159.3,
+   "title": "Software Engineer 3, Networking & Observability",
+   "uid": "greenhouse:mongodb:8119843"
+  },
+  {
+   "closed_at": 1792628251,
+   "company": "micron",
+   "hours_open": 143.6,
+   "title": "New College Grad - Computer Engineer, Central Engineering",
+   "uid": "workday:micron.wd1/External:New-College-Grad---Computer-Engineer--Central-Engineering_JR115116-1"
+  },
+  {
+   "closed_at": 1792628251,
+   "company": "micron",
+   "hours_open": 143.6,
+   "title": "New College Grad - Product Test Engineer",
+   "uid": "workday:micron.wd1/External:Product-Test-Engineer_JR109985"
+  },
+  {
+   "closed_at": 1792628251,
+   "company": "micron",
+   "hours_open": 351.1,
+   "title": "Associate Engineer, IT Eng System Mgr",
+   "uid": "workday:micron.wd1/External:Associate-Engineer--IT-Eng-System-Mgr_JR112672"
+  },
+  {
+   "closed_at": 1792628251,
+   "company": "ngc",
+   "hours_open": 703.4,
+   "title": "2027 Cyber Systems Engineer Intern-Tampa FL",
+   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Cyber-Systems-Engineer-Intern-Tampa-FL_R10249196"
+  },
+  {
+   "closed_at": 1792628251,
+   "company": "ngc",
+   "hours_open": 12.0,
+   "title": "Associate Software Engineer",
+   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:Associate-Software-Engineer_R10257006"
+  },
+  {
+   "closed_at": 1792628251,
+   "company": "twitch",
+   "hours_open": 1156.4,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1792628251,
+   "company": "mimecast",
+   "hours_open": 889.8,
+   "title": "Software Engineer I",
+   "uid": "workday:mimecast.wd5/Mimecast-Careers:Software-Engineer-I_R6708-1"
+  },
+  {
+   "closed_at": 1792628251,
+   "company": "livingspaces",
+   "hours_open": 410.9,
+   "title": "Front End Web Developer 1",
+   "uid": "workday:livingspaces.wd5/ls:Front-End-Web-Developer-1_R45250"
+  },
+  {
+   "closed_at": 1792628251,
+   "company": "systemstechnologyresearch",
+   "hours_open": 1152.4,
+   "title": "Autonomy Algorithms Software Engineer",
+   "uid": "greenhouse:systemstechnologyresearch:4704682006"
+  },
+  {
+   "closed_at": 1792628251,
+   "company": "spacex",
+   "hours_open": 1159.3,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1792628251,
+   "company": "spacex",
+   "hours_open": 1159.3,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 813,
- "updated_at": 1792627915
+ "count": 812,
+ "updated_at": 1792628252
 }
