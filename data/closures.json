@@ -1,76 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792417903,
-   "company": "GE Aerospace",
-   "hours_open": 237.3,
-   "title": "Entry Level FPGA Design/Verification Engineer",
-   "uid": "simplify:listings:4d406de1-906e-44be-a72b-7d816e5a5c83"
-  },
-  {
-   "closed_at": 1792417903,
-   "company": "myhrabc",
-   "hours_open": 292.7,
-   "title": "Software Engineer 1",
-   "uid": "workday:myhrabc.wd5/Global:Software-Engineer-1_R2616789"
-  },
-  {
-   "closed_at": 1792417903,
-   "company": "mmc",
-   "hours_open": 396.5,
-   "title": "Junior Full-Stack Engineer, Generative AI @ Marsh Tech",
-   "uid": "workday:mmc.wd1/mmc:Junior-Full-Stack-Engineer--Generative-AI---Marsh-Tech_R_367686"
-  },
-  {
-   "closed_at": 1792417903,
-   "company": "torcrobotics",
-   "hours_open": 1093.9,
-   "title": "FinOps Engineer",
-   "uid": "greenhouse:torcrobotics:8644769002"
-  },
-  {
-   "closed_at": 1792417903,
-   "company": "advancedtechnologyservices",
-   "hours_open": 1099.2,
-   "title": "Onsite Controls Engineer (Industrial)",
-   "uid": "greenhouse:advancedtechnologyservices:4700009006"
-  },
-  {
-   "closed_at": 1792417903,
-   "company": "Maarut",
-   "hours_open": 63.4,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50517346"
-  },
-  {
-   "closed_at": 1792417903,
-   "company": "Princeton IT Services Inc",
-   "hours_open": 1118.8,
-   "title": "software development programmer",
-   "uid": "jobbank:junior programmer:50092595"
-  },
-  {
-   "closed_at": 1792417903,
-   "company": "spacex",
-   "hours_open": 1100.9,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1792419840,
-   "company": "axon",
-   "hours_open": 62.9,
-   "title": "Software Engineer I ",
-   "uid": "greenhouse:axon:7703668003"
-  },
-  {
-   "closed_at": 1792419840,
-   "company": "rockwellautomation",
-   "hours_open": 110.3,
-   "title": "Co-op, Hardware Development Engineer (June - Dec 2027)",
-   "uid": "workday:rockwellautomation.wd1/External-Rockwell-Automation-Early-Careers:Co-op--Hardware-Development-Engineer--June---Dec-2027-_R26-6891"
-  },
-  {
    "closed_at": 1792419840,
    "company": "rockwellautomation",
    "hours_open": 110.3,
@@ -5599,8 +5529,78 @@
    "hours_open": 1165.7,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1792662165,
+   "company": "Source Code",
+   "hours_open": 196.2,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:systems analyst:50491950"
+  },
+  {
+   "closed_at": 1792662165,
+   "company": "CGI",
+   "hours_open": 1048.6,
+   "title": "Conseiller(ère) en gouvernance de la cybersécurité",
+   "uid": "jobillico:analyste cybersecurite:17433756"
+  },
+  {
+   "closed_at": 1792662165,
+   "company": "City of Regina",
+   "hours_open": 327.8,
+   "title": "programmer analyst",
+   "uid": "jobbank:junior programmer:50454320"
+  },
+  {
+   "closed_at": 1792662165,
+   "company": "HAFMAN CONSULTING GROUP INC.",
+   "hours_open": 331.0,
+   "title": "information systems quality assurance analyst",
+   "uid": "jobbank:information systems analyst:50453138"
+  },
+  {
+   "closed_at": 1792662165,
+   "company": "Groupe Mario Coté",
+   "hours_open": 139.4,
+   "title": "Administrateur de réseau",
+   "uid": "jobillico:analyste reseau:17594211"
+  },
+  {
+   "closed_at": 1792662165,
+   "company": "T-Mobile",
+   "hours_open": 130.4,
+   "title": "Associate Engineer - Software - Mobile App Development",
+   "uid": "simplify:listings:261d38fb-d89b-4d4e-8f69-57bb0c3586f9"
+  },
+  {
+   "closed_at": 1792662165,
+   "company": "twitch",
+   "hours_open": 1168.8,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1792662165,
+   "company": "DPMSYSTEMS IT CONSULTING SERVICES",
+   "hours_open": 820.8,
+   "title": "information systems analyst - computer systems",
+   "uid": "jobbank:systems analyst:50311291"
+  },
+  {
+   "closed_at": 1792662165,
+   "company": "systemstechnologyresearch",
+   "hours_open": 1048.6,
+   "title": "Autonomy Algorithms Software Engineer",
+   "uid": "greenhouse:systemstechnologyresearch:4704680006"
+  },
+  {
+   "closed_at": 1792662165,
+   "company": "spacex",
+   "hours_open": 1167.1,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
- "count": 822,
- "updated_at": 1792651312
+ "count": 810,
+ "updated_at": 1792662166
 }
