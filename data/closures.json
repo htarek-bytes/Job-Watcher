@@ -2,76 +2,6 @@
  "closed": [
   {
    "closed_at": 1792419840,
-   "company": "rockwellautomation",
-   "hours_open": 110.3,
-   "title": "Co-op, Hardware Development Engineer (Jan - July 2027)",
-   "uid": "workday:rockwellautomation.wd1/External-Rockwell-Automation-Early-Careers:Co-op--Hardware-Development-Engineer--Jan---July-2027-_R26-6638"
-  },
-  {
-   "closed_at": 1792419840,
-   "company": "salesforce",
-   "hours_open": 396.9,
-   "title": "Business Development Associate (Early Career)",
-   "uid": "workday:salesforce.wd12/External_Career_Site:Business-Development-Associate--Early-Career-_JR340479-1"
-  },
-  {
-   "closed_at": 1792419840,
-   "company": "sandvik",
-   "hours_open": 396.9,
-   "title": "Solution Engineer - Integration Delivery",
-   "uid": "workday:sandvik.wd3/sandvik-jobs:Solution-Engineer---Integration-Delivery_R0097990"
-  },
-  {
-   "closed_at": 1792419840,
-   "company": "twitch",
-   "hours_open": 1098.5,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1792419840,
-   "company": "reddit",
-   "hours_open": 91.5,
-   "title": "Machine Learning Engineer",
-   "uid": "greenhouse:reddit:7131934"
-  },
-  {
-   "closed_at": 1792419840,
-   "company": "point72",
-   "hours_open": 1099.7,
-   "title": "Software Engineer, Macro Quant Analytics Technology",
-   "uid": "greenhouse:point72:8060321002"
-  },
-  {
-   "closed_at": 1792419840,
-   "company": "GEOCELLCANADA Inc.",
-   "hours_open": 4.1,
-   "title": "telecommunications technician",
-   "uid": "jobbank:telecommunications analyst:50029740"
-  },
-  {
-   "closed_at": 1792419840,
-   "company": "rockwellautomation",
-   "hours_open": 523.3,
-   "title": "Intern, Technical Sales & Consulting (USA)",
-   "uid": "workday:rockwellautomation.wd1/External-Rockwell-Automation-Early-Careers:Intern--Technical-Sales---Consulting--USA-_R26-5962-1"
-  },
-  {
-   "closed_at": 1792419840,
-   "company": "relx",
-   "hours_open": 1120.4,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - January)",
-   "uid": "workday:relx.wd3/RiskSolutions:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617"
-  },
-  {
-   "closed_at": 1792419840,
-   "company": "relx",
-   "hours_open": 1120.4,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - June)",
-   "uid": "workday:relx.wd3/RiskSolutions:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-1"
-  },
-  {
-   "closed_at": 1792419840,
    "company": "relx",
    "hours_open": 1120.4,
    "title": "Tech Accelerate Graduate Program - Software Engineer (Boca Raton - June)",
@@ -5599,8 +5529,78 @@
    "hours_open": 1167.1,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1792663616,
+   "company": "Source Code",
+   "hours_open": 4.1,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:control systems analyst:50553479"
+  },
+  {
+   "closed_at": 1792663616,
+   "company": "Logesco Informatique",
+   "hours_open": 1049.0,
+   "title": "Administrateur de réseau",
+   "uid": "jobillico:analyste reseau:17188132"
+  },
+  {
+   "closed_at": 1792663616,
+   "company": "HAFMAN CONSULTING GROUP INC.",
+   "hours_open": 331.3,
+   "title": "information systems quality assurance analyst",
+   "uid": "jobbank:systems analyst:50453138"
+  },
+  {
+   "closed_at": 1792663616,
+   "company": "twitch",
+   "hours_open": 1166.2,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1792663616,
+   "company": "field-ai",
+   "hours_open": 1166.2,
+   "title": "Software Engineer, Infrastructure and Tools",
+   "uid": "lever:field-ai:b5ebd445-3ec1-49b2-a506-8f0a52f5f4cd"
+  },
+  {
+   "closed_at": 1792663616,
+   "company": "DPMSYSTEMS IT CONSULTING SERVICES",
+   "hours_open": 172.6,
+   "title": "information systems analyst - computer systems",
+   "uid": "jobbank:information systems analyst:50311291"
+  },
+  {
+   "closed_at": 1792663616,
+   "company": "agile-defense",
+   "hours_open": 370.7,
+   "title": "Systems Administrator - Future Operations",
+   "uid": "lever:agile-defense:702f210e-0971-43ad-8453-ba399173e99a"
+  },
+  {
+   "closed_at": 1792663616,
+   "company": "agile-defense",
+   "hours_open": 370.7,
+   "title": "Systems Administrator - Virtualization (Intermediate & Associate)",
+   "uid": "lever:agile-defense:36267593-a3d4-402d-8851-3e6dee32c1e9"
+  },
+  {
+   "closed_at": 1792663616,
+   "company": "systemstechnologyresearch",
+   "hours_open": 1162.2,
+   "title": "Autonomy Algorithms Software Engineer",
+   "uid": "greenhouse:systemstechnologyresearch:4704682006"
+  },
+  {
+   "closed_at": 1792663616,
+   "company": "spacex",
+   "hours_open": 1169.2,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
  "count": 810,
- "updated_at": 1792662166
+ "updated_at": 1792663617
 }
