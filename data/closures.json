@@ -1,83 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792456662,
-   "company": "spacex",
-   "hours_open": 1108.7,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1792456662,
-   "company": "spacex",
-   "hours_open": 1111.7,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1792456836,
-   "company": "Logesco Informatique",
-   "hours_open": 991.5,
-   "title": "Administrateur de réseau",
-   "uid": "jobillico:analyste reseau:17188132"
-  },
-  {
-   "closed_at": 1792456836,
-   "company": "twitch",
-   "hours_open": 1111.7,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1792456836,
-   "company": "andersen",
-   "hours_open": 1135.8,
-   "title": "RDI Materials Associate Engineer",
-   "uid": "workday:andersen.wd12/Andersen_External_Career_Site:RDI-Materials-Associate-Engineer_R-8110"
-  },
-  {
-   "closed_at": 1792456836,
-   "company": "caci",
-   "hours_open": 78.7,
-   "title": "Aerospace Engineer Intern - Summer 2027",
-   "uid": "workday:caci.wd1/external:Aerospace-Engineer-Intern---Summer-2027_333648"
-  },
-  {
-   "closed_at": 1792456836,
-   "company": "caci",
-   "hours_open": 96.3,
-   "title": "Software Test Engineer Intern - Spring 2027",
-   "uid": "workday:caci.wd1/external:Software-Test-Engineer-Intern---Spring-2027_333422"
-  },
-  {
-   "closed_at": 1792456836,
-   "company": "systemstechnologyresearch",
-   "hours_open": 991.5,
-   "title": "Autonomy Algorithms Software Engineer",
-   "uid": "greenhouse:systemstechnologyresearch:4704680006"
-  },
-  {
-   "closed_at": 1792456836,
-   "company": "spacex",
-   "hours_open": 1111.4,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1792456836,
-   "company": "spacex",
-   "hours_open": 1110.0,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1792460549,
-   "company": "cigna",
-   "hours_open": 285.8,
-   "title": "Analyste, Soutien technique - Bilingual  IT Service Desk Analyst - Express Scripts Canada",
-   "uid": "workday:cigna.wd5/cignacareers:Analyste--Soutien-technique---IT-Service-Desk-Analyst---Express-Scripts-Canada_26012517"
-  },
-  {
    "closed_at": 1792460549,
    "company": "Groupe Mario Coté",
    "hours_open": 83.4,
@@ -5599,8 +5522,85 @@
    "hours_open": 1179.8,
    "title": "Security Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1792706473,
+   "company": "SimpleK division de ASSA ABLOY High Security Group Inc.",
+   "hours_open": 486.8,
+   "title": "developer, software",
+   "uid": "jobbank:junior software developer:50410122"
+  },
+  {
+   "closed_at": 1792706473,
+   "company": "vizient",
+   "hours_open": 17.2,
+   "title": "Associate Software Engineer",
+   "uid": "workday:vizient.wd1/Vizient_Careers:Associate-Software-Engineer_35366R"
+  },
+  {
+   "closed_at": 1792706473,
+   "company": "torcrobotics",
+   "hours_open": 1174.1,
+   "title": "ML Engineer, I - MLOps Framework",
+   "uid": "greenhouse:torcrobotics:8728723002"
+  },
+  {
+   "closed_at": 1792706473,
+   "company": "cerebras",
+   "hours_open": 1181.1,
+   "title": "Full Stack Engineer - Console Team",
+   "uid": "ashby:cerebras:79eec4ee-8c02-407a-899c-3848f7c2a8b8"
+  },
+  {
+   "closed_at": 1792706473,
+   "company": "Amerisure",
+   "hours_open": 1217.7,
+   "title": "Software Engineer 1",
+   "uid": "simplify:listings:2d167d8e-a034-4b6d-a578-d0806e341bbd"
+  },
+  {
+   "closed_at": 1792706473,
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
+   "hours_open": 59.8,
+   "title": "Administrateur Réseau TI",
+   "uid": "jobillico:analyste reseau:17628663"
+  },
+  {
+   "closed_at": 1792706473,
+   "company": "spacex",
+   "hours_open": 891.0,
+   "title": "Construction Project Engineer (MEP)",
+   "uid": "greenhouse:spacex:8811665002"
+  },
+  {
+   "closed_at": 1792706473,
+   "company": "spacex",
+   "hours_open": 1181.1,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1792706473,
+   "company": "scoutai",
+   "hours_open": 1174.1,
+   "title": "Mission Operator - Flight Test Engineer",
+   "uid": "greenhouse:scoutai:5170789008"
+  },
+  {
+   "closed_at": 1792706473,
+   "company": "scoutai",
+   "hours_open": 1174.1,
+   "title": "Full Stack Software Engineer",
+   "uid": "greenhouse:scoutai:4958043008"
+  },
+  {
+   "closed_at": 1792706473,
+   "company": "scoutai",
+   "hours_open": 1174.1,
+   "title": "AI Engineer ",
+   "uid": "greenhouse:scoutai:4643324008"
   }
  ],
- "count": 807,
- "updated_at": 1792701828
+ "count": 811,
+ "updated_at": 1792706474
 }
