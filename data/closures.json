@@ -1,76 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792419840,
-   "company": "relx",
-   "hours_open": 1120.4,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Boca Raton - June)",
-   "uid": "workday:relx.wd3/RiskSolutions:Tech-Accelerate-Graduate-Program---Software-Engineer--Boca-Raton---June-_R116023-2"
-  },
-  {
-   "closed_at": 1792419840,
-   "company": "relx",
-   "hours_open": 248.0,
-   "title": "Software Engineer 1",
-   "uid": "workday:relx.wd3/relx:Software-Engineer-1_R117973-1"
-  },
-  {
-   "closed_at": 1792419840,
-   "company": "Silicon Laboratories",
-   "hours_open": 1138.1,
-   "title": "Digital Design Engineer 1",
-   "uid": "simplify:listings:c7142e93-997d-4cb6-a4e3-6cd5fac970ad"
-  },
-  {
-   "closed_at": 1792419840,
-   "company": "spacex",
-   "hours_open": 1101.4,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1792419840,
-   "company": "spacex",
-   "hours_open": 1101.2,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1792420412,
-   "company": "tmobile",
-   "hours_open": 65.6,
-   "title": "Associate Engineer,  Software - Mobile App Development",
-   "uid": "workday:tmobile.wd1/External:Associate-Engineer---Software---Mobile-App-Development_REQ370392-1"
-  },
-  {
-   "closed_at": 1792420412,
-   "company": "Vaisesika Consulting Inc.",
-   "hours_open": 568.6,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50368572"
-  },
-  {
-   "closed_at": 1792420412,
-   "company": "twitch",
-   "hours_open": 1101.6,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1792420412,
-   "company": "reddit",
-   "hours_open": 62.8,
-   "title": "Machine Learning Engineer",
-   "uid": "greenhouse:reddit:7131932"
-  },
-  {
-   "closed_at": 1792420412,
-   "company": "shi",
-   "hours_open": 199.4,
-   "title": "Solutions Engineer - Enterprise",
-   "uid": "workday:shi.wd12/shicareers:Solutions-Engineer---Enterprise_JR3576"
-  },
-  {
    "closed_at": 1792420412,
    "company": "spacex",
    "hours_open": 1098.7,
@@ -5599,8 +5529,78 @@
    "hours_open": 1169.2,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1792669417,
+   "company": "bluecatnetworks",
+   "hours_open": 499.4,
+   "title": "DevOps Engineer",
+   "uid": "lever:bluecatnetworks:bd95da3f-67a9-42a7-8e02-5e3392ef6b00"
+  },
+  {
+   "closed_at": 1792669417,
+   "company": "Source Code",
+   "hours_open": 198.2,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:systems analyst:50491950"
+  },
+  {
+   "closed_at": 1792669417,
+   "company": "HAFMAN CONSULTING GROUP INC.",
+   "hours_open": 1.6,
+   "title": "information systems quality assurance analyst",
+   "uid": "jobbank:analyste de systemes:50453138"
+  },
+  {
+   "closed_at": 1792669417,
+   "company": "Alcoa Canada",
+   "hours_open": 1050.6,
+   "title": "Conseiller(ère) en cybersécurité (Amérique du Nord)",
+   "uid": "jobillico:analyste cybersecurite:17502948"
+  },
+  {
+   "closed_at": 1792669417,
+   "company": "mendix",
+   "hours_open": 46.8,
+   "title": "Cloud Engineer",
+   "uid": "lever:mendix:f61ca692-a66b-4e9f-a864-ad29e7cd716e"
+  },
+  {
+   "closed_at": 1792669417,
+   "company": "twitch",
+   "hours_open": 1170.8,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1792669417,
+   "company": "GEOCELLCANADA Inc.",
+   "hours_open": 73.4,
+   "title": "telecommunications technician",
+   "uid": "jobbank:telecommunications analyst:50029740"
+  },
+  {
+   "closed_at": 1792669417,
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
+   "hours_open": 49.5,
+   "title": "Administrateur Réseau TI",
+   "uid": "jobillico:analyste reseau:17628663"
+  },
+  {
+   "closed_at": 1792669417,
+   "company": "systemstechnologyresearch",
+   "hours_open": 1050.6,
+   "title": "Autonomy Algorithms Software Engineer",
+   "uid": "greenhouse:systemstechnologyresearch:4704680006"
+  },
+  {
+   "closed_at": 1792669417,
+   "company": "spacex",
+   "hours_open": 1169.1,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
  "count": 810,
- "updated_at": 1792663617
+ "updated_at": 1792669418
 }
