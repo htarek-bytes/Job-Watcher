@@ -1,5 +1,5 @@
 {
- "count": 8921,
+ "count": 8924,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -3956,6 +3956,7 @@
   "greenhouse:spacex:8901179002": 1792597012,
   "greenhouse:spacex:8903848002": 1792527453,
   "greenhouse:spacex:8904042002": 1792527453,
+  "greenhouse:spacex:8907760002": 1792633910,
   "greenhouse:stratacareers:8030865003": 1791936035,
   "greenhouse:stripe:6042172": 1788454653,
   "greenhouse:stripe:6176758": 1788454653,
@@ -8739,6 +8740,7 @@
   "workday:sierraspace.wd1/Sierra_Space_External_Career_Site:Loads---Dynamics-Engineer-I_R26356-1": 1791444813,
   "workday:sierraspace.wd1/Sierra_Space_External_Career_Site:Material-Science-Engineer-I_R26360-1": 1792077007,
   "workday:sierraspace.wd1/Sierra_Space_External_Career_Site:Radiation-Engineer--Electrical--I_R26361-1": 1791444813,
+  "workday:sierraspace.wd1/Sierra_Space_External_Career_Site:Summer-2027-Flight-Software-Engineer-Intern_R26456": 1792633910,
   "workday:sierraspace.wd1/Sierra_Space_External_Career_Site:Test-Engineer-I_R26402-1": 1791847101,
   "workday:sierraspace.wd1/Sierra_Space_External_Career_Site:Thermal-Analysis-Engineer-I_R26353": 1791444813,
   "workday:silabs.wd1/SiliconlabsCareers:DevOps-Platform-Engineer_21029-1": 1788880168,
@@ -8746,6 +8748,7 @@
   "workday:silabs.wd1/SiliconlabsCareers:RFIC-Design-Engineer-I_20918-1": 1789051055,
   "workday:silabs.wd1/SiliconlabsCareers:Software-Engineer-I_21011-1": 1789428175,
   "workday:snapfinance.wd1/snap_external_careers:Software-Engineer-I_R-2796": 1790399844,
+  "workday:snc.wd1/snc_external_career_site:Aerodynamics-Engineer-Intern---Summer-2027_R0031131": 1792633910,
   "workday:snc.wd1/snc_external_career_site:Flight-Test-Engineer-Intern_R0031069": 1792530386,
   "workday:snc.wd1/snc_external_career_site:RF-Engineer-Intern_R0031110": 1792473774,
   "workday:snc.wd1/snc_external_career_site:Software-Engineering-Intern--Summer-2027-_R0030761-1": 1788474010,
@@ -8922,5 +8925,6 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Junior-Algorithm-Engineer_R19377": 1788377927,
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148,
   "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541": 1789106107
- }
+ },
+ "updated_at": 1792633910
 }
