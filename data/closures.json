@@ -1,20 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792509217,
-   "company": "Arondite",
-   "hours_open": 1006.1,
-   "title": "Technical Operations Specialist",
-   "uid": "workable:arondite:CB32B1E5EA"
-  },
-  {
-   "closed_at": 1792509217,
-   "company": "spacex",
-   "hours_open": 1126.3,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
    "closed_at": 1792515454,
    "company": "sharkninjaoperatingllc",
    "hours_open": 453.0,
@@ -5599,8 +5585,22 @@
    "hours_open": 180.2,
    "title": "Software Development Engineer - Embedded, Amazon Leo",
    "uid": "amazon:amazon:10580991"
+  },
+  {
+   "closed_at": 1792757286,
+   "company": "vizient",
+   "hours_open": 324.8,
+   "title": "Associate Software Engineer",
+   "uid": "workday:vizient.wd1/Vizient_Careers:Associate-Software-Engineer_35387R-1"
+  },
+  {
+   "closed_at": 1792757286,
+   "company": "The Boeing Company",
+   "hours_open": 1.9,
+   "title": "Associate Software Engineer",
+   "uid": "simplify:listings:2254ac53-779c-4e35-af27-c955600704ba"
   }
  ],
- "count": 805,
- "updated_at": 1792757100
+ "count": 802,
+ "updated_at": 1792757286
 }
