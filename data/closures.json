@@ -2,41 +2,6 @@
  "closed": [
   {
    "closed_at": 1792478321,
-   "company": "T&T Supermarket Inc",
-   "hours_open": 416.2,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50412133"
-  },
-  {
-   "closed_at": 1792478321,
-   "company": "Future Electronics",
-   "hours_open": 425.5,
-   "title": "Java programmer",
-   "uid": "jobbank:junior programmer:50409321"
-  },
-  {
-   "closed_at": 1792478321,
-   "company": "Future Electronics",
-   "hours_open": 424.9,
-   "title": "network analyst",
-   "uid": "jobbank:network analyst:50409591"
-  },
-  {
-   "closed_at": 1792478321,
-   "company": "thomsonreuters",
-   "hours_open": 287.1,
-   "title": "Junior Dev Ops Engineer (Graduate) - Reuters Imagen",
-   "uid": "workday:thomsonreuters.wd5/External_Career_Site:Junior-DevOps-Engineer---Reuters-Imagen_JREQ204129"
-  },
-  {
-   "closed_at": 1792478321,
-   "company": "TechSmash Inc.",
-   "hours_open": 778.6,
-   "title": "computer programmer",
-   "uid": "jobbank:junior programmer:50309180"
-  },
-  {
-   "closed_at": 1792478321,
    "company": "Maison Russet inc",
    "hours_open": 1135.6,
    "title": "computer programmer",
@@ -5599,8 +5564,43 @@
    "hours_open": 886.9,
    "title": "Surveillance Systems Engineer",
    "uid": "workable:saalex:C231273F82"
+  },
+  {
+   "closed_at": 1792733984,
+   "company": "Citylitics",
+   "hours_open": 0.3,
+   "title": "data engineer",
+   "uid": "jobbank:infrastructure analyst:50564033"
+  },
+  {
+   "closed_at": 1792733984,
+   "company": "Source Code",
+   "hours_open": 216.2,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:systems analyst:50491950"
+  },
+  {
+   "closed_at": 1792733984,
+   "company": "Karmakarah Technologies Inc",
+   "hours_open": 487.2,
+   "title": "systems analyst",
+   "uid": "jobbank:systems analyst:50412027"
+  },
+  {
+   "closed_at": 1792733984,
+   "company": "autostore",
+   "hours_open": 946.1,
+   "title": "Software Engineering Coop",
+   "uid": "workday:autostore.wd3/autostore:Co-Op---Software-Engineering_JR102692"
+  },
+  {
+   "closed_at": 1792733984,
+   "company": "Global Fleet Management Inc.",
+   "hours_open": 115.8,
+   "title": "information systems analyst - computer systems",
+   "uid": "jobbank:information systems analyst:50302902"
   }
  ],
- "count": 816,
- "updated_at": 1792732742
+ "count": 805,
+ "updated_at": 1792733985
 }

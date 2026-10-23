@@ -1,5 +1,5 @@
 {
- "count": 9078,
+ "count": 9083,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -4396,6 +4396,7 @@
   "jobbank:analyste de systemes:50248333": 1790884489,
   "jobbank:analyste de systemes:50248611": 1790723272,
   "jobbank:analyste de systemes:50407976": 1790922474,
+  "jobbank:analyste de systemes:50412027": 1792733984,
   "jobbank:analyste de systemes:50419044": 1791470986,
   "jobbank:analyste de systemes:50453138": 1792663616,
   "jobbank:analyste reseau:50391508": 1790707195,
@@ -5098,6 +5099,7 @@
   "jobillico:analyste reseau:17511981": 1788976297,
   "jobillico:analyste reseau:17520153": 1789147006,
   "jobillico:analyste reseau:17594211": 1792160457,
+  "jobillico:analyste reseau:17619549": 1792733984,
   "jobillico:analyste reseau:17628663": 1792491230,
   "jobillico:developpeur logiciel:10091077": 1788454653,
   "jobillico:developpeur logiciel:17359277": 1788887337,
@@ -7570,6 +7572,8 @@
   "workday:alliance.wd3/nissanjobs:New-Model-Tech-Quality-Validation-Engineer-Intern---Summer-2027---Smyrna--TN_R00214251": 1791895295,
   "workday:alliance.wd3/nissanjobs:Software-Engineer-Intern---Spring-2027---Santa-Clara--CA_R00214269": 1792059019,
   "workday:alliance.wd3/nissanjobs:Systems-Engineer-Intern---Summer-2027---Canton--MS_R00214882": 1791421754,
+  "workday:allstate.wd5/sourcing_event:Arity---Data-Analytics-Engineer-Intern_R36286": 1792733984,
+  "workday:allstate.wd5/sourcing_event:Arity---Software-Engineer-Intern_R36266": 1792733984,
   "workday:altera.wd1/altera:FPGA-IP-Design-Engineer----Intern_R03324": 1792170020,
   "workday:altera.wd1/altera:FPGA-IP-Design-Engineer---Intern_R03299": 1792564385,
   "workday:altera.wd1/altera:Junior-Verification-Engineer_R03078": 1788549636,
@@ -7663,6 +7667,7 @@
   "workday:barrywehmiller.wd1/BWConfidential:Software-Engineering-Intern---DAL_R023133": 1791572780,
   "workday:baxter.wd1/baxter:Controls-Engineer-I_JR-209135-1": 1788480665,
   "workday:baxter.wd1/baxter:Controls-Engineer-I_JR-210746-1": 1790980231,
+  "workday:baxter.wd1/baxter:Engineer-I_JR-212030-1": 1792733984,
   "workday:bb.wd3/QNX:QNX-Open-Source-Software-Developer--New-Graduate-Graduate-_20260289": 1788377607,
   "workday:bb.wd3/blackberry:QNX-Open-Source-Software-Developer--New-Graduate-Graduate-_20260289-1": 1788368024,
   "workday:bcidaho.wd5/BCI:AI-Engineer-I_R3397": 1792567780,
@@ -9080,5 +9085,5 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148,
   "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541": 1789106107
  },
- "updated_at": 1792732742
+ "updated_at": 1792733984
 }
