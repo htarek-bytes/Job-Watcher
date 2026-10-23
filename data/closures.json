@@ -2,41 +2,6 @@
  "closed": [
   {
    "closed_at": 1792518797,
-   "company": "TECHSAVY INC.",
-   "hours_open": 313.5,
-   "title": "telecommunications technician",
-   "uid": "jobbank:telecommunications analyst:50383753"
-  },
-  {
-   "closed_at": 1792518797,
-   "company": "cadence",
-   "hours_open": 16.2,
-   "title": "CST Application Engineer Intern - Systems ATX",
-   "uid": "workday:cadence.wd1/University_CST:CST-Application-Engineer-Intern---Systems-ATX_R56800-1"
-  },
-  {
-   "closed_at": 1792518797,
-   "company": "cboe",
-   "hours_open": 243.2,
-   "title": "Associate Software Engineer, Web",
-   "uid": "workday:cboe.wd1/External_Career_CBOE:Associate-Software-Engineer--Web_R-4582-2"
-  },
-  {
-   "closed_at": 1792518797,
-   "company": "cadence",
-   "hours_open": 16.2,
-   "title": "CST Application Engineer Intern - Physical Systems",
-   "uid": "workday:cadence.wd1/University_CST:CST-Application-Engineer-Intern---Physical-Systems_R56702"
-  },
-  {
-   "closed_at": 1792518797,
-   "company": "cadence",
-   "hours_open": 16.2,
-   "title": "CST Application Engineer Intern - Silicon",
-   "uid": "workday:cadence.wd1/University_CST:CST-Application-Engineer-Intern---Silicon_R56655-3"
-  },
-  {
-   "closed_at": 1792518797,
    "company": "twitch",
    "hours_open": 1128.9,
    "title": "Software Development Engineer, Security Platform",
@@ -5599,8 +5564,43 @@
    "hours_open": 63.5,
    "title": "Software Dev Engineer, Antenna System Validation",
    "uid": "amazon:amazon:10584780"
+  },
+  {
+   "closed_at": 1792769189,
+   "company": "GE Vernova",
+   "hours_open": 72.2,
+   "title": "Programmeur en vision par ordinateur / Computer Vision Programmer",
+   "uid": "jobillico:programmeur junior:17630481"
+  },
+  {
+   "closed_at": 1792769189,
+   "company": "Groupe DCM",
+   "hours_open": 844.4,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534670"
+  },
+  {
+   "closed_at": 1792769189,
+   "company": "twitch",
+   "hours_open": 1198.5,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1792769189,
+   "company": "accenturefederalservices",
+   "hours_open": 1078.3,
+   "title": "AI Security Specialist",
+   "uid": "greenhouse:accenturefederalservices:4705324006"
+  },
+  {
+   "closed_at": 1792769189,
+   "company": "spacex",
+   "hours_open": 1195.5,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
   }
  ],
- "count": 825,
- "updated_at": 1792768275
+ "count": 805,
+ "updated_at": 1792769190
 }
