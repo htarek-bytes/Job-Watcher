@@ -1,55 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792478321,
-   "company": "Maison Russet inc",
-   "hours_open": 1135.6,
-   "title": "computer programmer",
-   "uid": "jobbank:junior programmer:50000629"
-  },
-  {
-   "closed_at": 1792478321,
-   "company": "zebra",
-   "hours_open": 1130.0,
-   "title": "2026(6 months) Internship(Sri Lanka) -Software Engineering",
-   "uid": "workday:zebra.wd501/Zebra_careers:XMLNAME-2026-6-months--Internship-Sri-Lanka---Software-Engineering_JR102701"
-  },
-  {
-   "closed_at": 1792478321,
-   "company": "Silaris Solutions Inc",
-   "hours_open": 346.0,
-   "title": "cybersecurity specialist",
-   "uid": "jobbank:specialiste infrastructure:50430052"
-  },
-  {
-   "closed_at": 1792481291,
-   "company": "elevenlabs",
-   "hours_open": 367.9,
-   "title": "Enterprise Solutions Engineer - Canada",
-   "uid": "ashby:elevenlabs:0d68b2a2-887e-491c-8b9b-56e8354f75fb"
-  },
-  {
-   "closed_at": 1792481291,
-   "company": "Logesco Informatique",
-   "hours_open": 998.3,
-   "title": "Administrateur de réseau",
-   "uid": "jobillico:analyste reseau:17188132"
-  },
-  {
-   "closed_at": 1792481291,
-   "company": "Stellar Software Solutions",
-   "hours_open": 240.7,
-   "title": "network infrastructure engineer",
-   "uid": "jobbank:infrastructure analyst:50462911"
-  },
-  {
-   "closed_at": 1792481291,
-   "company": "cerebras",
-   "hours_open": 1118.5,
-   "title": "Site Reliability Engineer - Ops & Automation",
-   "uid": "ashby:cerebras:ae5daf29-d7d0-440e-b41f-c6f0a67489f3"
-  },
-  {
    "closed_at": 1792481291,
    "company": "applied",
    "hours_open": 1146.5,
@@ -5599,8 +5550,57 @@
    "hours_open": 115.8,
    "title": "information systems analyst - computer systems",
    "uid": "jobbank:information systems analyst:50302902"
+  },
+  {
+   "closed_at": 1792737232,
+   "company": "G Square Builders Ltd.",
+   "hours_open": 37.2,
+   "title": "Web developer",
+   "uid": "jobbank:developpeur junior:50549343"
+  },
+  {
+   "closed_at": 1792737232,
+   "company": "Boeing",
+   "hours_open": 7.2,
+   "title": "Entry-Level Software Engineer",
+   "uid": "simplify:listings:7a61173c-4b74-46ad-bf86-831048ae1170"
+  },
+  {
+   "closed_at": 1792737232,
+   "company": "cae",
+   "hours_open": 60.7,
+   "title": "IT Systems Administrator I",
+   "uid": "workday:cae.wd3/career:IT-Systems-Administrator-I_124309"
+  },
+  {
+   "closed_at": 1792737232,
+   "company": "Confédération des syndicats nationaux",
+   "hours_open": 0.9,
+   "title": "Administratrice ou administrateur réseau",
+   "uid": "jobillico:analyste reseau:17619549"
+  },
+  {
+   "closed_at": 1792737232,
+   "company": "Boeing",
+   "hours_open": 7.2,
+   "title": "Entry Level Software Engineer-Developer - Development",
+   "uid": "simplify:listings:9c7fd5ef-e102-4131-9530-64b9f976d432"
+  },
+  {
+   "closed_at": 1792737232,
+   "company": "centricsoftware",
+   "hours_open": 362.6,
+   "title": "Software Engineer 1",
+   "uid": "workday:centricsoftware.wd501/Centric:Software-Engineer-1_JR396"
+  },
+  {
+   "closed_at": 1792737232,
+   "company": "caci",
+   "hours_open": 13.1,
+   "title": "Embedded Software Engineering Co-op - Spring 2027",
+   "uid": "workday:caci.wd1/external:Embedded-Software-Engineering-Co-op---Spring-2027_331368"
   }
  ],
- "count": 805,
- "updated_at": 1792733985
+ "count": 807,
+ "updated_at": 1792737232
 }

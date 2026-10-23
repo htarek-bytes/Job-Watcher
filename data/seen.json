@@ -1,5 +1,5 @@
 {
- "count": 9083,
+ "count": 9089,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -4674,6 +4674,7 @@
   "jobbank:junior programmer:50515786": 1792180450,
   "jobbank:junior programmer:50531374": 1792417903,
   "jobbank:junior programmer:50533282": 1792429415,
+  "jobbank:junior programmer:50549343": 1792737232,
   "jobbank:junior programmer:50554601": 1792680203,
   "jobbank:junior programmer:50554603": 1792732742,
   "jobbank:junior programmer:50560878": 1792708136,
@@ -7729,6 +7730,7 @@
   "workday:boeing.wd1/external_subsidiary:Entry-Level-Flight-Simulation-Software-Engineer_JR2026523155": 1792013705,
   "workday:boeing.wd1/external_subsidiary:Entry-Level-Simulation-Software-Engineer_JR2026516853": 1789164172,
   "workday:boeing.wd1/external_subsidiary:Entry-Level-Software-Engineer-Developer--Development-_JR2026522577": 1792013705,
+  "workday:boeing.wd1/external_subsidiary:Entry-Level-Software-Engineer_JR2026526321": 1792737232,
   "workday:boeing.wd1/external_subsidiary:Mechanical-Ground-Support-Equipment-Engineer--Entry-Level----Millennium-Space-Systems_JR2026524385": 1789088653,
   "workday:boeing.wd1/external_subsidiary:Mission-Analysis-Engineer--Entry-level----Millennium-Space-Systems_JR2026524528-1": 1789707721,
   "workday:boeing.wd1/external_subsidiary:Payload-Mechanical-Design-Engineer---Entry-Level_JR2026519663": 1788472811,
@@ -7824,6 +7826,7 @@
   "workday:capitalone.wd12/Capital_One:Intern--Full-Stack-Software-Engineer---Team-Integrated-Sprout---Winter-2027_R249010": 1788893500,
   "workday:capitalone.wd12/Capital_One:Intern--Full-Stack-Software-Engineer---Team-Pickle---Winter-2027_R249013": 1788893500,
   "workday:capitalone.wd12/Capital_One:Intern--Mobile-Software-Engineer---Team-Gringotts-North---Winter-2027_R249015": 1788893879,
+  "workday:cat.wd5/solarturbines:XMLNAME-2027-Entry-Level-Controls-Design-Engineer_R0000401693": 1792737232,
   "workday:cat.wd5/solarturbines:XMLNAME-2027-Entry-Level-Gas-Turbine-Product-Engineer--GTPE-_R0000382291": 1788368024,
   "workday:cat.wd5/solarturbines:XMLNAME-2027-Entry-Level-IT-Analyst_R0000381899": 1790123242,
   "workday:cat.wd5/solarturbines:XMLNAME-2027-Entry-Level-Suppler-Technical-Engineer-_R0000383122": 1788368024,
@@ -7848,6 +7851,7 @@
   "workday:ccf.wd1/ClevelandClinicCareers:RN---Acute-Care-Neurology-and-Cardiac-Telemetry_334418-1": 1791955795,
   "workday:ccf.wd1/ClevelandClinicCareers:Software-Developer-I_334982": 1789708733,
   "workday:cdk.wd1/CDK:Associate-Software-Engineer_JR9201-1": 1788368024,
+  "workday:cdk.wd1/CDK:Associate-Software-Engineer_JR9204": 1792737232,
   "workday:cdk.wd1/CDK:Payments-Sales-Engineer_JR9247-1": 1788750148,
   "workday:centific.wd1/Centific_Global:Junior--Medior-Software-Engineer--NET---Azure-_JR108391": 1789417897,
   "workday:centricsoftware.wd501/Centric:PostgreSQL-Database-Administrator--Production-DBA-_JR192": 1791431778,
@@ -7871,6 +7875,8 @@
   "workday:clearwateranalytics.wd1/Clearwater_Analytics_Careers:Software-Development-Engineer-I_R12059": 1788460756,
   "workday:cni.wd503/CNI:Engineer-I_R9657": 1791907434,
   "workday:cni.wd503/CNI:Junior-Security-Analyst_R9489": 1789417897,
+  "workday:copart.wd12/copart:QA-Engineer-Intern_JR112005": 1792737232,
+  "workday:copart.wd12/copart:Software-Engineering-Intern_JR109964": 1792737232,
   "workday:costar.wd1/CoStarCareers:Matterport---Software-Engineer-I_R39503": 1789089172,
   "workday:costar.wd1/Costar_Campus:Associate-Software-Engineer---Arlington--VA_R39668": 1789417897,
   "workday:costar.wd1/Costar_Campus:Associate-Software-Engineer---Irvine--CA_R39736": 1789628034,
@@ -9085,5 +9091,5 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148,
   "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541": 1789106107
  },
- "updated_at": 1792733984
+ "updated_at": 1792737232
 }
