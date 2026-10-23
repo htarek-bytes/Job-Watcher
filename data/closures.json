@@ -2,41 +2,6 @@
  "closed": [
   {
    "closed_at": 1792523979,
-   "company": "databricks",
-   "hours_open": 1142.7,
-   "title": "Software Engineering Intern (2027 Start) - Winter",
-   "uid": "greenhouse:databricks:8732364002"
-  },
-  {
-   "closed_at": 1792523979,
-   "company": "reddit",
-   "hours_open": 120.4,
-   "title": "Machine Learning Engineer",
-   "uid": "greenhouse:reddit:7131934"
-  },
-  {
-   "closed_at": 1792523979,
-   "company": "ecolab",
-   "hours_open": 303.4,
-   "title": "Mining Engineering Technical Sales Intern",
-   "uid": "workday:ecolab.wd1/ecolab_external:Mining-Engineering-Technical-Sales-Intern_R00303116-1"
-  },
-  {
-   "closed_at": 1792523979,
-   "company": "Uare.ai",
-   "hours_open": 1167.0,
-   "title": "Software Engineer – Early Career",
-   "uid": "simplify:listings:b013d54d-e343-4859-badb-79f7e0e59c09"
-  },
-  {
-   "closed_at": 1792523979,
-   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
-   "hours_open": 9.1,
-   "title": "Administrateur Réseau TI",
-   "uid": "jobillico:analyste reseau:17628663"
-  },
-  {
-   "closed_at": 1792523979,
    "company": "andurilindustries",
    "hours_open": 533.6,
    "title": "Manufacturing Test Engineer, Test Automation",
@@ -5599,8 +5564,43 @@
    "hours_open": 328.1,
    "title": "Software Dev Engineer, Antenna System Validation, Amazon Leo",
    "uid": "amazon:amazon:10575302"
+  },
+  {
+   "closed_at": 1792775240,
+   "company": "xai",
+   "hours_open": 1188.2,
+   "title": "Hardware Failure Analysis Engineer - Memphis",
+   "uid": "greenhouse:xai:5229783007"
+  },
+  {
+   "closed_at": 1792775240,
+   "company": "xai",
+   "hours_open": 1188.2,
+   "title": "Site Reliability Engineer, Data Center - Memphis",
+   "uid": "greenhouse:xai:5211587007"
+  },
+  {
+   "closed_at": 1792775240,
+   "company": "belvederetrading",
+   "hours_open": 1208.1,
+   "title": "Software Engineer Intern - Summer 2027",
+   "uid": "lever:belvederetrading:10746b3d-1760-4573-9b63-b93f5a5e4fc0"
+  },
+  {
+   "closed_at": 1792775240,
+   "company": "voyagertechnologiesinc",
+   "hours_open": 1200.2,
+   "title": "Associate Quality Engineer",
+   "uid": "greenhouse:voyagertechnologiesinc:4379563009"
+  },
+  {
+   "closed_at": 1792775240,
+   "company": "voyagertechnologiesinc",
+   "hours_open": 1200.2,
+   "title": "Accelerated Physics Simulation Engineer – Agentic Computational Engineering (ACE)",
+   "uid": "greenhouse:voyagertechnologiesinc:4079284009"
   }
  ],
- "count": 815,
- "updated_at": 1792774927
+ "count": 805,
+ "updated_at": 1792775240
 }
