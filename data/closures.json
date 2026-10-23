@@ -2,13 +2,6 @@
  "closed": [
   {
    "closed_at": 1792473774,
-   "company": "salesforce",
-   "hours_open": 600.6,
-   "title": "Software Engineering AMTS (College Grad)",
-   "uid": "workday:salesforce.wd12/External_Career_Site:Software-Engineering-AMTS--College-Grad-_JR355250-1"
-  },
-  {
-   "closed_at": 1792473774,
    "company": "rockwellautomation",
    "hours_open": 80.4,
    "title": "Co-op, Hardware Development Engineer (June - Dec 2027)",
@@ -5599,8 +5592,15 @@
    "hours_open": 808.3,
    "title": "Computing Undergraduate Student Intern: DevOps Internship Program - Summer 2027",
    "uid": "smartrecruiters:LLNL:3743990015408206"
+  },
+  {
+   "closed_at": 1792720545,
+   "company": "AMAX",
+   "hours_open": 213.2,
+   "title": "Marketing Communications Specialist",
+   "uid": "workable:amax-1:76A704A15B"
   }
  ],
- "count": 806,
- "updated_at": 1792719925
+ "count": 801,
+ "updated_at": 1792720545
 }
