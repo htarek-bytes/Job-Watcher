@@ -1,111 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792518797,
-   "company": "twitch",
-   "hours_open": 1128.9,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1792518797,
-   "company": "reddit",
-   "hours_open": 90.1,
-   "title": "Machine Learning Engineer",
-   "uid": "greenhouse:reddit:7131932"
-  },
-  {
-   "closed_at": 1792518797,
-   "company": "cadence",
-   "hours_open": 1122.5,
-   "title": "Software Engineer  (new college grad Dec 2026)",
-   "uid": "workday:cadence.wd1/University_Talent:Software-Engineer---new-college-grad-Dec-2026-_R55738-1"
-  },
-  {
-   "closed_at": 1792518797,
-   "company": "cadence",
-   "hours_open": 1141.7,
-   "title": "Adams MultiBody Dynamics Application Software Developer (Recent Grad 2026)",
-   "uid": "workday:cadence.wd1/University_Talent:Adams-MultiBody-Dynamics-Application-Software-Developer--Recent-Grad-2026-_R55788-3"
-  },
-  {
-   "closed_at": 1792518797,
-   "company": "Advance Plus Tech Solutions Inc.",
-   "hours_open": 313.5,
-   "title": "telecommunications technician",
-   "uid": "jobbank:telecommunications analyst:50313582"
-  },
-  {
-   "closed_at": 1792518797,
-   "company": "spacex",
-   "hours_open": 1126.0,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1792518797,
-   "company": "spacex",
-   "hours_open": 1128.9,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1792523979,
-   "company": "dtna",
-   "hours_open": 17.6,
-   "title": "Software Developer I",
-   "uid": "workday:dtna.wd5/dtna_affiliate:Software-Developer-I_DT-20202"
-  },
-  {
-   "closed_at": 1792523979,
-   "company": "CGI",
-   "hours_open": 1010.2,
-   "title": "Conseiller(ère) en gouvernance de la cybersécurité",
-   "uid": "jobillico:analyste cybersecurite:17433756"
-  },
-  {
-   "closed_at": 1792523979,
-   "company": "ecolab",
-   "hours_open": 244.5,
-   "title": "Technical Sales Engineer",
-   "uid": "workday:ecolab.wd1/ecolab_external:Technical-Sales-Engineer_R00302837"
-  },
-  {
-   "closed_at": 1792523979,
-   "company": "dxctechnology",
-   "hours_open": 750.0,
-   "title": "Junior Java Developer",
-   "uid": "workday:dxctechnology.wd1/dxcjobs:Junior-Java-Developer_51584530"
-  },
-  {
-   "closed_at": 1792523979,
-   "company": "Amazon",
-   "hours_open": 167.8,
-   "title": "Software Development Engineer, Luna DevX",
-   "uid": "amazon:amazon:10577668"
-  },
-  {
-   "closed_at": 1792523979,
-   "company": "Amazon",
-   "hours_open": 146.2,
-   "title": "Software Development Engineer, AWS Vulnerability Management (AVM)",
-   "uid": "amazon:amazon:10578746"
-  },
-  {
-   "closed_at": 1792523979,
-   "company": "Amazon",
-   "hours_open": 169.1,
-   "title": "Software Development Engineer , FinTech Entity Data Service",
-   "uid": "amazon:amazon:10577327"
-  },
-  {
-   "closed_at": 1792523979,
-   "company": "lyft",
-   "hours_open": 86.2,
-   "title": "Software Engineer",
-   "uid": "greenhouse:lyft:8896679002"
-  },
-  {
    "closed_at": 1792523979,
    "company": "databricks",
    "hours_open": 1142.7,
@@ -5599,8 +5494,113 @@
    "hours_open": 1195.5,
    "title": "Security Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1792774927,
+   "company": "TECHSAVY INC.",
+   "hours_open": 384.6,
+   "title": "telecommunications technician",
+   "uid": "jobbank:telecommunications analyst:50383753"
+  },
+  {
+   "closed_at": 1792774927,
+   "company": "nexthopai",
+   "hours_open": 928.1,
+   "title": "Software Engineer - Intern",
+   "uid": "bamboohr:nexthopai:64"
+  },
+  {
+   "closed_at": 1792774927,
+   "company": "Rocket Lab USA",
+   "hours_open": 398.8,
+   "title": "HITL Engineer 1",
+   "uid": "simplify:listings:a4191e18-6043-43f5-86de-22a03e3a89c1"
+  },
+  {
+   "closed_at": 1792774927,
+   "company": "specteraerospace",
+   "hours_open": 1200.1,
+   "title": "Front-End Software Developer Co-Op - Spring 2027 ",
+   "uid": "bamboohr:specteraerospace:120"
+  },
+  {
+   "closed_at": 1792774927,
+   "company": "twitch",
+   "hours_open": 1197.1,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1792774927,
+   "company": "reddit",
+   "hours_open": 190.1,
+   "title": "Machine Learning Engineer",
+   "uid": "greenhouse:reddit:7131934"
+  },
+  {
+   "closed_at": 1792774927,
+   "company": "Eco Medical Equipment",
+   "hours_open": 718.0,
+   "title": "cloud administrator",
+   "uid": "jobbank:cloud administrator:50349556"
+  },
+  {
+   "closed_at": 1792774927,
+   "company": "relaypro",
+   "hours_open": 1193.1,
+   "title": "Associate QA Engineer",
+   "uid": "greenhouse:relaypro:6140280"
+  },
+  {
+   "closed_at": 1792774927,
+   "company": "rocketlab",
+   "hours_open": 90.0,
+   "title": "Flight Software Engineer I",
+   "uid": "greenhouse:rocketlab:8038139003"
+  },
+  {
+   "closed_at": 1792774927,
+   "company": "RTX",
+   "hours_open": 210.4,
+   "title": "Electro-Optics Systems Engineer 1",
+   "uid": "simplify:listings:acbb275f-fe6f-4f39-af1a-c079a2a2e18a"
+  },
+  {
+   "closed_at": 1792774927,
+   "company": "spacex",
+   "hours_open": 1200.1,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1792774927,
+   "company": "spacex",
+   "hours_open": 1200.1,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1792774927,
+   "company": "andurilindustries",
+   "hours_open": 1048.5,
+   "title": "Product Data Engineer",
+   "uid": "greenhouse:andurilindustries:5114654007"
+  },
+  {
+   "closed_at": 1792774927,
+   "company": "spacex",
+   "hours_open": 1200.1,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1792774927,
+   "company": "Amazon",
+   "hours_open": 328.1,
+   "title": "Software Dev Engineer, Antenna System Validation, Amazon Leo",
+   "uid": "amazon:amazon:10575302"
   }
  ],
- "count": 805,
- "updated_at": 1792769190
+ "count": 815,
+ "updated_at": 1792774927
 }
