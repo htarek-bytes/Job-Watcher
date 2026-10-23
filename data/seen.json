@@ -1,5 +1,5 @@
 {
- "count": 9241,
+ "count": 9245,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -8105,6 +8105,8 @@
   "workday:entrust.wd1/entrustcareers:Software-Engineering-Co-op_R004425": 1792216167,
   "workday:entrust.wd1/entrustcareers:XMLNAME--Intern---Software-Development----8-months---Hybrid-Ottawa_R004359": 1790174707,
   "workday:equifax.wd5/UR_External:Site-Reliability-Engineer-Intern_J00178674": 1788442300,
+  "workday:ercot.wd1/ercot_careers:Engineer-Development-Program---Entry-Level-Power-Engineer_R2167-1": 1792797935,
+  "workday:ercot.wd1/ercot_careers:GMS-Development-Program---Entry-Level-Power---Computer-Engineer_R2513-1": 1792797935,
   "workday:evergreenix.wd1/external-careers2:Software-Engineer-I_JR500693-1": 1792216167,
   "workday:evergreenix.wd1/external-careers2:Software-Engineer-I_JR500748-1": 1789166059,
   "workday:evergreenix.wd1/external-careers2:Software-Engineer-I_JR500749-1": 1792017336,
@@ -8231,6 +8233,7 @@
   "workday:globalfoundries.wd1/External:Software-Engineer--Cloud-Platform--2027-New-College-Graduate-_JR-2604056": 1788548796,
   "workday:globalfoundries.wd1/External:Software-Engineering-Intern--Cloud-Platform--Summer-2027-_JR-2604034": 1792625972,
   "workday:globalfoundries.wd1/External:Software-Engineering-Intern--Summer-2027-_JR-2604039": 1791580458,
+  "workday:globalfoundries.wd1/External:Sr-Engineer-Design_JR-2604139": 1792797935,
   "workday:globalfoundries.wd1/External:Systems-Engineer--2027-New-College-Graduate-_JR-2604083": 1788898936,
   "workday:globalfoundries.wd1/External:Tapeout-Engineer--2026-New-College-Graduate_JR-2602561": 1788377607,
   "workday:globalfoundries.wd1/External:XMLNAME-3D-Heterogeneous-Integration-Design-Enablement-Engineer--2025-New-College-Graduate-_JR-2501678": 1788377607,
@@ -8246,6 +8249,7 @@
   "workday:globalhr.wd5/Private_Posting_No_TMP:Production-Test-Engineer-Intern--Summer-2027-_01870379": 1788470575,
   "workday:globalhr.wd5/Private_Posting_No_TMP:Software-Engineer-Intern--Summer-2027----Onsite_01873017": 1789885070,
   "workday:globalhr.wd5/Private_Posting_No_TMP:Software-Engineer-Intern_01874282-1": 1791831542,
+  "workday:globalhr.wd5/Private_Posting_No_TMP:Software-Engineering-Intern---Summer-2027-_01884375": 1792797935,
   "workday:globalhr.wd5/Private_Posting_No_TMP:Software-Engineering-Intern--Summer-2027-_01870410": 1788947734,
   "workday:globalhr.wd5/Private_Posting_No_TMP:Software-Engineering-Intern--Summer-2027-_01871019": 1788442300,
   "workday:globalhr.wd5/Private_Posting_No_TMP:Software-Engineering-Intern--Summer-2027-_01874696": 1790641647,
@@ -9243,5 +9247,5 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148,
   "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541": 1789106107
  },
- "updated_at": 1792797599
+ "updated_at": 1792797936
 }

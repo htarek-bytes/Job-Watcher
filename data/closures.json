@@ -1,62 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792546712,
-   "company": "RTX",
-   "hours_open": 482.5,
-   "title": "Software Developer Engineer 1",
-   "uid": "simplify:listings:8e1c4d71-6011-41b4-8948-e9bef181663f"
-  },
-  {
-   "closed_at": 1792546712,
-   "company": "spacex",
-   "hours_open": 1133.7,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1792546712,
-   "company": "spacex",
-   "hours_open": 1135.0,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1792546712,
-   "company": "palantir",
-   "hours_open": 1136.7,
-   "title": "Information Security Engineer",
-   "uid": "lever:palantir:36703f67-6fae-445c-9277-f946121faaa0"
-  },
-  {
-   "closed_at": 1792548070,
-   "company": "AECOM",
-   "hours_open": 27.0,
-   "title": "Entry-Level Traffic Engineer",
-   "uid": "smartrecruiters:AECOM2:744000156378581"
-  },
-  {
-   "closed_at": 1792548070,
-   "company": "Bosch Group",
-   "hours_open": 27.0,
-   "title": "Software Engineering Co-Op - Spring 2027",
-   "uid": "smartrecruiters:BoschGroup:744000156311682"
-  },
-  {
-   "closed_at": 1792548070,
-   "company": "AECOM",
-   "hours_open": 27.0,
-   "title": "Junior Road Engineer / Starszy Asystent (-tka) Projektanta Drogowego",
-   "uid": "smartrecruiters:AECOM2:744000156264454"
-  },
-  {
-   "closed_at": 1792548070,
-   "company": "Groupe Mario Coté",
-   "hours_open": 107.7,
-   "title": "Administrateur de réseau",
-   "uid": "jobillico:analyste reseau:17594211"
-  },
-  {
    "closed_at": 1792548070,
    "company": "Anton Paar",
    "hours_open": 139.6,
@@ -5599,8 +5543,64 @@
    "hours_open": 1206.4,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1792797935,
+   "company": "eversource",
+   "hours_open": 28.5,
+   "title": "Distribution Design Associate Engineer - Hartford, CT",
+   "uid": "workday:eversource.wd1/ExternalSite:Distribution-Design-Associate-Engineer---Hartford--CT_R-032322"
+  },
+  {
+   "closed_at": 1792797935,
+   "company": "globalfoundries",
+   "hours_open": 1227.9,
+   "title": "3D Heterogeneous Integration Engineer (2026 New College Graduate)",
+   "uid": "workday:globalfoundries.wd1/External:XMLNAME-3D-Heterogeneous-Integration-Design-Enablement-Engineer--2025-New-College-Graduate-_JR-2501678"
+  },
+  {
+   "closed_at": 1792797935,
+   "company": "generalmotors",
+   "hours_open": 1008.6,
+   "title": "Machine Learning Engineer, AI Inference Solutions (Early in Career)",
+   "uid": "workday:generalmotors.wd5/Careers_GM:Machine-Learning-Engineer--AI-Inference-Solutions--University-Grad-_JR-202610103"
+  },
+  {
+   "closed_at": 1792797935,
+   "company": "frostbank",
+   "hours_open": 47.8,
+   "title": "FIA Insurance Development Associate I",
+   "uid": "workday:frostbank.wd5/External:FIA-Insurance-Development-Associate-I_R261248"
+  },
+  {
+   "closed_at": 1792797935,
+   "company": "globalfoundries",
+   "hours_open": 599.0,
+   "title": "Emulation Engineer (2026 New College Graduate)",
+   "uid": "workday:globalfoundries.wd1/External:Emulation-Engineer_JR-2600733"
+  },
+  {
+   "closed_at": 1792797935,
+   "company": "Hi-Tech Solution",
+   "hours_open": 391.0,
+   "title": "telecommunications service tester",
+   "uid": "jobbank:telecommunications analyst:49955305"
+  },
+  {
+   "closed_at": 1792797935,
+   "company": "gentex",
+   "hours_open": 1227.9,
+   "title": "Machine Vision Development Engineer I",
+   "uid": "workday:gentex.wd5/Gentex:Machine-Vision-Development-Engineer-I_REQ026227"
+  },
+  {
+   "closed_at": 1792797935,
+   "company": "exelixis",
+   "hours_open": 1227.9,
+   "title": "Associate Engineer - AI and Agentic",
+   "uid": "workday:exelixis.wd1/exel:Associate-Engineer---AI-and-Agentic_JR7031"
   }
  ],
- "count": 807,
- "updated_at": 1792797599
+ "count": 808,
+ "updated_at": 1792797936
 }
