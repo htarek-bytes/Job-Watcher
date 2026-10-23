@@ -1,69 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792529776,
-   "company": "ngc",
-   "hours_open": 71.9,
-   "title": "2027 Software Engineering Intern - Aurora CO",
-   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Software-Engineering-Intern---Aurora-CO_R10256393"
-  },
-  {
-   "closed_at": 1792529776,
-   "company": "pg",
-   "hours_open": 1135.3,
-   "title": "Purdue University R&D Engineer Co-op- Purdue Students Graduating in 2028/2029 ONLY",
-   "uid": "workday:pg.wd5/1000:Purdue-University-R-D-Engineer-Co-op--Purdue-Students-Graduating-in-2028-2029-ONLY_R000155305"
-  },
-  {
-   "closed_at": 1792529776,
-   "company": "Amazon",
-   "hours_open": 291.0,
-   "title": "Software Development Engineer, AWS Central SDE Team",
-   "uid": "amazon:amazon:10573324"
-  },
-  {
-   "closed_at": 1792529776,
-   "company": "Amazon",
-   "hours_open": 196.0,
-   "title": "Software Engineer, SSO Intelligence",
-   "uid": "amazon:amazon:10575853"
-  },
-  {
-   "closed_at": 1792529776,
-   "company": "lyft",
-   "hours_open": 1132.0,
-   "title": "Software Engineer",
-   "uid": "greenhouse:lyft:8772594002"
-  },
-  {
-   "closed_at": 1792529776,
-   "company": "ncr",
-   "hours_open": 1153.3,
-   "title": "SW Engineer I",
-   "uid": "workday:ncr.wd1/ext_us:SW-Engineer-I_R0157595"
-  },
-  {
-   "closed_at": 1792529776,
-   "company": "spacex",
-   "hours_open": 1129.0,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1792529776,
-   "company": "spacex",
-   "hours_open": 1131.7,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1792529776,
-   "company": "spacex",
-   "hours_open": 1132.0,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
    "closed_at": 1792530386,
    "company": "twitch",
    "hours_open": 1132.1,
@@ -5599,8 +5536,71 @@
    "hours_open": 1202.3,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1792787011,
+   "company": "Bosch Group",
+   "hours_open": 32.6,
+   "title": "[ETA] 3 Junior Java Developer (1-3 years of experience)",
+   "uid": "smartrecruiters:BoschGroup:744000157095699"
+  },
+  {
+   "closed_at": 1792787011,
+   "company": "Source Code",
+   "hours_open": 38.3,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:control systems analyst:50553479"
+  },
+  {
+   "closed_at": 1792787011,
+   "company": "Jobs for Humanity",
+   "hours_open": 694.5,
+   "title": "Junior Cybersecurity Engineer",
+   "uid": "smartrecruiters:JobsForHumanity:744000151641432"
+  },
+  {
+   "closed_at": 1792787011,
+   "company": "altentechnologyusa",
+   "hours_open": 1201.7,
+   "title": "Design and Release Engineer",
+   "uid": "greenhouse:altentechnologyusa:5165806007"
+  },
+  {
+   "closed_at": 1792787011,
+   "company": "DPMSYSTEMS IT CONSULTING SERVICES",
+   "hours_open": 206.8,
+   "title": "information systems analyst - computer systems",
+   "uid": "jobbank:information systems analyst:50311291"
+  },
+  {
+   "closed_at": 1792787011,
+   "company": "spacex",
+   "hours_open": 1200.5,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1792787011,
+   "company": "andurilindustries",
+   "hours_open": 1201.7,
+   "title": "Software Engineer, Space Special Programs",
+   "uid": "greenhouse:andurilindustries:5208795007"
+  },
+  {
+   "closed_at": 1792787011,
+   "company": "spacex",
+   "hours_open": 1203.4,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1792787011,
+   "company": "spacex",
+   "hours_open": 1201.7,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
- "count": 804,
- "updated_at": 1792783819
+ "count": 809,
+ "updated_at": 1792787012
 }
