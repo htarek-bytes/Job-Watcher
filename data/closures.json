@@ -1,48 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792462199,
-   "company": "spacex",
-   "hours_open": 1112.9,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1792462199,
-   "company": "spacex",
-   "hours_open": 1111.5,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1792473552,
-   "company": "Great Lakes Group",
-   "hours_open": 71.5,
-   "title": "electrical controls engineer",
-   "uid": "jobbank:control systems analyst:50520784"
-  },
-  {
-   "closed_at": 1792473552,
-   "company": "Meubles RD - Candiac",
-   "hours_open": 93.9,
-   "title": "Web developer",
-   "uid": "jobbank:developpeur junior:50495527"
-  },
-  {
-   "closed_at": 1792473552,
-   "company": "Magna Mining Inc.",
-   "hours_open": 6.3,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:systems analyst:50536376"
-  },
-  {
-   "closed_at": 1792473552,
-   "company": "Nord Quantique",
-   "hours_open": 334.8,
-   "title": "developer, software",
-   "uid": "jobbank:junior software developer:50434695"
-  },
-  {
    "closed_at": 1792473552,
    "company": "Saskatchewan Liquor & Gaming Authority (SLGA)",
    "hours_open": 143.8,
@@ -5599,8 +5557,50 @@
    "hours_open": 1179.7,
    "title": "Security Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1792715709,
+   "company": "Groupe DCM",
+   "hours_open": 835.7,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534679"
+  },
+  {
+   "closed_at": 1792715709,
+   "company": "SimpleK division de ASSA ABLOY High Security Group Inc.",
+   "hours_open": 489.4,
+   "title": "developer, software",
+   "uid": "jobbank:junior software developer:50410122"
+  },
+  {
+   "closed_at": 1792715709,
+   "company": "tripadvisor",
+   "hours_open": 553.4,
+   "title": "Workday Integrations Engineer",
+   "uid": "greenhouse:tripadvisor:8045078"
+  },
+  {
+   "closed_at": 1792715709,
+   "company": "Source Code",
+   "hours_open": 18.5,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:control systems analyst:50553479"
+  },
+  {
+   "closed_at": 1792715709,
+   "company": "voyagertechnologiesinc",
+   "hours_open": 30.3,
+   "title": "Manufacturing Development Quality Engineer",
+   "uid": "greenhouse:voyagertechnologiesinc:4455120009"
+  },
+  {
+   "closed_at": 1792715709,
+   "company": "agile-defense",
+   "hours_open": 385.2,
+   "title": "Systems Administrator - Associate (ACAS)",
+   "uid": "lever:agile-defense:52e175c1-45e0-4ceb-b975-b986ade85a5d"
   }
  ],
- "count": 805,
- "updated_at": 1792712307
+ "count": 806,
+ "updated_at": 1792715710
 }
