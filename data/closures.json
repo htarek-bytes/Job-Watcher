@@ -1,55 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792543980,
-   "company": "voyagertechnologiesinc",
-   "hours_open": 845.9,
-   "title": "Software Engineer ",
-   "uid": "greenhouse:voyagertechnologiesinc:4405677009"
-  },
-  {
-   "closed_at": 1792546712,
-   "company": "Hewlett Packard Enterprise",
-   "hours_open": 45.0,
-   "title": "VLSI Engineer 1",
-   "uid": "simplify:listings:6b020294-dd07-4368-8e44-a6ec90bcb635"
-  },
-  {
-   "closed_at": 1792546712,
-   "company": "NVIDIA",
-   "hours_open": 194.3,
-   "title": "Deep Learning Software Engineer New Grad - TensorRT Performance",
-   "uid": "simplify:listings:34e9778a-347d-4ab1-94fd-8da5c77008be"
-  },
-  {
-   "closed_at": 1792546712,
-   "company": "NVIDIA",
-   "hours_open": 215.9,
-   "title": "Software Engineer New Grad - DL Kernel Libraries",
-   "uid": "simplify:listings:8944e3f6-18d2-4e20-b86a-23223ceba88f"
-  },
-  {
-   "closed_at": 1792546712,
-   "company": "twitch",
-   "hours_open": 1133.7,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1792546712,
-   "company": "NVIDIA",
-   "hours_open": 194.3,
-   "title": "Developer Technology Engineer New Grad - Public Sector",
-   "uid": "simplify:listings:30612f5b-226b-4ab8-9610-ae2ae82ca2a0"
-  },
-  {
-   "closed_at": 1792546712,
-   "company": "NCR Voyix",
-   "hours_open": 1173.3,
-   "title": "Software Engineer 1",
-   "uid": "simplify:listings:880e56e4-25c9-471f-b83a-aba5765b085f"
-  },
-  {
    "closed_at": 1792546712,
    "company": "RTX",
    "hours_open": 482.5,
@@ -5599,8 +5550,57 @@
    "hours_open": 1206.1,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1792797598,
+   "company": "disney",
+   "hours_open": 28.4,
+   "title": "Product Software Engineer I",
+   "uid": "workday:disney.wd5/disneycareerdc:Product-Software-Engineer-I_10151599-2"
+  },
+  {
+   "closed_at": 1792797598,
+   "company": "twitch",
+   "hours_open": 1206.4,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1792797598,
+   "company": "Source Code",
+   "hours_open": 27.3,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:systems analyst:50553479"
+  },
+  {
+   "closed_at": 1792797598,
+   "company": "DPMSYSTEMS IT CONSULTING SERVICES",
+   "hours_open": 209.8,
+   "title": "information systems analyst - computer systems",
+   "uid": "jobbank:information systems analyst:50311291"
+  },
+  {
+   "closed_at": 1792797598,
+   "company": "copart",
+   "hours_open": 16.8,
+   "title": "Software Engineering Intern",
+   "uid": "workday:copart.wd12/copart:Software-Engineering-Intern_JR109964"
+  },
+  {
+   "closed_at": 1792797598,
+   "company": "spacex",
+   "hours_open": 1206.4,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1792797598,
+   "company": "spacex",
+   "hours_open": 1206.4,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 814,
- "updated_at": 1792797440
+ "count": 807,
+ "updated_at": 1792797599
 }

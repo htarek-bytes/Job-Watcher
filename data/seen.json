@@ -1,5 +1,5 @@
 {
- "count": 9237,
+ "count": 9241,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -7990,6 +7990,7 @@
   "workday:cdk.wd1/CDK:Associate-Software-Engineer_JR9201-1": 1788368024,
   "workday:cdk.wd1/CDK:Associate-Software-Engineer_JR9204": 1792737232,
   "workday:cdk.wd1/CDK:Payments-Sales-Engineer_JR9247-1": 1788750148,
+  "workday:centene.wd5/Centene_External:Network-Operations-Process-Improvement-Undergraduate-Summer-Intern_1667787": 1792797598,
   "workday:centific.wd1/Centific_Global:Junior--Medior-Software-Engineer--NET---Azure-_JR108391": 1789417897,
   "workday:centricsoftware.wd501/Centric:PostgreSQL-Database-Administrator--Production-DBA-_JR192": 1791431778,
   "workday:centricsoftware.wd501/Centric:Software-Engineer-1_JR396": 1791431778,
@@ -8014,6 +8015,7 @@
   "workday:cni.wd503/CNI:Junior-Security-Analyst_R9489": 1789417897,
   "workday:copart.wd12/copart:QA-Engineer-Intern_JR112005": 1792737232,
   "workday:copart.wd12/copart:Software-Engineering-Intern_JR109964": 1792737232,
+  "workday:copart.wd12/copart:Software-Engineering-Intern_JR111861": 1792797598,
   "workday:costar.wd1/CoStarCareers:Matterport---Software-Engineer-I_R39503": 1789089172,
   "workday:costar.wd1/Costar_Campus:Associate-Software-Engineer---Arlington--VA_R39668": 1789417897,
   "workday:costar.wd1/Costar_Campus:Associate-Software-Engineer---Irvine--CA_R39736": 1789628034,
@@ -8060,6 +8062,8 @@
   "workday:disney.wd5/disneycareerdc:Product-Software-Engineer-I_10157015-2": 1790753366,
   "workday:disney.wd5/disneycareerdc:Software-Engineer-I_10158076-2": 1789070853,
   "workday:disney.wd5/disneycareerdc:Software-Engineering-Intern--Spring-2027_10158599-1": 1788442300,
+  "workday:dmainc.wd5/dma:Software-Development-Intern---Summer-2027_REQ636": 1792797598,
+  "workday:dmainc.wd5/dma:Workday-Solutions-Engineer_REQ743": 1792797598,
   "workday:dowjones.wd1/Dow_Jones_Career:Summer-2027-Internship-Program---Software-Engineering-Intern_Job_Req_55293": 1789455747,
   "workday:dowjones.wd1/Dow_Jones_Career:Summer-2027-Internship-Program---Software-Engineering-Intern_Job_Req_55891": 1791431778,
   "workday:draftkings.wd1/Campus_Career_Portal:Software-Engineer-Intern--Summer-2027-_JR14928": 1792625972,
@@ -9239,5 +9243,5 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148,
   "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541": 1789106107
  },
- "updated_at": 1792797440
+ "updated_at": 1792797599
 }
