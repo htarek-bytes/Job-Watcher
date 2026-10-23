@@ -2,41 +2,6 @@
  "closed": [
   {
    "closed_at": 1792481577,
-   "company": "Groupe Mario Coté",
-   "hours_open": 89.2,
-   "title": "Administrateur de réseau",
-   "uid": "jobillico:analyste reseau:17594211"
-  },
-  {
-   "closed_at": 1792481577,
-   "company": "twitch",
-   "hours_open": 1115.6,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1792481577,
-   "company": "DPMSYSTEMS IT CONSULTING SERVICES",
-   "hours_open": 770.6,
-   "title": "information systems analyst - computer systems",
-   "uid": "jobbank:systems analyst:50311291"
-  },
-  {
-   "closed_at": 1792481577,
-   "company": "spacex",
-   "hours_open": 1115.6,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1792481577,
-   "company": "systemstechnologyresearch",
-   "hours_open": 1111.6,
-   "title": "Autonomy Algorithms Software Engineer",
-   "uid": "greenhouse:systemstechnologyresearch:4704682006"
-  },
-  {
-   "closed_at": 1792481577,
    "company": "spacex",
    "hours_open": 1118.6,
    "title": "Wireless Software Engineer (Starlink)",
@@ -5599,8 +5564,43 @@
    "hours_open": 1186.7,
    "title": "Security Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1792738117,
+   "company": "hp",
+   "hours_open": 11.5,
+   "title": "Presales Solution Engineer - Edge AI",
+   "uid": "workday:hp.wd5/externalcareersite:Presales-Solution-Engineer---Edge-AI_3169909-1"
+  },
+  {
+   "closed_at": 1792738117,
+   "company": "iberdrola",
+   "hours_open": 59.4,
+   "title": "Associate Engineer",
+   "uid": "workday:iberdrola.wd3/iberdrola:Associate-Engineer_R-34290"
+  },
+  {
+   "closed_at": 1792738117,
+   "company": "hpe",
+   "hours_open": 131.5,
+   "title": "Technical Sales Graduate",
+   "uid": "workday:hpe.wd5/jobsathpe:Technical-Sales-Graduate_1213591-1"
+  },
+  {
+   "closed_at": 1792738117,
+   "company": "twitch",
+   "hours_open": 1186.9,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1792738117,
+   "company": "spacex",
+   "hours_open": 1189.9,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
   }
  ],
- "count": 807,
- "updated_at": 1792737367
+ "count": 805,
+ "updated_at": 1792738117
 }
