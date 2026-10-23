@@ -1,5 +1,5 @@
 {
- "count": 9096,
+ "count": 9101,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -4558,6 +4558,7 @@
   "jobbank:entry level software developer:50531111": 1792406721,
   "jobbank:entry level software developer:50540579": 1792498124,
   "jobbank:entry level software developer:50551761": 1792622820,
+  "jobbank:entry level software developer:50565038": 1792750518,
   "jobbank:information systems analyst:49969689": 1788887337,
   "jobbank:information systems analyst:50112346": 1788887337,
   "jobbank:information systems analyst:50163724": 1788887337,
@@ -5774,6 +5775,7 @@
   "simplify:listings:220ebe6a-b4c3-4df9-ae47-b15716b1b0b3": 1791931335,
   "simplify:listings:221f4f27-c95d-4fa4-98c1-bbb7b8aa79aa": 1788322770,
   "simplify:listings:22286d2e-ab8f-421b-9e32-02038a5bffa4": 1788322770,
+  "simplify:listings:2254ac53-779c-4e35-af27-c955600704ba": 1792750518,
   "simplify:listings:225c073c-c7cc-420b-a859-6c087a72388a": 1790069500,
   "simplify:listings:228de40c-38b3-44c3-8ac5-a7d93bc664d7": 1790292621,
   "simplify:listings:22a0a05d-ff1a-4abe-a1be-ef55d7b01fa9": 1792365894,
@@ -5889,6 +5891,7 @@
   "simplify:listings:3a48d1b1-444b-4d93-b1bc-4adcd269418e": 1788416995,
   "simplify:listings:3a93ce9b-b375-4f91-a7b3-4841cd8b84da": 1791328929,
   "simplify:listings:3ace8680-5997-4467-ad7e-82ecc656e241": 1788322770,
+  "simplify:listings:3af86a17-91d4-4605-b65c-f1dc1266af9d": 1792750518,
   "simplify:listings:3b1350b0-c797-4b04-aec8-96cf5449a24f": 1788322770,
   "simplify:listings:3bbed165-7647-43f2-858a-21ae2d7123f0": 1788322770,
   "simplify:listings:3bc55d73-aad9-40b7-a280-35c949dc01a6": 1788322770,
@@ -6209,6 +6212,7 @@
   "simplify:listings:83a81125-8501-43a2-b0c7-82b520ae9102": 1791133391,
   "simplify:listings:83d0a294-51a6-4b84-867f-e039c06781af": 1789780564,
   "simplify:listings:83eeb221-32d0-4db7-a899-12788fd601ce": 1788322770,
+  "simplify:listings:83f79aa8-55d8-411d-bcce-9308b80af496": 1792750518,
   "simplify:listings:840954cd-3ba5-456f-a6cf-c4788e41762e": 1788322770,
   "simplify:listings:8427086c-fb04-4125-a38f-4e9c9fa28dc7": 1788322770,
   "simplify:listings:8475b72d-9c39-499b-b18d-a7ba42919fb2": 1789685162,
@@ -8666,6 +8670,7 @@
   "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Structural---Electromechanical-Engineer-Intern---Redondo-Beach-CA_R10257211": 1792628251,
   "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Systems-Engineer-Intern---Azusa-CA_R10249123": 1788442554,
   "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Systems-Engineer-Intern---Baltimore-MD_R10251094": 1790008827,
+  "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Systems-Engineer-Intern---Cape-Canaveral-FL_R10251849": 1792750518,
   "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Systems-Engineer-Intern---Gilbert-AZ_R10249114-1": 1788442554,
   "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Systems-Engineer-Intern---McClellan-CA_R10255163": 1791513396,
   "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Systems-Engineer-Intern---Redondo-Beach-CA_R10249113": 1788442554,
@@ -9098,5 +9103,5 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148,
   "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541": 1789106107
  },
- "updated_at": 1792738117
+ "updated_at": 1792750520
 }
