@@ -1,55 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792481291,
-   "company": "applied",
-   "hours_open": 1146.5,
-   "title": "Scenario Engineer - New Grad (2027)",
-   "uid": "ashby:applied:f382de9d-d5e4-4dc8-85a0-0bae7125f8cf"
-  },
-  {
-   "closed_at": 1792481291,
-   "company": "bobyard",
-   "hours_open": 246.5,
-   "title": "GTM Engineer  ",
-   "uid": "ashby:bobyard:4c0845da-df8a-4f27-a08f-2f43b1724d00"
-  },
-  {
-   "closed_at": 1792481577,
-   "company": "maticrobots",
-   "hours_open": 12.0,
-   "title": "Manufacturing Design Engineer Intern",
-   "uid": "ashby:maticrobots:92a24480-15df-4413-9736-91a4efd5058a"
-  },
-  {
-   "closed_at": 1792481577,
-   "company": "maticrobots",
-   "hours_open": 12.0,
-   "title": "Mechanical Design Engineer Intern",
-   "uid": "ashby:maticrobots:4b9f178f-5346-443d-899e-4d8a76372517"
-  },
-  {
-   "closed_at": 1792481577,
-   "company": "harvey",
-   "hours_open": 408.7,
-   "title": "Software Engineering Intern (Winter 2027)",
-   "uid": "ashby:harvey:d40e15aa-2351-4be8-ac8f-1faf60bfcdbf"
-  },
-  {
-   "closed_at": 1792481577,
-   "company": "luminai",
-   "hours_open": 98.6,
-   "title": "Forward Deployed Engineer - New Grad ",
-   "uid": "ashby:luminai:ba606839-0f3b-47db-bd36-12406aec5a37"
-  },
-  {
-   "closed_at": 1792481577,
-   "company": "niantic-spatial",
-   "hours_open": 280.8,
-   "title": "Software Engineering Intern (Summer 2027)",
-   "uid": "ashby:niantic-spatial:898b2da7-03cd-486e-96e3-3430a148c8fd"
-  },
-  {
    "closed_at": 1792481577,
    "company": "Groupe Mario Coté",
    "hours_open": 89.2,
@@ -5599,8 +5550,57 @@
    "hours_open": 13.1,
    "title": "Embedded Software Engineering Co-op - Spring 2027",
    "uid": "workday:caci.wd1/external:Embedded-Software-Engineering-Co-op---Spring-2027_331368"
+  },
+  {
+   "closed_at": 1792737366,
+   "company": "freseniusmedicalcare",
+   "hours_open": 59.2,
+   "title": "Software Engineering Co-op",
+   "uid": "workday:freseniusmedicalcare.wd3/fme:Software-Engineering-Co-op_R0271309"
+  },
+  {
+   "closed_at": 1792737366,
+   "company": "Citylitics",
+   "hours_open": 1.3,
+   "title": "data engineer",
+   "uid": "jobbank:infrastructure analyst:50564033"
+  },
+  {
+   "closed_at": 1792737366,
+   "company": "Equal Air",
+   "hours_open": 518.2,
+   "title": "information systems analyst - computer systems",
+   "uid": "jobbank:information systems analyst:50403078"
+  },
+  {
+   "closed_at": 1792737366,
+   "company": "dtna",
+   "hours_open": 174.2,
+   "title": "Automation Engineer Intern",
+   "uid": "workday:dtna.wd5/dtna_affiliate:Automation-Engineer-Intern_DT-19944-1"
+  },
+  {
+   "closed_at": 1792737366,
+   "company": "expedia",
+   "hours_open": 30.9,
+   "title": "Software Developer I",
+   "uid": "workday:expedia.wd108/private:Software-Developer-I_R-110635"
+  },
+  {
+   "closed_at": 1792737366,
+   "company": "twitch",
+   "hours_open": 1189.6,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1792737366,
+   "company": "spacex",
+   "hours_open": 1186.7,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
   }
  ],
  "count": 807,
- "updated_at": 1792737232
+ "updated_at": 1792737367
 }
