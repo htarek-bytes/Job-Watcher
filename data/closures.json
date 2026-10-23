@@ -2,34 +2,6 @@
  "closed": [
   {
    "closed_at": 1792473552,
-   "company": "Saskatchewan Liquor & Gaming Authority (SLGA)",
-   "hours_open": 143.8,
-   "title": "software developer",
-   "uid": "jobbank:junior programmer:50491568"
-  },
-  {
-   "closed_at": 1792473552,
-   "company": "ngc",
-   "hours_open": 81.4,
-   "title": "2027 Intern - Guidance Navigation and Control Engineer",
-   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Intern---Guidance-Navigation-and-Control-Engineer_R10256435"
-  },
-  {
-   "closed_at": 1792473552,
-   "company": "morningstar",
-   "hours_open": 57.8,
-   "title": "Associate Software Engineer",
-   "uid": "workday:morningstar.wd5/Morningstar:Associate-Software-Engineer_REQ-058508-1"
-  },
-  {
-   "closed_at": 1792473552,
-   "company": "onehealthineers",
-   "hours_open": 579.3,
-   "title": "Enterprise Imaging Solutions Engineer – Healthcare IT-Remote within the US",
-   "uid": "workday:onehealthineers.wd3/SHSJB:Solutions-Engineer_R-30905"
-  },
-  {
-   "closed_at": 1792473552,
    "company": "micron",
    "hours_open": 178.1,
    "title": "New College Grad - F4 IT Network Engineer",
@@ -5599,8 +5571,36 @@
    "hours_open": 385.2,
    "title": "Systems Administrator - Associate (ACAS)",
    "uid": "lever:agile-defense:52e175c1-45e0-4ceb-b975-b986ade85a5d"
+  },
+  {
+   "closed_at": 1792716813,
+   "company": "veeva",
+   "hours_open": 1101.9,
+   "title": "Solution Consultant - Commercial Basics",
+   "uid": "lever:veeva:0d4434e4-5166-426b-8625-f535598e3da0"
+  },
+  {
+   "closed_at": 1792716813,
+   "company": "twitch",
+   "hours_open": 1181.0,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1792716813,
+   "company": "spacex",
+   "hours_open": 1183.9,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1792716813,
+   "company": "spacex",
+   "hours_open": 1183.9,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
   }
  ],
- "count": 806,
- "updated_at": 1792715710
+ "count": 804,
+ "updated_at": 1792716813
 }
