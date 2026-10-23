@@ -2,20 +2,6 @@
  "closed": [
   {
    "closed_at": 1792515454,
-   "company": "sharkninjaoperatingllc",
-   "hours_open": 453.0,
-   "title": "Product Integrity Engineer - Robots",
-   "uid": "greenhouse:sharkninjaoperatingllc:4717847006"
-  },
-  {
-   "closed_at": 1792515454,
-   "company": "Citizens Financial Group",
-   "hours_open": 23.9,
-   "title": "Software Engineer 1",
-   "uid": "simplify:listings:0a4cd2e5-65b4-4298-ab71-d0c7705a376c"
-  },
-  {
-   "closed_at": 1792515454,
    "company": "CGI",
    "hours_open": 1007.8,
    "title": "Conseiller(ère) en gouvernance de la cybersécurité",
@@ -5599,8 +5585,22 @@
    "hours_open": 1.9,
    "title": "Associate Software Engineer",
    "uid": "simplify:listings:2254ac53-779c-4e35-af27-c955600704ba"
+  },
+  {
+   "closed_at": 1792757622,
+   "company": "Alcoa Canada",
+   "hours_open": 1075.1,
+   "title": "Conseiller(ère) en cybersécurité (Amérique du Nord)",
+   "uid": "jobillico:analyste cybersecurite:17502948"
+  },
+  {
+   "closed_at": 1792757622,
+   "company": "twitch",
+   "hours_open": 1195.3,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
   }
  ],
  "count": 802,
- "updated_at": 1792757286
+ "updated_at": 1792757622
 }
