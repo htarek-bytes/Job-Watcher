@@ -1,104 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792543879,
-   "company": "voyagertechnologiesinc",
-   "hours_open": 845.8,
-   "title": "Systems Engineer - Aerospace",
-   "uid": "greenhouse:voyagertechnologiesinc:4405625009"
-  },
-  {
-   "closed_at": 1792543879,
-   "company": "voyagertechnologiesinc",
-   "hours_open": 845.8,
-   "title": "Software Engineer ",
-   "uid": "greenhouse:voyagertechnologiesinc:4405677009"
-  },
-  {
-   "closed_at": 1792543980,
-   "company": "Logesco Informatique",
-   "hours_open": 1015.7,
-   "title": "Administrateur de réseau",
-   "uid": "jobillico:analyste reseau:17188132"
-  },
-  {
-   "closed_at": 1792543980,
-   "company": "Amazon",
-   "hours_open": 101.0,
-   "title": "Software Development Engineer, Network Monitoring & Remediation",
-   "uid": "amazon:amazon:10581624"
-  },
-  {
-   "closed_at": 1792543980,
-   "company": "twitch",
-   "hours_open": 1133.0,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1792543980,
-   "company": "belvederetrading",
-   "hours_open": 1153.0,
-   "title": "Software Engineer - Entry Level 2027",
-   "uid": "lever:belvederetrading:2f6480e5-7bf1-4c41-b3b5-3c7404d95b5f"
-  },
-  {
-   "closed_at": 1792543980,
-   "company": "drweng",
-   "hours_open": 1143.9,
-   "title": "Platform Engineer Intern",
-   "uid": "greenhouse:drweng:7997729"
-  },
-  {
-   "closed_at": 1792543980,
-   "company": "field-ai",
-   "hours_open": 1133.0,
-   "title": "BIM/VDC Engineer",
-   "uid": "lever:field-ai:f93989e6-a29d-4411-a79b-ce6c949ffdec"
-  },
-  {
-   "closed_at": 1792543980,
-   "company": "uareai",
-   "hours_open": 1148.6,
-   "title": "Software Engineer (Early Career)",
-   "uid": "greenhouse:uareai:4036519009"
-  },
-  {
-   "closed_at": 1792543980,
-   "company": "Nexthop.ai",
-   "hours_open": 1023.4,
-   "title": "Software Engineer New Grad - Hardware Diagnostics",
-   "uid": "simplify:listings:10504711-cbfe-426e-b2c7-d85abee618a4"
-  },
-  {
-   "closed_at": 1792543980,
-   "company": "truveta",
-   "hours_open": 364.2,
-   "title": "Software Engineer - Clinical Analytics",
-   "uid": "greenhouse:truveta:6217329004"
-  },
-  {
-   "closed_at": 1792543980,
-   "company": "voyagertechnologiesinc",
-   "hours_open": 845.9,
-   "title": "Systems Engineer - Aerospace",
-   "uid": "greenhouse:voyagertechnologiesinc:4405625009"
-  },
-  {
-   "closed_at": 1792543980,
-   "company": "spacex",
-   "hours_open": 1133.0,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1792543980,
-   "company": "spacex",
-   "hours_open": 1134.2,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
    "closed_at": 1792543980,
    "company": "voyagertechnologiesinc",
    "hours_open": 845.9,
@@ -5599,8 +5501,106 @@
    "hours_open": 1205.6,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1792797439,
+   "company": "Maarut",
+   "hours_open": 42.5,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50553437"
+  },
+  {
+   "closed_at": 1792797439,
+   "company": "boeing",
+   "hours_open": 16.7,
+   "title": "Entry-Level Software Engineer",
+   "uid": "workday:boeing.wd1/external_subsidiary:Entry-Level-Software-Engineer_JR2026526321"
+  },
+  {
+   "closed_at": 1792797439,
+   "company": "Great Lakes Group",
+   "hours_open": 58.1,
+   "title": "electrical controls engineer",
+   "uid": "jobbank:control systems analyst:50546374"
+  },
+  {
+   "closed_at": 1792797439,
+   "company": "Domtar",
+   "hours_open": 80.1,
+   "title": "Administrateur système Windows",
+   "uid": "jobillico:administrateur systeme:17631324"
+  },
+  {
+   "closed_at": 1792797439,
+   "company": "bmo",
+   "hours_open": 233.8,
+   "title": "Devops Analyst - Technical",
+   "uid": "workday:bmo.wd3/External:Devops-Analyst---Technical_R260028097"
+  },
+  {
+   "closed_at": 1792797439,
+   "company": "Source Code",
+   "hours_open": 41.2,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:control systems analyst:50553479"
+  },
+  {
+   "closed_at": 1792797439,
+   "company": "avav",
+   "hours_open": 1218.7,
+   "title": "Summer 2027 Software Engineering Intern",
+   "uid": "workday:avav.wd1/avav:Summer-2027-Software-Engineering-Intern_8611"
+  },
+  {
+   "closed_at": 1792797439,
+   "company": "boeing",
+   "hours_open": 217.7,
+   "title": "Entry Level Software Engineer–Developer (Development)",
+   "uid": "workday:boeing.wd1/external_subsidiary:Entry-Level-Software-Engineer-Developer--Development-_JR2026522577"
+  },
+  {
+   "closed_at": 1792797439,
+   "company": "boeing",
+   "hours_open": 1081.7,
+   "title": "Boeing Engineering & Technology Innovation Graduate Researcher Program, Software Engineering Artificial Intelligence Intern",
+   "uid": "workday:boeing.wd1/EXTERNAL_CAREERS:Boeing-Engineering---Technology-Innovation-Graduate-Researcher-Program--Software-Engineering-Artificial-Intelligence-Intern_JR2026523687"
+  },
+  {
+   "closed_at": 1792797439,
+   "company": "DPMSYSTEMS IT CONSULTING SERVICES",
+   "hours_open": 858.4,
+   "title": "information systems analyst - computer systems",
+   "uid": "jobbank:systems analyst:50311291"
+  },
+  {
+   "closed_at": 1792797439,
+   "company": "boeing",
+   "hours_open": 358.9,
+   "title": "Associate Software Engineer",
+   "uid": "workday:boeing.wd1/EXTERNAL_CAREERS:Associate-Software-Engineer_JR2026522010-1"
+  },
+  {
+   "closed_at": 1792797439,
+   "company": "caci",
+   "hours_open": 567.9,
+   "title": "Junior Cyber Security Engineer",
+   "uid": "workday:caci.wd1/external:Junior-Cyber-Security-Engineer_332795"
+  },
+  {
+   "closed_at": 1792797439,
+   "company": "spacex",
+   "hours_open": 1203.4,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1792797439,
+   "company": "spacex",
+   "hours_open": 1206.1,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
   }
  ],
- "count": 813,
- "updated_at": 1792794947
+ "count": 814,
+ "updated_at": 1792797440
 }
