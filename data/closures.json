@@ -2,41 +2,6 @@
  "closed": [
   {
    "closed_at": 1792509217,
-   "company": "AlphaX",
-   "hours_open": 96.9,
-   "title": "Project Engineer - Commercial Electrical Projects",
-   "uid": "workable:alphax:B7CEC735EB"
-  },
-  {
-   "closed_at": 1792509217,
-   "company": "Wabtec",
-   "hours_open": 112.8,
-   "title": "Junior Service Engineer",
-   "uid": "smartrecruiters:Wabtec:3743990016139426"
-  },
-  {
-   "closed_at": 1792509217,
-   "company": "BestEx Research",
-   "hours_open": 956.8,
-   "title": "FIX Onboarding Engineer (Electronic Trading)",
-   "uid": "workable:bestex-research:33E26D04FC"
-  },
-  {
-   "closed_at": 1792509217,
-   "company": "BestEx Research",
-   "hours_open": 1126.0,
-   "title": "Quant Developer - Low Latency C++",
-   "uid": "workable:bestex-research:3F7068AD2F"
-  },
-  {
-   "closed_at": 1792509217,
-   "company": "spacex",
-   "hours_open": 1126.3,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1792509217,
    "company": "Arondite",
    "hours_open": 1006.1,
    "title": "Technical Operations Specialist",
@@ -5599,8 +5564,43 @@
    "hours_open": 862.4,
    "title": "Software Engineer 1",
    "uid": "workday:relx.wd3/RiskSolutions:Software-Engineer-1_R117973"
+  },
+  {
+   "closed_at": 1792757100,
+   "company": "Source Code",
+   "hours_open": 16.0,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:systems analyst:50553479"
+  },
+  {
+   "closed_at": 1792757100,
+   "company": "tmobile",
+   "hours_open": 175.3,
+   "title": "Summer 2027 Software Engineering Intern",
+   "uid": "workday:tmobile.wd1/External:Summer-2027-Software-Engineering-Intern_REQ368322"
+  },
+  {
+   "closed_at": 1792757100,
+   "company": "twitch",
+   "hours_open": 1192.2,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1792757100,
+   "company": "Lakeland Roman Catholic Separate School Division",
+   "hours_open": 826.8,
+   "title": "computer systems analyst",
+   "uid": "jobbank:analyste de systemes:50064831"
+  },
+  {
+   "closed_at": 1792757100,
+   "company": "Amazon",
+   "hours_open": 180.2,
+   "title": "Software Development Engineer - Embedded, Amazon Leo",
+   "uid": "amazon:amazon:10580991"
   }
  ],
- "count": 814,
- "updated_at": 1792751554
+ "count": 805,
+ "updated_at": 1792757100
 }
