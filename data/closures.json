@@ -3,34 +3,6 @@
   {
    "closed_at": 1792529776,
    "company": "ngc",
-   "hours_open": 15.6,
-   "title": "2027 Intern - Survivability Engineer",
-   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Intern---Survivability-Engineer_R10256592"
-  },
-  {
-   "closed_at": 1792529776,
-   "company": "ngc",
-   "hours_open": 1135.3,
-   "title": "2027 Software Engineer Intern - Linthicum Maryland",
-   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Software-Engineer-Intern---Linthicum-Maryland_R10248910"
-  },
-  {
-   "closed_at": 1792529776,
-   "company": "ngc",
-   "hours_open": 71.9,
-   "title": "2027 Software Engineering Intern - Boulder CO",
-   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Software-Engineering-Intern---Boulder-CO_R10256077"
-  },
-  {
-   "closed_at": 1792529776,
-   "company": "ngc",
-   "hours_open": 71.9,
-   "title": "2027 Software Engineering Intern - Colorado Springs",
-   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs_R10256080"
-  },
-  {
-   "closed_at": 1792529776,
-   "company": "ngc",
    "hours_open": 71.9,
    "title": "2027 Software Engineering Intern - Aurora CO",
    "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Software-Engineering-Intern---Aurora-CO_R10256393"
@@ -5599,8 +5571,36 @@
    "hours_open": 1202.3,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1792783818,
+   "company": "Great Lakes Group",
+   "hours_open": 54.3,
+   "title": "electrical controls engineer",
+   "uid": "jobbank:control systems analyst:50546374"
+  },
+  {
+   "closed_at": 1792783818,
+   "company": "Source Code",
+   "hours_open": 230.0,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:systems analyst:50491950"
+  },
+  {
+   "closed_at": 1792783818,
+   "company": "zoox",
+   "hours_open": 1199.6,
+   "title": "Release Engineer",
+   "uid": "lever:zoox:89d5927e-db67-443b-9dd2-53d367c11f9b"
+  },
+  {
+   "closed_at": 1792783818,
+   "company": "spacex",
+   "hours_open": 1202.3,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
   }
  ],
- "count": 826,
- "updated_at": 1792782857
+ "count": 804,
+ "updated_at": 1792783819
 }
