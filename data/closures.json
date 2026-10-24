@@ -2,55 +2,6 @@
  "closed": [
   {
    "closed_at": 1792560848,
-   "company": "CDW",
-   "hours_open": 167.2,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:systems analyst:50492410"
-  },
-  {
-   "closed_at": 1792560848,
-   "company": "AWC Process Solutions Ltd.",
-   "hours_open": 303.0,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:scada:50451749"
-  },
-  {
-   "closed_at": 1792560848,
-   "company": "Blitz TI",
-   "hours_open": 686.0,
-   "title": "network administrator",
-   "uid": "jobbank:network administrator:50339477"
-  },
-  {
-   "closed_at": 1792560848,
-   "company": "Hewlett Packard Enterprise",
-   "hours_open": 3.9,
-   "title": "VLSI Engineer 1",
-   "uid": "simplify:listings:ebc9825c-1eff-4957-846a-a6c77915283b"
-  },
-  {
-   "closed_at": 1792560848,
-   "company": "Western Digital",
-   "hours_open": 111.3,
-   "title": "Engineer, Product Design Engineering (New Graduate / 0-2 Years Experience)",
-   "uid": "smartrecruiters:WesternDigital:744000155977569"
-  },
-  {
-   "closed_at": 1792560848,
-   "company": "twitch",
-   "hours_open": 1137.7,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1792560848,
-   "company": "Source Code",
-   "hours_open": 17.4,
-   "title": "software developer",
-   "uid": "jobbank:entry level software developer:50540579"
-  },
-  {
-   "closed_at": 1792560848,
    "company": "City of Calgary",
    "hours_open": 327.6,
    "title": "network administrator",
@@ -5599,8 +5550,57 @@
    "hours_open": 1206.1,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1792803822,
+   "company": "OCLC",
+   "hours_open": 2.5,
+   "title": "Associate Software Engineer - Search Team",
+   "uid": "simplify:listings:7b666801-fc12-4d52-bec8-29423fb85a3a"
+  },
+  {
+   "closed_at": 1792803822,
+   "company": "onto",
+   "hours_open": 866.9,
+   "title": "Configuration & Release Engineer 1",
+   "uid": "workday:onto.wd1/onto_careers:Development-Engineer-1_R-6389"
+  },
+  {
+   "closed_at": 1792803822,
+   "company": "oshkoshcorporation",
+   "hours_open": 217.6,
+   "title": "FEA Engineer Intern",
+   "uid": "workday:oshkoshcorporation.wd5/Oshkosh:FEA-Engineer-Intern_R51129"
+  },
+  {
+   "closed_at": 1792803822,
+   "company": "oshkoshcorporation",
+   "hours_open": 217.6,
+   "title": "Engineer Intern - Mechanical (Year Round)",
+   "uid": "workday:oshkoshcorporation.wd5/Oshkosh:Engineer-Intern---Mechanical--Year-Round-_R51145"
+  },
+  {
+   "closed_at": 1792803822,
+   "company": "ngc",
+   "hours_open": 29.0,
+   "title": "2027 Cyber Software Engineer Intern - San Antonio TX",
+   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Cyber-Software-Engineer-Intern---San-Antonio-TX_R10257311"
+  },
+  {
+   "closed_at": 1792803822,
+   "company": "DPMSYSTEMS IT CONSULTING SERVICES",
+   "hours_open": 0.3,
+   "title": "information systems analyst - computer systems",
+   "uid": "jobbank:analyste de systemes:50311291"
+  },
+  {
+   "closed_at": 1792803822,
+   "company": "newrez",
+   "hours_open": 1211.5,
+   "title": "2027 Summer Internship - Software Developer",
+   "uid": "workday:newrez.wd1/NRZ:XMLNAME-2027-Summer-Internship---Software-Developer_R10390"
   }
  ],
- "count": 812,
- "updated_at": 1792802849
+ "count": 807,
+ "updated_at": 1792803822
 }
