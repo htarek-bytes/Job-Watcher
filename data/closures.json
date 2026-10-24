@@ -1,90 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792548070,
-   "company": "Anton Paar",
-   "hours_open": 139.6,
-   "title": "Technical Sales Consultant Analytical Chemistry",
-   "uid": "smartrecruiters:AntonPaar1:744000152681609"
-  },
-  {
-   "closed_at": 1792549626,
-   "company": "SGS",
-   "hours_open": 26.9,
-   "title": "Junior Structural Design Review Engineer \"Civil\"",
-   "uid": "smartrecruiters:SGS:744000156250559"
-  },
-  {
-   "closed_at": 1792549626,
-   "company": "ServiceNow",
-   "hours_open": 124.1,
-   "title": "Partner Solution Engineer ",
-   "uid": "smartrecruiters:ServiceNow:744000155827304"
-  },
-  {
-   "closed_at": 1792549626,
-   "company": "ServiceNow",
-   "hours_open": 137.1,
-   "title": "Advisory Solution Consultant - Moveworks",
-   "uid": "smartrecruiters:ServiceNow:744000155696229"
-  },
-  {
-   "closed_at": 1792549626,
-   "company": "ServiceNow",
-   "hours_open": 108.2,
-   "title": "Advisory Solution Consultant - Core Business Solutions",
-   "uid": "smartrecruiters:ServiceNow:744000155944309"
-  },
-  {
-   "closed_at": 1792549626,
-   "company": "twitch",
-   "hours_open": 1137.5,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1792549626,
-   "company": "LLNL",
-   "hours_open": 761.0,
-   "title": "Computing Undergraduate Student Intern: DevOps Internship Program - Summer 2027",
-   "uid": "smartrecruiters:LLNL:3743990015408206"
-  },
-  {
-   "closed_at": 1792549626,
-   "company": "spacex",
-   "hours_open": 1137.5,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1792549626,
-   "company": "spacex",
-   "hours_open": 1137.5,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1792560848,
-   "company": "LogiSense Corporation",
-   "hours_open": 163.0,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50493091"
-  },
-  {
-   "closed_at": 1792560848,
-   "company": "Logesco Informatique",
-   "hours_open": 1020.4,
-   "title": "Administrateur de réseau",
-   "uid": "jobillico:analyste reseau:17188132"
-  },
-  {
-   "closed_at": 1792560848,
-   "company": "Magna Mining Inc.",
-   "hours_open": 24.2,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:systems analyst:50539331"
-  },
-  {
    "closed_at": 1792560848,
    "company": "CDW",
    "hours_open": 167.2,
@@ -5599,8 +5515,92 @@
    "hours_open": 1227.9,
    "title": "Associate Engineer - AI and Agentic",
    "uid": "workday:exelixis.wd1/exel:Associate-Engineer---AI-and-Agentic_JR7031"
+  },
+  {
+   "closed_at": 1792802847,
+   "company": "kiongroup",
+   "hours_open": 218.2,
+   "title": "Software Engineering Intern",
+   "uid": "workday:kiongroup.wd3/KION_SCS:Software-Engineering-Intern_JR-0097732"
+  },
+  {
+   "closed_at": 1792802847,
+   "company": "iberdrola",
+   "hours_open": 29.5,
+   "title": "Associate Engineer - Protection & Control",
+   "uid": "workday:iberdrola.wd3/iberdrola:Associate-Engineer---Protection---Control_R-34380"
+  },
+  {
+   "closed_at": 1792802847,
+   "company": "hpe",
+   "hours_open": 247.6,
+   "title": "Technical Sales Graduate",
+   "uid": "workday:hpe.wd5/acjobsite:Technical-Sales-Graduate_1213591"
+  },
+  {
+   "closed_at": 1792802847,
+   "company": "kla",
+   "hours_open": 246.6,
+   "title": "Software Engineering Intern",
+   "uid": "workday:kla.wd1/UR:Software-Engineering-Intern_2641821-2"
+  },
+  {
+   "closed_at": 1792802847,
+   "company": "kla",
+   "hours_open": 231.0,
+   "title": "Product Development Intern - Electron Beam Instrumentation",
+   "uid": "workday:kla.wd1/UR:Product-Development-Intern---Electron-Beam-Instrumentation_2642030-2"
+  },
+  {
+   "closed_at": 1792802847,
+   "company": "kla",
+   "hours_open": 246.6,
+   "title": "Mechanical Design Engineer Intern",
+   "uid": "workday:kla.wd1/UR:Mechanical-Design-Engineer-Intern_2642150-1"
+  },
+  {
+   "closed_at": 1792802847,
+   "company": "jj",
+   "hours_open": 48.6,
+   "title": "R&D Device Engineer Summer Intern",
+   "uid": "workday:jj.wd5/JJ:R-D-Device-Engineer-Summer-Intern_R-103642"
+  },
+  {
+   "closed_at": 1792802847,
+   "company": "twitch",
+   "hours_open": 1204.9,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1792802847,
+   "company": "DPMSYSTEMS IT CONSULTING SERVICES",
+   "hours_open": 859.9,
+   "title": "information systems analyst - computer systems",
+   "uid": "jobbank:systems analyst:50311291"
+  },
+  {
+   "closed_at": 1792802847,
+   "company": "hntb",
+   "hours_open": 399.8,
+   "title": "New Grad Engineer I: Rail & Transit – Summer 2027",
+   "uid": "workday:hntb.wd5/hntb_careers:New-Grad-Engineer-I--Rail---Transit---Summer-2027_R-31631-1"
+  },
+  {
+   "closed_at": 1792802847,
+   "company": "hntb",
+   "hours_open": 399.8,
+   "title": "New Grad Engineer I - Summer 2027",
+   "uid": "workday:hntb.wd5/hntb_careers:New-Grad-Engineer-I---Summer-2027_R-31700-1"
+  },
+  {
+   "closed_at": 1792802847,
+   "company": "spacex",
+   "hours_open": 1206.1,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
- "count": 808,
- "updated_at": 1792797936
+ "count": 812,
+ "updated_at": 1792802849
 }

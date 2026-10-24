@@ -1,5 +1,5 @@
 {
- "count": 9245,
+ "count": 9255,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -2557,6 +2557,7 @@
   "greenhouse:figureai:4716299006": 1790263709,
   "greenhouse:figureai:4719593006": 1791327638,
   "greenhouse:figureai:4722086006": 1792010428,
+  "greenhouse:figureai:4724521006": 1792802847,
   "greenhouse:fiveringsllc:4017982008": 1788386454,
   "greenhouse:fiveringsllc:5349707008": 1788426090,
   "greenhouse:fiveringsllc:5349839008": 1788386454,
@@ -4458,6 +4459,7 @@
   "jobbank:analyste de systemes:50243696": 1792000805,
   "jobbank:analyste de systemes:50248333": 1790884489,
   "jobbank:analyste de systemes:50248611": 1790723272,
+  "jobbank:analyste de systemes:50311291": 1792802847,
   "jobbank:analyste de systemes:50407976": 1790922474,
   "jobbank:analyste de systemes:50412027": 1792733984,
   "jobbank:analyste de systemes:50419044": 1791470986,
@@ -5120,6 +5122,7 @@
   "jobbank:systems analyst:50553479": 1792699473,
   "jobbank:systems analyst:50560777": 1792708136,
   "jobbank:systems analyst:50563444": 1792732742,
+  "jobbank:systems analyst:50569658": 1792802847,
   "jobbank:telecommunications analyst:49780105": 1791390300,
   "jobbank:telecommunications analyst:49818659": 1791390300,
   "jobbank:telecommunications analyst:49947219": 1791390300,
@@ -8367,6 +8370,7 @@
   "workday:hitachi.wd1/hitachi:Software-Engineering-Co-op_R0148733": 1792627914,
   "workday:hntb.wd5/hntb_careers:Drainage-Engineer-I_R-31668": 1791363664,
   "workday:hntb.wd5/hntb_careers:Engineer-I_R-30550": 1791363664,
+  "workday:hntb.wd5/hntb_careers:New-Grad-Engineer-I---Summer-2027_R-31387-1": 1792802847,
   "workday:hntb.wd5/hntb_careers:New-Grad-Engineer-I---Summer-2027_R-31700-1": 1791363664,
   "workday:hntb.wd5/hntb_careers:New-Grad-Engineer-I---Winter-Summer-2027_R-31349-1": 1791443319,
   "workday:hntb.wd5/hntb_careers:New-Grad-Engineer-I---Winter-Summer-2027_R-31510-1": 1791363664,
@@ -8375,6 +8379,8 @@
   "workday:hntb.wd5/hntb_careers:New-Grad-Engineer-I_R-31894-1": 1791363664,
   "workday:hntb.wd5/hntb_careers:Roadway-Engineer-I_R-31730": 1791363664,
   "workday:hntb.wd5/hntb_careers:Transportation-Engineer-I_R-31854": 1791363664,
+  "workday:hntb.wd5/hntb_university_careers:New-Grad-Engineer-I--Rail-Operations-Modeling-and-Planning---Summer-2027_R-31590": 1792802847,
+  "workday:hntb.wd5/hntb_university_careers:Structures-Intern-Engineer---Summer-2027_R-31589-1": 1792802847,
   "workday:homedepot.wd5/careerdepot:XMLNAME-2027-Summer-Internship---Software-Engineering_Req191937": 1788470575,
   "workday:hp.wd5/EXTEU-AC-CareerSite:Pre-Sales-Technical-Consultant_3166770-1": 1788979927,
   "workday:hp.wd5/EXTEU-AC-CareerSite:Presales-Solution-Engineer---Edge-AI_3169909": 1792738117,
@@ -8501,12 +8507,16 @@
   "workday:kla.wd1/UR:Product-Development-Applications-Engineer-Intern---Broadband-Plasma-Division-_2641396-2": 1791444048,
   "workday:kla.wd1/UR:Product-Development-Engineer-Intern_2641521": 1790812097,
   "workday:kla.wd1/UR:Product-Development-Engineering-Intern_2641562": 1790812097,
+  "workday:kla.wd1/UR:Product-Development-Engineering-Intern_2642439": 1792802847,
   "workday:kla.wd1/UR:Product-Development-Intern---Electron-Beam-Instrumentation_2642030-2": 1791971240,
   "workday:kla.wd1/UR:Semiconductor-Field-Service-Engineer---New-College-Grad_2642813": 1792462199,
   "workday:kla.wd1/UR:Software-Engineer-Intern---AI_2641817-2": 1791915110,
+  "workday:kla.wd1/UR:Software-Engineer-Intern--C----Linux----Summer-2027_2641878": 1792802847,
+  "workday:kla.wd1/UR:Software-Engineering-Intern---AI-ML-for-Diagnostics---Calibration_2642129": 1792802847,
   "workday:kla.wd1/UR:Software-Engineering-Intern--C----Unix-_2641325": 1790175830,
   "workday:kla.wd1/UR:Software-Engineering-Intern_2641581": 1790812097,
   "workday:kla.wd1/UR:Software-Engineering-Intern_2641821-2": 1791915110,
+  "workday:kla.wd1/UR:Software-Engineering-Intern_2642189": 1792802847,
   "workday:kla.wd1/annarbor:Software-Engineering-Intern_2531653": 1789362342,
   "workday:kyndryl.wd5/KyndrylEarlyCareers:Early-Career-Consult-Program---Associate-AI-Engineer_R-66739": 1788377607,
   "workday:kyndryl.wd5/KyndrylEarlyCareers:Early-Career-Consult-Program---Cybersecurity-Engineer_R-67304-1": 1788377607,
@@ -9247,5 +9257,5 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148,
   "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541": 1789106107
  },
- "updated_at": 1792797936
+ "updated_at": 1792802849
 }
