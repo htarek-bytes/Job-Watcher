@@ -2,34 +2,6 @@
  "closed": [
   {
    "closed_at": 1792615393,
-   "company": "NielsenIQ",
-   "hours_open": 169.2,
-   "title": "Junior Software Engineer (1 year experience Java)",
-   "uid": "smartrecruiters:NielsenIQ:744000155500229"
-  },
-  {
-   "closed_at": 1792615393,
-   "company": "Amazon",
-   "hours_open": 167.1,
-   "title": "Software Development Engineer, Amazon Quick",
-   "uid": "amazon:amazon:10579277"
-  },
-  {
-   "closed_at": 1792615393,
-   "company": "Amazon",
-   "hours_open": 146.3,
-   "title": "Software Development Engineer , IDEAS - Atlas ",
-   "uid": "amazon:amazon:10580051"
-  },
-  {
-   "closed_at": 1792615393,
-   "company": "twitch",
-   "hours_open": 1152.8,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1792615393,
    "company": "freeformfuturecorp",
    "hours_open": 1155.8,
    "title": "Design Engineer (Aerospace and Defense Hardware)",
@@ -5599,8 +5571,36 @@
    "hours_open": 91.2,
    "title": "Software Engineer, Professional I",
    "uid": "workday:zebra.wd501/Zebra_careers:Software-Engineer--Professional-I_JR103780"
+  },
+  {
+   "closed_at": 1792864584,
+   "company": "Atimi",
+   "hours_open": 6.0,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50571580"
+  },
+  {
+   "closed_at": 1792864584,
+   "company": "twitch",
+   "hours_open": 1222.0,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1792864584,
+   "company": "reddit",
+   "hours_open": 215.0,
+   "title": "Machine Learning Engineer",
+   "uid": "greenhouse:reddit:7131934"
+  },
+  {
+   "closed_at": 1792864584,
+   "company": "spacex",
+   "hours_open": 1225.0,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
  "count": 804,
- "updated_at": 1792863499
+ "updated_at": 1792864585
 }
