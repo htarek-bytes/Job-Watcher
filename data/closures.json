@@ -1,62 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792589859,
-   "company": "perfectserve",
-   "hours_open": 805.2,
-   "title": "Junior QA Engineer - US Remote",
-   "uid": "greenhouse:perfectserve:6188132004"
-  },
-  {
-   "closed_at": 1792589859,
-   "company": "twitch",
-   "hours_open": 1148.7,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1792589859,
-   "company": "zoll",
-   "hours_open": 1066.6,
-   "title": "Microsoft 365 Solutions Engineer",
-   "uid": "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369"
-  },
-  {
-   "closed_at": 1792589859,
-   "company": "RTX",
-   "hours_open": 135.0,
-   "title": "Reliability Analyst & Test Engineer 1",
-   "uid": "simplify:listings:ff2d1b33-f961-40da-8987-bc3acdae007b"
-  },
-  {
-   "closed_at": 1792589859,
-   "company": "spacex",
-   "hours_open": 1148.7,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1792589859,
-   "company": "spacex",
-   "hours_open": 1148.7,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1792597012,
-   "company": "Domtar",
-   "hours_open": 24.4,
-   "title": "Administrateur système Windows",
-   "uid": "jobillico:administrateur systeme:17631324"
-  },
-  {
-   "closed_at": 1792597012,
-   "company": "Alcoa Canada",
-   "hours_open": 1030.5,
-   "title": "Conseiller(ère) en cybersécurité (Amérique du Nord)",
-   "uid": "jobillico:analyste cybersecurite:17502948"
-  },
-  {
    "closed_at": 1792597012,
    "company": "Amazon",
    "hours_open": 115.7,
@@ -5599,8 +5543,64 @@
    "hours_open": 415.5,
    "title": "Systems Administrator - Unified Capabilities",
    "uid": "lever:agile-defense:29729ddf-b112-4cd5-99ba-d5064284cded"
+  },
+  {
+   "closed_at": 1792834246,
+   "company": "Source Code",
+   "hours_open": 244.0,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:systems analyst:50491950"
+  },
+  {
+   "closed_at": 1792834246,
+   "company": "CGI",
+   "hours_open": 1096.4,
+   "title": "Conseiller(ère) en gouvernance de la cybersécurité",
+   "uid": "jobillico:analyste cybersecurite:17433756"
+  },
+  {
+   "closed_at": 1792834246,
+   "company": "Boeing",
+   "hours_open": 3.8,
+   "title": "Entry Level Software Engineer-Developer - Development",
+   "uid": "simplify:listings:172bdac1-ef4f-4891-8afb-b8676d403818"
+  },
+  {
+   "closed_at": 1792834246,
+   "company": "twitch",
+   "hours_open": 1216.6,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1792834246,
+   "company": "DPMSYSTEMS IT CONSULTING SERVICES",
+   "hours_open": 868.6,
+   "title": "information systems analyst - computer systems",
+   "uid": "jobbank:systems analyst:50311291"
+  },
+  {
+   "closed_at": 1792834246,
+   "company": "spacex",
+   "hours_open": 1213.6,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1792834246,
+   "company": "spacex",
+   "hours_open": 1216.3,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1792834246,
+   "company": "spacex",
+   "hours_open": 1214.9,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
- "count": 802,
- "updated_at": 1792824905
+ "count": 808,
+ "updated_at": 1792834246
 }
