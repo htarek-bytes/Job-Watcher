@@ -1,97 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792569452,
-   "company": "danaher",
-   "hours_open": 30.3,
-   "title": "Solutions Consultant",
-   "uid": "workday:danaher.wd1/DanaherJobs:Solutions-Consultant_R1320104-1"
-  },
-  {
-   "closed_at": 1792569452,
-   "company": "dexcom",
-   "hours_open": 30.3,
-   "title": "SW Development Engineer 1",
-   "uid": "workday:dexcom.wd1/Dexcom:SW-Development-Engineer-1_JR121398"
-  },
-  {
-   "closed_at": 1792578880,
-   "company": "jabil",
-   "hours_open": 14.3,
-   "title": "Test Engineer I",
-   "uid": "workday:jabil.wd5/Jabil_Careers:Test-Engineer-I_J2468078"
-  },
-  {
-   "closed_at": 1792578880,
-   "company": "jabil",
-   "hours_open": 14.3,
-   "title": "Automation Engineer I",
-   "uid": "workday:jabil.wd5/Jabil_Careers:Automation-Engineer-I_J2463375"
-  },
-  {
-   "closed_at": 1792578880,
-   "company": "jci",
-   "hours_open": 14.3,
-   "title": "PTS Engineer 1",
-   "uid": "workday:jci.wd5/JCI:PTS-Engineer-1_WD30282305-1"
-  },
-  {
-   "closed_at": 1792578880,
-   "company": "LogiSense Corporation",
-   "hours_open": 5.0,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50547629"
-  },
-  {
-   "closed_at": 1792578880,
-   "company": "Alcoa Canada",
-   "hours_open": 1025.4,
-   "title": "Conseiller(ère) en cybersécurité (Amérique du Nord)",
-   "uid": "jobillico:analyste cybersecurite:17502948"
-  },
-  {
-   "closed_at": 1792578880,
-   "company": "hpe",
-   "hours_open": 87.3,
-   "title": "Technical Sales Graduate",
-   "uid": "workday:hpe.wd5/jobsathpe:Technical-Sales-Graduate_1213591-1"
-  },
-  {
-   "closed_at": 1792578880,
-   "company": "twitch",
-   "hours_open": 1142.7,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1792578880,
-   "company": "jci",
-   "hours_open": 876.1,
-   "title": "ACE Technical Sales - Security ACVS (Toronto, Canada)",
-   "uid": "workday:jci.wd5/JCI:ACE-Technical-Sales---Security-ACVS--Southwest-_WD30279385-1"
-  },
-  {
-   "closed_at": 1792578880,
-   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
-   "hours_open": 24.3,
-   "title": "Administrateur Réseau TI",
-   "uid": "jobillico:analyste reseau:17628663"
-  },
-  {
-   "closed_at": 1792578880,
-   "company": "spacex",
-   "hours_open": 1142.7,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1792578880,
-   "company": "spacex",
-   "hours_open": 1143.9,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
    "closed_at": 1792579148,
    "company": "Groupe Mario Coté",
    "hours_open": 116.3,
@@ -5599,8 +5508,99 @@
    "hours_open": 516.7,
    "title": "Web Developer (Growth & Conversion Optimization)",
    "uid": "ashby:claylabs:b17bd432-72e4-4f03-b8db-2fd677c2cfe8"
+  },
+  {
+   "closed_at": 1792818438,
+   "company": "Aequilibrium Software Inc.",
+   "hours_open": 168.0,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50520710"
+  },
+  {
+   "closed_at": 1792818438,
+   "company": "Citylitics",
+   "hours_open": 23.8,
+   "title": "data engineer",
+   "uid": "jobbank:infrastructure analyst:50564033"
+  },
+  {
+   "closed_at": 1792818438,
+   "company": "Stellar Software Solutions",
+   "hours_open": 334.3,
+   "title": "network infrastructure engineer",
+   "uid": "jobbank:infrastructure analyst:50462911"
+  },
+  {
+   "closed_at": 1792818438,
+   "company": "Huntington Ingalls Industries",
+   "hours_open": 118.2,
+   "title": "Software Engineer 1",
+   "uid": "simplify:listings:316c2d00-0f12-44d3-a120-dec7324caeff"
+  },
+  {
+   "closed_at": 1792818438,
+   "company": "kayak",
+   "hours_open": 730.1,
+   "title": "Executive Assistant / Communications Specialist",
+   "uid": "ashby:kayak:438f76b9-5bc2-4300-b045-474434d49306"
+  },
+  {
+   "closed_at": 1792818438,
+   "company": "crusoe",
+   "hours_open": 893.4,
+   "title": "Software Engineer I, Network",
+   "uid": "ashby:crusoe:9a5223c4-9eb7-4fdb-b97c-f43525df35ed"
+  },
+  {
+   "closed_at": 1792818438,
+   "company": "twitch",
+   "hours_open": 1209.2,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1792818438,
+   "company": "Groupe Coderr",
+   "hours_open": 702.4,
+   "title": "Technicien informatique",
+   "uid": "jobillico:technicien informatique:17557461"
+  },
+  {
+   "closed_at": 1792818438,
+   "company": "Ciena",
+   "hours_open": 1248.8,
+   "title": "Embedded Software Developer New Grad",
+   "uid": "simplify:listings:c82c1758-9605-466f-878f-d5077a225f51"
+  },
+  {
+   "closed_at": 1792818438,
+   "company": "LexisNexis Risk Solutions",
+   "hours_open": 886.4,
+   "title": "Software Engineer 1",
+   "uid": "simplify:listings:57a2bb7e-a9c4-41b0-a10a-606e7e4e9d3b"
+  },
+  {
+   "closed_at": 1792818438,
+   "company": "spacex",
+   "hours_open": 1212.2,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1792818438,
+   "company": "spacex",
+   "hours_open": 1212.2,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1792818438,
+   "company": "spacex",
+   "hours_open": 1212.2,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 801,
- "updated_at": 1792806842
+ "count": 813,
+ "updated_at": 1792818439
 }
