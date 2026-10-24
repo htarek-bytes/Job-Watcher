@@ -1,104 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792560848,
-   "company": "City of Calgary",
-   "hours_open": 327.6,
-   "title": "network administrator",
-   "uid": "jobbank:network administrator:50443952"
-  },
-  {
-   "closed_at": 1792560848,
-   "company": "DPMSYSTEMS IT CONSULTING SERVICES",
-   "hours_open": 144.0,
-   "title": "information systems analyst - computer systems",
-   "uid": "jobbank:information systems analyst:50311291"
-  },
-  {
-   "closed_at": 1792560848,
-   "company": "Qualcomm",
-   "hours_open": 940.9,
-   "title": "Machine Learning Engineer New Grad - AI Processors - Machine Learning Engineering",
-   "uid": "simplify:listings:f658e592-7705-4abf-9fec-d62ac98b287e"
-  },
-  {
-   "closed_at": 1792560848,
-   "company": "Skyward",
-   "hours_open": 1123.5,
-   "title": "Software Engineer - Intern",
-   "uid": "smartrecruiters:Skyward1:744000147320799"
-  },
-  {
-   "closed_at": 1792560848,
-   "company": "BestEx Research",
-   "hours_open": 1140.3,
-   "title": "Quant Data Engineer",
-   "uid": "workable:bestex-research:E34784FE63"
-  },
-  {
-   "closed_at": 1792560848,
-   "company": "spacex",
-   "hours_open": 1137.7,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1792560848,
-   "company": "spacex",
-   "hours_open": 1138.9,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1792560848,
-   "company": "k2spacecorporation",
-   "hours_open": 396.5,
-   "title": "Vehicle & Mission Operations Engineer",
-   "uid": "greenhouse:k2spacecorporation:5031524008"
-  },
-  {
-   "closed_at": 1792561315,
-   "company": "Starling",
-   "hours_open": 84.5,
-   "title": "Information Security Operations Analyst (Toronto, Canada)",
-   "uid": "workable:starling-bank:A57D6CB4AC"
-  },
-  {
-   "closed_at": 1792564385,
-   "company": "altera",
-   "hours_open": 109.5,
-   "title": "FPGA IP Design Engineer -  Intern",
-   "uid": "workday:altera.wd1/altera:FPGA-IP-Design-Engineer----Intern_R03324"
-  },
-  {
-   "closed_at": 1792564385,
-   "company": "Solutions GA",
-   "hours_open": 349.8,
-   "title": "network administrator",
-   "uid": "jobbank:network administrator:50437419"
-  },
-  {
-   "closed_at": 1792564385,
-   "company": "autodesk",
-   "hours_open": 29.9,
-   "title": "Software Development Internship (Summer 2027)",
-   "uid": "workday:autodesk.wd1/Ext:Software-Development-Internship--Summer-2027-_26WD101436-1"
-  },
-  {
-   "closed_at": 1792564385,
-   "company": "Sherwood Electromotion Inc",
-   "hours_open": 515.9,
-   "title": "network technical specialist",
-   "uid": "jobbank:analyste reseau:50391508"
-  },
-  {
-   "closed_at": 1792564385,
-   "company": "autodesk",
-   "hours_open": 29.9,
-   "title": "Intern, Software Engineer",
-   "uid": "workday:autodesk.wd1/Ext:Intern--Software-Engineer_26WD101105"
-  },
-  {
    "closed_at": 1792564385,
    "company": "abb",
    "hours_open": 1158.5,
@@ -5599,8 +5501,106 @@
    "hours_open": 1211.5,
    "title": "2027 Summer Internship - Software Developer",
    "uid": "workday:newrez.wd1/NRZ:XMLNAME-2027-Summer-Internship---Software-Developer_R10390"
+  },
+  {
+   "closed_at": 1792805976,
+   "company": "Source Code",
+   "hours_open": 236.2,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:systems analyst:50491950"
+  },
+  {
+   "closed_at": 1792805976,
+   "company": "rockwellautomation",
+   "hours_open": 15.1,
+   "title": "Intern, Hardware Development Engineer (May - Aug 2027)",
+   "uid": "workday:rockwellautomation.wd1/External_Rockwell_Automation:Intern--Hardware-Development-Engineer--May---Aug-2027-_R26-6892-1"
+  },
+  {
+   "closed_at": 1792805976,
+   "company": "rockwellautomation",
+   "hours_open": 767.8,
+   "title": "Intern, Technical Sales & Consulting (USA)",
+   "uid": "workday:rockwellautomation.wd1/External_Rockwell_Automation:Intern--Technical-Sales---Consulting--USA-_R26-5962-2"
+  },
+  {
+   "closed_at": 1792805976,
+   "company": "KLA Corporation",
+   "hours_open": 98.6,
+   "title": "Software Engineer 1",
+   "uid": "simplify:listings:47e8f9c4-77b2-4538-8f65-ffcd067d9d37"
+  },
+  {
+   "closed_at": 1792805976,
+   "company": "rockwellautomation",
+   "hours_open": 172.7,
+   "title": "Co-op, Hardware Development Engineer (June - Dec 2027)",
+   "uid": "workday:rockwellautomation.wd1/External_Rockwell_Automation:Co-op--Hardware-Development-Engineer--June---Dec-2027-_R26-6891-1"
+  },
+  {
+   "closed_at": 1792805976,
+   "company": "rockwellautomation",
+   "hours_open": 172.7,
+   "title": "Co-op, Hardware Development Engineer (Jan - July 2027)",
+   "uid": "workday:rockwellautomation.wd1/External_Rockwell_Automation:Co-op--Hardware-Development-Engineer--Jan---July-2027-_R26-6638-1"
+  },
+  {
+   "closed_at": 1792805976,
+   "company": "sierraspace",
+   "hours_open": 266.4,
+   "title": "Test Engineer I",
+   "uid": "workday:sierraspace.wd1/Sierra_Space_External_Career_Site:Test-Engineer-I_R26402-1"
+  },
+  {
+   "closed_at": 1792805976,
+   "company": "rockwellautomation",
+   "hours_open": 671.6,
+   "title": "Intern, AI Software Engineering (June-August 2027)",
+   "uid": "workday:rockwellautomation.wd1/External_Rockwell_Automation:Intern--AI-Software-Engineering--June-August-2027-_R26-6980-1"
+  },
+  {
+   "closed_at": 1792805976,
+   "company": "salesforce",
+   "hours_open": 13.6,
+   "title": "Digital Solution Engineer - Nonprofits",
+   "uid": "workday:salesforce.wd12/External_Career_Site:Digital-Solution-Engineer---Nonprofits_JR364136"
+  },
+  {
+   "closed_at": 1792805976,
+   "company": "snc",
+   "hours_open": 13.6,
+   "title": "Systems Engineer Intern (Summer 2027)",
+   "uid": "workday:snc.wd1/snc_external_career_site:Systems-Engineer-Intern--Summer-2027-_R0031176"
+  },
+  {
+   "closed_at": 1792805976,
+   "company": "relx",
+   "hours_open": 1230.0,
+   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - January)",
+   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617-1"
+  },
+  {
+   "closed_at": 1792805976,
+   "company": "relx",
+   "hours_open": 1230.0,
+   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - June)",
+   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-2"
+  },
+  {
+   "closed_at": 1792805976,
+   "company": "relx",
+   "hours_open": 1230.0,
+   "title": "Tech Accelerate Graduate Program - Software Engineer (Boca Raton - June)",
+   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Boca-Raton---June-_R116023"
+  },
+  {
+   "closed_at": 1792805976,
+   "company": "relx",
+   "hours_open": 355.3,
+   "title": "Software Engineer 1",
+   "uid": "workday:relx.wd3/relx:Software-Engineer-1_R117973-1"
   }
  ],
- "count": 807,
- "updated_at": 1792803822
+ "count": 814,
+ "updated_at": 1792805977
 }

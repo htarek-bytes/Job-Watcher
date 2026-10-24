@@ -1,5 +1,5 @@
 {
- "count": 9257,
+ "count": 9262,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -2252,6 +2252,7 @@
   "greenhouse:bwaltpostings:8632074002": 1788460756,
   "greenhouse:bwaltpostings:8642665002": 1788460756,
   "greenhouse:bwaltpostings:8750666002": 1788460756,
+  "greenhouse:bwaltpostings:8913638002": 1792805976,
   "greenhouse:canonical:2614095": 1788454653,
   "greenhouse:canonical:3290946": 1788750148,
   "greenhouse:canonical:3821346": 1788887337,
@@ -8913,10 +8914,12 @@
   "workday:pae.wd1/amentum_careers:Entry-Level-Software-Engineer_R0171030": 1790041773,
   "workday:pae.wd1/amentum_careers:Entry-Level-Software-Engineer_R0172148": 1791225444,
   "workday:pae.wd1/amentum_careers:Job-Posting-Title-Junior-Naval-Systems-Security-Engineer_R0170950": 1789683100,
+  "workday:pae.wd1/amentum_careers:Junior-DevSecOps-Engineer_R0172729": 1792805976,
   "workday:pae.wd1/amentum_careers:Junior-RF-Engineer_R0172475": 1791381341,
   "workday:pae.wd1/amentum_careers:Junior-Software-Developer_R0172202": 1790990847,
   "workday:pae.wd1/amentum_careers:Software-Engineer-1_R0171606": 1791526945,
   "workday:pae.wd1/amentum_careers:Software-Engineer-1_R0171612": 1790643496,
+  "workday:pae.wd1/amentum_careers:Software-Engineer-1_R0173916": 1792805976,
   "workday:pae.wd1/amentum_careers:Software-Engineering-Intern_R0169322": 1788442554,
   "workday:pae.wd1/amentum_careers:Software-Programmer-Intern_R0169775": 1788984410,
   "workday:pae.wd1/amentum_careers:Storage-Solutions-Engineer-IRES---SSFB_R0170571": 1789513197,
@@ -8988,6 +8991,7 @@
   "workday:resmed.wd3/ResMed_External_Careers:Associate-Software-Engineer_JR_052316-1": 1790311773,
   "workday:resmed.wd3/ResMed_External_Careers:Associate-Software-Engineer_JR_053125": 1788377835,
   "workday:resmed.wd3/ResMed_External_Careers:Associate-Software-Engineer_JR_053889-1": 1790884489,
+  "workday:rfcuny.wd108/RFCUNY:Technology-Solutions-Engineer-_JR5066": 1792805976,
   "workday:roche.wd3/roche-ext:Field-Service-Assistant-Engineer-Intern_202610-126627": 1792419840,
   "workday:roche.wd3/roche-ext:Junior-Custom-Software-Developer---RDT-Data-Platforms_202610-125284": 1792117641,
   "workday:rochester.wd5/UR_Staff:Research-Data-Engineer-I_R269057": 1791381341,
@@ -9067,6 +9071,7 @@
   "workday:shi.wd12/shicareers:Solutions-Engineer---Enterprise_JR3576": 1791702645,
   "workday:shi.wd12/shicareers:Solutions-Engineer---Enterprise_JR3781": 1791973931,
   "workday:shi.wd12/shicareers:Solutions-Engineer---Strategic_JR2472-1": 1791654658,
+  "workday:sierraspace.wd1/Sierra_Space_External_Career_Site:Database-Engineer-I_R26247-1": 1792805976,
   "workday:sierraspace.wd1/Sierra_Space_External_Career_Site:Loads---Dynamics-Engineer-I_R26356-1": 1791444813,
   "workday:sierraspace.wd1/Sierra_Space_External_Career_Site:Material-Science-Engineer-I_R26360-1": 1792077007,
   "workday:sierraspace.wd1/Sierra_Space_External_Career_Site:Radiation-Engineer--Electrical--I_R26361-1": 1791444813,
@@ -9259,5 +9264,5 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148,
   "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541": 1789106107
  },
- "updated_at": 1792803822
+ "updated_at": 1792805977
 }
