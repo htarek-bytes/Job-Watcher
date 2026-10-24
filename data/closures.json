@@ -2,13 +2,6 @@
  "closed": [
   {
    "closed_at": 1792615393,
-   "company": "freeformfuturecorp",
-   "hours_open": 1155.8,
-   "title": "Design Engineer (Aerospace and Defense Hardware)",
-   "uid": "greenhouse:freeformfuturecorp:7770303003"
-  },
-  {
-   "closed_at": 1792615393,
    "company": "andurilindustries",
    "hours_open": 722.0,
    "title": "Production Hardware Test Engineer",
@@ -5599,8 +5592,15 @@
    "hours_open": 1225.0,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1792866173,
+   "company": "Atimi",
+   "hours_open": 6.9,
+   "title": "software developer",
+   "uid": "jobbank:entry level software developer:50571580"
   }
  ],
- "count": 804,
- "updated_at": 1792864585
+ "count": 801,
+ "updated_at": 1792866173
 }
