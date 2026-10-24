@@ -1,69 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792597012,
-   "company": "Amazon",
-   "hours_open": 115.7,
-   "title": "Software Development Engineer, Network Monitoring & Remediation",
-   "uid": "amazon:amazon:10581624"
-  },
-  {
-   "closed_at": 1792597012,
-   "company": "purestorage",
-   "hours_open": 1022.0,
-   "title": "Technical Services Engineer, Portworx",
-   "uid": "greenhouse:purestorage:8153343"
-  },
-  {
-   "closed_at": 1792597012,
-   "company": "twitch",
-   "hours_open": 1147.7,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1792597012,
-   "company": "andurilindustries",
-   "hours_open": 39.9,
-   "title": "Software Engineer - Payload Integrations",
-   "uid": "greenhouse:andurilindustries:5269031007"
-  },
-  {
-   "closed_at": 1792597012,
-   "company": "rocketems",
-   "hours_open": 46.6,
-   "title": "SMT Programmer (Second Shift)",
-   "uid": "greenhouse:rocketems:4457517009"
-  },
-  {
-   "closed_at": 1792597012,
-   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
-   "hours_open": 29.4,
-   "title": "Administrateur Réseau TI",
-   "uid": "jobillico:analyste reseau:17628663"
-  },
-  {
-   "closed_at": 1792597012,
-   "company": "accenturefederalservices",
-   "hours_open": 1150.7,
-   "title": "DevOps Engineer",
-   "uid": "greenhouse:accenturefederalservices:4689022006"
-  },
-  {
-   "closed_at": 1792597012,
-   "company": "spacex",
-   "hours_open": 1150.7,
-   "title": "Electrical Test Engineer, PCB (Starlink)",
-   "uid": "greenhouse:spacex:8532471002"
-  },
-  {
-   "closed_at": 1792597212,
-   "company": "Logesco Informatique",
-   "hours_open": 1030.5,
-   "title": "Administrateur de réseau",
-   "uid": "jobillico:analyste reseau:17188132"
-  },
-  {
    "closed_at": 1792597212,
    "company": "Media Resources",
    "hours_open": 421.9,
@@ -5599,8 +5536,71 @@
    "hours_open": 1214.9,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1792835488,
+   "company": "AECOM",
+   "hours_open": 14.4,
+   "title": "Entry-Level Civil/Highway Engineer",
+   "uid": "smartrecruiters:AECOM2:744000157488094"
+  },
+  {
+   "closed_at": 1792835488,
+   "company": "AbbVie",
+   "hours_open": 32.1,
+   "title": "2027 Validation Engineer Co-Op (July - Dec) (Undergraduate)",
+   "uid": "smartrecruiters:AbbVie:3743990016346156"
+  },
+  {
+   "closed_at": 1792835488,
+   "company": "Citylitics",
+   "hours_open": 28.5,
+   "title": "data engineer",
+   "uid": "jobbank:infrastructure analyst:50564033"
+  },
+  {
+   "closed_at": 1792835488,
+   "company": "Source Code",
+   "hours_open": 37.8,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:systems analyst:50553479"
+  },
+  {
+   "closed_at": 1792835488,
+   "company": "twitch",
+   "hours_open": 1214.0,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1792835488,
+   "company": "DPMSYSTEMS IT CONSULTING SERVICES",
+   "hours_open": 9.1,
+   "title": "information systems analyst - computer systems",
+   "uid": "jobbank:analyste de systemes:50311291"
+  },
+  {
+   "closed_at": 1792835488,
+   "company": "spacex",
+   "hours_open": 1216.9,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1792835488,
+   "company": "spacex",
+   "hours_open": 1216.9,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1792835488,
+   "company": "spacex",
+   "hours_open": 1216.9,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 808,
- "updated_at": 1792834246
+ "count": 809,
+ "updated_at": 1792835489
 }
