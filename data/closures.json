@@ -1,55 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792611499,
-   "company": "spacex",
-   "hours_open": 1154.7,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1792611499,
-   "company": "spacex",
-   "hours_open": 1154.7,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1792611499,
-   "company": "spacex",
-   "hours_open": 1153.0,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1792611621,
-   "company": "Bosch Group",
-   "hours_open": 17.7,
-   "title": "Extracurricular Internship: AI-Assisted Software Engineering Intern (f/m/div.)",
-   "uid": "smartrecruiters:BoschGroup:744000156523049"
-  },
-  {
-   "closed_at": 1792611621,
-   "company": "ALTEN",
-   "hours_open": 17.7,
-   "title": "Junior Software Developer C/C++ (all gender)",
-   "uid": "smartrecruiters:ALTEN:744000156493591"
-  },
-  {
-   "closed_at": 1792611621,
-   "company": "AECOM",
-   "hours_open": 17.7,
-   "title": "Starszy Asystent (-tka) Projektanta Linii / Stacji Wysokich Napięć / High Voltage Line / Substation Junior Engineer",
-   "uid": "smartrecruiters:AECOM2:744000156470799"
-  },
-  {
-   "closed_at": 1792611621,
-   "company": "Bosch Group",
-   "hours_open": 17.7,
-   "title": "Sales Engineer - Automation & Electrification (AR, OK, LA, TX)",
-   "uid": "smartrecruiters:BoschGroup:744000156397129"
-  },
-  {
    "closed_at": 1792611621,
    "company": "GEOCELLCANADA Inc.",
    "hours_open": 57.3,
@@ -5599,8 +5550,57 @@
    "hours_open": 1221.0,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1792860985,
+   "company": "Atimi",
+   "hours_open": 5.5,
+   "title": "software developer",
+   "uid": "jobbank:entry level software developer:50571580"
+  },
+  {
+   "closed_at": 1792860985,
+   "company": "Confédération des syndicats nationaux",
+   "hours_open": 35.3,
+   "title": "Administratrice ou administrateur réseau",
+   "uid": "jobillico:analyste reseau:17619549"
+  },
+  {
+   "closed_at": 1792860985,
+   "company": "Groupe DCM",
+   "hours_open": 876.0,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534679"
+  },
+  {
+   "closed_at": 1792860985,
+   "company": "Source Code",
+   "hours_open": 58.9,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:control systems analyst:50553479"
+  },
+  {
+   "closed_at": 1792860985,
+   "company": "Alcoa Canada",
+   "hours_open": 1103.8,
+   "title": "Conseiller(ère) en cybersécurité (Amérique du Nord)",
+   "uid": "jobillico:analyste cybersecurite:17502948"
+  },
+  {
+   "closed_at": 1792860985,
+   "company": "twitch",
+   "hours_open": 1221.0,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1792860985,
+   "company": "spacex",
+   "hours_open": 1224.0,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 805,
- "updated_at": 1792856260
+ "count": 807,
+ "updated_at": 1792860986
 }
