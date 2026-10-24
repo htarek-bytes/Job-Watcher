@@ -1,48 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792611621,
-   "company": "GEOCELLCANADA Inc.",
-   "hours_open": 57.3,
-   "title": "telecommunications technician",
-   "uid": "jobbank:telecommunications analyst:50029740"
-  },
-  {
-   "closed_at": 1792615393,
-   "company": "alarmcom",
-   "hours_open": 1.1,
-   "title": "Test Engineer I - RF/EMC ",
-   "uid": "greenhouse:alarmcom:8888033002"
-  },
-  {
-   "closed_at": 1792615393,
-   "company": "justworks",
-   "hours_open": 188.7,
-   "title": "Associate Software Engineer, Frontend",
-   "uid": "greenhouse:justworks:8236815"
-  },
-  {
-   "closed_at": 1792615393,
-   "company": "ServiceNow",
-   "hours_open": 18.3,
-   "title": "Advisory Solution Consultant – Security, Identity & Exposure Management  (Armis/Veza)",
-   "uid": "smartrecruiters:ServiceNow:744000156421679"
-  },
-  {
-   "closed_at": 1792615393,
-   "company": "faire",
-   "hours_open": 1155.8,
-   "title": "Software Engineer - Retailer Experience & Growth - Fullstack, Backend or Frontend",
-   "uid": "greenhouse:faire:8603123002"
-  },
-  {
-   "closed_at": 1792615393,
-   "company": "ServiceNow",
-   "hours_open": 91.7,
-   "title": "Forward Deployed Solution Engineer – Applied AI FDE",
-   "uid": "smartrecruiters:ServiceNow:744000156137939"
-  },
-  {
    "closed_at": 1792615393,
    "company": "Renesas Electronics",
    "hours_open": 115.3,
@@ -5599,8 +5557,50 @@
    "hours_open": 1224.0,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1792861285,
+   "company": "Atimi",
+   "hours_open": 5.1,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50571580"
+  },
+  {
+   "closed_at": 1792861285,
+   "company": "td",
+   "hours_open": 106.4,
+   "title": "Guidewire Software Engineer I",
+   "uid": "workday:td.wd3/TD_Bank_Careers:Guidewire-Software-Engineer-I_R_1517063-1"
+  },
+  {
+   "closed_at": 1792861285,
+   "company": "twitch",
+   "hours_open": 1224.1,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1792861285,
+   "company": "reddit",
+   "hours_open": 185.2,
+   "title": "Machine Learning Engineer",
+   "uid": "greenhouse:reddit:7131932"
+  },
+  {
+   "closed_at": 1792861285,
+   "company": "relx",
+   "hours_open": 892.9,
+   "title": "Software Engineer 1",
+   "uid": "workday:relx.wd3/RiskSolutions:Software-Engineer-1_R117973"
+  },
+  {
+   "closed_at": 1792861285,
+   "company": "spacex",
+   "hours_open": 1222.4,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
- "count": 807,
- "updated_at": 1792860986
+ "count": 806,
+ "updated_at": 1792861286
 }
