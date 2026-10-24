@@ -2,13 +2,6 @@
  "closed": [
   {
    "closed_at": 1792622820,
-   "company": "SingleStore",
-   "hours_open": 717.8,
-   "title": "Software Engineer New Grad - Engine",
-   "uid": "simplify:listings:c40989ea-f1f3-4d28-b7a7-1756148122a1"
-  },
-  {
-   "closed_at": 1792622820,
    "company": "bcidaho",
    "hours_open": 15.3,
    "title": "AI Engineer I",
@@ -5599,8 +5592,15 @@
    "hours_open": 9.6,
    "title": "software developer",
    "uid": "jobbank:entry level software developer:50571580"
+  },
+  {
+   "closed_at": 1792878417,
+   "company": "Citylitics",
+   "hours_open": 40.5,
+   "title": "data engineer",
+   "uid": "jobbank:infrastructure analyst:50564033"
   }
  ],
- "count": 800,
- "updated_at": 1792878117
+ "count": 801,
+ "updated_at": 1792878417
 }
