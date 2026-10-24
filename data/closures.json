@@ -2,27 +2,6 @@
  "closed": [
   {
    "closed_at": 1792622820,
-   "company": "Choice Hotels",
-   "hours_open": 119.5,
-   "title": "Software Engineer 1",
-   "uid": "simplify:listings:edbda165-162b-46f7-a991-ae76b3547d01"
-  },
-  {
-   "closed_at": 1792622820,
-   "company": "avav",
-   "hours_open": 1170.2,
-   "title": "Summer 2027 Software Engineering Intern",
-   "uid": "workday:avav.wd1/avav:Summer-2027-Software-Engineering-Intern_8611"
-  },
-  {
-   "closed_at": 1792622820,
-   "company": "Justworks",
-   "hours_open": 192.1,
-   "title": "Associate Software Engineer - Frontend",
-   "uid": "simplify:listings:a79e6835-8f6d-4436-8c3c-6762dafc0a75"
-  },
-  {
-   "closed_at": 1792622820,
    "company": "avnet",
    "hours_open": 866.5,
    "title": "Technical Sales Engineer - AMD/Xilinx",
@@ -5599,8 +5578,29 @@
    "hours_open": 529.1,
    "title": "Software Engineer, Robotics Fleet Optimization ",
    "uid": "greenhouse:nimblerobotics:4136334009"
+  },
+  {
+   "closed_at": 1792871174,
+   "company": "Confédération des syndicats nationaux",
+   "hours_open": 38.1,
+   "title": "Administratrice ou administrateur réseau",
+   "uid": "jobillico:analyste reseau:17619549"
+  },
+  {
+   "closed_at": 1792871174,
+   "company": "Citylitics",
+   "hours_open": 38.5,
+   "title": "data engineer",
+   "uid": "jobbank:infrastructure analyst:50564033"
+  },
+  {
+   "closed_at": 1792871174,
+   "company": "Source Code",
+   "hours_open": 61.7,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:control systems analyst:50553479"
   }
  ],
- "count": 802,
- "updated_at": 1792869935
+ "count": 803,
+ "updated_at": 1792871174
 }
