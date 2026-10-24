@@ -1,20 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792588171,
-   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
-   "hours_open": 26.9,
-   "title": "Administrateur Réseau TI",
-   "uid": "jobillico:analyste reseau:17628663"
-  },
-  {
-   "closed_at": 1792589859,
-   "company": "Groupe Mario Coté",
-   "hours_open": 119.3,
-   "title": "Administrateur de réseau",
-   "uid": "jobillico:analyste reseau:17594211"
-  },
-  {
    "closed_at": 1792589859,
    "company": "perfectserve",
    "hours_open": 805.2,
@@ -5599,8 +5585,22 @@
    "hours_open": 48.5,
    "title": "information technology (IT) analyst",
    "uid": "jobbank:control systems analyst:50553479"
+  },
+  {
+   "closed_at": 1792824904,
+   "company": "torcrobotics",
+   "hours_open": 422.2,
+   "title": "Commissioning - Systems Engineer I",
+   "uid": "greenhouse:torcrobotics:8864848002"
+  },
+  {
+   "closed_at": 1792824904,
+   "company": "agile-defense",
+   "hours_open": 415.5,
+   "title": "Systems Administrator - Unified Capabilities",
+   "uid": "lever:agile-defense:29729ddf-b112-4cd5-99ba-d5064284cded"
   }
  ],
- "count": 801,
- "updated_at": 1792823680
+ "count": 802,
+ "updated_at": 1792824905
 }
