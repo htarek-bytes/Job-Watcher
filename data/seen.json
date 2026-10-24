@@ -1,5 +1,5 @@
 {
- "count": 9273,
+ "count": 9276,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -1281,6 +1281,7 @@
   "ashby:snowflake:d23bc607-27d8-48a9-8c12-a455b3c6a820": 1788887337,
   "ashby:snowflake:da9101c0-c661-4238-b9df-426fb1998bb4": 1788750148,
   "ashby:snowflake:db1375f0-ea5d-404a-b640-259f94dbc995": 1788465705,
+  "ashby:sola:eecbf467-dc2a-44b2-a167-44299b688c5b": 1792823335,
   "ashby:solace:7deb5d7e-9960-4407-9600-aa8e84d9edba": 1788364508,
   "ashby:solace:bbdb1020-2900-4d63-908a-20cea79a65cd": 1788364508,
   "ashby:solace:db008474-d93e-41a7-939e-8d5825eb0d0f": 1788364508,
@@ -4533,6 +4534,7 @@
   "jobbank:control systems analyst:50546374": 1792588171,
   "jobbank:control systems analyst:50553210": 1792648983,
   "jobbank:control systems analyst:50553479": 1792648983,
+  "jobbank:control systems analyst:50570740": 1792823335,
   "jobbank:cybersecurity analyst:49819441": 1788887337,
   "jobbank:cybersecurity analyst:49890153": 1788887337,
   "jobbank:cybersecurity analyst:50253155": 1788988461,
@@ -4904,6 +4906,7 @@
   "jobbank:junior software developer:50553437": 1792644522,
   "jobbank:junior software developer:50553712": 1792662165,
   "jobbank:junior software developer:50555003": 1792680203,
+  "jobbank:junior software developer:50571320": 1792823335,
   "jobbank:linux administrator:49626621": 1789082121,
   "jobbank:linux administrator:50163764": 1788887337,
   "jobbank:linux administrator:50205276": 1788887337,
@@ -9275,5 +9278,5 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148,
   "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541": 1789106107
  },
- "updated_at": 1792820715
+ "updated_at": 1792823335
 }

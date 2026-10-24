@@ -1,69 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792585063,
-   "company": "twitch",
-   "hours_open": 1144.4,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1792585063,
-   "company": "nvidia",
-   "hours_open": 1020.6,
-   "title": "ASIC Floorplan Design Engineer - New College Grad 2026",
-   "uid": "workday:nvidia.wd5/NVIDIAExternalCareerSite:ASIC-Floorplan-Design-Engineer---New-College-Grad-2026_JR2024651"
-  },
-  {
-   "closed_at": 1792585063,
-   "company": "RTX",
-   "hours_open": 406.0,
-   "title": "Receiver – Exciter - & Processing Architecture Software Engineer I",
-   "uid": "simplify:listings:f4abd014-83a4-4f62-b404-1fe28a2f422a"
-  },
-  {
-   "closed_at": 1792585063,
-   "company": "spacex",
-   "hours_open": 1144.4,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1792585063,
-   "company": "spacex",
-   "hours_open": 1145.6,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1792588171,
-   "company": "Great Lakes Group",
-   "hours_open": 103.3,
-   "title": "electrical controls engineer",
-   "uid": "jobbank:control systems analyst:50520784"
-  },
-  {
-   "closed_at": 1792588171,
-   "company": "Boeing",
-   "hours_open": 145.3,
-   "title": "Entry Level Software Engineer-Developer - Development",
-   "uid": "simplify:listings:2834c42b-eb29-4665-86b5-a65ef7b48f9f"
-  },
-  {
-   "closed_at": 1792588171,
-   "company": "salesforce",
-   "hours_open": 443.7,
-   "title": "Business Development Associate (Early Career)",
-   "uid": "workday:salesforce.wd12/External_Career_Site:Business-Development-Associate--Early-Career-_JR340479-1"
-  },
-  {
-   "closed_at": 1792588171,
-   "company": "tsc",
-   "hours_open": 1022.3,
-   "title": "Junior Electrical Test Engineer",
-   "uid": "workday:tsc.wd12/TSC-Careers:Junior-Electrical-Test-Engineer_JR2782"
-  },
-  {
    "closed_at": 1792588171,
    "company": "shi",
    "hours_open": 259.3,
@@ -5599,8 +5536,71 @@
    "hours_open": 1211.1,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1792823335,
+   "company": "UPSCALE TECHOFY INC",
+   "hours_open": 516.1,
+   "title": "cybersecurity analyst",
+   "uid": "jobbank:cybersecurity analyst:50411161"
+  },
+  {
+   "closed_at": 1792823335,
+   "company": "solace",
+   "hours_open": 1238.6,
+   "title": "Associate Platform Engineer (College Grad 2027)",
+   "uid": "ashby:solace:bbdb1020-2900-4d63-908a-20cea79a65cd"
+  },
+  {
+   "closed_at": 1792823335,
+   "company": "twitch",
+   "hours_open": 1210.6,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1792823335,
+   "company": "DPMSYSTEMS IT CONSULTING SERVICES",
+   "hours_open": 216.9,
+   "title": "information systems analyst - computer systems",
+   "uid": "jobbank:information systems analyst:50311291"
+  },
+  {
+   "closed_at": 1792823335,
+   "company": "CloudLabs",
+   "hours_open": 1093.3,
+   "title": "systems analyst",
+   "uid": "jobbank:systems analyst:50053328"
+  },
+  {
+   "closed_at": 1792823335,
+   "company": "spacex",
+   "hours_open": 1213.5,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1792823335,
+   "company": "siftstack",
+   "hours_open": 1210.5,
+   "title": "Software Engineer, Backend  (Agentic AI)",
+   "uid": "ashby:siftstack:c8dbe14d-84a2-44cd-bc4c-b07ac05ad967"
+  },
+  {
+   "closed_at": 1792823335,
+   "company": "spacex",
+   "hours_open": 1213.5,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1792823335,
+   "company": "spacex",
+   "hours_open": 1213.5,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 811,
- "updated_at": 1792820716
+ "count": 809,
+ "updated_at": 1792823335
 }
