@@ -2,20 +2,6 @@
  "closed": [
   {
    "closed_at": 1792605783,
-   "company": "andurilindustries",
-   "hours_open": 685.0,
-   "title": "Analytics Engineer, Sentry",
-   "uid": "greenhouse:andurilindustries:5226536007"
-  },
-  {
-   "closed_at": 1792605783,
-   "company": "Best Buy Canada",
-   "hours_open": 12.5,
-   "title": "business systems analyst",
-   "uid": "jobbank:infrastructure analyst:50512206"
-  },
-  {
-   "closed_at": 1792605783,
    "company": "Groupe Mario Coté",
    "hours_open": 123.7,
    "title": "Administrateur de réseau",
@@ -5599,8 +5585,22 @@
    "hours_open": 954.5,
    "title": "Hardware In the Loop Software Engineer 1",
    "uid": "simplify:listings:8edf16f9-31db-4a81-b28d-bfabbbdece38"
+  },
+  {
+   "closed_at": 1792849366,
+   "company": "Source Code",
+   "hours_open": 55.7,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:control systems analyst:50553479"
+  },
+  {
+   "closed_at": 1792849366,
+   "company": "boeing",
+   "hours_open": 14.4,
+   "title": "Associate Software Engineer",
+   "uid": "workday:boeing.wd1/external_subsidiary:Associate-Software-Engineer_JR2026526419-2"
   }
  ],
- "count": 807,
- "updated_at": 1792848849
+ "count": 802,
+ "updated_at": 1792849366
 }
