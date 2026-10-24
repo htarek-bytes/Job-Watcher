@@ -1,83 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792579148,
-   "company": "Groupe Mario Coté",
-   "hours_open": 116.3,
-   "title": "Administrateur de réseau",
-   "uid": "jobillico:analyste reseau:17594211"
-  },
-  {
-   "closed_at": 1792579148,
-   "company": "Dexcom",
-   "hours_open": 107.3,
-   "title": "Software Development Engineer 1",
-   "uid": "simplify:listings:7b2a26dd-7916-4ee7-ba75-e35c445c25b0"
-  },
-  {
-   "closed_at": 1792579148,
-   "company": "marvell",
-   "hours_open": 506.1,
-   "title": "AI-Native Development Platform Engineer Intern, MS - Summer 2027",
-   "uid": "workday:marvell.wd1/MarvellCareers:AI-Native-Development-Platform-Engineer-Intern--MS---Summer-2027_2603848-1"
-  },
-  {
-   "closed_at": 1792579148,
-   "company": "twitch",
-   "hours_open": 1145.7,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1792579148,
-   "company": "mimecast",
-   "hours_open": 14.4,
-   "title": "Software Engineer I",
-   "uid": "workday:mimecast.wd5/Mimecast-Careers:Software-Engineer-I_R6829"
-  },
-  {
-   "closed_at": 1792579148,
-   "company": "spacex",
-   "hours_open": 1145.7,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1792579148,
-   "company": "spacex",
-   "hours_open": 1145.7,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1792585063,
-   "company": "ngc",
-   "hours_open": 207.0,
-   "title": "2027 Systems Engineer Intern - Chantilly VA",
-   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Software-Engineer-Intern---Chantilly-VA_R10255633"
-  },
-  {
-   "closed_at": 1792585063,
-   "company": "roche",
-   "hours_open": 129.8,
-   "title": "Junior Custom Software Developer - RDT Data Platforms",
-   "uid": "workday:roche.wd3/roche-ext:Junior-Custom-Software-Developer---RDT-Data-Platforms_202610-125284"
-  },
-  {
-   "closed_at": 1792585063,
-   "company": "pg",
-   "hours_open": 355.5,
-   "title": "IT Technical Specialist Industrial Placement 2027",
-   "uid": "workday:pg.wd5/1000:IT-Technical-Specialist-Industrial-Placement-2027_R000160302"
-  },
-  {
-   "closed_at": 1792585063,
-   "company": "nvidia",
-   "hours_open": 539.3,
-   "title": "Mixed Signal Design Engineer - New College Grad 2026",
-   "uid": "workday:nvidia.wd5/NVIDIAExternalCareerSite:Mixed-Signal-Design-Engineer---New-College-Grad-2026_JR2025693"
-  },
-  {
    "closed_at": 1792585063,
    "company": "twitch",
    "hours_open": 1144.4,
@@ -5599,8 +5522,85 @@
    "hours_open": 1212.2,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1792820715,
+   "company": "sierra",
+   "hours_open": 14.3,
+   "title": "High Growth Enterprise Sales Engineer",
+   "uid": "ashby:sierra:cd0dc156-ac95-469d-a738-a9e87ac1bb86"
+  },
+  {
+   "closed_at": 1792820715,
+   "company": "saronic",
+   "hours_open": 1209.7,
+   "title": "Manufacturing Systems Engineer ",
+   "uid": "ashby:saronic:cd6ce7c6-d0f4-4383-b34a-fe3cf4c93132"
+  },
+  {
+   "closed_at": 1792820715,
+   "company": "Source Code",
+   "hours_open": 240.3,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:systems analyst:50491950"
+  },
+  {
+   "closed_at": 1792820715,
+   "company": "GE Vernova",
+   "hours_open": 180.7,
+   "title": "Firmware Engineer – Early Career",
+   "uid": "simplify:listings:5db5ee71-523e-4e86-99ec-09801720c4ec"
+  },
+  {
+   "closed_at": 1792820715,
+   "company": "Boeing",
+   "hours_open": 30.4,
+   "title": "Entry Level Software Engineer-Developer - Development",
+   "uid": "simplify:listings:9c7fd5ef-e102-4131-9530-64b9f976d432"
+  },
+  {
+   "closed_at": 1792820715,
+   "company": "twitch",
+   "hours_open": 1212.8,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1792820715,
+   "company": "ADECCO",
+   "hours_open": 43.6,
+   "title": "instrumentation engineer",
+   "uid": "jobbank:scada:50553717"
+  },
+  {
+   "closed_at": 1792820715,
+   "company": "onebrief",
+   "hours_open": 1212.8,
+   "title": "Customer Success Engineer [Ft. Leavenworth] - Relocation Provided",
+   "uid": "ashby:onebrief:b18affed-f4d4-4a70-b12c-a977710f1fa2"
+  },
+  {
+   "closed_at": 1792820715,
+   "company": "spacex",
+   "hours_open": 1209.9,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1792820715,
+   "company": "spacex",
+   "hours_open": 1212.5,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1792820715,
+   "company": "spacex",
+   "hours_open": 1211.1,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
- "count": 813,
- "updated_at": 1792818439
+ "count": 811,
+ "updated_at": 1792820716
 }
