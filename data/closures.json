@@ -1,76 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792597212,
-   "company": "Media Resources",
-   "hours_open": 421.9,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50418314"
-  },
-  {
-   "closed_at": 1792597212,
-   "company": "twitch",
-   "hours_open": 1150.7,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1792597212,
-   "company": "rhoda-ai",
-   "hours_open": 331.9,
-   "title": "Robot Software Engineer",
-   "uid": "ashby:rhoda-ai:02a6ffea-7d21-4412-a5f1-cc3425f1af05"
-  },
-  {
-   "closed_at": 1792597212,
-   "company": "Capital One",
-   "hours_open": 1187.3,
-   "title": "Software Engineer New Grad - Software Engineer",
-   "uid": "simplify:listings:d03ac761-2dfa-4cd7-bd7c-797b6ff89c19"
-  },
-  {
-   "closed_at": 1792597212,
-   "company": "Blue Cross of Idaho",
-   "hours_open": 13.2,
-   "title": "AI Engineer 1",
-   "uid": "simplify:listings:95049413-d496-4bfa-9d12-e16f926251e5"
-  },
-  {
-   "closed_at": 1792597212,
-   "company": "RTX",
-   "hours_open": 16.4,
-   "title": "Software Engineer 1",
-   "uid": "simplify:listings:a7309900-70f4-42e4-a032-fd7570013f54"
-  },
-  {
-   "closed_at": 1792597212,
-   "company": "systemstechnologyresearch",
-   "hours_open": 1030.5,
-   "title": "Autonomy Algorithms Software Engineer",
-   "uid": "greenhouse:systemstechnologyresearch:4704680006"
-  },
-  {
-   "closed_at": 1792597212,
-   "company": "spacex",
-   "hours_open": 1150.7,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1792597212,
-   "company": "spacex",
-   "hours_open": 1149.0,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1792603179,
-   "company": "lyft",
-   "hours_open": 667.5,
-   "title": "Software Engineer, Driver Experience",
-   "uid": "greenhouse:lyft:8828273002"
-  },
-  {
    "closed_at": 1792603179,
    "company": "andurilindustries",
    "hours_open": 527.0,
@@ -5599,8 +5529,78 @@
    "hours_open": 1216.9,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1792841239,
+   "company": "Source Code",
+   "hours_open": 246.0,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:systems analyst:50491950"
+  },
+  {
+   "closed_at": 1792841239,
+   "company": "Alcoa Canada",
+   "hours_open": 1098.3,
+   "title": "Conseiller(ère) en cybersécurité (Amérique du Nord)",
+   "uid": "jobillico:analyste cybersecurite:17502948"
+  },
+  {
+   "closed_at": 1792841239,
+   "company": "SimpleK division de ASSA ABLOY High Security Group Inc.",
+   "hours_open": 37.4,
+   "title": "developer, software",
+   "uid": "jobbank:junior programmer:50410122"
+  },
+  {
+   "closed_at": 1792841239,
+   "company": "SM Informatique inc.",
+   "hours_open": 1094.9,
+   "title": "technicien informatique réseautique",
+   "uid": "jobillico:technicien informatique:12325078"
+  },
+  {
+   "closed_at": 1792841239,
+   "company": "twitch",
+   "hours_open": 1218.5,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1792841239,
+   "company": "DPMSYSTEMS IT CONSULTING SERVICES",
+   "hours_open": 870.5,
+   "title": "information systems analyst - computer systems",
+   "uid": "jobbank:systems analyst:50311291"
+  },
+  {
+   "closed_at": 1792841239,
+   "company": "Royal Alarms Limited",
+   "hours_open": 403.0,
+   "title": "telecommunications equipment technician",
+   "uid": "jobbank:telecommunications analyst:50268670"
+  },
+  {
+   "closed_at": 1792841239,
+   "company": "spacex",
+   "hours_open": 1215.6,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1792841239,
+   "company": "spacex",
+   "hours_open": 1218.2,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1792841239,
+   "company": "spacex",
+   "hours_open": 1216.8,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
- "count": 809,
- "updated_at": 1792835489
+ "count": 810,
+ "updated_at": 1792841240
 }
