@@ -2,62 +2,6 @@
  "closed": [
   {
    "closed_at": 1792611499,
-   "company": "justworks",
-   "hours_open": 20.4,
-   "title": "Software Engineer, Backend",
-   "uid": "greenhouse:justworks:8179714"
-  },
-  {
-   "closed_at": 1792611499,
-   "company": "HAFMAN CONSULTING GROUP INC.",
-   "hours_open": 316.8,
-   "title": "information systems quality assurance analyst",
-   "uid": "jobbank:systems analyst:50453138"
-  },
-  {
-   "closed_at": 1792611499,
-   "company": "Groupe Mario Coté",
-   "hours_open": 125.3,
-   "title": "Administrateur de réseau",
-   "uid": "jobillico:analyste reseau:17594211"
-  },
-  {
-   "closed_at": 1792611499,
-   "company": "Amazon",
-   "hours_open": 188.2,
-   "title": "Software Development Engineer, Amazon, APM Twitch",
-   "uid": "amazon:amazon:10578078"
-  },
-  {
-   "closed_at": 1792611499,
-   "company": "singlestore",
-   "hours_open": 720.9,
-   "title": "MIT-Software Engineer-New Grad |Helios|",
-   "uid": "greenhouse:singlestore:8220882"
-  },
-  {
-   "closed_at": 1792611499,
-   "company": "singlestore",
-   "hours_open": 720.9,
-   "title": "MIT-Software Engineer-New Grad |Engine|",
-   "uid": "greenhouse:singlestore:8220863"
-  },
-  {
-   "closed_at": 1792611499,
-   "company": "singlestore",
-   "hours_open": 720.9,
-   "title": "MIT- Software Engineer Intern | Engine",
-   "uid": "greenhouse:singlestore:8220919"
-  },
-  {
-   "closed_at": 1792611499,
-   "company": "singlestore",
-   "hours_open": 720.9,
-   "title": "MIT- Software Engineer Intern | Helios",
-   "uid": "greenhouse:singlestore:8220941"
-  },
-  {
-   "closed_at": 1792611499,
    "company": "singlestore",
    "hours_open": 730.4,
    "title": "Software Engineer Intern- Engine-2027",
@@ -5599,8 +5543,64 @@
    "hours_open": 1220.1,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1792853703,
+   "company": "Citylitics",
+   "hours_open": 33.6,
+   "title": "data engineer",
+   "uid": "jobbank:infrastructure analyst:50564033"
+  },
+  {
+   "closed_at": 1792853703,
+   "company": "iberdrola",
+   "hours_open": 261.7,
+   "title": "Associate Engineer - Protection & Control",
+   "uid": "workday:iberdrola.wd3/iberdrola:Associate-Engineer---Protection---Control_R-34072"
+  },
+  {
+   "closed_at": 1792853703,
+   "company": "hpe",
+   "hours_open": 163.6,
+   "title": "Technical Sales Graduate",
+   "uid": "workday:hpe.wd5/jobsathpe:Technical-Sales-Graduate_1213591-1"
+  },
+  {
+   "closed_at": 1792853703,
+   "company": "hp",
+   "hours_open": 32.1,
+   "title": "Presales Solution Engineer - Edge AI",
+   "uid": "workday:hp.wd5/EXTEU-AC-CareerSite:Presales-Solution-Engineer---Edge-AI_3169909"
+  },
+  {
+   "closed_at": 1792853703,
+   "company": "twitch",
+   "hours_open": 1219.0,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1792853703,
+   "company": "spacex",
+   "hours_open": 1219.0,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1792853703,
+   "company": "spacex",
+   "hours_open": 1221.7,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1792853703,
+   "company": "spacex",
+   "hours_open": 1222.0,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 807,
- "updated_at": 1792853063
+ "count": 808,
+ "updated_at": 1792853703
 }
