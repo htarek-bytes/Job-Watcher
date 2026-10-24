@@ -2,41 +2,6 @@
  "closed": [
   {
    "closed_at": 1792622820,
-   "company": "bcidaho",
-   "hours_open": 15.3,
-   "title": "AI Engineer I",
-   "uid": "workday:bcidaho.wd5/BCI:AI-Engineer-I_R3397"
-  },
-  {
-   "closed_at": 1792622820,
-   "company": "twitch",
-   "hours_open": 1157.8,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1792622820,
-   "company": "Maarut",
-   "hours_open": 56.9,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50517559"
-  },
-  {
-   "closed_at": 1792622820,
-   "company": "Brahman Techworks",
-   "hours_open": 342.4,
-   "title": "telecommunications technician",
-   "uid": "jobbank:telecommunications analyst:49780105"
-  },
-  {
-   "closed_at": 1792622820,
-   "company": "bah",
-   "hours_open": 1034.4,
-   "title": "University - Systems Engineer Intern",
-   "uid": "workday:bah.wd1/Confidential:University---Systems-Engineer-Intern_R0248855"
-  },
-  {
-   "closed_at": 1792622820,
    "company": "bah",
    "hours_open": 1034.4,
    "title": "University, Applied AI Software Development Intern",
@@ -5599,8 +5564,43 @@
    "hours_open": 40.5,
    "title": "data engineer",
    "uid": "jobbank:infrastructure analyst:50564033"
+  },
+  {
+   "closed_at": 1792879049,
+   "company": "Confédération des syndicats nationaux",
+   "hours_open": 40.3,
+   "title": "Administratrice ou administrateur réseau",
+   "uid": "jobillico:analyste reseau:17619549"
+  },
+  {
+   "closed_at": 1792879049,
+   "company": "twitch",
+   "hours_open": 1229.0,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1792879049,
+   "company": "reddit",
+   "hours_open": 190.2,
+   "title": "Machine Learning Engineer",
+   "uid": "greenhouse:reddit:7131932"
+  },
+  {
+   "closed_at": 1792879049,
+   "company": "spacex",
+   "hours_open": 1229.0,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1792879049,
+   "company": "spacex",
+   "hours_open": 1227.3,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
- "count": 801,
- "updated_at": 1792878417
+ "count": 805,
+ "updated_at": 1792879049
 }
