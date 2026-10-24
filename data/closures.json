@@ -2,13 +2,6 @@
  "closed": [
   {
    "closed_at": 1792622820,
-   "company": "avnet",
-   "hours_open": 866.5,
-   "title": "Technical Sales Engineer - AMD/Xilinx",
-   "uid": "workday:avnet.wd1/external:Technical-Sales-Engineer---AMD-Xilinx_JR-022673-1"
-  },
-  {
-   "closed_at": 1792622820,
    "company": "SingleStore",
    "hours_open": 717.8,
    "title": "Software Engineer New Grad - Helios",
@@ -5599,8 +5592,15 @@
    "hours_open": 61.7,
    "title": "information technology (IT) analyst",
    "uid": "jobbank:control systems analyst:50553479"
+  },
+  {
+   "closed_at": 1792873832,
+   "company": "Atimi",
+   "hours_open": 8.6,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50571580"
   }
  ],
- "count": 803,
- "updated_at": 1792871174
+ "count": 801,
+ "updated_at": 1792873833
 }
