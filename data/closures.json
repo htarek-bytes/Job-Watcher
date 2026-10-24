@@ -2,48 +2,6 @@
  "closed": [
   {
    "closed_at": 1792603179,
-   "company": "andurilindustries",
-   "hours_open": 527.0,
-   "title": "Systems Engineer, Strategic Defense",
-   "uid": "greenhouse:andurilindustries:5252183007"
-  },
-  {
-   "closed_at": 1792603179,
-   "company": "Groupe Voyages Québec",
-   "hours_open": 167.3,
-   "title": "Technicien en informatique",
-   "uid": "jobillico:technicien informatique:17615319"
-  },
-  {
-   "closed_at": 1792603179,
-   "company": "Amazon",
-   "hours_open": 120.3,
-   "title": "Software Development Engineer, AWS Quick Business Intelligence ",
-   "uid": "amazon:amazon:10581476"
-  },
-  {
-   "closed_at": 1792603179,
-   "company": "Amazon",
-   "hours_open": 117.4,
-   "title": "Software Development Engineer, Network Monitoring and Remediation (NMR) ",
-   "uid": "amazon:amazon:10581627"
-  },
-  {
-   "closed_at": 1792603179,
-   "company": "asteraearlycareer2027",
-   "hours_open": 354.2,
-   "title": "Product Applications Engineer Intern (Signal and Connectivity)",
-   "uid": "greenhouse:asteraearlycareer2027:4721817005"
-  },
-  {
-   "closed_at": 1792603179,
-   "company": "appnovation",
-   "hours_open": 1035.4,
-   "title": "AI Solution Engineer",
-   "uid": "greenhouse:appnovation:8785809002"
-  },
-  {
-   "closed_at": 1792603179,
    "company": "twitch",
    "hours_open": 1149.4,
    "title": "Software Development Engineer, Security Platform",
@@ -5599,8 +5557,50 @@
    "hours_open": 1216.8,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1792841826,
+   "company": "ServiceNow",
+   "hours_open": 13.0,
+   "title": "Associate Software Engineer",
+   "uid": "simplify:listings:8f92f713-831e-414a-9cc3-067cf3b3ba4f"
+  },
+  {
+   "closed_at": 1792841826,
+   "company": "twitch",
+   "hours_open": 1215.7,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1792841826,
+   "company": "Lakeland Roman Catholic Separate School Division",
+   "hours_open": 1098.5,
+   "title": "computer systems analyst",
+   "uid": "jobbank:systems analyst:50064831"
+  },
+  {
+   "closed_at": 1792841826,
+   "company": "spacex",
+   "hours_open": 1218.7,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1792841826,
+   "company": "spacex",
+   "hours_open": 1218.7,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1792841826,
+   "company": "spacex",
+   "hours_open": 1218.7,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 810,
- "updated_at": 1792841240
+ "count": 806,
+ "updated_at": 1792841826
 }
