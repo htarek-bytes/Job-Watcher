@@ -2,13 +2,6 @@
  "closed": [
   {
    "closed_at": 1792588171,
-   "company": "shi",
-   "hours_open": 259.3,
-   "title": "Solutions Engineer - Enterprise",
-   "uid": "workday:shi.wd12/shicareers:Solutions-Engineer---Enterprise_JR2785"
-  },
-  {
-   "closed_at": 1792588171,
    "company": "General Dynamics Produits de défense et Systèmes Tactiques",
    "hours_open": 26.9,
    "title": "Administrateur Réseau TI",
@@ -5599,8 +5592,15 @@
    "hours_open": 1213.5,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1792823679,
+   "company": "Source Code",
+   "hours_open": 48.5,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:control systems analyst:50553479"
   }
  ],
- "count": 809,
- "updated_at": 1792823335
+ "count": 801,
+ "updated_at": 1792823680
 }
