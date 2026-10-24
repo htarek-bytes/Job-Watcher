@@ -2,13 +2,6 @@
  "closed": [
   {
    "closed_at": 1792569452,
-   "company": "eversource",
-   "hours_open": 655.5,
-   "title": "Associate Engineer Grid Operations Technology (Hybrid)",
-   "uid": "workday:eversource.wd1/ExternalSite:Associate-Engineer-Grid-Operations-Technology--Hybrid-_R-031666"
-  },
-  {
-   "closed_at": 1792569452,
    "company": "danaher",
    "hours_open": 30.3,
    "title": "Solutions Consultant",
@@ -5599,8 +5592,15 @@
    "hours_open": 1208.8,
    "title": "Telecommunications Engineer",
    "uid": "greenhouse:spacex:8632953002"
+  },
+  {
+   "closed_at": 1792806841,
+   "company": "claylabs",
+   "hours_open": 516.7,
+   "title": "Web Developer (Growth & Conversion Optimization)",
+   "uid": "ashby:claylabs:b17bd432-72e4-4f03-b8db-2fd677c2cfe8"
   }
  ],
- "count": 807,
- "updated_at": 1792806314
+ "count": 801,
+ "updated_at": 1792806842
 }
