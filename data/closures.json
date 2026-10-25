@@ -1,20 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792699610,
-   "company": "DPMSYSTEMS IT CONSULTING SERVICES",
-   "hours_open": 182.6,
-   "title": "information systems analyst - computer systems",
-   "uid": "jobbank:information systems analyst:50311291"
-  },
-  {
-   "closed_at": 1792701828,
-   "company": "snc",
-   "hours_open": 18.9,
-   "title": "Aerodynamics Engineer Intern - Summer 2027",
-   "uid": "workday:snc.wd1/snc_external_career_site:Aerodynamics-Engineer-Intern---Summer-2027_R0031131"
-  },
-  {
    "closed_at": 1792701828,
    "company": "snc",
    "hours_open": 47.6,
@@ -5599,8 +5585,22 @@
    "hours_open": 1250.1,
    "title": "Security Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1792965793,
+   "company": "Stellar Software Solutions",
+   "hours_open": 384.8,
+   "title": "network infrastructure engineer",
+   "uid": "jobbank:specialiste infrastructure:50462911"
+  },
+  {
+   "closed_at": 1792965793,
+   "company": "Alcoa Canada",
+   "hours_open": 1132.9,
+   "title": "Conseiller(ère) en cybersécurité (Amérique du Nord)",
+   "uid": "jobillico:analyste cybersecurite:17502948"
   }
  ],
- "count": 806,
- "updated_at": 1792965491
+ "count": 802,
+ "updated_at": 1792965793
 }
