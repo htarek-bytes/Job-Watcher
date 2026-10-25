@@ -2,27 +2,6 @@
  "closed": [
   {
    "closed_at": 1792682083,
-   "company": "Groupe DCM",
-   "hours_open": 826.3,
-   "title": "Programmeur CNC / CNC Programmer",
-   "uid": "jobillico:programmeur junior:17534679"
-  },
-  {
-   "closed_at": 1792682083,
-   "company": "HAFMAN CONSULTING GROUP INC.",
-   "hours_open": 336.4,
-   "title": "information systems quality assurance analyst",
-   "uid": "jobbank:systems analyst:50453138"
-  },
-  {
-   "closed_at": 1792682083,
-   "company": "cssmerge",
-   "hours_open": 209.4,
-   "title": "Software Engineer Intern - Winter 2027",
-   "uid": "greenhouse:cssmerge:8687915002"
-  },
-  {
-   "closed_at": 1792682083,
    "company": "DPMSYSTEMS IT CONSULTING SERVICES",
    "hours_open": 177.7,
    "title": "information systems analyst - computer systems",
@@ -5599,8 +5578,29 @@
    "hours_open": 246.9,
    "title": "information systems analyst - computer systems",
    "uid": "jobbank:information systems analyst:50311291"
+  },
+  {
+   "closed_at": 1792931566,
+   "company": "Source Code",
+   "hours_open": 271.0,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:systems analyst:50491950"
+  },
+  {
+   "closed_at": 1792931566,
+   "company": "Stellar Software Solutions",
+   "hours_open": 365.8,
+   "title": "network infrastructure engineer",
+   "uid": "jobbank:infrastructure analyst:50462911"
+  },
+  {
+   "closed_at": 1792931566,
+   "company": "DPMSYSTEMS IT CONSULTING SERVICES",
+   "hours_open": 895.6,
+   "title": "information systems analyst - computer systems",
+   "uid": "jobbank:systems analyst:50311291"
   }
  ],
  "count": 803,
- "updated_at": 1792931296
+ "updated_at": 1792931567
 }
