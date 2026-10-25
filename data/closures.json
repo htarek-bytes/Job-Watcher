@@ -1,62 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792682083,
-   "company": "DPMSYSTEMS IT CONSULTING SERVICES",
-   "hours_open": 177.7,
-   "title": "information systems analyst - computer systems",
-   "uid": "jobbank:information systems analyst:50311291"
-  },
-  {
-   "closed_at": 1792682083,
-   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
-   "hours_open": 53.0,
-   "title": "Administrateur Réseau TI",
-   "uid": "jobillico:analyste reseau:17628663"
-  },
-  {
-   "closed_at": 1792682083,
-   "company": "Amazon",
-   "hours_open": 306.0,
-   "title": "Software Development Engineer, Amazon Leo Live",
-   "uid": "amazon:amazon:10575136"
-  },
-  {
-   "closed_at": 1792685177,
-   "company": "Logesco Informatique",
-   "hours_open": 1055.0,
-   "title": "Administrateur de réseau",
-   "uid": "jobillico:analyste reseau:17188132"
-  },
-  {
-   "closed_at": 1792685177,
-   "company": "avav",
-   "hours_open": 17.3,
-   "title": "Summer 2027 Software Engineering Intern",
-   "uid": "workday:avav.wd1/avav:Summer-2027-Software-Engineering-Intern_8550"
-  },
-  {
-   "closed_at": 1792685177,
-   "company": "avnet",
-   "hours_open": 673.7,
-   "title": "Technical Sales Engineer - AMD/Xilinx",
-   "uid": "workday:avnet.wd1/external:Technical-Sales-Engineer_JR-022739"
-  },
-  {
-   "closed_at": 1792685177,
-   "company": "bah",
-   "hours_open": 350.8,
-   "title": "AI Software Developer, Junior",
-   "uid": "workday:bah.wd1/Confidential:AI-Software-Developer--Junior_R0251196"
-  },
-  {
-   "closed_at": 1792685177,
-   "company": "Amazon",
-   "hours_open": 47.1,
-   "title": "Software Development Engineer, Customer Experience and Business Trends",
-   "uid": "amazon:amazon:10576474"
-  },
-  {
    "closed_at": 1792685177,
    "company": "gopuff",
    "hours_open": 1008.6,
@@ -5599,8 +5543,64 @@
    "hours_open": 895.6,
    "title": "information systems analyst - computer systems",
    "uid": "jobbank:systems analyst:50311291"
+  },
+  {
+   "closed_at": 1792935752,
+   "company": "Groupe DCM",
+   "hours_open": 890.6,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534670"
+  },
+  {
+   "closed_at": 1792935752,
+   "company": "Source Code",
+   "hours_open": 65.6,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:systems analyst:50553479"
+  },
+  {
+   "closed_at": 1792935752,
+   "company": "twitch",
+   "hours_open": 1244.7,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1792935752,
+   "company": "reddit",
+   "hours_open": 205.9,
+   "title": "Machine Learning Engineer",
+   "uid": "greenhouse:reddit:7131932"
+  },
+  {
+   "closed_at": 1792935752,
+   "company": "DPMSYSTEMS IT CONSULTING SERVICES",
+   "hours_open": 248.1,
+   "title": "information systems analyst - computer systems",
+   "uid": "jobbank:information systems analyst:50311291"
+  },
+  {
+   "closed_at": 1792935752,
+   "company": "adobe",
+   "hours_open": 133.1,
+   "title": "2027 Intern- Software Engineer",
+   "uid": "workday:adobe.wd5/external_experienced:XMLNAME-2027-Intern--Software-Engineer_R173015"
+  },
+  {
+   "closed_at": 1792935752,
+   "company": "spacex",
+   "hours_open": 1244.7,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1792935752,
+   "company": "spacex",
+   "hours_open": 1243.1,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
- "count": 803,
- "updated_at": 1792931567
+ "count": 808,
+ "updated_at": 1792935752
 }
