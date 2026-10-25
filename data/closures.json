@@ -1,69 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792685177,
-   "company": "gopuff",
-   "hours_open": 1008.6,
-   "title": "Analytics Engineer",
-   "uid": "lever:gopuff:bfa7bc15-793e-486c-a3f5-b27d84c53025"
-  },
-  {
-   "closed_at": 1792685177,
-   "company": "shifttechnology",
-   "hours_open": 1146.7,
-   "title": "Applied Data Scientist / Engineer  (Toronto-Hybrid)",
-   "uid": "greenhouse:shifttechnology:7987030003"
-  },
-  {
-   "closed_at": 1792685177,
-   "company": "avav",
-   "hours_open": 134.5,
-   "title": "Software Engineering Intern",
-   "uid": "workday:avav.wd1/avav:Software-Engineering-Intern_9094"
-  },
-  {
-   "closed_at": 1792685177,
-   "company": "spacex",
-   "hours_open": 1175.1,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1792685177,
-   "company": "spacex",
-   "hours_open": 1175.1,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1792438366,
-   "company": "Ciena",
-   "hours_open": 1143.2,
-   "title": "ASIC Synthesis and STA Engineer New Grad",
-   "uid": "simplify:listings:67918f68-ac64-470f-a00b-81c89c23d4d3"
-  },
-  {
-   "closed_at": 1792685293,
-   "company": "Source Code",
-   "hours_open": 202.6,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:systems analyst:50491950"
-  },
-  {
-   "closed_at": 1792685293,
-   "company": "avav",
-   "hours_open": 17.4,
-   "title": "Summer 2027 Software Engineering Intern",
-   "uid": "workday:avav.wd1/avav:Summer-2027-Software-Engineering-Intern_8550"
-  },
-  {
-   "closed_at": 1792685293,
-   "company": "avnet",
-   "hours_open": 673.7,
-   "title": "Technical Sales Engineer - AMD/Xilinx",
-   "uid": "workday:avnet.wd1/external:Technical-Sales-Engineer_JR-022739"
-  },
-  {
    "closed_at": 1792685293,
    "company": "bah",
    "hours_open": 350.9,
@@ -5599,8 +5536,71 @@
    "hours_open": 1243.1,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1792937714,
+   "company": "Source Code",
+   "hours_open": 272.8,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:systems analyst:50491950"
+  },
+  {
+   "closed_at": 1792937714,
+   "company": "TECHSAVY INC.",
+   "hours_open": 429.8,
+   "title": "telecommunications technician",
+   "uid": "jobbank:telecommunications analyst:50383753"
+  },
+  {
+   "closed_at": 1792937714,
+   "company": "bmo",
+   "hours_open": 397.9,
+   "title": "Software Developer ( Early Career )-15",
+   "uid": "workday:bmo.wd3/Campus:Software-Developer---Early-Career---15_R260021450-1"
+  },
+  {
+   "closed_at": 1792937714,
+   "company": "twitch",
+   "hours_open": 1242.4,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1792937714,
+   "company": "reddit",
+   "hours_open": 235.3,
+   "title": "Machine Learning Engineer",
+   "uid": "greenhouse:reddit:7131934"
+  },
+  {
+   "closed_at": 1792937714,
+   "company": "DPMSYSTEMS IT CONSULTING SERVICES",
+   "hours_open": 897.3,
+   "title": "information systems analyst - computer systems",
+   "uid": "jobbank:systems analyst:50311291"
+  },
+  {
+   "closed_at": 1792937714,
+   "company": "boeing",
+   "hours_open": 397.9,
+   "title": "Associate Software Engineer",
+   "uid": "workday:boeing.wd1/EXTERNAL_CAREERS:Associate-Software-Engineer_JR2026522010-1"
+  },
+  {
+   "closed_at": 1792937714,
+   "company": "spacex",
+   "hours_open": 1245.0,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1792937714,
+   "company": "spacex",
+   "hours_open": 1245.3,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 808,
- "updated_at": 1792935752
+ "count": 809,
+ "updated_at": 1792937715
 }
