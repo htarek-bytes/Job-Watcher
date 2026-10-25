@@ -2,20 +2,6 @@
  "closed": [
   {
    "closed_at": 1792680203,
-   "company": "HAFMAN CONSULTING GROUP INC.",
-   "hours_open": 336.0,
-   "title": "information systems quality assurance analyst",
-   "uid": "jobbank:information systems analyst:50453138"
-  },
-  {
-   "closed_at": 1792680203,
-   "company": "Future Electronics",
-   "hours_open": 481.6,
-   "title": "Java programmer",
-   "uid": "jobbank:junior programmer:50409321"
-  },
-  {
-   "closed_at": 1792680203,
    "company": "miovision",
    "hours_open": 1005.3,
    "title": "Software Developer, Device Platform",
@@ -5599,8 +5585,22 @@
    "hours_open": 73.0,
    "title": "information technology (IT) analyst",
    "uid": "jobbank:control systems analyst:50553479"
+  },
+  {
+   "closed_at": 1792919267,
+   "company": "Source Code",
+   "hours_open": 61.1,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:systems analyst:50553479"
+  },
+  {
+   "closed_at": 1792919267,
+   "company": "DPMSYSTEMS IT CONSULTING SERVICES",
+   "hours_open": 243.6,
+   "title": "information systems analyst - computer systems",
+   "uid": "jobbank:information systems analyst:50311291"
   }
  ],
- "count": 801,
- "updated_at": 1792911711
+ "count": 802,
+ "updated_at": 1792919268
 }
