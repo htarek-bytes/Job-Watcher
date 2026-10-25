@@ -1,48 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792699473,
-   "company": "DPMSYSTEMS IT CONSULTING SERVICES",
-   "hours_open": 831.1,
-   "title": "information systems analyst - computer systems",
-   "uid": "jobbank:systems analyst:50311291"
-  },
-  {
-   "closed_at": 1792699473,
-   "company": "spacex",
-   "hours_open": 1176.2,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1792699473,
-   "company": "spacex",
-   "hours_open": 1179.1,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1792699610,
-   "company": "salesforce",
-   "hours_open": 143.2,
-   "title": "Account Solution Engineer - Federal Civilian",
-   "uid": "workday:salesforce.wd12/External_Career_Site:Account-Solution-Engineer---Federal-Civilian_JR363499-1"
-  },
-  {
-   "closed_at": 1792699610,
-   "company": "pae",
-   "hours_open": 999.1,
-   "title": "Entry Level Software Engineer",
-   "uid": "workday:pae.wd1/amentum_careers:Entry-Level-Software-Engineer_R0148259"
-  },
-  {
-   "closed_at": 1792699610,
-   "company": "Source Code",
-   "hours_open": 0.0,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:systems analyst:50553479"
-  },
-  {
    "closed_at": 1792699610,
    "company": "DPMSYSTEMS IT CONSULTING SERVICES",
    "hours_open": 182.6,
@@ -5599,8 +5557,50 @@
    "hours_open": 1252.2,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1792965490,
+   "company": "Source Code",
+   "hours_open": 280.5,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:systems analyst:50491950"
+  },
+  {
+   "closed_at": 1792965490,
+   "company": "twitch",
+   "hours_open": 1253.0,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1792965490,
+   "company": "reddit",
+   "hours_open": 214.2,
+   "title": "Machine Learning Engineer",
+   "uid": "greenhouse:reddit:7131932"
+  },
+  {
+   "closed_at": 1792965490,
+   "company": "Source Code",
+   "hours_open": 3.6,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50577212"
+  },
+  {
+   "closed_at": 1792965490,
+   "company": "DPMSYSTEMS IT CONSULTING SERVICES",
+   "hours_open": 905.0,
+   "title": "information systems analyst - computer systems",
+   "uid": "jobbank:systems analyst:50311291"
+  },
+  {
+   "closed_at": 1792965490,
+   "company": "spacex",
+   "hours_open": 1250.1,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
   }
  ],
- "count": 800,
- "updated_at": 1792965311
+ "count": 806,
+ "updated_at": 1792965491
 }
