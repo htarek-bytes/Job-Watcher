@@ -1,69 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792695217,
-   "company": "Amazon",
-   "hours_open": 51.7,
-   "title": "Software Development Engineer",
-   "uid": "amazon:amazon:10583973"
-  },
-  {
-   "closed_at": 1792695217,
-   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
-   "hours_open": 56.7,
-   "title": "Administrateur Réseau TI",
-   "uid": "jobillico:analyste reseau:17628663"
-  },
-  {
-   "closed_at": 1792695217,
-   "company": "freedomconsulting",
-   "hours_open": 317.4,
-   "title": "Junior Software Engineer 780",
-   "uid": "greenhouse:freedomconsulting:5248064007"
-  },
-  {
-   "closed_at": 1792695217,
-   "company": "spacex",
-   "hours_open": 1177.9,
-   "title": "Hardware Development Engineer, PCBA Manufacturing (Starlink)",
-   "uid": "greenhouse:spacex:8755479002"
-  },
-  {
-   "closed_at": 1792695217,
-   "company": "spacex",
-   "hours_open": 1177.9,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1792695217,
-   "company": "spacex",
-   "hours_open": 1177.9,
-   "title": "Hardware Development Engineer, PCBA (STARLINK)",
-   "uid": "greenhouse:spacex:8702819002"
-  },
-  {
-   "closed_at": 1792695217,
-   "company": "Amazon",
-   "hours_open": 311.9,
-   "title": "Software Development Engineer, VirtSat Team",
-   "uid": "amazon:amazon:10575014"
-  },
-  {
-   "closed_at": 1792696578,
-   "company": "jabil",
-   "hours_open": 19.1,
-   "title": "IT Engineer I",
-   "uid": "workday:jabil.wd5/Jabil_Careers:IT-Engineer-I_J2465680"
-  },
-  {
-   "closed_at": 1792696578,
-   "company": "hp",
-   "hours_open": 19.1,
-   "title": "Software Quality Assurance Engineer 1",
-   "uid": "workday:hp.wd5/EXTEU-AC-CareerSite:Software-Quality-Assurance-Engineer-1_3169763"
-  },
-  {
    "closed_at": 1792696578,
    "company": "Source Code",
    "hours_open": 13.2,
@@ -5599,8 +5536,71 @@
    "hours_open": 84.9,
    "title": "software developer",
    "uid": "jobbank:junior software developer:50553328"
+  },
+  {
+   "closed_at": 1792952697,
+   "company": "Groupe DCM",
+   "hours_open": 901.5,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534679"
+  },
+  {
+   "closed_at": 1792952697,
+   "company": "Source Code",
+   "hours_open": 70.3,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:systems analyst:50553479"
+  },
+  {
+   "closed_at": 1792952697,
+   "company": "trimble",
+   "hours_open": 1131.3,
+   "title": "Software Engineering Intern",
+   "uid": "workday:trimble.wd1/TrimbleCareers:Software-Engineering-Intern_R57676"
+  },
+  {
+   "closed_at": 1792952697,
+   "company": "twitch",
+   "hours_open": 1246.5,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1792952697,
+   "company": "reddit",
+   "hours_open": 239.5,
+   "title": "Machine Learning Engineer",
+   "uid": "greenhouse:reddit:7131934"
+  },
+  {
+   "closed_at": 1792952697,
+   "company": "Source Code",
+   "hours_open": 0.7,
+   "title": "software developer",
+   "uid": "jobbank:entry level software developer:50577212"
+  },
+  {
+   "closed_at": 1792952697,
+   "company": "DPMSYSTEMS IT CONSULTING SERVICES",
+   "hours_open": 252.9,
+   "title": "information systems analyst - computer systems",
+   "uid": "jobbank:information systems analyst:50311291"
+  },
+  {
+   "closed_at": 1792952697,
+   "company": "spacex",
+   "hours_open": 1249.5,
+   "title": "Avionics System Engineer, HITL (Starfall)",
+   "uid": "greenhouse:spacex:8748882002"
+  },
+  {
+   "closed_at": 1792952697,
+   "company": "spacex",
+   "hours_open": 1249.2,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
   }
  ],
- "count": 803,
- "updated_at": 1792950146
+ "count": 809,
+ "updated_at": 1792952697
 }
