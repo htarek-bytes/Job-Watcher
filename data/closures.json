@@ -2,20 +2,6 @@
  "closed": [
   {
    "closed_at": 1792625972,
-   "company": "globalfoundries",
-   "hours_open": 1180.1,
-   "title": "SoC Design Verification Engineer (2026 New College Graduate)",
-   "uid": "workday:globalfoundries.wd1/External:SoC-Design-Verification-Engineer--2026-New-College-Graduate-_JR-2601515"
-  },
-  {
-   "closed_at": 1792625972,
-   "company": "draftkings",
-   "hours_open": 1021.7,
-   "title": "Software Engineer Intern (Summer 2027)",
-   "uid": "workday:draftkings.wd1/Campus_Career_Portal:Software-Engineer-Intern--Summer-2027-_JR14929"
-  },
-  {
-   "closed_at": 1792625972,
    "company": "RTX",
    "hours_open": 54.6,
    "title": "Software Engineer/Developer 1",
@@ -5599,8 +5585,22 @@
    "hours_open": 1232.2,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1792892946,
+   "company": "Citylitics",
+   "hours_open": 44.5,
+   "title": "data engineer",
+   "uid": "jobbank:infrastructure analyst:50564033"
+  },
+  {
+   "closed_at": 1792892946,
+   "company": "TECHSAVY INC.",
+   "hours_open": 417.4,
+   "title": "telecommunications technician",
+   "uid": "jobbank:telecommunications analyst:50383753"
   }
  ],
- "count": 800,
- "updated_at": 1792892736
+ "count": 802,
+ "updated_at": 1792892946
 }
