@@ -2,20 +2,6 @@
  "closed": [
   {
    "closed_at": 1792699473,
-   "company": "mmc",
-   "hours_open": 474.7,
-   "title": "Junior Full-Stack Engineer, Generative AI @ Marsh Tech",
-   "uid": "workday:mmc.wd1/MMC:Junior-Full-Stack-Engineer--Generative-AI---Marsh-Tech_R_367686"
-  },
-  {
-   "closed_at": 1792699473,
-   "company": "ngc",
-   "hours_open": 19.8,
-   "title": "2027 Software Engineering Intern - Roy UT",
-   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10257053"
-  },
-  {
-   "closed_at": 1792699473,
    "company": "knak",
    "hours_open": 653.3,
    "title": "Full Stack Developer ",
@@ -5599,8 +5585,22 @@
    "hours_open": 902.4,
    "title": "information systems analyst - computer systems",
    "uid": "jobbank:systems analyst:50311291"
+  },
+  {
+   "closed_at": 1792956109,
+   "company": "Stellar Software Solutions",
+   "hours_open": 382.1,
+   "title": "network infrastructure engineer",
+   "uid": "jobbank:specialiste infrastructure:50462911"
+  },
+  {
+   "closed_at": 1792956109,
+   "company": "Alcoa Canada",
+   "hours_open": 1130.2,
+   "title": "Conseiller(ère) en cybersécurité (Amérique du Nord)",
+   "uid": "jobillico:analyste cybersecurite:17502948"
   }
  ],
- "count": 804,
- "updated_at": 1792955941
+ "count": 802,
+ "updated_at": 1792956110
 }
