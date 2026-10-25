@@ -1,34 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792669504,
-   "company": "Groupe Mario Coté",
-   "hours_open": 141.4,
-   "title": "Administrateur de réseau",
-   "uid": "jobillico:analyste reseau:17594211"
-  },
-  {
-   "closed_at": 1792669504,
-   "company": "twitch",
-   "hours_open": 1167.8,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1792669504,
-   "company": "systemstechnologyresearch",
-   "hours_open": 1163.8,
-   "title": "Autonomy Algorithms Software Engineer",
-   "uid": "greenhouse:systemstechnologyresearch:4704682006"
-  },
-  {
-   "closed_at": 1792669504,
-   "company": "spacex",
-   "hours_open": 1170.8,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
    "closed_at": 1792671998,
    "company": "Source Code",
    "hours_open": 6.4,
@@ -5599,8 +5571,36 @@
    "hours_open": 419.7,
    "title": "telecommunications technician",
    "uid": "jobbank:telecommunications analyst:49818659"
+  },
+  {
+   "closed_at": 1792905526,
+   "company": "twitch",
+   "hours_open": 1236.4,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1792905526,
+   "company": "reddit",
+   "hours_open": 197.5,
+   "title": "Machine Learning Engineer",
+   "uid": "greenhouse:reddit:7131932"
+  },
+  {
+   "closed_at": 1792905526,
+   "company": "spacex",
+   "hours_open": 1236.4,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1792905526,
+   "company": "spacex",
+   "hours_open": 1234.7,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
- "count": 951,
- "updated_at": 1792901379
+ "count": 804,
+ "updated_at": 1792905526
 }
