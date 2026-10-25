@@ -2,48 +2,6 @@
  "closed": [
   {
    "closed_at": 1792706473,
-   "company": "torcrobotics",
-   "hours_open": 1174.1,
-   "title": "ML Engineer, I - MLOps Framework",
-   "uid": "greenhouse:torcrobotics:8728723002"
-  },
-  {
-   "closed_at": 1792706473,
-   "company": "cerebras",
-   "hours_open": 1181.1,
-   "title": "Full Stack Engineer - Console Team",
-   "uid": "ashby:cerebras:79eec4ee-8c02-407a-899c-3848f7c2a8b8"
-  },
-  {
-   "closed_at": 1792706473,
-   "company": "Amerisure",
-   "hours_open": 1217.7,
-   "title": "Software Engineer 1",
-   "uid": "simplify:listings:2d167d8e-a034-4b6d-a578-d0806e341bbd"
-  },
-  {
-   "closed_at": 1792706473,
-   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
-   "hours_open": 59.8,
-   "title": "Administrateur Réseau TI",
-   "uid": "jobillico:analyste reseau:17628663"
-  },
-  {
-   "closed_at": 1792706473,
-   "company": "spacex",
-   "hours_open": 891.0,
-   "title": "Construction Project Engineer (MEP)",
-   "uid": "greenhouse:spacex:8811665002"
-  },
-  {
-   "closed_at": 1792706473,
-   "company": "spacex",
-   "hours_open": 1181.1,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1792706473,
    "company": "scoutai",
    "hours_open": 1174.1,
    "title": "Mission Operator - Flight Test Engineer",
@@ -5599,8 +5557,50 @@
    "hours_open": 4.9,
    "title": "software developer",
    "uid": "jobbank:junior software developer:50577212"
+  },
+  {
+   "closed_at": 1792972052,
+   "company": "Citylitics",
+   "hours_open": 66.5,
+   "title": "data engineer",
+   "uid": "jobbank:infrastructure analyst:50564033"
+  },
+  {
+   "closed_at": 1792972052,
+   "company": "CGI",
+   "hours_open": 1134.6,
+   "title": "Conseiller(ère) en gouvernance de la cybersécurité",
+   "uid": "jobillico:analyste cybersecurite:17433756"
+  },
+  {
+   "closed_at": 1792972052,
+   "company": "twitch",
+   "hours_open": 1254.8,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1792972052,
+   "company": "reddit",
+   "hours_open": 216.0,
+   "title": "Machine Learning Engineer",
+   "uid": "greenhouse:reddit:7131932"
+  },
+  {
+   "closed_at": 1792972052,
+   "company": "Source Code",
+   "hours_open": 6.1,
+   "title": "software developer",
+   "uid": "jobbank:entry level software developer:50577212"
+  },
+  {
+   "closed_at": 1792972052,
+   "company": "spacex",
+   "hours_open": 1251.9,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
   }
  ],
- "count": 802,
- "updated_at": 1792970210
+ "count": 806,
+ "updated_at": 1792972052
 }
