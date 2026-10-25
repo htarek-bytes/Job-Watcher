@@ -2,34 +2,6 @@
  "closed": [
   {
    "closed_at": 1792690107,
-   "company": "CesiumAstro",
-   "hours_open": 666.0,
-   "title": "Embedded Software Engineer 1",
-   "uid": "simplify:listings:228de40c-38b3-44c3-8ac5-a7d93bc664d7"
-  },
-  {
-   "closed_at": 1792690107,
-   "company": "Amazon",
-   "hours_open": 44.5,
-   "title": "Software Development Engineer, Amazon Java Runtime",
-   "uid": "amazon:amazon:10584605"
-  },
-  {
-   "closed_at": 1792690107,
-   "company": "schonfeld",
-   "hours_open": 1056.3,
-   "title": "2027 Cybersecurity Operations Intern",
-   "uid": "greenhouse:schonfeld:8171696"
-  },
-  {
-   "closed_at": 1792690107,
-   "company": "Scientific Systems",
-   "hours_open": 128.2,
-   "title": "Autonomy Software Engineer 1",
-   "uid": "simplify:listings:1e71a3ad-b0cf-4e53-a601-f6e1b737e2a6"
-  },
-  {
-   "closed_at": 1792690107,
    "company": "spacex",
    "hours_open": 1173.6,
    "title": "Security Software Engineer (Starlink)",
@@ -5599,8 +5571,36 @@
    "hours_open": 1244.4,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1792946622,
+   "company": "SaskGaming",
+   "hours_open": 479.6,
+   "title": "service desk analyst",
+   "uid": "jobbank:infrastructure analyst:50426114"
+  },
+  {
+   "closed_at": 1792946622,
+   "company": "twitch",
+   "hours_open": 1244.8,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1792946622,
+   "company": "reddit",
+   "hours_open": 237.8,
+   "title": "Machine Learning Engineer",
+   "uid": "greenhouse:reddit:7131934"
+  },
+  {
+   "closed_at": 1792946622,
+   "company": "ebi",
+   "hours_open": 954.5,
+   "title": "Product Engineer Intern",
+   "uid": "workday:ebi.wd5/ebadcareers:Product-Engineer-Intern_REQ107697"
   }
  ],
- "count": 808,
- "updated_at": 1792940702
+ "count": 804,
+ "updated_at": 1792946622
 }
