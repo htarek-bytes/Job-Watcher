@@ -2,55 +2,6 @@
  "closed": [
   {
    "closed_at": 1792699473,
-   "company": "Source Code",
-   "hours_open": 206.6,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:systems analyst:50491950"
-  },
-  {
-   "closed_at": 1792699473,
-   "company": "Logesco Informatique",
-   "hours_open": 1058.9,
-   "title": "Administrateur de réseau",
-   "uid": "jobillico:analyste reseau:17188132"
-  },
-  {
-   "closed_at": 1792699473,
-   "company": "micron",
-   "hours_open": 308.9,
-   "title": "Intern - IT Software Engineer",
-   "uid": "workday:micron.wd1/External:Intern---IT-Software-Engineer_JR113941"
-  },
-  {
-   "closed_at": 1792699473,
-   "company": "micron",
-   "hours_open": 47.8,
-   "title": "Intern - SMAI Probe AI Engineer",
-   "uid": "workday:micron.wd1/External:Intern---SMAI-Probe-AI-Engineer_JR114094"
-  },
-  {
-   "closed_at": 1792699473,
-   "company": "databricks",
-   "hours_open": 979.9,
-   "title": "Scale Solution Engineer",
-   "uid": "greenhouse:databricks:8779023002"
-  },
-  {
-   "closed_at": 1792699473,
-   "company": "ramp",
-   "hours_open": 1053.2,
-   "title": "Software Engineer, Forward Deployed",
-   "uid": "ashby:ramp:9916e9da-7491-4c99-afd1-e4b8158fa58b"
-  },
-  {
-   "closed_at": 1792699473,
-   "company": "ramp",
-   "hours_open": 1179.1,
-   "title": "Software Engineer, Enterprise Product",
-   "uid": "ashby:ramp:deca582c-a1d0-4705-9975-60aed81ba89f"
-  },
-  {
-   "closed_at": 1792699473,
    "company": "DPMSYSTEMS IT CONSULTING SERVICES",
    "hours_open": 831.1,
    "title": "information systems analyst - computer systems",
@@ -5599,8 +5550,57 @@
    "hours_open": 382.8,
    "title": "network infrastructure engineer",
    "uid": "jobbank:specialiste infrastructure:50462911"
+  },
+  {
+   "closed_at": 1792962461,
+   "company": "Groupe DCM",
+   "hours_open": 904.2,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534679"
+  },
+  {
+   "closed_at": 1792962461,
+   "company": "CGI",
+   "hours_open": 1132.0,
+   "title": "Conseiller(ère) en gouvernance de la cybersécurité",
+   "uid": "jobillico:analyste cybersecurite:17433756"
+  },
+  {
+   "closed_at": 1792962461,
+   "company": "Stellar Software Solutions",
+   "hours_open": 374.3,
+   "title": "network infrastructure engineer",
+   "uid": "jobbank:infrastructure analyst:50462911"
+  },
+  {
+   "closed_at": 1792962461,
+   "company": "Source Code",
+   "hours_open": 3.4,
+   "title": "software developer",
+   "uid": "jobbank:entry level software developer:50577212"
+  },
+  {
+   "closed_at": 1792962461,
+   "company": "Source Code",
+   "hours_open": 87.1,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:control systems analyst:50553479"
+  },
+  {
+   "closed_at": 1792962461,
+   "company": "spacex",
+   "hours_open": 1252.2,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1792962461,
+   "company": "spacex",
+   "hours_open": 1252.2,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 801,
- "updated_at": 1792958497
+ "count": 807,
+ "updated_at": 1792962461
 }
