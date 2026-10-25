@@ -1,48 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792701828,
-   "company": "snc",
-   "hours_open": 47.6,
-   "title": "Flight Test Engineer Intern",
-   "uid": "workday:snc.wd1/snc_external_career_site:Flight-Test-Engineer-Intern_R0031069"
-  },
-  {
-   "closed_at": 1792701828,
-   "company": "tmobile",
-   "hours_open": 143.8,
-   "title": "Associate Engineer,  Software - Mobile App Development",
-   "uid": "workday:tmobile.wd1/External:Associate-Engineer---Software---Mobile-App-Development_REQ370392-1"
-  },
-  {
-   "closed_at": 1792701828,
-   "company": "coinbase",
-   "hours_open": 1179.8,
-   "title": "Software Engineer",
-   "uid": "greenhouse:coinbase:8003605"
-  },
-  {
-   "closed_at": 1792701828,
-   "company": "Pariveda Solutions",
-   "hours_open": 1216.4,
-   "title": "Entry Level Software Engineer",
-   "uid": "simplify:listings:1b2d5e3a-9ab3-42a9-ab25-8ade9c457825"
-  },
-  {
-   "closed_at": 1792701828,
-   "company": "shi",
-   "hours_open": 277.6,
-   "title": "Solutions Engineer - Enterprise",
-   "uid": "workday:shi.wd12/shicareers:Solutions-Engineer---Enterprise_JR3576"
-  },
-  {
-   "closed_at": 1792701828,
-   "company": "spacex",
-   "hours_open": 1179.8,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
    "closed_at": 1792706473,
    "company": "SimpleK division de ASSA ABLOY High Security Group Inc.",
    "hours_open": 486.8,
@@ -5599,8 +5557,50 @@
    "hours_open": 1132.9,
    "title": "Conseiller(ère) en cybersécurité (Amérique du Nord)",
    "uid": "jobillico:analyste cybersecurite:17502948"
+  },
+  {
+   "closed_at": 1792967457,
+   "company": "Bosch Group",
+   "hours_open": 50.1,
+   "title": "Production Engineer Intern",
+   "uid": "smartrecruiters:BoschGroup:744000157395399"
+  },
+  {
+   "closed_at": 1792967457,
+   "company": "Stellar Software Solutions",
+   "hours_open": 375.7,
+   "title": "network infrastructure engineer",
+   "uid": "jobbank:infrastructure analyst:50462911"
+  },
+  {
+   "closed_at": 1792967457,
+   "company": "twitch",
+   "hours_open": 1250.6,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1792967457,
+   "company": "reddit",
+   "hours_open": 243.6,
+   "title": "Machine Learning Engineer",
+   "uid": "greenhouse:reddit:7131934"
+  },
+  {
+   "closed_at": 1792967457,
+   "company": "Source Code",
+   "hours_open": 4.8,
+   "title": "software developer",
+   "uid": "jobbank:entry level software developer:50577212"
+  },
+  {
+   "closed_at": 1792967457,
+   "company": "spacex",
+   "hours_open": 1253.6,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
   }
  ],
- "count": 802,
- "updated_at": 1792965793
+ "count": 806,
+ "updated_at": 1792967457
 }
