@@ -1,34 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792622943,
-   "company": "twitch",
-   "hours_open": 1154.9,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1792622943,
-   "company": "systemstechnologyresearch",
-   "hours_open": 1150.9,
-   "title": "Autonomy Algorithms Software Engineer",
-   "uid": "greenhouse:systemstechnologyresearch:4704682006"
-  },
-  {
-   "closed_at": 1792622943,
-   "company": "spacex",
-   "hours_open": 1157.6,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1792622943,
-   "company": "spacex",
-   "hours_open": 1156.2,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
    "closed_at": 1792625972,
    "company": "gitlab",
    "hours_open": 168.2,
@@ -5599,8 +5571,36 @@
    "hours_open": 400.9,
    "title": "New Grad Engineer I - Winter/Summer 2027",
    "uid": "workday:hntb.wd5/hntb_careers:New-Grad-Engineer-I---Winter-Summer-2027_R-31349-1"
+  },
+  {
+   "closed_at": 1792888553,
+   "company": "twitch",
+   "hours_open": 1231.6,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1792888553,
+   "company": "reddit",
+   "hours_open": 192.8,
+   "title": "Machine Learning Engineer",
+   "uid": "greenhouse:reddit:7131932"
+  },
+  {
+   "closed_at": 1792888553,
+   "company": "spacex",
+   "hours_open": 1231.6,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1792888553,
+   "company": "spacex",
+   "hours_open": 1229.9,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
  "count": 804,
- "updated_at": 1792886461
+ "updated_at": 1792888553
 }
