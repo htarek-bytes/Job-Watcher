@@ -2,34 +2,6 @@
  "closed": [
   {
    "closed_at": 1792680203,
-   "company": "jane",
-   "hours_open": 1173.8,
-   "title": "Enterprise Security Engineer",
-   "uid": "ashby:jane:b55d8462-d708-4487-bd1c-33f8e3b0ff10"
-  },
-  {
-   "closed_at": 1792680203,
-   "company": "DPMSYSTEMS IT CONSULTING SERVICES",
-   "hours_open": 825.8,
-   "title": "information systems analyst - computer systems",
-   "uid": "jobbank:systems analyst:50311291"
-  },
-  {
-   "closed_at": 1792680203,
-   "company": "systemstechnologyresearch",
-   "hours_open": 1053.6,
-   "title": "Autonomy Algorithms Software Engineer",
-   "uid": "greenhouse:systemstechnologyresearch:4704680006"
-  },
-  {
-   "closed_at": 1792680203,
-   "company": "spacex",
-   "hours_open": 1173.5,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1792680203,
    "company": "spacex",
    "hours_open": 1172.1,
    "title": "Software Engineer (Starship)",
@@ -5599,8 +5571,36 @@
    "hours_open": 372.7,
    "title": "network infrastructure engineer",
    "uid": "jobbank:specialiste infrastructure:50462911"
+  },
+  {
+   "closed_at": 1792928663,
+   "company": "Groupe DCM",
+   "hours_open": 894.8,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534679"
+  },
+  {
+   "closed_at": 1792928663,
+   "company": "Source Code",
+   "hours_open": 270.2,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:systems analyst:50491950"
+  },
+  {
+   "closed_at": 1792928663,
+   "company": "Stellar Software Solutions",
+   "hours_open": 365.0,
+   "title": "network infrastructure engineer",
+   "uid": "jobbank:infrastructure analyst:50462911"
+  },
+  {
+   "closed_at": 1792928663,
+   "company": "DPMSYSTEMS IT CONSULTING SERVICES",
+   "hours_open": 894.8,
+   "title": "information systems analyst - computer systems",
+   "uid": "jobbank:systems analyst:50311291"
   }
  ],
- "count": 801,
- "updated_at": 1792922250
+ "count": 804,
+ "updated_at": 1792928663
 }
