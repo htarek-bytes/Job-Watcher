@@ -2,13 +2,6 @@
  "closed": [
   {
    "closed_at": 1792671998,
-   "company": "Source Code",
-   "hours_open": 6.4,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:control systems analyst:50553479"
-  },
-  {
-   "closed_at": 1792671998,
    "company": "CGI",
    "hours_open": 1051.3,
    "title": "Conseiller(ère) en gouvernance de la cybersécurité",
@@ -5599,8 +5592,15 @@
    "hours_open": 1234.7,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1792908815,
+   "company": "Confédération des syndicats nationaux",
+   "hours_open": 48.6,
+   "title": "Administratrice ou administrateur réseau",
+   "uid": "jobillico:analyste reseau:17619549"
   }
  ],
- "count": 804,
- "updated_at": 1792905526
+ "count": 801,
+ "updated_at": 1792908815
 }
