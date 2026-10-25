@@ -2,20 +2,6 @@
  "closed": [
   {
    "closed_at": 1792706473,
-   "company": "SimpleK division de ASSA ABLOY High Security Group Inc.",
-   "hours_open": 486.8,
-   "title": "developer, software",
-   "uid": "jobbank:junior software developer:50410122"
-  },
-  {
-   "closed_at": 1792706473,
-   "company": "vizient",
-   "hours_open": 17.2,
-   "title": "Associate Software Engineer",
-   "uid": "workday:vizient.wd1/Vizient_Careers:Associate-Software-Engineer_35366R"
-  },
-  {
-   "closed_at": 1792706473,
    "company": "torcrobotics",
    "hours_open": 1174.1,
    "title": "ML Engineer, I - MLOps Framework",
@@ -5599,8 +5585,22 @@
    "hours_open": 1253.6,
    "title": "Security Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1792970210,
+   "company": "TECHSAVY INC.",
+   "hours_open": 438.9,
+   "title": "telecommunications technician",
+   "uid": "jobbank:telecommunications analyst:50383753"
+  },
+  {
+   "closed_at": 1792970210,
+   "company": "Source Code",
+   "hours_open": 4.9,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50577212"
   }
  ],
- "count": 806,
- "updated_at": 1792967457
+ "count": 802,
+ "updated_at": 1792970210
 }
