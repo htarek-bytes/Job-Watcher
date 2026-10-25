@@ -1,69 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792690107,
-   "company": "spacex",
-   "hours_open": 1173.6,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1792690107,
-   "company": "spacex",
-   "hours_open": 1176.2,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1792690107,
-   "company": "spacex",
-   "hours_open": 1176.5,
-   "title": "Embedded Software Engineer, Laser Mesh Routing (Starlink)   ",
-   "uid": "greenhouse:spacex:8578936002"
-  },
-  {
-   "closed_at": 1792690107,
-   "company": "spacex",
-   "hours_open": 1174.8,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1792690107,
-   "company": "andurilindustries",
-   "hours_open": 505.1,
-   "title": "Product Operations Technical Specialist, Air Defense",
-   "uid": "greenhouse:andurilindustries:4972456007"
-  },
-  {
-   "closed_at": 1792690107,
-   "company": "Amazon",
-   "hours_open": 167.1,
-   "title": "Software Development Engineer, Amazon Leo - SPORT Team",
-   "uid": "amazon:amazon:10580322"
-  },
-  {
-   "closed_at": 1792690107,
-   "company": "Source Code",
-   "hours_open": 11.4,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:control systems analyst:50553479"
-  },
-  {
-   "closed_at": 1792690107,
-   "company": "Logesco Informatique",
-   "hours_open": 1056.3,
-   "title": "Administrateur de réseau",
-   "uid": "jobillico:analyste reseau:17188132"
-  },
-  {
-   "closed_at": 1792690107,
-   "company": "twitch",
-   "hours_open": 1173.6,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
    "closed_at": 1792695217,
    "company": "appnovation",
    "hours_open": 1.4,
@@ -5599,8 +5536,71 @@
    "hours_open": 954.5,
    "title": "Product Engineer Intern",
    "uid": "workday:ebi.wd5/ebadcareers:Product-Engineer-Intern_REQ107697"
+  },
+  {
+   "closed_at": 1792946882,
+   "company": "TECHSAVY INC.",
+   "hours_open": 432.4,
+   "title": "telecommunications technician",
+   "uid": "jobbank:telecommunications analyst:50383753"
+  },
+  {
+   "closed_at": 1792946882,
+   "company": "kla",
+   "hours_open": 286.6,
+   "title": "Software Engineering Intern",
+   "uid": "workday:kla.wd1/UR:Software-Engineering-Intern_2641821-2"
+  },
+  {
+   "closed_at": 1792946882,
+   "company": "hpe",
+   "hours_open": 287.6,
+   "title": "Technical Sales Graduate",
+   "uid": "workday:hpe.wd5/acjobsite:Technical-Sales-Graduate_1213591"
+  },
+  {
+   "closed_at": 1792946882,
+   "company": "hntb",
+   "hours_open": 16.8,
+   "title": "New Grad Engineer I",
+   "uid": "workday:hntb.wd5/hntb_university_careers:New-Grad-Engineer-I_R-31894"
+  },
+  {
+   "closed_at": 1792946882,
+   "company": "Source Code",
+   "hours_open": 82.7,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:control systems analyst:50553479"
+  },
+  {
+   "closed_at": 1792946882,
+   "company": "DPMSYSTEMS IT CONSULTING SERVICES",
+   "hours_open": 899.9,
+   "title": "information systems analyst - computer systems",
+   "uid": "jobbank:systems analyst:50311291"
+  },
+  {
+   "closed_at": 1792946882,
+   "company": "kbr",
+   "hours_open": 1269.2,
+   "title": "Junior Software Engineer",
+   "uid": "workday:kbr.wd5/KBR_Careers:Junior-Software-Engineer_R2122294"
+  },
+  {
+   "closed_at": 1792946882,
+   "company": "hntb",
+   "hours_open": 16.8,
+   "title": "New Grad Engineer I - Summer 2027",
+   "uid": "workday:hntb.wd5/hntb_university_careers:New-Grad-Engineer-I---Summer-2027_R-31387"
+  },
+  {
+   "closed_at": 1792946882,
+   "company": "hntb",
+   "hours_open": 16.8,
+   "title": "New Grad Engineer I - Winter/Summer 2027",
+   "uid": "workday:hntb.wd5/hntb_university_careers:New-Grad-Engineer-I---Winter-Summer-2027_R-31349"
   }
  ],
- "count": 804,
- "updated_at": 1792946622
+ "count": 809,
+ "updated_at": 1792946883
 }
