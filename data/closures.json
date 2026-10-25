@@ -2,48 +2,6 @@
  "closed": [
   {
    "closed_at": 1792695217,
-   "company": "appnovation",
-   "hours_open": 1.4,
-   "title": "Web Platforms Engineer",
-   "uid": "greenhouse:appnovation:8908238002"
-  },
-  {
-   "closed_at": 1792695217,
-   "company": "databricks",
-   "hours_open": 4.2,
-   "title": "Associate Forward Deployed Engineer",
-   "uid": "greenhouse:databricks:8907988002"
-  },
-  {
-   "closed_at": 1792695217,
-   "company": "Source Code",
-   "hours_open": 205.4,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:systems analyst:50491950"
-  },
-  {
-   "closed_at": 1792695217,
-   "company": "magnetforensics",
-   "hours_open": 672.3,
-   "title": "Software Development Engineer in Test",
-   "uid": "lever:magnetforensics:450d6c28-ac1d-4411-a176-3eb5655c5545"
-  },
-  {
-   "closed_at": 1792695217,
-   "company": "Nuro",
-   "hours_open": 403.7,
-   "title": "Software Engineer New Grad - Routing",
-   "uid": "simplify:listings:fbb35820-5f6d-46ad-b912-0db35c744da1"
-  },
-  {
-   "closed_at": 1792695217,
-   "company": "Amazon",
-   "hours_open": 193.8,
-   "title": "Software Development Engineer, Navigation Experiences (NavX)",
-   "uid": "amazon:amazon:10578733"
-  },
-  {
-   "closed_at": 1792695217,
    "company": "sharkninjaoperatingllc",
    "hours_open": 1171.0,
    "title": "Product Integrity Engineer - Floorcare ",
@@ -5599,8 +5557,50 @@
    "hours_open": 16.8,
    "title": "New Grad Engineer I - Winter/Summer 2027",
    "uid": "workday:hntb.wd5/hntb_university_careers:New-Grad-Engineer-I---Winter-Summer-2027_R-31349"
+  },
+  {
+   "closed_at": 1792948502,
+   "company": "ngc",
+   "hours_open": 55.0,
+   "title": "2027 Systems Engineer Intern - Cape Canaveral FL",
+   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Systems-Engineer-Intern---Cape-Canaveral-FL_R10251849"
+  },
+  {
+   "closed_at": 1792948502,
+   "company": "Groupe DCM",
+   "hours_open": 894.2,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534670"
+  },
+  {
+   "closed_at": 1792948502,
+   "company": "marvell",
+   "hours_open": 1219.3,
+   "title": "Firmware Engineer Intern, MS - Summer 2027",
+   "uid": "workday:marvell.wd1/MarvellCareers:Firmware-Engineer-Intern--MS---Summer-2027_2604513"
+  },
+  {
+   "closed_at": 1792948502,
+   "company": "twitch",
+   "hours_open": 1248.3,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1792948502,
+   "company": "reddit",
+   "hours_open": 209.5,
+   "title": "Machine Learning Engineer",
+   "uid": "greenhouse:reddit:7131932"
+  },
+  {
+   "closed_at": 1792948502,
+   "company": "spacex",
+   "hours_open": 1248.3,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
   }
  ],
- "count": 809,
- "updated_at": 1792946883
+ "count": 806,
+ "updated_at": 1792948502
 }
