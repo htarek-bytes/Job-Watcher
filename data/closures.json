@@ -1,62 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792685293,
-   "company": "bah",
-   "hours_open": 350.9,
-   "title": "AI Software Developer, Junior",
-   "uid": "workday:bah.wd1/Confidential:AI-Software-Developer--Junior_R0251196"
-  },
-  {
-   "closed_at": 1792685293,
-   "company": "Amazon",
-   "hours_open": 47.2,
-   "title": "Software Development Engineer, Customer Experience and Business Trends",
-   "uid": "amazon:amazon:10576474"
-  },
-  {
-   "closed_at": 1792685293,
-   "company": "gopuff",
-   "hours_open": 1008.7,
-   "title": "Analytics Engineer",
-   "uid": "lever:gopuff:bfa7bc15-793e-486c-a3f5-b27d84c53025"
-  },
-  {
-   "closed_at": 1792685293,
-   "company": "shifttechnology",
-   "hours_open": 1146.7,
-   "title": "Applied Data Scientist / Engineer  (Toronto-Hybrid)",
-   "uid": "greenhouse:shifttechnology:7987030003"
-  },
-  {
-   "closed_at": 1792685293,
-   "company": "twitch",
-   "hours_open": 1175.2,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1792685293,
-   "company": "avav",
-   "hours_open": 134.5,
-   "title": "Software Engineering Intern",
-   "uid": "workday:avav.wd1/avav:Software-Engineering-Intern_9094"
-  },
-  {
-   "closed_at": 1792690107,
-   "company": "accenturefederalservices",
-   "hours_open": 526.2,
-   "title": "Multi-Cloud Security & Compliance Engineer",
-   "uid": "greenhouse:accenturefederalservices:4716511006"
-  },
-  {
-   "closed_at": 1792690107,
-   "company": "Groupe Mario Coté",
-   "hours_open": 147.1,
-   "title": "Administrateur de réseau",
-   "uid": "jobillico:analyste reseau:17594211"
-  },
-  {
    "closed_at": 1792690107,
    "company": "CesiumAstro",
    "hours_open": 666.0,
@@ -5599,8 +5543,64 @@
    "hours_open": 1245.3,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1792940701,
+   "company": "Groupe DCM",
+   "hours_open": 898.2,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534679"
+  },
+  {
+   "closed_at": 1792940701,
+   "company": "twitch",
+   "hours_open": 1246.1,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1792940701,
+   "company": "reddit",
+   "hours_open": 207.3,
+   "title": "Machine Learning Engineer",
+   "uid": "greenhouse:reddit:7131932"
+  },
+  {
+   "closed_at": 1792940701,
+   "company": "Source Code",
+   "hours_open": 67.0,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:systems analyst:50553479"
+  },
+  {
+   "closed_at": 1792940701,
+   "company": "DPMSYSTEMS IT CONSULTING SERVICES",
+   "hours_open": 249.5,
+   "title": "information systems analyst - computer systems",
+   "uid": "jobbank:information systems analyst:50311291"
+  },
+  {
+   "closed_at": 1792940701,
+   "company": "copart",
+   "hours_open": 56.5,
+   "title": "Software Engineering Intern",
+   "uid": "workday:copart.wd12/copart:Software-Engineering-Intern_JR109964"
+  },
+  {
+   "closed_at": 1792940701,
+   "company": "spacex",
+   "hours_open": 1246.1,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1792940701,
+   "company": "spacex",
+   "hours_open": 1244.4,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
- "count": 809,
- "updated_at": 1792937715
+ "count": 808,
+ "updated_at": 1792940702
 }
