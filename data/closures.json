@@ -2,27 +2,6 @@
  "closed": [
   {
    "closed_at": 1792699473,
-   "company": "knak",
-   "hours_open": 653.3,
-   "title": "Full Stack Developer ",
-   "uid": "greenhouse:knak:4737963005"
-  },
-  {
-   "closed_at": 1792699473,
-   "company": "micron",
-   "hours_open": 308.9,
-   "title": "New College Grad - OI System Engineer",
-   "uid": "workday:micron.wd1/External:New-College-Grad---OI-System-Engineer_JR102433"
-  },
-  {
-   "closed_at": 1792699473,
-   "company": "micron",
-   "hours_open": 507.4,
-   "title": "New College Grad - R2R FAB Engineer",
-   "uid": "workday:micron.wd1/External:R2R-FAB-Engineer_JR113499"
-  },
-  {
-   "closed_at": 1792699473,
    "company": "micron",
    "hours_open": 62.8,
    "title": "New College Grad - RDA OOC Engineer",
@@ -5599,8 +5578,29 @@
    "hours_open": 1130.2,
    "title": "Conseiller(ère) en cybersécurité (Amérique du Nord)",
    "uid": "jobillico:analyste cybersecurite:17502948"
+  },
+  {
+   "closed_at": 1792957209,
+   "company": "Source Code",
+   "hours_open": 71.6,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:systems analyst:50553479"
+  },
+  {
+   "closed_at": 1792957209,
+   "company": "Stellar Software Solutions",
+   "hours_open": 372.9,
+   "title": "network infrastructure engineer",
+   "uid": "jobbank:infrastructure analyst:50462911"
+  },
+  {
+   "closed_at": 1792957209,
+   "company": "DPMSYSTEMS IT CONSULTING SERVICES",
+   "hours_open": 254.1,
+   "title": "information systems analyst - computer systems",
+   "uid": "jobbank:information systems analyst:50311291"
   }
  ],
- "count": 802,
- "updated_at": 1792956110
+ "count": 803,
+ "updated_at": 1792957209
 }
