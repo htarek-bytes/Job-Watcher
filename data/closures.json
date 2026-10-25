@@ -2,13 +2,6 @@
  "closed": [
   {
    "closed_at": 1792680203,
-   "company": "miovision",
-   "hours_open": 1005.3,
-   "title": "Software Developer, Device Platform",
-   "uid": "ashby:miovision:daac9fa8-0aac-4e06-8e0b-3ff327feb928"
-  },
-  {
-   "closed_at": 1792680203,
    "company": "jane",
    "hours_open": 1173.8,
    "title": "Enterprise Security Engineer",
@@ -5599,8 +5592,15 @@
    "hours_open": 243.6,
    "title": "information systems analyst - computer systems",
    "uid": "jobbank:information systems analyst:50311291"
+  },
+  {
+   "closed_at": 1792922250,
+   "company": "Stellar Software Solutions",
+   "hours_open": 372.7,
+   "title": "network infrastructure engineer",
+   "uid": "jobbank:specialiste infrastructure:50462911"
   }
  ],
- "count": 802,
- "updated_at": 1792919268
+ "count": 801,
+ "updated_at": 1792922250
 }
