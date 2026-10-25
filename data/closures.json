@@ -1,34 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792696578,
-   "company": "Source Code",
-   "hours_open": 13.2,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:control systems analyst:50553479"
-  },
-  {
-   "closed_at": 1792696578,
-   "company": "Groupe Mario Coté",
-   "hours_open": 148.9,
-   "title": "Administrateur de réseau",
-   "uid": "jobillico:analyste reseau:17594211"
-  },
-  {
-   "closed_at": 1792696578,
-   "company": "iberdrola",
-   "hours_open": 218.1,
-   "title": "Associate Engineer - Protection & Control",
-   "uid": "workday:iberdrola.wd3/iberdrola:Associate-Engineer---Protection---Control_R-34072"
-  },
-  {
-   "closed_at": 1792696578,
-   "company": "kbr",
-   "hours_open": 1199.7,
-   "title": "Junior Software Engineer",
-   "uid": "workday:kbr.wd5/kbr_careers:Junior-Software-Engineer_R2122294"
-  },
-  {
    "closed_at": 1792699473,
    "company": "mmc",
    "hours_open": 474.7,
@@ -5599,8 +5571,36 @@
    "hours_open": 1249.2,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1792955941,
+   "company": "Groupe DCM",
+   "hours_open": 896.2,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534670"
+  },
+  {
+   "closed_at": 1792955941,
+   "company": "Source Code",
+   "hours_open": 0.9,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50577212"
+  },
+  {
+   "closed_at": 1792955941,
+   "company": "Source Code",
+   "hours_open": 85.3,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:control systems analyst:50553479"
+  },
+  {
+   "closed_at": 1792955941,
+   "company": "DPMSYSTEMS IT CONSULTING SERVICES",
+   "hours_open": 902.4,
+   "title": "information systems analyst - computer systems",
+   "uid": "jobbank:systems analyst:50311291"
   }
  ],
- "count": 809,
- "updated_at": 1792952697
+ "count": 804,
+ "updated_at": 1792955941
 }
