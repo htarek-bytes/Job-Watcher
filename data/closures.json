@@ -2,27 +2,6 @@
  "closed": [
   {
    "closed_at": 1792695217,
-   "company": "sharkninjaoperatingllc",
-   "hours_open": 1171.0,
-   "title": "Product Integrity Engineer - Floorcare ",
-   "uid": "greenhouse:sharkninjaoperatingllc:4710293006"
-  },
-  {
-   "closed_at": 1792695217,
-   "company": "appnovation",
-   "hours_open": 812.9,
-   "title": "Full-Stack AI Engineer",
-   "uid": "greenhouse:appnovation:8761000002"
-  },
-  {
-   "closed_at": 1792695217,
-   "company": "GEOCELLCANADA Inc.",
-   "hours_open": 80.6,
-   "title": "telecommunications technician",
-   "uid": "jobbank:telecommunications analyst:50029740"
-  },
-  {
-   "closed_at": 1792695217,
    "company": "Amazon",
    "hours_open": 51.7,
    "title": "Software Development Engineer",
@@ -5599,8 +5578,29 @@
    "hours_open": 1248.3,
    "title": "Security Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1792950145,
+   "company": "TECHSAVY INC.",
+   "hours_open": 433.3,
+   "title": "telecommunications technician",
+   "uid": "jobbank:telecommunications analyst:50383753"
+  },
+  {
+   "closed_at": 1792950145,
+   "company": "rakuten",
+   "hours_open": 101.4,
+   "title": "Intern - Software Engineer, AI User Experience",
+   "uid": "workday:rakuten.wd1/RakutenAmericas:Intern---Software-Engineer--AI-User-Experience_1033171"
+  },
+  {
+   "closed_at": 1792950145,
+   "company": "Source Code",
+   "hours_open": 84.9,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50553328"
   }
  ],
- "count": 806,
- "updated_at": 1792948502
+ "count": 803,
+ "updated_at": 1792950146
 }
