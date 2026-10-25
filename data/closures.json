@@ -2,41 +2,6 @@
  "closed": [
   {
    "closed_at": 1792625972,
-   "company": "gitlab",
-   "hours_open": 168.2,
-   "title": "Cloud Platform Engineer",
-   "uid": "greenhouse:gitlab:8889193002"
-  },
-  {
-   "closed_at": 1792625972,
-   "company": "danaher",
-   "hours_open": 15.7,
-   "title": "Solutions Consultant",
-   "uid": "workday:danaher.wd1/danaherjobs:Solutions-Consultant_R1320104-1"
-  },
-  {
-   "closed_at": 1792625972,
-   "company": "Stellar Software Solutions",
-   "hours_open": 280.9,
-   "title": "network infrastructure engineer",
-   "uid": "jobbank:infrastructure analyst:50462911"
-  },
-  {
-   "closed_at": 1792625972,
-   "company": "twitch",
-   "hours_open": 1158.7,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1792625972,
-   "company": "pryzm",
-   "hours_open": 1155.6,
-   "title": "Forward Deployed Engineer",
-   "uid": "ashby:pryzm:22f2fab1-7f66-43d2-a268-40e2d25fe173"
-  },
-  {
-   "closed_at": 1792625972,
    "company": "globalfoundries",
    "hours_open": 1180.1,
    "title": "SoC Design Verification Engineer (2026 New College Graduate)",
@@ -5599,8 +5564,43 @@
    "hours_open": 1229.9,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1792890737,
+   "company": "Source Code",
+   "hours_open": 67.2,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:control systems analyst:50553479"
+  },
+  {
+   "closed_at": 1792890737,
+   "company": "twitch",
+   "hours_open": 1229.3,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1792890737,
+   "company": "reddit",
+   "hours_open": 222.3,
+   "title": "Machine Learning Engineer",
+   "uid": "greenhouse:reddit:7131934"
+  },
+  {
+   "closed_at": 1792890737,
+   "company": "spacex",
+   "hours_open": 1232.0,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1792890737,
+   "company": "spacex",
+   "hours_open": 1232.2,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 804,
- "updated_at": 1792888553
+ "count": 805,
+ "updated_at": 1792890737
 }
