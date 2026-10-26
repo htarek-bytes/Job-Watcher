@@ -1,41 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792719924,
-   "company": "SGS",
-   "hours_open": 29.0,
-   "title": "MEP Engineer – Building & Infrastructure (B&I)",
-   "uid": "smartrecruiters:SGS:744000156703659"
-  },
-  {
-   "closed_at": 1792719924,
-   "company": "SimpleK division de ASSA ABLOY High Security Group Inc.",
-   "hours_open": 490.5,
-   "title": "developer, software",
-   "uid": "jobbank:junior software developer:50410122"
-  },
-  {
-   "closed_at": 1792719924,
-   "company": "ServiceNow",
-   "hours_open": 47.3,
-   "title": "Advisory Solution Consultant – Security, Identity & Exposure Management - East Coast-Banking (Armis/Veza)",
-   "uid": "smartrecruiters:ServiceNow:744000156421549"
-  },
-  {
-   "closed_at": 1792719924,
-   "company": "ServiceNow",
-   "hours_open": 74.2,
-   "title": "Advisory Solution Consultant",
-   "uid": "smartrecruiters:ServiceNow:744000156353749"
-  },
-  {
-   "closed_at": 1792719924,
-   "company": "LLNL",
-   "hours_open": 808.3,
-   "title": "Computing Undergraduate Student Intern: DevOps Internship Program - Summer 2027",
-   "uid": "smartrecruiters:LLNL:3743990015408206"
-  },
-  {
    "closed_at": 1792720545,
    "company": "AMAX",
    "hours_open": 213.2,
@@ -5599,8 +5564,43 @@
    "hours_open": 80.6,
    "title": "information technology (IT) analyst",
    "uid": "jobbank:systems analyst:50553479"
+  },
+  {
+   "closed_at": 1792992281,
+   "company": "CGI",
+   "hours_open": 1140.3,
+   "title": "Conseiller(ère) en gouvernance de la cybersécurité",
+   "uid": "jobillico:analyste cybersecurite:17433756"
+  },
+  {
+   "closed_at": 1792992281,
+   "company": "Source Code",
+   "hours_open": 95.4,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:control systems analyst:50553479"
+  },
+  {
+   "closed_at": 1792992281,
+   "company": "spacex",
+   "hours_open": 1257.5,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1792992281,
+   "company": "spacex",
+   "hours_open": 1260.5,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1792992281,
+   "company": "spacex",
+   "hours_open": 1260.5,
+   "title": "Operations Engineer (Starship)",
+   "uid": "greenhouse:spacex:8757865002"
   }
  ],
- "count": 801,
- "updated_at": 1792989507
+ "count": 805,
+ "updated_at": 1792992282
 }
