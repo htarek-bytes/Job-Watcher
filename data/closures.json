@@ -1,167 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792737366,
-   "company": "Equal Air",
-   "hours_open": 518.2,
-   "title": "information systems analyst - computer systems",
-   "uid": "jobbank:information systems analyst:50403078"
-  },
-  {
-   "closed_at": 1792737366,
-   "company": "dtna",
-   "hours_open": 174.2,
-   "title": "Automation Engineer Intern",
-   "uid": "workday:dtna.wd5/dtna_affiliate:Automation-Engineer-Intern_DT-19944-1"
-  },
-  {
-   "closed_at": 1792737366,
-   "company": "expedia",
-   "hours_open": 30.9,
-   "title": "Software Developer I",
-   "uid": "workday:expedia.wd108/private:Software-Developer-I_R-110635"
-  },
-  {
-   "closed_at": 1792737366,
-   "company": "twitch",
-   "hours_open": 1189.6,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1792737366,
-   "company": "spacex",
-   "hours_open": 1186.7,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1792738117,
-   "company": "hp",
-   "hours_open": 11.5,
-   "title": "Presales Solution Engineer - Edge AI",
-   "uid": "workday:hp.wd5/externalcareersite:Presales-Solution-Engineer---Edge-AI_3169909-1"
-  },
-  {
-   "closed_at": 1792738117,
-   "company": "iberdrola",
-   "hours_open": 59.4,
-   "title": "Associate Engineer",
-   "uid": "workday:iberdrola.wd3/iberdrola:Associate-Engineer_R-34290"
-  },
-  {
-   "closed_at": 1792738117,
-   "company": "hpe",
-   "hours_open": 131.5,
-   "title": "Technical Sales Graduate",
-   "uid": "workday:hpe.wd5/jobsathpe:Technical-Sales-Graduate_1213591-1"
-  },
-  {
-   "closed_at": 1792738117,
-   "company": "twitch",
-   "hours_open": 1186.9,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1792738117,
-   "company": "spacex",
-   "hours_open": 1189.9,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1792750518,
-   "company": "lyft",
-   "hours_open": 47.7,
-   "title": "Software Engineer, Growth Platforms",
-   "uid": "greenhouse:lyft:8901107002"
-  },
-  {
-   "closed_at": 1792750518,
-   "company": "myhrabc",
-   "hours_open": 14.2,
-   "title": "Information Security Human Risk Analyst I",
-   "uid": "workday:myhrabc.wd5/Global:Information-Security-Human-Risk-Analyst-I_R2618037-1"
-  },
-  {
-   "closed_at": 1792750518,
-   "company": "Groupe DCM",
-   "hours_open": 845.3,
-   "title": "Programmeur CNC / CNC Programmer",
-   "uid": "jobillico:programmeur junior:17534679"
-  },
-  {
-   "closed_at": 1792750518,
-   "company": "Source Code",
-   "hours_open": 28.2,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:control systems analyst:50553479"
-  },
-  {
-   "closed_at": 1792750518,
-   "company": "Magna Mining Inc.",
-   "hours_open": 4.9,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:systems analyst:50563444"
-  },
-  {
-   "closed_at": 1792750518,
-   "company": "manulife",
-   "hours_open": 323.2,
-   "title": "Associate Technical Specialist",
-   "uid": "workday:manulife.wd3/MFCJH_Jobs:Associate-Technical-Specialist_JR26091428"
-  },
-  {
-   "closed_at": 1792750518,
-   "company": "Maarut",
-   "hours_open": 29.4,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50553437"
-  },
-  {
-   "closed_at": 1792750518,
-   "company": "micron",
-   "hours_open": 216.5,
-   "title": "New College Grad - Equipment Engineer",
-   "uid": "workday:micron.wd1/External:New-College-Grad---Equipment-Engineer_JR114819"
-  },
-  {
-   "closed_at": 1792750518,
-   "company": "micron",
-   "hours_open": 852.1,
-   "title": "New College Grad - Engineer, ASIC Digital Design",
-   "uid": "workday:micron.wd1/External:New-College-Grad---Engineer--ASIC-Digital-Design_JR112164"
-  },
-  {
-   "closed_at": 1792750518,
-   "company": "marvell",
-   "hours_open": 34.0,
-   "title": "Intern, Application Engineer",
-   "uid": "workday:marvell.wd1/MarvellCareers:Intern--Application-Engineer_2604625"
-  },
-  {
-   "closed_at": 1792750518,
-   "company": "mastercard",
-   "hours_open": 403.7,
-   "title": "Software Engineer I",
-   "uid": "workday:mastercard.wd1/CorporateCareers:Software-Engineer-I_R-291661"
-  },
-  {
-   "closed_at": 1792750518,
-   "company": "micron",
-   "hours_open": 34.0,
-   "title": "Intern – AMHS Equipment Engineer ID1",
-   "uid": "workday:micron.wd1/External:Intern---AMHS-Equipment-Engineer-ID1_JR115126"
-  },
-  {
-   "closed_at": 1792750518,
-   "company": "ms",
-   "hours_open": 34.0,
-   "title": "AI Development Solution Engineer - Associate",
-   "uid": "workday:ms.wd5/External:AI-Development-Solution-Engineer---Associate_PT-JR045497"
-  },
-  {
    "closed_at": 1792750518,
    "company": "ngc",
    "hours_open": 34.0,
@@ -5599,8 +5438,169 @@
    "hours_open": 1269.3,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1793033770,
+   "company": "lyft",
+   "hours_open": 239.9,
+   "title": "Software Engineer, GovTech",
+   "uid": "greenhouse:lyft:8894909002"
+  },
+  {
+   "closed_at": 1793033770,
+   "company": "provectus",
+   "hours_open": 117.3,
+   "title": "Associate Forward Deployed Engineer",
+   "uid": "lever:provectus:62394851-693e-47fe-a86c-f8d9acf43ec2"
+  },
+  {
+   "closed_at": 1793033770,
+   "company": "robinhood",
+   "hours_open": 574.6,
+   "title": "iOS Developer, International",
+   "uid": "greenhouse:robinhood:8246088"
+  },
+  {
+   "closed_at": 1793033770,
+   "company": "Enroll Talent",
+   "hours_open": 50.2,
+   "title": "Web application developer",
+   "uid": "jobbank:developpeur junior:50555962"
+  },
+  {
+   "closed_at": 1793033770,
+   "company": "Citylitics",
+   "hours_open": 83.6,
+   "title": "data engineer",
+   "uid": "jobbank:infrastructure analyst:50564033"
+  },
+  {
+   "closed_at": 1793033770,
+   "company": "Source Code",
+   "hours_open": 299.4,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:systems analyst:50491950"
+  },
+  {
+   "closed_at": 1793033770,
+   "company": "CGI",
+   "hours_open": 1151.8,
+   "title": "Conseiller(ère) en gouvernance de la cybersécurité",
+   "uid": "jobillico:analyste cybersecurite:17433756"
+  },
+  {
+   "closed_at": 1793033770,
+   "company": "Stellar Software Solutions",
+   "hours_open": 403.7,
+   "title": "network infrastructure engineer",
+   "uid": "jobbank:specialiste infrastructure:50462911"
+  },
+  {
+   "closed_at": 1793033770,
+   "company": "Thompson-Nicola Regional District",
+   "hours_open": 449.0,
+   "title": "geographic information systems (gis) analyst",
+   "uid": "jobbank:information systems analyst:50449056"
+  },
+  {
+   "closed_at": 1793033770,
+   "company": "City of Kelowna",
+   "hours_open": 496.7,
+   "title": "business systems analyst",
+   "uid": "jobbank:infrastructure analyst:50431917"
+  },
+  {
+   "closed_at": 1793033770,
+   "company": "stripe",
+   "hours_open": 1272.0,
+   "title": "Machine Learning Engineer",
+   "uid": "greenhouse:stripe:8014859"
+  },
+  {
+   "closed_at": 1793033770,
+   "company": "Mastercard",
+   "hours_open": 449.0,
+   "title": "Software Engineer 1",
+   "uid": "simplify:listings:1500308c-6503-4df2-8df9-612bfda181f2"
+  },
+  {
+   "closed_at": 1793033770,
+   "company": "enghouse",
+   "hours_open": 1272.0,
+   "title": "Software Engineer (C#, Payments)",
+   "uid": "bamboohr:enghouse:2224"
+  },
+  {
+   "closed_at": 1793033770,
+   "company": "Amazon",
+   "hours_open": 329.6,
+   "title": "Software Development Engineer, EC2 Instance Networking",
+   "uid": "amazon:amazon:10576518"
+  },
+  {
+   "closed_at": 1793033770,
+   "company": "Amazon",
+   "hours_open": 237.0,
+   "title": "Software Development Engineer, AWS Infrastructure Supply Chain Automation",
+   "uid": "amazon:amazon:10581608"
+  },
+  {
+   "closed_at": 1793033770,
+   "company": "Amazon",
+   "hours_open": 239.9,
+   "title": "Software Development Engineer, AWS Artifact, AWS Compliance & Security Assurance",
+   "uid": "amazon:amazon:10581342"
+  },
+  {
+   "closed_at": 1793033770,
+   "company": "twitch",
+   "hours_open": 1269.0,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1793033770,
+   "company": "tenstorrent",
+   "hours_open": 1272.0,
+   "title": "Software Engineer, TT-Distributed",
+   "uid": "greenhouse:tenstorrent:4711506007"
+  },
+  {
+   "closed_at": 1793033770,
+   "company": "DPMSYSTEMS IT CONSULTING SERVICES",
+   "hours_open": 924.0,
+   "title": "information systems analyst - computer systems",
+   "uid": "jobbank:systems analyst:50311291"
+  },
+  {
+   "closed_at": 1793033770,
+   "company": "systemstechnologyresearch",
+   "hours_open": 119.6,
+   "title": "DevSecOps Engineer",
+   "uid": "greenhouse:systemstechnologyresearch:4723623006"
+  },
+  {
+   "closed_at": 1793033770,
+   "company": "RTX",
+   "hours_open": 121.3,
+   "title": "Software Engineer 1",
+   "uid": "simplify:listings:9283a980-98e0-4f9f-af72-d7087c27870c"
+  },
+  {
+   "closed_at": 1793033770,
+   "company": "spacex",
+   "hours_open": 1272.0,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1793033770,
+   "company": "andurilindustries",
+   "hours_open": 1270.3,
+   "title": "Software Engineer, Intelligence Systems",
+   "uid": "greenhouse:andurilindustries:5064165007"
   }
  ],
- "count": 813,
- "updated_at": 1793024082
+ "count": 823,
+ "updated_at": 1793033770
 }
