@@ -1,41 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792720545,
-   "company": "AMAX",
-   "hours_open": 213.2,
-   "title": "Marketing Communications Specialist",
-   "uid": "workable:amax-1:76A704A15B"
-  },
-  {
-   "closed_at": 1792732742,
-   "company": "Future Electronics",
-   "hours_open": 14.6,
-   "title": "front-end developer",
-   "uid": "jobbank:developpeur junior:50554603"
-  },
-  {
-   "closed_at": 1792732742,
-   "company": "Best Buy Canada",
-   "hours_open": 47.7,
-   "title": "business systems analyst",
-   "uid": "jobbank:infrastructure analyst:50512206"
-  },
-  {
-   "closed_at": 1792732742,
-   "company": "Groupe DCM",
-   "hours_open": 834.2,
-   "title": "Programmeur CNC / CNC Programmer",
-   "uid": "jobillico:programmeur junior:17534670"
-  },
-  {
-   "closed_at": 1792732742,
-   "company": "Zirnhelt Timber Frames",
-   "hours_open": 316.4,
-   "title": "cloud administrator",
-   "uid": "jobbank:cloud administrator:50463645"
-  },
-  {
    "closed_at": 1792732742,
    "company": "aderant",
    "hours_open": 147.8,
@@ -5599,8 +5564,43 @@
    "hours_open": 1260.5,
    "title": "Operations Engineer (Starship)",
    "uid": "greenhouse:spacex:8757865002"
+  },
+  {
+   "closed_at": 1792996926,
+   "company": "BetterPro",
+   "hours_open": 487.5,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50430957"
+  },
+  {
+   "closed_at": 1792996926,
+   "company": "Alcoa Canada",
+   "hours_open": 1141.6,
+   "title": "Conseiller(ère) en cybersécurité (Amérique du Nord)",
+   "uid": "jobillico:analyste cybersecurite:17502948"
+  },
+  {
+   "closed_at": 1792996926,
+   "company": "Northrop Grumman",
+   "hours_open": 223.4,
+   "title": "Associate Software Engineer - Pathways",
+   "uid": "simplify:listings:b5a395ae-42f1-46ba-a288-7d34298231bc"
+  },
+  {
+   "closed_at": 1792996926,
+   "company": "spacex",
+   "hours_open": 1261.5,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1792996926,
+   "company": "spacex",
+   "hours_open": 1260.0,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
  "count": 805,
- "updated_at": 1792992282
+ "updated_at": 1792996927
 }
