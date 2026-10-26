@@ -1,62 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792706473,
-   "company": "scoutai",
-   "hours_open": 1174.1,
-   "title": "Mission Operator - Flight Test Engineer",
-   "uid": "greenhouse:scoutai:5170789008"
-  },
-  {
-   "closed_at": 1792706473,
-   "company": "scoutai",
-   "hours_open": 1174.1,
-   "title": "Full Stack Software Engineer",
-   "uid": "greenhouse:scoutai:4958043008"
-  },
-  {
-   "closed_at": 1792706473,
-   "company": "scoutai",
-   "hours_open": 1174.1,
-   "title": "AI Engineer ",
-   "uid": "greenhouse:scoutai:4643324008"
-  },
-  {
-   "closed_at": 1792708136,
-   "company": "airbnb",
-   "hours_open": 22.8,
-   "title": "Software Engineer, DevAI",
-   "uid": "greenhouse:airbnb:8280222"
-  },
-  {
-   "closed_at": 1792708136,
-   "company": "crusoe",
-   "hours_open": 17.4,
-   "title": "Software Engineering Intern, Summer 2027",
-   "uid": "ashby:crusoe:07a8a6a9-975e-471c-ac31-b5aaa97f9af5"
-  },
-  {
-   "closed_at": 1792708136,
-   "company": "commure",
-   "hours_open": 699.5,
-   "title": "Software Engineer, Voice Agents",
-   "uid": "ashby:commure:0e3440aa-4ddc-4a43-b4c3-804e60a1b2ff"
-  },
-  {
-   "closed_at": 1792708136,
-   "company": "SimpleK division de ASSA ABLOY High Security Group Inc.",
-   "hours_open": 0.5,
-   "title": "developer, software",
-   "uid": "jobbank:junior programmer:50410122"
-  },
-  {
-   "closed_at": 1792708136,
-   "company": "axon",
-   "hours_open": 143.0,
-   "title": "CMM Programmer (Onsite)",
-   "uid": "greenhouse:axon:7866206003"
-  },
-  {
    "closed_at": 1792708136,
    "company": "DPMSYSTEMS IT CONSULTING SERVICES",
    "hours_open": 833.6,
@@ -5599,8 +5543,64 @@
    "hours_open": 1251.9,
    "title": "Security Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1792972849,
+   "company": "Groupe DCM",
+   "hours_open": 900.9,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534670"
+  },
+  {
+   "closed_at": 1792972849,
+   "company": "Source Code",
+   "hours_open": 75.9,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:systems analyst:50553479"
+  },
+  {
+   "closed_at": 1792972849,
+   "company": "Stellar Software Solutions",
+   "hours_open": 386.8,
+   "title": "network infrastructure engineer",
+   "uid": "jobbank:specialiste infrastructure:50462911"
+  },
+  {
+   "closed_at": 1792972849,
+   "company": "twitch",
+   "hours_open": 1252.1,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1792972849,
+   "company": "reddit",
+   "hours_open": 245.1,
+   "title": "Machine Learning Engineer",
+   "uid": "greenhouse:reddit:7131934"
+  },
+  {
+   "closed_at": 1792972849,
+   "company": "Source Code",
+   "hours_open": 5.6,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50577212"
+  },
+  {
+   "closed_at": 1792972849,
+   "company": "DPMSYSTEMS IT CONSULTING SERVICES",
+   "hours_open": 258.5,
+   "title": "information systems analyst - computer systems",
+   "uid": "jobbank:information systems analyst:50311291"
+  },
+  {
+   "closed_at": 1792972849,
+   "company": "spacex",
+   "hours_open": 1255.1,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
   }
  ],
- "count": 806,
- "updated_at": 1792972052
+ "count": 808,
+ "updated_at": 1792972849
 }
