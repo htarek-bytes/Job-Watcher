@@ -1,48 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792711382,
-   "company": "twitch",
-   "hours_open": 1179.5,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1792711382,
-   "company": "spacex",
-   "hours_open": 1182.1,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1792712307,
-   "company": "Great Lakes Group",
-   "hours_open": 34.5,
-   "title": "electrical controls engineer",
-   "uid": "jobbank:control systems analyst:50546374"
-  },
-  {
-   "closed_at": 1792712307,
-   "company": "Source Code",
-   "hours_open": 210.1,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:systems analyst:50491950"
-  },
-  {
-   "closed_at": 1792712307,
-   "company": "twitch",
-   "hours_open": 1182.7,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1792712307,
-   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
-   "hours_open": 61.4,
-   "title": "Administrateur Réseau TI",
-   "uid": "jobillico:analyste reseau:17628663"
-  },
-  {
    "closed_at": 1792712307,
    "company": "spacex",
    "hours_open": 1179.7,
@@ -5599,8 +5557,50 @@
    "hours_open": 1252.8,
    "title": "Security Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1792977786,
+   "company": "CGI",
+   "hours_open": 1136.2,
+   "title": "Conseiller(ère) en gouvernance de la cybersécurité",
+   "uid": "jobillico:analyste cybersecurite:17433756"
+  },
+  {
+   "closed_at": 1792977786,
+   "company": "Stellar Software Solutions",
+   "hours_open": 388.1,
+   "title": "network infrastructure engineer",
+   "uid": "jobbank:specialiste infrastructure:50462911"
+  },
+  {
+   "closed_at": 1792977786,
+   "company": "hpe",
+   "hours_open": 198.1,
+   "title": "Technical Sales Graduate",
+   "uid": "workday:hpe.wd5/jobsathpe:Technical-Sales-Graduate_1213591-1"
+  },
+  {
+   "closed_at": 1792977786,
+   "company": "twitch",
+   "hours_open": 1253.5,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1792977786,
+   "company": "reddit",
+   "hours_open": 246.4,
+   "title": "Machine Learning Engineer",
+   "uid": "greenhouse:reddit:7131934"
+  },
+  {
+   "closed_at": 1792977786,
+   "company": "spacex",
+   "hours_open": 1256.1,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
   }
  ],
- "count": 808,
- "updated_at": 1792975281
+ "count": 806,
+ "updated_at": 1792977786
 }
