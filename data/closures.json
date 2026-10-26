@@ -2,13 +2,6 @@
  "closed": [
   {
    "closed_at": 1792719924,
-   "company": "ServiceNow",
-   "hours_open": 29.0,
-   "title": "Forward Deployed Solution Engineer – Applied AI FDE",
-   "uid": "smartrecruiters:ServiceNow:744000156764064"
-  },
-  {
-   "closed_at": 1792719924,
    "company": "SGS",
    "hours_open": 29.0,
    "title": "MEP Engineer – Building & Infrastructure (B&I)",
@@ -5599,8 +5592,15 @@
    "hours_open": 815.8,
    "title": "Full Stack Engineer, Launch Software",
    "uid": "greenhouse:spacex:8829698002"
+  },
+  {
+   "closed_at": 1792989507,
+   "company": "Source Code",
+   "hours_open": 80.6,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:systems analyst:50553479"
   }
  ],
- "count": 808,
- "updated_at": 1792989219
+ "count": 801,
+ "updated_at": 1792989507
 }
