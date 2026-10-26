@@ -1,90 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792774927,
-   "company": "relaypro",
-   "hours_open": 1193.1,
-   "title": "Associate QA Engineer",
-   "uid": "greenhouse:relaypro:6140280"
-  },
-  {
-   "closed_at": 1792774927,
-   "company": "rocketlab",
-   "hours_open": 90.0,
-   "title": "Flight Software Engineer I",
-   "uid": "greenhouse:rocketlab:8038139003"
-  },
-  {
-   "closed_at": 1792774927,
-   "company": "RTX",
-   "hours_open": 210.4,
-   "title": "Electro-Optics Systems Engineer 1",
-   "uid": "simplify:listings:acbb275f-fe6f-4f39-af1a-c079a2a2e18a"
-  },
-  {
-   "closed_at": 1792774927,
-   "company": "spacex",
-   "hours_open": 1200.1,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1792774927,
-   "company": "spacex",
-   "hours_open": 1200.1,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1792774927,
-   "company": "andurilindustries",
-   "hours_open": 1048.5,
-   "title": "Product Data Engineer",
-   "uid": "greenhouse:andurilindustries:5114654007"
-  },
-  {
-   "closed_at": 1792774927,
-   "company": "spacex",
-   "hours_open": 1200.1,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1792774927,
-   "company": "Amazon",
-   "hours_open": 328.1,
-   "title": "Software Dev Engineer, Antenna System Validation, Amazon Leo",
-   "uid": "amazon:amazon:10575302"
-  },
-  {
-   "closed_at": 1792775240,
-   "company": "xai",
-   "hours_open": 1188.2,
-   "title": "Hardware Failure Analysis Engineer - Memphis",
-   "uid": "greenhouse:xai:5229783007"
-  },
-  {
-   "closed_at": 1792775240,
-   "company": "xai",
-   "hours_open": 1188.2,
-   "title": "Site Reliability Engineer, Data Center - Memphis",
-   "uid": "greenhouse:xai:5211587007"
-  },
-  {
-   "closed_at": 1792775240,
-   "company": "belvederetrading",
-   "hours_open": 1208.1,
-   "title": "Software Engineer Intern - Summer 2027",
-   "uid": "lever:belvederetrading:10746b3d-1760-4573-9b63-b93f5a5e4fc0"
-  },
-  {
-   "closed_at": 1792775240,
-   "company": "voyagertechnologiesinc",
-   "hours_open": 1200.2,
-   "title": "Associate Quality Engineer",
-   "uid": "greenhouse:voyagertechnologiesinc:4379563009"
-  },
-  {
    "closed_at": 1792775240,
    "company": "voyagertechnologiesinc",
    "hours_open": 1200.2,
@@ -5599,8 +5515,92 @@
    "hours_open": 1276.1,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1793050219,
+   "company": "altera",
+   "hours_open": 235.9,
+   "title": "Software Engineer -  Intern",
+   "uid": "workday:altera.wd1/altera:Software-Engineer----Intern_R03320"
+  },
+  {
+   "closed_at": 1793050219,
+   "company": "Groupe DCM",
+   "hours_open": 922.4,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534670"
+  },
+  {
+   "closed_at": 1793050219,
+   "company": "stripe",
+   "hours_open": 1276.5,
+   "title": "Internal Product Engineer, Developer Productivity AI ",
+   "uid": "greenhouse:stripe:7896151"
+  },
+  {
+   "closed_at": 1793050219,
+   "company": "twitch",
+   "hours_open": 1273.6,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1793050219,
+   "company": "reddit",
+   "hours_open": 266.6,
+   "title": "Machine Learning Engineer",
+   "uid": "greenhouse:reddit:7131934"
+  },
+  {
+   "closed_at": 1793050219,
+   "company": "lgelectronics",
+   "hours_open": 0.2,
+   "title": "Robotics Sales Engineer",
+   "uid": "greenhouse:lgelectronics:5463893008"
+  },
+  {
+   "closed_at": 1793050219,
+   "company": "adobe",
+   "hours_open": 119.7,
+   "title": "2027 Intern- Software Engineer",
+   "uid": "workday:adobe.wd5/external_experienced:XMLNAME-2027-Intern--Software-Engineer_R173019"
+  },
+  {
+   "closed_at": 1793050219,
+   "company": "accenture",
+   "hours_open": 1293.4,
+   "title": "Junior .NET Developer - Fresh Graduates",
+   "uid": "workday:accenture.wd103/AccentureCareers:Junior-NET-Developer---Fresh-Graduates_R00332478"
+  },
+  {
+   "closed_at": 1793050219,
+   "company": "spacex",
+   "hours_open": 1276.5,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1793050219,
+   "company": "spacex",
+   "hours_open": 1276.5,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1793050219,
+   "company": "andurilindustries",
+   "hours_open": 1274.9,
+   "title": "Electro-Mechanical Test Engineer",
+   "uid": "greenhouse:andurilindustries:5087180007"
+  },
+  {
+   "closed_at": 1793050219,
+   "company": "spacex",
+   "hours_open": 1274.9,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
- "count": 809,
- "updated_at": 1793049460
+ "count": 812,
+ "updated_at": 1793050219
 }
