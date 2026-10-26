@@ -1,69 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792712307,
-   "company": "spacex",
-   "hours_open": 1179.7,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1792715709,
-   "company": "Groupe DCM",
-   "hours_open": 835.7,
-   "title": "Programmeur CNC / CNC Programmer",
-   "uid": "jobillico:programmeur junior:17534679"
-  },
-  {
-   "closed_at": 1792715709,
-   "company": "SimpleK division de ASSA ABLOY High Security Group Inc.",
-   "hours_open": 489.4,
-   "title": "developer, software",
-   "uid": "jobbank:junior software developer:50410122"
-  },
-  {
-   "closed_at": 1792715709,
-   "company": "tripadvisor",
-   "hours_open": 553.4,
-   "title": "Workday Integrations Engineer",
-   "uid": "greenhouse:tripadvisor:8045078"
-  },
-  {
-   "closed_at": 1792715709,
-   "company": "Source Code",
-   "hours_open": 18.5,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:control systems analyst:50553479"
-  },
-  {
-   "closed_at": 1792715709,
-   "company": "voyagertechnologiesinc",
-   "hours_open": 30.3,
-   "title": "Manufacturing Development Quality Engineer",
-   "uid": "greenhouse:voyagertechnologiesinc:4455120009"
-  },
-  {
-   "closed_at": 1792715709,
-   "company": "agile-defense",
-   "hours_open": 385.2,
-   "title": "Systems Administrator - Associate (ACAS)",
-   "uid": "lever:agile-defense:52e175c1-45e0-4ceb-b975-b986ade85a5d"
-  },
-  {
-   "closed_at": 1792716813,
-   "company": "veeva",
-   "hours_open": 1101.9,
-   "title": "Solution Consultant - Commercial Basics",
-   "uid": "lever:veeva:0d4434e4-5166-426b-8625-f535598e3da0"
-  },
-  {
-   "closed_at": 1792716813,
-   "company": "twitch",
-   "hours_open": 1181.0,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
    "closed_at": 1792716813,
    "company": "spacex",
    "hours_open": 1183.9,
@@ -5599,8 +5536,71 @@
    "hours_open": 1256.1,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1792979432,
+   "company": "Source Code",
+   "hours_open": 77.8,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:systems analyst:50553479"
+  },
+  {
+   "closed_at": 1792979432,
+   "company": "Stellar Software Solutions",
+   "hours_open": 379.1,
+   "title": "network infrastructure engineer",
+   "uid": "jobbank:infrastructure analyst:50462911"
+  },
+  {
+   "closed_at": 1792979432,
+   "company": "BetterPro",
+   "hours_open": 482.7,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50430957"
+  },
+  {
+   "closed_at": 1792979432,
+   "company": "marvell",
+   "hours_open": 267.2,
+   "title": "Firmware Engineer Intern, MS - Summer 2027",
+   "uid": "workday:marvell.wd1/MarvellCareers2:Firmware-Engineer-Intern--MS---Summer-2027_2604513-1"
+  },
+  {
+   "closed_at": 1792979432,
+   "company": "twitch",
+   "hours_open": 1256.9,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1792979432,
+   "company": "reddit",
+   "hours_open": 218.1,
+   "title": "Machine Learning Engineer",
+   "uid": "greenhouse:reddit:7131932"
+  },
+  {
+   "closed_at": 1792979432,
+   "company": "DPMSYSTEMS IT CONSULTING SERVICES",
+   "hours_open": 260.3,
+   "title": "information systems analyst - computer systems",
+   "uid": "jobbank:information systems analyst:50311291"
+  },
+  {
+   "closed_at": 1792979432,
+   "company": "kbr",
+   "hours_open": 1278.2,
+   "title": "Junior Software Engineer",
+   "uid": "workday:kbr.wd5/kbr_careers:Junior-Software-Engineer_R2122294"
+  },
+  {
+   "closed_at": 1792979432,
+   "company": "spacex",
+   "hours_open": 1256.9,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
   }
  ],
- "count": 806,
- "updated_at": 1792977786
+ "count": 809,
+ "updated_at": 1792979432
 }
