@@ -1,76 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792775240,
-   "company": "voyagertechnologiesinc",
-   "hours_open": 1200.2,
-   "title": "Accelerated Physics Simulation Engineer – Agentic Computational Engineering (ACE)",
-   "uid": "greenhouse:voyagertechnologiesinc:4079284009"
-  },
-  {
-   "closed_at": 1792775347,
-   "company": "xai",
-   "hours_open": 1188.2,
-   "title": "Hardware Failure Analysis Engineer - Memphis",
-   "uid": "greenhouse:xai:5229783007"
-  },
-  {
-   "closed_at": 1792775347,
-   "company": "twitch",
-   "hours_open": 1200.2,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1792775347,
-   "company": "xai",
-   "hours_open": 1188.2,
-   "title": "Site Reliability Engineer, Data Center - Memphis",
-   "uid": "greenhouse:xai:5211587007"
-  },
-  {
-   "closed_at": 1792775347,
-   "company": "belvederetrading",
-   "hours_open": 1208.1,
-   "title": "Software Engineer Intern - Summer 2027",
-   "uid": "lever:belvederetrading:10746b3d-1760-4573-9b63-b93f5a5e4fc0"
-  },
-  {
-   "closed_at": 1792775347,
-   "company": "reddit",
-   "hours_open": 161.4,
-   "title": "Machine Learning Engineer",
-   "uid": "greenhouse:reddit:7131932"
-  },
-  {
-   "closed_at": 1792775347,
-   "company": "voyagertechnologiesinc",
-   "hours_open": 1200.2,
-   "title": "Associate Quality Engineer",
-   "uid": "greenhouse:voyagertechnologiesinc:4379563009"
-  },
-  {
-   "closed_at": 1792775347,
-   "company": "spacex",
-   "hours_open": 1197.2,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1792775347,
-   "company": "spacex",
-   "hours_open": 1198.5,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1792775347,
-   "company": "voyagertechnologiesinc",
-   "hours_open": 1200.2,
-   "title": "Accelerated Physics Simulation Engineer – Agentic Computational Engineering (ACE)",
-   "uid": "greenhouse:voyagertechnologiesinc:4079284009"
-  },
-  {
    "closed_at": 1792782857,
    "company": "rover",
    "hours_open": 1028.0,
@@ -5599,8 +5529,78 @@
    "hours_open": 1274.9,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1793051523,
+   "company": "Stellar Software Solutions",
+   "hours_open": 408.6,
+   "title": "network infrastructure engineer",
+   "uid": "jobbank:specialiste infrastructure:50462911"
+  },
+  {
+   "closed_at": 1793051523,
+   "company": "boeing",
+   "hours_open": 70.6,
+   "title": "Entry-Level Software Engineer",
+   "uid": "workday:boeing.wd1/external_subsidiary:Entry-Level-Software-Engineer_JR2026526418"
+  },
+  {
+   "closed_at": 1793051523,
+   "company": "cboe",
+   "hours_open": 287.6,
+   "title": "Data Pipeline Engineer Intern",
+   "uid": "workday:cboe.wd1/External_Career_CBOE:Data-Pipeline-Engineer-Intern_R-4738"
+  },
+  {
+   "closed_at": 1793051523,
+   "company": "andurilindustries",
+   "hours_open": 986.8,
+   "title": "Winter 2027 Warhead Engineer Co-op",
+   "uid": "greenhouse:andurilindustries:5236585007"
+  },
+  {
+   "closed_at": 1793051523,
+   "company": "andurilindustries",
+   "hours_open": 986.8,
+   "title": "Winter 2027 Test & Evaluation Engineer Co-op",
+   "uid": "greenhouse:andurilindustries:5236583007"
+  },
+  {
+   "closed_at": 1793051523,
+   "company": "reddit",
+   "hours_open": 238.1,
+   "title": "Machine Learning Engineer",
+   "uid": "greenhouse:reddit:7131932"
+  },
+  {
+   "closed_at": 1793051523,
+   "company": "cadence",
+   "hours_open": 1270.5,
+   "title": "Software Engineer  (new college grad Dec 2026)",
+   "uid": "workday:cadence.wd1/University_Talent:Software-Engineer---new-college-grad-Dec-2026-_R55738-1"
+  },
+  {
+   "closed_at": 1793051523,
+   "company": "verkada",
+   "hours_open": 1194.8,
+   "title": "Enterprise Solutions Engineer, Bay Area CORP",
+   "uid": "greenhouse:verkada:5205276007"
+  },
+  {
+   "closed_at": 1793051523,
+   "company": "spacex",
+   "hours_open": 1274.0,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1793051523,
+   "company": "spacex",
+   "hours_open": 1276.6,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
   }
  ],
- "count": 812,
- "updated_at": 1793050219
+ "count": 810,
+ "updated_at": 1793051524
 }

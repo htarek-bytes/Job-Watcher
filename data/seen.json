@@ -1,5 +1,5 @@
 {
- "count": 9389,
+ "count": 9394,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -3077,6 +3077,7 @@
   "greenhouse:oscar:7914958": 1791165997,
   "greenhouse:pagerduty:6162484004": 1788409442,
   "greenhouse:parallel:5247800007": 1790232147,
+  "greenhouse:parallel:5275690007": 1793051523,
   "greenhouse:pathrobotics:8501710002": 1788460756,
   "greenhouse:pathrobotics:8631767002": 1788460756,
   "greenhouse:pathrobotics:8635262002": 1788460756,
@@ -4437,6 +4438,7 @@
   "greenhouse:verkada:5255102007": 1791313446,
   "greenhouse:verkada:5271481007": 1792611499,
   "greenhouse:verkada:5273877007": 1792794945,
+  "greenhouse:verkada:5275655007": 1793051523,
   "greenhouse:vestwell:7983915003": 1788571698,
   "greenhouse:virtu:4261145002": 1788454653,
   "greenhouse:virtu:5065990002": 1788898936,
@@ -6535,6 +6537,7 @@
   "simplify:listings:9bd9bb46-2f64-4736-aa7a-2b2095c05d99": 1788426255,
   "simplify:listings:9bea948d-dffb-4340-aa5a-3a7fa7ddd92e": 1790840624,
   "simplify:listings:9c338480-379d-4ca7-b5c9-3cb606516e95": 1788322770,
+  "simplify:listings:9c419d63-e801-49ea-b32c-d22bcfcd2b97": 1793051523,
   "simplify:listings:9c56cba3-9b43-4bdb-a6dc-9cf12b83e51d": 1792768274,
   "simplify:listings:9c7fd5ef-e102-4131-9530-64b9f976d432": 1792711195,
   "simplify:listings:9c9ff27f-75fd-4c1b-b076-e687f7e08f74": 1792452929,
@@ -7994,6 +7997,7 @@
   "workday:boeing.wd1/external_subsidiary:Entry-Level-Software-Engineer-Developer--Development-_JR2026522577": 1792013705,
   "workday:boeing.wd1/external_subsidiary:Entry-Level-Software-Engineer_JR2026526321": 1792737232,
   "workday:boeing.wd1/external_subsidiary:Entry-Level-Software-Engineer_JR2026526418": 1792797439,
+  "workday:boeing.wd1/external_subsidiary:Entry-level-Software-Engineer-Developers_JR2026518452": 1793051523,
   "workday:boeing.wd1/external_subsidiary:Mechanical-Ground-Support-Equipment-Engineer--Entry-Level----Millennium-Space-Systems_JR2026524385": 1789088653,
   "workday:boeing.wd1/external_subsidiary:Mission-Analysis-Engineer--Entry-level----Millennium-Space-Systems_JR2026524528-1": 1789707721,
   "workday:boeing.wd1/external_subsidiary:Payload-Mechanical-Design-Engineer---Entry-Level_JR2026519663": 1788472811,
@@ -8130,6 +8134,7 @@
   "workday:cigna.wd5/cignacareers:Analyste--Soutien-technique---IT-Service-Desk-Analyst---Express-Scripts-Canada_26012517": 1791431778,
   "workday:cisco.wd5/cisco_careers:Software-Consulting-Engineer-I--Intern--United-States_2025180": 1788936095,
   "workday:cisco.wd5/cisco_careers:Solutions-Engineer---Splunk--Remote-_2024724-1": 1791750630,
+  "workday:cisco.wd5/cisco_careers:Solutions-Engineer---Splunk--Remote-_2024727-1": 1793051523,
   "workday:cisco.wd5/cisco_careers:Solutions-Engineer--Enterprise_2024723-1": 1790208212,
   "workday:clearwateranalytics.wd1/Clearwater_Analytics_Careers:Gen-AI-Solutions-Engineer--Investment-Solutions_R11973-1": 1790294740,
   "workday:clearwateranalytics.wd1/Clearwater_Analytics_Careers:Quant-Developer-Intern_R12182": 1789510068,
@@ -9391,5 +9396,5 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148,
   "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541": 1789106107
  },
- "updated_at": 1793050219
+ "updated_at": 1793051524
 }
