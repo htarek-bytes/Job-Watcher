@@ -1,62 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792711195,
-   "company": "Freedom Technology Solutions Group",
-   "hours_open": 318.8,
-   "title": "Junior Software Engineer",
-   "uid": "simplify:listings:e2216fd3-a972-4f1f-be6c-56a736fc3dc1"
-  },
-  {
-   "closed_at": 1792711195,
-   "company": "twitch",
-   "hours_open": 1182.4,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1792711195,
-   "company": "pariveda",
-   "hours_open": 1207.4,
-   "title": "Entry-Level Software Engineer",
-   "uid": "ashby:pariveda:cc4fc0be-c414-4aba-a15d-64daa03476a0"
-  },
-  {
-   "closed_at": 1792711195,
-   "company": "radiant-industries",
-   "hours_open": 829.3,
-   "title": "Certification Engineer",
-   "uid": "ashby:radiant-industries:d275a515-4c88-406c-bc76-9d15bf8ebc1d"
-  },
-  {
-   "closed_at": 1792711195,
-   "company": "Palantir",
-   "hours_open": 1219.0,
-   "title": "Forward Deployed Software Engineer New Grad",
-   "uid": "simplify:listings:f6f83b45-cf4c-4a3e-8f32-4c64672610a1"
-  },
-  {
-   "closed_at": 1792711195,
-   "company": "ionq",
-   "hours_open": 1180.7,
-   "title": "Optical Integration Engineer",
-   "uid": "greenhouse:ionq:6123720004"
-  },
-  {
-   "closed_at": 1792711195,
-   "company": "spacex",
-   "hours_open": 1180.7,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1792711195,
-   "company": "accenturefederalservices",
-   "hours_open": 384.3,
-   "title": "Data Engineer",
-   "uid": "greenhouse:accenturefederalservices:4718041006"
-  },
-  {
    "closed_at": 1792711382,
    "company": "twitch",
    "hours_open": 1179.5,
@@ -5599,8 +5543,64 @@
    "hours_open": 1291.8,
    "title": "New College Grad - Memory Design Engineer - Hbm",
    "uid": "simplify:listings:441c3d0c-ee76-4f06-85bc-5c015f9c7452"
+  },
+  {
+   "closed_at": 1792975281,
+   "company": "Groupe DCM",
+   "hours_open": 907.8,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534679"
+  },
+  {
+   "closed_at": 1792975281,
+   "company": "Citylitics",
+   "hours_open": 67.4,
+   "title": "data engineer",
+   "uid": "jobbank:infrastructure analyst:50564033"
+  },
+  {
+   "closed_at": 1792975281,
+   "company": "Alcoa Canada",
+   "hours_open": 1135.5,
+   "title": "Conseiller(ère) en cybersécurité (Amérique du Nord)",
+   "uid": "jobillico:analyste cybersecurite:17502948"
+  },
+  {
+   "closed_at": 1792975281,
+   "company": "twitch",
+   "hours_open": 1255.7,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1792975281,
+   "company": "reddit",
+   "hours_open": 216.9,
+   "title": "Machine Learning Engineer",
+   "uid": "greenhouse:reddit:7131932"
+  },
+  {
+   "closed_at": 1792975281,
+   "company": "Source Code",
+   "hours_open": 7.0,
+   "title": "software developer",
+   "uid": "jobbank:entry level software developer:50577212"
+  },
+  {
+   "closed_at": 1792975281,
+   "company": "ebi",
+   "hours_open": 648.2,
+   "title": "Product Engineer Intern",
+   "uid": "workday:ebi.wd5/ebicareers:Product-Engineer-Intern_REQ107697-1"
+  },
+  {
+   "closed_at": 1792975281,
+   "company": "spacex",
+   "hours_open": 1252.8,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
   }
  ],
- "count": 805,
- "updated_at": 1792973253
+ "count": 808,
+ "updated_at": 1792975281
 }
