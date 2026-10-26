@@ -2,20 +2,6 @@
  "closed": [
   {
    "closed_at": 1792732742,
-   "company": "aderant",
-   "hours_open": 147.8,
-   "title": "Associate Software Engineer",
-   "uid": "workday:aderant.wd5/Aderant_External_Careers:Associate-Software-Engineer_REQ_100000484"
-  },
-  {
-   "closed_at": 1792732742,
-   "company": "FOP Experts Conseils inc.",
-   "hours_open": 704.6,
-   "title": "Administrateur système et réseau (Int.)",
-   "uid": "jobillico:administrateur systeme:17528100"
-  },
-  {
-   "closed_at": 1792732742,
    "company": "Technologies Lannex inc. - Terrebonne",
    "hours_open": 704.6,
    "title": "Technicien Informatique",
@@ -5599,8 +5585,22 @@
    "hours_open": 1260.0,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1793010604,
+   "company": "CGI",
+   "hours_open": 1145.4,
+   "title": "Conseiller(ère) en gouvernance de la cybersécurité",
+   "uid": "jobillico:analyste cybersecurite:17433756"
+  },
+  {
+   "closed_at": 1793010604,
+   "company": "knowbe4",
+   "hours_open": 1183.5,
+   "title": "Sales Engineer (Position located in Melbourne, Australia)",
+   "uid": "greenhouse:knowbe4:6743462002"
   }
  ],
- "count": 800,
- "updated_at": 1792998503
+ "count": 802,
+ "updated_at": 1793010604
 }
