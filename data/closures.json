@@ -1,90 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792768274,
-   "company": "accenturefederalservices",
-   "hours_open": 15.9,
-   "title": "Data Engineer",
-   "uid": "greenhouse:accenturefederalservices:4724205006"
-  },
-  {
-   "closed_at": 1792768274,
-   "company": "Johns Hopkins Applied Physics Laboratory",
-   "hours_open": 39.5,
-   "title": "Software Engineer New Grad - Applications, Analysis, And Services Group",
-   "uid": "simplify:listings:b57d46f0-383f-4fd8-a530-e5e1c2bb0424"
-  },
-  {
-   "closed_at": 1792768274,
-   "company": "RTX",
-   "hours_open": 544.0,
-   "title": "Software Developer Engineer 1",
-   "uid": "simplify:listings:8e1c4d71-6011-41b4-8948-e9bef181663f"
-  },
-  {
-   "closed_at": 1792768274,
-   "company": "Johns Hopkins Applied Physics Laboratory",
-   "hours_open": 458.5,
-   "title": "Optical, Electrical, and Computer Engineer New Grad - Imaging Systems",
-   "uid": "simplify:listings:567d9a8c-5633-48a3-b22a-c47518e0804f"
-  },
-  {
-   "closed_at": 1792768274,
-   "company": "spacex",
-   "hours_open": 1198.2,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1792768274,
-   "company": "RTX",
-   "hours_open": 572.8,
-   "title": "System Engineer 1",
-   "uid": "simplify:listings:714561f6-d9ec-4a2f-b686-e60990d31cc4"
-  },
-  {
-   "closed_at": 1792768274,
-   "company": "spacex",
-   "hours_open": 1198.0,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1792768274,
-   "company": "spacex",
-   "hours_open": 1196.5,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1792768274,
-   "company": "Amazon",
-   "hours_open": 63.5,
-   "title": "Software Dev Engineer, Antenna System Validation",
-   "uid": "amazon:amazon:10584780"
-  },
-  {
-   "closed_at": 1792769189,
-   "company": "GE Vernova",
-   "hours_open": 72.2,
-   "title": "Programmeur en vision par ordinateur / Computer Vision Programmer",
-   "uid": "jobillico:programmeur junior:17630481"
-  },
-  {
-   "closed_at": 1792769189,
-   "company": "Groupe DCM",
-   "hours_open": 844.4,
-   "title": "Programmeur CNC / CNC Programmer",
-   "uid": "jobillico:programmeur junior:17534670"
-  },
-  {
-   "closed_at": 1792769189,
-   "company": "twitch",
-   "hours_open": 1198.5,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
    "closed_at": 1792769189,
    "company": "accenturefederalservices",
    "hours_open": 1078.3,
@@ -5599,8 +5515,92 @@
    "hours_open": 286.9,
    "title": "Software Development Engineer, Amazon Leo for Government",
    "uid": "amazon:amazon:10579215"
+  },
+  {
+   "closed_at": 1793044793,
+   "company": "Stellar Software Solutions",
+   "hours_open": 406.8,
+   "title": "network infrastructure engineer",
+   "uid": "jobbank:specialiste infrastructure:50462911"
+  },
+  {
+   "closed_at": 1793044793,
+   "company": "Alcoa Canada",
+   "hours_open": 1154.8,
+   "title": "Conseiller(ère) en cybersécurité (Amérique du Nord)",
+   "uid": "jobillico:analyste cybersecurite:17502948"
+  },
+  {
+   "closed_at": 1793044793,
+   "company": "Wabtec",
+   "hours_open": 148.8,
+   "title": "Junior Service Engineer",
+   "uid": "smartrecruiters:Wabtec:3743990016248826"
+  },
+  {
+   "closed_at": 1793044793,
+   "company": "stripe",
+   "hours_open": 1275.0,
+   "title": "Android Engineer, Terminal OS Platform",
+   "uid": "greenhouse:stripe:7557403"
+  },
+  {
+   "closed_at": 1793044793,
+   "company": "DPMSYSTEMS IT CONSULTING SERVICES",
+   "hours_open": 927.1,
+   "title": "information systems analyst - computer systems",
+   "uid": "jobbank:systems analyst:50311291"
+  },
+  {
+   "closed_at": 1793044793,
+   "company": "andurilindustries",
+   "hours_open": 960.2,
+   "title": "Software Engineer, Air & Missile Defense ",
+   "uid": "greenhouse:andurilindustries:5240164007"
+  },
+  {
+   "closed_at": 1793044793,
+   "company": "andurilindustries",
+   "hours_open": 960.2,
+   "title": "Scientific Software Engineer",
+   "uid": "greenhouse:andurilindustries:5240161007"
+  },
+  {
+   "closed_at": 1793044793,
+   "company": "spacex",
+   "hours_open": 1275.0,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1793044793,
+   "company": "spacex",
+   "hours_open": 1275.0,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1793044793,
+   "company": "andurilindustries",
+   "hours_open": 1273.3,
+   "title": "Field Technical Specialist, Counter Intrusion",
+   "uid": "greenhouse:andurilindustries:5032269007"
+  },
+  {
+   "closed_at": 1793044793,
+   "company": "andurilindustries",
+   "hours_open": 1273.3,
+   "title": "Field Service Engineer, Counter Intrusion",
+   "uid": "greenhouse:andurilindustries:5032266007"
+  },
+  {
+   "closed_at": 1793044793,
+   "company": "andurilindustries",
+   "hours_open": 960.2,
+   "title": "Software Engineer, C++",
+   "uid": "greenhouse:andurilindustries:5240168007"
   }
  ],
- "count": 818,
- "updated_at": 1793043361
+ "count": 812,
+ "updated_at": 1793044793
 }
