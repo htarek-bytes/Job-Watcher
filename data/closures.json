@@ -1,69 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792769189,
-   "company": "accenturefederalservices",
-   "hours_open": 1078.3,
-   "title": "AI Security Specialist",
-   "uid": "greenhouse:accenturefederalservices:4705324006"
-  },
-  {
-   "closed_at": 1792769189,
-   "company": "spacex",
-   "hours_open": 1195.5,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1792774927,
-   "company": "TECHSAVY INC.",
-   "hours_open": 384.6,
-   "title": "telecommunications technician",
-   "uid": "jobbank:telecommunications analyst:50383753"
-  },
-  {
-   "closed_at": 1792774927,
-   "company": "nexthopai",
-   "hours_open": 928.1,
-   "title": "Software Engineer - Intern",
-   "uid": "bamboohr:nexthopai:64"
-  },
-  {
-   "closed_at": 1792774927,
-   "company": "Rocket Lab USA",
-   "hours_open": 398.8,
-   "title": "HITL Engineer 1",
-   "uid": "simplify:listings:a4191e18-6043-43f5-86de-22a03e3a89c1"
-  },
-  {
-   "closed_at": 1792774927,
-   "company": "specteraerospace",
-   "hours_open": 1200.1,
-   "title": "Front-End Software Developer Co-Op - Spring 2027 ",
-   "uid": "bamboohr:specteraerospace:120"
-  },
-  {
-   "closed_at": 1792774927,
-   "company": "twitch",
-   "hours_open": 1197.1,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1792774927,
-   "company": "reddit",
-   "hours_open": 190.1,
-   "title": "Machine Learning Engineer",
-   "uid": "greenhouse:reddit:7131934"
-  },
-  {
-   "closed_at": 1792774927,
-   "company": "Eco Medical Equipment",
-   "hours_open": 718.0,
-   "title": "cloud administrator",
-   "uid": "jobbank:cloud administrator:50349556"
-  },
-  {
    "closed_at": 1792774927,
    "company": "relaypro",
    "hours_open": 1193.1,
@@ -5599,8 +5536,71 @@
    "hours_open": 960.2,
    "title": "Software Engineer, C++",
    "uid": "greenhouse:andurilindustries:5240168007"
+  },
+  {
+   "closed_at": 1793049458,
+   "company": "geotab",
+   "hours_open": 144.4,
+   "title": "AI Solutions Developer (Remote)",
+   "uid": "greenhouse:geotab:5453888008"
+  },
+  {
+   "closed_at": 1793049458,
+   "company": "Confédération des syndicats nationaux",
+   "hours_open": 87.6,
+   "title": "Administratrice ou administrateur réseau",
+   "uid": "jobillico:analyste reseau:17619549"
+  },
+  {
+   "closed_at": 1793049458,
+   "company": "Groupe DCM",
+   "hours_open": 928.4,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534679"
+  },
+  {
+   "closed_at": 1793049458,
+   "company": "Source Code",
+   "hours_open": 111.2,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:control systems analyst:50553479"
+  },
+  {
+   "closed_at": 1793049458,
+   "company": "Stellar Software Solutions",
+   "hours_open": 398.5,
+   "title": "network infrastructure engineer",
+   "uid": "jobbank:infrastructure analyst:50462911"
+  },
+  {
+   "closed_at": 1793049458,
+   "company": "Amazon",
+   "hours_open": 241.4,
+   "title": "Software Development Engineer, Fulfillment Planning and Execution",
+   "uid": "amazon:amazon:10581621"
+  },
+  {
+   "closed_at": 1793049458,
+   "company": "twitch",
+   "hours_open": 1276.3,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1793049458,
+   "company": "spacex",
+   "hours_open": 958.9,
+   "title": "IT Storage Engineer",
+   "uid": "greenhouse:spacex:8698173002"
+  },
+  {
+   "closed_at": 1793049458,
+   "company": "spacex",
+   "hours_open": 1276.1,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
   }
  ],
- "count": 812,
- "updated_at": 1793044793
+ "count": 809,
+ "updated_at": 1793049460
 }
