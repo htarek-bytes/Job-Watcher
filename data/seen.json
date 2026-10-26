@@ -1,5 +1,5 @@
 {
- "count": 9408,
+ "count": 9415,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -4200,6 +4200,7 @@
   "greenhouse:stripe:8311069": 1793049458,
   "greenhouse:stripe:8311082": 1793049458,
   "greenhouse:stripe:8314235": 1792690107,
+  "greenhouse:stripe:8325807": 1793058338,
   "greenhouse:super:4956188101": 1788454653,
   "greenhouse:systemstechnologyresearch:4661065006": 1788887337,
   "greenhouse:systemstechnologyresearch:4700584006": 1788479777,
@@ -4998,6 +4999,7 @@
   "jobbank:junior software developer:50571580": 1792842924,
   "jobbank:junior software developer:50577212": 1792952697,
   "jobbank:junior software developer:50585950": 1793033770,
+  "jobbank:junior software developer:50589000": 1793058338,
   "jobbank:linux administrator:49626621": 1789082121,
   "jobbank:linux administrator:50163764": 1788887337,
   "jobbank:linux administrator:50205276": 1788887337,
@@ -8441,6 +8443,7 @@
   "workday:globalhr.wd5/rec_rtx_ext_gateway:Software-Engineer-Intern---Summer-2027-_01870613": 1788893085,
   "workday:globalhr.wd5/rec_rtx_ext_gateway:Software-Engineer-Intern--Summer-2027-_01873556": 1790174707,
   "workday:globalhr.wd5/rec_rtx_ext_gateway:Software-Engineer-Intern_01874282": 1790039053,
+  "workday:globalhr.wd5/rec_rtx_ext_gateway:Software-Engineering--Intern--Summer-2027-_01884532": 1793058338,
   "workday:globalhr.wd5/rec_rtx_ext_gateway:Software-Engineering-Co-Op--Avionics---Summer-Fall-2027---Hybrid-_01874664": 1790923532,
   "workday:globalhr.wd5/rec_rtx_ext_gateway:Software-Engineering-Co-Op--January-2027---Hybrid-_01874122": 1790923532,
   "workday:globalhr.wd5/rec_rtx_ext_gateway:Software-Engineering-Co-op---Embedded-Linux--Spring-Summer-2027-_01876384": 1790753366,
@@ -8509,6 +8512,9 @@
   "workday:highmarkhealth.wd1/highmark:Associate-Technical-Analyst_J282377": 1788903151,
   "workday:highmarkhealth.wd1/highmark:RN---Telemetry-Medical-Surgical--New-Grad--Canonsburg_J281378": 1788903151,
   "workday:highmarkhealth.wd1/highmark:RN-E8-Med-Obs-Telemetry--New-Grad---West-Penn-Hospital_J281708": 1788903151,
+  "workday:highmarkhealth.wd1/highmark:Summer-2027-Provider-Delivery-Software-Engineer-enGen-Undergraduate-Intern_J290026": 1793058338,
+  "workday:highmarkhealth.wd1/highmark:Summer-2027-Software-Engineer-enGen-Graduate-Intern_J289845": 1793058338,
+  "workday:highmarkhealth.wd1/highmark:Summer-2027-Software-Engineer-enGen-Undergraduate-Intern_J289812": 1793058338,
   "workday:hitachi.wd1/hitachi:Software-Engineering-Co-op_R0148733": 1792627914,
   "workday:hntb.wd5/hntb_careers:Drainage-Engineer-I_R-31668": 1791363664,
   "workday:hntb.wd5/hntb_careers:Engineer-I_R-30550": 1791363664,
@@ -8519,6 +8525,7 @@
   "workday:hntb.wd5/hntb_careers:New-Grad-Engineer-I--Rail---Transit---Summer-2027_R-31631-1": 1791363664,
   "workday:hntb.wd5/hntb_careers:New-Grad-Engineer-I--Structures-Inspection---Summer-2027_R-31629-1": 1791363664,
   "workday:hntb.wd5/hntb_careers:New-Grad-Engineer-I_R-31894-1": 1791363664,
+  "workday:hntb.wd5/hntb_careers:Returning-New-Grad-Software-Engineer-I--For-Current-Previous-HNTB-Interns-ONLY-_R-32175-1": 1793058338,
   "workday:hntb.wd5/hntb_careers:Roadway-Engineer-I_R-31730": 1791363664,
   "workday:hntb.wd5/hntb_careers:Transportation-Engineer-I_R-31854": 1791363664,
   "workday:hntb.wd5/hntb_university_careers:New-Grad-Engineer-I---Summer-2027_R-31387": 1792886460,
@@ -9410,5 +9417,5 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148,
   "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541": 1789106107
  },
- "updated_at": 1793056983
+ "updated_at": 1793058338
 }
