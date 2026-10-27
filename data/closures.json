@@ -1,118 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792841239,
-   "company": "SimpleK division de ASSA ABLOY High Security Group Inc.",
-   "hours_open": 37.4,
-   "title": "developer, software",
-   "uid": "jobbank:junior programmer:50410122"
-  },
-  {
-   "closed_at": 1792841239,
-   "company": "SM Informatique inc.",
-   "hours_open": 1094.9,
-   "title": "technicien informatique réseautique",
-   "uid": "jobillico:technicien informatique:12325078"
-  },
-  {
-   "closed_at": 1792841239,
-   "company": "twitch",
-   "hours_open": 1218.5,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1792841239,
-   "company": "DPMSYSTEMS IT CONSULTING SERVICES",
-   "hours_open": 870.5,
-   "title": "information systems analyst - computer systems",
-   "uid": "jobbank:systems analyst:50311291"
-  },
-  {
-   "closed_at": 1792841239,
-   "company": "Royal Alarms Limited",
-   "hours_open": 403.0,
-   "title": "telecommunications equipment technician",
-   "uid": "jobbank:telecommunications analyst:50268670"
-  },
-  {
-   "closed_at": 1792841239,
-   "company": "spacex",
-   "hours_open": 1215.6,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1792841239,
-   "company": "spacex",
-   "hours_open": 1218.2,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1792841239,
-   "company": "spacex",
-   "hours_open": 1216.8,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1792841826,
-   "company": "ServiceNow",
-   "hours_open": 13.0,
-   "title": "Associate Software Engineer",
-   "uid": "simplify:listings:8f92f713-831e-414a-9cc3-067cf3b3ba4f"
-  },
-  {
-   "closed_at": 1792841826,
-   "company": "twitch",
-   "hours_open": 1215.7,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1792841826,
-   "company": "Lakeland Roman Catholic Separate School Division",
-   "hours_open": 1098.5,
-   "title": "computer systems analyst",
-   "uid": "jobbank:systems analyst:50064831"
-  },
-  {
-   "closed_at": 1792841826,
-   "company": "spacex",
-   "hours_open": 1218.7,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1792841826,
-   "company": "spacex",
-   "hours_open": 1218.7,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1792841826,
-   "company": "spacex",
-   "hours_open": 1218.7,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1792842924,
-   "company": "Atimi",
-   "hours_open": 0.5,
-   "title": "software developer",
-   "uid": "jobbank:entry level software developer:50571580"
-  },
-  {
-   "closed_at": 1792842924,
-   "company": "Confédération des syndicats nationaux",
-   "hours_open": 30.3,
-   "title": "Administratrice ou administrateur réseau",
-   "uid": "jobillico:analyste reseau:17619549"
-  },
-  {
    "closed_at": 1792842924,
    "company": "Citylitics",
    "hours_open": 30.6,
@@ -5599,8 +5487,120 @@
    "hours_open": 1295.6,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1793124684,
+   "company": "1password",
+   "hours_open": 284.6,
+   "title": "Junior Security Engineer",
+   "uid": "ashby:1password:49f0fe51-fcdc-46d8-a046-35f357b0cf6e"
+  },
+  {
+   "closed_at": 1793124684,
+   "company": "andurilindustries",
+   "hours_open": 456.3,
+   "title": "Project Engineer, AD&S",
+   "uid": "greenhouse:andurilindustries:5261162007"
+  },
+  {
+   "closed_at": 1793124684,
+   "company": "Source Code",
+   "hours_open": 118.1,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:systems analyst:50553479"
+  },
+  {
+   "closed_at": 1793124684,
+   "company": "cvshealth",
+   "hours_open": 107.6,
+   "title": "Innovation & Technology Internship-Software Engineering:Platform & Applications-Summer2027 Undergrad",
+   "uid": "workday:cvshealth.wd1/CVS_Health_Careers:Innovation-Technology-Internship-Software-Engineering--Platform---Applications-Summer-2027-Undergrad_R1081193"
+  },
+  {
+   "closed_at": 1793124684,
+   "company": "danaher",
+   "hours_open": 154.2,
+   "title": "Solutions Consultant",
+   "uid": "workday:danaher.wd1/danaherjobs:Solutions-Consultant_R1320104-1"
+  },
+  {
+   "closed_at": 1793124684,
+   "company": "evergreenix",
+   "hours_open": 18.8,
+   "title": "Software Engineer I",
+   "uid": "workday:evergreenix.wd1/external-careers2:Software-Engineer-I_JR500927"
+  },
+  {
+   "closed_at": 1793124684,
+   "company": "enghouse",
+   "hours_open": 1276.0,
+   "title": "DevOps Developer (Pleno)",
+   "uid": "bamboohr:enghouse:2152"
+  },
+  {
+   "closed_at": 1793124684,
+   "company": "Amazon",
+   "hours_open": 169.2,
+   "title": " Software Development Engineer, Amazon Customer Service",
+   "uid": "amazon:amazon:10584155"
+  },
+  {
+   "closed_at": 1793124684,
+   "company": "figureai",
+   "hours_open": 794.7,
+   "title": "IT Operations Specialist",
+   "uid": "greenhouse:figureai:4716299006"
+  },
+  {
+   "closed_at": 1793124684,
+   "company": "twitch",
+   "hours_open": 1294.3,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1793124684,
+   "company": "reddit",
+   "hours_open": 287.2,
+   "title": "Machine Learning Engineer",
+   "uid": "greenhouse:reddit:7131934"
+  },
+  {
+   "closed_at": 1793124684,
+   "company": "Capital One",
+   "hours_open": 1333.9,
+   "title": "Software Engineer New Grad - Software Engineer",
+   "uid": "simplify:listings:d03ac761-2dfa-4cd7-bd7c-797b6ff89c19"
+  },
+  {
+   "closed_at": 1793124684,
+   "company": "ebi",
+   "hours_open": 689.7,
+   "title": "Product Engineer Intern",
+   "uid": "workday:ebi.wd5/ebicareers:Product-Engineer-Intern_REQ107697-1"
+  },
+  {
+   "closed_at": 1793124684,
+   "company": "Anduril",
+   "hours_open": 18.8,
+   "title": "Early Career Software Engineer - Battlespace Awareness",
+   "uid": "simplify:listings:6d6de57a-a933-4e13-aa3c-2e0ee0b7d04d"
+  },
+  {
+   "closed_at": 1793124684,
+   "company": "accenturefederalservices",
+   "hours_open": 188.7,
+   "title": "Junior Software Developer ",
+   "uid": "greenhouse:accenturefederalservices:4723148006"
+  },
+  {
+   "closed_at": 1793124684,
+   "company": "spacex",
+   "hours_open": 1297.2,
+   "title": "HVAC Design Engineer (Facilities)",
+   "uid": "greenhouse:spacex:8560125002"
   }
  ],
- "count": 813,
- "updated_at": 1793118708
+ "count": 816,
+ "updated_at": 1793124686
 }
