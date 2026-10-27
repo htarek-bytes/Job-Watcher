@@ -1,48 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792803822,
-   "company": "oshkoshcorporation",
-   "hours_open": 217.6,
-   "title": "FEA Engineer Intern",
-   "uid": "workday:oshkoshcorporation.wd5/Oshkosh:FEA-Engineer-Intern_R51129"
-  },
-  {
-   "closed_at": 1792803822,
-   "company": "oshkoshcorporation",
-   "hours_open": 217.6,
-   "title": "Engineer Intern - Mechanical (Year Round)",
-   "uid": "workday:oshkoshcorporation.wd5/Oshkosh:Engineer-Intern---Mechanical--Year-Round-_R51145"
-  },
-  {
-   "closed_at": 1792803822,
-   "company": "ngc",
-   "hours_open": 29.0,
-   "title": "2027 Cyber Software Engineer Intern - San Antonio TX",
-   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Cyber-Software-Engineer-Intern---San-Antonio-TX_R10257311"
-  },
-  {
-   "closed_at": 1792803822,
-   "company": "DPMSYSTEMS IT CONSULTING SERVICES",
-   "hours_open": 0.3,
-   "title": "information systems analyst - computer systems",
-   "uid": "jobbank:analyste de systemes:50311291"
-  },
-  {
-   "closed_at": 1792803822,
-   "company": "newrez",
-   "hours_open": 1211.5,
-   "title": "2027 Summer Internship - Software Developer",
-   "uid": "workday:newrez.wd1/NRZ:XMLNAME-2027-Summer-Internship---Software-Developer_R10390"
-  },
-  {
-   "closed_at": 1792805976,
-   "company": "Source Code",
-   "hours_open": 236.2,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:systems analyst:50491950"
-  },
-  {
    "closed_at": 1792805976,
    "company": "rockwellautomation",
    "hours_open": 15.1,
@@ -5599,8 +5557,50 @@
    "hours_open": 290.5,
    "title": "information systems analyst - computer systems",
    "uid": "jobbank:information systems analyst:50311291"
+  },
+  {
+   "closed_at": 1793089187,
+   "company": "economicmodeling",
+   "hours_open": 446.4,
+   "title": "Sales Solutions Engineer - 1079",
+   "uid": "lever:economicmodeling:c4986d73-6b7a-4e9c-b404-fa03407480a9"
+  },
+  {
+   "closed_at": 1793089187,
+   "company": "hive",
+   "hours_open": 1284.4,
+   "title": "Forward Deployed Software Engineer",
+   "uid": "lever:hive:e91c1a5a-fd0d-434e-a912-017e6231ce50"
+  },
+  {
+   "closed_at": 1793089187,
+   "company": "hive",
+   "hours_open": 1118.5,
+   "title": "Systems Engineer / DevOps",
+   "uid": "lever:hive:1da35c5a-313c-4f3b-a9c7-06e6f2fa20bd"
+  },
+  {
+   "closed_at": 1793089187,
+   "company": "hive",
+   "hours_open": 1284.4,
+   "title": "Machine Learning Engineer",
+   "uid": "lever:hive:a06ede4e-46e3-40c8-b2e6-69af1658ab50"
+  },
+  {
+   "closed_at": 1793089187,
+   "company": "hive",
+   "hours_open": 1284.4,
+   "title": "Software Engineer - Frontend",
+   "uid": "lever:hive:00c84379-62f1-45c9-9ec6-f882a1a7549b"
+  },
+  {
+   "closed_at": 1793089187,
+   "company": "woolpert",
+   "hours_open": 320.3,
+   "title": "Jr. Data Engineer / Analyst",
+   "uid": "greenhouse:woolpert:4434848009"
   }
  ],
- "count": 802,
- "updated_at": 1793088213
+ "count": 806,
+ "updated_at": 1793089188
 }
