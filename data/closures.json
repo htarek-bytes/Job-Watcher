@@ -1,83 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792793720,
-   "company": "Amazon",
-   "hours_open": 164.6,
-   "title": "Systems Development Engineer – Early Career",
-   "uid": "simplify:listings:e6dd9201-55c5-46cf-a0bc-b9d1b81d9359"
-  },
-  {
-   "closed_at": 1792793720,
-   "company": "Cvent",
-   "hours_open": 214.8,
-   "title": "Software Engineer 1",
-   "uid": "simplify:listings:2a88a21e-cd50-4b95-9a88-f579b5c14d79"
-  },
-  {
-   "closed_at": 1792793720,
-   "company": "Amazon",
-   "hours_open": 1.9,
-   "title": "Software Development Engineer - Content Quality and AI Evaluation, Technical Content Experience",
-   "uid": "amazon:amazon:10587950"
-  },
-  {
-   "closed_at": 1792793720,
-   "company": "Amazon",
-   "hours_open": 101.2,
-   "title": "Software Development Engineer, Devices & Services Security",
-   "uid": "amazon:amazon:10582797"
-  },
-  {
-   "closed_at": 1792793720,
-   "company": "twitch",
-   "hours_open": 1205.3,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1792793720,
-   "company": "figma",
-   "hours_open": 1205.3,
-   "title": "Software Engineer - Application Platform",
-   "uid": "greenhouse:figma:6142506004"
-  },
-  {
-   "closed_at": 1792793720,
-   "company": "Genetec",
-   "hours_open": 1205.0,
-   "title": "Développeur(euse) logiciel / Software Developer - Clearance",
-   "uid": "workable:genetec-inc:ED58D548F4"
-  },
-  {
-   "closed_at": 1792793720,
-   "company": "spacex",
-   "hours_open": 1205.0,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1792794945,
-   "company": "Source Code",
-   "hours_open": 233.1,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:systems analyst:50491950"
-  },
-  {
-   "closed_at": 1792794945,
-   "company": "Maarut",
-   "hours_open": 12.3,
-   "title": "software developer",
-   "uid": "jobbank:entry level software developer:50565038"
-  },
-  {
-   "closed_at": 1792794945,
-   "company": "Amazon",
-   "hours_open": 173.6,
-   "title": "Software Development Engineer, AWS Artifact, AWS Compliance & Security Assurance",
-   "uid": "amazon:amazon:10581342"
-  },
-  {
    "closed_at": 1792794945,
    "company": "ag",
    "hours_open": 47.8,
@@ -5599,8 +5522,85 @@
    "hours_open": 1279.6,
    "title": "Automation & Controls Engineer (Facilities)",
    "uid": "greenhouse:spacex:8546353002"
+  },
+  {
+   "closed_at": 1793061911,
+   "company": "pae",
+   "hours_open": 71.1,
+   "title": "Software Engineer 1",
+   "uid": "workday:pae.wd1/amentum_careers:Software-Engineer-1_R0173916"
+  },
+  {
+   "closed_at": 1793061911,
+   "company": "pae",
+   "hours_open": 71.1,
+   "title": "Junior DevSecOps Engineer",
+   "uid": "workday:pae.wd1/amentum_careers:Junior-DevSecOps-Engineer_R0172729"
+  },
+  {
+   "closed_at": 1793061911,
+   "company": "ncr",
+   "hours_open": 575.4,
+   "title": "Junior DevOps Engineer",
+   "uid": "workday:ncr.wd1/ext_non_us:Junior-DevOps-Engineer_R0158519"
+  },
+  {
+   "closed_at": 1793061911,
+   "company": "philips",
+   "hours_open": 604.8,
+   "title": "Co-op - R&D Engineer (Cleaning & Disinfection) – New Kensington, PA – January - August 2027",
+   "uid": "workday:philips.wd3/jobs-and-careers:Co-op---R-D-Engineer--Cleaning---Disinfection----New-Kensington--PA---January---August-2027_591275"
+  },
+  {
+   "closed_at": 1793061911,
+   "company": "twitch",
+   "hours_open": 1279.8,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1793061911,
+   "company": "reddit",
+   "hours_open": 269.8,
+   "title": "Machine Learning Engineer",
+   "uid": "greenhouse:reddit:7131934"
+  },
+  {
+   "closed_at": 1793061911,
+   "company": "radiancetech",
+   "hours_open": 799.3,
+   "title": "Junior Software Engineer",
+   "uid": "workday:radiancetech.wd12/Radiance_External:Junior-Software-Engineer_HR102428"
+  },
+  {
+   "closed_at": 1793061911,
+   "company": "adyen",
+   "hours_open": 171.2,
+   "title": "Full-Stack Developer (Junior) - Docs Experience Engineering Team",
+   "uid": "greenhouse:adyen:8068230"
+  },
+  {
+   "closed_at": 1793061911,
+   "company": "spacex",
+   "hours_open": 1276.9,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1793061911,
+   "company": "spacex",
+   "hours_open": 1279.5,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1793061911,
+   "company": "spacex",
+   "hours_open": 1278.1,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
- "count": 817,
- "updated_at": 1793061199
+ "count": 811,
+ "updated_at": 1793061912
 }
