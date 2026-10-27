@@ -1,118 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792856260,
-   "company": "kla",
-   "hours_open": 14.8,
-   "title": "Software Engineering Intern",
-   "uid": "workday:kla.wd1/UR:Software-Engineering-Intern_2642189"
-  },
-  {
-   "closed_at": 1792856260,
-   "company": "mars",
-   "hours_open": 352.6,
-   "title": "Associate Engineer Technical Services",
-   "uid": "workday:mars.wd3/external:Associate-Engineer-Technical-Services_R168934-1"
-  },
-  {
-   "closed_at": 1792856260,
-   "company": "twitch",
-   "hours_open": 1222.7,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1792856260,
-   "company": "spacex",
-   "hours_open": 1221.0,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1792860985,
-   "company": "Atimi",
-   "hours_open": 5.5,
-   "title": "software developer",
-   "uid": "jobbank:entry level software developer:50571580"
-  },
-  {
-   "closed_at": 1792860985,
-   "company": "Confédération des syndicats nationaux",
-   "hours_open": 35.3,
-   "title": "Administratrice ou administrateur réseau",
-   "uid": "jobillico:analyste reseau:17619549"
-  },
-  {
-   "closed_at": 1792860985,
-   "company": "Groupe DCM",
-   "hours_open": 876.0,
-   "title": "Programmeur CNC / CNC Programmer",
-   "uid": "jobillico:programmeur junior:17534679"
-  },
-  {
-   "closed_at": 1792860985,
-   "company": "Source Code",
-   "hours_open": 58.9,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:control systems analyst:50553479"
-  },
-  {
-   "closed_at": 1792860985,
-   "company": "Alcoa Canada",
-   "hours_open": 1103.8,
-   "title": "Conseiller(ère) en cybersécurité (Amérique du Nord)",
-   "uid": "jobillico:analyste cybersecurite:17502948"
-  },
-  {
-   "closed_at": 1792860985,
-   "company": "twitch",
-   "hours_open": 1221.0,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1792860985,
-   "company": "spacex",
-   "hours_open": 1224.0,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1792861285,
-   "company": "Atimi",
-   "hours_open": 5.1,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50571580"
-  },
-  {
-   "closed_at": 1792861285,
-   "company": "td",
-   "hours_open": 106.4,
-   "title": "Guidewire Software Engineer I",
-   "uid": "workday:td.wd3/TD_Bank_Careers:Guidewire-Software-Engineer-I_R_1517063-1"
-  },
-  {
-   "closed_at": 1792861285,
-   "company": "twitch",
-   "hours_open": 1224.1,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1792861285,
-   "company": "reddit",
-   "hours_open": 185.2,
-   "title": "Machine Learning Engineer",
-   "uid": "greenhouse:reddit:7131932"
-  },
-  {
-   "closed_at": 1792861285,
-   "company": "relx",
-   "hours_open": 892.9,
-   "title": "Software Engineer 1",
-   "uid": "workday:relx.wd3/RiskSolutions:Software-Engineer-1_R117973"
-  },
-  {
    "closed_at": 1792861285,
    "company": "spacex",
    "hours_open": 1222.4,
@@ -5599,8 +5487,120 @@
    "hours_open": 1299.4,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1793134591,
+   "company": "tmobile",
+   "hours_open": 18.7,
+   "title": "Associate Software Engineer- Billing Platform",
+   "uid": "workday:tmobile.wd1/External:Associate-Software-Engineer--Billing-Platform_REQ375195-1"
+  },
+  {
+   "closed_at": 1793134591,
+   "company": "snc",
+   "hours_open": 19.9,
+   "title": "Systems Security Engineer I",
+   "uid": "workday:snc.wd1/snc_external_career_site:Systems-Security-Engineer-I_R0031267"
+  },
+  {
+   "closed_at": 1793134591,
+   "company": "Clientserver Tech Systems",
+   "hours_open": 335.7,
+   "title": "software developer",
+   "uid": "jobbank:developpeur junior:50487224"
+  },
+  {
+   "closed_at": 1793134591,
+   "company": "Groupe DCM",
+   "hours_open": 945.9,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534670"
+  },
+  {
+   "closed_at": 1793134591,
+   "company": "rockwellautomation",
+   "hours_open": 721.8,
+   "title": "Intern, Technical Sales & Consulting (USA)",
+   "uid": "workday:rockwellautomation.wd1/External-Rockwell-Automation-Early-Careers:Intern--Technical-Sales---Consulting--USA-_R26-5962-1"
+  },
+  {
+   "closed_at": 1793134591,
+   "company": "tmobile",
+   "hours_open": 151.8,
+   "title": "Summer 2027 Software Engineer – Cloud Security Summer Internship",
+   "uid": "workday:tmobile.wd1/External:Summer-2027-Software-Engineer---Cloud-Security-Summer-Internship_REQ379190"
+  },
+  {
+   "closed_at": 1793134591,
+   "company": "rockwellautomation",
+   "hours_open": 167.8,
+   "title": "Intern, Hardware Development Engineer (May - Aug 2027)",
+   "uid": "workday:rockwellautomation.wd1/External-Rockwell-Automation-Early-Careers:Intern--Hardware-Development-Engineer--May---Aug-2027-_R26-6892-2"
+  },
+  {
+   "closed_at": 1793134591,
+   "company": "rockwellautomation",
+   "hours_open": 308.9,
+   "title": "Co-op, Hardware Development Engineer (June - Dec 2027)",
+   "uid": "workday:rockwellautomation.wd1/External-Rockwell-Automation-Early-Careers:Co-op--Hardware-Development-Engineer--June---Dec-2027-_R26-6891"
+  },
+  {
+   "closed_at": 1793134591,
+   "company": "rockwellautomation",
+   "hours_open": 308.9,
+   "title": "Co-op, Hardware Development Engineer (Jan - July 2027)",
+   "uid": "workday:rockwellautomation.wd1/External-Rockwell-Automation-Early-Careers:Co-op--Hardware-Development-Engineer--Jan---July-2027-_R26-6638"
+  },
+  {
+   "closed_at": 1793134591,
+   "company": "twitch",
+   "hours_open": 1297.0,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1793134591,
+   "company": "reddit",
+   "hours_open": 290.0,
+   "title": "Machine Learning Engineer",
+   "uid": "greenhouse:reddit:7131934"
+  },
+  {
+   "closed_at": 1793134591,
+   "company": "synnex",
+   "hours_open": 1321.3,
+   "title": "Library Engineer (New College Grad)",
+   "uid": "workday:synnex.wd5/hyvecareers:Library-Engineer--New-Graduate_R54985"
+  },
+  {
+   "closed_at": 1793134591,
+   "company": "rockwellautomation",
+   "hours_open": 721.8,
+   "title": "Intern, AI Software Engineering (June-August 2027)",
+   "uid": "workday:rockwellautomation.wd1/External-Rockwell-Automation-Early-Careers:Intern--AI-Software-Engineering--June-August-2027-_R26-6980"
+  },
+  {
+   "closed_at": 1793134591,
+   "company": "rockwellautomation",
+   "hours_open": 721.8,
+   "title": "Co-op, AI Software Engineering (6-8 months)",
+   "uid": "workday:rockwellautomation.wd1/External-Rockwell-Automation-Early-Careers:Co-op--AI-Software-Engineering--6-8-months-_R26-6982"
+  },
+  {
+   "closed_at": 1793134591,
+   "company": "chaosindustries",
+   "hours_open": 771.3,
+   "title": "RF Engineer",
+   "uid": "greenhouse:chaosindustries:5249471007"
+  },
+  {
+   "closed_at": 1793134591,
+   "company": "spacex",
+   "hours_open": 1298.3,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
- "count": 809,
- "updated_at": 1793133524
+ "count": 816,
+ "updated_at": 1793134592
 }

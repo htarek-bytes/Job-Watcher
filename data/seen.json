@@ -1,5 +1,5 @@
 {
- "count": 9534,
+ "count": 9540,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -5055,6 +5055,7 @@
   "jobbank:junior software developer:50585950": 1793033770,
   "jobbank:junior software developer:50589000": 1793058338,
   "jobbank:junior software developer:50595101": 1793133524,
+  "jobbank:junior software developer:50595132": 1793134591,
   "jobbank:linux administrator:49626621": 1789082121,
   "jobbank:linux administrator:50163764": 1788887337,
   "jobbank:linux administrator:50205276": 1788887337,
@@ -9260,6 +9261,7 @@
   "workday:resmed.wd3/ResMed_External_Careers:Associate-Software-Engineer_JR_053889-1": 1790884489,
   "workday:rfcuny.wd108/RFCUNY:Technology-Solutions-Engineer-_JR5066": 1792805976,
   "workday:roche.wd3/roche-ext:Field-Service-Assistant-Engineer-Intern_202610-126627": 1792419840,
+  "workday:roche.wd3/roche-ext:Internship---Software-and-Data-Engineer--for-12-months-in-Rotkreuz-_202610-127501": 1793134591,
   "workday:roche.wd3/roche-ext:Junior-Custom-Software-Developer---RDT-Data-Platforms_202610-125284": 1792117641,
   "workday:rochester.wd5/UR_Staff:Research-Data-Engineer-I_R269057": 1791381341,
   "workday:rockwellautomation.wd1/External-Rockwell-Automation-Early-Careers:Co-op--AI-Software-Engineering--6-8-months-_R26-6982": 1790535986,
@@ -9273,6 +9275,7 @@
   "workday:rockwellautomation.wd1/External-Rockwell-Automation-Early-Careers:Intern--Marketing-Engineer_R26-7211": 1791587731,
   "workday:rockwellautomation.wd1/External-Rockwell-Automation-Early-Careers:Intern--Technical-Sales---Consulting--Canada-_R26-5965-1": 1790535986,
   "workday:rockwellautomation.wd1/External-Rockwell-Automation-Early-Careers:Intern--Technical-Sales---Consulting--USA-_R26-5962-1": 1790535986,
+  "workday:rockwellautomation.wd1/External-Rockwell-Automation-Early-Careers:Spring-2027-Co-op--Embedded-Software-Engineer--January-2027---August-2027-_R26-3473": 1793134591,
   "workday:rockwellautomation.wd1/External_Rockwell_Automation:Co-op--AI-Software-Engineering--6-8-months-_R26-6982-1": 1790388104,
   "workday:rockwellautomation.wd1/External_Rockwell_Automation:Co-op--Hardware-Development-Engineer--Jan---July-2027-_R26-6638-1": 1792184209,
   "workday:rockwellautomation.wd1/External_Rockwell_Automation:Co-op--Hardware-Development-Engineer--June---Dec-2027-_R26-6891-1": 1792184209,
@@ -9323,6 +9326,7 @@
   "workday:selinc.wd1/SEL:Software-Engineer-Intern_2026-22958": 1792184209,
   "workday:selinc.wd1/SEL:Software-Engineer-Intern_2026-23076": 1790362723,
   "workday:selinc.wd1/SEL:Software-Engineering-Intern---Power-Systems_2026-22933": 1788539216,
+  "workday:semtech.wd1/SemtechCareers:Associate-Engineer--Physical-Design_REQ3675": 1793134591,
   "workday:semtech.wd1/SemtechCareers:Associate-Engineer--Software-Engineering_REQ3652": 1791973931,
   "workday:semtech.wd1/SemtechCareers:Software-Developer---Web-Cloud-Application--Co-op_REQ3644": 1791232806,
   "workday:shi.wd12/shicareers:Canada-Solutions-Engineer_JR3171": 1791654658,
@@ -9351,8 +9355,10 @@
   "workday:silabs.wd1/SiliconlabsCareers:Software-Engineer-I_21011-1": 1789428175,
   "workday:snapfinance.wd1/snap_external_careers:Software-Engineer-I_R-2796": 1790399844,
   "workday:snc.wd1/snc_external_career_site:Aerodynamics-Engineer-Intern---Summer-2027_R0031131": 1792633910,
+  "workday:snc.wd1/snc_external_career_site:Cybersecurity-Analyst-Intern_R0031269": 1793134591,
   "workday:snc.wd1/snc_external_career_site:Flight-Test-Engineer-Intern_R0031069": 1792530386,
   "workday:snc.wd1/snc_external_career_site:Mechanical-Engineer-Intern---Summer-2027_R0031084": 1793063009,
+  "workday:snc.wd1/snc_external_career_site:Project-Engineer-Intern--For-SNC-Summer-2026-Intern-Only-_R0031064": 1793134591,
   "workday:snc.wd1/snc_external_career_site:RF-Engineer-Intern_R0031110": 1792473774,
   "workday:snc.wd1/snc_external_career_site:Software-Engineering-Intern--Summer-2027-_R0030761-1": 1788474010,
   "workday:snc.wd1/snc_external_career_site:Systems-Engineer-Intern--Summer-2027-_R0031176": 1792757100,
@@ -9536,5 +9542,5 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148,
   "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541": 1789106107
  },
- "updated_at": 1793133524
+ "updated_at": 1793134592
 }
