@@ -1,90 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792842924,
-   "company": "Citylitics",
-   "hours_open": 30.6,
-   "title": "data engineer",
-   "uid": "jobbank:infrastructure analyst:50564033"
-  },
-  {
-   "closed_at": 1792842924,
-   "company": "Source Code",
-   "hours_open": 39.8,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:systems analyst:50553479"
-  },
-  {
-   "closed_at": 1792842924,
-   "company": "Lakeland Roman Catholic Separate School Division",
-   "hours_open": 850.7,
-   "title": "computer systems analyst",
-   "uid": "jobbank:analyste de systemes:50064831"
-  },
-  {
-   "closed_at": 1792848848,
-   "company": "Atimi",
-   "hours_open": 1.6,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50571580"
-  },
-  {
-   "closed_at": 1792848848,
-   "company": "Great Lakes Group",
-   "hours_open": 7.1,
-   "title": "electrical controls engineer",
-   "uid": "jobbank:control systems analyst:50570740"
-  },
-  {
-   "closed_at": 1792848848,
-   "company": "Source Code",
-   "hours_open": 248.1,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:systems analyst:50491950"
-  },
-  {
-   "closed_at": 1792848848,
-   "company": "adobe",
-   "hours_open": 63.7,
-   "title": "2027 Intern- Software Engineer",
-   "uid": "workday:adobe.wd5/external_experienced:XMLNAME-2027-Intern--Software-Engineer_R173019"
-  },
-  {
-   "closed_at": 1792848848,
-   "company": "accenture",
-   "hours_open": 15.0,
-   "title": "Talent Pool - Óbuda Job Fair - C# Developer Intern - Manufacturing Area",
-   "uid": "workday:accenture.wd103/AccentureCareers:C--Developer---Intern_R00273549"
-  },
-  {
-   "closed_at": 1792848848,
-   "company": "Leidos",
-   "hours_open": 405.7,
-   "title": "Junior Systems Engineer",
-   "uid": "simplify:listings:4dbd811e-0477-41e7-b085-cba2d9e1cb62"
-  },
-  {
-   "closed_at": 1792848848,
-   "company": "RTX",
-   "hours_open": 954.5,
-   "title": "Hardware In the Loop Software Engineer 1",
-   "uid": "simplify:listings:8edf16f9-31db-4a81-b28d-bfabbbdece38"
-  },
-  {
-   "closed_at": 1792849366,
-   "company": "Source Code",
-   "hours_open": 55.7,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:control systems analyst:50553479"
-  },
-  {
-   "closed_at": 1792849366,
-   "company": "boeing",
-   "hours_open": 14.4,
-   "title": "Associate Software Engineer",
-   "uid": "workday:boeing.wd1/external_subsidiary:Associate-Software-Engineer_JR2026526419-2"
-  },
-  {
    "closed_at": 1792853063,
    "company": "Groupe DCM",
    "hours_open": 867.7,
@@ -5599,8 +5515,92 @@
    "hours_open": 1297.2,
    "title": "HVAC Design Engineer (Facilities)",
    "uid": "greenhouse:spacex:8560125002"
+  },
+  {
+   "closed_at": 1793129651,
+   "company": "asana",
+   "hours_open": 457.7,
+   "title": "Software Engineer, AI Teammates Experience",
+   "uid": "greenhouse:asana:8227390"
+  },
+  {
+   "closed_at": 1793129651,
+   "company": "TECHSAVY INC.",
+   "hours_open": 483.2,
+   "title": "telecommunications technician",
+   "uid": "jobbank:telecommunications analyst:50383753"
+  },
+  {
+   "closed_at": 1793129651,
+   "company": "globalhr",
+   "hours_open": 19.8,
+   "title": "Software Engineering  Intern (Summer 2027)",
+   "uid": "workday:globalhr.wd5/rec_rtx_ext_gateway:Software-Engineering--Intern--Summer-2027-_01884532"
+  },
+  {
+   "closed_at": 1793129651,
+   "company": "Banner Health",
+   "hours_open": 20.2,
+   "title": "DevOps Engineer 1",
+   "uid": "simplify:listings:eceab729-cafc-4a8d-95ac-7fd4870c459a"
+  },
+  {
+   "closed_at": 1793129651,
+   "company": "iberdrola",
+   "hours_open": 338.4,
+   "title": "Associate Engineer - Protection & Control",
+   "uid": "workday:iberdrola.wd3/iberdrola:Associate-Engineer---Protection---Control_R-34072"
+  },
+  {
+   "closed_at": 1793129651,
+   "company": "hpe",
+   "hours_open": 338.4,
+   "title": "Technical Sales Graduate",
+   "uid": "workday:hpe.wd5/acjobsite:Technical-Sales-Graduate_1213591"
+  },
+  {
+   "closed_at": 1793129651,
+   "company": "Whoop",
+   "hours_open": 515.7,
+   "title": "iOS Engineer 1",
+   "uid": "simplify:listings:ef70254f-651b-4cd4-b821-487b711b3052"
+  },
+  {
+   "closed_at": 1793129651,
+   "company": "twitch",
+   "hours_open": 1298.6,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1793129651,
+   "company": "waabi",
+   "hours_open": 1298.6,
+   "title": "V&V Engineer, Mechanical",
+   "uid": "lever:waabi:7832d827-8719-43de-aa74-06a36dc84867"
+  },
+  {
+   "closed_at": 1793129651,
+   "company": "alarmcom",
+   "hours_open": 1317.6,
+   "title": "Device Engineer I",
+   "uid": "greenhouse:alarmcom:8485073002"
+  },
+  {
+   "closed_at": 1793129651,
+   "company": "reddit",
+   "hours_open": 259.8,
+   "title": "Machine Learning Engineer",
+   "uid": "greenhouse:reddit:7131932"
+  },
+  {
+   "closed_at": 1793129651,
+   "company": "spacex",
+   "hours_open": 1296.9,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
- "count": 816,
- "updated_at": 1793124686
+ "count": 812,
+ "updated_at": 1793129652
 }
