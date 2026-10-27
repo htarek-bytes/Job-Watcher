@@ -2,41 +2,6 @@
  "closed": [
   {
    "closed_at": 1792869369,
-   "company": "Southern Star Central Gas Pipeline",
-   "hours_open": 434.5,
-   "title": "Software Engineer 1",
-   "uid": "simplify:listings:52d14524-3436-4572-b566-794db4872e46"
-  },
-  {
-   "closed_at": 1792869369,
-   "company": "Atlassian",
-   "hours_open": 452.1,
-   "title": "Data Engineer New Grad",
-   "uid": "simplify:listings:eba32eeb-b7a1-4b27-b3c2-1fdaa04d3bd9"
-  },
-  {
-   "closed_at": 1792869369,
-   "company": "Barrios",
-   "hours_open": 452.1,
-   "title": "Data Analytics Developer 1",
-   "uid": "simplify:listings:1da991c6-5a00-44e6-a94b-7c66094b1b6e"
-  },
-  {
-   "closed_at": 1792869369,
-   "company": "LMI",
-   "hours_open": 482.2,
-   "title": "Junior Power BI Developer",
-   "uid": "simplify:listings:2edd4fc6-b185-4137-b320-c3162dd57ed3"
-  },
-  {
-   "closed_at": 1792869369,
-   "company": "Atlassian",
-   "hours_open": 1076.3,
-   "title": "Software Engineer New Grad - 2027 Graduate",
-   "uid": "simplify:listings:14d43ff5-f113-479b-9fc2-6416dfa12f99"
-  },
-  {
-   "closed_at": 1792869369,
    "company": "DecisionPoint",
    "hours_open": 761.4,
    "title": "Junior Software Developer",
@@ -5599,8 +5564,43 @@
    "hours_open": 1301.3,
    "title": "Fire Protection Engineer (Starlink)   ",
    "uid": "greenhouse:spacex:8552269002"
+  },
+  {
+   "closed_at": 1793142590,
+   "company": "GE Vernova",
+   "hours_open": 90.0,
+   "title": "Protection Element Embedded SW Developer",
+   "uid": "jobillico:software developer:17622471"
+  },
+  {
+   "closed_at": 1793142590,
+   "company": "rocketlab",
+   "hours_open": 193.6,
+   "title": "Spacecraft GNC Engineer I",
+   "uid": "greenhouse:rocketlab:7850299003"
+  },
+  {
+   "closed_at": 1793142590,
+   "company": "RTX",
+   "hours_open": 30.2,
+   "title": "Software Engineer 1",
+   "uid": "simplify:listings:f18572f0-ccd6-4309-b276-d13a861f7db2"
+  },
+  {
+   "closed_at": 1793142590,
+   "company": "spacex",
+   "hours_open": 1302.2,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1793142590,
+   "company": "k2spacecorporation",
+   "hours_open": 558.1,
+   "title": "Power Electronics Engineer",
+   "uid": "greenhouse:k2spacecorporation:5020099008"
   }
  ],
- "count": 814,
- "updated_at": 1793139500
+ "count": 805,
+ "updated_at": 1793142591
 }
