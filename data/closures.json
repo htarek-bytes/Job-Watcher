@@ -1,34 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792820715,
-   "company": "spacex",
-   "hours_open": 1212.5,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1792820715,
-   "company": "spacex",
-   "hours_open": 1211.1,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1792823335,
-   "company": "UPSCALE TECHOFY INC",
-   "hours_open": 516.1,
-   "title": "cybersecurity analyst",
-   "uid": "jobbank:cybersecurity analyst:50411161"
-  },
-  {
-   "closed_at": 1792823335,
-   "company": "solace",
-   "hours_open": 1238.6,
-   "title": "Associate Platform Engineer (College Grad 2027)",
-   "uid": "ashby:solace:bbdb1020-2900-4d63-908a-20cea79a65cd"
-  },
-  {
    "closed_at": 1792823335,
    "company": "twitch",
    "hours_open": 1210.6,
@@ -5599,8 +5571,36 @@
    "hours_open": 1293.2,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1793112045,
+   "company": "beyondtrust",
+   "hours_open": 80.1,
+   "title": "Service Desk Analyst",
+   "uid": "greenhouse:beyondtrust:8231687"
+  },
+  {
+   "closed_at": 1793112045,
+   "company": "Groupe DCM",
+   "hours_open": 945.8,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534679"
+  },
+  {
+   "closed_at": 1793112045,
+   "company": "spacex",
+   "hours_open": 1293.7,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1793112045,
+   "company": "spacex",
+   "hours_open": 1293.7,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 810,
- "updated_at": 1793111083
+ "count": 804,
+ "updated_at": 1793112046
 }
