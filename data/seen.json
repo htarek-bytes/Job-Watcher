@@ -1,5 +1,5 @@
 {
- "count": 9512,
+ "count": 9517,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -8860,6 +8860,7 @@
   "workday:marvell.wd1/MarvellCareers:Physical-Design-Engineer-Intern--BS---Summer-2027_2604517-1": 1788563552,
   "workday:marvell.wd1/MarvellCareers:Physical-Design-Engineer-Intern--MS---Summer-2027_2604518-1": 1788563552,
   "workday:marvell.wd1/MarvellCareers:Product-Engineer-Intern--BS---Summer-2027_2603839-1": 1790812097,
+  "workday:marvell.wd1/MarvellCareers:Project-Management-Intern--MBA---Summer-2027_2604440": 1793130055,
   "workday:marvell.wd1/MarvellCareers:SRAM-Software-Engineer-Intern--BS---Summer-2027_2603760-1": 1789682887,
   "workday:marvell.wd1/MarvellCareers:Security-Verification-Validation-Engineer-Intern--BS---Summer-2027_2604148-1": 1790175830,
   "workday:marvell.wd1/MarvellCareers:Software-Firmware-Engineer-Intern_2604053": 1790096131,
@@ -8884,6 +8885,7 @@
   "workday:micron.wd1/External:DRAM-Device---Cell-Technology-Engineer_JR102424": 1788393936,
   "workday:micron.wd1/External:Engineer--Shift-Equipment_JR89034": 1790041362,
   "workday:micron.wd1/External:Equipment-Engineer--RDA---Metrology-_JR109850": 1790872708,
+  "workday:micron.wd1/External:Intern----AI-Engineer-Platform_JR115934": 1793130055,
   "workday:micron.wd1/External:Intern---AI-Agentic-Systems-Engineer_JR110474": 1788470575,
   "workday:micron.wd1/External:Intern---AMHS-Equipment-Engineer-ID1_JR115126": 1792628251,
   "workday:micron.wd1/External:Intern---Firmware-Engineer_JR111584": 1789511757,
@@ -8894,10 +8896,12 @@
   "workday:micron.wd1/External:Intern---PHY-Digital-Design---Automation-Engineer--HBM_JR110641": 1789424861,
   "workday:micron.wd1/External:Intern---Process-Development-Engineer--DRAM-Thin-Films_JR107203": 1790386984,
   "workday:micron.wd1/External:Intern---Process-Safety-Engineer_JR115035": 1792628251,
+  "workday:micron.wd1/External:Intern---Product-Yield-Software-Engineer_JR115864": 1793130055,
   "workday:micron.wd1/External:Intern---SMAI-Probe-AI-Engineer_JR114094": 1792527453,
   "workday:micron.wd1/External:Intern---Software-Engineer_JR108550": 1788859705,
   "workday:micron.wd1/External:Intern---Systems-Performance-Engineer_JR109583": 1788410216,
   "workday:micron.wd1/External:Intern--ID1-Equipment-Engineer_JR111232": 1790041362,
+  "workday:micron.wd1/External:Intern--Product-Test-Development-Engineer_JR115106": 1793130055,
   "workday:micron.wd1/External:Legacy-DRAM-Product-Yield-Enhancement-Engineer_JR110017": 1788393936,
   "workday:micron.wd1/External:Module-Hardware-Engineer_JR113177": 1790643496,
   "workday:micron.wd1/External:New-College-Grad---AI-Infrastructure---HBM-Architecture-Engineer_JR109578": 1789682887,
@@ -8930,6 +8934,7 @@
   "workday:micron.wd1/External:New-College-Grad---Semiconductor-Design-Engineer--DRAM-Products-Group_JR114119": 1791224409,
   "workday:micron.wd1/External:New-College-Grad---Yield-Enhancement-Electrical-Failure-Analysis-Engineer_JR109479": 1788455648,
   "workday:micron.wd1/External:Photolithography-MDE-Shift-Engineer_JR111985": 1790041362,
+  "workday:micron.wd1/External:Process-Control-Engineer--SPC-_JR111994": 1793130055,
   "workday:micron.wd1/External:Process-Integration-Engineer_JR102569": 1789073222,
   "workday:micron.wd1/External:Product-Test-Engineer_JR109985": 1792111440,
   "workday:micron.wd1/External:R2R-FAB-Engineer_JR113499": 1790872708,
@@ -9514,5 +9519,5 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148,
   "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541": 1789106107
  },
- "updated_at": 1793129652
+ "updated_at": 1793130056
 }

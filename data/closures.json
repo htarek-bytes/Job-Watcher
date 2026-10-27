@@ -1,55 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792853063,
-   "company": "Groupe DCM",
-   "hours_open": 867.7,
-   "title": "Programmeur CNC / CNC Programmer",
-   "uid": "jobillico:programmeur junior:17534670"
-  },
-  {
-   "closed_at": 1792853063,
-   "company": "CGI",
-   "hours_open": 1101.6,
-   "title": "Conseiller(ère) en gouvernance de la cybersécurité",
-   "uid": "jobillico:analyste cybersecurite:17433756"
-  },
-  {
-   "closed_at": 1792853063,
-   "company": "XYZ STUDIO LTD.",
-   "hours_open": 376.0,
-   "title": "Web developer",
-   "uid": "jobbank:developpeur junior:50456218"
-  },
-  {
-   "closed_at": 1792853063,
-   "company": "GE Vernova",
-   "hours_open": 9.6,
-   "title": "Développeur de logiciels embarqués pour éléments de protection F/H - Protection Element Embedded SW Developer",
-   "uid": "jobillico:software developer:17583378"
-  },
-  {
-   "closed_at": 1792853063,
-   "company": "twitch",
-   "hours_open": 1221.8,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1792853063,
-   "company": "copart",
-   "hours_open": 15.4,
-   "title": "Software Engineering Intern",
-   "uid": "workday:copart.wd12/copart:Software-Engineering-Intern_JR111861"
-  },
-  {
-   "closed_at": 1792853063,
-   "company": "spacex",
-   "hours_open": 1220.1,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
    "closed_at": 1792853703,
    "company": "Citylitics",
    "hours_open": 33.6,
@@ -5599,8 +5550,57 @@
    "hours_open": 1296.9,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1793130055,
+   "company": "myhrabc",
+   "hours_open": 762.0,
+   "title": "EDI IT Software Developer Intern",
+   "uid": "workday:myhrabc.wd5/Global:EDI-IT-Software-Developer-Intern_R2612376"
+  },
+  {
+   "closed_at": 1793130055,
+   "company": "mmc",
+   "hours_open": 594.3,
+   "title": "Junior Full-Stack Engineer, Generative AI @ Marsh Tech",
+   "uid": "workday:mmc.wd1/MMC:Junior-Full-Stack-Engineer--Generative-AI---Marsh-Tech_R_367686"
+  },
+  {
+   "closed_at": 1793130055,
+   "company": "marvell",
+   "hours_open": 1269.8,
+   "title": "Firmware Engineer Intern, MS - Summer 2027",
+   "uid": "workday:marvell.wd1/MarvellCareers:Firmware-Engineer-Intern--MS---Summer-2027_2604513"
+  },
+  {
+   "closed_at": 1793130055,
+   "company": "twitch",
+   "hours_open": 1295.8,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1793130055,
+   "company": "reddit",
+   "hours_open": 288.7,
+   "title": "Machine Learning Engineer",
+   "uid": "greenhouse:reddit:7131934"
+  },
+  {
+   "closed_at": 1793130055,
+   "company": "leidos",
+   "hours_open": 19.1,
+   "title": "Junior Software Developer",
+   "uid": "workday:leidos.wd5/External:Junior-Software-Developer_R-00193099"
+  },
+  {
+   "closed_at": 1793130055,
+   "company": "spacex",
+   "hours_open": 1298.7,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 812,
- "updated_at": 1793129652
+ "count": 807,
+ "updated_at": 1793130056
 }
