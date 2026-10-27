@@ -1,97 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792794945,
-   "company": "spacex",
-   "hours_open": 1205.6,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1792797439,
-   "company": "Maarut",
-   "hours_open": 42.5,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50553437"
-  },
-  {
-   "closed_at": 1792797439,
-   "company": "boeing",
-   "hours_open": 16.7,
-   "title": "Entry-Level Software Engineer",
-   "uid": "workday:boeing.wd1/external_subsidiary:Entry-Level-Software-Engineer_JR2026526321"
-  },
-  {
-   "closed_at": 1792797439,
-   "company": "Great Lakes Group",
-   "hours_open": 58.1,
-   "title": "electrical controls engineer",
-   "uid": "jobbank:control systems analyst:50546374"
-  },
-  {
-   "closed_at": 1792797439,
-   "company": "Domtar",
-   "hours_open": 80.1,
-   "title": "Administrateur système Windows",
-   "uid": "jobillico:administrateur systeme:17631324"
-  },
-  {
-   "closed_at": 1792797439,
-   "company": "bmo",
-   "hours_open": 233.8,
-   "title": "Devops Analyst - Technical",
-   "uid": "workday:bmo.wd3/External:Devops-Analyst---Technical_R260028097"
-  },
-  {
-   "closed_at": 1792797439,
-   "company": "Source Code",
-   "hours_open": 41.2,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:control systems analyst:50553479"
-  },
-  {
-   "closed_at": 1792797439,
-   "company": "avav",
-   "hours_open": 1218.7,
-   "title": "Summer 2027 Software Engineering Intern",
-   "uid": "workday:avav.wd1/avav:Summer-2027-Software-Engineering-Intern_8611"
-  },
-  {
-   "closed_at": 1792797439,
-   "company": "boeing",
-   "hours_open": 217.7,
-   "title": "Entry Level Software Engineer–Developer (Development)",
-   "uid": "workday:boeing.wd1/external_subsidiary:Entry-Level-Software-Engineer-Developer--Development-_JR2026522577"
-  },
-  {
-   "closed_at": 1792797439,
-   "company": "boeing",
-   "hours_open": 1081.7,
-   "title": "Boeing Engineering & Technology Innovation Graduate Researcher Program, Software Engineering Artificial Intelligence Intern",
-   "uid": "workday:boeing.wd1/EXTERNAL_CAREERS:Boeing-Engineering---Technology-Innovation-Graduate-Researcher-Program--Software-Engineering-Artificial-Intelligence-Intern_JR2026523687"
-  },
-  {
-   "closed_at": 1792797439,
-   "company": "DPMSYSTEMS IT CONSULTING SERVICES",
-   "hours_open": 858.4,
-   "title": "information systems analyst - computer systems",
-   "uid": "jobbank:systems analyst:50311291"
-  },
-  {
-   "closed_at": 1792797439,
-   "company": "boeing",
-   "hours_open": 358.9,
-   "title": "Associate Software Engineer",
-   "uid": "workday:boeing.wd1/EXTERNAL_CAREERS:Associate-Software-Engineer_JR2026522010-1"
-  },
-  {
-   "closed_at": 1792797439,
-   "company": "caci",
-   "hours_open": 567.9,
-   "title": "Junior Cyber Security Engineer",
-   "uid": "workday:caci.wd1/external:Junior-Cyber-Security-Engineer_332795"
-  },
-  {
    "closed_at": 1792797439,
    "company": "spacex",
    "hours_open": 1203.4,
@@ -5599,8 +5508,99 @@
    "hours_open": 1256.6,
    "title": "Software Engineering Intern - Power Systems",
    "uid": "workday:selinc.wd1/SEL:Software-Engineering-Intern---Power-Systems_2026-22933"
+  },
+  {
+   "closed_at": 1793067371,
+   "company": "Stellar Software Solutions",
+   "hours_open": 413.0,
+   "title": "network infrastructure engineer",
+   "uid": "jobbank:specialiste infrastructure:50462911"
+  },
+  {
+   "closed_at": 1793067371,
+   "company": "zebra",
+   "hours_open": 163.6,
+   "title": "2027 Summer Internship (US) - Software Engineer",
+   "uid": "workday:zebra.wd501/Zebra_careers:XMLNAME-2027-Summer-Internship--US----Software-Engineer_JR103625"
+  },
+  {
+   "closed_at": 1793067371,
+   "company": "Planview",
+   "hours_open": 243.0,
+   "title": "Software Engineer 1",
+   "uid": "simplify:listings:f2a0d97d-1b21-482a-a6ec-72d3376e8a59"
+  },
+  {
+   "closed_at": 1793067371,
+   "company": "twitch",
+   "hours_open": 1278.4,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1793067371,
+   "company": "reddit",
+   "hours_open": 242.5,
+   "title": "Machine Learning Engineer",
+   "uid": "greenhouse:reddit:7131932"
+  },
+  {
+   "closed_at": 1793067371,
+   "company": "tsc",
+   "hours_open": 1257.8,
+   "title": "Junior Electrical Test Engineer",
+   "uid": "workday:tsc.wd12/TSC-Careers:Junior-Electrical-Test-Engineer_JR2773"
+  },
+  {
+   "closed_at": 1793067371,
+   "company": "ttc",
+   "hours_open": 274.5,
+   "title": "Embedded Software Engineering Intern - The Toro Company",
+   "uid": "workday:ttc.wd1/Toro_External_Careers:Embedded-Software-Engineering-Intern---The-Toro-Company_JR17114"
+  },
+  {
+   "closed_at": 1793067371,
+   "company": "Toyota",
+   "hours_open": 2.9,
+   "title": "Software Engineer - Early Career Professional",
+   "uid": "simplify:listings:cc7c4f99-00f9-44a9-9e51-dc2f9d993851"
+  },
+  {
+   "closed_at": 1793067371,
+   "company": "SAIC",
+   "hours_open": 499.7,
+   "title": "Junior Hardware Engineer",
+   "uid": "simplify:listings:c697da4f-8723-4870-a672-483d6fa92afa"
+  },
+  {
+   "closed_at": 1793067371,
+   "company": "RTX",
+   "hours_open": 411.2,
+   "title": "Flight Controls Hardware Engineer 1",
+   "uid": "simplify:listings:f472e7ad-4e16-4bd9-b799-88dd58d1ffc3"
+  },
+  {
+   "closed_at": 1793067371,
+   "company": "spacex",
+   "hours_open": 1281.3,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1793067371,
+   "company": "spacex",
+   "hours_open": 842.9,
+   "title": "IT Network Infrastructure Technician",
+   "uid": "greenhouse:spacex:8827863002"
+  },
+  {
+   "closed_at": 1793067371,
+   "company": "RTX",
+   "hours_open": 1317.9,
+   "title": "2026 Fulltime - Electronics Design Engineer I",
+   "uid": "simplify:listings:63703d4d-13ff-4bec-a203-233fd1628666"
   }
  ],
- "count": 809,
- "updated_at": 1793063010
+ "count": 813,
+ "updated_at": 1793067372
 }

@@ -1,5 +1,5 @@
 {
- "count": 9425,
+ "count": 9430,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -4145,6 +4145,7 @@
   "greenhouse:spacex:8912649002": 1792787011,
   "greenhouse:spacex:8913325002": 1792806314,
   "greenhouse:spacex:8915956002": 1792989219,
+  "greenhouse:spacex:8918371002": 1793067371,
   "greenhouse:stratacareers:8030865003": 1791936035,
   "greenhouse:stripe:6042172": 1788454653,
   "greenhouse:stripe:6176758": 1788454653,
@@ -5969,6 +5970,7 @@
   "simplify:listings:209fc4a4-5626-4653-baa1-7a5393231ce9": 1788322770,
   "simplify:listings:20ab4e16-195e-4f9b-b9a8-a6651d21e85e": 1788322770,
   "simplify:listings:20c02c35-0308-4e8c-b562-67ba4694b3b5": 1788322770,
+  "simplify:listings:20c07b7e-aa45-47e0-8030-a611fb769115": 1793067371,
   "simplify:listings:20d13b00-29e6-46f7-a36c-1b045a33bc61": 1788322770,
   "simplify:listings:20e5b52f-866c-4751-9606-aeea03d79533": 1788322770,
   "simplify:listings:21372e5e-070e-42a5-b386-7e517ee24992": 1789412713,
@@ -6971,6 +6973,7 @@
   "simplify:listings:f611f1d0-d34a-4790-828f-5c7a4839aaf8": 1790723272,
   "simplify:listings:f6146660-41bf-4fcd-ba7b-24a1c19c1176": 1788322770,
   "simplify:listings:f61cd3df-168a-4041-b903-df204e464cd8": 1788322770,
+  "simplify:listings:f62e793a-1644-4b8d-a76d-ed67face4722": 1793067371,
   "simplify:listings:f638a7a9-7858-44cf-a52d-23c7ec258ad8": 1788512368,
   "simplify:listings:f6552574-8bd8-4bcb-856a-f3131dfdad9f": 1788783177,
   "simplify:listings:f658e592-7705-4abf-9fec-d62ac98b287e": 1789173477,
@@ -9328,6 +9331,7 @@
   "workday:tjx.wd1/tjx_external:IT-Engineer-Internship---Summer-2027_REQ153160": 1788539216,
   "workday:tmobile.wd1/External:Associate-Engineer---Software---Mobile-App-Development_REQ370392-1": 1792184209,
   "workday:tmobile.wd1/External:Associate-Engineer--Agentic-AI_REQ368440": 1789517822,
+  "workday:tmobile.wd1/External:Associate-Software-Engineer--Billing-Platform_REQ375195-1": 1793067371,
   "workday:tmobile.wd1/External:Associate-Software-Engineer_REQ367954-1": 1788890289,
   "workday:tmobile.wd1/External:Solution-Engineer---Strategic-Automotive_REQ375789": 1790820503,
   "workday:tmobile.wd1/External:Solution-Engineer---Virtual-Business_REQ375980-1": 1790820503,
@@ -9367,6 +9371,7 @@
   "workday:tti.wd1/tti_pe:Automation-Engineer-1_R78551": 1791527068,
   "workday:ucar.wd5/UCAR_Careers:CESM-Software-Engineer-I_REQ-2026-117-1": 1788394042,
   "workday:uchicago.wd5/External:Junior-Software-Developer_JR35628": 1792535279,
+  "workday:uhaul.wd1/UhaulJobs:Software-Developer_R256644": 1793067371,
   "workday:uline.wd1/Uline_Careers:Microsoft-Solutions-Engineer_R268296-1": 1792079350,
   "workday:ultra.wd3/ultra-careers:Test-Engineer-1_REQ-12545-1": 1791232806,
   "workday:uofl.wd1/UofLCareerSite:IT-Systems-Analyst-I_R109561": 1792126109,
@@ -9427,5 +9432,5 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148,
   "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541": 1789106107
  },
- "updated_at": 1793063009
+ "updated_at": 1793067372
 }
