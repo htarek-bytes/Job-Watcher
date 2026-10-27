@@ -2,41 +2,6 @@
  "closed": [
   {
    "closed_at": 1792802847,
-   "company": "kla",
-   "hours_open": 246.6,
-   "title": "Software Engineering Intern",
-   "uid": "workday:kla.wd1/UR:Software-Engineering-Intern_2641821-2"
-  },
-  {
-   "closed_at": 1792802847,
-   "company": "kla",
-   "hours_open": 231.0,
-   "title": "Product Development Intern - Electron Beam Instrumentation",
-   "uid": "workday:kla.wd1/UR:Product-Development-Intern---Electron-Beam-Instrumentation_2642030-2"
-  },
-  {
-   "closed_at": 1792802847,
-   "company": "kla",
-   "hours_open": 246.6,
-   "title": "Mechanical Design Engineer Intern",
-   "uid": "workday:kla.wd1/UR:Mechanical-Design-Engineer-Intern_2642150-1"
-  },
-  {
-   "closed_at": 1792802847,
-   "company": "jj",
-   "hours_open": 48.6,
-   "title": "R&D Device Engineer Summer Intern",
-   "uid": "workday:jj.wd5/JJ:R-D-Device-Engineer-Summer-Intern_R-103642"
-  },
-  {
-   "closed_at": 1792802847,
-   "company": "twitch",
-   "hours_open": 1204.9,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1792802847,
    "company": "DPMSYSTEMS IT CONSULTING SERVICES",
    "hours_open": 859.9,
    "title": "information systems analyst - computer systems",
@@ -5599,8 +5564,43 @@
    "hours_open": 1284.6,
    "title": "IT Network Engineer - Top Secret Clearance",
    "uid": "greenhouse:spacex:8456295002"
+  },
+  {
+   "closed_at": 1793079799,
+   "company": "Stellar Software Solutions",
+   "hours_open": 406.9,
+   "title": "network infrastructure engineer",
+   "uid": "jobbank:infrastructure analyst:50462911"
+  },
+  {
+   "closed_at": 1793079799,
+   "company": "twitch",
+   "hours_open": 1281.8,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1793079799,
+   "company": "DPMSYSTEMS IT CONSULTING SERVICES",
+   "hours_open": 936.8,
+   "title": "information systems analyst - computer systems",
+   "uid": "jobbank:systems analyst:50311291"
+  },
+  {
+   "closed_at": 1793079799,
+   "company": "Bird Construction",
+   "hours_open": 1164.6,
+   "title": "Construction Innovation Systems Analyst",
+   "uid": "simplify:listings:a851c57f-b49e-4f1d-a44d-08dcd31d4bce"
+  },
+  {
+   "closed_at": 1793079799,
+   "company": "spacex",
+   "hours_open": 1284.8,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 815,
- "updated_at": 1793079049
+ "count": 805,
+ "updated_at": 1793079799
 }
