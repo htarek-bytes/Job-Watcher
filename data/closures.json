@@ -1,97 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792806841,
-   "company": "claylabs",
-   "hours_open": 516.7,
-   "title": "Web Developer (Growth & Conversion Optimization)",
-   "uid": "ashby:claylabs:b17bd432-72e4-4f03-b8db-2fd677c2cfe8"
-  },
-  {
-   "closed_at": 1792818438,
-   "company": "Aequilibrium Software Inc.",
-   "hours_open": 168.0,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50520710"
-  },
-  {
-   "closed_at": 1792818438,
-   "company": "Citylitics",
-   "hours_open": 23.8,
-   "title": "data engineer",
-   "uid": "jobbank:infrastructure analyst:50564033"
-  },
-  {
-   "closed_at": 1792818438,
-   "company": "Stellar Software Solutions",
-   "hours_open": 334.3,
-   "title": "network infrastructure engineer",
-   "uid": "jobbank:infrastructure analyst:50462911"
-  },
-  {
-   "closed_at": 1792818438,
-   "company": "Huntington Ingalls Industries",
-   "hours_open": 118.2,
-   "title": "Software Engineer 1",
-   "uid": "simplify:listings:316c2d00-0f12-44d3-a120-dec7324caeff"
-  },
-  {
-   "closed_at": 1792818438,
-   "company": "kayak",
-   "hours_open": 730.1,
-   "title": "Executive Assistant / Communications Specialist",
-   "uid": "ashby:kayak:438f76b9-5bc2-4300-b045-474434d49306"
-  },
-  {
-   "closed_at": 1792818438,
-   "company": "crusoe",
-   "hours_open": 893.4,
-   "title": "Software Engineer I, Network",
-   "uid": "ashby:crusoe:9a5223c4-9eb7-4fdb-b97c-f43525df35ed"
-  },
-  {
-   "closed_at": 1792818438,
-   "company": "twitch",
-   "hours_open": 1209.2,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1792818438,
-   "company": "Groupe Coderr",
-   "hours_open": 702.4,
-   "title": "Technicien informatique",
-   "uid": "jobillico:technicien informatique:17557461"
-  },
-  {
-   "closed_at": 1792818438,
-   "company": "Ciena",
-   "hours_open": 1248.8,
-   "title": "Embedded Software Developer New Grad",
-   "uid": "simplify:listings:c82c1758-9605-466f-878f-d5077a225f51"
-  },
-  {
-   "closed_at": 1792818438,
-   "company": "LexisNexis Risk Solutions",
-   "hours_open": 886.4,
-   "title": "Software Engineer 1",
-   "uid": "simplify:listings:57a2bb7e-a9c4-41b0-a10a-606e7e4e9d3b"
-  },
-  {
-   "closed_at": 1792818438,
-   "company": "spacex",
-   "hours_open": 1212.2,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1792818438,
-   "company": "spacex",
-   "hours_open": 1212.2,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
    "closed_at": 1792818438,
    "company": "spacex",
    "hours_open": 1212.2,
@@ -5599,8 +5508,99 @@
    "hours_open": 942.1,
    "title": "information systems analyst - computer systems",
    "uid": "jobbank:systems analyst:50311291"
+  },
+  {
+   "closed_at": 1793103908,
+   "company": "Groupe DCM",
+   "hours_open": 943.5,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534679"
+  },
+  {
+   "closed_at": 1793103908,
+   "company": "Magna Mining Inc.",
+   "hours_open": 83.6,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:systems analyst:50569658"
+  },
+  {
+   "closed_at": 1793103908,
+   "company": "Stellar Software Solutions",
+   "hours_open": 413.6,
+   "title": "network infrastructure engineer",
+   "uid": "jobbank:infrastructure analyst:50462911"
+  },
+  {
+   "closed_at": 1793103908,
+   "company": "Ciena",
+   "hours_open": 493.0,
+   "title": "Signal and Power Integrity Engineer New Grad",
+   "uid": "simplify:listings:49fad5f7-8159-47be-8139-91fd5ee5d213"
+  },
+  {
+   "closed_at": 1793103908,
+   "company": "TECHSAVY INC.",
+   "hours_open": 476.0,
+   "title": "telecommunications technician",
+   "uid": "jobbank:telecommunications analyst:50383753"
+  },
+  {
+   "closed_at": 1793103908,
+   "company": "Renesas Electronics",
+   "hours_open": 135.7,
+   "title": "Associate Software Engineer",
+   "uid": "smartrecruiters:RenesasElectronics:744000156795325"
+  },
+  {
+   "closed_at": 1793103908,
+   "company": "twitch",
+   "hours_open": 1288.5,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1793103908,
+   "company": "reddit",
+   "hours_open": 252.6,
+   "title": "Machine Learning Engineer",
+   "uid": "greenhouse:reddit:7131932"
+  },
+  {
+   "closed_at": 1793103908,
+   "company": "DPMSYSTEMS IT CONSULTING SERVICES",
+   "hours_open": 294.9,
+   "title": "information systems analyst - computer systems",
+   "uid": "jobbank:information systems analyst:50311291"
+  },
+  {
+   "closed_at": 1793103908,
+   "company": "GEOCELLCANADA Inc.",
+   "hours_open": 194.1,
+   "title": "telecommunications technician",
+   "uid": "jobbank:telecommunications analyst:50029740"
+  },
+  {
+   "closed_at": 1793103908,
+   "company": "clearwayjobs",
+   "hours_open": 91.4,
+   "title": "Associate, Training Developer",
+   "uid": "greenhouse:clearwayjobs:5273639007"
+  },
+  {
+   "closed_at": 1793103908,
+   "company": "spacex",
+   "hours_open": 1288.5,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1793103908,
+   "company": "spacex",
+   "hours_open": 1291.5,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
   }
  ],
- "count": 805,
- "updated_at": 1793099049
+ "count": 813,
+ "updated_at": 1793103908
 }
