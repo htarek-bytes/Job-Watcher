@@ -1,104 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792861285,
-   "company": "spacex",
-   "hours_open": 1222.4,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1792863499,
-   "company": "Atimi",
-   "hours_open": 6.2,
-   "title": "software developer",
-   "uid": "jobbank:entry level software developer:50571580"
-  },
-  {
-   "closed_at": 1792863499,
-   "company": "trimble",
-   "hours_open": 15.9,
-   "title": "Software Engineering Intern",
-   "uid": "workday:trimble.wd1/TrimbleCareers:Software-Engineering-Intern_R57963"
-  },
-  {
-   "closed_at": 1792863499,
-   "company": "Confédération des syndicats nationaux",
-   "hours_open": 36.0,
-   "title": "Administratrice ou administrateur réseau",
-   "uid": "jobillico:analyste reseau:17619549"
-  },
-  {
-   "closed_at": 1792863499,
-   "company": "zebra",
-   "hours_open": 91.2,
-   "title": "Software Engineer, Professional I",
-   "uid": "workday:zebra.wd501/Zebra_careers:Software-Engineer--Professional-I_JR103780"
-  },
-  {
-   "closed_at": 1792864584,
-   "company": "Atimi",
-   "hours_open": 6.0,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50571580"
-  },
-  {
-   "closed_at": 1792864584,
-   "company": "twitch",
-   "hours_open": 1222.0,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1792864584,
-   "company": "reddit",
-   "hours_open": 215.0,
-   "title": "Machine Learning Engineer",
-   "uid": "greenhouse:reddit:7131934"
-  },
-  {
-   "closed_at": 1792864584,
-   "company": "spacex",
-   "hours_open": 1225.0,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1792866173,
-   "company": "Atimi",
-   "hours_open": 6.9,
-   "title": "software developer",
-   "uid": "jobbank:entry level software developer:50571580"
-  },
-  {
-   "closed_at": 1792869369,
-   "company": "Enroll Talent",
-   "hours_open": 4.5,
-   "title": "Web application developer",
-   "uid": "jobbank:developpeur junior:50555962"
-  },
-  {
-   "closed_at": 1792869369,
-   "company": "Citylitics",
-   "hours_open": 38.0,
-   "title": "data engineer",
-   "uid": "jobbank:infrastructure analyst:50564033"
-  },
-  {
-   "closed_at": 1792869369,
-   "company": "AmTrust Financial",
-   "hours_open": 362.7,
-   "title": "Software Engineer 1",
-   "uid": "simplify:listings:da2b778d-65f8-4ed5-a654-3acc8baa425a"
-  },
-  {
-   "closed_at": 1792869369,
-   "company": "D'Addario",
-   "hours_open": 427.9,
-   "title": "Junior Full Stack Engineer",
-   "uid": "simplify:listings:3a93ce9b-b375-4f91-a7b3-4841cd8b84da"
-  },
-  {
    "closed_at": 1792869369,
    "company": "Southern Star Central Gas Pipeline",
    "hours_open": 434.5,
@@ -5599,8 +5501,106 @@
    "hours_open": 1298.3,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1793139499,
+   "company": "purestorage",
+   "hours_open": 341.1,
+   "title": "Customer Success Solutions Engineer",
+   "uid": "greenhouse:purestorage:8265582"
+  },
+  {
+   "closed_at": 1793139499,
+   "company": "Hearn Industrial Services",
+   "hours_open": 64.1,
+   "title": "Internet security analyst",
+   "uid": "jobbank:infrastructure analyst:50575193"
+  },
+  {
+   "closed_at": 1793139499,
+   "company": "tsys",
+   "hours_open": 265.4,
+   "title": "Data Solution Consultant",
+   "uid": "workday:tsys.wd1/tsys:Data-Solution-Consultant_R0076646"
+  },
+  {
+   "closed_at": 1793139499,
+   "company": "uchicago",
+   "hours_open": 167.8,
+   "title": "Junior Software Developer",
+   "uid": "workday:uchicago.wd5/External:Junior-Software-Developer_JR35628"
+  },
+  {
+   "closed_at": 1793139499,
+   "company": "Whoop",
+   "hours_open": 518.4,
+   "title": "Android Engineer 1",
+   "uid": "simplify:listings:bdd26867-ca52-4259-8854-4b2f11893171"
+  },
+  {
+   "closed_at": 1793139499,
+   "company": "Freedom Technology Solutions Group",
+   "hours_open": 103.1,
+   "title": "Junior Backend Developer",
+   "uid": "simplify:listings:9c56cba3-9b43-4bdb-a6dc-9cf12b83e51d"
+  },
+  {
+   "closed_at": 1793139499,
+   "company": "abridge",
+   "hours_open": 771.1,
+   "title": "IT Operations Specialist",
+   "uid": "ashby:abridge:4e9042bc-b15b-4338-bc7e-b1b358e1cf4f"
+  },
+  {
+   "closed_at": 1793139499,
+   "company": "allen-control-systems",
+   "hours_open": 1005.9,
+   "title": "Software Engineer – Enterprise Applications ",
+   "uid": "ashby:allen-control-systems:87abef03-ff94-4a7f-a944-5fad20f23daa"
+  },
+  {
+   "closed_at": 1793139499,
+   "company": "relativity",
+   "hours_open": 1272.4,
+   "title": "PBF Technical Specialist I",
+   "uid": "greenhouse:relativity:8783463002"
+  },
+  {
+   "closed_at": 1793139499,
+   "company": "redwoodmaterials",
+   "hours_open": 318.9,
+   "title": "Software Engineer - Site Controller, Energy Storage",
+   "uid": "greenhouse:redwoodmaterials:6097367004"
+  },
+  {
+   "closed_at": 1793139499,
+   "company": "accenturefederalservices",
+   "hours_open": 1.7,
+   "title": "Junior Cloud Engineer",
+   "uid": "greenhouse:accenturefederalservices:4725277006"
+  },
+  {
+   "closed_at": 1793139499,
+   "company": "katalyst",
+   "hours_open": 1320.3,
+   "title": "Recent Graduate - Software Engineer I",
+   "uid": "greenhouse:katalyst:6176710004"
+  },
+  {
+   "closed_at": 1793139499,
+   "company": "katalyst",
+   "hours_open": 1320.3,
+   "title": "Recent Graduate - Guidance, Navigation, and Control Engineer ",
+   "uid": "greenhouse:katalyst:6176600004"
+  },
+  {
+   "closed_at": 1793139499,
+   "company": "spacex",
+   "hours_open": 1301.3,
+   "title": "Fire Protection Engineer (Starlink)   ",
+   "uid": "greenhouse:spacex:8552269002"
   }
  ],
- "count": 816,
- "updated_at": 1793134592
+ "count": 814,
+ "updated_at": 1793139500
 }
