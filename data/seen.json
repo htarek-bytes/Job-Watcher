@@ -1,5 +1,5 @@
 {
- "count": 9485,
+ "count": 9491,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -421,6 +421,7 @@
   "amazon:amazon:10589259": 1793049458,
   "amazon:amazon:10589426": 1793056982,
   "amazon:amazon:10589836": 1793112045,
+  "amazon:amazon:10589937": 1793117178,
   "ashby:1password:00f861d4-2b4a-4159-b6dc-8aed0cde6e39": 1792768274,
   "ashby:1password:443f9ef6-13a7-4edb-ace5-16be7e630041": 1792515454,
   "ashby:1password:49f0fe51-fcdc-46d8-a046-35f357b0cf6e": 1792100265,
@@ -2365,6 +2366,7 @@
   "greenhouse:clear:8230391": 1790347721,
   "greenhouse:clear:8241829": 1791991008,
   "greenhouse:clear:8244655": 1790821727,
+  "greenhouse:clear:8327481": 1793117178,
   "greenhouse:clearwayjobs:5161610007": 1788887337,
   "greenhouse:clearwayjobs:5212933007": 1788571698,
   "greenhouse:clearwayjobs:5238286007": 1790663808,
@@ -4757,6 +4759,7 @@
   "jobbank:entry level software developer:50565038": 1792750518,
   "jobbank:entry level software developer:50571580": 1792841239,
   "jobbank:entry level software developer:50577212": 1792950145,
+  "jobbank:information security analyst:50592837": 1793117178,
   "jobbank:information systems analyst:49969689": 1788887337,
   "jobbank:information systems analyst:50112346": 1788887337,
   "jobbank:information systems analyst:50163724": 1788887337,
@@ -7895,12 +7898,14 @@
   "workday:ag.wd3/Airbus:Junior-Software-Developer-Embedded--Systems---AI-d-m-w-_JR10442968-1": 1790347721,
   "workday:ag.wd3/Airbus:Junior-Software-Platform-Integration-Engineer_JR10430085-1": 1790086284,
   "workday:ag.wd3/Airbus:Junior-Structural-Design-Engineer_JR10428136-1": 1788976768,
+  "workday:ag.wd3/Airbus:Microwave-Instrument-Digital---Signal-Processing-Engineer--entry-level-_JR10448677-1": 1793117178,
   "workday:ag.wd3/Airbus:Retrofit-Solutions-Engineering-Systems-Placement--125-months-_JR10430633": 1790632503,
   "workday:ag.wd3/Airbus:SKYWISE-AI-Automation-Specialist_JR10451235": 1792170020,
   "workday:ag.wd3/Airbus:Spcialiste-Systmes-Avioniques---Avionics-Systems-Specialist_JR10394220": 1790752783,
   "workday:ag.wd3/Airbus:Spcialiste-en-Systme-EWIS--Electrical-Wiring-Interconnection-System-Specialist_JR10435628": 1791355091,
   "workday:ag.wd3/Airbus:Web-development---Spares--MRO---Training-Product-Service-Line--m-f-_JR10423915-1": 1788976768,
   "workday:ag.wd3/Airbus:XMLNAME--CORE-DIGITAL-CAMPUS---SAP-Developer--f-m-d-_JR10428591-1": 1788425964,
+  "workday:alliance.wd3/nissanjobs:New-Model-Plastics-BDM-Engineer-Intern---Summer-2027---Smyrna--TN_R00214286": 1793117178,
   "workday:alliance.wd3/nissanjobs:New-Model-Tech-Quality-Validation-Engineer-Intern---Summer-2027---Smyrna--TN_R00214251": 1791895295,
   "workday:alliance.wd3/nissanjobs:Software-Engineer-Intern---Spring-2027---Santa-Clara--CA_R00214269": 1792059019,
   "workday:alliance.wd3/nissanjobs:Systems-Engineer-Intern---Summer-2027---Canton--MS_R00214882": 1791421754,
@@ -7912,6 +7917,7 @@
   "workday:altera.wd1/altera:Software-Engineer----Intern_R03252": 1790752783,
   "workday:altera.wd1/altera:Software-Engineer----Intern_R03320": 1792201143,
   "workday:altera.wd1/altera:Software-Engineer---Intern_R03193": 1790980021,
+  "workday:altera.wd1/altera:Software-Engineer---Intern_R03382": 1793117178,
   "workday:amat.wd1/External:Algorithm-Developer--Masters-Degree--New-College-Grad--Santa-Clara-_R2631780": 1792564385,
   "workday:amat.wd1/External:Algorithm-Developer-I-New-College-Grad--Bachelor-s--Santa-Clara--CA-_R2626605": 1788368024,
   "workday:amat.wd1/External:EHS-Safety-Engineer-New-College-Grad--Bachelors---Santa-Clara--CA-_R2626244": 1788368024,
@@ -9487,5 +9493,5 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148,
   "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541": 1789106107
  },
- "updated_at": 1793112046
+ "updated_at": 1793117179
 }

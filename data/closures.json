@@ -1,118 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792823335,
-   "company": "twitch",
-   "hours_open": 1210.6,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1792823335,
-   "company": "DPMSYSTEMS IT CONSULTING SERVICES",
-   "hours_open": 216.9,
-   "title": "information systems analyst - computer systems",
-   "uid": "jobbank:information systems analyst:50311291"
-  },
-  {
-   "closed_at": 1792823335,
-   "company": "CloudLabs",
-   "hours_open": 1093.3,
-   "title": "systems analyst",
-   "uid": "jobbank:systems analyst:50053328"
-  },
-  {
-   "closed_at": 1792823335,
-   "company": "spacex",
-   "hours_open": 1213.5,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1792823335,
-   "company": "siftstack",
-   "hours_open": 1210.5,
-   "title": "Software Engineer, Backend  (Agentic AI)",
-   "uid": "ashby:siftstack:c8dbe14d-84a2-44cd-bc4c-b07ac05ad967"
-  },
-  {
-   "closed_at": 1792823335,
-   "company": "spacex",
-   "hours_open": 1213.5,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1792823335,
-   "company": "spacex",
-   "hours_open": 1213.5,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1792823679,
-   "company": "Source Code",
-   "hours_open": 48.5,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:control systems analyst:50553479"
-  },
-  {
-   "closed_at": 1792824904,
-   "company": "torcrobotics",
-   "hours_open": 422.2,
-   "title": "Commissioning - Systems Engineer I",
-   "uid": "greenhouse:torcrobotics:8864848002"
-  },
-  {
-   "closed_at": 1792824904,
-   "company": "agile-defense",
-   "hours_open": 415.5,
-   "title": "Systems Administrator - Unified Capabilities",
-   "uid": "lever:agile-defense:29729ddf-b112-4cd5-99ba-d5064284cded"
-  },
-  {
-   "closed_at": 1792834246,
-   "company": "Source Code",
-   "hours_open": 244.0,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:systems analyst:50491950"
-  },
-  {
-   "closed_at": 1792834246,
-   "company": "CGI",
-   "hours_open": 1096.4,
-   "title": "Conseiller(ère) en gouvernance de la cybersécurité",
-   "uid": "jobillico:analyste cybersecurite:17433756"
-  },
-  {
-   "closed_at": 1792834246,
-   "company": "Boeing",
-   "hours_open": 3.8,
-   "title": "Entry Level Software Engineer-Developer - Development",
-   "uid": "simplify:listings:172bdac1-ef4f-4891-8afb-b8676d403818"
-  },
-  {
-   "closed_at": 1792834246,
-   "company": "twitch",
-   "hours_open": 1216.6,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1792834246,
-   "company": "DPMSYSTEMS IT CONSULTING SERVICES",
-   "hours_open": 868.6,
-   "title": "information systems analyst - computer systems",
-   "uid": "jobbank:systems analyst:50311291"
-  },
-  {
-   "closed_at": 1792834246,
-   "company": "spacex",
-   "hours_open": 1213.6,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
    "closed_at": 1792834246,
    "company": "spacex",
    "hours_open": 1216.3,
@@ -5599,8 +5487,120 @@
    "hours_open": 1293.7,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1793117178,
+   "company": "freedomconsulting",
+   "hours_open": 648.9,
+   "title": "Backend Developer Junior 790",
+   "uid": "greenhouse:freedomconsulting:5252868007"
+  },
+  {
+   "closed_at": 1793117178,
+   "company": "freedomconsulting",
+   "hours_open": 650.0,
+   "title": "Backend Developer Journeyman 788",
+   "uid": "greenhouse:freedomconsulting:5252836007"
+  },
+  {
+   "closed_at": 1793117178,
+   "company": "Great Lakes Group",
+   "hours_open": 81.6,
+   "title": "electrical controls engineer",
+   "uid": "jobbank:control systems analyst:50570740"
+  },
+  {
+   "closed_at": 1793117178,
+   "company": "altera",
+   "hours_open": 153.6,
+   "title": "FPGA IP Design Engineer - Intern",
+   "uid": "workday:altera.wd1/altera:FPGA-IP-Design-Engineer---Intern_R03299"
+  },
+  {
+   "closed_at": 1793117178,
+   "company": "enghouse",
+   "hours_open": 1274.0,
+   "title": "Junior Software Developer (Android)",
+   "uid": "bamboohr:enghouse:2201"
+  },
+  {
+   "closed_at": 1793117178,
+   "company": "Amazon",
+   "hours_open": 118.6,
+   "title": "Software Development Engineer, CoRe Relations",
+   "uid": "amazon:amazon:10586533"
+  },
+  {
+   "closed_at": 1793117178,
+   "company": "clear",
+   "hours_open": 769.3,
+   "title": "Sales Engineer, Healthcare (C1 - B2B)",
+   "uid": "greenhouse:clear:8230391"
+  },
+  {
+   "closed_at": 1793117178,
+   "company": "clear",
+   "hours_open": 769.3,
+   "title": "Solutions Engineer, Healthcare (C1 - B2B)",
+   "uid": "greenhouse:clear:8189235"
+  },
+  {
+   "closed_at": 1793117178,
+   "company": "celonis",
+   "hours_open": 1162.7,
+   "title": "Associate Deployment Engineer - Galaxy Graduate Program",
+   "uid": "greenhouse:celonis:7627681003"
+  },
+  {
+   "closed_at": 1793117178,
+   "company": "reddit",
+   "hours_open": 285.2,
+   "title": "Machine Learning Engineer",
+   "uid": "greenhouse:reddit:7131934"
+  },
+  {
+   "closed_at": 1793117178,
+   "company": "andurilindustries",
+   "hours_open": 313.4,
+   "title": "Production Software Engineer",
+   "uid": "greenhouse:andurilindustries:5265417007"
+  },
+  {
+   "closed_at": 1793117178,
+   "company": "andurilindustries",
+   "hours_open": 649.9,
+   "title": "Python Software Engineer (Production)",
+   "uid": "greenhouse:andurilindustries:5252847007"
+  },
+  {
+   "closed_at": 1793117178,
+   "company": "RTX",
+   "hours_open": 16.7,
+   "title": "Embedded Software Engineer 1",
+   "uid": "simplify:listings:6948b98f-c979-4ba0-87d6-d3c0391df2a8"
+  },
+  {
+   "closed_at": 1793117178,
+   "company": "spacex",
+   "hours_open": 1294.9,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1793117178,
+   "company": "spacex",
+   "hours_open": 1293.5,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1793117178,
+   "company": "Amazon",
+   "hours_open": 282.5,
+   "title": "Software Dev Engineer, Amazon Leo Customer Terminal Software",
+   "uid": "amazon:amazon:10580592"
   }
  ],
- "count": 804,
- "updated_at": 1793112046
+ "count": 816,
+ "updated_at": 1793117179
 }
