@@ -1,97 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792834246,
-   "company": "spacex",
-   "hours_open": 1216.3,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1792834246,
-   "company": "spacex",
-   "hours_open": 1214.9,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1792835488,
-   "company": "AECOM",
-   "hours_open": 14.4,
-   "title": "Entry-Level Civil/Highway Engineer",
-   "uid": "smartrecruiters:AECOM2:744000157488094"
-  },
-  {
-   "closed_at": 1792835488,
-   "company": "AbbVie",
-   "hours_open": 32.1,
-   "title": "2027 Validation Engineer Co-Op (July - Dec) (Undergraduate)",
-   "uid": "smartrecruiters:AbbVie:3743990016346156"
-  },
-  {
-   "closed_at": 1792835488,
-   "company": "Citylitics",
-   "hours_open": 28.5,
-   "title": "data engineer",
-   "uid": "jobbank:infrastructure analyst:50564033"
-  },
-  {
-   "closed_at": 1792835488,
-   "company": "Source Code",
-   "hours_open": 37.8,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:systems analyst:50553479"
-  },
-  {
-   "closed_at": 1792835488,
-   "company": "twitch",
-   "hours_open": 1214.0,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1792835488,
-   "company": "DPMSYSTEMS IT CONSULTING SERVICES",
-   "hours_open": 9.1,
-   "title": "information systems analyst - computer systems",
-   "uid": "jobbank:analyste de systemes:50311291"
-  },
-  {
-   "closed_at": 1792835488,
-   "company": "spacex",
-   "hours_open": 1216.9,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1792835488,
-   "company": "spacex",
-   "hours_open": 1216.9,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1792835488,
-   "company": "spacex",
-   "hours_open": 1216.9,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1792841239,
-   "company": "Source Code",
-   "hours_open": 246.0,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:systems analyst:50491950"
-  },
-  {
-   "closed_at": 1792841239,
-   "company": "Alcoa Canada",
-   "hours_open": 1098.3,
-   "title": "Conseiller(ère) en cybersécurité (Amérique du Nord)",
-   "uid": "jobillico:analyste cybersecurite:17502948"
-  },
-  {
    "closed_at": 1792841239,
    "company": "SimpleK division de ASSA ABLOY High Security Group Inc.",
    "hours_open": 37.4,
@@ -5599,8 +5508,99 @@
    "hours_open": 282.5,
    "title": "Software Dev Engineer, Amazon Leo Customer Terminal Software",
    "uid": "amazon:amazon:10580592"
+  },
+  {
+   "closed_at": 1793118708,
+   "company": "Source Code",
+   "hours_open": 130.5,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:control systems analyst:50553479"
+  },
+  {
+   "closed_at": 1793118708,
+   "company": "bmo",
+   "hours_open": 183.9,
+   "title": "Junior Cloud Engineer, Summer 2027 (Co-op/Internship) - 16 months",
+   "uid": "workday:bmo.wd3/Campus:Junior-Cloud-Engineer--Summer-2027--Co-op-Internship----16-months_R260029417-2"
+  },
+  {
+   "closed_at": 1793118708,
+   "company": "Magna Mining Inc.",
+   "hours_open": 87.7,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:systems analyst:50569658"
+  },
+  {
+   "closed_at": 1793118708,
+   "company": "Stellar Software Solutions",
+   "hours_open": 427.3,
+   "title": "network infrastructure engineer",
+   "uid": "jobbank:specialiste infrastructure:50462911"
+  },
+  {
+   "closed_at": 1793118708,
+   "company": "Chlyn Safety Services Ltd.",
+   "hours_open": 476.8,
+   "title": "cloud administrator",
+   "uid": "jobbank:cloud administrator:50447592"
+  },
+  {
+   "closed_at": 1793118708,
+   "company": "twitch",
+   "hours_open": 1295.6,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1793118708,
+   "company": "impact",
+   "hours_open": 1295.6,
+   "title": "Intermediate Full Stack Software Engineer",
+   "uid": "greenhouse:impact:8557055002"
+  },
+  {
+   "closed_at": 1793118708,
+   "company": "reddit",
+   "hours_open": 256.7,
+   "title": "Machine Learning Engineer",
+   "uid": "greenhouse:reddit:7131932"
+  },
+  {
+   "closed_at": 1793118708,
+   "company": "bird",
+   "hours_open": 1172.2,
+   "title": "Construction Innovation Systems Analyst - Buildings East",
+   "uid": "workday:bird.wd3/BirdConstructionCareers:Construction-Innovator_JR-9305"
+  },
+  {
+   "closed_at": 1793118708,
+   "company": "andurilindustries",
+   "hours_open": 20.9,
+   "title": "Early Career Software Engineer, Battlespace Awareness",
+   "uid": "greenhouse:andurilindustries:5275431007"
+  },
+  {
+   "closed_at": 1793118708,
+   "company": "spacex",
+   "hours_open": 1292.6,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1793118708,
+   "company": "spacex",
+   "hours_open": 1295.6,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1793118708,
+   "company": "spacex",
+   "hours_open": 1295.6,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 816,
- "updated_at": 1793117179
+ "count": 813,
+ "updated_at": 1793118708
 }

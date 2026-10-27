@@ -1,5 +1,5 @@
 {
- "count": 9491,
+ "count": 9496,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -401,6 +401,7 @@
   "amazon:amazon:10586350": 1792682083,
   "amazon:amazon:10586533": 1792690107,
   "amazon:amazon:10586709": 1792695217,
+  "amazon:amazon:10586756": 1793118708,
   "amazon:amazon:10586859": 1792695217,
   "amazon:amazon:10586888": 1793043361,
   "amazon:amazon:10586896": 1793043361,
@@ -4790,6 +4791,7 @@
   "jobbank:infrastructure analyst:50512206": 1792560848,
   "jobbank:infrastructure analyst:50564033": 1792732742,
   "jobbank:infrastructure analyst:50575193": 1792908815,
+  "jobbank:infrastructure analyst:50592876": 1793118708,
   "jobbank:junior programmer:49550591": 1788390279,
   "jobbank:junior programmer:49938307": 1788390279,
   "jobbank:junior programmer:49952262": 1788390279,
@@ -7845,6 +7847,7 @@
   "workday:aah.wd5/External:New-Graduate-Nurse--RN----Cardiac-Medical-Telemetry_R281790": 1792345072,
   "workday:aah.wd5/External:New-Graduate-Registered-Nurse--RN----Medical-Telemetry_R240813-1": 1790691024,
   "workday:abb.wd3/external_career_page:AI-Solutions-Engineer_JR00045089": 1791281110,
+  "workday:abb.wd3/external_career_page:Automation-Engineer-Intern---Summer-2027_JR00049934": 1793118708,
   "workday:abb.wd3/external_career_page:Junior-Control-Software-Engineer_JR00048815": 1790691024,
   "workday:abb.wd3/external_career_page:Junior-Software-Engineer_JR00043012": 1788393810,
   "workday:abb.wd3/external_career_page:Service-Sales-specialist_JR00003209": 1788750148,
@@ -8043,6 +8046,7 @@
   "workday:bmo.wd3/External:Business---Operations-Development-Specialist--New-Grad-_R260027681": 1790347721,
   "workday:bmo.wd3/External:DDI-Network-Engineer_R260026568": 1790752952,
   "workday:bmo.wd3/External:Devops-Analyst---Technical_R260028097": 1791955795,
+  "workday:bmo.wd3/External:Junior-Cloud-Engineer--Summer-2027--Co-op-Internship----16-months_R260029417-1": 1793118708,
   "workday:bmo.wd3/External:Junior-Software-Developer--Winter-2027--Co-op-Internship----4-Months_R260024650-1": 1788760848,
   "workday:bmo.wd3/External:Machine-Learning-Developer--New-or-Recent-Graduate-_R260024265": 1788470575,
   "workday:bmo.wd3/External:Production-Support--Analyst_R260027517": 1790922474,
@@ -8128,6 +8132,7 @@
   "workday:caci.wd1/external:Software-Engineering-Intern---Summer-2027_332372": 1790167181,
   "workday:caci.wd1/external:Software-Engineering-Intern---Summer-2027_332386": 1790120419,
   "workday:caci.wd1/external:Software-Engineering-Intern---Summer-2027_332543": 1792013705,
+  "workday:caci.wd1/external:Software-Engineering-Intern---Summer-2027_332618": 1793118708,
   "workday:caci.wd1/external:Software-Test-Engineer-Intern---Spring-2027_333422": 1792110118,
   "workday:caci.wd1/external:Systems-Engineer-Intern---Summer-2027_333048": 1791955795,
   "workday:cadence.wd1/External_Careers:Adams-MultiBody-Dynamics-Application-Software-Developer--Recent-Grad-2026-_R55788": 1788368024,
@@ -9493,5 +9498,5 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148,
   "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541": 1789106107
  },
- "updated_at": 1793117179
+ "updated_at": 1793118708
 }
