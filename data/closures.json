@@ -1,69 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792853703,
-   "company": "Citylitics",
-   "hours_open": 33.6,
-   "title": "data engineer",
-   "uid": "jobbank:infrastructure analyst:50564033"
-  },
-  {
-   "closed_at": 1792853703,
-   "company": "iberdrola",
-   "hours_open": 261.7,
-   "title": "Associate Engineer - Protection & Control",
-   "uid": "workday:iberdrola.wd3/iberdrola:Associate-Engineer---Protection---Control_R-34072"
-  },
-  {
-   "closed_at": 1792853703,
-   "company": "hpe",
-   "hours_open": 163.6,
-   "title": "Technical Sales Graduate",
-   "uid": "workday:hpe.wd5/jobsathpe:Technical-Sales-Graduate_1213591-1"
-  },
-  {
-   "closed_at": 1792853703,
-   "company": "hp",
-   "hours_open": 32.1,
-   "title": "Presales Solution Engineer - Edge AI",
-   "uid": "workday:hp.wd5/EXTEU-AC-CareerSite:Presales-Solution-Engineer---Edge-AI_3169909"
-  },
-  {
-   "closed_at": 1792853703,
-   "company": "twitch",
-   "hours_open": 1219.0,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1792853703,
-   "company": "spacex",
-   "hours_open": 1219.0,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1792853703,
-   "company": "spacex",
-   "hours_open": 1221.7,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1792853703,
-   "company": "spacex",
-   "hours_open": 1222.0,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1792856260,
-   "company": "Source Code",
-   "hours_open": 250.1,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:systems analyst:50491950"
-  },
-  {
    "closed_at": 1792856260,
    "company": "kla",
    "hours_open": 14.8,
@@ -5599,8 +5536,71 @@
    "hours_open": 1298.7,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1793133524,
+   "company": "pae",
+   "hours_open": 19.9,
+   "title": "Entry Level Software Engineer - SECRET",
+   "uid": "workday:pae.wd1/amentum_careers:Entry-Level-Software-Engineer---SECRET_R0173771"
+  },
+  {
+   "closed_at": 1793133524,
+   "company": "ngc",
+   "hours_open": 19.9,
+   "title": "2027 Software Engineering Intern - Beavercreek OH",
+   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Software-Engineering-Intern---Beavercreek-OH_R10257656"
+  },
+  {
+   "closed_at": 1793133524,
+   "company": "myview",
+   "hours_open": 183.3,
+   "title": "Systems Analyst, Supply Chain - Co-op Student",
+   "uid": "workday:myview.wd3/paradox_careers:Systems-Analyst--Supply-Chain---Co-op-Student_R2000698203"
+  },
+  {
+   "closed_at": 1793133524,
+   "company": "nvidia",
+   "hours_open": 322.3,
+   "title": "SoC Software Engineer - New College Grad 2027",
+   "uid": "workday:nvidia.wd5/NVIDIAExternalCareerSite:SoC-Software-Engineer---New-College-Grad-2027_JR2026744"
+  },
+  {
+   "closed_at": 1793133524,
+   "company": "pg",
+   "hours_open": 507.9,
+   "title": "IT Technical Specialist Industrial Placement 2027",
+   "uid": "workday:pg.wd5/1000:IT-Technical-Specialist-Industrial-Placement-2027_R000160302"
+  },
+  {
+   "closed_at": 1793133524,
+   "company": "nvidia",
+   "hours_open": 1321.0,
+   "title": "Formal Verification Engineer - New College Grad 2026",
+   "uid": "workday:nvidia.wd5/NVIDIAExternalCareerSite:Formal-Verification-Engineer---New-College-Grad-2026_JR2020837"
+  },
+  {
+   "closed_at": 1793133524,
+   "company": "twitch",
+   "hours_open": 1299.7,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1793133524,
+   "company": "reddit",
+   "hours_open": 260.9,
+   "title": "Machine Learning Engineer",
+   "uid": "greenhouse:reddit:7131932"
+  },
+  {
+   "closed_at": 1793133524,
+   "company": "spacex",
+   "hours_open": 1299.4,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
   }
  ],
- "count": 807,
- "updated_at": 1793130056
+ "count": 809,
+ "updated_at": 1793133524
 }
