@@ -2,34 +2,6 @@
  "closed": [
   {
    "closed_at": 1792901378,
-   "company": "Analyst Technical Solutions",
-   "hours_open": 71.1,
-   "title": "server administrator",
-   "uid": "jobbank:linux administrator:50553363"
-  },
-  {
-   "closed_at": 1792901378,
-   "company": "BOS Innovations",
-   "hours_open": 16.7,
-   "title": "systems programmer",
-   "uid": "jobbank:junior programmer:50571636"
-  },
-  {
-   "closed_at": 1792901378,
-   "company": "JMJ Network Ltd",
-   "hours_open": 107.2,
-   "title": "Web developer",
-   "uid": "jobbank:developpeur junior:50542747"
-  },
-  {
-   "closed_at": 1792901378,
-   "company": "City of Port Moody",
-   "hours_open": 107.2,
-   "title": "systems analyst",
-   "uid": "jobbank:systems analyst:50542808"
-  },
-  {
-   "closed_at": 1792901378,
    "company": "Waterloo West Animal Hospital",
    "hours_open": 103.9,
    "title": "computer systems analyst",
@@ -5599,8 +5571,36 @@
    "hours_open": 1310.1,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1793177291,
+   "company": "Source Code",
+   "hours_open": 132.7,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:systems analyst:50553479"
+  },
+  {
+   "closed_at": 1793177291,
+   "company": "Focus Group",
+   "hours_open": 925.8,
+   "title": "Solutions Engineer (IT) - Basingstoke Area",
+   "uid": "workable:focus-group:806A198B77"
+  },
+  {
+   "closed_at": 1793177291,
+   "company": "True Anomaly",
+   "hours_open": 1348.5,
+   "title": "Data Engineer 1",
+   "uid": "simplify:listings:1bc7fe9e-fd5d-4ca1-b5c2-abedfa34dfb4"
+  },
+  {
+   "closed_at": 1793177291,
+   "company": "Focus Group",
+   "hours_open": 1191.7,
+   "title": "2nd Line Technical Analyst (Out of Hours - Nights/Weekends)",
+   "uid": "workable:focus-group:763C591FB0"
   }
  ],
- "count": 813,
- "updated_at": 1793171999
+ "count": 804,
+ "updated_at": 1793177291
 }
