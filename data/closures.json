@@ -2,62 +2,6 @@
  "closed": [
   {
    "closed_at": 1792869369,
-   "company": "REI Systems",
-   "hours_open": 1028.4,
-   "title": "Associate Software Engineer - Java",
-   "uid": "simplify:listings:33b49b9d-1aed-41bb-ba49-d0567c7f2f94"
-  },
-  {
-   "closed_at": 1792869369,
-   "company": "ConstructConnect",
-   "hours_open": 1262.9,
-   "title": "Associate Software Engineer - Product Development",
-   "uid": "simplify:listings:025d3284-8d03-4fa6-aab3-067596ccb178"
-  },
-  {
-   "closed_at": 1792869369,
-   "company": "Susquehanna International Group",
-   "hours_open": 1262.9,
-   "title": "Trading System Engineer New Grad",
-   "uid": "simplify:listings:eb3814c7-6fd3-4e58-852c-6cc00005cf9a"
-  },
-  {
-   "closed_at": 1792869369,
-   "company": "Susquehanna International Group",
-   "hours_open": 1262.9,
-   "title": "Quantitative Strategy Developer New Grad",
-   "uid": "simplify:listings:03168c7d-a3ff-4da7-9e0a-378b83a7de04"
-  },
-  {
-   "closed_at": 1792869369,
-   "company": "ITA International",
-   "hours_open": 1262.9,
-   "title": "Junior Power Platform Developer",
-   "uid": "simplify:listings:df7ccad4-e94d-42b5-914a-8875029af2a8"
-  },
-  {
-   "closed_at": 1792869369,
-   "company": "SRI International",
-   "hours_open": 486.6,
-   "title": "Test Engineer 1",
-   "uid": "simplify:listings:2c845569-b5b9-4897-a41f-1b32531b8332"
-  },
-  {
-   "closed_at": 1792869369,
-   "company": "Applied Systems, Inc.",
-   "hours_open": 1262.9,
-   "title": "Associate Software Engineer",
-   "uid": "simplify:listings:51ca28a3-5501-448a-a399-6a1d14a4fcda"
-  },
-  {
-   "closed_at": 1792869369,
-   "company": "Rambus",
-   "hours_open": 1262.9,
-   "title": "Design Engineer New Grad - Digital",
-   "uid": "simplify:listings:6e4b8412-f984-47e3-bc20-40454661b0b0"
-  },
-  {
-   "closed_at": 1792869369,
    "company": "Apogee Engineering",
    "hours_open": 1224.6,
    "title": "Junior Systems Engineer",
@@ -5599,8 +5543,64 @@
    "hours_open": 204.9,
    "title": "telecommunications technician",
    "uid": "jobbank:telecommunications analyst:50029740"
+  },
+  {
+   "closed_at": 1793145614,
+   "company": "snowflake",
+   "hours_open": 357.4,
+   "title": "AI Software Engineer",
+   "uid": "ashby:snowflake:628f36e0-8554-4d5f-8d5e-a017a761ca54"
+  },
+  {
+   "closed_at": 1793145614,
+   "company": "Maarut",
+   "hours_open": 139.2,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50553437"
+  },
+  {
+   "closed_at": 1793145614,
+   "company": "Amazon",
+   "hours_open": 293.1,
+   "title": "Software Development Engineer, Customer Experience Improvement - Defect Enrichment",
+   "uid": "amazon:amazon:10580426"
+  },
+  {
+   "closed_at": 1793145614,
+   "company": "openloophealth",
+   "hours_open": 1282.4,
+   "title": "Revenue Systems Analyst",
+   "uid": "ashby:openloophealth:77f4ee48-c290-40d1-a43b-9c217cb5f265"
+  },
+  {
+   "closed_at": 1793145614,
+   "company": "saronic",
+   "hours_open": 1300.0,
+   "title": "Camera Optomechanical Engineer",
+   "uid": "ashby:saronic:ed16a95b-8c65-4f95-afed-5682c58e3b57"
+  },
+  {
+   "closed_at": 1793145614,
+   "company": "siftstack",
+   "hours_open": 1300.0,
+   "title": "Software Engineer, Frontend",
+   "uid": "ashby:siftstack:b752e812-32bc-4885-a3b4-d1ee44a129bd"
+  },
+  {
+   "closed_at": 1793145614,
+   "company": "siftstack",
+   "hours_open": 1300.0,
+   "title": "Software Engineer, Frontend (Agentic AI)",
+   "uid": "ashby:siftstack:9abae03b-61c2-4bd6-8074-d3867be67bbd"
+  },
+  {
+   "closed_at": 1793145614,
+   "company": "spacex",
+   "hours_open": 1303.0,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 804,
- "updated_at": 1793142891
+ "count": 808,
+ "updated_at": 1793145617
 }
