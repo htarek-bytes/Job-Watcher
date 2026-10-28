@@ -1,97 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792885590,
-   "company": "reddit",
-   "hours_open": 220.8,
-   "title": "Machine Learning Engineer",
-   "uid": "greenhouse:reddit:7131934"
-  },
-  {
-   "closed_at": 1792885590,
-   "company": "spacex",
-   "hours_open": 1230.5,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1792885590,
-   "company": "spacex",
-   "hours_open": 1230.8,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1792886460,
-   "company": "Source Code",
-   "hours_open": 258.5,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:systems analyst:50491950"
-  },
-  {
-   "closed_at": 1792886460,
-   "company": "hntb",
-   "hours_open": 423.0,
-   "title": "New Grad Engineer I",
-   "uid": "workday:hntb.wd5/hntb_careers:New-Grad-Engineer-I_R-31894-1"
-  },
-  {
-   "closed_at": 1792886460,
-   "company": "hntb",
-   "hours_open": 23.2,
-   "title": "New Grad Engineer I - Summer 2027",
-   "uid": "workday:hntb.wd5/hntb_careers:New-Grad-Engineer-I---Summer-2027_R-31387-1"
-  },
-  {
-   "closed_at": 1792886460,
-   "company": "hntb",
-   "hours_open": 400.9,
-   "title": "New Grad Engineer I - Winter/Summer 2027",
-   "uid": "workday:hntb.wd5/hntb_careers:New-Grad-Engineer-I---Winter-Summer-2027_R-31349-1"
-  },
-  {
-   "closed_at": 1792888553,
-   "company": "twitch",
-   "hours_open": 1231.6,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1792888553,
-   "company": "reddit",
-   "hours_open": 192.8,
-   "title": "Machine Learning Engineer",
-   "uid": "greenhouse:reddit:7131932"
-  },
-  {
-   "closed_at": 1792888553,
-   "company": "spacex",
-   "hours_open": 1231.6,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1792888553,
-   "company": "spacex",
-   "hours_open": 1229.9,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1792890737,
-   "company": "Source Code",
-   "hours_open": 67.2,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:control systems analyst:50553479"
-  },
-  {
-   "closed_at": 1792890737,
-   "company": "twitch",
-   "hours_open": 1229.3,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
    "closed_at": 1792890737,
    "company": "reddit",
    "hours_open": 222.3,
@@ -5599,8 +5508,99 @@
    "hours_open": 1305.4,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1793162848,
+   "company": "Bosch Group",
+   "hours_open": 17.7,
+   "title": "[BD] JavaScript Developer Intern (6-month fulltime internship)",
+   "uid": "smartrecruiters:BoschGroup:744000157957589"
+  },
+  {
+   "closed_at": 1793162848,
+   "company": "AbbVie",
+   "hours_open": 17.7,
+   "title": "2027 Product Development, Science, and Technology Intern (Undergraduate)",
+   "uid": "smartrecruiters:AbbVie:3743990016416916"
+  },
+  {
+   "closed_at": 1793162848,
+   "company": "AECOM",
+   "hours_open": 35.2,
+   "title": "Entry-Level Traction Power Engineer",
+   "uid": "smartrecruiters:AECOM2:744000157714629"
+  },
+  {
+   "closed_at": 1793162848,
+   "company": "Source Code",
+   "hours_open": 142.7,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:control systems analyst:50553479"
+  },
+  {
+   "closed_at": 1793162848,
+   "company": "Groupe DCM",
+   "hours_open": 959.9,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534679"
+  },
+  {
+   "closed_at": 1793162848,
+   "company": "CDW",
+   "hours_open": 167.2,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:systems analyst:50547765"
+  },
+  {
+   "closed_at": 1793162848,
+   "company": "Nord Quantique",
+   "hours_open": 526.3,
+   "title": "developer, software",
+   "uid": "jobbank:junior software developer:50434695"
+  },
+  {
+   "closed_at": 1793162848,
+   "company": "Alcoa Canada",
+   "hours_open": 1187.6,
+   "title": "Conseiller(ère) en cybersécurité (Amérique du Nord)",
+   "uid": "jobillico:analyste cybersecurite:17502948"
+  },
+  {
+   "closed_at": 1793162848,
+   "company": "Maarut",
+   "hours_open": 114.5,
+   "title": "software developer",
+   "uid": "jobbank:entry level software developer:50565038"
+  },
+  {
+   "closed_at": 1793162848,
+   "company": "Source Code",
+   "hours_open": 58.4,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50577212"
+  },
+  {
+   "closed_at": 1793162848,
+   "company": "spacex",
+   "hours_open": 533.6,
+   "title": "IT Network Infrastructure Technician (Night Shift)",
+   "uid": "greenhouse:spacex:8869126002"
+  },
+  {
+   "closed_at": 1793162848,
+   "company": "spacex",
+   "hours_open": 1304.9,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1793162848,
+   "company": "spacex",
+   "hours_open": 1306.1,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
- "count": 800,
- "updated_at": 1793154168
+ "count": 813,
+ "updated_at": 1793162849
 }
