@@ -2,90 +2,6 @@
  "closed": [
   {
    "closed_at": 1792901378,
-   "company": "McCain Foods",
-   "hours_open": 369.2,
-   "title": "software developer",
-   "uid": "jobbank:scada:50459946"
-  },
-  {
-   "closed_at": 1792901378,
-   "company": "First Class Realty Inc., Brokerage",
-   "hours_open": 363.2,
-   "title": "cloud administrator",
-   "uid": "jobbank:cloud administrator:50462597"
-  },
-  {
-   "closed_at": 1792901378,
-   "company": "Appsys Consulting Inc.",
-   "hours_open": 397.3,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50453157"
-  },
-  {
-   "closed_at": 1792901378,
-   "company": "Linear Transfer Automation Inc.",
-   "hours_open": 394.3,
-   "title": "programmer, systems",
-   "uid": "jobbank:junior programmer:50453620"
-  },
-  {
-   "closed_at": 1792901378,
-   "company": "EXO-C INC.",
-   "hours_open": 392.0,
-   "title": "computer programmer",
-   "uid": "jobbank:junior programmer:50454780"
-  },
-  {
-   "closed_at": 1792901378,
-   "company": "HAFMAN CONSULTING GROUP INC.",
-   "hours_open": 397.5,
-   "title": "information systems quality assurance analyst",
-   "uid": "jobbank:information systems analyst:50453138"
-  },
-  {
-   "closed_at": 1792901378,
-   "company": "CPR Cell Phone Repair St.Catherines",
-   "hours_open": 392.0,
-   "title": "telecommunications equipment technician",
-   "uid": "jobbank:telecommunications analyst:50455460"
-  },
-  {
-   "closed_at": 1792901378,
-   "company": "Superior Property Management",
-   "hours_open": 416.4,
-   "title": "network system administrator",
-   "uid": "jobbank:systems administrator:50447420"
-  },
-  {
-   "closed_at": 1792901378,
-   "company": "CDW",
-   "hours_open": 94.6,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:systems analyst:50547765"
-  },
-  {
-   "closed_at": 1792901378,
-   "company": "Thompson-Nicola Regional District",
-   "hours_open": 412.3,
-   "title": "geographic information systems (gis) analyst",
-   "uid": "jobbank:information systems analyst:50449056"
-  },
-  {
-   "closed_at": 1792901378,
-   "company": "Chlyn Safety Services Ltd.",
-   "hours_open": 416.4,
-   "title": "cloud administrator",
-   "uid": "jobbank:cloud administrator:50447592"
-  },
-  {
-   "closed_at": 1792901378,
-   "company": "Nord Quantique",
-   "hours_open": 453.7,
-   "title": "developer, software",
-   "uid": "jobbank:junior software developer:50434695"
-  },
-  {
-   "closed_at": 1792901378,
    "company": "La Corporation d'entretien prédictif",
    "hours_open": 445.6,
    "title": "network system administrator",
@@ -5599,8 +5515,92 @@
    "hours_open": 1315.2,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1793196773,
+   "company": "T-Mobile",
+   "hours_open": 38.8,
+   "title": "Associate Software Engineer: Billing Platform",
+   "uid": "simplify:listings:dffcfc23-8cbd-490a-8145-fcefb06961ad"
+  },
+  {
+   "closed_at": 1793196773,
+   "company": "Alcoa Canada",
+   "hours_open": 1197.1,
+   "title": "Conseiller(ère) en cybersécurité (Amérique du Nord)",
+   "uid": "jobillico:analyste cybersecurite:17502948"
+  },
+  {
+   "closed_at": 1793196773,
+   "company": "costar",
+   "hours_open": 1049.7,
+   "title": "Security Engineer Intern - Arlington, VA",
+   "uid": "workday:costar.wd1/Costar_Campus:Security-Engineer-Intern---Arlington--VA_R39727"
+  },
+  {
+   "closed_at": 1793196773,
+   "company": "clearwateranalytics",
+   "hours_open": 1315.6,
+   "title": "Software Development Engineer I",
+   "uid": "workday:clearwateranalytics.wd1/Clearwater_Analytics_Careers:Software-Development-Engineer-I_R12059"
+  },
+  {
+   "closed_at": 1793196773,
+   "company": "Boeing",
+   "hours_open": 351.5,
+   "title": "Entry-Level Software Engineer Developer",
+   "uid": "simplify:listings:6fdafa9b-5cfa-42af-a06c-8507c8b2f10b"
+  },
+  {
+   "closed_at": 1793196773,
+   "company": "Universal Health Services",
+   "hours_open": 479.5,
+   "title": "Associate Software Engineer",
+   "uid": "simplify:listings:537aaa04-0077-4de4-9a8d-d828c5d80978"
+  },
+  {
+   "closed_at": 1793196773,
+   "company": "cisco",
+   "hours_open": 40.3,
+   "title": "Solutions Engineer - Splunk (Remote)",
+   "uid": "workday:cisco.wd5/cisco_careers:Solutions-Engineer---Splunk--Remote-_2024727-1"
+  },
+  {
+   "closed_at": 1793196773,
+   "company": "idme",
+   "hours_open": 539.2,
+   "title": "SOC Analyst ",
+   "uid": "greenhouse:idme:7808011003"
+  },
+  {
+   "closed_at": 1793196773,
+   "company": "mongodb",
+   "hours_open": 476.3,
+   "title": "Software Engineer 3, Atlas Agent Engine",
+   "uid": "greenhouse:mongodb:7597723"
+  },
+  {
+   "closed_at": 1793196773,
+   "company": "costar",
+   "hours_open": 1049.7,
+   "title": "Security Engineer Intern - Richmond, VA",
+   "uid": "workday:costar.wd1/Costar_Campus:Security-Engineer-Intern---Richmond--VA_R39726"
+  },
+  {
+   "closed_at": 1793196773,
+   "company": "assystinc",
+   "hours_open": 497.2,
+   "title": "Full Stack Developer (Entry Level)",
+   "uid": "greenhouse:assystinc:4436912009"
+  },
+  {
+   "closed_at": 1793196773,
+   "company": "Johns Hopkins Applied Physics Laboratory",
+   "hours_open": 1287.0,
+   "title": "Systems & Software Engineer New Grad - Multi-Domain Mission Planning Development",
+   "uid": "simplify:listings:c192d7cd-8e41-43d0-9f80-86b20fa05310"
   }
  ],
- "count": 818,
- "updated_at": 1793190540
+ "count": 812,
+ "updated_at": 1793196773
 }
