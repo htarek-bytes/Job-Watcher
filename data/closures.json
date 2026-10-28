@@ -1,83 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792948502,
-   "company": "marvell",
-   "hours_open": 1219.3,
-   "title": "Firmware Engineer Intern, MS - Summer 2027",
-   "uid": "workday:marvell.wd1/MarvellCareers:Firmware-Engineer-Intern--MS---Summer-2027_2604513"
-  },
-  {
-   "closed_at": 1792948502,
-   "company": "twitch",
-   "hours_open": 1248.3,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1792948502,
-   "company": "reddit",
-   "hours_open": 209.5,
-   "title": "Machine Learning Engineer",
-   "uid": "greenhouse:reddit:7131932"
-  },
-  {
-   "closed_at": 1792948502,
-   "company": "spacex",
-   "hours_open": 1248.3,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1792950145,
-   "company": "TECHSAVY INC.",
-   "hours_open": 433.3,
-   "title": "telecommunications technician",
-   "uid": "jobbank:telecommunications analyst:50383753"
-  },
-  {
-   "closed_at": 1792950145,
-   "company": "rakuten",
-   "hours_open": 101.4,
-   "title": "Intern - Software Engineer, AI User Experience",
-   "uid": "workday:rakuten.wd1/RakutenAmericas:Intern---Software-Engineer--AI-User-Experience_1033171"
-  },
-  {
-   "closed_at": 1792950145,
-   "company": "Source Code",
-   "hours_open": 84.9,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50553328"
-  },
-  {
-   "closed_at": 1792952697,
-   "company": "Groupe DCM",
-   "hours_open": 901.5,
-   "title": "Programmeur CNC / CNC Programmer",
-   "uid": "jobillico:programmeur junior:17534679"
-  },
-  {
-   "closed_at": 1792952697,
-   "company": "Source Code",
-   "hours_open": 70.3,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:systems analyst:50553479"
-  },
-  {
-   "closed_at": 1792952697,
-   "company": "trimble",
-   "hours_open": 1131.3,
-   "title": "Software Engineering Intern",
-   "uid": "workday:trimble.wd1/TrimbleCareers:Software-Engineering-Intern_R57676"
-  },
-  {
-   "closed_at": 1792952697,
-   "company": "twitch",
-   "hours_open": 1246.5,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
    "closed_at": 1792952697,
    "company": "reddit",
    "hours_open": 239.5,
@@ -5599,8 +5522,85 @@
    "hours_open": 1308.4,
    "title": "Test Engineer Recent Graduate - Test Technician",
    "uid": "simplify:listings:6323f819-c45a-46ce-bb2a-3111e0cec20d"
+  },
+  {
+   "closed_at": 1793227723,
+   "company": "tenstorrent",
+   "hours_open": 24.5,
+   "title": "Forward Deployed Engineer",
+   "uid": "greenhouse:tenstorrent:5275977007"
+  },
+  {
+   "closed_at": 1793227723,
+   "company": "Groupe DCM",
+   "hours_open": 971.7,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534670"
+  },
+  {
+   "closed_at": 1793227723,
+   "company": "CGI",
+   "hours_open": 1205.7,
+   "title": "Conseiller(ère) en audit de cybersécurité",
+   "uid": "jobillico:analyste cybersecurite:17433750"
+  },
+  {
+   "closed_at": 1793227723,
+   "company": "havocai",
+   "hours_open": 144.3,
+   "title": "Rapid Prototyping Engineer – Drones & Unmanned Systems",
+   "uid": "ashby:havocai:e51defa3-e41b-4f6c-bfe3-4d89e694004f"
+  },
+  {
+   "closed_at": 1793227723,
+   "company": "andurilindustries",
+   "hours_open": 700.5,
+   "title": "Digital Tools Engineer, Supply Chain",
+   "uid": "greenhouse:andurilindustries:5188138007"
+  },
+  {
+   "closed_at": 1793227723,
+   "company": "dexmate",
+   "hours_open": 1318.8,
+   "title": "Applied AI Engineer, Physical AI Platform",
+   "uid": "ashby:dexmate:a71df3b6-5248-442d-b1cf-cd7ae450190a"
+  },
+  {
+   "closed_at": 1793227723,
+   "company": "Hyphenate",
+   "hours_open": 20.5,
+   "title": "Software Engineer New Grad",
+   "uid": "simplify:listings:63acbea3-5828-4315-8daa-d1b33d6b868c"
+  },
+  {
+   "closed_at": 1793227723,
+   "company": "Goaly",
+   "hours_open": 20.5,
+   "title": "Applied AI Engineer Early Career",
+   "uid": "simplify:listings:dd34b526-672b-4db5-b552-1a3c468ccdc4"
+  },
+  {
+   "closed_at": 1793227723,
+   "company": "Blissway",
+   "hours_open": 1362.5,
+   "title": "Embedded Systems Engineer New Grad",
+   "uid": "simplify:listings:e62a24f2-a26c-4cc3-ba1c-2dbc5a29e072"
+  },
+  {
+   "closed_at": 1793227723,
+   "company": "rocketlab",
+   "hours_open": 1034.9,
+   "title": "Systems Engineer I",
+   "uid": "greenhouse:rocketlab:7996430003"
+  },
+  {
+   "closed_at": 1793227723,
+   "company": "rocketlab",
+   "hours_open": 1129.6,
+   "title": "Mechanical Development & Test Engineer I",
+   "uid": "greenhouse:rocketlab:7985641003"
   }
  ],
- "count": 824,
- "updated_at": 1793222704
+ "count": 811,
+ "updated_at": 1793227723
 }
