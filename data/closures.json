@@ -1,62 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792952697,
-   "company": "reddit",
-   "hours_open": 239.5,
-   "title": "Machine Learning Engineer",
-   "uid": "greenhouse:reddit:7131934"
-  },
-  {
-   "closed_at": 1792952697,
-   "company": "Source Code",
-   "hours_open": 0.7,
-   "title": "software developer",
-   "uid": "jobbank:entry level software developer:50577212"
-  },
-  {
-   "closed_at": 1792952697,
-   "company": "DPMSYSTEMS IT CONSULTING SERVICES",
-   "hours_open": 252.9,
-   "title": "information systems analyst - computer systems",
-   "uid": "jobbank:information systems analyst:50311291"
-  },
-  {
-   "closed_at": 1792952697,
-   "company": "spacex",
-   "hours_open": 1249.5,
-   "title": "Avionics System Engineer, HITL (Starfall)",
-   "uid": "greenhouse:spacex:8748882002"
-  },
-  {
-   "closed_at": 1792952697,
-   "company": "spacex",
-   "hours_open": 1249.2,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1792955941,
-   "company": "Groupe DCM",
-   "hours_open": 896.2,
-   "title": "Programmeur CNC / CNC Programmer",
-   "uid": "jobillico:programmeur junior:17534670"
-  },
-  {
-   "closed_at": 1792955941,
-   "company": "Source Code",
-   "hours_open": 0.9,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50577212"
-  },
-  {
-   "closed_at": 1792955941,
-   "company": "Source Code",
-   "hours_open": 85.3,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:control systems analyst:50553479"
-  },
-  {
    "closed_at": 1792955941,
    "company": "DPMSYSTEMS IT CONSULTING SERVICES",
    "hours_open": 902.4,
@@ -5599,8 +5543,64 @@
    "hours_open": 1129.6,
    "title": "Mechanical Development & Test Engineer I",
    "uid": "greenhouse:rocketlab:7985641003"
+  },
+  {
+   "closed_at": 1793230510,
+   "company": "morse-micro",
+   "hours_open": 669.1,
+   "title": "Software Applications Engineer ",
+   "uid": "ashby:morse-micro:bcc776ce-7b57-4d2c-ba8e-3c29a8f9c769"
+  },
+  {
+   "closed_at": 1793230510,
+   "company": "Groupe DCM",
+   "hours_open": 978.7,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534679"
+  },
+  {
+   "closed_at": 1793230510,
+   "company": "Amazon",
+   "hours_open": 12.7,
+   "title": "Software Development Engineer, Devices Software & Services",
+   "uid": "amazon:amazon:10590870"
+  },
+  {
+   "closed_at": 1793230510,
+   "company": "twitch",
+   "hours_open": 1323.7,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1793230510,
+   "company": "reddit",
+   "hours_open": 316.6,
+   "title": "Machine Learning Engineer",
+   "uid": "greenhouse:reddit:7131934"
+  },
+  {
+   "closed_at": 1793230510,
+   "company": "spacex",
+   "hours_open": 1326.6,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1793230510,
+   "company": "spacex",
+   "hours_open": 1326.6,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1793230510,
+   "company": "spacex",
+   "hours_open": 1326.6,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 811,
- "updated_at": 1793227723
+ "count": 808,
+ "updated_at": 1793230511
 }
