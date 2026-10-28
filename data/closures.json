@@ -1,34 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792879049,
-   "company": "spacex",
-   "hours_open": 1227.3,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1792883327,
-   "company": "Groupe DCM",
-   "hours_open": 876.1,
-   "title": "Programmeur CNC / CNC Programmer",
-   "uid": "jobillico:programmeur junior:17534670"
-  },
-  {
-   "closed_at": 1792885590,
-   "company": "Groupe DCM",
-   "hours_open": 882.8,
-   "title": "Programmeur CNC / CNC Programmer",
-   "uid": "jobillico:programmeur junior:17534679"
-  },
-  {
-   "closed_at": 1792885590,
-   "company": "twitch",
-   "hours_open": 1227.9,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
    "closed_at": 1792885590,
    "company": "reddit",
    "hours_open": 220.8,
@@ -5599,8 +5571,36 @@
    "hours_open": 1317.2,
    "title": "Data Engineer I",
    "uid": "greenhouse:trueanomalyinc:5223279007"
+  },
+  {
+   "closed_at": 1793153952,
+   "company": "ServiceNow",
+   "hours_open": 3.2,
+   "title": "Software Engineer New Grad - AI/ML",
+   "uid": "simplify:listings:ffedf0e5-2d73-47af-aa9d-0ef0ae4b42d6"
+  },
+  {
+   "closed_at": 1793153952,
+   "company": "spacex",
+   "hours_open": 1305.4,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1793153952,
+   "company": "agile-defense",
+   "hours_open": 1223.3,
+   "title": "Sales Engineer, Embedded AI",
+   "uid": "lever:agile-defense:446e948b-bbb6-4784-86ed-a930d7dacd9e"
+  },
+  {
+   "closed_at": 1793153952,
+   "company": "spacex",
+   "hours_open": 1305.4,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 815,
- "updated_at": 1793150983
+ "count": 804,
+ "updated_at": 1793153953
 }
