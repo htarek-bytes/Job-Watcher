@@ -2,48 +2,6 @@
  "closed": [
   {
    "closed_at": 1792869369,
-   "company": "Apogee Engineering",
-   "hours_open": 1224.6,
-   "title": "Junior Systems Engineer",
-   "uid": "simplify:listings:2a0c1265-8e46-48e4-9097-a1399cff3451"
-  },
-  {
-   "closed_at": 1792869369,
-   "company": "General Dynamics",
-   "hours_open": 362.7,
-   "title": "Entry Level Engineer - Embedded Software / Systems",
-   "uid": "simplify:listings:41d4c5b0-dc1d-488f-8c59-2d88880e974d"
-  },
-  {
-   "closed_at": 1792869369,
-   "company": "General Dynamics Mission Systems",
-   "hours_open": 403.4,
-   "title": "Embedded Software Engineer Entry Level",
-   "uid": "simplify:listings:9dfe7746-ba68-48c6-8d73-9a3e54ea661f"
-  },
-  {
-   "closed_at": 1792869369,
-   "company": "General Dynamics Mission Systems",
-   "hours_open": 1236.8,
-   "title": "Engineering Leadership Program Engineer - Class of 2027",
-   "uid": "simplify:listings:7f9bed81-910c-451c-afca-90b42ff6ac4e"
-  },
-  {
-   "closed_at": 1792869369,
-   "company": "Peraton",
-   "hours_open": 1262.9,
-   "title": "Associate Software Engineer - Cyber",
-   "uid": "simplify:listings:646702df-6a22-45b8-b6ff-ea112461213c"
-  },
-  {
-   "closed_at": 1792869369,
-   "company": "General Dynamics Mission Systems",
-   "hours_open": 1262.9,
-   "title": "Software Engineer - Entry Level",
-   "uid": "simplify:listings:2af5ac17-a498-44a7-829b-c3147a8a150b"
-  },
-  {
-   "closed_at": 1792869369,
    "company": "Peraton",
    "hours_open": 486.6,
    "title": "Junior Software Engineer",
@@ -5599,8 +5557,50 @@
    "hours_open": 1303.0,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1793146668,
+   "company": "whoop",
+   "hours_open": 505.3,
+   "title": "Software Engineer I (Frontend, AI Platform)",
+   "uid": "ashby:whoop:ae351985-e5cf-4bd8-b8a1-6f8c2d5b5de3"
+  },
+  {
+   "closed_at": 1793146668,
+   "company": "Nord Quantique",
+   "hours_open": 521.8,
+   "title": "developer, software",
+   "uid": "jobbank:junior software developer:50434695"
+  },
+  {
+   "closed_at": 1793146668,
+   "company": "twitch",
+   "hours_open": 1303.3,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1793146668,
+   "company": "whoop",
+   "hours_open": 505.3,
+   "title": "Android Engineer I",
+   "uid": "ashby:whoop:2910a5f6-fb5e-4fe6-bb9a-24d6995d8173"
+  },
+  {
+   "closed_at": 1793146668,
+   "company": "reddit",
+   "hours_open": 264.5,
+   "title": "Machine Learning Engineer",
+   "uid": "greenhouse:reddit:7131932"
+  },
+  {
+   "closed_at": 1793146668,
+   "company": "spacex",
+   "hours_open": 1301.6,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
   }
  ],
- "count": 808,
- "updated_at": 1793145617
+ "count": 806,
+ "updated_at": 1793146669
 }
