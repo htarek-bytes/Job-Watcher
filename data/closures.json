@@ -1,111 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792869369,
-   "company": "Peraton",
-   "hours_open": 486.6,
-   "title": "Junior Software Engineer",
-   "uid": "simplify:listings:58b31cf1-a146-494d-b944-3f9f3698ea79"
-  },
-  {
-   "closed_at": 1792869369,
-   "company": "General Dynamics Mission Systems",
-   "hours_open": 1262.9,
-   "title": "Entry Level Infrastructure Hardware Systems Engineer",
-   "uid": "simplify:listings:25bf1002-16f7-4d53-bcf5-e005d14cffa8"
-  },
-  {
-   "closed_at": 1792869369,
-   "company": "Peraton",
-   "hours_open": 1262.9,
-   "title": "Cloud Software Engineer 1",
-   "uid": "simplify:listings:b4c2db2d-3859-453b-823e-8dc517020ce3"
-  },
-  {
-   "closed_at": 1792869935,
-   "company": "Source Code",
-   "hours_open": 253.9,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:systems analyst:50491950"
-  },
-  {
-   "closed_at": 1792869935,
-   "company": "nimblerobotics",
-   "hours_open": 529.1,
-   "title": "Software Engineer, Robotics Fleet Optimization ",
-   "uid": "greenhouse:nimblerobotics:4136334009"
-  },
-  {
-   "closed_at": 1792871174,
-   "company": "Confédération des syndicats nationaux",
-   "hours_open": 38.1,
-   "title": "Administratrice ou administrateur réseau",
-   "uid": "jobillico:analyste reseau:17619549"
-  },
-  {
-   "closed_at": 1792871174,
-   "company": "Citylitics",
-   "hours_open": 38.5,
-   "title": "data engineer",
-   "uid": "jobbank:infrastructure analyst:50564033"
-  },
-  {
-   "closed_at": 1792871174,
-   "company": "Source Code",
-   "hours_open": 61.7,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:control systems analyst:50553479"
-  },
-  {
-   "closed_at": 1792873832,
-   "company": "Atimi",
-   "hours_open": 8.6,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50571580"
-  },
-  {
-   "closed_at": 1792875899,
-   "company": "Atimi",
-   "hours_open": 9.6,
-   "title": "software developer",
-   "uid": "jobbank:entry level software developer:50571580"
-  },
-  {
-   "closed_at": 1792878417,
-   "company": "Citylitics",
-   "hours_open": 40.5,
-   "title": "data engineer",
-   "uid": "jobbank:infrastructure analyst:50564033"
-  },
-  {
-   "closed_at": 1792879049,
-   "company": "Confédération des syndicats nationaux",
-   "hours_open": 40.3,
-   "title": "Administratrice ou administrateur réseau",
-   "uid": "jobillico:analyste reseau:17619549"
-  },
-  {
-   "closed_at": 1792879049,
-   "company": "twitch",
-   "hours_open": 1229.0,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1792879049,
-   "company": "reddit",
-   "hours_open": 190.2,
-   "title": "Machine Learning Engineer",
-   "uid": "greenhouse:reddit:7131932"
-  },
-  {
-   "closed_at": 1792879049,
-   "company": "spacex",
-   "hours_open": 1229.0,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
    "closed_at": 1792879049,
    "company": "spacex",
    "hours_open": 1227.3,
@@ -5599,8 +5494,113 @@
    "hours_open": 1301.6,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1793150982,
+   "company": "stripe",
+   "hours_open": 28.2,
+   "title": "iOS Engineer, Identity",
+   "uid": "greenhouse:stripe:8311082"
+  },
+  {
+   "closed_at": 1793150982,
+   "company": "stripe",
+   "hours_open": 28.2,
+   "title": "Android Engineer, Identity ",
+   "uid": "greenhouse:stripe:8311069"
+  },
+  {
+   "closed_at": 1793150982,
+   "company": "geotab",
+   "hours_open": 145.8,
+   "title": "Business Development Associate, Field Service ",
+   "uid": "greenhouse:geotab:5436966008"
+  },
+  {
+   "closed_at": 1793150982,
+   "company": "Everfox",
+   "hours_open": 26.1,
+   "title": "Software Engineer 1",
+   "uid": "simplify:listings:2f49a679-e4b5-41e5-9ff7-7c3cf645c769"
+  },
+  {
+   "closed_at": 1793150982,
+   "company": "Ciena",
+   "hours_open": 26.1,
+   "title": "Software Engineer New Grad - Security",
+   "uid": "simplify:listings:17167eb4-da3f-41d8-be5b-6f5993633d22"
+  },
+  {
+   "closed_at": 1793150982,
+   "company": "Nord Quantique",
+   "hours_open": 1.2,
+   "title": "developer, software",
+   "uid": "jobbank:entry level software developer:50434695"
+  },
+  {
+   "closed_at": 1793150982,
+   "company": "Amazon",
+   "hours_open": 116.2,
+   "title": "Cloud Hardware Development Engineer – Early Career",
+   "uid": "simplify:listings:0c3a5965-3804-48e8-90e2-300c3512c9ee"
+  },
+  {
+   "closed_at": 1793150982,
+   "company": "twitch",
+   "hours_open": 1301.6,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1793150982,
+   "company": "reddit",
+   "hours_open": 294.6,
+   "title": "Machine Learning Engineer",
+   "uid": "greenhouse:reddit:7131934"
+  },
+  {
+   "closed_at": 1793150982,
+   "company": "Lowe's",
+   "hours_open": 1036.9,
+   "title": "Associate Software Engineer - Launchpad",
+   "uid": "simplify:listings:191bef07-9c08-4fff-8583-81c3ba0e6c30"
+  },
+  {
+   "closed_at": 1793150982,
+   "company": "Amentum",
+   "hours_open": 564.9,
+   "title": "C or C++ Junior Developer",
+   "uid": "simplify:listings:32c4defb-7dea-4ea6-af09-279f66cabd5e"
+  },
+  {
+   "closed_at": 1793150982,
+   "company": "rocketems",
+   "hours_open": 153.9,
+   "title": "SMT Programmer (Second Shift)",
+   "uid": "greenhouse:rocketems:4462423009"
+  },
+  {
+   "closed_at": 1793150982,
+   "company": "spacex",
+   "hours_open": 438.5,
+   "title": "New Graduate Engineer, Manufacturing - '26/'27 (Starlink)",
+   "uid": "greenhouse:spacex:8877857002"
+  },
+  {
+   "closed_at": 1793150982,
+   "company": "spacex",
+   "hours_open": 438.5,
+   "title": "New Graduate Engineer, Automation - '26/'27 (Starlink)",
+   "uid": "greenhouse:spacex:8877862002"
+  },
+  {
+   "closed_at": 1793150982,
+   "company": "trueanomalyinc",
+   "hours_open": 1317.2,
+   "title": "Data Engineer I",
+   "uid": "greenhouse:trueanomalyinc:5223279007"
   }
  ],
- "count": 806,
- "updated_at": 1793146669
+ "count": 815,
+ "updated_at": 1793150983
 }
