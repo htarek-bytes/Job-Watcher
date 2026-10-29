@@ -1,34 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792965793,
-   "company": "Alcoa Canada",
-   "hours_open": 1132.9,
-   "title": "Conseiller(ère) en cybersécurité (Amérique du Nord)",
-   "uid": "jobillico:analyste cybersecurite:17502948"
-  },
-  {
-   "closed_at": 1792967457,
-   "company": "Bosch Group",
-   "hours_open": 50.1,
-   "title": "Production Engineer Intern",
-   "uid": "smartrecruiters:BoschGroup:744000157395399"
-  },
-  {
-   "closed_at": 1792967457,
-   "company": "Stellar Software Solutions",
-   "hours_open": 375.7,
-   "title": "network infrastructure engineer",
-   "uid": "jobbank:infrastructure analyst:50462911"
-  },
-  {
-   "closed_at": 1792967457,
-   "company": "twitch",
-   "hours_open": 1250.6,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
    "closed_at": 1792967457,
    "company": "reddit",
    "hours_open": 243.6,
@@ -5599,8 +5571,36 @@
    "hours_open": 1326.5,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1793239145,
+   "company": "Amazon",
+   "hours_open": 316.4,
+   "title": "Software Dev Engineer, AWS WAF Bot Control and Fraud Prevention",
+   "uid": "amazon:amazon:10580768"
+  },
+  {
+   "closed_at": 1793239145,
+   "company": "togetherai",
+   "hours_open": 725.7,
+   "title": "Technical Marketing Engineer",
+   "uid": "greenhouse:togetherai:5238633007"
+  },
+  {
+   "closed_at": 1793239145,
+   "company": "agile-defense",
+   "hours_open": 23.7,
+   "title": "Software Engineer I",
+   "uid": "lever:agile-defense:0d603eca-2337-4122-8e53-07b22a4077f8"
+  },
+  {
+   "closed_at": 1793239145,
+   "company": "voyagertechnologiesinc",
+   "hours_open": 1329.0,
+   "title": "Systems Engineer V - MSAD",
+   "uid": "greenhouse:voyagertechnologiesinc:4313232009"
   }
  ],
- "count": 815,
- "updated_at": 1793236013
+ "count": 804,
+ "updated_at": 1793239146
 }
