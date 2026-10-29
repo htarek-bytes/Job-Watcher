@@ -2,20 +2,6 @@
  "closed": [
   {
    "closed_at": 1792967457,
-   "company": "reddit",
-   "hours_open": 243.6,
-   "title": "Machine Learning Engineer",
-   "uid": "greenhouse:reddit:7131934"
-  },
-  {
-   "closed_at": 1792967457,
-   "company": "Source Code",
-   "hours_open": 4.8,
-   "title": "software developer",
-   "uid": "jobbank:entry level software developer:50577212"
-  },
-  {
-   "closed_at": 1792967457,
    "company": "spacex",
    "hours_open": 1253.6,
    "title": "Security Software Engineer (Starlink)",
@@ -5599,8 +5585,22 @@
    "hours_open": 1329.0,
    "title": "Systems Engineer V - MSAD",
    "uid": "greenhouse:voyagertechnologiesinc:4313232009"
+  },
+  {
+   "closed_at": 1793242319,
+   "company": "Nordstrom",
+   "hours_open": 507.0,
+   "title": "Engineer 1",
+   "uid": "simplify:listings:addc9110-286b-45d0-9b03-24ea2d3042c6"
+  },
+  {
+   "closed_at": 1793242319,
+   "company": "hsag",
+   "hours_open": 833.3,
+   "title": "Business Intelligence (BI) Developer I - QUICKSIGHT",
+   "uid": "lever:hsag:538428ec-fa2f-4d7f-b83b-348ba9edcc25"
   }
  ],
- "count": 804,
- "updated_at": 1793239146
+ "count": 802,
+ "updated_at": 1793242319
 }
