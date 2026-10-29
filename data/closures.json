@@ -1,167 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1793021916,
-   "company": "apptronik",
-   "hours_open": 557.4,
-   "title": "Hardware Integration Engineer - Dexterity",
-   "uid": "greenhouse:apptronik:6016652004"
-  },
-  {
-   "closed_at": 1793021916,
-   "company": "RTX",
-   "hours_open": 421.3,
-   "title": "Embedded Security Software Engineer 1",
-   "uid": "simplify:listings:9199e425-2144-4178-bac6-c9f1802f9f1e"
-  },
-  {
-   "closed_at": 1793024082,
-   "company": "auw",
-   "hours_open": 55.3,
-   "title": "AI Engineer - Data Science",
-   "uid": "lever:auw:6f317af6-4362-4dea-accc-e86ec1d102a5"
-  },
-  {
-   "closed_at": 1793024082,
-   "company": "auw",
-   "hours_open": 55.3,
-   "title": "AI Engineer - Application Development",
-   "uid": "lever:auw:9234d6e2-f306-48d9-9cd6-9192d34d889c"
-  },
-  {
-   "closed_at": 1793024082,
-   "company": "auw",
-   "hours_open": 55.3,
-   "title": "AI Engineer - Infrustructure",
-   "uid": "lever:auw:515a3498-4257-4e68-91ff-cf82e854f12d"
-  },
-  {
-   "closed_at": 1793024082,
-   "company": "databricks",
-   "hours_open": 70.8,
-   "title": "Associate Forward Deployed Engineer",
-   "uid": "greenhouse:databricks:8910846002"
-  },
-  {
-   "closed_at": 1793024082,
-   "company": "Groupe DCM",
-   "hours_open": 915.2,
-   "title": "Programmeur CNC / CNC Programmer",
-   "uid": "jobillico:programmeur junior:17534670"
-  },
-  {
-   "closed_at": 1793024082,
-   "company": "Alcoa Canada",
-   "hours_open": 1149.1,
-   "title": "Conseiller(ère) en cybersécurité (Amérique du Nord)",
-   "uid": "jobillico:analyste cybersecurite:17502948"
-  },
-  {
-   "closed_at": 1793024082,
-   "company": "twitch",
-   "hours_open": 1269.3,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1793024082,
-   "company": "reddit",
-   "hours_open": 230.5,
-   "title": "Machine Learning Engineer",
-   "uid": "greenhouse:reddit:7131932"
-  },
-  {
-   "closed_at": 1793024082,
-   "company": "Source Code",
-   "hours_open": 90.2,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:systems analyst:50553479"
-  },
-  {
-   "closed_at": 1793024082,
-   "company": "DPMSYSTEMS IT CONSULTING SERVICES",
-   "hours_open": 272.7,
-   "title": "information systems analyst - computer systems",
-   "uid": "jobbank:information systems analyst:50311291"
-  },
-  {
-   "closed_at": 1793024082,
-   "company": "Leidos",
-   "hours_open": 421.9,
-   "title": "Entry-Level Electrical Hardware Design Engineer",
-   "uid": "simplify:listings:c983d97d-884a-45c6-b32b-9e1fbc3c4f50"
-  },
-  {
-   "closed_at": 1793024082,
-   "company": "agile-defense",
-   "hours_open": 470.9,
-   "title": "Systems Administrator - WSMT-Server (Intermediate & Associate)",
-   "uid": "lever:agile-defense:61b67c5b-fc20-415f-803e-6ab552fec16f"
-  },
-  {
-   "closed_at": 1793024082,
-   "company": "spacex",
-   "hours_open": 1269.3,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1793033770,
-   "company": "lyft",
-   "hours_open": 239.9,
-   "title": "Software Engineer, GovTech",
-   "uid": "greenhouse:lyft:8894909002"
-  },
-  {
-   "closed_at": 1793033770,
-   "company": "provectus",
-   "hours_open": 117.3,
-   "title": "Associate Forward Deployed Engineer",
-   "uid": "lever:provectus:62394851-693e-47fe-a86c-f8d9acf43ec2"
-  },
-  {
-   "closed_at": 1793033770,
-   "company": "robinhood",
-   "hours_open": 574.6,
-   "title": "iOS Developer, International",
-   "uid": "greenhouse:robinhood:8246088"
-  },
-  {
-   "closed_at": 1793033770,
-   "company": "Enroll Talent",
-   "hours_open": 50.2,
-   "title": "Web application developer",
-   "uid": "jobbank:developpeur junior:50555962"
-  },
-  {
-   "closed_at": 1793033770,
-   "company": "Citylitics",
-   "hours_open": 83.6,
-   "title": "data engineer",
-   "uid": "jobbank:infrastructure analyst:50564033"
-  },
-  {
-   "closed_at": 1793033770,
-   "company": "Source Code",
-   "hours_open": 299.4,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:systems analyst:50491950"
-  },
-  {
-   "closed_at": 1793033770,
-   "company": "CGI",
-   "hours_open": 1151.8,
-   "title": "Conseiller(ère) en gouvernance de la cybersécurité",
-   "uid": "jobillico:analyste cybersecurite:17433756"
-  },
-  {
-   "closed_at": 1793033770,
-   "company": "Stellar Software Solutions",
-   "hours_open": 403.7,
-   "title": "network infrastructure engineer",
-   "uid": "jobbank:specialiste infrastructure:50462911"
-  },
-  {
    "closed_at": 1793033770,
    "company": "Thompson-Nicola Regional District",
    "hours_open": 449.0,
@@ -5599,8 +5438,169 @@
    "hours_open": 1343.2,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1793299690,
+   "company": "pae",
+   "hours_open": 23.2,
+   "title": "Spring 2027 Intern - Structural Dynamics Engineer",
+   "uid": "workday:pae.wd1/amentum_careers:Spring-2027-Intern---Structural-Dynamics-Engineer_R0174115"
+  },
+  {
+   "closed_at": 1793299690,
+   "company": "applovin",
+   "hours_open": 504.9,
+   "title": "Security Specialist ",
+   "uid": "greenhouse:applovin:4720054006"
+  },
+  {
+   "closed_at": 1793299690,
+   "company": "oclc",
+   "hours_open": 137.7,
+   "title": "Associate Software Engineer - Search Team",
+   "uid": "workday:oclc.wd1/OCLC_Careers:Associate-Software-Engineer---Search-Team_R0003958"
+  },
+  {
+   "closed_at": 1793299690,
+   "company": "nc",
+   "hours_open": 339.8,
+   "title": "Engineer I",
+   "uid": "workday:nc.wd108/NC_Careers:Engineer-I_JR-126363"
+  },
+  {
+   "closed_at": 1793299690,
+   "company": "nidec",
+   "hours_open": 24.3,
+   "title": "Applications Engineer I",
+   "uid": "workday:nidec.wd1/nidec:Applications-Engineer-I_R0017947"
+  },
+  {
+   "closed_at": 1793299690,
+   "company": "nvidia",
+   "hours_open": 1367.2,
+   "title": "Formal Verification Engineer - New College Grad 2026",
+   "uid": "workday:nvidia.wd5/NVIDIAExternalCareerSite:Formal-Verification-Engineer---New-College-Grad-2026_JR2020837"
+  },
+  {
+   "closed_at": 1793299690,
+   "company": "Amazon",
+   "hours_open": 58.5,
+   "title": "Software Development Engineer, AWS Agentic AI",
+   "uid": "amazon:amazon:10584176"
+  },
+  {
+   "closed_at": 1793299690,
+   "company": "Amazon",
+   "hours_open": 58.7,
+   "title": "Software Development Engineer , AWS Agentic AI Foundations",
+   "uid": "amazon:amazon:10584164"
+  },
+  {
+   "closed_at": 1793299690,
+   "company": "Amazon",
+   "hours_open": 22.3,
+   "title": "Software Development Engineer, Trainium Systems",
+   "uid": "amazon:amazon:10589564"
+  },
+  {
+   "closed_at": 1793299690,
+   "company": "Amazon",
+   "hours_open": 42.8,
+   "title": "Frontend Engineer, AI Business Automation, Prime Video",
+   "uid": "amazon:amazon:10586228"
+  },
+  {
+   "closed_at": 1793299690,
+   "company": "nationwide",
+   "hours_open": 1318.9,
+   "title": "Summer 2027 Feature Engineer Internship",
+   "uid": "workday:nationwide.wd1/Nationwide_Career:Summer-2027-Feature-Engineer-Internship_100233"
+  },
+  {
+   "closed_at": 1793299690,
+   "company": "ngc",
+   "hours_open": 24.3,
+   "title": "2027 Business Development Analyst Internship - HYBRID/Baltimore MD or McLean VA",
+   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Business-Development-Analyst-Internship---HYBRID-Baltimore-MD-or-McLean-VA_R10257926"
+  },
+  {
+   "closed_at": 1793299690,
+   "company": "ngc",
+   "hours_open": 46.2,
+   "title": "2027 Business Development Analyst Internship - Baltimore MD or McLean VA",
+   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Business-Development-Analyst-Internship---Baltimore-MD-or-McLean-VA_R10257901"
+  },
+  {
+   "closed_at": 1793299690,
+   "company": "pae",
+   "hours_open": 46.2,
+   "title": "Software Engineer Junior",
+   "uid": "workday:pae.wd1/amentum_careers:Software-Engineer-Junior_R0173629"
+  },
+  {
+   "closed_at": 1793299690,
+   "company": "twitch",
+   "hours_open": 1342.9,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1793299690,
+   "company": "reddit",
+   "hours_open": 335.9,
+   "title": "Machine Learning Engineer",
+   "uid": "greenhouse:reddit:7131934"
+  },
+  {
+   "closed_at": 1793299690,
+   "company": "nvidia",
+   "hours_open": 355.3,
+   "title": "ASIC Verification Engineer - New College Grad 2026",
+   "uid": "workday:nvidia.wd5/NVIDIAExternalCareerSite:ASIC-Verification-Engineer---New-College-Grad-2026_JR2012573"
+  },
+  {
+   "closed_at": 1793299690,
+   "company": "Princeton IT Services Inc",
+   "hours_open": 1363.7,
+   "title": "software development programmer",
+   "uid": "jobbank:junior programmer:50092595"
+  },
+  {
+   "closed_at": 1793299690,
+   "company": "RTX",
+   "hours_open": 504.9,
+   "title": "Embedded Software Engineer 1",
+   "uid": "simplify:listings:eca699ea-4b3d-45f9-bfb7-6f596296fddc"
+  },
+  {
+   "closed_at": 1793299690,
+   "company": "andurilindustries",
+   "hours_open": 1078.3,
+   "title": "Electrical Test Engineer, Counter Intrusion",
+   "uid": "greenhouse:andurilindustries:5237987007"
+  },
+  {
+   "closed_at": 1793299690,
+   "company": "spacex",
+   "hours_open": 1344.1,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1793299690,
+   "company": "Amazon",
+   "hours_open": 326.0,
+   "title": "Embedded Software Development Engineer, Amazon Leo Optical Inter-Satellite Link ",
+   "uid": "amazon:amazon:10581073"
+  },
+  {
+   "closed_at": 1793299690,
+   "company": "Amazon",
+   "hours_open": 305.3,
+   "title": "Software Development Engineer - Amazon LEO Network Services, LEO Pop",
+   "uid": "amazon:amazon:10582047"
   }
  ],
- "count": 809,
- "updated_at": 1793290210
+ "count": 823,
+ "updated_at": 1793299692
 }
