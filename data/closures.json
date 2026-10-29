@@ -2,41 +2,6 @@
  "closed": [
   {
    "closed_at": 1792989219,
-   "company": "Citylitics",
-   "hours_open": 71.2,
-   "title": "data engineer",
-   "uid": "jobbank:infrastructure analyst:50564033"
-  },
-  {
-   "closed_at": 1792989219,
-   "company": "Source Code",
-   "hours_open": 287.1,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:systems analyst:50491950"
-  },
-  {
-   "closed_at": 1792989219,
-   "company": "Alcoa Canada",
-   "hours_open": 1139.4,
-   "title": "Conseiller(ère) en cybersécurité (Amérique du Nord)",
-   "uid": "jobillico:analyste cybersecurite:17502948"
-  },
-  {
-   "closed_at": 1792989219,
-   "company": "ngc",
-   "hours_open": 795.6,
-   "title": "2027 Cyber Software Engineer Intern - Tampa FL",
-   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Cyber-Software-Engineer-Intern---Tampa-FL_R10249530"
-  },
-  {
-   "closed_at": 1792989219,
-   "company": "twitch",
-   "hours_open": 1256.7,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1792989219,
    "company": "reddit",
    "hours_open": 249.6,
    "title": "Machine Learning Engineer",
@@ -5599,8 +5564,43 @@
    "hours_open": 1338.3,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1793279982,
+   "company": "bmo",
+   "hours_open": 228.7,
+   "title": "Junior Cloud Engineer, Summer 2027 (Co-op/Internship) - 16 months",
+   "uid": "workday:bmo.wd3/Campus:Junior-Cloud-Engineer--Summer-2027--Co-op-Internship----16-months_R260029417-2"
+  },
+  {
+   "closed_at": 1793279982,
+   "company": "CGI",
+   "hours_open": 1220.2,
+   "title": "Conseiller(ère) en architecture de cybersécurité",
+   "uid": "jobillico:analyste cybersecurite:17433753"
+  },
+  {
+   "closed_at": 1793279982,
+   "company": "broadcom",
+   "hours_open": 474.0,
+   "title": "Solution Engineer - ValueOps",
+   "uid": "workday:broadcom.wd1/external_career:Solution-Engineer---ValueOps_R027294"
+  },
+  {
+   "closed_at": 1793279982,
+   "company": "boeing",
+   "hours_open": 24.8,
+   "title": "Entry-Level Software Engineer",
+   "uid": "workday:boeing.wd1/external_subsidiary:Entry-Level-Software-Engineer_JR2026527992"
+  },
+  {
+   "closed_at": 1793279982,
+   "company": "caci",
+   "hours_open": 669.0,
+   "title": "AI Prompt Engineer High School Intern - Summer 2027",
+   "uid": "workday:caci.wd1/external:AI-Prompt-Engineer-High-School-Intern---Summer-2027_332816-1"
   }
  ],
- "count": 814,
- "updated_at": 1793278524
+ "count": 805,
+ "updated_at": 1793279983
 }
