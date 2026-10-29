@@ -1,69 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1793010723,
-   "company": "Citylitics",
-   "hours_open": 77.2,
-   "title": "data engineer",
-   "uid": "jobbank:infrastructure analyst:50564033"
-  },
-  {
-   "closed_at": 1793010723,
-   "company": "CGI",
-   "hours_open": 1145.4,
-   "title": "Conseiller(ère) en gouvernance de la cybersécurité",
-   "uid": "jobillico:analyste cybersecurite:17433756"
-  },
-  {
-   "closed_at": 1793010723,
-   "company": "Stellar Software Solutions",
-   "hours_open": 397.3,
-   "title": "network infrastructure engineer",
-   "uid": "jobbank:specialiste infrastructure:50462911"
-  },
-  {
-   "closed_at": 1793010723,
-   "company": "knowbe4",
-   "hours_open": 1183.5,
-   "title": "Sales Engineer (Position located in Melbourne, Australia)",
-   "uid": "greenhouse:knowbe4:6743462002"
-  },
-  {
-   "closed_at": 1793013920,
-   "company": "Alcoa Canada",
-   "hours_open": 1146.3,
-   "title": "Conseiller(ère) en cybersécurité (Amérique du Nord)",
-   "uid": "jobillico:analyste cybersecurite:17502948"
-  },
-  {
-   "closed_at": 1793013920,
-   "company": "GQ TECHNOLOGY TRADING INC",
-   "hours_open": 451.0,
-   "title": "telecommunications technician",
-   "uid": "jobbank:telecommunications analyst:49947219"
-  },
-  {
-   "closed_at": 1793013920,
-   "company": "Stellar Software Solutions",
-   "hours_open": 388.6,
-   "title": "network infrastructure engineer",
-   "uid": "jobbank:infrastructure analyst:50462911"
-  },
-  {
-   "closed_at": 1793021916,
-   "company": "mirego",
-   "hours_open": 240.9,
-   "title": "Développeur(euse) logiciel Back-End / DevOps",
-   "uid": "lever:mirego:58f91480-7532-4b79-8aee-f6846f8b13b6"
-  },
-  {
-   "closed_at": 1793021916,
-   "company": "CGI",
-   "hours_open": 1148.5,
-   "title": "Conseiller(ère) en gouvernance de la cybersécurité",
-   "uid": "jobillico:analyste cybersecurite:17433756"
-  },
-  {
    "closed_at": 1793021916,
    "company": "apptronik",
    "hours_open": 557.4,
@@ -5599,8 +5536,71 @@
    "hours_open": 1342.1,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1793290209,
+   "company": "micron",
+   "hours_open": 164.1,
+   "title": "New College Grad - DRAM Product Development Engineer",
+   "uid": "workday:micron.wd1/External:New-College-Grad---Engineer-DRAM-Product-Development-Engineer_JR114840"
+  },
+  {
+   "closed_at": 1793290209,
+   "company": "kyndryl",
+   "hours_open": 512.8,
+   "title": "Kyndryl Early Career Program - Systems Administration, Mainframe",
+   "uid": "workday:kyndryl.wd5/KyndrylEarlyCareers:Kyndryl-Early-Career-Program---Systems-Administration--Mainframe_R-69926"
+  },
+  {
+   "closed_at": 1793290209,
+   "company": "micron",
+   "hours_open": 44.5,
+   "title": "Intern - Product Yield Software Engineer",
+   "uid": "workday:micron.wd1/External:Intern---Product-Yield-Software-Engineer_JR115864"
+  },
+  {
+   "closed_at": 1793290209,
+   "company": "gotion",
+   "hours_open": 1343.2,
+   "title": "MES Engineer",
+   "uid": "greenhouse:gotion:7420443002"
+  },
+  {
+   "closed_at": 1793290209,
+   "company": "kbr",
+   "hours_open": 1364.6,
+   "title": "Junior Software Engineer",
+   "uid": "workday:kbr.wd5/KBR_Careers:Junior-Software-Engineer_R2122294"
+  },
+  {
+   "closed_at": 1793290209,
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
+   "hours_open": 221.9,
+   "title": "Administrateur Réseau TI",
+   "uid": "jobillico:analyste reseau:17628663"
+  },
+  {
+   "closed_at": 1793290209,
+   "company": "spacex",
+   "hours_open": 668.3,
+   "title": "IT Network Engineer",
+   "uid": "greenhouse:spacex:8859573002"
+  },
+  {
+   "closed_at": 1793290209,
+   "company": "spacex",
+   "hours_open": 1343.2,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1793290209,
+   "company": "spacex",
+   "hours_open": 1343.2,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 813,
- "updated_at": 1793287309
+ "count": 809,
+ "updated_at": 1793290210
 }
