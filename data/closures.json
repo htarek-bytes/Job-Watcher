@@ -1,55 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1793049458,
-   "company": "Source Code",
-   "hours_open": 111.2,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:control systems analyst:50553479"
-  },
-  {
-   "closed_at": 1793049458,
-   "company": "Stellar Software Solutions",
-   "hours_open": 398.5,
-   "title": "network infrastructure engineer",
-   "uid": "jobbank:infrastructure analyst:50462911"
-  },
-  {
-   "closed_at": 1793049458,
-   "company": "Amazon",
-   "hours_open": 241.4,
-   "title": "Software Development Engineer, Fulfillment Planning and Execution",
-   "uid": "amazon:amazon:10581621"
-  },
-  {
-   "closed_at": 1793049458,
-   "company": "twitch",
-   "hours_open": 1276.3,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1793049458,
-   "company": "spacex",
-   "hours_open": 958.9,
-   "title": "IT Storage Engineer",
-   "uid": "greenhouse:spacex:8698173002"
-  },
-  {
-   "closed_at": 1793049458,
-   "company": "spacex",
-   "hours_open": 1276.1,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1793050219,
-   "company": "altera",
-   "hours_open": 235.9,
-   "title": "Software Engineer -  Intern",
-   "uid": "workday:altera.wd1/altera:Software-Engineer----Intern_R03320"
-  },
-  {
    "closed_at": 1793050219,
    "company": "Groupe DCM",
    "hours_open": 922.4,
@@ -5599,8 +5550,57 @@
    "hours_open": 1350.1,
    "title": "Automation & Controls Engineer, Assembly Manufacturing (Starlink)",
    "uid": "greenhouse:spacex:8506443002"
+  },
+  {
+   "closed_at": 1793315773,
+   "company": "snowflake",
+   "hours_open": 552.3,
+   "title": "Solution Engineer, Commercial Acquisition",
+   "uid": "ashby:snowflake:49da4943-fc89-4ed2-a866-b9fd92e7496e"
+  },
+  {
+   "closed_at": 1793315773,
+   "company": "eposnowgroup",
+   "hours_open": 671.7,
+   "title": "Saleforce Developer 1",
+   "uid": "bamboohr:eposnowgroup:566"
+  },
+  {
+   "closed_at": 1793315773,
+   "company": "twitch",
+   "hours_open": 1350.3,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1793315773,
+   "company": "whoop",
+   "hours_open": 552.3,
+   "title": "NPI Hardware Quality Engineer, Accessories",
+   "uid": "ashby:whoop:d74b7719-b05f-4c76-9042-7079a837d794"
+  },
+  {
+   "closed_at": 1793315773,
+   "company": "reddit",
+   "hours_open": 311.5,
+   "title": "Machine Learning Engineer",
+   "uid": "greenhouse:reddit:7131932"
+  },
+  {
+   "closed_at": 1793315773,
+   "company": "spacex",
+   "hours_open": 1347.4,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1793315773,
+   "company": "spacex",
+   "hours_open": 1350.3,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
   }
  ],
- "count": 819,
- "updated_at": 1793314970
+ "count": 807,
+ "updated_at": 1793315774
 }
