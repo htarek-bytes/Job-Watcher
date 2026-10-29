@@ -1,48 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792967457,
-   "company": "spacex",
-   "hours_open": 1253.6,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1792970210,
-   "company": "TECHSAVY INC.",
-   "hours_open": 438.9,
-   "title": "telecommunications technician",
-   "uid": "jobbank:telecommunications analyst:50383753"
-  },
-  {
-   "closed_at": 1792970210,
-   "company": "Source Code",
-   "hours_open": 4.9,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50577212"
-  },
-  {
-   "closed_at": 1792972052,
-   "company": "Citylitics",
-   "hours_open": 66.5,
-   "title": "data engineer",
-   "uid": "jobbank:infrastructure analyst:50564033"
-  },
-  {
-   "closed_at": 1792972052,
-   "company": "CGI",
-   "hours_open": 1134.6,
-   "title": "Conseiller(ère) en gouvernance de la cybersécurité",
-   "uid": "jobillico:analyste cybersecurite:17433756"
-  },
-  {
-   "closed_at": 1792972052,
-   "company": "twitch",
-   "hours_open": 1254.8,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
    "closed_at": 1792972052,
    "company": "reddit",
    "hours_open": 216.0,
@@ -5599,8 +5557,50 @@
    "hours_open": 833.3,
    "title": "Business Intelligence (BI) Developer I - QUICKSIGHT",
    "uid": "lever:hsag:538428ec-fa2f-4d7f-b83b-348ba9edcc25"
+  },
+  {
+   "closed_at": 1793253992,
+   "company": "Bosch Building Technologies",
+   "hours_open": 151.6,
+   "title": "software programmer",
+   "uid": "jobbank:junior programmer:50560878"
+  },
+  {
+   "closed_at": 1793253992,
+   "company": "Bell Canada",
+   "hours_open": 356.3,
+   "title": "network administrator",
+   "uid": "jobbank:network administrator:50492673"
+  },
+  {
+   "closed_at": 1793253992,
+   "company": "Groupe DCM",
+   "hours_open": 979.0,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534670"
+  },
+  {
+   "closed_at": 1793253992,
+   "company": "Icentia inc.",
+   "hours_open": 370.5,
+   "title": "Technicien TI, Cybersécurité et Agents IA",
+   "uid": "jobillico:analyste cybersecurite:17592852"
+  },
+  {
+   "closed_at": 1793253992,
+   "company": "woven-by-toyota",
+   "hours_open": 116.6,
+   "title": "Machine Learning Engineer, Vehicle Perception",
+   "uid": "lever:woven-by-toyota:263e0dfb-6bbb-409a-a5c5-8ff661030649"
+  },
+  {
+   "closed_at": 1793253992,
+   "company": "Source Code",
+   "hours_open": 84.4,
+   "title": "software developer",
+   "uid": "jobbank:entry level software developer:50577212"
   }
  ],
- "count": 802,
- "updated_at": 1793242319
+ "count": 806,
+ "updated_at": 1793253993
 }

@@ -1,5 +1,5 @@
 {
- "count": 9842,
+ "count": 9848,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -5077,6 +5077,7 @@
   "jobbank:junior programmer:50567503": 1792782857,
   "jobbank:junior programmer:50571636": 1792841239,
   "jobbank:junior programmer:50590626": 1793079047,
+  "jobbank:junior programmer:50607236": 1793253992,
   "jobbank:junior software developer:49875004": 1788390279,
   "jobbank:junior software developer:50080344": 1788390279,
   "jobbank:junior software developer:50096282": 1788390279,
@@ -5875,6 +5876,9 @@
   "lever:reply:77d1b33a-b294-4fc0-a707-e496058bbc3f": 1793098307,
   "lever:reply:d24a1372-b895-4835-80ab-3ca3ef6c97e6": 1793098307,
   "lever:reply:ee98566c-94d3-4ffb-855b-bcea77f9b5ed": 1793098307,
+  "lever:rosaiclabs:11a93b50-2472-4ec9-85d9-c99a3a17405e": 1793253992,
+  "lever:rosaiclabs:740b53d3-dd36-41fb-b49c-ab7f97505aa8": 1793253992,
+  "lever:rosaiclabs:8e3e00f8-5b06-450c-bb63-5cc4fc3136ab": 1793253992,
   "lever:rover:303b3b2f-9679-4a77-8908-456e29240486": 1789082121,
   "lever:rover:a81ab324-969a-44f1-89b4-e7ff7487a735": 1789082121,
   "lever:rover:f56c44b6-d33e-4708-b25f-7907995af5ff": 1790329998,
@@ -6044,6 +6048,7 @@
   "lever:wyetechllc:e9a6e451-e9ed-4cac-9e6d-ac16bb8dcadf": 1788454653,
   "lever:wyetechllc:fc876ce9-0302-4266-b114-922eea3c75eb": 1788353785,
   "lever:zensurance:536b5fef-69d2-4f78-8388-405d1142167a": 1788887337,
+  "lever:zoox:06f146c2-25f6-40fd-8393-4f92ce518929": 1793253992,
   "lever:zoox:0dd5de4b-4e98-4808-85fd-e739e7fc5bba": 1788465250,
   "lever:zoox:2347453a-f11f-4dc2-ad14-572bc1f6247f": 1791877817,
   "lever:zoox:46c23963-2be1-4037-8f1a-ce87bdccde6d": 1788465250,
@@ -6068,6 +6073,7 @@
   "lever:zoox:d4108968-e83d-4d87-a92c-e4cd1823801c": 1788465250,
   "lever:zoox:d48270e1-81e0-4f04-ab9e-d1fc25313f76": 1788465250,
   "lever:zoox:d736debf-c361-4a7c-81fd-6c3125ab03c0": 1788465250,
+  "lever:zoox:e6a4bbe1-20ab-4f1f-af07-f06fabedeabd": 1793253992,
   "lever:zoox:ea3fbfaf-588b-434a-9a5a-c61edc731a40": 1788465250,
   "lever:zoox:ec1de483-ebd5-4b87-96b7-d749f077aefb": 1788465250,
   "lever:zoox:f10acec0-4887-4e3b-b6dc-2fd351ae2ca5": 1791408378,
@@ -9844,5 +9850,5 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148,
   "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541": 1789106107
  },
- "updated_at": 1793242319
+ "updated_at": 1793253993
 }
