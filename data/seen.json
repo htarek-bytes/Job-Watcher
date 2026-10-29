@@ -1,5 +1,5 @@
 {
- "count": 9870,
+ "count": 9875,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -2946,6 +2946,7 @@
   "greenhouse:impact:8557055002": 1788454653,
   "greenhouse:impact:8583462002": 1788454653,
   "greenhouse:impact:8630774002": 1788887337,
+  "greenhouse:impact:8630956002": 1793278523,
   "greenhouse:impact:8636977002": 1788454653,
   "greenhouse:impact:8643855002": 1792782857,
   "greenhouse:impact:8645964002": 1788386454,
@@ -6647,6 +6648,7 @@
   "simplify:listings:6ec3f7fb-6e20-4579-8872-822161b1a166": 1788416995,
   "simplify:listings:6ef65b3e-529f-48bb-af67-4e9f1f51bfbd": 1793171999,
   "simplify:listings:6f509f3e-5e63-482f-8eb9-7847a0c9d9b6": 1788322770,
+  "simplify:listings:6f6e177e-6489-412b-b087-1cdcceb47a7a": 1793278523,
   "simplify:listings:6f78f746-4ca2-4c3b-8060-d129ffc182b2": 1792768274,
   "simplify:listings:6f937a47-ff54-4faf-8f75-633200d09722": 1793056982,
   "simplify:listings:6fc2b307-1b8e-46f9-aa14-0d528e6fd4a9": 1789412713,
@@ -8174,6 +8176,7 @@
   "workday:abglobal.wd1/abcampuscareers:Software-Development-Summer-Intern_R0019771": 1789552116,
   "workday:accenture.wd103/AccentureCareers:AI-Native-Software-Engineering--Junior-_R00345665": 1790752783,
   "workday:accenture.wd103/AccentureCareers:C--Developer---Intern_R00273549": 1792794945,
+  "workday:accenture.wd103/AccentureCareers:Data-and-AI-Engineer---Junior_R00332685": 1793278523,
   "workday:accenture.wd103/AccentureCareers:Junior-AI-Native-Engineer_R00346080": 1788393810,
   "workday:accenture.wd103/AccentureCareers:Junior-AI-Native-Engineer_R00361255": 1790866080,
   "workday:accenture.wd103/AccentureCareers:Junior-AI-Software-Engineer_R00346108": 1788393810,
@@ -8270,6 +8273,8 @@
   "workday:asml.wd3/asmlext1:Internship---Frontend-Developer_J-00354852": 1793184779,
   "workday:asml.wd3/asmlext1:Internship---Software-Engineer-In-Test--MOD-_J-00354568": 1792797439,
   "workday:asml.wd3/asmlext1:Internship--Imaging-product-engineer_J-00355220": 1793184779,
+  "workday:asml.wd3/asmlext1:Internship--Software-Development-Engineer-in-Test_J-00354459": 1793278523,
+  "workday:asml.wd3/asmlext1:Internship-Co-Op--Data-Engineer_J-00355626": 1793278523,
   "workday:asml.wd3/asmlext1:Platform-Software-Engineer-In-Test---Internship-_J-00354558": 1792848848,
   "workday:assetmark.wd5/AssetMark_Careers:Associate-Engineer_Req-003966": 1789192988,
   "workday:assetmark.wd5/AssetMark_Careers:Junior-AWS-Operations-Engineer_Req-003729": 1789192988,
@@ -9872,5 +9877,5 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148,
   "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541": 1789106107
  },
- "updated_at": 1793265087
+ "updated_at": 1793278524
 }
