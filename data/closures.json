@@ -1,90 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792972849,
-   "company": "twitch",
-   "hours_open": 1252.1,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1792972849,
-   "company": "reddit",
-   "hours_open": 245.1,
-   "title": "Machine Learning Engineer",
-   "uid": "greenhouse:reddit:7131934"
-  },
-  {
-   "closed_at": 1792972849,
-   "company": "Source Code",
-   "hours_open": 5.6,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50577212"
-  },
-  {
-   "closed_at": 1792972849,
-   "company": "DPMSYSTEMS IT CONSULTING SERVICES",
-   "hours_open": 258.5,
-   "title": "information systems analyst - computer systems",
-   "uid": "jobbank:information systems analyst:50311291"
-  },
-  {
-   "closed_at": 1792972849,
-   "company": "spacex",
-   "hours_open": 1255.1,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1792973253,
-   "company": "Source Code",
-   "hours_open": 282.6,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:systems analyst:50491950"
-  },
-  {
-   "closed_at": 1792973253,
-   "company": "Stellar Software Solutions",
-   "hours_open": 377.3,
-   "title": "network infrastructure engineer",
-   "uid": "jobbank:infrastructure analyst:50462911"
-  },
-  {
-   "closed_at": 1792973253,
-   "company": "DPMSYSTEMS IT CONSULTING SERVICES",
-   "hours_open": 907.2,
-   "title": "information systems analyst - computer systems",
-   "uid": "jobbank:systems analyst:50311291"
-  },
-  {
-   "closed_at": 1792973253,
-   "company": "cadence",
-   "hours_open": 1248.2,
-   "title": "Software Engineer  (new college grad Dec 2026)",
-   "uid": "workday:cadence.wd1/Univ_Careers:Software-Engineer---new-college-grad-Dec-2026-_R55738-2"
-  },
-  {
-   "closed_at": 1792973253,
-   "company": "Micron Technology",
-   "hours_open": 1291.8,
-   "title": "New College Grad - Memory Design Engineer - Hbm",
-   "uid": "simplify:listings:441c3d0c-ee76-4f06-85bc-5c015f9c7452"
-  },
-  {
-   "closed_at": 1792975281,
-   "company": "Groupe DCM",
-   "hours_open": 907.8,
-   "title": "Programmeur CNC / CNC Programmer",
-   "uid": "jobillico:programmeur junior:17534679"
-  },
-  {
-   "closed_at": 1792975281,
-   "company": "Citylitics",
-   "hours_open": 67.4,
-   "title": "data engineer",
-   "uid": "jobbank:infrastructure analyst:50564033"
-  },
-  {
    "closed_at": 1792975281,
    "company": "Alcoa Canada",
    "hours_open": 1135.5,
@@ -5599,8 +5515,92 @@
    "hours_open": 335.8,
    "title": "Sales Engineer, High Volume Products - North",
    "uid": "smartrecruiters:AntonPaar1:744000151395479"
+  },
+  {
+   "closed_at": 1793257258,
+   "company": "V-TECHSOFT",
+   "hours_open": 9.6,
+   "title": "Web developer",
+   "uid": "jobbank:developpeur junior:50602887"
+  },
+  {
+   "closed_at": 1793257258,
+   "company": "Eurofins",
+   "hours_open": 25.1,
+   "title": "Pre-Sales - Business Development Officer ",
+   "uid": "smartrecruiters:Eurofins:744000157959989"
+  },
+  {
+   "closed_at": 1793257258,
+   "company": "Groupe DCM",
+   "hours_open": 986.1,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534679"
+  },
+  {
+   "closed_at": 1793257258,
+   "company": "Lexia Communications Inc.",
+   "hours_open": 680.4,
+   "title": "computer programmer",
+   "uid": "jobbank:junior programmer:50398942"
+  },
+  {
+   "closed_at": 1793257258,
+   "company": "ServiceNow",
+   "hours_open": 115.4,
+   "title": "Associate Software Engineer",
+   "uid": "smartrecruiters:ServiceNow:744000157571919"
+  },
+  {
+   "closed_at": 1793257258,
+   "company": "Intuitive",
+   "hours_open": 149.3,
+   "title": "Key Account Technical Solution Consultant",
+   "uid": "smartrecruiters:Intuitive:744000157246139"
+  },
+  {
+   "closed_at": 1793257258,
+   "company": "twitch",
+   "hours_open": 1331.1,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1793257258,
+   "company": "reddit",
+   "hours_open": 324.1,
+   "title": "Machine Learning Engineer",
+   "uid": "greenhouse:reddit:7131934"
+  },
+  {
+   "closed_at": 1793257258,
+   "company": "Source Code",
+   "hours_open": 84.6,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50577212"
+  },
+  {
+   "closed_at": 1793257258,
+   "company": "spacex",
+   "hours_open": 1331.1,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1793257258,
+   "company": "spacex",
+   "hours_open": 1333.8,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1793257258,
+   "company": "spacex",
+   "hours_open": 1334.1,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 806,
- "updated_at": 1793254452
+ "count": 812,
+ "updated_at": 1793257261
 }
