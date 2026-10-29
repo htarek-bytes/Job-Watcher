@@ -2,76 +2,6 @@
  "closed": [
   {
    "closed_at": 1793033891,
-   "company": "enghouse",
-   "hours_open": 1272.0,
-   "title": "Software Engineer (C#, Payments)",
-   "uid": "bamboohr:enghouse:2224"
-  },
-  {
-   "closed_at": 1793033891,
-   "company": "Amazon",
-   "hours_open": 329.7,
-   "title": "Software Development Engineer, EC2 Instance Networking",
-   "uid": "amazon:amazon:10576518"
-  },
-  {
-   "closed_at": 1793033891,
-   "company": "Amazon",
-   "hours_open": 237.1,
-   "title": "Software Development Engineer, AWS Infrastructure Supply Chain Automation",
-   "uid": "amazon:amazon:10581608"
-  },
-  {
-   "closed_at": 1793033891,
-   "company": "Amazon",
-   "hours_open": 240.0,
-   "title": "Software Development Engineer, AWS Artifact, AWS Compliance & Security Assurance",
-   "uid": "amazon:amazon:10581342"
-  },
-  {
-   "closed_at": 1793033891,
-   "company": "twitch",
-   "hours_open": 1269.1,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1793033891,
-   "company": "tenstorrent",
-   "hours_open": 1272.0,
-   "title": "Software Engineer, TT-Distributed",
-   "uid": "greenhouse:tenstorrent:4711506007"
-  },
-  {
-   "closed_at": 1793033891,
-   "company": "DPMSYSTEMS IT CONSULTING SERVICES",
-   "hours_open": 924.0,
-   "title": "information systems analyst - computer systems",
-   "uid": "jobbank:systems analyst:50311291"
-  },
-  {
-   "closed_at": 1793033891,
-   "company": "systemstechnologyresearch",
-   "hours_open": 119.6,
-   "title": "DevSecOps Engineer",
-   "uid": "greenhouse:systemstechnologyresearch:4723623006"
-  },
-  {
-   "closed_at": 1793033891,
-   "company": "RTX",
-   "hours_open": 121.3,
-   "title": "Software Engineer 1",
-   "uid": "simplify:listings:9283a980-98e0-4f9f-af72-d7087c27870c"
-  },
-  {
-   "closed_at": 1793033891,
-   "company": "spacex",
-   "hours_open": 1272.0,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1793033891,
    "company": "andurilindustries",
    "hours_open": 1270.3,
    "title": "Software Engineer, Intelligence Systems",
@@ -5599,8 +5529,78 @@
    "hours_open": 1345.8,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1793302332,
+   "company": "visa",
+   "hours_open": 45.2,
+   "title": "2027 Sophomore Internship Program - Software Engineer Intern, Bellevue",
+   "uid": "workday:visa.wd5/Visa:XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Bellevue_REF089920W-2"
+  },
+  {
+   "closed_at": 1793302332,
+   "company": "visa",
+   "hours_open": 45.2,
+   "title": "2027 Sophomore Internship Program - Software Engineer Intern, Foster City",
+   "uid": "workday:visa.wd5/Visa:XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Foster-City_REF089919W-1"
+  },
+  {
+   "closed_at": 1793302332,
+   "company": "visa",
+   "hours_open": 45.2,
+   "title": "Software Engineer, Intern - 2027 Austin, TX",
+   "uid": "workday:visa.wd5/Visa:Software-Engineer--Intern---2027-Austin--TX_REF089918W-1"
+  },
+  {
+   "closed_at": 1793302332,
+   "company": "twitch",
+   "hours_open": 1343.6,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1793302332,
+   "company": "tsc",
+   "hours_open": 1363.4,
+   "title": "Software Engineer I",
+   "uid": "workday:tsc.wd12/TSC-Careers:Software-Engineer-I_JR2567-1"
+  },
+  {
+   "closed_at": 1793302332,
+   "company": "trimedx",
+   "hours_open": 354.9,
+   "title": "Imaging Engineer I",
+   "uid": "workday:trimedx.wd1/TMX:Imaging-Engineer-I_R15129"
+  },
+  {
+   "closed_at": 1793302332,
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
+   "hours_open": 225.3,
+   "title": "Administrateur Réseau TI",
+   "uid": "jobillico:analyste reseau:17628663"
+  },
+  {
+   "closed_at": 1793302332,
+   "company": "spacex",
+   "hours_open": 1346.6,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1793302332,
+   "company": "spacex",
+   "hours_open": 1346.6,
+   "title": "CMM Programmer (Starlink) - 2nd Shift",
+   "uid": "greenhouse:spacex:8694895002"
+  },
+  {
+   "closed_at": 1793302332,
+   "company": "spacex",
+   "hours_open": 1346.6,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 827,
- "updated_at": 1793300628
+ "count": 810,
+ "updated_at": 1793302334
 }
