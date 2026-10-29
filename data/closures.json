@@ -1,48 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792972052,
-   "company": "reddit",
-   "hours_open": 216.0,
-   "title": "Machine Learning Engineer",
-   "uid": "greenhouse:reddit:7131932"
-  },
-  {
-   "closed_at": 1792972052,
-   "company": "Source Code",
-   "hours_open": 6.1,
-   "title": "software developer",
-   "uid": "jobbank:entry level software developer:50577212"
-  },
-  {
-   "closed_at": 1792972052,
-   "company": "spacex",
-   "hours_open": 1251.9,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1792972849,
-   "company": "Groupe DCM",
-   "hours_open": 900.9,
-   "title": "Programmeur CNC / CNC Programmer",
-   "uid": "jobillico:programmeur junior:17534670"
-  },
-  {
-   "closed_at": 1792972849,
-   "company": "Source Code",
-   "hours_open": 75.9,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:systems analyst:50553479"
-  },
-  {
-   "closed_at": 1792972849,
-   "company": "Stellar Software Solutions",
-   "hours_open": 386.8,
-   "title": "network infrastructure engineer",
-   "uid": "jobbank:specialiste infrastructure:50462911"
-  },
-  {
    "closed_at": 1792972849,
    "company": "twitch",
    "hours_open": 1252.1,
@@ -5599,8 +5557,50 @@
    "hours_open": 84.4,
    "title": "software developer",
    "uid": "jobbank:entry level software developer:50577212"
+  },
+  {
+   "closed_at": 1793254451,
+   "company": "AECOM",
+   "hours_open": 25.4,
+   "title": "Entry-Level Water/Wastewater Engineer",
+   "uid": "smartrecruiters:AECOM2:744000158146309"
+  },
+  {
+   "closed_at": 1793254451,
+   "company": "AECOM",
+   "hours_open": 25.4,
+   "title": "Entry Level Roadway Engineer",
+   "uid": "smartrecruiters:AECOM2:744000158112086"
+  },
+  {
+   "closed_at": 1793254451,
+   "company": "Bosch Group",
+   "hours_open": 25.4,
+   "title": "Development Engineer Intern",
+   "uid": "smartrecruiters:BoschGroup:744000158032538"
+  },
+  {
+   "closed_at": 1793254451,
+   "company": "Anton Paar",
+   "hours_open": 335.8,
+   "title": "Sales Engineer (m/f/d) – Materials (Brabender Product Line) - Permanent contract",
+   "uid": "smartrecruiters:AntonPaar1:744000152407259"
+  },
+  {
+   "closed_at": 1793254451,
+   "company": "Anton Paar",
+   "hours_open": 335.8,
+   "title": "Sales Engineer (m/f/d) – Materials (Brabender Product Line) - 12-month fixed-term contract",
+   "uid": "smartrecruiters:AntonPaar1:744000152406789"
+  },
+  {
+   "closed_at": 1793254451,
+   "company": "Anton Paar",
+   "hours_open": 335.8,
+   "title": "Sales Engineer, High Volume Products - North",
+   "uid": "smartrecruiters:AntonPaar1:744000151395479"
   }
  ],
  "count": 806,
- "updated_at": 1793253993
+ "updated_at": 1793254452
 }
