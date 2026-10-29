@@ -2,97 +2,6 @@
  "closed": [
   {
    "closed_at": 1793043361,
-   "company": "heartflowinc",
-   "hours_open": 454.6,
-   "title": "Junior Automation Engineer",
-   "uid": "greenhouse:heartflowinc:6218985004"
-  },
-  {
-   "closed_at": 1793043361,
-   "company": "sharkninjaoperatingllc",
-   "hours_open": 599.7,
-   "title": "Product Developer - Skincare",
-   "uid": "greenhouse:sharkninjaoperatingllc:4718081006"
-  },
-  {
-   "closed_at": 1793043361,
-   "company": "coinbase",
-   "hours_open": 644.5,
-   "title": "Software Engineer, CDP - Foundations ",
-   "uid": "greenhouse:coinbase:8241522"
-  },
-  {
-   "closed_at": 1793043361,
-   "company": "AWC Process Solutions Ltd.",
-   "hours_open": 134.0,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:scada:50547604"
-  },
-  {
-   "closed_at": 1793043361,
-   "company": "Source Code",
-   "hours_open": 302.1,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:systems analyst:50491950"
-  },
-  {
-   "closed_at": 1793043361,
-   "company": "Stellar Software Solutions",
-   "hours_open": 396.8,
-   "title": "network infrastructure engineer",
-   "uid": "jobbank:infrastructure analyst:50462911"
-  },
-  {
-   "closed_at": 1793043361,
-   "company": "relayfi",
-   "hours_open": 988.4,
-   "title": "Security Engineer",
-   "uid": "ashby:relayfi:ca4e651d-498a-4d43-bbc4-9f817fd7c5a6"
-  },
-  {
-   "closed_at": 1793043361,
-   "company": "HNTB",
-   "hours_open": 164.6,
-   "title": "Geospatial Systems Developer 1",
-   "uid": "simplify:listings:cffbaf70-4a0b-4f31-bfb8-5c855559c95c"
-  },
-  {
-   "closed_at": 1793043361,
-   "company": "Amazon",
-   "hours_open": 2.7,
-   "title": "Software Development Engineer - Security Automation, AWS Security Epoxy",
-   "uid": "amazon:amazon:10588650"
-  },
-  {
-   "closed_at": 1793043361,
-   "company": "Amazon",
-   "hours_open": 96.7,
-   "title": "Software Development Engineer, AWS Security Communications",
-   "uid": "amazon:amazon:10586709"
-  },
-  {
-   "closed_at": 1793043361,
-   "company": "Amazon",
-   "hours_open": 226.3,
-   "title": "ML Compiler Engineer, Neuron Kernel Interface",
-   "uid": "amazon:amazon:10582059"
-  },
-  {
-   "closed_at": 1793043361,
-   "company": "relativity",
-   "hours_open": 1293.6,
-   "title": "Vehicle Fluids Hardware Development Engineer I",
-   "uid": "greenhouse:relativity:8748447002"
-  },
-  {
-   "closed_at": 1793043361,
-   "company": "authenticinsurance",
-   "hours_open": 805.6,
-   "title": "Software Engineer - Product",
-   "uid": "greenhouse:authenticinsurance:4114314009"
-  },
-  {
-   "closed_at": 1793043361,
    "company": "Amentum",
    "hours_open": 1274.6,
    "title": "Entry Level Radiation Test Engineer",
@@ -5599,8 +5508,99 @@
    "hours_open": 51.9,
    "title": "Software Development Engineer, Leo Autopilot",
    "uid": "amazon:amazon:10586756"
+  },
+  {
+   "closed_at": 1793308191,
+   "company": "f7d8749a-72d6-407c-bf98-292ea630c73a",
+   "hours_open": 22.4,
+   "title": "Engineer I, Software Test and Automation (R6216) - New Grad",
+   "uid": "ashby:f7d8749a-72d6-407c-bf98-292ea630c73a:3fe76139-6112-4ff1-a337-5034dcd45942"
+  },
+  {
+   "closed_at": 1793308191,
+   "company": "CGI",
+   "hours_open": 1228.0,
+   "title": "Conseiller(ère) en audit de cybersécurité",
+   "uid": "jobillico:analyste cybersecurite:17433750"
+  },
+  {
+   "closed_at": 1793308191,
+   "company": "Amazon",
+   "hours_open": 26.7,
+   "title": "Software Development Engineer, Sponsored Products and Brands",
+   "uid": "amazon:amazon:10590271"
+  },
+  {
+   "closed_at": 1793308191,
+   "company": "Amazon",
+   "hours_open": 238.1,
+   "title": "Software Development Engineer, Measurement, Ad Tech, and Data Science (MADS) Foundations- Traffic ",
+   "uid": "amazon:amazon:10583465"
+  },
+  {
+   "closed_at": 1793308191,
+   "company": "focused",
+   "hours_open": 136.0,
+   "title": "Cryogenics Engineer (f/m/d)",
+   "uid": "ashby:focused:f194307f-e88d-4137-bd0f-f571fc3b2731"
+  },
+  {
+   "closed_at": 1793308191,
+   "company": "twitch",
+   "hours_open": 1345.3,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1793308191,
+   "company": "reddit",
+   "hours_open": 338.2,
+   "title": "Machine Learning Engineer",
+   "uid": "greenhouse:reddit:7131934"
+  },
+  {
+   "closed_at": 1793308191,
+   "company": "Intelliforce-IT Solutions Group",
+   "hours_open": 606.9,
+   "title": "Junior Software Engineer - Prime",
+   "uid": "simplify:listings:5ee9e9d5-ea2a-4631-8387-e43aec1496e1"
+  },
+  {
+   "closed_at": 1793308191,
+   "company": "atek",
+   "hours_open": 402.5,
+   "title": "Oracle Cloud Infrastructure (OCI) Engineer",
+   "uid": "greenhouse:atek:5449913008"
+  },
+  {
+   "closed_at": 1793308191,
+   "company": "atek",
+   "hours_open": 402.5,
+   "title": "Google Cloud Platform (GCP) Engineer",
+   "uid": "greenhouse:atek:5449900008"
+  },
+  {
+   "closed_at": 1793308191,
+   "company": "spacex",
+   "hours_open": 5.0,
+   "title": "IT Network Engineer",
+   "uid": "greenhouse:spacex:8922064002"
+  },
+  {
+   "closed_at": 1793308191,
+   "company": "spacex",
+   "hours_open": 676.5,
+   "title": "IT Network Administrator",
+   "uid": "greenhouse:spacex:8859658002"
+  },
+  {
+   "closed_at": 1793308191,
+   "company": "silvus",
+   "hours_open": 0.8,
+   "title": "Wireless Communication Systems Engineer",
+   "uid": "greenhouse:silvus:4934997008"
   }
  ],
- "count": 814,
- "updated_at": 1793305412
+ "count": 813,
+ "updated_at": 1793308192
 }
