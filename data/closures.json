@@ -1,41 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792975281,
-   "company": "reddit",
-   "hours_open": 216.9,
-   "title": "Machine Learning Engineer",
-   "uid": "greenhouse:reddit:7131932"
-  },
-  {
-   "closed_at": 1792975281,
-   "company": "Source Code",
-   "hours_open": 7.0,
-   "title": "software developer",
-   "uid": "jobbank:entry level software developer:50577212"
-  },
-  {
-   "closed_at": 1792975281,
-   "company": "ebi",
-   "hours_open": 648.2,
-   "title": "Product Engineer Intern",
-   "uid": "workday:ebi.wd5/ebicareers:Product-Engineer-Intern_REQ107697-1"
-  },
-  {
-   "closed_at": 1792975281,
-   "company": "spacex",
-   "hours_open": 1252.8,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1792977786,
-   "company": "CGI",
-   "hours_open": 1136.2,
-   "title": "Conseiller(ère) en gouvernance de la cybersécurité",
-   "uid": "jobillico:analyste cybersecurite:17433756"
-  },
-  {
    "closed_at": 1792977786,
    "company": "Stellar Software Solutions",
    "hours_open": 388.1,
@@ -5599,8 +5564,43 @@
    "hours_open": 1335.1,
    "title": "Forward Deployed Engineer",
    "uid": "workable:cloudfactory:F775A14D4B"
+  },
+  {
+   "closed_at": 1793265086,
+   "company": "Great Lakes Group",
+   "hours_open": 122.7,
+   "title": "electrical controls engineer",
+   "uid": "jobbank:control systems analyst:50570740"
+  },
+  {
+   "closed_at": 1793265086,
+   "company": "Source Code",
+   "hours_open": 157.1,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:systems analyst:50553479"
+  },
+  {
+   "closed_at": 1793265086,
+   "company": "Source Code",
+   "hours_open": 2.2,
+   "title": "software developer",
+   "uid": "jobbank:entry level software developer:50598291"
+  },
+  {
+   "closed_at": 1793265086,
+   "company": "DPMSYSTEMS IT CONSULTING SERVICES",
+   "hours_open": 988.3,
+   "title": "information systems analyst - computer systems",
+   "uid": "jobbank:systems analyst:50311291"
+  },
+  {
+   "closed_at": 1793265086,
+   "company": "Saalex",
+   "hours_open": 1034.8,
+   "title": "Network and Computer Systems Administrator",
+   "uid": "workable:saalex:6F3FD5970B"
   }
  ],
- "count": 802,
- "updated_at": 1793262107
+ "count": 805,
+ "updated_at": 1793265087
 }
