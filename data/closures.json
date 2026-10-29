@@ -1,55 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792955941,
-   "company": "DPMSYSTEMS IT CONSULTING SERVICES",
-   "hours_open": 902.4,
-   "title": "information systems analyst - computer systems",
-   "uid": "jobbank:systems analyst:50311291"
-  },
-  {
-   "closed_at": 1792956109,
-   "company": "Stellar Software Solutions",
-   "hours_open": 382.1,
-   "title": "network infrastructure engineer",
-   "uid": "jobbank:specialiste infrastructure:50462911"
-  },
-  {
-   "closed_at": 1792956109,
-   "company": "Alcoa Canada",
-   "hours_open": 1130.2,
-   "title": "Conseiller(ère) en cybersécurité (Amérique du Nord)",
-   "uid": "jobillico:analyste cybersecurite:17502948"
-  },
-  {
-   "closed_at": 1792957209,
-   "company": "Source Code",
-   "hours_open": 71.6,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:systems analyst:50553479"
-  },
-  {
-   "closed_at": 1792957209,
-   "company": "Stellar Software Solutions",
-   "hours_open": 372.9,
-   "title": "network infrastructure engineer",
-   "uid": "jobbank:infrastructure analyst:50462911"
-  },
-  {
-   "closed_at": 1792957209,
-   "company": "DPMSYSTEMS IT CONSULTING SERVICES",
-   "hours_open": 254.1,
-   "title": "information systems analyst - computer systems",
-   "uid": "jobbank:information systems analyst:50311291"
-  },
-  {
-   "closed_at": 1792958496,
-   "company": "Stellar Software Solutions",
-   "hours_open": 382.8,
-   "title": "network infrastructure engineer",
-   "uid": "jobbank:specialiste infrastructure:50462911"
-  },
-  {
    "closed_at": 1792962461,
    "company": "Groupe DCM",
    "hours_open": 904.2,
@@ -5599,8 +5550,57 @@
    "hours_open": 1326.6,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1793233440,
+   "company": "retell-ai",
+   "hours_open": 24.4,
+   "title": "Mandarin-speaking: Software Engineer (Contract)",
+   "uid": "ashby:retell-ai:8581013a-f981-47aa-84a0-de548976b2ef"
+  },
+  {
+   "closed_at": 1793233440,
+   "company": "retell-ai",
+   "hours_open": 1031.0,
+   "title": "Mandarin-speaking: Customer Success Engineer (Contract)",
+   "uid": "ashby:retell-ai:ff9c1c3f-65b3-49ad-9774-7e97af55a720"
+  },
+  {
+   "closed_at": 1793233440,
+   "company": "Relling",
+   "hours_open": 22.1,
+   "title": "Robotics Software Engineer New Grad",
+   "uid": "simplify:listings:b239b64e-30e5-4f51-b91a-8e3aae1ced66"
+  },
+  {
+   "closed_at": 1793233440,
+   "company": "twitch",
+   "hours_open": 1327.4,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1793233440,
+   "company": "reddit",
+   "hours_open": 288.6,
+   "title": "Machine Learning Engineer",
+   "uid": "greenhouse:reddit:7131932"
+  },
+  {
+   "closed_at": 1793233440,
+   "company": "Takt",
+   "hours_open": 17.1,
+   "title": "Associate Software Engineer - Frontend",
+   "uid": "simplify:listings:ab0a47b6-2df0-4f41-9831-30a37a7e44e2"
+  },
+  {
+   "closed_at": 1793233440,
+   "company": "spacex",
+   "hours_open": 1324.5,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
   }
  ],
- "count": 808,
- "updated_at": 1793230511
+ "count": 807,
+ "updated_at": 1793233441
 }
