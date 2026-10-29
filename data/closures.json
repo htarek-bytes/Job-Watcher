@@ -1,27 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1792989219,
-   "company": "reddit",
-   "hours_open": 249.6,
-   "title": "Machine Learning Engineer",
-   "uid": "greenhouse:reddit:7131934"
-  },
-  {
-   "closed_at": 1792989219,
-   "company": "DPMSYSTEMS IT CONSULTING SERVICES",
-   "hours_open": 911.6,
-   "title": "information systems analyst - computer systems",
-   "uid": "jobbank:systems analyst:50311291"
-  },
-  {
-   "closed_at": 1792989219,
-   "company": "spacex",
-   "hours_open": 815.8,
-   "title": "Full Stack Engineer, Launch Software",
-   "uid": "greenhouse:spacex:8829698002"
-  },
-  {
    "closed_at": 1792989507,
    "company": "Source Code",
    "hours_open": 80.6,
@@ -5599,8 +5578,29 @@
    "hours_open": 669.0,
    "title": "AI Prompt Engineer High School Intern - Summer 2027",
    "uid": "workday:caci.wd1/external:AI-Prompt-Engineer-High-School-Intern---Summer-2027_332816-1"
+  },
+  {
+   "closed_at": 1793282498,
+   "company": "V-TECHSOFT",
+   "hours_open": 7.0,
+   "title": "Web developer",
+   "uid": "jobbank:junior programmer:50602887"
+  },
+  {
+   "closed_at": 1793282498,
+   "company": "cni",
+   "hours_open": 382.0,
+   "title": "Engineer I",
+   "uid": "workday:cni.wd503/CNI:Engineer-I_R9657"
+  },
+  {
+   "closed_at": 1793282498,
+   "company": "fis",
+   "hours_open": 43.8,
+   "title": "C++ Software Engineer I",
+   "uid": "workday:fis.wd5/searchjobs:C---Software-Engineer-I_JR0309473"
   }
  ],
- "count": 805,
- "updated_at": 1793279983
+ "count": 803,
+ "updated_at": 1793282498
 }
