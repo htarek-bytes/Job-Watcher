@@ -1,195 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1793033770,
-   "company": "Thompson-Nicola Regional District",
-   "hours_open": 449.0,
-   "title": "geographic information systems (gis) analyst",
-   "uid": "jobbank:information systems analyst:50449056"
-  },
-  {
-   "closed_at": 1793033770,
-   "company": "City of Kelowna",
-   "hours_open": 496.7,
-   "title": "business systems analyst",
-   "uid": "jobbank:infrastructure analyst:50431917"
-  },
-  {
-   "closed_at": 1793033770,
-   "company": "stripe",
-   "hours_open": 1272.0,
-   "title": "Machine Learning Engineer",
-   "uid": "greenhouse:stripe:8014859"
-  },
-  {
-   "closed_at": 1793033770,
-   "company": "Mastercard",
-   "hours_open": 449.0,
-   "title": "Software Engineer 1",
-   "uid": "simplify:listings:1500308c-6503-4df2-8df9-612bfda181f2"
-  },
-  {
-   "closed_at": 1793033770,
-   "company": "enghouse",
-   "hours_open": 1272.0,
-   "title": "Software Engineer (C#, Payments)",
-   "uid": "bamboohr:enghouse:2224"
-  },
-  {
-   "closed_at": 1793033770,
-   "company": "Amazon",
-   "hours_open": 329.6,
-   "title": "Software Development Engineer, EC2 Instance Networking",
-   "uid": "amazon:amazon:10576518"
-  },
-  {
-   "closed_at": 1793033770,
-   "company": "Amazon",
-   "hours_open": 237.0,
-   "title": "Software Development Engineer, AWS Infrastructure Supply Chain Automation",
-   "uid": "amazon:amazon:10581608"
-  },
-  {
-   "closed_at": 1793033770,
-   "company": "Amazon",
-   "hours_open": 239.9,
-   "title": "Software Development Engineer, AWS Artifact, AWS Compliance & Security Assurance",
-   "uid": "amazon:amazon:10581342"
-  },
-  {
-   "closed_at": 1793033770,
-   "company": "twitch",
-   "hours_open": 1269.0,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1793033770,
-   "company": "tenstorrent",
-   "hours_open": 1272.0,
-   "title": "Software Engineer, TT-Distributed",
-   "uid": "greenhouse:tenstorrent:4711506007"
-  },
-  {
-   "closed_at": 1793033770,
-   "company": "DPMSYSTEMS IT CONSULTING SERVICES",
-   "hours_open": 924.0,
-   "title": "information systems analyst - computer systems",
-   "uid": "jobbank:systems analyst:50311291"
-  },
-  {
-   "closed_at": 1793033770,
-   "company": "systemstechnologyresearch",
-   "hours_open": 119.6,
-   "title": "DevSecOps Engineer",
-   "uid": "greenhouse:systemstechnologyresearch:4723623006"
-  },
-  {
-   "closed_at": 1793033770,
-   "company": "RTX",
-   "hours_open": 121.3,
-   "title": "Software Engineer 1",
-   "uid": "simplify:listings:9283a980-98e0-4f9f-af72-d7087c27870c"
-  },
-  {
-   "closed_at": 1793033770,
-   "company": "spacex",
-   "hours_open": 1272.0,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1793033770,
-   "company": "andurilindustries",
-   "hours_open": 1270.3,
-   "title": "Software Engineer, Intelligence Systems",
-   "uid": "greenhouse:andurilindustries:5064165007"
-  },
-  {
-   "closed_at": 1792750518,
-   "company": "ms",
-   "hours_open": 34.0,
-   "title": "AI Development Solution Engineer - Associate",
-   "uid": "workday:ms.wd5/External:AI-Development-Solution-Engineer---Associate_PT-JR045497"
-  },
-  {
-   "closed_at": 1793033891,
-   "company": "lyft",
-   "hours_open": 240.0,
-   "title": "Software Engineer, GovTech",
-   "uid": "greenhouse:lyft:8894909002"
-  },
-  {
-   "closed_at": 1793033891,
-   "company": "provectus",
-   "hours_open": 117.3,
-   "title": "Associate Forward Deployed Engineer",
-   "uid": "lever:provectus:62394851-693e-47fe-a86c-f8d9acf43ec2"
-  },
-  {
-   "closed_at": 1793033891,
-   "company": "robinhood",
-   "hours_open": 574.6,
-   "title": "iOS Developer, International",
-   "uid": "greenhouse:robinhood:8246088"
-  },
-  {
-   "closed_at": 1793033891,
-   "company": "Enroll Talent",
-   "hours_open": 50.2,
-   "title": "Web application developer",
-   "uid": "jobbank:developpeur junior:50555962"
-  },
-  {
-   "closed_at": 1793033891,
-   "company": "Citylitics",
-   "hours_open": 83.7,
-   "title": "data engineer",
-   "uid": "jobbank:infrastructure analyst:50564033"
-  },
-  {
-   "closed_at": 1793033891,
-   "company": "Source Code",
-   "hours_open": 299.5,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:systems analyst:50491950"
-  },
-  {
-   "closed_at": 1793033891,
-   "company": "CGI",
-   "hours_open": 1151.8,
-   "title": "Conseiller(ère) en gouvernance de la cybersécurité",
-   "uid": "jobillico:analyste cybersecurite:17433756"
-  },
-  {
-   "closed_at": 1793033891,
-   "company": "Thompson-Nicola Regional District",
-   "hours_open": 449.1,
-   "title": "geographic information systems (gis) analyst",
-   "uid": "jobbank:information systems analyst:50449056"
-  },
-  {
-   "closed_at": 1793033891,
-   "company": "City of Kelowna",
-   "hours_open": 496.8,
-   "title": "business systems analyst",
-   "uid": "jobbank:infrastructure analyst:50431917"
-  },
-  {
-   "closed_at": 1793033891,
-   "company": "stripe",
-   "hours_open": 1272.0,
-   "title": "Machine Learning Engineer",
-   "uid": "greenhouse:stripe:8014859"
-  },
-  {
-   "closed_at": 1793033891,
-   "company": "Mastercard",
-   "hours_open": 449.1,
-   "title": "Software Engineer 1",
-   "uid": "simplify:listings:1500308c-6503-4df2-8df9-612bfda181f2"
-  },
-  {
    "closed_at": 1793033891,
    "company": "enghouse",
    "hours_open": 1272.0,
@@ -5599,8 +5410,197 @@
    "hours_open": 305.3,
    "title": "Software Development Engineer - Amazon LEO Network Services, LEO Pop",
    "uid": "amazon:amazon:10582047"
+  },
+  {
+   "closed_at": 1793300628,
+   "company": "1password",
+   "hours_open": 333.4,
+   "title": "Junior Developer",
+   "uid": "ashby:1password:a492badd-a02f-4360-aa15-7ea8c6e2c85e"
+  },
+  {
+   "closed_at": 1793300628,
+   "company": "snc",
+   "hours_open": 23.4,
+   "title": "Network Engineer Intern (Summer 2027)",
+   "uid": "workday:snc.wd1/snc_external_career_site:Network-Engineer-Intern--Summer-2027-_R0031232"
+  },
+  {
+   "closed_at": 1793300628,
+   "company": "Logesco Informatique",
+   "hours_open": 1225.9,
+   "title": "Administrateur de réseau",
+   "uid": "jobillico:analyste reseau:17188132"
+  },
+  {
+   "closed_at": 1793300628,
+   "company": "appdirect",
+   "hours_open": 1153.8,
+   "title": "AI & Microsoft Business Development Specialist",
+   "uid": "greenhouse:appdirect:8796637002"
+  },
+  {
+   "closed_at": 1793300628,
+   "company": "rockwellautomation",
+   "hours_open": 768.0,
+   "title": "Intern, Technical Sales & Consulting (USA)",
+   "uid": "workday:rockwellautomation.wd1/External-Rockwell-Automation-Early-Careers:Intern--Technical-Sales---Consulting--USA-_R26-5962-1"
+  },
+  {
+   "closed_at": 1793300628,
+   "company": "radiancetech",
+   "hours_open": 46.4,
+   "title": "Junior Modeling and Simulation Engineer",
+   "uid": "workday:radiancetech.wd12/Radiance_External:Junior-Modeling-and-Simulation-Engineer_HR102521"
+  },
+  {
+   "closed_at": 1793300628,
+   "company": "sanofi",
+   "hours_open": 166.9,
+   "title": "2027 Spring Co-op Laboratory Automation Engineer Process Chemistry Lab, Cambridge, MA",
+   "uid": "workday:sanofi.wd3/SanofiCareers:XMLNAME-2027-Spring-Co-op-Laboratory-Automation-Engineer-Process-Chemistry-Lab--Cambridge--MA_R2856035"
+  },
+  {
+   "closed_at": 1793300628,
+   "company": "rockwellautomation",
+   "hours_open": 214.0,
+   "title": "Intern, Hardware Development Engineer (May - Aug 2027)",
+   "uid": "workday:rockwellautomation.wd1/External-Rockwell-Automation-Early-Careers:Intern--Hardware-Development-Engineer--May---Aug-2027-_R26-6892-2"
+  },
+  {
+   "closed_at": 1793300628,
+   "company": "sierraspace",
+   "hours_open": 339.9,
+   "title": "Material Science Engineer I",
+   "uid": "workday:sierraspace.wd1/Sierra_Space_External_Career_Site:Material-Science-Engineer-I_R26360-1"
+  },
+  {
+   "closed_at": 1793300628,
+   "company": "ryan",
+   "hours_open": 297.8,
+   "title": "Summer 2027 Intern, Software Engineering",
+   "uid": "workday:ryan.wd1/RyanCareers:Summer-2027-Intern--Software-Engineering_R0020843-1"
+  },
+  {
+   "closed_at": 1793300628,
+   "company": "ryan",
+   "hours_open": 297.8,
+   "title": "Summer 2027 Intern, Application Development",
+   "uid": "workday:ryan.wd1/RyanCareers:Summer-2027-Intern--Application-Development_R0020820-1"
+  },
+  {
+   "closed_at": 1793300628,
+   "company": "psu",
+   "hours_open": 23.4,
+   "title": "R&D Engineer Intern",
+   "uid": "workday:psu.wd1/PSU_Staff:R-D-Engineer-Intern_REQ_0000083854-1"
+  },
+  {
+   "closed_at": 1793300628,
+   "company": "rockwellautomation",
+   "hours_open": 355.0,
+   "title": "Co-op, Hardware Development Engineer (June - Dec 2027)",
+   "uid": "workday:rockwellautomation.wd1/External-Rockwell-Automation-Early-Careers:Co-op--Hardware-Development-Engineer--June---Dec-2027-_R26-6891"
+  },
+  {
+   "closed_at": 1793300628,
+   "company": "rockwellautomation",
+   "hours_open": 355.0,
+   "title": "Co-op, Hardware Development Engineer (Jan - July 2027)",
+   "uid": "workday:rockwellautomation.wd1/External-Rockwell-Automation-Early-Careers:Co-op--Hardware-Development-Engineer--Jan---July-2027-_R26-6638"
+  },
+  {
+   "closed_at": 1793300628,
+   "company": "Amazon",
+   "hours_open": 217.3,
+   "title": "Software Dev Engineer , Key Management Service",
+   "uid": "amazon:amazon:10584217"
+  },
+  {
+   "closed_at": 1793300628,
+   "company": "salesforce",
+   "hours_open": 23.4,
+   "title": "Summer 2027 Intern - Forward Deployed Engineer – Global Public Sector",
+   "uid": "workday:salesforce.wd12/External_Career_Site:Summer-2027-Intern---Forward-Deployed-Engineer---Global-Public-Sector_JR366026-1"
+  },
+  {
+   "closed_at": 1793300628,
+   "company": "sierraspace",
+   "hours_open": 403.8,
+   "title": "Test Engineer I",
+   "uid": "workday:sierraspace.wd1/Sierra_Space_External_Career_Site:Test-Engineer-I_R26402-1"
+  },
+  {
+   "closed_at": 1793300628,
+   "company": "twitch",
+   "hours_open": 1346.1,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1793300628,
+   "company": "QualiTech",
+   "hours_open": 0.3,
+   "title": "Spécialiste infrastructure, réseaux et télécommunications (fly-in fly-out)",
+   "uid": "jobillico:specialiste infrastructure:17657508"
+  },
+  {
+   "closed_at": 1793300628,
+   "company": "synnex",
+   "hours_open": 1367.4,
+   "title": "BIOS Firmware Assistant Engineer (New College Grad)",
+   "uid": "workday:synnex.wd5/hyvecareers:BIOS-Firmware-Assistant-Engineer---New-Graduate_R54992"
+  },
+  {
+   "closed_at": 1793300628,
+   "company": "rockwellautomation",
+   "hours_open": 768.0,
+   "title": "Intern, AI Software Engineering (June-August 2027)",
+   "uid": "workday:rockwellautomation.wd1/External-Rockwell-Automation-Early-Careers:Intern--AI-Software-Engineering--June-August-2027-_R26-6980"
+  },
+  {
+   "closed_at": 1793300628,
+   "company": "rockwellautomation",
+   "hours_open": 768.0,
+   "title": "Co-op, AI Software Engineering (6-8 months)",
+   "uid": "workday:rockwellautomation.wd1/External-Rockwell-Automation-Early-Careers:Co-op--AI-Software-Engineering--6-8-months-_R26-6982"
+  },
+  {
+   "closed_at": 1793300628,
+   "company": "relx",
+   "hours_open": 1367.4,
+   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - January)",
+   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617-1"
+  },
+  {
+   "closed_at": 1793300628,
+   "company": "relx",
+   "hours_open": 1367.4,
+   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - June)",
+   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-2"
+  },
+  {
+   "closed_at": 1793300628,
+   "company": "relx",
+   "hours_open": 1367.4,
+   "title": "Tech Accelerate Graduate Program - Software Engineer (Boca Raton - June)",
+   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Boca-Raton---June-_R116023"
+  },
+  {
+   "closed_at": 1793300628,
+   "company": "shi",
+   "hours_open": 457.2,
+   "title": "Solutions Engineer - Enterprise",
+   "uid": "workday:shi.wd12/shicareers:Solutions-Engineer---Enterprise_JR2785"
+  },
+  {
+   "closed_at": 1793300628,
+   "company": "spacex",
+   "hours_open": 1345.8,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
   }
  ],
- "count": 823,
- "updated_at": 1793299692
+ "count": 827,
+ "updated_at": 1793300628
 }

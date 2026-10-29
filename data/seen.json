@@ -1,5 +1,5 @@
 {
- "count": 9916,
+ "count": 9922,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -5562,6 +5562,7 @@
   "jobillico:software developer:17462697": 1788410216,
   "jobillico:software developer:17583378": 1792818438,
   "jobillico:software developer:17622471": 1792818438,
+  "jobillico:specialiste infrastructure:17657502": 1793300628,
   "jobillico:specialiste infrastructure:17657508": 1793299690,
   "jobillico:technicien informatique:10592761": 1788887337,
   "jobillico:technicien informatique:12325078": 1788899460,
@@ -9572,6 +9573,7 @@
   "workday:pimco.wd1/pimco-careers:XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering_R106745": 1788442554,
   "workday:ppg.wd5/PPG_CAREERS:Application---Equipment-Engineer-Intern--f-m-diverse-_JR2610168": 1788551622,
   "workday:ppg.wd5/PPG_CAREERS:Optima-Solutions-Junior-Power-Platform-Developer_JR2611942": 1791920076,
+  "workday:priceline.wd1/Priceline:Junior-Software-Engineer_R5885": 1793300628,
   "workday:pros.wd5/pros_careers:Machine-Learning-Engineer-I_R3566": 1789559826,
   "workday:pros.wd5/pros_careers:Software-Engineer-I_R3608": 1789559826,
   "workday:psu.wd1/PSU_Staff:Cybersecurity-Assurance-Intern_REQ_0000081843-1": 1788442554,
@@ -9648,6 +9650,7 @@
   "workday:rollsroyce.wd3/Intern_Graduate:Integrated-Control-Systems-Engineer-Intern--Systems-_JR6161462": 1791973931,
   "workday:ryan.wd1/RyanCareers:Summer-2027-Intern--Application-Development_R0020820-1": 1792228686,
   "workday:ryan.wd1/RyanCareers:Summer-2027-Intern--Software-Development_R0020822-1": 1792228686,
+  "workday:ryan.wd1/RyanCareers:Summer-2027-Intern--Software-Engineering_R0020806-1": 1793300628,
   "workday:ryan.wd1/RyanCareers:Summer-2027-Intern--Software-Engineering_R0020843-1": 1792228686,
   "workday:saabusa.wd1/saab_careers:Software-Engineer-Co-Op--Summer-2027-_R-03264-1": 1789425451,
   "workday:saabusa.wd1/saab_careers:Software-Engineering-Co-Op--Spring---Summer-2027-_R-03240-1": 1788550448,
@@ -9666,6 +9669,7 @@
   "workday:salesforce.wd12/External_Career_Site:Summer-2027-Intern---Forward-Deployed-Engineer---Global-Public-Sector_JR366026-1": 1793216293,
   "workday:salesforce.wd12/External_Career_Site:Summer-2027-Intern---Software-Engineer--Security-Government-_JR364911-1": 1792473774,
   "workday:salesforce.wd12/External_Career_Site:Summer-2027-Intern---Solution-Engineer_JR364363-1": 1792077007,
+  "workday:salesforce.wd12/Futureforce_NewGradRoles:Associate-Solution-Consultant_JR365267": 1793300628,
   "workday:salesforce.wd12/Futureforce_NewGradRoles:Business-Development-Associate--Early-Career-_JR340479": 1792419840,
   "workday:salesforce.wd12/Futureforce_NewGradRoles:Business-Development-Associate_JR347430": 1788454653,
   "workday:salesforce.wd12/Futureforce_NewGradRoles:Software-Engineering-AMTS--College-Grad-_JR355250": 1788377835,
@@ -9690,6 +9694,7 @@
   "workday:semtech.wd1/SemtechCareers:Associate-Engineer--Physical-Design_REQ3675": 1793134591,
   "workday:semtech.wd1/SemtechCareers:Associate-Engineer--Physical-Design_REQ3680": 1793216293,
   "workday:semtech.wd1/SemtechCareers:Associate-Engineer--Software-Engineering_REQ3652": 1791973931,
+  "workday:semtech.wd1/SemtechCareers:Associate-Engineer--Test-Development_REQ3683": 1793300628,
   "workday:semtech.wd1/SemtechCareers:Software-Developer---Web-Cloud-Application--Co-op_REQ3644": 1791232806,
   "workday:shi.wd12/shicareers:Canada-Solutions-Engineer_JR3171": 1791654658,
   "workday:shi.wd12/shicareers:Enterprise-Solutions-Engineer_JR3414": 1791654658,
@@ -9699,6 +9704,7 @@
   "workday:shi.wd12/shicareers:Solutions-Engineer---Commercial_JR2638-2": 1791654658,
   "workday:shi.wd12/shicareers:Solutions-Engineer---Commercial_JR3927": 1792077007,
   "workday:shi.wd12/shicareers:Solutions-Engineer---Enterprise---NYC_JR2605": 1791654658,
+  "workday:shi.wd12/shicareers:Solutions-Engineer---Enterprise---San-Francisco_JR2563": 1793300628,
   "workday:shi.wd12/shicareers:Solutions-Engineer---Enterprise_JR2785": 1791654658,
   "workday:shi.wd12/shicareers:Solutions-Engineer---Enterprise_JR3277-1": 1792588171,
   "workday:shi.wd12/shicareers:Solutions-Engineer---Enterprise_JR3576": 1791702645,
@@ -9918,5 +9924,5 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148,
   "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541": 1789106107
  },
- "updated_at": 1793299692
+ "updated_at": 1793300628
 }
