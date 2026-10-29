@@ -2,41 +2,6 @@
  "closed": [
   {
    "closed_at": 1793050219,
-   "company": "Groupe DCM",
-   "hours_open": 922.4,
-   "title": "Programmeur CNC / CNC Programmer",
-   "uid": "jobillico:programmeur junior:17534670"
-  },
-  {
-   "closed_at": 1793050219,
-   "company": "stripe",
-   "hours_open": 1276.5,
-   "title": "Internal Product Engineer, Developer Productivity AI ",
-   "uid": "greenhouse:stripe:7896151"
-  },
-  {
-   "closed_at": 1793050219,
-   "company": "twitch",
-   "hours_open": 1273.6,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1793050219,
-   "company": "reddit",
-   "hours_open": 266.6,
-   "title": "Machine Learning Engineer",
-   "uid": "greenhouse:reddit:7131934"
-  },
-  {
-   "closed_at": 1793050219,
-   "company": "lgelectronics",
-   "hours_open": 0.2,
-   "title": "Robotics Sales Engineer",
-   "uid": "greenhouse:lgelectronics:5463893008"
-  },
-  {
-   "closed_at": 1793050219,
    "company": "adobe",
    "hours_open": 119.7,
    "title": "2027 Intern- Software Engineer",
@@ -5599,8 +5564,43 @@
    "hours_open": 1350.3,
    "title": "Wireless Software Engineer (Starlink)",
    "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1793316812,
+   "company": "CGI",
+   "hours_open": 1230.4,
+   "title": "Conseiller(ère) en audit de cybersécurité",
+   "uid": "jobillico:analyste cybersecurite:17433750"
+  },
+  {
+   "closed_at": 1793316812,
+   "company": "spacex",
+   "hours_open": 1350.6,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719865002"
+  },
+  {
+   "closed_at": 1793316812,
+   "company": "spacex",
+   "hours_open": 1350.3,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637814002"
+  },
+  {
+   "closed_at": 1793316812,
+   "company": "spacex",
+   "hours_open": 1350.6,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1793316812,
+   "company": "spacex",
+   "hours_open": 1350.6,
+   "title": "NDE Engineer",
+   "uid": "greenhouse:spacex:8512827002"
   }
  ],
- "count": 807,
- "updated_at": 1793315774
+ "count": 805,
+ "updated_at": 1793316812
 }
