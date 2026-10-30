@@ -2,90 +2,6 @@
  "closed": [
   {
    "closed_at": 1793124684,
-   "company": "andurilindustries",
-   "hours_open": 456.3,
-   "title": "Project Engineer, AD&S",
-   "uid": "greenhouse:andurilindustries:5261162007"
-  },
-  {
-   "closed_at": 1793124684,
-   "company": "Source Code",
-   "hours_open": 118.1,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:systems analyst:50553479"
-  },
-  {
-   "closed_at": 1793124684,
-   "company": "cvshealth",
-   "hours_open": 107.6,
-   "title": "Innovation & Technology Internship-Software Engineering:Platform & Applications-Summer2027 Undergrad",
-   "uid": "workday:cvshealth.wd1/CVS_Health_Careers:Innovation-Technology-Internship-Software-Engineering--Platform---Applications-Summer-2027-Undergrad_R1081193"
-  },
-  {
-   "closed_at": 1793124684,
-   "company": "danaher",
-   "hours_open": 154.2,
-   "title": "Solutions Consultant",
-   "uid": "workday:danaher.wd1/danaherjobs:Solutions-Consultant_R1320104-1"
-  },
-  {
-   "closed_at": 1793124684,
-   "company": "evergreenix",
-   "hours_open": 18.8,
-   "title": "Software Engineer I",
-   "uid": "workday:evergreenix.wd1/external-careers2:Software-Engineer-I_JR500927"
-  },
-  {
-   "closed_at": 1793124684,
-   "company": "enghouse",
-   "hours_open": 1276.0,
-   "title": "DevOps Developer (Pleno)",
-   "uid": "bamboohr:enghouse:2152"
-  },
-  {
-   "closed_at": 1793124684,
-   "company": "Amazon",
-   "hours_open": 169.2,
-   "title": " Software Development Engineer, Amazon Customer Service",
-   "uid": "amazon:amazon:10584155"
-  },
-  {
-   "closed_at": 1793124684,
-   "company": "figureai",
-   "hours_open": 794.7,
-   "title": "IT Operations Specialist",
-   "uid": "greenhouse:figureai:4716299006"
-  },
-  {
-   "closed_at": 1793124684,
-   "company": "twitch",
-   "hours_open": 1294.3,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1793124684,
-   "company": "reddit",
-   "hours_open": 287.2,
-   "title": "Machine Learning Engineer",
-   "uid": "greenhouse:reddit:7131934"
-  },
-  {
-   "closed_at": 1793124684,
-   "company": "Capital One",
-   "hours_open": 1333.9,
-   "title": "Software Engineer New Grad - Software Engineer",
-   "uid": "simplify:listings:d03ac761-2dfa-4cd7-bd7c-797b6ff89c19"
-  },
-  {
-   "closed_at": 1793124684,
-   "company": "ebi",
-   "hours_open": 689.7,
-   "title": "Product Engineer Intern",
-   "uid": "workday:ebi.wd5/ebicareers:Product-Engineer-Intern_REQ107697-1"
-  },
-  {
-   "closed_at": 1793124684,
    "company": "Anduril",
    "hours_open": 18.8,
    "title": "Early Career Software Engineer - Battlespace Awareness",
@@ -5599,8 +5515,92 @@
    "hours_open": 98.0,
    "title": "Software Development Engineer, Unified Streaming and Monitoring Service",
    "uid": "amazon:amazon:10586888"
+  },
+  {
+   "closed_at": 1793401478,
+   "company": "axon",
+   "hours_open": 27.5,
+   "title": "Unity Developer - Internal Tools",
+   "uid": "greenhouse:axon:8040053003"
+  },
+  {
+   "closed_at": 1793401478,
+   "company": "Groupe Coderr",
+   "hours_open": 864.3,
+   "title": "Technicien informatique",
+   "uid": "jobillico:technicien informatique:17557461"
+  },
+  {
+   "closed_at": 1793401478,
+   "company": "CGI",
+   "hours_open": 1253.9,
+   "title": "Conseiller(ère) en audit de cybersécurité",
+   "uid": "jobillico:analyste cybersecurite:17433750"
+  },
+  {
+   "closed_at": 1793401478,
+   "company": "QualiTech",
+   "hours_open": 28.3,
+   "title": "Spécialiste infrastructure, réseaux et télécommunications (fly-in fly-out)",
+   "uid": "jobillico:specialiste infrastructure:17657508"
+  },
+  {
+   "closed_at": 1793401478,
+   "company": "Amazon",
+   "hours_open": 247.9,
+   "title": "Software Development Engineer, Annapurna Labs, Elastic Collectives",
+   "uid": "amazon:amazon:10584034"
+  },
+  {
+   "closed_at": 1793401478,
+   "company": "vast",
+   "hours_open": 147.3,
+   "title": "Integration Build Engineer",
+   "uid": "greenhouse:vast:4713728006"
+  },
+  {
+   "closed_at": 1793401478,
+   "company": "andurilindustries",
+   "hours_open": 1205.2,
+   "title": "Automation Technician 2nd Shift, Manufacturing Automation  ",
+   "uid": "greenhouse:andurilindustries:5234683007"
+  },
+  {
+   "closed_at": 1793401478,
+   "company": "andurilindustries",
+   "hours_open": 1203.1,
+   "title": "Automation Technician, Manufacturing Automation  ",
+   "uid": "greenhouse:andurilindustries:5234680007"
+  },
+  {
+   "closed_at": 1793401478,
+   "company": "Micron Technology",
+   "hours_open": 1362.7,
+   "title": "Electrical Failure Analysis Engineer New Grad - Yield Enhancement",
+   "uid": "simplify:listings:94555cf8-dff1-498f-8455-78f6809daa92"
+  },
+  {
+   "closed_at": 1793401478,
+   "company": "machindustries",
+   "hours_open": 356.6,
+   "title": "Mechanical Test Engineer",
+   "uid": "greenhouse:machindustries:4455148009"
+  },
+  {
+   "closed_at": 1793401478,
+   "company": "spacex",
+   "hours_open": 837.4,
+   "title": "Splunk Engineer",
+   "uid": "greenhouse:spacex:8846233002"
+  },
+  {
+   "closed_at": 1793401478,
+   "company": "spacex",
+   "hours_open": 1374.1,
+   "title": "OT Network Engineer, Mission Systems",
+   "uid": "greenhouse:spacex:8679658002"
   }
  ],
- "count": 809,
- "updated_at": 1793396047
+ "count": 812,
+ "updated_at": 1793401478
 }
