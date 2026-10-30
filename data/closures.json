@@ -1,69 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1793118708,
-   "company": "twitch",
-   "hours_open": 1295.6,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1793118708,
-   "company": "impact",
-   "hours_open": 1295.6,
-   "title": "Intermediate Full Stack Software Engineer",
-   "uid": "greenhouse:impact:8557055002"
-  },
-  {
-   "closed_at": 1793118708,
-   "company": "reddit",
-   "hours_open": 256.7,
-   "title": "Machine Learning Engineer",
-   "uid": "greenhouse:reddit:7131932"
-  },
-  {
-   "closed_at": 1793118708,
-   "company": "bird",
-   "hours_open": 1172.2,
-   "title": "Construction Innovation Systems Analyst - Buildings East",
-   "uid": "workday:bird.wd3/BirdConstructionCareers:Construction-Innovator_JR-9305"
-  },
-  {
-   "closed_at": 1793118708,
-   "company": "andurilindustries",
-   "hours_open": 20.9,
-   "title": "Early Career Software Engineer, Battlespace Awareness",
-   "uid": "greenhouse:andurilindustries:5275431007"
-  },
-  {
-   "closed_at": 1793118708,
-   "company": "spacex",
-   "hours_open": 1292.6,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1793118708,
-   "company": "spacex",
-   "hours_open": 1295.6,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1793118708,
-   "company": "spacex",
-   "hours_open": 1295.6,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1793124684,
-   "company": "1password",
-   "hours_open": 284.6,
-   "title": "Junior Security Engineer",
-   "uid": "ashby:1password:49f0fe51-fcdc-46d8-a046-35f357b0cf6e"
-  },
-  {
    "closed_at": 1793124684,
    "company": "andurilindustries",
    "hours_open": 456.3,
@@ -5599,8 +5536,71 @@
    "hours_open": 250.2,
    "title": "Administrateur Réseau TI",
    "uid": "jobillico:analyste reseau:17628663"
+  },
+  {
+   "closed_at": 1793396047,
+   "company": "axontalentcommunity",
+   "hours_open": 20.6,
+   "title": "2027 US Software Engineering Internship (Dedrone)",
+   "uid": "greenhouse:axontalentcommunity:8037922003"
+  },
+  {
+   "closed_at": 1793396047,
+   "company": "Maxima Technologies Inc",
+   "hours_open": 244.6,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50542723"
+  },
+  {
+   "closed_at": 1793396047,
+   "company": "Logesco Informatique",
+   "hours_open": 1252.4,
+   "title": "Administrateur de réseau",
+   "uid": "jobillico:analyste reseau:17188132"
+  },
+  {
+   "closed_at": 1793396047,
+   "company": "Amplitude",
+   "hours_open": 67.2,
+   "title": "Software Engineer 1",
+   "uid": "simplify:listings:4ae0b156-0dee-4cd8-9586-be6ccba61655"
+  },
+  {
+   "closed_at": 1793396047,
+   "company": "Amazon",
+   "hours_open": 264.1,
+   "title": "Software Development Engineer, AWS Marketplace",
+   "uid": "amazon:amazon:10583323"
+  },
+  {
+   "closed_at": 1793396047,
+   "company": "parallel",
+   "hours_open": 878.9,
+   "title": "Full Stack Software Engineer I",
+   "uid": "greenhouse:parallel:5247800007"
+  },
+  {
+   "closed_at": 1793396047,
+   "company": "twitch",
+   "hours_open": 1372.6,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1793396047,
+   "company": "pathrobotics",
+   "hours_open": 1370.9,
+   "title": "Software Engineer, C#",
+   "uid": "greenhouse:pathrobotics:8635262002"
+  },
+  {
+   "closed_at": 1793396047,
+   "company": "Amazon",
+   "hours_open": 98.0,
+   "title": "Software Development Engineer, Unified Streaming and Monitoring Service",
+   "uid": "amazon:amazon:10586888"
   }
  ],
- "count": 801,
- "updated_at": 1793391867
+ "count": 809,
+ "updated_at": 1793396047
 }
