@@ -1,55 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1793058338,
-   "company": "spacex",
-   "hours_open": 1277.1,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1793061198,
-   "company": "jj",
-   "hours_open": 56.9,
-   "title": "Laboratory Automation Systems Intern",
-   "uid": "workday:jj.wd5/JJ:Laboratory-Automation-Systems-Intern_R-103027"
-  },
-  {
-   "closed_at": 1793061198,
-   "company": "Stellar Software Solutions",
-   "hours_open": 411.3,
-   "title": "network infrastructure engineer",
-   "uid": "jobbank:specialiste infrastructure:50462911"
-  },
-  {
-   "closed_at": 1793061198,
-   "company": "GE Vernova",
-   "hours_open": 67.4,
-   "title": "Développeur de logiciels embarqués pour éléments de protection F/H - Protection Element Embedded SW Developer",
-   "uid": "jobillico:software developer:17583378"
-  },
-  {
-   "closed_at": 1793061198,
-   "company": "micron",
-   "hours_open": 100.5,
-   "title": "New College Grad - ENGINEER, DDEG IP DEVELOPMENT",
-   "uid": "workday:micron.wd1/External:SR-ENGINEER--DDEG-IP-DEVELOPMENT_JR115388"
-  },
-  {
-   "closed_at": 1793061198,
-   "company": "micron",
-   "hours_open": 100.5,
-   "title": "New College Grad - DRAM Design Engineer",
-   "uid": "workday:micron.wd1/External:New-College-Grad---DRAM-Design-Engineer_JR115580"
-  },
-  {
-   "closed_at": 1793061198,
-   "company": "moog",
-   "hours_open": 100.5,
-   "title": "Intern, Software Engineering",
-   "uid": "workday:moog.wd5/moog_external_career_site:Intern--Software-Engineering_R-26-19965"
-  },
-  {
    "closed_at": 1793061198,
    "company": "micron",
    "hours_open": 120.3,
@@ -5599,8 +5550,57 @@
    "hours_open": 171.7,
    "title": "Security Specialist (Generalist)",
    "uid": "workable:credence:B7B01B57C1"
+  },
+  {
+   "closed_at": 1793343706,
+   "company": "Great Lakes Group",
+   "hours_open": 144.5,
+   "title": "electrical controls engineer",
+   "uid": "jobbank:control systems analyst:50570740"
+  },
+  {
+   "closed_at": 1793343706,
+   "company": "Source Code",
+   "hours_open": 179.0,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:systems analyst:50553479"
+  },
+  {
+   "closed_at": 1793343706,
+   "company": "Best Buy Canada",
+   "hours_open": 217.5,
+   "title": "business systems analyst",
+   "uid": "jobbank:infrastructure analyst:50512206"
+  },
+  {
+   "closed_at": 1793343706,
+   "company": "CGI",
+   "hours_open": 1237.9,
+   "title": "Conseiller(ère) en audit de cybersécurité",
+   "uid": "jobillico:analyste cybersecurite:17433750"
+  },
+  {
+   "closed_at": 1793343706,
+   "company": "Linear Transfer Automation Inc.",
+   "hours_open": 517.1,
+   "title": "programmer, systems",
+   "uid": "jobbank:junior programmer:50453620"
+  },
+  {
+   "closed_at": 1793343706,
+   "company": "Thorlabs",
+   "hours_open": 492.0,
+   "title": "Photonics Systems Engineer I",
+   "uid": "workable:thorlabs:9CCB3177FA"
+  },
+  {
+   "closed_at": 1793343706,
+   "company": "Saalex",
+   "hours_open": 1056.6,
+   "title": "Junior Systems Developer & Data Analyst",
+   "uid": "workable:saalex:758C0628C9"
   }
  ],
- "count": 814,
- "updated_at": 1793338775
+ "count": 807,
+ "updated_at": 1793343707
 }
