@@ -1,118 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1793079047,
-   "company": "Source Code",
-   "hours_open": 312.0,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:systems analyst:50491950"
-  },
-  {
-   "closed_at": 1793079047,
-   "company": "GE Vernova",
-   "hours_open": 72.4,
-   "title": "Développeur de logiciels embarqués pour éléments de protection F/H - Protection Element Embedded SW Developer",
-   "uid": "jobillico:software developer:17583378"
-  },
-  {
-   "closed_at": 1793079047,
-   "company": "appdirect",
-   "hours_open": 1284.6,
-   "title": "Database Platform Engineer",
-   "uid": "greenhouse:appdirect:8635759002"
-  },
-  {
-   "closed_at": 1793079047,
-   "company": "Marketvan",
-   "hours_open": 609.6,
-   "title": "Web developer",
-   "uid": "jobbank:junior programmer:50404579"
-  },
-  {
-   "closed_at": 1793079047,
-   "company": "twitch",
-   "hours_open": 1284.6,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1793079047,
-   "company": "reddit",
-   "hours_open": 274.6,
-   "title": "Machine Learning Engineer",
-   "uid": "greenhouse:reddit:7131934"
-  },
-  {
-   "closed_at": 1793079047,
-   "company": "DPMSYSTEMS IT CONSULTING SERVICES",
-   "hours_open": 288.0,
-   "title": "information systems analyst - computer systems",
-   "uid": "jobbank:information systems analyst:50311291"
-  },
-  {
-   "closed_at": 1793079047,
-   "company": "rocketlab",
-   "hours_open": 603.0,
-   "title": "Project Engineer - Electron",
-   "uid": "greenhouse:rocketlab:7771357003"
-  },
-  {
-   "closed_at": 1793079047,
-   "company": "rocketlab",
-   "hours_open": 1277.3,
-   "title": "GNC Engineer - Electron",
-   "uid": "greenhouse:rocketlab:7978902003"
-  },
-  {
-   "closed_at": 1793079047,
-   "company": "spacex",
-   "hours_open": 1281.6,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1793079047,
-   "company": "spacex",
-   "hours_open": 1282.9,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1793079047,
-   "company": "spacex",
-   "hours_open": 1284.6,
-   "title": "IT Network Engineer - Top Secret Clearance",
-   "uid": "greenhouse:spacex:8456295002"
-  },
-  {
-   "closed_at": 1793079799,
-   "company": "Stellar Software Solutions",
-   "hours_open": 406.9,
-   "title": "network infrastructure engineer",
-   "uid": "jobbank:infrastructure analyst:50462911"
-  },
-  {
-   "closed_at": 1793079799,
-   "company": "twitch",
-   "hours_open": 1281.8,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1793079799,
-   "company": "DPMSYSTEMS IT CONSULTING SERVICES",
-   "hours_open": 936.8,
-   "title": "information systems analyst - computer systems",
-   "uid": "jobbank:systems analyst:50311291"
-  },
-  {
-   "closed_at": 1793079799,
-   "company": "Bird Construction",
-   "hours_open": 1164.6,
-   "title": "Construction Innovation Systems Analyst",
-   "uid": "simplify:listings:a851c57f-b49e-4f1d-a44d-08dcd31d4bce"
-  },
-  {
    "closed_at": 1793079799,
    "company": "spacex",
    "hours_open": 1284.8,
@@ -5599,8 +5487,120 @@
    "hours_open": 85.5,
    "title": "Junior Software Developer",
    "uid": "workday:leidos.wd5/External:Junior-Software-Developer_R-00193099"
+  },
+  {
+   "closed_at": 1793375124,
+   "company": "Morningstar",
+   "hours_open": 16.5,
+   "title": "Associate Software Engineer - Central Tech AI",
+   "uid": "simplify:listings:f0518227-634a-49fb-8e4e-eba9d347a10e"
+  },
+  {
+   "closed_at": 1793375124,
+   "company": "micron",
+   "hours_open": 68.1,
+   "title": "New College Grad - Process Control Engineer (SPC)",
+   "uid": "workday:micron.wd1/External:Process-Control-Engineer--SPC-_JR111994"
+  },
+  {
+   "closed_at": 1793375124,
+   "company": "CGI",
+   "hours_open": 1246.6,
+   "title": "Conseiller(ère) en architecture de cybersécurité",
+   "uid": "jobillico:analyste cybersecurite:17433753"
+  },
+  {
+   "closed_at": 1793375124,
+   "company": "CGI",
+   "hours_open": 1246.6,
+   "title": "Conseiller(ère) en audit de cybersécurité",
+   "uid": "jobillico:analyste cybersecurite:17433750"
+  },
+  {
+   "closed_at": 1793375124,
+   "company": "McCain Foods",
+   "hours_open": 48.2,
+   "title": "software developer",
+   "uid": "jobbank:scada:50599113"
+  },
+  {
+   "closed_at": 1793375124,
+   "company": "QualiTech",
+   "hours_open": 21.0,
+   "title": "Spécialiste infrastructure, réseaux et télécommunications (fly-in fly-out)",
+   "uid": "jobillico:specialiste infrastructure:17657508"
+  },
+  {
+   "closed_at": 1793375124,
+   "company": "mpc",
+   "hours_open": 1097.3,
+   "title": "Logistics & Storage Engineering - Project Engineer 1 (Intern to Full-Time Conversion)",
+   "uid": "workday:mpc.wd1/MPCCareers:Logistics---Storage-Engineering---Project-Engineer-1--Intern-to-Full-Time-Conversion-_00024199"
+  },
+  {
+   "closed_at": 1793375124,
+   "company": "mpc",
+   "hours_open": 1097.3,
+   "title": "Logistics & Storage Engineering - Project Engineer 1",
+   "uid": "workday:mpc.wd1/MPCCareers:Logistics---Storage-Engineering---Project-Engineer-1_00024204"
+  },
+  {
+   "closed_at": 1793375124,
+   "company": "nidec",
+   "hours_open": 517.1,
+   "title": "Applications Engineer I",
+   "uid": "workday:nidec.wd1/nidec:Applications-Engineer-I_R0017942"
+  },
+  {
+   "closed_at": 1793375124,
+   "company": "Amazon",
+   "hours_open": 92.2,
+   "title": "Software Development Engineer, Amazon Foundation Security Services",
+   "uid": "amazon:amazon:10588993"
+  },
+  {
+   "closed_at": 1793375124,
+   "company": "micron",
+   "hours_open": 23.6,
+   "title": "Intern - Embedded Software Engineer",
+   "uid": "workday:micron.wd1/External:Embedded-Software-Engineering-Intern_JR115959"
+  },
+  {
+   "closed_at": 1793375124,
+   "company": "Source Code",
+   "hours_open": 202.9,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50553328"
+  },
+  {
+   "closed_at": 1793375124,
+   "company": "Arya Health",
+   "hours_open": 1384.7,
+   "title": "software development programmer",
+   "uid": "jobbank:junior programmer:50148592"
+  },
+  {
+   "closed_at": 1793375124,
+   "company": "TSC",
+   "hours_open": 24.4,
+   "title": "Software Engineer 1",
+   "uid": "simplify:listings:a0303bf2-78ec-4e3f-88ed-874ac7a7aaca"
+  },
+  {
+   "closed_at": 1793375124,
+   "company": "Moog ",
+   "hours_open": 16.5,
+   "title": "Associate Software Engineer",
+   "uid": "simplify:listings:9ac313d5-9282-4818-b4b8-b7e24416f6d9"
+  },
+  {
+   "closed_at": 1793375124,
+   "company": "bluecatnetworks",
+   "hours_open": 881.9,
+   "title": "Software Developer",
+   "uid": "lever:bluecatnetworks:1ad37b73-f19e-4c1f-a12b-66665b439190"
   }
  ],
- "count": 811,
- "updated_at": 1793368972
+ "count": 816,
+ "updated_at": 1793375124
 }
