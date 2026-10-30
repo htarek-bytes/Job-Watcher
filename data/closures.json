@@ -1,83 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1793067371,
-   "company": "spacex",
-   "hours_open": 1281.3,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1793067371,
-   "company": "spacex",
-   "hours_open": 842.9,
-   "title": "IT Network Infrastructure Technician",
-   "uid": "greenhouse:spacex:8827863002"
-  },
-  {
-   "closed_at": 1793067371,
-   "company": "RTX",
-   "hours_open": 1317.9,
-   "title": "2026 Fulltime - Electronics Design Engineer I",
-   "uid": "simplify:listings:63703d4d-13ff-4bec-a203-233fd1628666"
-  },
-  {
-   "closed_at": 1793068102,
-   "company": "applied",
-   "hours_open": 1281.5,
-   "title": "Software Engineer - Game Development",
-   "uid": "ashby:applied:ee6b42c8-6569-449d-8e69-4cc3c07fea74"
-  },
-  {
-   "closed_at": 1793068102,
-   "company": "spacex",
-   "hours_open": 1281.5,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1793068102,
-   "company": "spacex",
-   "hours_open": 1281.2,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1793068102,
-   "company": "spacex",
-   "hours_open": 1281.5,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1793068102,
-   "company": "spacex",
-   "hours_open": 0.2,
-   "title": "IT Network Infrastructure Technician",
-   "uid": "greenhouse:spacex:8918371002"
-  },
-  {
-   "closed_at": 1793079047,
-   "company": "harvey",
-   "hours_open": 574.7,
-   "title": "Software Engineering Intern (Summer 2027)",
-   "uid": "ashby:harvey:06d64648-b84b-48ae-94a2-d9c06dfdcb5d"
-  },
-  {
-   "closed_at": 1793079047,
-   "company": "Renfrew County Catholic District School Board",
-   "hours_open": 132.2,
-   "title": "systems analyst",
-   "uid": "jobbank:systems analyst:50549950"
-  },
-  {
-   "closed_at": 1793079047,
-   "company": "LE GROUPE ESTRIE-RICHELIEU, COMPAGNIE D'ASSURANCE",
-   "hours_open": 300.4,
-   "title": "full stack Web developer",
-   "uid": "jobbank:developpeur junior:50495497"
-  },
-  {
    "closed_at": 1793079047,
    "company": "Source Code",
    "hours_open": 312.0,
@@ -5599,8 +5522,85 @@
    "hours_open": 1362.7,
    "title": "Azure Cloud Systems Engineer ",
    "uid": "greenhouse:accenturefederalservices:4709013006"
+  },
+  {
+   "closed_at": 1793368971,
+   "company": "airbnb",
+   "hours_open": 18.5,
+   "title": "Backend Engineer, Profile & Community",
+   "uid": "greenhouse:airbnb:8334926"
+  },
+  {
+   "closed_at": 1793368971,
+   "company": "mirego",
+   "hours_open": 96.4,
+   "title": "Développeur(euse) logiciel Back-End / DevOps",
+   "uid": "lever:mirego:9e063801-4830-4d9d-ac7d-2774231d9657"
+  },
+  {
+   "closed_at": 1793368971,
+   "company": "Source Code",
+   "hours_open": 186.0,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:systems analyst:50553479"
+  },
+  {
+   "closed_at": 1793368971,
+   "company": "Boeing",
+   "hours_open": 399.3,
+   "title": "Entry Level Design and Analysis Engineer - Support Equipt Design, Elect",
+   "uid": "simplify:listings:9864b3ec-765c-40f0-9db9-5dc911daed42"
+  },
+  {
+   "closed_at": 1793368971,
+   "company": "marvell",
+   "hours_open": 375.4,
+   "title": "Firmware Engineer Intern, MS - Summer 2027",
+   "uid": "workday:marvell.wd1/MarvellCareers2:Firmware-Engineer-Intern--MS---Summer-2027_2604513-1"
+  },
+  {
+   "closed_at": 1793368971,
+   "company": "Amazon",
+   "hours_open": 184.0,
+   "title": "Software Development Engineer, DynamoDB",
+   "uid": "amazon:amazon:10587056"
+  },
+  {
+   "closed_at": 1793368971,
+   "company": "lnw",
+   "hours_open": 1218.7,
+   "title": "Associate Software Engineer",
+   "uid": "workday:lnw.wd5/lightwonderexternalcareers:Associate-Software-Engineer_R322683"
+  },
+  {
+   "closed_at": 1793368971,
+   "company": "Source Code",
+   "hours_open": 31.0,
+   "title": "software developer",
+   "uid": "jobbank:entry level software developer:50598291"
+  },
+  {
+   "closed_at": 1793368971,
+   "company": "kbr",
+   "hours_open": 1386.4,
+   "title": "Junior Software Engineer",
+   "uid": "workday:kbr.wd5/kbr_careers:Junior-Software-Engineer_R2122294"
+  },
+  {
+   "closed_at": 1793368971,
+   "company": "litera",
+   "hours_open": 349.3,
+   "title": "Associate Software Engineer",
+   "uid": "workday:litera.wd12/Litera_Careers:Associate-Software-Engineer_R-501347"
+  },
+  {
+   "closed_at": 1793368971,
+   "company": "leidos",
+   "hours_open": 85.5,
+   "title": "Junior Software Developer",
+   "uid": "workday:leidos.wd5/External:Junior-Software-Developer_R-00193099"
   }
  ],
- "count": 815,
- "updated_at": 1793360433
+ "count": 811,
+ "updated_at": 1793368972
 }
