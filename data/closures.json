@@ -1,69 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1793051523,
-   "company": "cadence",
-   "hours_open": 1270.5,
-   "title": "Software Engineer  (new college grad Dec 2026)",
-   "uid": "workday:cadence.wd1/University_Talent:Software-Engineer---new-college-grad-Dec-2026-_R55738-1"
-  },
-  {
-   "closed_at": 1793051523,
-   "company": "verkada",
-   "hours_open": 1194.8,
-   "title": "Enterprise Solutions Engineer, Bay Area CORP",
-   "uid": "greenhouse:verkada:5205276007"
-  },
-  {
-   "closed_at": 1793051523,
-   "company": "spacex",
-   "hours_open": 1274.0,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1793051523,
-   "company": "spacex",
-   "hours_open": 1276.6,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1793056982,
-   "company": "cvshealth",
-   "hours_open": 88.8,
-   "title": "Innovation & Technology Internship - Software Engineering: Data & Intelligence Summer 2027 Undergrad",
-   "uid": "workday:cvshealth.wd1/CVS_Health_Careers:Innovation---Technology-Internship--Software-Engineering--Data---Intelligence-Summer-2027-Undergrad_R1081114"
-  },
-  {
-   "closed_at": 1793056982,
-   "company": "Domtar",
-   "hours_open": 152.2,
-   "title": "Administrateur système Windows",
-   "uid": "jobillico:administrateur systeme:17631324"
-  },
-  {
-   "closed_at": 1793056982,
-   "company": "Groupe DCM",
-   "hours_open": 930.5,
-   "title": "Programmeur CNC / CNC Programmer",
-   "uid": "jobillico:programmeur junior:17534679"
-  },
-  {
-   "closed_at": 1793056982,
-   "company": "Alcoa Canada",
-   "hours_open": 1158.2,
-   "title": "Conseiller(ère) en cybersécurité (Amérique du Nord)",
-   "uid": "jobillico:analyste cybersecurite:17502948"
-  },
-  {
-   "closed_at": 1793056982,
-   "company": "copart",
-   "hours_open": 88.8,
-   "title": "QA Engineer Intern",
-   "uid": "workday:copart.wd12/copart:QA-Engineer-Intern_JR112005"
-  },
-  {
    "closed_at": 1793056982,
    "company": "cvshealth",
    "hours_open": 88.8,
@@ -5599,8 +5536,71 @@
    "hours_open": 672.2,
    "title": "Robotics Test Engineer (Federal)",
    "uid": "lever:field-ai:02d9f383-7b5f-49a2-bed1-15792c602afa"
+  },
+  {
+   "closed_at": 1793327630,
+   "company": "Thoughtworks",
+   "hours_open": 11.2,
+   "title": "Associate Developer",
+   "uid": "simplify:listings:a78b3bae-270e-40f5-888b-ab2cae4598ea"
+  },
+  {
+   "closed_at": 1793327630,
+   "company": "Thoughtworks",
+   "hours_open": 11.2,
+   "title": "Software Developer New Grad",
+   "uid": "simplify:listings:756f5acb-ee83-4d78-8f4b-7cbbdaff4b18"
+  },
+  {
+   "closed_at": 1793327630,
+   "company": "shieldai",
+   "hours_open": 48.2,
+   "title": "Engineer I, Software Test and Automation (R6216) - New Grad",
+   "uid": "lever:shieldai:d80f9bad-a014-475a-a018-a676eb6fbad7"
+  },
+  {
+   "closed_at": 1793327630,
+   "company": "twitch",
+   "hours_open": 1353.6,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1793327630,
+   "company": "reddit",
+   "hours_open": 314.8,
+   "title": "Machine Learning Engineer",
+   "uid": "greenhouse:reddit:7131932"
+  },
+  {
+   "closed_at": 1793327630,
+   "company": "Domino Data Lab",
+   "hours_open": 1203.6,
+   "title": "Forward Deployed Engineer New Grad",
+   "uid": "simplify:listings:7b2a1e78-a6a7-42e9-8120-2e4b3187e580"
+  },
+  {
+   "closed_at": 1793327630,
+   "company": "True Anomaly",
+   "hours_open": 1390.2,
+   "title": "Data Science Software Engineer 1 New Grad - Data Science",
+   "uid": "simplify:listings:2b100e48-0d13-4ce4-84ba-7549d0d15f9b"
+  },
+  {
+   "closed_at": 1793327630,
+   "company": "astranis",
+   "hours_open": 847.1,
+   "title": "Software Developer, Network Software Intern (Summer 2027)",
+   "uid": "greenhouse:astranis:4705597006"
+  },
+  {
+   "closed_at": 1793327630,
+   "company": "astranis",
+   "hours_open": 847.1,
+   "title": "Software Developer, Network Software Intern (Winter 2027)",
+   "uid": "greenhouse:astranis:4705599006"
   }
  ],
- "count": 807,
- "updated_at": 1793322051
+ "count": 809,
+ "updated_at": 1793327631
 }
