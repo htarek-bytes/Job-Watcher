@@ -2,20 +2,6 @@
  "closed": [
   {
    "closed_at": 1793118708,
-   "company": "Magna Mining Inc.",
-   "hours_open": 87.7,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:systems analyst:50569658"
-  },
-  {
-   "closed_at": 1793118708,
-   "company": "Stellar Software Solutions",
-   "hours_open": 427.3,
-   "title": "network infrastructure engineer",
-   "uid": "jobbank:specialiste infrastructure:50462911"
-  },
-  {
-   "closed_at": 1793118708,
    "company": "Chlyn Safety Services Ltd.",
    "hours_open": 476.8,
    "title": "cloud administrator",
@@ -5599,8 +5585,22 @@
    "hours_open": 555.8,
    "title": "telecommunications technician",
    "uid": "jobbank:telecommunications analyst:50294640"
+  },
+  {
+   "closed_at": 1793391237,
+   "company": "mach9",
+   "hours_open": 661.4,
+   "title": "ML Infrastructure Engineer",
+   "uid": "ashby:mach9:00cdc4ed-eea2-4a95-bbd6-a885d5429e38"
+  },
+  {
+   "closed_at": 1793391237,
+   "company": "ontic",
+   "hours_open": 1396.3,
+   "title": "Associate Software Engineer - Full Stack",
+   "uid": "ashby:ontic:d50b6bea-876f-43fc-afb9-716efe9eca02"
   }
  ],
- "count": 809,
- "updated_at": 1793391064
+ "count": 802,
+ "updated_at": 1793391237
 }
