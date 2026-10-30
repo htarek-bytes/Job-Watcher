@@ -1,90 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1793061198,
-   "company": "spacex",
-   "hours_open": 1279.6,
-   "title": "Automation & Controls Engineer (Facilities)",
-   "uid": "greenhouse:spacex:8546353002"
-  },
-  {
-   "closed_at": 1793061911,
-   "company": "pae",
-   "hours_open": 71.1,
-   "title": "Software Engineer 1",
-   "uid": "workday:pae.wd1/amentum_careers:Software-Engineer-1_R0173916"
-  },
-  {
-   "closed_at": 1793061911,
-   "company": "pae",
-   "hours_open": 71.1,
-   "title": "Junior DevSecOps Engineer",
-   "uid": "workday:pae.wd1/amentum_careers:Junior-DevSecOps-Engineer_R0172729"
-  },
-  {
-   "closed_at": 1793061911,
-   "company": "ncr",
-   "hours_open": 575.4,
-   "title": "Junior DevOps Engineer",
-   "uid": "workday:ncr.wd1/ext_non_us:Junior-DevOps-Engineer_R0158519"
-  },
-  {
-   "closed_at": 1793061911,
-   "company": "philips",
-   "hours_open": 604.8,
-   "title": "Co-op - R&D Engineer (Cleaning & Disinfection) – New Kensington, PA – January - August 2027",
-   "uid": "workday:philips.wd3/jobs-and-careers:Co-op---R-D-Engineer--Cleaning---Disinfection----New-Kensington--PA---January---August-2027_591275"
-  },
-  {
-   "closed_at": 1793061911,
-   "company": "twitch",
-   "hours_open": 1279.8,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1793061911,
-   "company": "reddit",
-   "hours_open": 269.8,
-   "title": "Machine Learning Engineer",
-   "uid": "greenhouse:reddit:7131934"
-  },
-  {
-   "closed_at": 1793061911,
-   "company": "radiancetech",
-   "hours_open": 799.3,
-   "title": "Junior Software Engineer",
-   "uid": "workday:radiancetech.wd12/Radiance_External:Junior-Software-Engineer_HR102428"
-  },
-  {
-   "closed_at": 1793061911,
-   "company": "adyen",
-   "hours_open": 171.2,
-   "title": "Full-Stack Developer (Junior) - Docs Experience Engineering Team",
-   "uid": "greenhouse:adyen:8068230"
-  },
-  {
-   "closed_at": 1793061911,
-   "company": "spacex",
-   "hours_open": 1276.9,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1793061911,
-   "company": "spacex",
-   "hours_open": 1279.5,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1793061911,
-   "company": "spacex",
-   "hours_open": 1278.1,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
    "closed_at": 1793063009,
    "company": "sierraspace",
    "hours_open": 71.4,
@@ -5599,8 +5515,92 @@
    "hours_open": 544.6,
    "title": "telecommunications technician",
    "uid": "jobbank:telecommunications analyst:49818659"
+  },
+  {
+   "closed_at": 1793351068,
+   "company": "bmo",
+   "hours_open": 64.5,
+   "title": "Junior Cloud Engineer, Summer 2027 (Co-op/Internship) - 16 months",
+   "uid": "workday:bmo.wd3/External:Junior-Cloud-Engineer--Summer-2027--Co-op-Internship----16-months_R260029417-1"
+  },
+  {
+   "closed_at": 1793351068,
+   "company": "centene",
+   "hours_open": 153.7,
+   "title": "Network Operations Process Improvement Undergraduate Summer Intern",
+   "uid": "workday:centene.wd5/Centene_External:Network-Operations-Process-Improvement-Undergraduate-Summer-Intern_1667787"
+  },
+  {
+   "closed_at": 1793351068,
+   "company": "cai",
+   "hours_open": 387.6,
+   "title": "Server Engineer Intern",
+   "uid": "workday:cai.wd5/computer_aid:Server-Engineer-Intern_R8557"
+  },
+  {
+   "closed_at": 1793351068,
+   "company": "ccf",
+   "hours_open": 387.6,
+   "title": "New Grad RN – Acute Care Neurology and Cardiac Telemetry",
+   "uid": "workday:ccf.wd1/ClevelandClinicCareers:RN---Acute-Care-Neurology-and-Cardiac-Telemetry_334418-1"
+  },
+  {
+   "closed_at": 1793351068,
+   "company": "centene",
+   "hours_open": 19.7,
+   "title": "Business Technical Analyst Undergraduate Summer Intern",
+   "uid": "workday:centene.wd5/Centene_External:Business-Technical-Analyst-Undergraduate-Summer-Intern_1667829"
+  },
+  {
+   "closed_at": 1793351068,
+   "company": "twitch",
+   "hours_open": 1360.1,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1793351068,
+   "company": "reddit",
+   "hours_open": 321.3,
+   "title": "Machine Learning Engineer",
+   "uid": "greenhouse:reddit:7131932"
+  },
+  {
+   "closed_at": 1793351068,
+   "company": "Maarut",
+   "hours_open": 52.3,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50597224"
+  },
+  {
+   "closed_at": 1793351068,
+   "company": "Boeing",
+   "hours_open": 49.7,
+   "title": "Entry-Level Software Engineer",
+   "uid": "simplify:listings:2ab1121c-3c48-4d77-a953-91550eb41c3c"
+  },
+  {
+   "closed_at": 1793351068,
+   "company": "boeing",
+   "hours_open": 114.8,
+   "title": "Associate Software Engineer",
+   "uid": "workday:boeing.wd1/EXTERNAL_CAREERS:Associate-Software-Engineer_JR2026526419"
+  },
+  {
+   "closed_at": 1793351068,
+   "company": "caci",
+   "hours_open": 1092.5,
+   "title": "Cleared Software Engineer Intern - Summer 2027",
+   "uid": "workday:caci.wd1/external:Cleared-Software-Engineer-Intern---Summer-2027_331999"
+  },
+  {
+   "closed_at": 1793351068,
+   "company": "caci",
+   "hours_open": 738.7,
+   "title": "Software Engineer Intern - Summer 2027",
+   "uid": "workday:caci.wd1/external:Software-Engineer-Intern---Summer-2027_332776"
   }
  ],
- "count": 810,
- "updated_at": 1793350705
+ "count": 812,
+ "updated_at": 1793351069
 }

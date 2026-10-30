@@ -1,5 +1,5 @@
 {
- "count": 10169,
+ "count": 10174,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -5333,6 +5333,7 @@
   "jobbank:junior software developer:50595101": 1793133524,
   "jobbank:junior software developer:50595132": 1793134591,
   "jobbank:junior software developer:50597224": 1793162848,
+  "jobbank:junior software developer:50597328": 1793351068,
   "jobbank:junior software developer:50598324": 1793184779,
   "jobbank:linux administrator:49626621": 1789082121,
   "jobbank:linux administrator:50163764": 1788887337,
@@ -8594,6 +8595,7 @@
   "workday:bakerhughes.wd5/BakerHughes:Intern---Plant-Parametric-and-Automation-Model-Engineer---Florence--Italy---2026--M-F-D-_R167907": 1788435390,
   "workday:bakerhughes.wd5/BakerHughes:Intern---Reciprocating-Compressor-Engineer--Business-Development---Florence--Italy---2026--M-F-D-_R167053": 1788435390,
   "workday:bakerhughes.wd5/BakerHughes:Intern---Software-Engineering---2027_R170942": 1792622820,
+  "workday:bakerhughes.wd5/BakerHughes:Intern---Software-Engineering---2027_R171503": 1793351068,
   "workday:barclays.wd3/External_Career_Site_Barclays:XMLNAME-2027-Operations-Analyst-Summer-Internship-Program-Whippany_JR-0000123229": 1788887337,
   "workday:barclays.wd3/External_Career_Site_Barclays:XMLNAME-2027-Technology-Developer-Graduate-Program-Whippany_JR-0000123244": 1788549636,
   "workday:barclays.wd3/External_Career_Site_Barclays:XMLNAME-2027-Technology-Developer-Summer-Internship-Program-Whippany_JR-0000123234": 1788549636,
@@ -8665,9 +8667,11 @@
   "workday:boeing.wd1/EXTERNAL_CAREERS:Associate-Software-Engineer_JR2026522010-1": 1791505232,
   "workday:boeing.wd1/EXTERNAL_CAREERS:Associate-Software-Engineer_JR2026522810-1": 1788368024,
   "workday:boeing.wd1/EXTERNAL_CAREERS:Associate-Software-Engineer_JR2026524131": 1791422190,
+  "workday:boeing.wd1/EXTERNAL_CAREERS:Associate-Software-Engineer_JR2026525135": 1793351068,
   "workday:boeing.wd1/EXTERNAL_CAREERS:Associate-Software-Engineer_JR2026526419": 1792937714,
   "workday:boeing.wd1/EXTERNAL_CAREERS:Boeing-Engineering---Technology-Innovation-Graduate-Researcher-Program--Software-Engineering-Artificial-Intelligence-Intern_JR2026523687": 1788903151,
   "workday:boeing.wd1/EXTERNAL_CAREERS:Entry-Level-Simulation-Software-Engineer_JR2026516853-1": 1789164282,
+  "workday:boeing.wd1/EXTERNAL_CAREERS:Entry-Level-Software-Engineer_JR2026526418-1": 1793351068,
   "workday:boeing.wd1/EXTERNAL_CAREERS:Intern-Software-Engineer_JR2026492187-1": 1792110118,
   "workday:boeing.wd1/EXTERNAL_CAREERS:Software-Engineer_JR2026517990-1": 1788425964,
   "workday:boeing.wd1/external_subsidiary:ATLO--Assembly--Test----Launch-Operations--Engineer---Millennium-Space-Systems_JR2026511990": 1790632644,
@@ -8728,6 +8732,7 @@
   "workday:caci.wd1/external:Software-Engineer-Intern---Summer-2027_333037": 1790980231,
   "workday:caci.wd1/external:Software-Engineering-Co-op---Fall-2026_331472": 1788435390,
   "workday:caci.wd1/external:Software-Engineering-Co-op---Summer---Fall-2027_331354": 1791824020,
+  "workday:caci.wd1/external:Software-Engineering-Co-op-Intern---Spring-2027_334160": 1793351068,
   "workday:caci.wd1/external:Software-Engineering-Intern---Summer-2027_331543-1": 1789070335,
   "workday:caci.wd1/external:Software-Engineering-Intern---Summer-2027_331742": 1788979404,
   "workday:caci.wd1/external:Software-Engineering-Intern---Summer-2027_332041": 1790208212,
@@ -10171,5 +10176,5 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148,
   "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541": 1789106107
  },
- "updated_at": 1793350704
+ "updated_at": 1793351069
 }
