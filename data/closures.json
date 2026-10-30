@@ -1,97 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1793079799,
-   "company": "spacex",
-   "hours_open": 1284.8,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1793081656,
-   "company": "Kraft Berger LLP",
-   "hours_open": 511.0,
-   "title": "network administrator",
-   "uid": "jobbank:network administrator:50430199"
-  },
-  {
-   "closed_at": 1793081656,
-   "company": "Study 2020 Consulting INC",
-   "hours_open": 526.1,
-   "title": "network security administrator",
-   "uid": "jobbank:network administrator:50424797"
-  },
-  {
-   "closed_at": 1793081656,
-   "company": "versafile1",
-   "hours_open": 839.4,
-   "title": "SAP Technical Specialist – Produktimplementierung & Pre-Sales",
-   "uid": "bamboohr:versafile1:147"
-  },
-  {
-   "closed_at": 1793081656,
-   "company": "valency",
-   "hours_open": 912.2,
-   "title": "Software Engineer (Full-stack)",
-   "uid": "ashby:valency:2bcd9b30-d76b-40ee-afc7-43302ce18fff"
-  },
-  {
-   "closed_at": 1793088213,
-   "company": "Source Code",
-   "hours_open": 314.6,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:systems analyst:50491950"
-  },
-  {
-   "closed_at": 1793088213,
-   "company": "DPMSYSTEMS IT CONSULTING SERVICES",
-   "hours_open": 290.5,
-   "title": "information systems analyst - computer systems",
-   "uid": "jobbank:information systems analyst:50311291"
-  },
-  {
-   "closed_at": 1793089187,
-   "company": "economicmodeling",
-   "hours_open": 446.4,
-   "title": "Sales Solutions Engineer - 1079",
-   "uid": "lever:economicmodeling:c4986d73-6b7a-4e9c-b404-fa03407480a9"
-  },
-  {
-   "closed_at": 1793089187,
-   "company": "hive",
-   "hours_open": 1284.4,
-   "title": "Forward Deployed Software Engineer",
-   "uid": "lever:hive:e91c1a5a-fd0d-434e-a912-017e6231ce50"
-  },
-  {
-   "closed_at": 1793089187,
-   "company": "hive",
-   "hours_open": 1118.5,
-   "title": "Systems Engineer / DevOps",
-   "uid": "lever:hive:1da35c5a-313c-4f3b-a9c7-06e6f2fa20bd"
-  },
-  {
-   "closed_at": 1793089187,
-   "company": "hive",
-   "hours_open": 1284.4,
-   "title": "Machine Learning Engineer",
-   "uid": "lever:hive:a06ede4e-46e3-40c8-b2e6-69af1658ab50"
-  },
-  {
-   "closed_at": 1793089187,
-   "company": "hive",
-   "hours_open": 1284.4,
-   "title": "Software Engineer - Frontend",
-   "uid": "lever:hive:00c84379-62f1-45c9-9ec6-f882a1a7549b"
-  },
-  {
-   "closed_at": 1793089187,
-   "company": "woolpert",
-   "hours_open": 320.3,
-   "title": "Jr. Data Engineer / Analyst",
-   "uid": "greenhouse:woolpert:4434848009"
-  },
-  {
    "closed_at": 1793098307,
    "company": "ACCEO Solutions - Services de garde",
    "hours_open": 781.1,
@@ -5599,8 +5508,99 @@
    "hours_open": 881.9,
    "title": "Software Developer",
    "uid": "lever:bluecatnetworks:1ad37b73-f19e-4c1f-a12b-66665b439190"
+  },
+  {
+   "closed_at": 1793375656,
+   "company": "salesforce",
+   "hours_open": 331.0,
+   "title": "Account Solution Engineer - Federal Civilian",
+   "uid": "workday:salesforce.wd12/External_Career_Site:Account-Solution-Engineer---Federal-Civilian_JR363499-1"
+  },
+  {
+   "closed_at": 1793375656,
+   "company": "salesforce",
+   "hours_open": 20.8,
+   "title": "Associate Solution Consultant",
+   "uid": "workday:salesforce.wd12/Futureforce_NewGradRoles:Associate-Solution-Consultant_JR365267"
+  },
+  {
+   "closed_at": 1793375656,
+   "company": "Logesco Informatique",
+   "hours_open": 1246.8,
+   "title": "Administrateur de réseau",
+   "uid": "jobillico:analyste reseau:17188132"
+  },
+  {
+   "closed_at": 1793375656,
+   "company": "Icentia inc.",
+   "hours_open": 404.3,
+   "title": "Technicien TI, Cybersécurité et Agents IA",
+   "uid": "jobillico:analyste cybersecurite:17592852"
+  },
+  {
+   "closed_at": 1793375656,
+   "company": "rockwellautomation",
+   "hours_open": 926.1,
+   "title": "Intern, Technical Sales & Consulting (USA)",
+   "uid": "workday:rockwellautomation.wd1/External_Rockwell_Automation:Intern--Technical-Sales---Consulting--USA-_R26-5962-2"
+  },
+  {
+   "closed_at": 1793375656,
+   "company": "rockwellautomation",
+   "hours_open": 173.4,
+   "title": "Intern, Hardware Development Engineer (May - Aug 2027)",
+   "uid": "workday:rockwellautomation.wd1/External_Rockwell_Automation:Intern--Hardware-Development-Engineer--May---Aug-2027-_R26-6892-1"
+  },
+  {
+   "closed_at": 1793375656,
+   "company": "sanofi",
+   "hours_open": 265.5,
+   "title": "2027 Spring Co-op CMC Early-Stage Drug Product Development, Framingham, MA",
+   "uid": "workday:sanofi.wd3/SanofiCareers:XMLNAME-2027-Spring-Co-op-CMC-Early-Stage-Drug-Product-Development--Framingham--MA_R2855890"
+  },
+  {
+   "closed_at": 1793375656,
+   "company": "ryan",
+   "hours_open": 20.8,
+   "title": "Summer 2027 Intern, Software Engineering",
+   "uid": "workday:ryan.wd1/RyanCareers:Summer-2027-Intern--Software-Engineering_R0020806-1"
+  },
+  {
+   "closed_at": 1793375656,
+   "company": "salesforce",
+   "hours_open": 265.5,
+   "title": "Business Development Associate (Early Career)",
+   "uid": "workday:salesforce.wd12/Futureforce_NewGradRoles:Business-Development-Associate--Early-Career-_JR340479"
+  },
+  {
+   "closed_at": 1793375656,
+   "company": "psu",
+   "hours_open": 349.4,
+   "title": "R&D Engineer Intern",
+   "uid": "workday:psu.wd1/PSU_Staff:R-D-Engineer-Intern_REQ_0000083331"
+  },
+  {
+   "closed_at": 1793375656,
+   "company": "rockwellautomation",
+   "hours_open": 331.0,
+   "title": "Co-op, Hardware Development Engineer (June - Dec 2027)",
+   "uid": "workday:rockwellautomation.wd1/External_Rockwell_Automation:Co-op--Hardware-Development-Engineer--June---Dec-2027-_R26-6891-1"
+  },
+  {
+   "closed_at": 1793375656,
+   "company": "rockwellautomation",
+   "hours_open": 331.0,
+   "title": "Co-op, Hardware Development Engineer (Jan - July 2027)",
+   "uid": "workday:rockwellautomation.wd1/External_Rockwell_Automation:Co-op--Hardware-Development-Engineer--Jan---July-2027-_R26-6638-1"
+  },
+  {
+   "closed_at": 1793375656,
+   "company": "shi",
+   "hours_open": 20.8,
+   "title": "Solutions Engineer - Enterprise",
+   "uid": "workday:shi.wd12/shicareers:Solutions-Engineer---Enterprise---San-Francisco_JR2563"
   }
  ],
- "count": 816,
- "updated_at": 1793375124
+ "count": 813,
+ "updated_at": 1793375657
 }
