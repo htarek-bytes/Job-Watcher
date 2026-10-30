@@ -2,41 +2,6 @@
  "closed": [
   {
    "closed_at": 1793050219,
-   "company": "adobe",
-   "hours_open": 119.7,
-   "title": "2027 Intern- Software Engineer",
-   "uid": "workday:adobe.wd5/external_experienced:XMLNAME-2027-Intern--Software-Engineer_R173019"
-  },
-  {
-   "closed_at": 1793050219,
-   "company": "accenture",
-   "hours_open": 1293.4,
-   "title": "Junior .NET Developer - Fresh Graduates",
-   "uid": "workday:accenture.wd103/AccentureCareers:Junior-NET-Developer---Fresh-Graduates_R00332478"
-  },
-  {
-   "closed_at": 1793050219,
-   "company": "spacex",
-   "hours_open": 1276.5,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1793050219,
-   "company": "spacex",
-   "hours_open": 1276.5,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1793050219,
-   "company": "andurilindustries",
-   "hours_open": 1274.9,
-   "title": "Electro-Mechanical Test Engineer",
-   "uid": "greenhouse:andurilindustries:5087180007"
-  },
-  {
-   "closed_at": 1793050219,
    "company": "spacex",
    "hours_open": 1274.9,
    "title": "Software Engineer (Starship)",
@@ -5599,8 +5564,43 @@
    "hours_open": 1350.6,
    "title": "NDE Engineer",
    "uid": "greenhouse:spacex:8512827002"
+  },
+  {
+   "closed_at": 1793318713,
+   "company": "twitch",
+   "hours_open": 1348.2,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1793318713,
+   "company": "reddit",
+   "hours_open": 341.1,
+   "title": "Machine Learning Engineer",
+   "uid": "greenhouse:reddit:7131934"
+  },
+  {
+   "closed_at": 1793318713,
+   "company": "trueanomalyinc",
+   "hours_open": 1363.8,
+   "title": "Software Engineer I, Perception (New Grad)",
+   "uid": "greenhouse:trueanomalyinc:5221970007"
+  },
+  {
+   "closed_at": 1793318713,
+   "company": "trueanomalyinc",
+   "hours_open": 1363.8,
+   "title": " Software Engineer I, Data Science (New Grad)",
+   "uid": "greenhouse:trueanomalyinc:5221560007"
+  },
+  {
+   "closed_at": 1793318713,
+   "company": "spacex",
+   "hours_open": 1348.2,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
   }
  ],
  "count": 805,
- "updated_at": 1793316812
+ "updated_at": 1793318713
 }
