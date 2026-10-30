@@ -1,5 +1,5 @@
 {
- "count": 10211,
+ "count": 10216,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -9867,7 +9867,9 @@
   "workday:psu.wd1/PSU_Staff:Systems-Administrator-Intern_REQ_0000082540-2": 1790270603,
   "workday:psu.wd1/PSU_Staff:Systems-Engineer-Intern_REQ_0000082601-1": 1790535986,
   "workday:ptc.wd1/ptc:Software-Engineer-Intern--Summer-2027-_JR112943": 1793061911,
+  "workday:ptc.wd1/ptc:Software-Engineering-Summer-Internship-2027---Cambridge_JR112998": 1793375579,
   "workday:pwc.wd3/Global_Campus_Careers:Junior-Power-Apps-Developer_763454WD": 1790010082,
+  "workday:pwc.wd3/Global_Campus_Careers:Junior-SAP-Developer_771457WD": 1793375579,
   "workday:pwc.wd3/Global_Campus_Careers:Power-Automate-Developer--Junior-Middle-_755171WD": 1788377835,
   "workday:pwc.wd3/US_Entry_Level_Careers:Tax-Innovation-Delivery-Experience--TIDE----Software-Engineering---Intern---Summer-2027_756410WD": 1788442554,
   "workday:pwc.wd3/US_Entry_Level_Careers:Technology-Consulting---Geographic-Information-Systems-Intern---Summer-2027_757257WD": 1788887337,
@@ -9936,12 +9938,14 @@
   "workday:ryan.wd1/RyanCareers:Summer-2027-Intern--Software-Development_R0020822-1": 1792228686,
   "workday:ryan.wd1/RyanCareers:Summer-2027-Intern--Software-Engineering_R0020806-1": 1793300628,
   "workday:ryan.wd1/RyanCareers:Summer-2027-Intern--Software-Engineering_R0020843-1": 1792228686,
+  "workday:saabusa.wd1/saab_careers:Associate-Software-Engineer_R-03377-1": 1793375579,
   "workday:saabusa.wd1/saab_careers:Software-Engineer-Co-Op--Summer-2027-_R-03264-1": 1789425451,
   "workday:saabusa.wd1/saab_careers:Software-Engineering-Co-Op--Spring---Summer-2027-_R-03240-1": 1788550448,
   "workday:saabusa.wd1/saab_careers:Software-Engineering-Co-Op--Summer-2027-_R-03237-1": 1788474010,
   "workday:salesforce.wd12/External_Career_Site:Account-Solution-Engineer---Federal-Civilian_JR363499-1": 1792184209,
   "workday:salesforce.wd12/External_Career_Site:Account-Solution-Engineer--Higher-Education_JR359265": 1789425451,
   "workday:salesforce.wd12/External_Career_Site:Account-Solution-Engineer_JR360701": 1790010082,
+  "workday:salesforce.wd12/External_Career_Site:Associate-Solution-Consultant_JR365267-1": 1793375579,
   "workday:salesforce.wd12/External_Career_Site:Business-Development-Associate--Early-Career-_JR340479-1": 1790990847,
   "workday:salesforce.wd12/External_Career_Site:Business-Development-Associate_JR347430-1": 1789517822,
   "workday:salesforce.wd12/External_Career_Site:Digital-Solution-Engineer---Nonprofits_JR364136": 1792757100,
@@ -10012,6 +10016,7 @@
   "workday:snc.wd1/snc_external_career_site:Mechanical-Engineer-Intern---Summer-2027_R0031084": 1793063009,
   "workday:snc.wd1/snc_external_career_site:Network-Engineer-Intern--Summer-2027-_R0031232": 1793216293,
   "workday:snc.wd1/snc_external_career_site:Project-Engineer-Intern--For-SNC-Summer-2026-Intern-Only-_R0031064": 1793134591,
+  "workday:snc.wd1/snc_external_career_site:Quality-Engineer-Intern--Summer-2027-_R0031194": 1793375579,
   "workday:snc.wd1/snc_external_career_site:RF-Engineer-Intern_R0031110": 1792473774,
   "workday:snc.wd1/snc_external_career_site:Software-Engineering-Intern--Summer-2027-_R0030761-1": 1788474010,
   "workday:snc.wd1/snc_external_career_site:Systems-Engineer-Intern--Summer-2027-_R0031176": 1792757100,
@@ -10213,5 +10218,5 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148,
   "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541": 1789106107
  },
- "updated_at": 1793375124
+ "updated_at": 1793375580
 }
