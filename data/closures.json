@@ -1,118 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1793111082,
-   "company": "Genetec",
-   "hours_open": 808.1,
-   "title": "Sales Engineer",
-   "uid": "workable:genetec-inc:2A97B3487E"
-  },
-  {
-   "closed_at": 1793111082,
-   "company": "spacex",
-   "hours_open": 1293.5,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1793111082,
-   "company": "spacex",
-   "hours_open": 1293.2,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1793112045,
-   "company": "beyondtrust",
-   "hours_open": 80.1,
-   "title": "Service Desk Analyst",
-   "uid": "greenhouse:beyondtrust:8231687"
-  },
-  {
-   "closed_at": 1793112045,
-   "company": "Groupe DCM",
-   "hours_open": 945.8,
-   "title": "Programmeur CNC / CNC Programmer",
-   "uid": "jobillico:programmeur junior:17534679"
-  },
-  {
-   "closed_at": 1793112045,
-   "company": "spacex",
-   "hours_open": 1293.7,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1793112045,
-   "company": "spacex",
-   "hours_open": 1293.7,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1793117178,
-   "company": "freedomconsulting",
-   "hours_open": 648.9,
-   "title": "Backend Developer Junior 790",
-   "uid": "greenhouse:freedomconsulting:5252868007"
-  },
-  {
-   "closed_at": 1793117178,
-   "company": "freedomconsulting",
-   "hours_open": 650.0,
-   "title": "Backend Developer Journeyman 788",
-   "uid": "greenhouse:freedomconsulting:5252836007"
-  },
-  {
-   "closed_at": 1793117178,
-   "company": "Great Lakes Group",
-   "hours_open": 81.6,
-   "title": "electrical controls engineer",
-   "uid": "jobbank:control systems analyst:50570740"
-  },
-  {
-   "closed_at": 1793117178,
-   "company": "altera",
-   "hours_open": 153.6,
-   "title": "FPGA IP Design Engineer - Intern",
-   "uid": "workday:altera.wd1/altera:FPGA-IP-Design-Engineer---Intern_R03299"
-  },
-  {
-   "closed_at": 1793117178,
-   "company": "enghouse",
-   "hours_open": 1274.0,
-   "title": "Junior Software Developer (Android)",
-   "uid": "bamboohr:enghouse:2201"
-  },
-  {
-   "closed_at": 1793117178,
-   "company": "Amazon",
-   "hours_open": 118.6,
-   "title": "Software Development Engineer, CoRe Relations",
-   "uid": "amazon:amazon:10586533"
-  },
-  {
-   "closed_at": 1793117178,
-   "company": "clear",
-   "hours_open": 769.3,
-   "title": "Sales Engineer, Healthcare (C1 - B2B)",
-   "uid": "greenhouse:clear:8230391"
-  },
-  {
-   "closed_at": 1793117178,
-   "company": "clear",
-   "hours_open": 769.3,
-   "title": "Solutions Engineer, Healthcare (C1 - B2B)",
-   "uid": "greenhouse:clear:8189235"
-  },
-  {
-   "closed_at": 1793117178,
-   "company": "celonis",
-   "hours_open": 1162.7,
-   "title": "Associate Deployment Engineer - Galaxy Graduate Program",
-   "uid": "greenhouse:celonis:7627681003"
-  },
-  {
    "closed_at": 1793117178,
    "company": "reddit",
    "hours_open": 285.2,
@@ -5599,8 +5487,120 @@
    "hours_open": 1248.1,
    "title": "Conseiller(ère) en audit de cybersécurité",
    "uid": "jobillico:analyste cybersecurite:17433750"
+  },
+  {
+   "closed_at": 1793387896,
+   "company": "Cotech",
+   "hours_open": 3.5,
+   "title": "programmer analyst",
+   "uid": "jobbank:junior programmer:50615783"
+  },
+  {
+   "closed_at": 1793387896,
+   "company": "stripe",
+   "hours_open": 46.8,
+   "title": "Technical Solutions Consultant, Crypto",
+   "uid": "greenhouse:stripe:8329116"
+  },
+  {
+   "closed_at": 1793387896,
+   "company": "crusoe",
+   "hours_open": 1051.5,
+   "title": "Software Engineer I, Network",
+   "uid": "ashby:crusoe:9a5223c4-9eb7-4fdb-b97c-f43525df35ed"
+  },
+  {
+   "closed_at": 1793387896,
+   "company": "nmodes",
+   "hours_open": 24.5,
+   "title": "cloud developer",
+   "uid": "jobbank:junior programmer:50609755"
+  },
+  {
+   "closed_at": 1793387896,
+   "company": "applied",
+   "hours_open": 406.1,
+   "title": "Industrials Integration Engineer",
+   "uid": "ashby:applied:0bb0edfa-15e9-4012-b06e-1edc1af0ea4c"
+  },
+  {
+   "closed_at": 1793387896,
+   "company": "applied",
+   "hours_open": 536.1,
+   "title": "Software Integration Engineer, Vehicle OS",
+   "uid": "ashby:applied:df72f9c6-98f0-4523-b952-7d4accfa0b3b"
+  },
+  {
+   "closed_at": 1793387896,
+   "company": "Teltorhub Inc",
+   "hours_open": 266.2,
+   "title": "Web developer",
+   "uid": "jobbank:developpeur junior:50532513"
+  },
+  {
+   "closed_at": 1793387896,
+   "company": "AMD",
+   "hours_open": 524.6,
+   "title": "Systems Design Engineer New Grad",
+   "uid": "simplify:listings:dc10adda-2c89-48d4-9795-93dd3a4eb87e"
+  },
+  {
+   "closed_at": 1793387896,
+   "company": "T-Mobile",
+   "hours_open": 91.9,
+   "title": "Associate Software Engineer: Billing Platform",
+   "uid": "simplify:listings:dffcfc23-8cbd-490a-8145-fcefb06961ad"
+  },
+  {
+   "closed_at": 1793387896,
+   "company": "tulip",
+   "hours_open": 1288.3,
+   "title": "PreSales Solutions Consultant (Retail)",
+   "uid": "bamboohr:tulip:336"
+  },
+  {
+   "closed_at": 1793387896,
+   "company": "altentechnologyusa",
+   "hours_open": 934.3,
+   "title": "Junior Fuel Injection Design Engineer",
+   "uid": "greenhouse:altentechnologyusa:5240150007"
+  },
+  {
+   "closed_at": 1793387896,
+   "company": "allen-control-systems",
+   "hours_open": 1074.9,
+   "title": "Cybersecurity Engineer",
+   "uid": "ashby:allen-control-systems:87a1ca0c-72bc-4cb7-943d-c58316c69558"
+  },
+  {
+   "closed_at": 1793387896,
+   "company": "allen-control-systems",
+   "hours_open": 1367.4,
+   "title": "Test Integration Engineer",
+   "uid": "ashby:allen-control-systems:05271caa-a31d-4d4c-b820-e299cf367d2b"
+  },
+  {
+   "closed_at": 1793387896,
+   "company": "twitch",
+   "hours_open": 1367.4,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1793387896,
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
+   "hours_open": 249.1,
+   "title": "Administrateur Réseau TI",
+   "uid": "jobillico:analyste reseau:17628663"
+  },
+  {
+   "closed_at": 1793387896,
+   "company": "applied",
+   "hours_open": 1370.3,
+   "title": "Software Engineer - Simulation, Game Engine & World Systems (Autonomy)",
+   "uid": "ashby:applied:57a640e8-f4b2-46f7-9743-16c6dfe1eb19"
   }
  ],
- "count": 837,
- "updated_at": 1793380456
+ "count": 816,
+ "updated_at": 1793387896
 }
