@@ -2,76 +2,6 @@
  "closed": [
   {
    "closed_at": 1793061198,
-   "company": "micron",
-   "hours_open": 120.3,
-   "title": "Intern - Process Safety Engineer",
-   "uid": "workday:micron.wd1/External:Intern---Process-Safety-Engineer_JR115035"
-  },
-  {
-   "closed_at": 1793061198,
-   "company": "lnw",
-   "hours_open": 120.3,
-   "title": "Intern Software Engineering",
-   "uid": "workday:lnw.wd5/lightwonderexternalcareers:Intern-Software-Engineering_R322982"
-  },
-  {
-   "closed_at": 1793061198,
-   "company": "lnw",
-   "hours_open": 120.3,
-   "title": "Software Engineer - Intern",
-   "uid": "workday:lnw.wd5/lightwonderexternalcareers:Software-Engineer---Intern_R323017"
-  },
-  {
-   "closed_at": 1793061198,
-   "company": "leonardocompany",
-   "hours_open": 196.8,
-   "title": "Industrial Placement Software Engineer",
-   "uid": "workday:leonardocompany.wd3/LeonardoCareerSite:Industrial-Placement-Software-Engineer_R0033876"
-  },
-  {
-   "closed_at": 1793061198,
-   "company": "lseg",
-   "hours_open": 289.9,
-   "title": "Intern - Software Engineer",
-   "uid": "workday:lseg.wd3/Graduate_Careers:Intern---Software-Engineer_R0124266-1"
-  },
-  {
-   "closed_at": 1793061198,
-   "company": "jainglobal",
-   "hours_open": 319.4,
-   "title": "Quantitative Developer Intern (Summer 2027 - New York)",
-   "uid": "workday:jainglobal.wd5/ExternalSite:Quantitative-Developer-Intern--Summer-2027---New-York-_JR100608"
-  },
-  {
-   "closed_at": 1793061198,
-   "company": "DPMSYSTEMS IT CONSULTING SERVICES",
-   "hours_open": 931.6,
-   "title": "information systems analyst - computer systems",
-   "uid": "jobbank:systems analyst:50311291"
-  },
-  {
-   "closed_at": 1793061198,
-   "company": "marvell",
-   "hours_open": 767.6,
-   "title": "Physical Design Engineer Intern, MS - Summer 2027",
-   "uid": "workday:marvell.wd1/MarvellCareers2:Physical-Design-Engineer-Intern--MS---Summer-2027_2604518"
-  },
-  {
-   "closed_at": 1793061198,
-   "company": "540",
-   "hours_open": 297.8,
-   "title": "Data Engineer",
-   "uid": "greenhouse:540:8033199003"
-  },
-  {
-   "closed_at": 1793061198,
-   "company": "spacex",
-   "hours_open": 1279.6,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1793061198,
    "company": "spacex",
    "hours_open": 1279.6,
    "title": "Automation & Controls Engineer (Facilities)",
@@ -5599,8 +5529,78 @@
    "hours_open": 1056.6,
    "title": "Junior Systems Developer & Data Analyst",
    "uid": "workable:saalex:758C0628C9"
+  },
+  {
+   "closed_at": 1793350704,
+   "company": "Source Code",
+   "hours_open": 1.9,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:control systems analyst:50606896"
+  },
+  {
+   "closed_at": 1793350704,
+   "company": "CPR Cell Phone Repair St.Catherines",
+   "hours_open": 516.8,
+   "title": "telecommunications equipment technician",
+   "uid": "jobbank:telecommunications analyst:50455460"
+  },
+  {
+   "closed_at": 1793350704,
+   "company": "axos",
+   "hours_open": 83.5,
+   "title": "AI Engineer Intern",
+   "uid": "workday:axos.wd5/Axos:AI-Engineer-Intern_JR5658"
+  },
+  {
+   "closed_at": 1793350704,
+   "company": "abb",
+   "hours_open": 574.9,
+   "title": "AI Solutions Engineer",
+   "uid": "workday:abb.wd3/external_career_page:AI-Solutions-Engineer_JR00045089"
+  },
+  {
+   "closed_at": 1793350704,
+   "company": "lyft",
+   "hours_open": 315.9,
+   "title": "Business Systems Engineer",
+   "uid": "greenhouse:lyft:8896654002"
+  },
+  {
+   "closed_at": 1793350704,
+   "company": "lyft",
+   "hours_open": 315.9,
+   "title": "Software Engineer",
+   "uid": "greenhouse:lyft:8896679002"
+  },
+  {
+   "closed_at": 1793350704,
+   "company": "The Boeing Company",
+   "hours_open": 81.6,
+   "title": "Entry-Level Software Engineer-Developers",
+   "uid": "simplify:listings:01a98038-5e8b-421a-9505-1e936c4c1648"
+  },
+  {
+   "closed_at": 1793350704,
+   "company": "accenture",
+   "hours_open": 20.1,
+   "title": "Data and AI Engineer - Junior",
+   "uid": "workday:accenture.wd103/AccentureCareers:Data-and-AI-Engineer---Junior_R00332685"
+  },
+  {
+   "closed_at": 1793350704,
+   "company": "accenture",
+   "hours_open": 1339.4,
+   "title": "Software Engineer Intern",
+   "uid": "workday:accenture.wd103/AccentureCareers:Software-Engineer-Intern_R00342918-1"
+  },
+  {
+   "closed_at": 1793350704,
+   "company": "E-NET SOLUTIONS INC.",
+   "hours_open": 544.6,
+   "title": "telecommunications technician",
+   "uid": "jobbank:telecommunications analyst:49818659"
   }
  ],
- "count": 807,
- "updated_at": 1793343707
+ "count": 810,
+ "updated_at": 1793350705
 }
