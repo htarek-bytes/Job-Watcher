@@ -2,13 +2,6 @@
  "closed": [
   {
    "closed_at": 1793118708,
-   "company": "Chlyn Safety Services Ltd.",
-   "hours_open": 476.8,
-   "title": "cloud administrator",
-   "uid": "jobbank:cloud administrator:50447592"
-  },
-  {
-   "closed_at": 1793118708,
    "company": "twitch",
    "hours_open": 1295.6,
    "title": "Software Development Engineer, Security Platform",
@@ -5599,8 +5592,15 @@
    "hours_open": 1396.3,
    "title": "Associate Software Engineer - Full Stack",
    "uid": "ashby:ontic:d50b6bea-876f-43fc-afb9-716efe9eca02"
+  },
+  {
+   "closed_at": 1793391867,
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
+   "hours_open": 250.2,
+   "title": "Administrateur Réseau TI",
+   "uid": "jobillico:analyste reseau:17628663"
   }
  ],
- "count": 802,
- "updated_at": 1793391237
+ "count": 801,
+ "updated_at": 1793391867
 }
