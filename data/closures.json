@@ -1,83 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1793171999,
-   "company": "Lax Kw'alaams Band",
-   "hours_open": 1190.2,
-   "title": "network system administrator",
-   "uid": "jobbank:systems administrator:49812698"
-  },
-  {
-   "closed_at": 1793171999,
-   "company": "Tomra",
-   "hours_open": 787.6,
-   "title": "Pre-Sales Solutions Engineer",
-   "uid": "smartrecruiters:Tomra:744000151717579"
-  },
-  {
-   "closed_at": 1793171999,
-   "company": "360.Agency",
-   "hours_open": 852.0,
-   "title": "network system administrator",
-   "uid": "jobbank:systems administrator:50342628"
-  },
-  {
-   "closed_at": 1793171999,
-   "company": "spacex",
-   "hours_open": 1310.1,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1793177195,
-   "company": "Source Code",
-   "hours_open": 132.7,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:systems analyst:50553479"
-  },
-  {
-   "closed_at": 1793177195,
-   "company": "ALLCOMM CABLING INC.",
-   "hours_open": 496.4,
-   "title": "telecommunications technician",
-   "uid": "jobbank:telecommunications analyst:50438575"
-  },
-  {
-   "closed_at": 1793177195,
-   "company": "Focus Group",
-   "hours_open": 925.8,
-   "title": "Solutions Engineer (IT) - Basingstoke Area",
-   "uid": "workable:focus-group:806A198B77"
-  },
-  {
-   "closed_at": 1793177195,
-   "company": "True Anomaly",
-   "hours_open": 1348.5,
-   "title": "Data Engineer 1",
-   "uid": "simplify:listings:1bc7fe9e-fd5d-4ca1-b5c2-abedfa34dfb4"
-  },
-  {
-   "closed_at": 1793177195,
-   "company": "Focus Group",
-   "hours_open": 1191.6,
-   "title": "2nd Line Technical Analyst (Out of Hours - Nights/Weekends)",
-   "uid": "workable:focus-group:763C591FB0"
-  },
-  {
-   "closed_at": 1792901378,
-   "company": "Waterloo West Animal Hospital",
-   "hours_open": 103.9,
-   "title": "computer systems analyst",
-   "uid": "jobbank:systems analyst:50544699"
-  },
-  {
-   "closed_at": 1793177291,
-   "company": "Source Code",
-   "hours_open": 132.7,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:systems analyst:50553479"
-  },
-  {
    "closed_at": 1793177291,
    "company": "Focus Group",
    "hours_open": 925.8,
@@ -5599,8 +5522,85 @@
    "hours_open": 1395.4,
    "title": "Software Development Engineer, Security Platform",
    "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1793491064,
+   "company": "altera",
+   "hours_open": 103.9,
+   "title": "Software Engineer - Intern",
+   "uid": "workday:altera.wd1/altera:Software-Engineer---Intern_R03382"
+  },
+  {
+   "closed_at": 1793491064,
+   "company": "PCL Construction",
+   "hours_open": 253.4,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50547998"
+  },
+  {
+   "closed_at": 1793491064,
+   "company": "Cooptel",
+   "hours_open": 17.0,
+   "title": "Administrateur réseau",
+   "uid": "jobillico:administrateur systeme:17185045"
+  },
+  {
+   "closed_at": 1793491064,
+   "company": "aep",
+   "hours_open": 257.4,
+   "title": "Solution Engineer (GIS)",
+   "uid": "workday:aep.wd1/AEPCareerSite:Solution-Engineer--GIS-_R20346"
+  },
+  {
+   "closed_at": 1793491064,
+   "company": "abb",
+   "hours_open": 1316.9,
+   "title": "Sales Engineer – Service Division",
+   "uid": "workday:abb.wd3/external_career_page:Service-Sales-specialist_JR00003209"
+  },
+  {
+   "closed_at": 1793491064,
+   "company": "aero",
+   "hours_open": 574.8,
+   "title": "2027 Embedded Systems / Software Engineering Undergrad Intern",
+   "uid": "workday:aero.wd5/external:XMLNAME-2027-Embedded-Systems---Software-Engineering-Undergrad-Intern_R016804"
+  },
+  {
+   "closed_at": 1793491064,
+   "company": "twitch",
+   "hours_open": 1399.0,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1793491064,
+   "company": "Raydar",
+   "hours_open": 40.9,
+   "title": "Frontend Software Engineer",
+   "uid": "workable:raydar:56938FC08A"
+  },
+  {
+   "closed_at": 1793491064,
+   "company": "adobe",
+   "hours_open": 287.3,
+   "title": "2027 Intern- Software Engineer",
+   "uid": "workday:adobe.wd5/external_experienced:XMLNAME-2027-Intern--Software-Engineer_R173015"
+  },
+  {
+   "closed_at": 1793491064,
+   "company": "Verse Medical",
+   "hours_open": 1435.6,
+   "title": "Software Engineer - Full Stack - Emerging Talent",
+   "uid": "simplify:listings:99de05ac-50e2-401f-a62d-db4d99b5221e"
+  },
+  {
+   "closed_at": 1793491064,
+   "company": "Raydar",
+   "hours_open": 40.9,
+   "title": "Backend Software Engineer",
+   "uid": "workable:raydar:70A2610DAE"
   }
  ],
- "count": 801,
- "updated_at": 1793488688
+ "count": 811,
+ "updated_at": 1793491066
 }
