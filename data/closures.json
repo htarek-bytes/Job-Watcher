@@ -2,13 +2,6 @@
  "closed": [
   {
    "closed_at": 1793142891,
-   "company": "harvey",
-   "hours_open": 17.7,
-   "title": "Software Engineer, Agents",
-   "uid": "ashby:harvey:0c3ccbfd-25d1-4f66-be9c-e3c680fbe2fc"
-  },
-  {
-   "closed_at": 1793142891,
    "company": "maticrobots",
    "hours_open": 1299.2,
    "title": "UX Engineer",
@@ -5599,8 +5592,15 @@
    "hours_open": 65.1,
    "title": "Associate Software Engineer / Software Engineer",
    "uid": "simplify:listings:0f4f6ee2-0933-4e35-9a55-dc0f3016ac4d"
+  },
+  {
+   "closed_at": 1793437062,
+   "company": "dexcom",
+   "hours_open": 23.8,
+   "title": "SW Development Engineer 1",
+   "uid": "workday:dexcom.wd1/Dexcom:SW-Development-Engineer-1_JR121808"
   }
  ],
- "count": 805,
- "updated_at": 1793435745
+ "count": 801,
+ "updated_at": 1793437063
 }
