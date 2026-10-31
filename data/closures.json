@@ -1,27 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1793162848,
-   "company": "spacex",
-   "hours_open": 533.6,
-   "title": "IT Network Infrastructure Technician (Night Shift)",
-   "uid": "greenhouse:spacex:8869126002"
-  },
-  {
-   "closed_at": 1793162848,
-   "company": "spacex",
-   "hours_open": 1304.9,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1793162848,
-   "company": "spacex",
-   "hours_open": 1306.1,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
    "closed_at": 1793167061,
    "company": "Source Code",
    "hours_open": 129.9,
@@ -5599,8 +5578,29 @@
    "hours_open": 1411.6,
    "title": "Junior Algorithm Engineer",
    "uid": "workday:zoll.wd5/ZOLLMedicalCorp:Junior-Algorithm-Engineer_R19377"
+  },
+  {
+   "closed_at": 1793462677,
+   "company": "Cooptel",
+   "hours_open": 9.1,
+   "title": "Administrateur réseau",
+   "uid": "jobillico:administrateur systeme:17185045"
+  },
+  {
+   "closed_at": 1793462677,
+   "company": "twitch",
+   "hours_open": 1391.1,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1793462677,
+   "company": "St. Joseph's Continuing Care Centre of Sudbury",
+   "hours_open": 719.7,
+   "title": "network infrastructure engineer",
+   "uid": "jobbank:infrastructure analyst:50402681"
   }
  ],
- "count": 805,
- "updated_at": 1793459796
+ "count": 803,
+ "updated_at": 1793462678
 }
