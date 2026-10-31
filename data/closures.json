@@ -1,41 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1793142891,
-   "company": "maticrobots",
-   "hours_open": 1299.2,
-   "title": "UX Engineer",
-   "uid": "ashby:maticrobots:2d90711b-10e4-4caa-ac31-78cd66657412"
-  },
-  {
-   "closed_at": 1793142891,
-   "company": "Maarut",
-   "hours_open": 109.0,
-   "title": "software developer",
-   "uid": "jobbank:entry level software developer:50565038"
-  },
-  {
-   "closed_at": 1793142891,
-   "company": "GEOCELLCANADA Inc.",
-   "hours_open": 204.9,
-   "title": "telecommunications technician",
-   "uid": "jobbank:telecommunications analyst:50029740"
-  },
-  {
-   "closed_at": 1793145614,
-   "company": "snowflake",
-   "hours_open": 357.4,
-   "title": "AI Software Engineer",
-   "uid": "ashby:snowflake:628f36e0-8554-4d5f-8d5e-a017a761ca54"
-  },
-  {
-   "closed_at": 1793145614,
-   "company": "Maarut",
-   "hours_open": 139.2,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50553437"
-  },
-  {
    "closed_at": 1793145614,
    "company": "Amazon",
    "hours_open": 293.1,
@@ -5599,8 +5564,43 @@
    "hours_open": 23.8,
    "title": "SW Development Engineer 1",
    "uid": "workday:dexcom.wd1/Dexcom:SW-Development-Engineer-1_JR121808"
+  },
+  {
+   "closed_at": 1793437153,
+   "company": "Cooptel",
+   "hours_open": 2.0,
+   "title": "Administrateur réseau",
+   "uid": "jobillico:administrateur systeme:17185045"
+  },
+  {
+   "closed_at": 1793437153,
+   "company": "hcsc",
+   "hours_open": 325.7,
+   "title": "Early Careers - Finance Data & Analytics Developer Intern",
+   "uid": "workday:hcsc.wd1/HCSC_External:Early-Careers---Finance-Data---Analytics-Developer-Intern_R0059478"
+  },
+  {
+   "closed_at": 1793437153,
+   "company": "hcsc",
+   "hours_open": 325.7,
+   "title": "Early Careers - Finance Application Developer Intern",
+   "uid": "workday:hcsc.wd1/HCSC_External:Early-Careers---Finance-Application-Developer-Intern_R0059477"
+  },
+  {
+   "closed_at": 1793437153,
+   "company": "globalhr",
+   "hours_open": 1150.3,
+   "title": "Systems Engineer I",
+   "uid": "workday:globalhr.wd5/rec_rtx_ext_gateway:Systems-Engineer-I_01866673"
+  },
+  {
+   "closed_at": 1793437153,
+   "company": "equifax",
+   "hours_open": 1387.5,
+   "title": "Site Reliability Engineer Intern",
+   "uid": "workday:equifax.wd5/UR_External:Site-Reliability-Engineer-Intern_J00178674"
   }
  ],
- "count": 801,
- "updated_at": 1793437063
+ "count": 805,
+ "updated_at": 1793437153
 }
