@@ -2,20 +2,6 @@
  "closed": [
   {
    "closed_at": 1793171999,
-   "company": "AlphaX",
-   "hours_open": 106.9,
-   "title": "Project Engineer - Commercial Electrical Projects",
-   "uid": "workable:alphax:6A4CD40D24"
-  },
-  {
-   "closed_at": 1793171999,
-   "company": "Western Digital",
-   "hours_open": 357.6,
-   "title": "Junior IT Developer",
-   "uid": "smartrecruiters:WesternDigital:744000155153462"
-  },
-  {
-   "closed_at": 1793171999,
    "company": "twitch",
    "hours_open": 1310.4,
    "title": "Software Development Engineer, Security Platform",
@@ -5599,8 +5585,22 @@
    "hours_open": 719.8,
    "title": "network security analyst",
    "uid": "jobbank:network analyst:50405420"
+  },
+  {
+   "closed_at": 1793484393,
+   "company": "Cooptel",
+   "hours_open": 15.2,
+   "title": "Administrateur réseau",
+   "uid": "jobillico:administrateur systeme:17185045"
+  },
+  {
+   "closed_at": 1793484393,
+   "company": "FOP EXPERTS CONSEILS INC.",
+   "hours_open": 721.0,
+   "title": "network system administrator",
+   "uid": "jobbank:systems administrator:50405422"
   }
  ],
- "count": 803,
- "updated_at": 1793480077
+ "count": 802,
+ "updated_at": 1793484393
 }
