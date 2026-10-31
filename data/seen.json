@@ -1,5 +1,5 @@
 {
- "count": 10326,
+ "count": 10332,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -5148,6 +5148,7 @@
   "jobbank:infrastructure analyst:50564033": 1792732742,
   "jobbank:infrastructure analyst:50575193": 1792908815,
   "jobbank:infrastructure analyst:50592876": 1793118708,
+  "jobbank:infrastructure analyst:50621575": 1793453154,
   "jobbank:junior programmer:49550591": 1788390279,
   "jobbank:junior programmer:49938307": 1788390279,
   "jobbank:junior programmer:49939802": 1793413173,
@@ -5417,6 +5418,7 @@
   "jobbank:junior software developer:50616463": 1793380454,
   "jobbank:junior software developer:50620248": 1793424207,
   "jobbank:junior software developer:50620999": 1793424207,
+  "jobbank:junior software developer:50621540": 1793453154,
   "jobbank:linux administrator:49626621": 1789082121,
   "jobbank:linux administrator:50163764": 1788887337,
   "jobbank:linux administrator:50205276": 1788887337,
@@ -9579,6 +9581,7 @@
   "workday:marvell.wd1/MarvellCareers2:Physical-Design-Engineer-Intern--BS---Summer-2027_2604517": 1790297811,
   "workday:marvell.wd1/MarvellCareers2:Physical-Design-Engineer-Intern--MS---Summer-2027_2604518": 1790297811,
   "workday:marvell.wd1/MarvellCareers2:Product-Engineer-Intern--BS---Summer-2027_2603839": 1791098835,
+  "workday:marvell.wd1/MarvellCareers2:Project-Management-Intern--MBA---Summer-2027_2604440-1": 1793453154,
   "workday:marvell.wd1/MarvellCareers2:SRAM-Software-Engineer-Intern--BS---Summer-2027_2603760": 1790707195,
   "workday:marvell.wd1/MarvellCareers2:Security-Verification-Validation-Engineer-Intern--BS---Summer-2027_2604148": 1790707195,
   "workday:marvell.wd1/MarvellCareers2:Technical-Sales-Intern--BS---Summer-2027_2603806": 1790707195,
@@ -9668,6 +9671,7 @@
   "workday:micron.wd1/External:New-College-Grad---HBM-PYE-Product-Development-Failure-Analysis-Enginee_JR116583": 1793375124,
   "workday:micron.wd1/External:New-College-Grad---HBM-Product-Development-Failure-Analysis-Engineer_JR110630": 1788465250,
   "workday:micron.wd1/External:New-College-Grad---IC-Package-Layout-Engineer_JR108957": 1788981683,
+  "workday:micron.wd1/External:New-College-Grad---Manufacturing-Development-Engineering--MDE--Shift-Engineer_JR116705": 1793453154,
   "workday:micron.wd1/External:New-College-Grad---Mixed-Signal-Design-Engineer--HBM_JR110753": 1788393936,
   "workday:micron.wd1/External:New-College-Grad---NAND---SSD-Applications-Engineer_JR115037": 1793212139,
   "workday:micron.wd1/External:New-College-Grad---OI-System-Engineer_JR102433": 1791587462,
@@ -9696,6 +9700,7 @@
   "workday:mii.wd5/MiTek:Design-Engineer-I_R06601": 1788393936,
   "workday:mimecast.wd5/Mimecast-Careers:Software-Engineer-I_R6708-1": 1789424861,
   "workday:mimecast.wd5/Mimecast-Careers:Software-Engineer-I_R6829": 1792527453,
+  "workday:mitel.wd3/mitelcareers:Junior-Full-Stack-Web-Developer_R013211": 1793453154,
   "workday:mizuho.wd1/mizuhoamericas:Derivatives-Analytics---AI-Solutions-Engineer_R7131": 1788756975,
   "workday:mmc.wd1/MMC:Java-Developer_R_303155": 1790872708,
   "workday:mmc.wd1/MMC:Junior-Full-Stack-Engineer--Generative-AI---Marsh-Tech_R_367686": 1790990642,
@@ -9755,6 +9760,7 @@
   "workday:ngc.wd1/Northrop_Grumman_External_Site:Associate-Engineer-Test-Engineer-Test-AHT_R10251001-1": 1789682887,
   "workday:ngc.wd1/Northrop_Grumman_External_Site:Associate-Engineer-or-Engineer-Electronics---Field-Operations_R10247339": 1789425451,
   "workday:ngc.wd1/Northrop_Grumman_External_Site:Associate-Software-Engineer---Colorado-Springs_R10257912": 1793133524,
+  "workday:ngc.wd1/Northrop_Grumman_External_Site:Associate-Software-Engineer---Hollywood--MD-_R10258018": 1793453154,
   "workday:ngc.wd1/Northrop_Grumman_External_Site:Associate-Software-Engineer---Software-Engineer_R10249088": 1788394042,
   "workday:ngc.wd1/Northrop_Grumman_External_Site:Associate-Software-Engineer---Software-Engineer_R10253028-1": 1790301121,
   "workday:ngc.wd1/Northrop_Grumman_External_Site:Associate-Software-Engineer---Software-Engineer_R10253287": 1790707348,
@@ -10328,5 +10334,5 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148,
   "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541": 1789106107
  },
- "updated_at": 1793444624
+ "updated_at": 1793453154
 }

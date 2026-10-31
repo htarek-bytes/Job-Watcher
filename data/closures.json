@@ -1,90 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1793145614,
-   "company": "spacex",
-   "hours_open": 1303.0,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1793146668,
-   "company": "whoop",
-   "hours_open": 505.3,
-   "title": "Software Engineer I (Frontend, AI Platform)",
-   "uid": "ashby:whoop:ae351985-e5cf-4bd8-b8a1-6f8c2d5b5de3"
-  },
-  {
-   "closed_at": 1793146668,
-   "company": "Nord Quantique",
-   "hours_open": 521.8,
-   "title": "developer, software",
-   "uid": "jobbank:junior software developer:50434695"
-  },
-  {
-   "closed_at": 1793146668,
-   "company": "twitch",
-   "hours_open": 1303.3,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1793146668,
-   "company": "whoop",
-   "hours_open": 505.3,
-   "title": "Android Engineer I",
-   "uid": "ashby:whoop:2910a5f6-fb5e-4fe6-bb9a-24d6995d8173"
-  },
-  {
-   "closed_at": 1793146668,
-   "company": "reddit",
-   "hours_open": 264.5,
-   "title": "Machine Learning Engineer",
-   "uid": "greenhouse:reddit:7131932"
-  },
-  {
-   "closed_at": 1793146668,
-   "company": "spacex",
-   "hours_open": 1301.6,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1793150982,
-   "company": "stripe",
-   "hours_open": 28.2,
-   "title": "iOS Engineer, Identity",
-   "uid": "greenhouse:stripe:8311082"
-  },
-  {
-   "closed_at": 1793150982,
-   "company": "stripe",
-   "hours_open": 28.2,
-   "title": "Android Engineer, Identity ",
-   "uid": "greenhouse:stripe:8311069"
-  },
-  {
-   "closed_at": 1793150982,
-   "company": "geotab",
-   "hours_open": 145.8,
-   "title": "Business Development Associate, Field Service ",
-   "uid": "greenhouse:geotab:5436966008"
-  },
-  {
-   "closed_at": 1793150982,
-   "company": "Everfox",
-   "hours_open": 26.1,
-   "title": "Software Engineer 1",
-   "uid": "simplify:listings:2f49a679-e4b5-41e5-9ff7-7c3cf645c769"
-  },
-  {
-   "closed_at": 1793150982,
-   "company": "Ciena",
-   "hours_open": 26.1,
-   "title": "Software Engineer New Grad - Security",
-   "uid": "simplify:listings:17167eb4-da3f-41d8-be5b-6f5993633d22"
-  },
-  {
    "closed_at": 1793150982,
    "company": "Nord Quantique",
    "hours_open": 1.2,
@@ -5599,8 +5515,92 @@
    "hours_open": 1407.5,
    "title": "Junior Software Engineer",
    "uid": "workday:kbr.wd5/KBR_Careers:Junior-Software-Engineer_R2122294"
+  },
+  {
+   "closed_at": 1793453154,
+   "company": "PCL Construction",
+   "hours_open": 242.9,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50547998"
+  },
+  {
+   "closed_at": 1793453154,
+   "company": "Groupe DCM",
+   "hours_open": 1034.3,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534670"
+  },
+  {
+   "closed_at": 1793453154,
+   "company": "Cooptel",
+   "hours_open": 1268.3,
+   "title": "Administrateur réseau",
+   "uid": "jobillico:analyste reseau:17185045"
+  },
+  {
+   "closed_at": 1793453154,
+   "company": "micron",
+   "hours_open": 538.8,
+   "title": "New College Grad - Process Integration Engineer",
+   "uid": "workday:micron.wd1/External:New-College-Grad---Process-Integration-Engineer_JR114667"
+  },
+  {
+   "closed_at": 1793453154,
+   "company": "marvell",
+   "hours_open": 89.7,
+   "title": "AIOps Forward Deployment Engineer Intern, BS - Summer 2027",
+   "uid": "workday:marvell.wd1/MarvellCareers:Project-Management-Intern--MBA---Summer-2027_2604440"
+  },
+  {
+   "closed_at": 1793453154,
+   "company": "nvidia",
+   "hours_open": 88.8,
+   "title": "Formal Verification Engineer - New College Grad 2027",
+   "uid": "workday:nvidia.wd5/NVIDIAExternalCareerSite:Formal-Verification-Engineer---New-College-Grad-2027_JR2028554"
+  },
+  {
+   "closed_at": 1793453154,
+   "company": "marvell",
+   "hours_open": 1359.5,
+   "title": "Firmware Engineer Intern, MS - Summer 2027",
+   "uid": "workday:marvell.wd1/MarvellCareers:Firmware-Engineer-Intern--MS---Summer-2027_2604513"
+  },
+  {
+   "closed_at": 1793453154,
+   "company": "ngc",
+   "hours_open": 909.9,
+   "title": "2027 Systems Engineer Intern - Woodland Hills CA",
+   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Systems-Engineer-Intern---Woodland-Hills-CA_R10249319-1"
+  },
+  {
+   "closed_at": 1793453154,
+   "company": "Lakeland Roman Catholic Separate School Division",
+   "hours_open": 927.1,
+   "title": "computer systems analyst",
+   "uid": "jobbank:control systems analyst:50064831"
+  },
+  {
+   "closed_at": 1793453154,
+   "company": "nvidia",
+   "hours_open": 382.4,
+   "title": "ASIC Verification Engineer - New College Grad 2027",
+   "uid": "workday:nvidia.wd5/NVIDIAExternalCareerSite:ASIC-Verification-Engineer---New-College-Grad-2027_JR2027719"
+  },
+  {
+   "closed_at": 1793453154,
+   "company": "marvell",
+   "hours_open": 762.8,
+   "title": "SRAM Software Engineer Intern, BS - Summer 2027",
+   "uid": "workday:marvell.wd1/MarvellCareers2:SRAM-Software-Engineer-Intern--BS---Summer-2027_2603760"
+  },
+  {
+   "closed_at": 1793453154,
+   "company": "RTX",
+   "hours_open": 1425.1,
+   "title": "Digital ASIC/FPGA Design Engineer 1",
+   "uid": "simplify:listings:8aad8b51-42bb-4359-b771-09d8fa3d9060"
   }
  ],
- "count": 805,
- "updated_at": 1793444624
+ "count": 812,
+ "updated_at": 1793453154
 }
