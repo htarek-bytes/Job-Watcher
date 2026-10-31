@@ -2,34 +2,6 @@
  "closed": [
   {
    "closed_at": 1793167061,
-   "company": "Source Code",
-   "hours_open": 129.9,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:systems analyst:50553479"
-  },
-  {
-   "closed_at": 1793167061,
-   "company": "ServiceNow",
-   "hours_open": 105.5,
-   "title": "Advisory Solution Consultant",
-   "uid": "smartrecruiters:ServiceNow:744000157383989"
-  },
-  {
-   "closed_at": 1793167061,
-   "company": "SGS",
-   "hours_open": 105.5,
-   "title": "MEP Engineer – Building & Infrastructure (B&I)",
-   "uid": "smartrecruiters:SGS:744000157302321"
-  },
-  {
-   "closed_at": 1793167061,
-   "company": "Renesas Electronics",
-   "hours_open": 124.2,
-   "title": "Junior Validation Engineer",
-   "uid": "smartrecruiters:RenesasElectronics:744000157129589"
-  },
-  {
-   "closed_at": 1793167061,
    "company": "ServiceNow",
    "hours_open": 153.2,
    "title": "Advisory Solution Consultant – Security, Identity & Exposure Management  (Armis/Veza)",
@@ -5599,8 +5571,36 @@
    "hours_open": 719.7,
    "title": "network infrastructure engineer",
    "uid": "jobbank:infrastructure analyst:50402681"
+  },
+  {
+   "closed_at": 1793469232,
+   "company": "Cooptel",
+   "hours_open": 1272.7,
+   "title": "Administrateur réseau",
+   "uid": "jobillico:analyste reseau:17185045"
+  },
+  {
+   "closed_at": 1793469232,
+   "company": "madhive",
+   "hours_open": 108.4,
+   "title": "Forward Deployed Engineer",
+   "uid": "ashby:madhive:2c373c9f-ae85-482d-8a8a-e92626f27404"
+  },
+  {
+   "closed_at": 1793469232,
+   "company": "andurilindustries",
+   "hours_open": 1079.6,
+   "title": "RF Production Engineer",
+   "uid": "greenhouse:andurilindustries:5240043007"
+  },
+  {
+   "closed_at": 1793469232,
+   "company": "andurilindustries",
+   "hours_open": 382.7,
+   "title": "Electrical Test Engineer",
+   "uid": "greenhouse:andurilindustries:5266460007"
   }
  ],
- "count": 803,
- "updated_at": 1793462678
+ "count": 804,
+ "updated_at": 1793469232
 }
