@@ -1,41 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1793142590,
-   "company": "GE Vernova",
-   "hours_open": 90.0,
-   "title": "Protection Element Embedded SW Developer",
-   "uid": "jobillico:software developer:17622471"
-  },
-  {
-   "closed_at": 1793142590,
-   "company": "rocketlab",
-   "hours_open": 193.6,
-   "title": "Spacecraft GNC Engineer I",
-   "uid": "greenhouse:rocketlab:7850299003"
-  },
-  {
-   "closed_at": 1793142590,
-   "company": "RTX",
-   "hours_open": 30.2,
-   "title": "Software Engineer 1",
-   "uid": "simplify:listings:f18572f0-ccd6-4309-b276-d13a861f7db2"
-  },
-  {
-   "closed_at": 1793142590,
-   "company": "spacex",
-   "hours_open": 1302.2,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1793142590,
-   "company": "k2spacecorporation",
-   "hours_open": 558.1,
-   "title": "Power Electronics Engineer",
-   "uid": "greenhouse:k2spacecorporation:5020099008"
-  },
-  {
    "closed_at": 1793142891,
    "company": "harvey",
    "hours_open": 17.7,
@@ -5599,8 +5564,43 @@
    "hours_open": 218.1,
    "title": "Software Development Engineer , Inventory Accounting",
    "uid": "amazon:amazon:10584166"
+  },
+  {
+   "closed_at": 1793435745,
+   "company": "BlackLine",
+   "hours_open": 9.5,
+   "title": "Associate Software Engineer",
+   "uid": "simplify:listings:73292424-f766-4523-9adf-574b6dcc5a53"
+  },
+  {
+   "closed_at": 1793435745,
+   "company": "City of Calgary",
+   "hours_open": 611.9,
+   "title": "marine systems engineer",
+   "uid": "jobbank:scada:50428376"
+  },
+  {
+   "closed_at": 1793435745,
+   "company": "twitch",
+   "hours_open": 1380.7,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1793435745,
+   "company": "boeing",
+   "hours_open": 23.5,
+   "title": "Entry-Level Software Engineer",
+   "uid": "workday:boeing.wd1/EXTERNAL_CAREERS:Entry-Level-Software-Engineer_JR2026526418-1"
+  },
+  {
+   "closed_at": 1793435745,
+   "company": "Northrop Grumman",
+   "hours_open": 65.1,
+   "title": "Associate Software Engineer / Software Engineer",
+   "uid": "simplify:listings:0f4f6ee2-0933-4e35-9a55-dc0f3016ac4d"
   }
  ],
- "count": 817,
- "updated_at": 1793429803
+ "count": 805,
+ "updated_at": 1793435745
 }
