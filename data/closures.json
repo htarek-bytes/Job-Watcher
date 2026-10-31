@@ -1,55 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1793129651,
-   "company": "alarmcom",
-   "hours_open": 1317.6,
-   "title": "Device Engineer I",
-   "uid": "greenhouse:alarmcom:8485073002"
-  },
-  {
-   "closed_at": 1793129651,
-   "company": "reddit",
-   "hours_open": 259.8,
-   "title": "Machine Learning Engineer",
-   "uid": "greenhouse:reddit:7131932"
-  },
-  {
-   "closed_at": 1793129651,
-   "company": "spacex",
-   "hours_open": 1296.9,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1793130055,
-   "company": "myhrabc",
-   "hours_open": 762.0,
-   "title": "EDI IT Software Developer Intern",
-   "uid": "workday:myhrabc.wd5/Global:EDI-IT-Software-Developer-Intern_R2612376"
-  },
-  {
-   "closed_at": 1793130055,
-   "company": "mmc",
-   "hours_open": 594.3,
-   "title": "Junior Full-Stack Engineer, Generative AI @ Marsh Tech",
-   "uid": "workday:mmc.wd1/MMC:Junior-Full-Stack-Engineer--Generative-AI---Marsh-Tech_R_367686"
-  },
-  {
-   "closed_at": 1793130055,
-   "company": "marvell",
-   "hours_open": 1269.8,
-   "title": "Firmware Engineer Intern, MS - Summer 2027",
-   "uid": "workday:marvell.wd1/MarvellCareers:Firmware-Engineer-Intern--MS---Summer-2027_2604513"
-  },
-  {
-   "closed_at": 1793130055,
-   "company": "twitch",
-   "hours_open": 1295.8,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
    "closed_at": 1793130055,
    "company": "reddit",
    "hours_open": 288.7,
@@ -5599,8 +5550,57 @@
    "hours_open": 1102.1,
    "title": "Software Engineering Intern (Summer 2027, In person)",
    "uid": "lever:sep:4efbdbce-a753-41b5-8ed7-0661cd193178"
+  },
+  {
+   "closed_at": 1793408575,
+   "company": "Bosch Group",
+   "hours_open": 22.3,
+   "title": "［ETAS］Vehicle Diagnostics Customer Solution Engineer",
+   "uid": "smartrecruiters:BoschGroup:744000158624230"
+  },
+  {
+   "closed_at": 1793408575,
+   "company": "CGI",
+   "hours_open": 1255.9,
+   "title": "Conseiller(ère) en architecture de cybersécurité",
+   "uid": "jobillico:analyste cybersecurite:17433753"
+  },
+  {
+   "closed_at": 1793408575,
+   "company": "Icentia inc.",
+   "hours_open": 413.5,
+   "title": "Technicien TI, Cybersécurité et Agents IA",
+   "uid": "jobillico:analyste cybersecurite:17592852"
+  },
+  {
+   "closed_at": 1793408575,
+   "company": "QualiTech",
+   "hours_open": 30.0,
+   "title": "Spécialiste infrastructure, réseaux et télécommunications (fly-in fly-out)",
+   "uid": "jobillico:specialiste infrastructure:17657502"
+  },
+  {
+   "closed_at": 1793408575,
+   "company": "1password",
+   "hours_open": 1178.5,
+   "title": "Developer, Frontend",
+   "uid": "ashby:1password:ec030dda-caff-4579-93ab-c9aa147a0241"
+  },
+  {
+   "closed_at": 1793408575,
+   "company": "NVIDIA",
+   "hours_open": 404.3,
+   "title": "Low Power ASIC Engineer New Grad",
+   "uid": "simplify:listings:24af82b2-28c3-4bbd-b3e7-f190ea697dbb"
+  },
+  {
+   "closed_at": 1793408575,
+   "company": "NVIDIA",
+   "hours_open": 94.8,
+   "title": "ASIC Verification Engineer New Grad - Memory Management",
+   "uid": "simplify:listings:20c07b7e-aa45-47e0-8030-a611fb769115"
   }
  ],
  "count": 807,
- "updated_at": 1793404754
+ "updated_at": 1793408577
 }
