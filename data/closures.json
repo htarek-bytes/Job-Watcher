@@ -1,20 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1793167061,
-   "company": "General Dynamics Missions System International",
-   "hours_open": 1032.4,
-   "title": "Co-op Winter 2027 - Systems Integration, Verification, and Validation - 8-12 months",
-   "uid": "smartrecruiters:GDMSI:744000149416989"
-  },
-  {
-   "closed_at": 1793171999,
-   "company": "Source Code",
-   "hours_open": 145.3,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:control systems analyst:50553479"
-  },
-  {
    "closed_at": 1793171999,
    "company": "PAS/PAMC",
    "hours_open": 351.9,
@@ -5599,8 +5585,22 @@
    "hours_open": 1392.7,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
+  },
+  {
+   "closed_at": 1793476628,
+   "company": "twitch",
+   "hours_open": 1395.0,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1793476628,
+   "company": "GN Systems Inc",
+   "hours_open": 579.5,
+   "title": "telecommunications equipment technician",
+   "uid": "jobbank:telecommunications analyst:50404821"
   }
  ],
  "count": 802,
- "updated_at": 1793474624
+ "updated_at": 1793476629
 }
