@@ -2,27 +2,6 @@
  "closed": [
   {
    "closed_at": 1793171999,
-   "company": "PAS/PAMC",
-   "hours_open": 351.9,
-   "title": "programmer analyst",
-   "uid": "jobbank:junior programmer:50483827"
-  },
-  {
-   "closed_at": 1793171999,
-   "company": "La Corporation d'entretien prédictif",
-   "hours_open": 520.8,
-   "title": "network system administrator",
-   "uid": "jobbank:systems administrator:50437037"
-  },
-  {
-   "closed_at": 1793171999,
-   "company": "Boeing",
-   "hours_open": 33.5,
-   "title": "Entry-Level Software Engineer",
-   "uid": "simplify:listings:9c419d63-e801-49ea-b32c-d22bcfcd2b97"
-  },
-  {
-   "closed_at": 1793171999,
    "company": "AlphaX",
    "hours_open": 106.9,
    "title": "Project Engineer - Commercial Electrical Projects",
@@ -5599,8 +5578,29 @@
    "hours_open": 579.5,
    "title": "telecommunications equipment technician",
    "uid": "jobbank:telecommunications analyst:50404821"
+  },
+  {
+   "closed_at": 1793480077,
+   "company": "Cooptel",
+   "hours_open": 1275.8,
+   "title": "Administrateur réseau",
+   "uid": "jobillico:analyste reseau:17185045"
+  },
+  {
+   "closed_at": 1793480077,
+   "company": "twitch",
+   "hours_open": 1393.0,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1793480077,
+   "company": "FOP EXPERTS CONSEILS INC.",
+   "hours_open": 719.8,
+   "title": "network security analyst",
+   "uid": "jobbank:network analyst:50405420"
   }
  ],
- "count": 802,
- "updated_at": 1793476629
+ "count": 803,
+ "updated_at": 1793480077
 }
