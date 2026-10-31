@@ -2,41 +2,6 @@
  "closed": [
   {
    "closed_at": 1793145614,
-   "company": "Amazon",
-   "hours_open": 293.1,
-   "title": "Software Development Engineer, Customer Experience Improvement - Defect Enrichment",
-   "uid": "amazon:amazon:10580426"
-  },
-  {
-   "closed_at": 1793145614,
-   "company": "openloophealth",
-   "hours_open": 1282.4,
-   "title": "Revenue Systems Analyst",
-   "uid": "ashby:openloophealth:77f4ee48-c290-40d1-a43b-9c217cb5f265"
-  },
-  {
-   "closed_at": 1793145614,
-   "company": "saronic",
-   "hours_open": 1300.0,
-   "title": "Camera Optomechanical Engineer",
-   "uid": "ashby:saronic:ed16a95b-8c65-4f95-afed-5682c58e3b57"
-  },
-  {
-   "closed_at": 1793145614,
-   "company": "siftstack",
-   "hours_open": 1300.0,
-   "title": "Software Engineer, Frontend",
-   "uid": "ashby:siftstack:b752e812-32bc-4885-a3b4-d1ee44a129bd"
-  },
-  {
-   "closed_at": 1793145614,
-   "company": "siftstack",
-   "hours_open": 1300.0,
-   "title": "Software Engineer, Frontend (Agentic AI)",
-   "uid": "ashby:siftstack:9abae03b-61c2-4bd6-8074-d3867be67bbd"
-  },
-  {
-   "closed_at": 1793145614,
    "company": "spacex",
    "hours_open": 1303.0,
    "title": "Software Engineer (Starship)",
@@ -5599,8 +5564,43 @@
    "hours_open": 1387.5,
    "title": "Site Reliability Engineer Intern",
    "uid": "workday:equifax.wd5/UR_External:Site-Reliability-Engineer-Intern_J00178674"
+  },
+  {
+   "closed_at": 1793444623,
+   "company": "Source Code",
+   "hours_open": 28.0,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:control systems analyst:50606896"
+  },
+  {
+   "closed_at": 1793444623,
+   "company": "hp",
+   "hours_open": 23.4,
+   "title": "Presales Consultant",
+   "uid": "workday:hp.wd5/EXTEU-AC-CareerSite:Presales-Consultant_3170488"
+  },
+  {
+   "closed_at": 1793444623,
+   "company": "OSF HealthCare",
+   "hours_open": 292.1,
+   "title": "Data Engineer 1",
+   "uid": "simplify:listings:5a59f0ee-1571-4abb-9f4a-04fb4914313a"
+  },
+  {
+   "closed_at": 1793444623,
+   "company": "Lakeland Roman Catholic Separate School Division",
+   "hours_open": 1265.9,
+   "title": "computer systems analyst",
+   "uid": "jobbank:systems analyst:50064831"
+  },
+  {
+   "closed_at": 1793444623,
+   "company": "kbr",
+   "hours_open": 1407.5,
+   "title": "Junior Software Engineer",
+   "uid": "workday:kbr.wd5/KBR_Careers:Junior-Software-Engineer_R2122294"
   }
  ],
  "count": 805,
- "updated_at": 1793437153
+ "updated_at": 1793444624
 }
