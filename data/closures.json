@@ -2,13 +2,6 @@
  "closed": [
   {
    "closed_at": 1793184779,
-   "company": "Atimi",
-   "hours_open": 95.0,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50571580"
-  },
-  {
-   "closed_at": 1793184779,
    "company": "YO AI Labs",
    "hours_open": 291.4,
    "title": "software developer",
@@ -5599,8 +5592,15 @@
    "hours_open": 278.9,
    "title": "Administrateur Réseau TI",
    "uid": "jobillico:analyste reseau:17628663"
+  },
+  {
+   "closed_at": 1793496324,
+   "company": "CGI",
+   "hours_open": 1280.3,
+   "title": "Conseiller(ère) en audit de cybersécurité",
+   "uid": "jobillico:analyste cybersecurite:17433750"
   }
  ],
- "count": 803,
- "updated_at": 1793495330
+ "count": 801,
+ "updated_at": 1793496324
 }
