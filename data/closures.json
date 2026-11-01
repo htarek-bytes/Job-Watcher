@@ -2,20 +2,6 @@
  "closed": [
   {
    "closed_at": 1793201543,
-   "company": "geotab",
-   "hours_open": 280.1,
-   "title": "Business Development Associate - Public Sector ",
-   "uid": "greenhouse:geotab:5436530008"
-  },
-  {
-   "closed_at": 1793201543,
-   "company": "apptronik",
-   "hours_open": 607.3,
-   "title": "Firmware Engineer – Hands",
-   "uid": "greenhouse:apptronik:6216205004"
-  },
-  {
-   "closed_at": 1793201543,
    "company": "Atimi",
    "hours_open": 100.1,
    "title": "software developer",
@@ -5599,8 +5585,22 @@
    "hours_open": 1423.6,
    "title": "Salesforce Developer",
    "uid": "workable:nuvei:277ED8815A"
+  },
+  {
+   "closed_at": 1793543413,
+   "company": "Groupe DCM",
+   "hours_open": 1065.6,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534679"
+  },
+  {
+   "closed_at": 1793543413,
+   "company": "CGI",
+   "hours_open": 1293.4,
+   "title": "Conseiller(ère) en audit de cybersécurité",
+   "uid": "jobillico:analyste cybersecurite:17433750"
   }
  ],
- "count": 806,
- "updated_at": 1793534254
+ "count": 802,
+ "updated_at": 1793543413
 }
