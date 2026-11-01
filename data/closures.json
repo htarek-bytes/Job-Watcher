@@ -2,20 +2,6 @@
  "closed": [
   {
    "closed_at": 1793196773,
-   "company": "clearwateranalytics",
-   "hours_open": 1315.6,
-   "title": "Software Development Engineer I",
-   "uid": "workday:clearwateranalytics.wd1/Clearwater_Analytics_Careers:Software-Development-Engineer-I_R12059"
-  },
-  {
-   "closed_at": 1793196773,
-   "company": "Boeing",
-   "hours_open": 351.5,
-   "title": "Entry-Level Software Engineer Developer",
-   "uid": "simplify:listings:6fdafa9b-5cfa-42af-a06c-8507c8b2f10b"
-  },
-  {
-   "closed_at": 1793196773,
    "company": "Universal Health Services",
    "hours_open": 479.5,
    "title": "Associate Software Engineer",
@@ -5599,8 +5585,22 @@
    "hours_open": 60.2,
    "title": "Software Engineer I",
    "uid": "workday:tsc.wd12/TSC-Careers:Software-Engineer-I_JR2890"
+  },
+  {
+   "closed_at": 1793520195,
+   "company": "Logesco Informatique",
+   "hours_open": 1286.9,
+   "title": "Administrateur de réseau",
+   "uid": "jobillico:analyste reseau:17188132"
+  },
+  {
+   "closed_at": 1793520195,
+   "company": "CGI",
+   "hours_open": 1286.9,
+   "title": "Conseiller(ère) en audit de cybersécurité",
+   "uid": "jobillico:analyste cybersecurite:17433750"
   }
  ],
- "count": 811,
- "updated_at": 1793519150
+ "count": 802,
+ "updated_at": 1793520195
 }
