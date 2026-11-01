@@ -2,27 +2,6 @@
  "closed": [
   {
    "closed_at": 1793201543,
-   "company": "McCain Foods",
-   "hours_open": 452.6,
-   "title": "software developer",
-   "uid": "jobbank:scada:50459946"
-  },
-  {
-   "closed_at": 1793201543,
-   "company": "Amazon",
-   "hours_open": 167.9,
-   "title": "Software Development Engineer, AWS Compliance & Security Assurance",
-   "uid": "amazon:amazon:10585125"
-  },
-  {
-   "closed_at": 1793201543,
-   "company": "apptronik",
-   "hours_open": 607.3,
-   "title": "Firmware Engineer - Actuation ",
-   "uid": "greenhouse:apptronik:6107174004"
-  },
-  {
-   "closed_at": 1793201543,
    "company": "vercel",
    "hours_open": 1318.6,
    "title": "Forward-Deployed Engineer",
@@ -5599,8 +5578,29 @@
    "hours_open": 1293.9,
    "title": "Conseiller(ère) en audit de cybersécurité",
    "uid": "jobillico:analyste cybersecurite:17433750"
+  },
+  {
+   "closed_at": 1793549988,
+   "company": "Logesco Informatique",
+   "hours_open": 1295.2,
+   "title": "Administrateur de réseau",
+   "uid": "jobillico:analyste reseau:17188132"
+  },
+  {
+   "closed_at": 1793549988,
+   "company": "Icentia inc.",
+   "hours_open": 452.8,
+   "title": "Technicien TI, Cybersécurité et Agents IA",
+   "uid": "jobillico:analyste cybersecurite:17592852"
+  },
+  {
+   "closed_at": 1793549988,
+   "company": "Nord Quantique",
+   "hours_open": 112.0,
+   "title": "developer, software",
+   "uid": "jobbank:entry level software developer:50434695"
   }
  ],
- "count": 801,
- "updated_at": 1793545219
+ "count": 803,
+ "updated_at": 1793549988
 }
