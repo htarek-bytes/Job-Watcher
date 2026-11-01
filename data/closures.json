@@ -2,20 +2,6 @@
  "closed": [
   {
    "closed_at": 1793196773,
-   "company": "Universal Health Services",
-   "hours_open": 479.5,
-   "title": "Associate Software Engineer",
-   "uid": "simplify:listings:537aaa04-0077-4de4-9a8d-d828c5d80978"
-  },
-  {
-   "closed_at": 1793196773,
-   "company": "cisco",
-   "hours_open": 40.3,
-   "title": "Solutions Engineer - Splunk (Remote)",
-   "uid": "workday:cisco.wd5/cisco_careers:Solutions-Engineer---Splunk--Remote-_2024727-1"
-  },
-  {
-   "closed_at": 1793196773,
    "company": "idme",
    "hours_open": 539.2,
    "title": "SOC Analyst ",
@@ -5599,8 +5585,22 @@
    "hours_open": 1286.9,
    "title": "Conseiller(ère) en audit de cybersécurité",
    "uid": "jobillico:analyste cybersecurite:17433750"
+  },
+  {
+   "closed_at": 1793525466,
+   "company": "Icentia inc.",
+   "hours_open": 445.9,
+   "title": "Technicien TI, Cybersécurité et Agents IA",
+   "uid": "jobillico:analyste cybersecurite:17592852"
+  },
+  {
+   "closed_at": 1793525466,
+   "company": "Global Fleet Management Inc.",
+   "hours_open": 1091.9,
+   "title": "information systems analyst - computer systems",
+   "uid": "jobbank:systems analyst:50302902"
   }
  ],
  "count": 802,
- "updated_at": 1793520195
+ "updated_at": 1793525466
 }
