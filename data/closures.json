@@ -2,27 +2,6 @@
  "closed": [
   {
    "closed_at": 1793201690,
-   "company": "globalfoundries",
-   "hours_open": 680.1,
-   "title": "Field Application Engineer (2027 New College Graduate)",
-   "uid": "workday:globalfoundries.wd1/External:Field-Application-Engineer--2027-New-College-Graduate-_JR-2604193"
-  },
-  {
-   "closed_at": 1793201690,
-   "company": "entegris",
-   "hours_open": 1147.5,
-   "title": "Cybersecurity Engineer Co-Op",
-   "uid": "workday:entegris.wd1/entegriscareers:Cybersecurity-Engineer-Co-Op_REQ-14472-1"
-  },
-  {
-   "closed_at": 1793201690,
-   "company": "Northrop Grumman",
-   "hours_open": 24.9,
-   "title": "Associate Software Engineer / Software Engineer",
-   "uid": "simplify:listings:dd78d693-5a46-4ccf-8fec-2c46920e2d0d"
-  },
-  {
-   "closed_at": 1793201690,
    "company": "spacekinetic",
    "hours_open": 1311.6,
    "title": "Materials & Process (M&P) Engineer",
@@ -5599,8 +5578,29 @@
    "hours_open": 300.5,
    "title": "Administrateur Réseau TI",
    "uid": "jobillico:analyste reseau:17628663"
+  },
+  {
+   "closed_at": 1793573420,
+   "company": "americancentury",
+   "hours_open": 886.4,
+   "title": "Infrastructure Automation Engineer Intern",
+   "uid": "workday:americancentury.wd5/AmericanCenturyInvestments:Infrastructure-Automation-Engineer-Intern_R0005750"
+  },
+  {
+   "closed_at": 1793573420,
+   "company": "americancentury",
+   "hours_open": 886.4,
+   "title": "Software Developer Intern",
+   "uid": "workday:americancentury.wd5/AmericanCenturyInvestments:Software-Developer-Intern_R0005749-1"
+  },
+  {
+   "closed_at": 1793573420,
+   "company": "adobe",
+   "hours_open": 1421.9,
+   "title": "2027 Intern - Software Engineer",
+   "uid": "workday:adobe.wd5/external_experienced:XMLNAME-2027-Intern---Software-Engineer_R171666"
   }
  ],
- "count": 804,
- "updated_at": 1793573177
+ "count": 803,
+ "updated_at": 1793573420
 }
