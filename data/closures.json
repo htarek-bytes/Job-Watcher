@@ -2,20 +2,6 @@
  "closed": [
   {
    "closed_at": 1793201543,
-   "company": "Atimi",
-   "hours_open": 100.1,
-   "title": "software developer",
-   "uid": "jobbank:entry level software developer:50571580"
-  },
-  {
-   "closed_at": 1793201543,
-   "company": "NearSource",
-   "hours_open": 322.0,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50502098"
-  },
-  {
-   "closed_at": 1793201543,
    "company": "Confédération des syndicats nationaux",
    "hours_open": 129.9,
    "title": "Administratrice ou administrateur réseau",
@@ -5599,8 +5585,22 @@
    "hours_open": 1293.4,
    "title": "Conseiller(ère) en audit de cybersécurité",
    "uid": "jobillico:analyste cybersecurite:17433750"
+  },
+  {
+   "closed_at": 1793543583,
+   "company": "Icentia inc.",
+   "hours_open": 451.0,
+   "title": "Technicien TI, Cybersécurité et Agents IA",
+   "uid": "jobillico:analyste cybersecurite:17592852"
+  },
+  {
+   "closed_at": 1793543583,
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
+   "hours_open": 292.3,
+   "title": "Administrateur Réseau TI",
+   "uid": "jobillico:analyste reseau:17628663"
   }
  ],
  "count": 802,
- "updated_at": 1793543413
+ "updated_at": 1793543583
 }
