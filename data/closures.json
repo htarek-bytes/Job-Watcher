@@ -1,48 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1793196773,
-   "company": "idme",
-   "hours_open": 539.2,
-   "title": "SOC Analyst ",
-   "uid": "greenhouse:idme:7808011003"
-  },
-  {
-   "closed_at": 1793196773,
-   "company": "mongodb",
-   "hours_open": 476.3,
-   "title": "Software Engineer 3, Atlas Agent Engine",
-   "uid": "greenhouse:mongodb:7597723"
-  },
-  {
-   "closed_at": 1793196773,
-   "company": "costar",
-   "hours_open": 1049.7,
-   "title": "Security Engineer Intern - Richmond, VA",
-   "uid": "workday:costar.wd1/Costar_Campus:Security-Engineer-Intern---Richmond--VA_R39726"
-  },
-  {
-   "closed_at": 1793196773,
-   "company": "assystinc",
-   "hours_open": 497.2,
-   "title": "Full Stack Developer (Entry Level)",
-   "uid": "greenhouse:assystinc:4436912009"
-  },
-  {
-   "closed_at": 1793196773,
-   "company": "Johns Hopkins Applied Physics Laboratory",
-   "hours_open": 1287.0,
-   "title": "Systems & Software Engineer New Grad - Multi-Domain Mission Planning Development",
-   "uid": "simplify:listings:c192d7cd-8e41-43d0-9f80-86b20fa05310"
-  },
-  {
-   "closed_at": 1793201543,
-   "company": "databricks",
-   "hours_open": 120.1,
-   "title": "Associate Forward Deployed Engineer",
-   "uid": "greenhouse:databricks:8910846002"
-  },
-  {
    "closed_at": 1793201543,
    "company": "geotab",
    "hours_open": 280.1,
@@ -5599,8 +5557,50 @@
    "hours_open": 1091.9,
    "title": "information systems analyst - computer systems",
    "uid": "jobbank:systems analyst:50302902"
+  },
+  {
+   "closed_at": 1793534254,
+   "company": "Atimi",
+   "hours_open": 22.5,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50621540"
+  },
+  {
+   "closed_at": 1793534254,
+   "company": "Groupe DCM",
+   "hours_open": 1056.9,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534670"
+  },
+  {
+   "closed_at": 1793534254,
+   "company": "Nord Quantique",
+   "hours_open": 107.7,
+   "title": "developer, software",
+   "uid": "jobbank:entry level software developer:50434695"
+  },
+  {
+   "closed_at": 1793534254,
+   "company": "Ciena",
+   "hours_open": 561.3,
+   "title": "Verification and Field Application Engineer New Grad",
+   "uid": "simplify:listings:8b8dc826-3218-45b8-82b5-d2f23a25402f"
+  },
+  {
+   "closed_at": 1793534254,
+   "company": "Source Code",
+   "hours_open": 6.6,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50628077"
+  },
+  {
+   "closed_at": 1793534254,
+   "company": "Nuvei",
+   "hours_open": 1423.6,
+   "title": "Salesforce Developer",
+   "uid": "workable:nuvei:277ED8815A"
   }
  ],
- "count": 802,
- "updated_at": 1793525466
+ "count": 806,
+ "updated_at": 1793534254
 }
