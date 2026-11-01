@@ -2,41 +2,6 @@
  "closed": [
   {
    "closed_at": 1793206393,
-   "company": "City of New Westminster",
-   "hours_open": 334.9,
-   "title": "systems analyst",
-   "uid": "jobbank:systems analyst:50496050"
-  },
-  {
-   "closed_at": 1793206393,
-   "company": "CONNECT THE DOC",
-   "hours_open": 350.8,
-   "title": "Web application developer",
-   "uid": "jobbank:developpeur junior:50490722"
-  },
-  {
-   "closed_at": 1793206393,
-   "company": "lumentum",
-   "hours_open": 712.2,
-   "title": "Reliability Test Automation Engineer (Co-op/Intern)",
-   "uid": "workday:lumentum.wd5/LITE:Reliability-Test-Automation-Engineer--Co-op-Intern-_20261382"
-  },
-  {
-   "closed_at": 1793206393,
-   "company": "kla",
-   "hours_open": 112.1,
-   "title": "Product Development Engineering Intern",
-   "uid": "workday:kla.wd1/UR:Product-Development-Engineering-Intern_2642439"
-  },
-  {
-   "closed_at": 1793206393,
-   "company": "kla",
-   "hours_open": 112.1,
-   "title": "Software Engineering Intern – AI/ML for Diagnostics & Calibration",
-   "uid": "workday:kla.wd1/UR:Software-Engineering-Intern---AI-ML-for-Diagnostics---Calibration_2642129"
-  },
-  {
-   "closed_at": 1793206393,
    "company": "kla",
    "hours_open": 112.1,
    "title": "Software Engineer Intern (C++, Linux) – Summer 2027",
@@ -5599,8 +5564,43 @@
    "hours_open": 61.9,
    "title": "Associate Software Engineer",
    "uid": "workday:boeing.wd1/EXTERNAL_CAREERS:Associate-Software-Engineer_JR2026525135"
+  },
+  {
+   "closed_at": 1793577372,
+   "company": "Amazon",
+   "hours_open": 72.9,
+   "title": "Software Development Engineer, AWS EC2 Nitro Team",
+   "uid": "amazon:amazon:10591625"
+  },
+  {
+   "closed_at": 1793577372,
+   "company": "flexport",
+   "hours_open": 1423.0,
+   "title": "Security Engineer, Corporate Security",
+   "uid": "greenhouse:flexport:8166040"
+  },
+  {
+   "closed_at": 1793577372,
+   "company": "eversource",
+   "hours_open": 1406.9,
+   "title": "Associate Engineer, Maintenance Support",
+   "uid": "workday:eversource.wd1/ExternalSite:Associate-Engineer--Maintenance-Support_R-031423"
+  },
+  {
+   "closed_at": 1793577372,
+   "company": "ebi",
+   "hours_open": 815.5,
+   "title": "Product Engineer Intern",
+   "uid": "workday:ebi.wd5/ebicareers:Product-Engineer-Intern_REQ107697-1"
+  },
+  {
+   "closed_at": 1793577372,
+   "company": "Princeton IT Services Inc",
+   "hours_open": 1440.9,
+   "title": "software development programmer",
+   "uid": "jobbank:junior programmer:50092595"
   }
  ],
- "count": 804,
- "updated_at": 1793574066
+ "count": 805,
+ "updated_at": 1793577372
 }
