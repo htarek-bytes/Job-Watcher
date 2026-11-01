@@ -2,20 +2,6 @@
  "closed": [
   {
    "closed_at": 1793201543,
-   "company": "vercel",
-   "hours_open": 1318.6,
-   "title": "Forward-Deployed Engineer",
-   "uid": "greenhouse:vercel:5778418004"
-  },
-  {
-   "closed_at": 1793201543,
-   "company": "neuralink",
-   "hours_open": 1316.9,
-   "title": "Quality Systems Engineer",
-   "uid": "greenhouse:neuralink:7386953003"
-  },
-  {
-   "closed_at": 1793201543,
    "company": "Belle Graphics Inc.",
    "hours_open": 503.1,
    "title": "installation and repair technician - telecommunications",
@@ -5599,8 +5585,22 @@
    "hours_open": 112.0,
    "title": "developer, software",
    "uid": "jobbank:entry level software developer:50434695"
+  },
+  {
+   "closed_at": 1793555399,
+   "company": "CGI",
+   "hours_open": 1296.7,
+   "title": "Conseiller(ère) en architecture de cybersécurité",
+   "uid": "jobillico:analyste cybersecurite:17433753"
+  },
+  {
+   "closed_at": 1793555399,
+   "company": "orbisoperations",
+   "hours_open": 22.4,
+   "title": "Data Engineer & Application Development (TS/SCI w/ Poly)",
+   "uid": "greenhouse:orbisoperations:4430438009"
   }
  ],
- "count": 803,
- "updated_at": 1793549988
+ "count": 802,
+ "updated_at": 1793555399
 }
