@@ -1,27 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1793177291,
-   "company": "Focus Group",
-   "hours_open": 925.8,
-   "title": "Solutions Engineer (IT) - Basingstoke Area",
-   "uid": "workable:focus-group:806A198B77"
-  },
-  {
-   "closed_at": 1793177291,
-   "company": "True Anomaly",
-   "hours_open": 1348.5,
-   "title": "Data Engineer 1",
-   "uid": "simplify:listings:1bc7fe9e-fd5d-4ca1-b5c2-abedfa34dfb4"
-  },
-  {
-   "closed_at": 1793177291,
-   "company": "Focus Group",
-   "hours_open": 1191.7,
-   "title": "2nd Line Technical Analyst (Out of Hours - Nights/Weekends)",
-   "uid": "workable:focus-group:763C591FB0"
-  },
-  {
    "closed_at": 1793184779,
    "company": "Atimi",
    "hours_open": 95.0,
@@ -5599,8 +5578,29 @@
    "hours_open": 40.9,
    "title": "Backend Software Engineer",
    "uid": "workable:raydar:70A2610DAE"
+  },
+  {
+   "closed_at": 1793495330,
+   "company": "GE Vernova",
+   "hours_open": 26.1,
+   "title": "Développeur de logiciels embarqués pour éléments de protection F/H - Protection Element Embedded SW Developer",
+   "uid": "jobillico:developpeur logiciel:17583378"
+  },
+  {
+   "closed_at": 1793495330,
+   "company": "twitch",
+   "hours_open": 1397.2,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1793495330,
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
+   "hours_open": 278.9,
+   "title": "Administrateur Réseau TI",
+   "uid": "jobillico:analyste reseau:17628663"
   }
  ],
- "count": 811,
- "updated_at": 1793491066
+ "count": 803,
+ "updated_at": 1793495330
 }
