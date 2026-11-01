@@ -2,62 +2,6 @@
  "closed": [
   {
    "closed_at": 1793201690,
-   "company": "apptronik",
-   "hours_open": 607.3,
-   "title": "Firmware Engineer – Hands",
-   "uid": "greenhouse:apptronik:6216205004"
-  },
-  {
-   "closed_at": 1793201690,
-   "company": "Atimi",
-   "hours_open": 100.1,
-   "title": "software developer",
-   "uid": "jobbank:entry level software developer:50571580"
-  },
-  {
-   "closed_at": 1793201690,
-   "company": "NearSource",
-   "hours_open": 322.0,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50502098"
-  },
-  {
-   "closed_at": 1793201690,
-   "company": "Confédération des syndicats nationaux",
-   "hours_open": 129.9,
-   "title": "Administratrice ou administrateur réseau",
-   "uid": "jobillico:analyste reseau:17619549"
-  },
-  {
-   "closed_at": 1793201690,
-   "company": "McCain Foods",
-   "hours_open": 452.6,
-   "title": "software developer",
-   "uid": "jobbank:scada:50459946"
-  },
-  {
-   "closed_at": 1793201690,
-   "company": "Amazon",
-   "hours_open": 168.0,
-   "title": "Software Development Engineer, AWS Compliance & Security Assurance",
-   "uid": "amazon:amazon:10585125"
-  },
-  {
-   "closed_at": 1793201690,
-   "company": "apptronik",
-   "hours_open": 607.3,
-   "title": "Firmware Engineer - Actuation ",
-   "uid": "greenhouse:apptronik:6107174004"
-  },
-  {
-   "closed_at": 1793201690,
-   "company": "vercel",
-   "hours_open": 1318.6,
-   "title": "Forward-Deployed Engineer",
-   "uid": "greenhouse:vercel:5778418004"
-  },
-  {
-   "closed_at": 1793201690,
    "company": "neuralink",
    "hours_open": 1316.9,
    "title": "Quality Systems Engineer",
@@ -5599,8 +5543,64 @@
    "hours_open": 1297.9,
    "title": "computer systems analyst",
    "uid": "jobbank:systems analyst:50243696"
+  },
+  {
+   "closed_at": 1793568293,
+   "company": "firetiger",
+   "hours_open": 1437.4,
+   "title": "Product Engineer — New Grad",
+   "uid": "ashby:firetiger:a65c30a8-6bdb-4258-9d6a-5e6e90ff86e6"
+  },
+  {
+   "closed_at": 1793568293,
+   "company": "firetiger",
+   "hours_open": 1420.5,
+   "title": "Product Engineer",
+   "uid": "ashby:firetiger:f5d4ba4b-29c8-4f77-bae8-87fea7cf4d98"
+  },
+  {
+   "closed_at": 1793568293,
+   "company": "Icentia inc.",
+   "hours_open": 457.8,
+   "title": "Technicien TI, Cybersécurité et Agents IA",
+   "uid": "jobillico:analyste cybersecurite:17592852"
+  },
+  {
+   "closed_at": 1793568293,
+   "company": "twitch",
+   "hours_open": 1417.5,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1793568293,
+   "company": "firetiger",
+   "hours_open": 1428.3,
+   "title": "Product Engineer — Intern/Co-op",
+   "uid": "ashby:firetiger:7acf0768-f10d-4650-bcfc-12ed6e5d7cfc"
+  },
+  {
+   "closed_at": 1793568293,
+   "company": "Global Fleet Management Inc.",
+   "hours_open": 1103.8,
+   "title": "information systems analyst - computer systems",
+   "uid": "jobbank:systems analyst:50302902"
+  },
+  {
+   "closed_at": 1793568293,
+   "company": "Regime Solutions Inc.",
+   "hours_open": 435.4,
+   "title": "computer systems analyst",
+   "uid": "jobbank:analyste de systemes:50243696"
+  },
+  {
+   "closed_at": 1793568293,
+   "company": "rocketlab",
+   "hours_open": 757.7,
+   "title": "Development Engineer - Electron",
+   "uid": "greenhouse:rocketlab:7822182003"
   }
  ],
- "count": 805,
- "updated_at": 1793565575
+ "count": 808,
+ "updated_at": 1793568294
 }
