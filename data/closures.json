@@ -1,83 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1793190539,
-   "company": "avav",
-   "hours_open": 1327.9,
-   "title": "Summer 2027 Embedded Software Engineering Intern",
-   "uid": "workday:avav.wd1/avav:Summer-2027-Embedded-Software-Engineering-Intern_8388"
-  },
-  {
-   "closed_at": 1793190539,
-   "company": "axos",
-   "hours_open": 469.7,
-   "title": "Software Development Intern",
-   "uid": "workday:axos.wd5/Axos:Software-Development-Intern_JR5647"
-  },
-  {
-   "closed_at": 1793190539,
-   "company": "boeing",
-   "hours_open": 38.6,
-   "title": "Entry-level Software Engineer–Developers",
-   "uid": "workday:boeing.wd1/external_subsidiary:Entry-level-Software-Engineer-Developers_JR2026518452"
-  },
-  {
-   "closed_at": 1793190539,
-   "company": "twitch",
-   "hours_open": 1315.5,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1793190539,
-   "company": "reddit",
-   "hours_open": 276.7,
-   "title": "Machine Learning Engineer",
-   "uid": "greenhouse:reddit:7131932"
-  },
-  {
-   "closed_at": 1793190539,
-   "company": "Boeing",
-   "hours_open": 5.2,
-   "title": "Entry-Level Software Engineer",
-   "uid": "simplify:listings:2ab1121c-3c48-4d77-a953-91550eb41c3c"
-  },
-  {
-   "closed_at": 1793190539,
-   "company": "caci",
-   "hours_open": 526.9,
-   "title": "Network Engineer Intern - Summer 2027",
-   "uid": "workday:caci.wd1/external:Network-Engineer-Intern---Summer-2027_332843"
-  },
-  {
-   "closed_at": 1793190539,
-   "company": "spacex",
-   "hours_open": 1315.2,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1793196773,
-   "company": "T-Mobile",
-   "hours_open": 38.8,
-   "title": "Associate Software Engineer: Billing Platform",
-   "uid": "simplify:listings:dffcfc23-8cbd-490a-8145-fcefb06961ad"
-  },
-  {
-   "closed_at": 1793196773,
-   "company": "Alcoa Canada",
-   "hours_open": 1197.1,
-   "title": "Conseiller(ère) en cybersécurité (Amérique du Nord)",
-   "uid": "jobillico:analyste cybersecurite:17502948"
-  },
-  {
-   "closed_at": 1793196773,
-   "company": "costar",
-   "hours_open": 1049.7,
-   "title": "Security Engineer Intern - Arlington, VA",
-   "uid": "workday:costar.wd1/Costar_Campus:Security-Engineer-Intern---Arlington--VA_R39727"
-  },
-  {
    "closed_at": 1793196773,
    "company": "clearwateranalytics",
    "hours_open": 1315.6,
@@ -5599,8 +5522,85 @@
    "hours_open": 16.8,
    "title": "Associate Software Engineer",
    "uid": "simplify:listings:dc6e6af1-c573-4952-aef5-9791f94fcd44"
+  },
+  {
+   "closed_at": 1793519150,
+   "company": "salesforce",
+   "hours_open": 60.7,
+   "title": "Associate Solution Consultant",
+   "uid": "workday:salesforce.wd12/Futureforce_NewGradRoles:Associate-Solution-Consultant_JR365267"
+  },
+  {
+   "closed_at": 1793519150,
+   "company": "Icentia inc.",
+   "hours_open": 444.2,
+   "title": "Technicien TI, Cybersécurité et Agents IA",
+   "uid": "jobillico:analyste cybersecurite:17592852"
+  },
+  {
+   "closed_at": 1793519150,
+   "company": "statestreet",
+   "hours_open": 83.2,
+   "title": "Junior Software Engineer - SA",
+   "uid": "workday:statestreet.wd1/Global:Junior-Software-Engineer---SA_R-799312-1"
+  },
+  {
+   "closed_at": 1793519150,
+   "company": "rockwellautomation",
+   "hours_open": 965.9,
+   "title": "Intern, Technical Sales & Consulting (USA)",
+   "uid": "workday:rockwellautomation.wd1/External_Rockwell_Automation:Intern--Technical-Sales---Consulting--USA-_R26-5962-2"
+  },
+  {
+   "closed_at": 1793519150,
+   "company": "rockwellautomation",
+   "hours_open": 213.2,
+   "title": "Intern, Hardware Development Engineer (May - Aug 2027)",
+   "uid": "workday:rockwellautomation.wd1/External_Rockwell_Automation:Intern--Hardware-Development-Engineer--May---Aug-2027-_R26-6892-1"
+  },
+  {
+   "closed_at": 1793519150,
+   "company": "rockwellautomation",
+   "hours_open": 370.8,
+   "title": "Co-op, Hardware Development Engineer (June - Dec 2027)",
+   "uid": "workday:rockwellautomation.wd1/External_Rockwell_Automation:Co-op--Hardware-Development-Engineer--June---Dec-2027-_R26-6891-1"
+  },
+  {
+   "closed_at": 1793519150,
+   "company": "rockwellautomation",
+   "hours_open": 370.8,
+   "title": "Co-op, Hardware Development Engineer (Jan - July 2027)",
+   "uid": "workday:rockwellautomation.wd1/External_Rockwell_Automation:Co-op--Hardware-Development-Engineer--Jan---July-2027-_R26-6638-1"
+  },
+  {
+   "closed_at": 1793519150,
+   "company": "twitch",
+   "hours_open": 1403.9,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1793519150,
+   "company": "rockwellautomation",
+   "hours_open": 869.7,
+   "title": "Intern, AI Software Engineering (June-August 2027)",
+   "uid": "workday:rockwellautomation.wd1/External_Rockwell_Automation:Intern--AI-Software-Engineering--June-August-2027-_R26-6980-1"
+  },
+  {
+   "closed_at": 1793519150,
+   "company": "rockwellautomation",
+   "hours_open": 869.7,
+   "title": "Co-op, AI Software Engineering (6-8 months)",
+   "uid": "workday:rockwellautomation.wd1/External_Rockwell_Automation:Co-op--AI-Software-Engineering--6-8-months-_R26-6982-1"
+  },
+  {
+   "closed_at": 1793519150,
+   "company": "tsc",
+   "hours_open": 60.2,
+   "title": "Software Engineer I",
+   "uid": "workday:tsc.wd12/TSC-Careers:Software-Engineer-I_JR2890"
   }
  ],
- "count": 807,
- "updated_at": 1793518341
+ "count": 811,
+ "updated_at": 1793519150
 }
