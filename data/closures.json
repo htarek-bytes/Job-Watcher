@@ -2,13 +2,6 @@
  "closed": [
   {
    "closed_at": 1793201543,
-   "company": "Belle Graphics Inc.",
-   "hours_open": 503.1,
-   "title": "installation and repair technician - telecommunications",
-   "uid": "jobbank:telecommunications analyst:50200449"
-  },
-  {
-   "closed_at": 1793201543,
    "company": "hntb",
    "hours_open": 510.5,
    "title": "New Grad Engineer I: Rail & Transit – Summer 2027",
@@ -5599,8 +5592,15 @@
    "hours_open": 22.4,
    "title": "Data Engineer & Application Development (TS/SCI w/ Poly)",
    "uid": "greenhouse:orbisoperations:4430438009"
+  },
+  {
+   "closed_at": 1793560130,
+   "company": "twitch",
+   "hours_open": 1418.2,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
   }
  ],
- "count": 802,
- "updated_at": 1793555399
+ "count": 801,
+ "updated_at": 1793560131
 }
