@@ -2,34 +2,6 @@
  "closed": [
   {
    "closed_at": 1793201690,
-   "company": "neuralink",
-   "hours_open": 1316.9,
-   "title": "Quality Systems Engineer",
-   "uid": "greenhouse:neuralink:7386953003"
-  },
-  {
-   "closed_at": 1793201690,
-   "company": "Belle Graphics Inc.",
-   "hours_open": 503.2,
-   "title": "installation and repair technician - telecommunications",
-   "uid": "jobbank:telecommunications analyst:50200449"
-  },
-  {
-   "closed_at": 1793201690,
-   "company": "hntb",
-   "hours_open": 510.6,
-   "title": "New Grad Engineer I: Rail & Transit – Summer 2027",
-   "uid": "workday:hntb.wd5/hntb_careers:New-Grad-Engineer-I--Rail---Transit---Summer-2027_R-31631-1"
-  },
-  {
-   "closed_at": 1793201690,
-   "company": "greenheckgroup",
-   "hours_open": 878.5,
-   "title": "Packaging Engineer Co-op",
-   "uid": "workday:greenheckgroup.wd5/external:Packaging-Engineer-Co-op_JR104675"
-  },
-  {
-   "closed_at": 1793201690,
    "company": "globalfoundries",
    "hours_open": 680.1,
    "title": "Field Application Engineer (2027 New College Graduate)",
@@ -5599,8 +5571,36 @@
    "hours_open": 757.7,
    "title": "Development Engineer - Electron",
    "uid": "greenhouse:rocketlab:7822182003"
+  },
+  {
+   "closed_at": 1793573176,
+   "company": "knowbe4",
+   "hours_open": 3.3,
+   "title": "Software Engineer Summer Internship",
+   "uid": "greenhouse:knowbe4:8919280002"
+  },
+  {
+   "closed_at": 1793573176,
+   "company": "Raydar",
+   "hours_open": 63.7,
+   "title": "Frontend Product Engineer",
+   "uid": "workable:raydar:23C85397FE"
+  },
+  {
+   "closed_at": 1793573176,
+   "company": "Raydar",
+   "hours_open": 63.7,
+   "title": "Solutions Engineer",
+   "uid": "workable:raydar:AAD9F117CC"
+  },
+  {
+   "closed_at": 1793573176,
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
+   "hours_open": 300.5,
+   "title": "Administrateur Réseau TI",
+   "uid": "jobillico:analyste reseau:17628663"
   }
  ],
- "count": 808,
- "updated_at": 1793568294
+ "count": 804,
+ "updated_at": 1793573177
 }
