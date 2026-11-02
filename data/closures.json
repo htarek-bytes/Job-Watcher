@@ -2,48 +2,6 @@
  "closed": [
   {
    "closed_at": 1793206393,
-   "company": "kla",
-   "hours_open": 112.1,
-   "title": "Software Engineer Intern (C++, Linux) – Summer 2027",
-   "uid": "workday:kla.wd1/UR:Software-Engineer-Intern--C----Linux----Summer-2027_2641878"
-  },
-  {
-   "closed_at": 1793206393,
-   "company": "iberdrola",
-   "hours_open": 1026.3,
-   "title": "Associate Engineer - Distribution Planning",
-   "uid": "workday:iberdrola.wd3/iberdrola:Associate-Engineer---Distribution-Planning_R-29801"
-  },
-  {
-   "closed_at": 1793206393,
-   "company": "kla",
-   "hours_open": 112.1,
-   "title": "Software Engineering Intern",
-   "uid": "workday:kla.wd1/UR:Software-Engineering-Intern_2642189"
-  },
-  {
-   "closed_at": 1793206393,
-   "company": "hpe",
-   "hours_open": 261.6,
-   "title": "Technical Sales Graduate",
-   "uid": "workday:hpe.wd5/jobsathpe:Technical-Sales-Graduate_1213591-1"
-  },
-  {
-   "closed_at": 1793206393,
-   "company": "Amazon",
-   "hours_open": 161.2,
-   "title": "Software Development Engineer, Amazon Optics",
-   "uid": "amazon:amazon:10585831"
-  },
-  {
-   "closed_at": 1793206393,
-   "company": "twitch",
-   "hours_open": 1317.0,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1793206393,
    "company": "purestorage",
    "hours_open": 1191.3,
    "title": "Consulting Pre-Sales Systems Engineer, Service Provider",
@@ -5599,8 +5557,50 @@
    "hours_open": 1440.9,
    "title": "software development programmer",
    "uid": "jobbank:junior programmer:50092595"
+  },
+  {
+   "closed_at": 1793581119,
+   "company": "Groupe DCM",
+   "hours_open": 1069.9,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534670"
+  },
+  {
+   "closed_at": 1793581119,
+   "company": "Logesco Informatique",
+   "hours_open": 1303.8,
+   "title": "Administrateur de réseau",
+   "uid": "jobillico:analyste reseau:17188132"
+  },
+  {
+   "closed_at": 1793581119,
+   "company": "CGI",
+   "hours_open": 1303.8,
+   "title": "Conseiller(ère) en audit de cybersécurité",
+   "uid": "jobillico:analyste cybersecurite:17433750"
+  },
+  {
+   "closed_at": 1793581119,
+   "company": "CGI",
+   "hours_open": 1303.8,
+   "title": "Conseiller(ère) en architecture de cybersécurité",
+   "uid": "jobillico:analyste cybersecurite:17433753"
+  },
+  {
+   "closed_at": 1793581119,
+   "company": "imh",
+   "hours_open": 738.0,
+   "title": "Registered Nurse New Graduate Telemetry Unit",
+   "uid": "workday:imh.wd108/IntermountainCareers:Registered-Nurse-New-Graduate-Telemetry-Unit_R185548"
+  },
+  {
+   "closed_at": 1793581119,
+   "company": "andurilindustries",
+   "hours_open": 912.2,
+   "title": "Software Engineer- Machine Learning",
+   "uid": "greenhouse:andurilindustries:5248869007"
   }
  ],
- "count": 805,
- "updated_at": 1793577372
+ "count": 806,
+ "updated_at": 1793581120
 }
