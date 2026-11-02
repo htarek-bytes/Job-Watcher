@@ -1,209 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1793230510,
-   "company": "morse-micro",
-   "hours_open": 669.1,
-   "title": "Software Applications Engineer ",
-   "uid": "ashby:morse-micro:bcc776ce-7b57-4d2c-ba8e-3c29a8f9c769"
-  },
-  {
-   "closed_at": 1793230510,
-   "company": "Groupe DCM",
-   "hours_open": 978.7,
-   "title": "Programmeur CNC / CNC Programmer",
-   "uid": "jobillico:programmeur junior:17534679"
-  },
-  {
-   "closed_at": 1793230510,
-   "company": "Amazon",
-   "hours_open": 12.7,
-   "title": "Software Development Engineer, Devices Software & Services",
-   "uid": "amazon:amazon:10590870"
-  },
-  {
-   "closed_at": 1793230510,
-   "company": "twitch",
-   "hours_open": 1323.7,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1793230510,
-   "company": "reddit",
-   "hours_open": 316.6,
-   "title": "Machine Learning Engineer",
-   "uid": "greenhouse:reddit:7131934"
-  },
-  {
-   "closed_at": 1793230510,
-   "company": "spacex",
-   "hours_open": 1326.6,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1793230510,
-   "company": "spacex",
-   "hours_open": 1326.6,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1793230510,
-   "company": "spacex",
-   "hours_open": 1326.6,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1793233344,
-   "company": "retell-ai",
-   "hours_open": 24.4,
-   "title": "Mandarin-speaking: Software Engineer (Contract)",
-   "uid": "ashby:retell-ai:8581013a-f981-47aa-84a0-de548976b2ef"
-  },
-  {
-   "closed_at": 1793233344,
-   "company": "retell-ai",
-   "hours_open": 1031.0,
-   "title": "Mandarin-speaking: Customer Success Engineer (Contract)",
-   "uid": "ashby:retell-ai:ff9c1c3f-65b3-49ad-9774-7e97af55a720"
-  },
-  {
-   "closed_at": 1793233344,
-   "company": "Relling",
-   "hours_open": 22.1,
-   "title": "Robotics Software Engineer New Grad",
-   "uid": "simplify:listings:b239b64e-30e5-4f51-b91a-8e3aae1ced66"
-  },
-  {
-   "closed_at": 1793233344,
-   "company": "Takt",
-   "hours_open": 17.0,
-   "title": "Associate Software Engineer - Frontend",
-   "uid": "simplify:listings:ab0a47b6-2df0-4f41-9831-30a37a7e44e2"
-  },
-  {
-   "closed_at": 1793233344,
-   "company": "spacex",
-   "hours_open": 1324.5,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1793233344,
-   "company": "spacex",
-   "hours_open": 1327.1,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1793233440,
-   "company": "retell-ai",
-   "hours_open": 24.4,
-   "title": "Mandarin-speaking: Software Engineer (Contract)",
-   "uid": "ashby:retell-ai:8581013a-f981-47aa-84a0-de548976b2ef"
-  },
-  {
-   "closed_at": 1793233440,
-   "company": "retell-ai",
-   "hours_open": 1031.0,
-   "title": "Mandarin-speaking: Customer Success Engineer (Contract)",
-   "uid": "ashby:retell-ai:ff9c1c3f-65b3-49ad-9774-7e97af55a720"
-  },
-  {
-   "closed_at": 1793233440,
-   "company": "Relling",
-   "hours_open": 22.1,
-   "title": "Robotics Software Engineer New Grad",
-   "uid": "simplify:listings:b239b64e-30e5-4f51-b91a-8e3aae1ced66"
-  },
-  {
-   "closed_at": 1793233440,
-   "company": "twitch",
-   "hours_open": 1327.4,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1793233440,
-   "company": "reddit",
-   "hours_open": 288.6,
-   "title": "Machine Learning Engineer",
-   "uid": "greenhouse:reddit:7131932"
-  },
-  {
-   "closed_at": 1793233440,
-   "company": "Takt",
-   "hours_open": 17.1,
-   "title": "Associate Software Engineer - Frontend",
-   "uid": "simplify:listings:ab0a47b6-2df0-4f41-9831-30a37a7e44e2"
-  },
-  {
-   "closed_at": 1793233440,
-   "company": "spacex",
-   "hours_open": 1324.5,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1793236013,
-   "company": "nomadgcs",
-   "hours_open": 24.8,
-   "title": "Software Engineering Intern",
-   "uid": "bamboohr:nomadgcs:506"
-  },
-  {
-   "closed_at": 1793236013,
-   "company": "twitch",
-   "hours_open": 1328.2,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1793236013,
-   "company": "reddit",
-   "hours_open": 289.3,
-   "title": "Machine Learning Engineer",
-   "uid": "greenhouse:reddit:7131932"
-  },
-  {
-   "closed_at": 1793236013,
-   "company": "rocketlab",
-   "hours_open": 892.8,
-   "title": "Spacecraft Propulsion Components Engineer I",
-   "uid": "greenhouse:rocketlab:8001348003"
-  },
-  {
-   "closed_at": 1793236013,
-   "company": "rocketlab",
-   "hours_open": 1132.4,
-   "title": "Spacecraft Propulsion Systems Engineer I",
-   "uid": "greenhouse:rocketlab:7993156003"
-  },
-  {
-   "closed_at": 1793236013,
-   "company": "spacex",
-   "hours_open": 1328.2,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1793236013,
-   "company": "spacex",
-   "hours_open": 1328.2,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1793236013,
-   "company": "spacex",
-   "hours_open": 1326.5,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
    "closed_at": 1793239145,
    "company": "Amazon",
    "hours_open": 316.4,
@@ -5599,8 +5396,211 @@
    "hours_open": 66.8,
    "title": "Entry-Level Water Resources Engineer",
    "uid": "smartrecruiters:AECOM2:744000158822899"
+  },
+  {
+   "closed_at": 1793658661,
+   "company": "bwaltpostings",
+   "hours_open": 1443.9,
+   "title": "Research Associate, Commodities Data Engineer ",
+   "uid": "greenhouse:bwaltpostings:8632074002"
+  },
+  {
+   "closed_at": 1793658661,
+   "company": "bridgewater89",
+   "hours_open": 1443.9,
+   "title": "Research Associate, Commodities Data Engineer ",
+   "uid": "greenhouse:bridgewater89:8632073002"
+  },
+  {
+   "closed_at": 1793658661,
+   "company": "geotab",
+   "hours_open": 122.9,
+   "title": "Business Development Associate",
+   "uid": "greenhouse:geotab:5436626008"
+  },
+  {
+   "closed_at": 1793658661,
+   "company": "perpay",
+   "hours_open": 647.5,
+   "title": "Super Day - Software Engineer, New Grad",
+   "uid": "greenhouse:perpay:5252881007"
+  },
+  {
+   "closed_at": 1793658661,
+   "company": "ServiceNow",
+   "hours_open": 136.6,
+   "title": "Advisory Solution Consultant - CRM & Industry Workflows",
+   "uid": "smartrecruiters:ServiceNow:744000158207329"
+  },
+  {
+   "closed_at": 1793658661,
+   "company": "Sia",
+   "hours_open": 136.6,
+   "title": "Junior engineer",
+   "uid": "smartrecruiters:Sia:744000157784024"
+  },
+  {
+   "closed_at": 1793658661,
+   "company": "JMJ Network Ltd",
+   "hours_open": 317.6,
+   "title": "Web developer",
+   "uid": "jobbank:developpeur junior:50542747"
+  },
+  {
+   "closed_at": 1793658661,
+   "company": "Quantum World Technologies Inc.",
+   "hours_open": 337.0,
+   "title": "Web developer",
+   "uid": "jobbank:developpeur junior:50535683"
+  },
+  {
+   "closed_at": 1793658661,
+   "company": "Groupe DCM",
+   "hours_open": 1097.6,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534679"
+  },
+  {
+   "closed_at": 1793658661,
+   "company": "faire",
+   "hours_open": 1445.6,
+   "title": "Product Engineer - Brand - Fullstack, Backend or Frontend",
+   "uid": "greenhouse:faire:8654106002"
+  },
+  {
+   "closed_at": 1793658661,
+   "company": "magnetforensics",
+   "hours_open": 267.6,
+   "title": "Software Development Engineer in Test",
+   "uid": "lever:magnetforensics:7cfeada6-21d6-44e6-be7d-81afbee2b502"
+  },
+  {
+   "closed_at": 1793658661,
+   "company": "SOCOTEC",
+   "hours_open": 91.6,
+   "title": "CFD ENGINEER Intern",
+   "uid": "smartrecruiters:Socotec:744000158446139"
+  },
+  {
+   "closed_at": 1793658661,
+   "company": "Renesas Electronics",
+   "hours_open": 136.6,
+   "title": "Graduate/Junior Technical Sales Engineer (f/m/d)",
+   "uid": "smartrecruiters:RenesasElectronics:744000158082531"
+  },
+  {
+   "closed_at": 1793658661,
+   "company": "Renesas Electronics",
+   "hours_open": 136.6,
+   "title": "Sales Engineering Intern",
+   "uid": "smartrecruiters:RenesasElectronics:744000158028669"
+  },
+  {
+   "closed_at": 1793658661,
+   "company": "Collier Aerospace",
+   "hours_open": 287.7,
+   "title": "Software Engineer – Entry Level",
+   "uid": "simplify:listings:7ed5a47d-9d52-4ec3-8b73-90c5f6a726ed"
+  },
+  {
+   "closed_at": 1793658661,
+   "company": "Amazon",
+   "hours_open": 148.3,
+   "title": "Software Development Engineer, Amazon Customer Service",
+   "uid": "amazon:amazon:10590246"
+  },
+  {
+   "closed_at": 1793658661,
+   "company": "Amazon",
+   "hours_open": 122.0,
+   "title": "Software Development Engineer, OneMHS",
+   "uid": "amazon:amazon:10591736"
+  },
+  {
+   "closed_at": 1793658661,
+   "company": "Amazon",
+   "hours_open": 289.8,
+   "title": "Software Development Engineer, AWS",
+   "uid": "amazon:amazon:10585658"
+  },
+  {
+   "closed_at": 1793658661,
+   "company": "Amazon",
+   "hours_open": 313.6,
+   "title": "Software Development Engineer, AWS Central SDE Team",
+   "uid": "amazon:amazon:10584630"
+  },
+  {
+   "closed_at": 1793658661,
+   "company": "Amazon",
+   "hours_open": 173.6,
+   "title": "Software Development Engineer, AWS CloudWatch, AWS Observability Analytics",
+   "uid": "amazon:amazon:10588672"
+  },
+  {
+   "closed_at": 1793658661,
+   "company": "reddit",
+   "hours_open": 1078.6,
+   "title": "Software Engineer, Ingestion Platform",
+   "uid": "greenhouse:reddit:8214910"
+  },
+  {
+   "closed_at": 1793658661,
+   "company": "alarmcom",
+   "hours_open": 1464.5,
+   "title": "Embedded Software Engineer I ",
+   "uid": "greenhouse:alarmcom:8622530002"
+  },
+  {
+   "closed_at": 1793658661,
+   "company": "deepgram",
+   "hours_open": 1445.6,
+   "title": "Research Engineer, Machine Learning Systems",
+   "uid": "ashby:deepgram:9a030b32-d671-43e0-a221-4653bb73ba29"
+  },
+  {
+   "closed_at": 1793658661,
+   "company": "reddit",
+   "hours_open": 435.6,
+   "title": "Machine Learning Engineer",
+   "uid": "greenhouse:reddit:7131934"
+  },
+  {
+   "closed_at": 1793658661,
+   "company": "General Dynamics Missions System International",
+   "hours_open": 565.8,
+   "title": "Technical Infrastructure Analyst, Junior",
+   "uid": "smartrecruiters:GDMSI:744000154785499"
+  },
+  {
+   "closed_at": 1793658661,
+   "company": "andurilindustries",
+   "hours_open": 916.9,
+   "title": "Integration & Test Engineer (Electrical Systems), Omen",
+   "uid": "greenhouse:andurilindustries:5248446007"
+  },
+  {
+   "closed_at": 1793658661,
+   "company": "muonspace",
+   "hours_open": 1175.1,
+   "title": "Software Engineer, Computer Vision / Machine Learning",
+   "uid": "greenhouse:muonspace:5238256007"
+  },
+  {
+   "closed_at": 1793658661,
+   "company": "andurilindustries",
+   "hours_open": 1277.1,
+   "title": "Flight Test Engineer - Imaging",
+   "uid": "greenhouse:andurilindustries:5234118007"
+  },
+  {
+   "closed_at": 1793658661,
+   "company": "Amazon",
+   "hours_open": 293.2,
+   "title": "Software Development Engineer, Leo Space Security",
+   "uid": "amazon:amazon:10585267"
   }
  ],
- "count": 807,
- "updated_at": 1793648951
+ "count": 829,
+ "updated_at": 1793658662
 }
