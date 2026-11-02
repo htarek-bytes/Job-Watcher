@@ -1,5 +1,5 @@
 {
- "count": 10392,
+ "count": 10401,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -449,6 +449,7 @@
   "amazon:amazon:10594100": 1793577372,
   "amazon:amazon:10594421": 1793640387,
   "amazon:amazon:10594481": 1793640387,
+  "amazon:amazon:10594618": 1793645026,
   "ashby:1password:00f861d4-2b4a-4159-b6dc-8aed0cde6e39": 1792768274,
   "ashby:1password:443f9ef6-13a7-4edb-ace5-16be7e630041": 1792515454,
   "ashby:1password:49f0fe51-fcdc-46d8-a046-35f357b0cf6e": 1792100265,
@@ -2263,6 +2264,7 @@
   "greenhouse:andurilindustries:5280959007": 1793404754,
   "greenhouse:andurilindustries:5281154007": 1793469232,
   "greenhouse:andurilindustries:5281225007": 1793581119,
+  "greenhouse:andurilindustries:5281720007": 1793645026,
   "greenhouse:anthropic:4982193008": 1788460756,
   "greenhouse:anthropic:5290838008": 1788750148,
   "greenhouse:appdirect:8635759002": 1788454653,
@@ -5728,6 +5730,7 @@
   "jobbank:telecommunications analyst:50612141": 1793315773,
   "jobbank:telecommunications analyst:50617128": 1793391064,
   "jobbank:telecommunications analyst:50635323": 1793640387,
+  "jobbank:telecommunications analyst:50636758": 1793645026,
   "jobillico:administrateur systeme:17185045": 1793429802,
   "jobillico:administrateur systeme:17447382": 1793212139,
   "jobillico:administrateur systeme:17456997": 1788887337,
@@ -5820,6 +5823,7 @@
   "lever:agile-defense:9328b001-f353-4b63-8384-8a5f5e36aa57": 1789760824,
   "lever:agile-defense:94b561b1-0363-4146-b063-b1d49e2b8978": 1792715709,
   "lever:agile-defense:9b9c06b5-d902-4d0c-b520-fad21af395e6": 1788887337,
+  "lever:agile-defense:a65bd26e-7b3e-4a95-b57d-5d722ced8176": 1793645026,
   "lever:agile-defense:b86ead18-1ef0-4847-a59a-b7e951d4de94": 1788887337,
   "lever:agile-defense:bc0a731b-0944-400e-ac3c-662ae8308693": 1792715709,
   "lever:agile-defense:ce477d8b-7fd1-4790-bada-4365aaad91bf": 1788454653,
@@ -5893,6 +5897,11 @@
   "lever:economicmodeling:937c703c-975e-441e-8a50-c453138edf16": 1791867960,
   "lever:economicmodeling:bbd08018-de36-4c25-b259-8e4cc6c91ecc": 1791482043,
   "lever:economicmodeling:c4986d73-6b7a-4e9c-b404-fa03407480a9": 1791482043,
+  "lever:elementsolutions:0bba7c94-7470-40fc-91ec-d208b7626e9b": 1793645026,
+  "lever:elementsolutions:1cab7f4e-6ddc-4b71-aeb1-cf59c8b35ffc": 1793645026,
+  "lever:elementsolutions:71c360be-2853-4bf8-bf07-c41cdf2e91a9": 1793645026,
+  "lever:elementsolutions:88f248fb-459a-4d4e-8f6a-80e1671bf86e": 1793645026,
+  "lever:elementsolutions:f47d6eda-dd98-44a2-b9fc-8cdcecfc9182": 1793645026,
   "lever:eqbank:1c46930a-7ffe-4760-9d31-e08ea191ddea": 1790329998,
   "lever:eqbank:54045eae-334a-4486-8e97-96e49e6a1487": 1790329998,
   "lever:eqbank:a20b80c5-53c4-4c34-b8de-c6d9208994a6": 1792143710,
@@ -10394,5 +10403,5 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148,
   "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541": 1789106107
  },
- "updated_at": 1793640388
+ "updated_at": 1793645027
 }
