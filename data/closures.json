@@ -1,83 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1793222702,
-   "company": "CBHM International LTD.",
-   "hours_open": 328.9,
-   "title": "Web application developer",
-   "uid": "jobbank:developpeur junior:50500150"
-  },
-  {
-   "closed_at": 1793222702,
-   "company": "KLA",
-   "hours_open": 213.8,
-   "title": "Software Engineer 1",
-   "uid": "simplify:listings:0aa1aad3-c8e3-4cd8-975d-9e1028f0fed2"
-  },
-  {
-   "closed_at": 1793222702,
-   "company": "twitch",
-   "hours_open": 1324.5,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1793222702,
-   "company": "blissway",
-   "hours_open": 1352.5,
-   "title": "Embedded Systems Engineer, Recent Graduate",
-   "uid": "ashby:blissway:51d6d839-9801-4436-bfc2-918bae428ed8"
-  },
-  {
-   "closed_at": 1793222702,
-   "company": "1x",
-   "hours_open": 584.6,
-   "title": "Mechanical Design Engineer - Hands Structures & Integration",
-   "uid": "ashby:1x:0eb854f8-97f7-43a0-8818-f138178586f8"
-  },
-  {
-   "closed_at": 1793222702,
-   "company": "applied",
-   "hours_open": 1242.4,
-   "title": "Solution Engineer - Vehicle OS",
-   "uid": "ashby:applied:d2d783c1-ec46-446f-92fa-88f7460e9be8"
-  },
-  {
-   "closed_at": 1793222702,
-   "company": "AttoTude",
-   "hours_open": 1308.4,
-   "title": "Test Engineer Recent Graduate - Test Technician",
-   "uid": "simplify:listings:6323f819-c45a-46ce-bb2a-3111e0cec20d"
-  },
-  {
-   "closed_at": 1793227723,
-   "company": "tenstorrent",
-   "hours_open": 24.5,
-   "title": "Forward Deployed Engineer",
-   "uid": "greenhouse:tenstorrent:5275977007"
-  },
-  {
-   "closed_at": 1793227723,
-   "company": "Groupe DCM",
-   "hours_open": 971.7,
-   "title": "Programmeur CNC / CNC Programmer",
-   "uid": "jobillico:programmeur junior:17534670"
-  },
-  {
-   "closed_at": 1793227723,
-   "company": "CGI",
-   "hours_open": 1205.7,
-   "title": "Conseiller(ère) en audit de cybersécurité",
-   "uid": "jobillico:analyste cybersecurite:17433750"
-  },
-  {
-   "closed_at": 1793227723,
-   "company": "havocai",
-   "hours_open": 144.3,
-   "title": "Rapid Prototyping Engineer – Drones & Unmanned Systems",
-   "uid": "ashby:havocai:e51defa3-e41b-4f6c-bfe3-4d89e694004f"
-  },
-  {
    "closed_at": 1793227723,
    "company": "andurilindustries",
    "hours_open": 700.5,
@@ -5599,8 +5522,85 @@
    "hours_open": 1478.4,
    "title": "Conversion Software Engineer 1",
    "uid": "simplify:listings:840954cd-3ba5-456f-a6cf-c4788e41762e"
+  },
+  {
+   "closed_at": 1793648418,
+   "company": "Groupe DCM",
+   "hours_open": 1094.7,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534679"
+  },
+  {
+   "closed_at": 1793648418,
+   "company": "CGI",
+   "hours_open": 1322.5,
+   "title": "Conseiller(ère) en architecture de cybersécurité",
+   "uid": "jobillico:analyste cybersecurite:17433753"
+  },
+  {
+   "closed_at": 1793648418,
+   "company": "magnetforensics",
+   "hours_open": 1442.7,
+   "title": "Software Engineer - Magnet One (front-end, back-end, or full-stack opportunities)",
+   "uid": "lever:magnetforensics:39181882-5eae-41c6-b494-c3d6791c978b"
+  },
+  {
+   "closed_at": 1793648418,
+   "company": "Rocket Lab Corporation",
+   "hours_open": 332.1,
+   "title": "Flight Software Engineer 1",
+   "uid": "simplify:listings:d5e199ee-a5b8-4298-b019-04b8f10ca4c3"
+  },
+  {
+   "closed_at": 1793648418,
+   "company": "Amazon",
+   "hours_open": 0.9,
+   "title": "Software Development Engineer, Alexa Sensitive Content Intelligence (ASCI)",
+   "uid": "amazon:amazon:10594618"
+  },
+  {
+   "closed_at": 1793648418,
+   "company": "Amazon",
+   "hours_open": 170.1,
+   "title": "Software Development Engineer , Amazon Foundational Security Services (AFSS)",
+   "uid": "amazon:amazon:10588757"
+  },
+  {
+   "closed_at": 1793648418,
+   "company": "vercel",
+   "hours_open": 1322.5,
+   "title": "Software Engineering Intern - Winter '27",
+   "uid": "greenhouse:vercel:6181755004"
+  },
+  {
+   "closed_at": 1793648418,
+   "company": "andurilindustries",
+   "hours_open": 1441.0,
+   "title": "Product Sourcing Engineer",
+   "uid": "greenhouse:andurilindustries:5224081007"
+  },
+  {
+   "closed_at": 1793648418,
+   "company": "Altice USA",
+   "hours_open": 1479.3,
+   "title": "Software Development Engineer 1",
+   "uid": "simplify:listings:ed1c1803-cea0-4778-8d48-8ba69bc0716a"
+  },
+  {
+   "closed_at": 1793648418,
+   "company": "darkwolfsolutions",
+   "hours_open": 601.8,
+   "title": "Platform Engineer",
+   "uid": "greenhouse:darkwolfsolutions:8017009003"
+  },
+  {
+   "closed_at": 1793648418,
+   "company": "darkwolfsolutions",
+   "hours_open": 1442.7,
+   "title": "Full Stack Developer",
+   "uid": "greenhouse:darkwolfsolutions:7775344003"
   }
  ],
- "count": 815,
- "updated_at": 1793645027
+ "count": 811,
+ "updated_at": 1793648418
 }
