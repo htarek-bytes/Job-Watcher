@@ -3,20 +3,6 @@
   {
    "closed_at": 1793212139,
    "company": "spacex",
-   "hours_open": 1321.5,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1793212139,
-   "company": "spacex",
-   "hours_open": 1321.5,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1793212139,
-   "company": "spacex",
    "hours_open": 1319.8,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569125002"
@@ -5599,8 +5585,22 @@
    "hours_open": 1424.4,
    "title": "Design Engineer",
    "uid": "ashby:idler:199e6e98-c12f-494f-8cd1-eba950d45860"
+  },
+  {
+   "closed_at": 1793611222,
+   "company": "morse-micro",
+   "hours_open": 578.5,
+   "title": "Quality Assurance Engineer ",
+   "uid": "ashby:morse-micro:2cbad3e0-f774-4a06-aac1-894086a0e670"
+  },
+  {
+   "closed_at": 1793611222,
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
+   "hours_open": 311.1,
+   "title": "Administrateur Réseau TI",
+   "uid": "jobillico:analyste reseau:17628663"
   }
  ],
- "count": 804,
- "updated_at": 1793608146
+ "count": 802,
+ "updated_at": 1793611222
 }
