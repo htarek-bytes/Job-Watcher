@@ -1,55 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1793206393,
-   "company": "purestorage",
-   "hours_open": 1191.3,
-   "title": "Consulting Pre-Sales Systems Engineer, Service Provider",
-   "uid": "greenhouse:purestorage:8123071"
-  },
-  {
-   "closed_at": 1793206393,
-   "company": "reddit",
-   "hours_open": 309.9,
-   "title": "Machine Learning Engineer",
-   "uid": "greenhouse:reddit:7131934"
-  },
-  {
-   "closed_at": 1793206393,
-   "company": "systemstechnologyresearch",
-   "hours_open": 193.7,
-   "title": "Software Developer",
-   "uid": "greenhouse:systemstechnologyresearch:4723311006"
-  },
-  {
-   "closed_at": 1793206393,
-   "company": "spacekinetic",
-   "hours_open": 1312.9,
-   "title": "Materials & Process (M&P) Engineer",
-   "uid": "greenhouse:spacekinetic:5381054008"
-  },
-  {
-   "closed_at": 1793206393,
-   "company": "spacex",
-   "hours_open": 1319.9,
-   "title": "Automation & Controls Engineer, Solar Cell Factory (Starlink)",
-   "uid": "greenhouse:spacex:8545793002"
-  },
-  {
-   "closed_at": 1793206393,
-   "company": "accenturefederalservices",
-   "hours_open": 716.6,
-   "title": "CNO Developer ",
-   "uid": "greenhouse:accenturefederalservices:4673494006"
-  },
-  {
-   "closed_at": 1793212139,
-   "company": "Agile Defense",
-   "hours_open": 19.3,
-   "title": "Software Engineer 1",
-   "uid": "simplify:listings:84ee1b8e-a18b-47c7-a497-5a7e53a2ea04"
-  },
-  {
    "closed_at": 1793212139,
    "company": "ngc",
    "hours_open": 21.8,
@@ -5599,8 +5550,57 @@
    "hours_open": 912.2,
    "title": "Software Engineer- Machine Learning",
    "uid": "greenhouse:andurilindustries:5248869007"
+  },
+  {
+   "closed_at": 1793584439,
+   "company": "Groupe DCM",
+   "hours_open": 1077.0,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534679"
+  },
+  {
+   "closed_at": 1793584439,
+   "company": "Icentia inc.",
+   "hours_open": 462.3,
+   "title": "Technicien TI, Cybersécurité et Agents IA",
+   "uid": "jobillico:analyste cybersecurite:17592852"
+  },
+  {
+   "closed_at": 1793584439,
+   "company": "micron",
+   "hours_open": 103.4,
+   "title": "New College Grad - NAND & SSD Applications Engineer",
+   "uid": "workday:micron.wd1/External:New-College-Grad---NAND---SSD-Applications-Engineer_JR115037"
+  },
+  {
+   "closed_at": 1793584439,
+   "company": "mmc",
+   "hours_open": 720.5,
+   "title": "Junior Full-Stack Engineer, Generative AI @ Marsh Tech",
+   "uid": "workday:mmc.wd1/mmc:Junior-Full-Stack-Engineer--Generative-AI---Marsh-Tech_R_367686"
+  },
+  {
+   "closed_at": 1793584439,
+   "company": "ivytech",
+   "hours_open": 366.4,
+   "title": "Information Security Associate Engineer",
+   "uid": "workday:ivytech.wd1/ivy_tech_careers:Information-Security-Associate-Engineer_JR0000109918"
+  },
+  {
+   "closed_at": 1793584439,
+   "company": "itron",
+   "hours_open": 38.8,
+   "title": "Intern - Systems Engineer (Spring 2027)",
+   "uid": "workday:itron.wd5/Early_Careers:Intern---Systems-Engineer--Spring-2027-_JR102789-1"
+  },
+  {
+   "closed_at": 1793584439,
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
+   "hours_open": 303.7,
+   "title": "Administrateur Réseau TI",
+   "uid": "jobillico:analyste reseau:17628663"
   }
  ],
- "count": 806,
- "updated_at": 1793581120
+ "count": 807,
+ "updated_at": 1793584439
 }
