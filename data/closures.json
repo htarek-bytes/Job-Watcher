@@ -2,41 +2,6 @@
  "closed": [
   {
    "closed_at": 1793212139,
-   "company": "Amazon",
-   "hours_open": 312.1,
-   "title": "Software Development Engineer, AlfBus Journal",
-   "uid": "amazon:amazon:10580330"
-  },
-  {
-   "closed_at": 1793212139,
-   "company": "trulioo",
-   "hours_open": 1321.5,
-   "title": "DevOps Engineer",
-   "uid": "ashby:trulioo:ebebd57b-02a7-4816-a40c-fc4a2c014b24"
-  },
-  {
-   "closed_at": 1793212139,
-   "company": "purestorage",
-   "hours_open": 1192.9,
-   "title": "Software Engineer",
-   "uid": "greenhouse:purestorage:8065306"
-  },
-  {
-   "closed_at": 1793212139,
-   "company": "attotude",
-   "hours_open": 1302.2,
-   "title": "Recent Grad - Test Engineer/Test Technician",
-   "uid": "greenhouse:attotude:4231728009"
-  },
-  {
-   "closed_at": 1793212139,
-   "company": "authenticinsurance",
-   "hours_open": 852.5,
-   "title": "Software Engineer - Data",
-   "uid": "greenhouse:authenticinsurance:4114316009"
-  },
-  {
-   "closed_at": 1793212139,
    "company": "nvidia",
    "hours_open": 713.5,
    "title": "ASIC Design Engineer - New College Grad 2027",
@@ -5599,8 +5564,43 @@
    "hours_open": 3.2,
    "title": "network administrator",
    "uid": "jobbank:network administrator:50632399"
+  },
+  {
+   "closed_at": 1793604941,
+   "company": "elevenlabs",
+   "hours_open": 576.9,
+   "title": "Infrastructure Engineer",
+   "uid": "ashby:elevenlabs:31a6f0f4-8e1d-4d77-9d00-026ed12213f2"
+  },
+  {
+   "closed_at": 1793604941,
+   "company": "Icentia inc.",
+   "hours_open": 468.0,
+   "title": "Technicien TI, Cybersécurité et Agents IA",
+   "uid": "jobillico:analyste cybersecurite:17592852"
+  },
+  {
+   "closed_at": 1793604941,
+   "company": "Horizon Canada Inc",
+   "hours_open": 615.2,
+   "title": "telecommunications technician",
+   "uid": "jobbank:telecommunications analyst:50237368"
+  },
+  {
+   "closed_at": 1793604941,
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
+   "hours_open": 309.4,
+   "title": "Administrateur Réseau TI",
+   "uid": "jobillico:analyste reseau:17628663"
+  },
+  {
+   "closed_at": 1793604941,
+   "company": "L3Harris Technologies",
+   "hours_open": 1232.8,
+   "title": "Software Engineer New Grad",
+   "uid": "simplify:listings:804573fd-c370-4285-9bfb-f4b380ef3924"
   }
  ],
- "count": 807,
- "updated_at": 1793597455
+ "count": 805,
+ "updated_at": 1793604942
 }
