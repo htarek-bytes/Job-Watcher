@@ -2,118 +2,6 @@
  "closed": [
   {
    "closed_at": 1793216293,
-   "company": "geotab",
-   "hours_open": 50.1,
-   "title": "Business Development Associate",
-   "uid": "greenhouse:geotab:5436628008"
-  },
-  {
-   "closed_at": 1793216293,
-   "company": "snc",
-   "hours_open": 22.7,
-   "title": "Project Engineer Intern (For SNC Summer 2026 Intern Only)",
-   "uid": "workday:snc.wd1/snc_external_career_site:Project-Engineer-Intern--For-SNC-Summer-2026-Intern-Only-_R0031064"
-  },
-  {
-   "closed_at": 1793216293,
-   "company": "snc",
-   "hours_open": 22.7,
-   "title": "Cybersecurity Analyst Intern",
-   "uid": "workday:snc.wd1/snc_external_career_site:Cybersecurity-Analyst-Intern_R0031269"
-  },
-  {
-   "closed_at": 1793216293,
-   "company": "roche",
-   "hours_open": 22.7,
-   "title": "Internship - Software and Data Engineer (for 12 months in Rotkreuz)",
-   "uid": "workday:roche.wd3/roche-ext:Internship---Software-and-Data-Engineer--for-12-months-in-Rotkreuz-_202610-127501"
-  },
-  {
-   "closed_at": 1793216293,
-   "company": "semtech",
-   "hours_open": 22.7,
-   "title": "Associate Engineer, Physical Design",
-   "uid": "workday:semtech.wd1/SemtechCareers:Associate-Engineer--Physical-Design_REQ3675"
-  },
-  {
-   "closed_at": 1793216293,
-   "company": "Fed Manutech",
-   "hours_open": 1.2,
-   "title": "Ingénieur systèmes électriques / Electrical System Engineer",
-   "uid": "jobillico:administrateur systeme:17447382"
-  },
-  {
-   "closed_at": 1793216293,
-   "company": "Confédération des syndicats nationaux",
-   "hours_open": 134.0,
-   "title": "Administratrice ou administrateur réseau",
-   "uid": "jobillico:analyste reseau:17619549"
-  },
-  {
-   "closed_at": 1793216293,
-   "company": "rockwellautomation",
-   "hours_open": 881.8,
-   "title": "Intern, Technical Sales & Consulting (USA)",
-   "uid": "workday:rockwellautomation.wd1/External_Rockwell_Automation:Intern--Technical-Sales---Consulting--USA-_R26-5962-2"
-  },
-  {
-   "closed_at": 1793216293,
-   "company": "rockwellautomation",
-   "hours_open": 129.1,
-   "title": "Intern, Hardware Development Engineer (May - Aug 2027)",
-   "uid": "workday:rockwellautomation.wd1/External_Rockwell_Automation:Intern--Hardware-Development-Engineer--May---Aug-2027-_R26-6892-1"
-  },
-  {
-   "closed_at": 1793216293,
-   "company": "psu",
-   "hours_open": 305.2,
-   "title": "R&D Engineer Intern",
-   "uid": "workday:psu.wd1/PSU_Staff:R-D-Engineer-Intern_REQ_0000083331"
-  },
-  {
-   "closed_at": 1793216293,
-   "company": "rockwellautomation",
-   "hours_open": 286.7,
-   "title": "Co-op, Hardware Development Engineer (June - Dec 2027)",
-   "uid": "workday:rockwellautomation.wd1/External_Rockwell_Automation:Co-op--Hardware-Development-Engineer--June---Dec-2027-_R26-6891-1"
-  },
-  {
-   "closed_at": 1793216293,
-   "company": "rockwellautomation",
-   "hours_open": 286.7,
-   "title": "Co-op, Hardware Development Engineer (Jan - July 2027)",
-   "uid": "workday:rockwellautomation.wd1/External_Rockwell_Automation:Co-op--Hardware-Development-Engineer--Jan---July-2027-_R26-6638-1"
-  },
-  {
-   "closed_at": 1793216293,
-   "company": "snc",
-   "hours_open": 42.6,
-   "title": "Systems Engineer Intern - Summer 2027 (For SNC Summer 2026 Interns Only)",
-   "uid": "workday:snc.wd1/snc_external_career_site:Mechanical-Engineer-Intern---Summer-2027_R0031084"
-  },
-  {
-   "closed_at": 1793216293,
-   "company": "twitch",
-   "hours_open": 1322.7,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1793216293,
-   "company": "reddit",
-   "hours_open": 283.9,
-   "title": "Machine Learning Engineer",
-   "uid": "greenhouse:reddit:7131932"
-  },
-  {
-   "closed_at": 1793216293,
-   "company": "rockwellautomation",
-   "hours_open": 785.6,
-   "title": "Intern, AI Software Engineering (June-August 2027)",
-   "uid": "workday:rockwellautomation.wd1/External_Rockwell_Automation:Intern--AI-Software-Engineering--June-August-2027-_R26-6980-1"
-  },
-  {
-   "closed_at": 1793216293,
    "company": "rockwellautomation",
    "hours_open": 785.6,
    "title": "Co-op, AI Software Engineering (6-8 months)",
@@ -5599,8 +5487,120 @@
    "hours_open": 1432.7,
    "title": "Software Development Engineer, Security Platform",
    "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1793627305,
+   "company": "1password",
+   "hours_open": 238.6,
+   "title": "Developer Intern, Developer Interfaces - Winter 2027",
+   "uid": "ashby:1password:00f861d4-2b4a-4159-b6dc-8aed0cde6e39"
+  },
+  {
+   "closed_at": 1793627305,
+   "company": "1password",
+   "hours_open": 238.6,
+   "title": "Developer Intern, Credential Brokering - Winter 2027",
+   "uid": "ashby:1password:67bfbd8b-aba9-42b1-a8a8-833367888fba"
+  },
+  {
+   "closed_at": 1793627305,
+   "company": "1password",
+   "hours_open": 258.9,
+   "title": "Developer Intern, Extension Excellence - Winter 2027",
+   "uid": "ashby:1password:7f1732a6-5317-4319-82b9-67c62e88d491"
+  },
+  {
+   "closed_at": 1793627305,
+   "company": "1password",
+   "hours_open": 261.7,
+   "title": "Developer Intern, Provisioning - Winter 2027",
+   "uid": "ashby:1password:c5289ef1-e919-4672-85c5-ee3112f9ddb9"
+  },
+  {
+   "closed_at": 1793627305,
+   "company": "1password",
+   "hours_open": 261.7,
+   "title": "Developer Intern, Vault Team - Winter 2027",
+   "uid": "ashby:1password:b2726ac7-dd0d-42f3-93a5-139e18c90779"
+  },
+  {
+   "closed_at": 1793627305,
+   "company": "1password",
+   "hours_open": 261.7,
+   "title": "Developer Intern, Machine Identity - Winter 2027",
+   "uid": "ashby:1password:6a6869a7-98d2-43e3-b9b5-b68fa4daeb9f"
+  },
+  {
+   "closed_at": 1793627305,
+   "company": "1password",
+   "hours_open": 261.7,
+   "title": "Developer Intern, Data Security - Winter 2027",
+   "uid": "ashby:1password:8af1359a-c8a2-492b-b567-ae8ae184a8a1"
+  },
+  {
+   "closed_at": 1793627305,
+   "company": "1password",
+   "hours_open": 261.7,
+   "title": "Developer Intern, Front-End Platform - Winter 2027",
+   "uid": "ashby:1password:71a3afd1-12b3-4f55-a3bd-fc4e7c46ee37"
+  },
+  {
+   "closed_at": 1793627305,
+   "company": "Groupe DCM",
+   "hours_open": 1082.7,
+   "title": "Programmeur CNC / CNC Programmer",
+   "uid": "jobillico:programmeur junior:17534670"
+  },
+  {
+   "closed_at": 1793627305,
+   "company": "CGI",
+   "hours_open": 1316.7,
+   "title": "Conseiller(ère) en architecture de cybersécurité",
+   "uid": "jobillico:analyste cybersecurite:17433753"
+  },
+  {
+   "closed_at": 1793627305,
+   "company": "Icentia inc.",
+   "hours_open": 474.2,
+   "title": "Technicien TI, Cybersécurité et Agents IA",
+   "uid": "jobillico:analyste cybersecurite:17592852"
+  },
+  {
+   "closed_at": 1793627305,
+   "company": "beyondtrust",
+   "hours_open": 223.2,
+   "title": "Solutions Engineer, Privileged Access Management",
+   "uid": "greenhouse:beyondtrust:8176754"
+  },
+  {
+   "closed_at": 1793627305,
+   "company": "Amazon",
+   "hours_open": 86.8,
+   "title": "Software Development Engineer, AWS EC2 Nitro Team",
+   "uid": "amazon:amazon:10591625"
+  },
+  {
+   "closed_at": 1793627305,
+   "company": "twitch",
+   "hours_open": 1433.9,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1793627305,
+   "company": "Maarut",
+   "hours_open": 56.4,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50620248"
+  },
+  {
+   "closed_at": 1793627305,
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
+   "hours_open": 315.6,
+   "title": "Administrateur Réseau TI",
+   "uid": "jobillico:analyste reseau:17628663"
   }
  ],
- "count": 802,
- "updated_at": 1793612550
+ "count": 816,
+ "updated_at": 1793627305
 }
