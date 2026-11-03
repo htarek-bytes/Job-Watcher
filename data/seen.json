@@ -1,5 +1,5 @@
 {
- "count": 10548,
+ "count": 10553,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -442,6 +442,7 @@
   "amazon:amazon:10592922": 1793305411,
   "amazon:amazon:10592923": 1793305411,
   "amazon:amazon:10592978": 1793308191,
+  "amazon:amazon:10593247": 1793743559,
   "amazon:amazon:10593526": 1793375124,
   "amazon:amazon:10593684": 1793387896,
   "amazon:amazon:10593778": 1793429802,
@@ -464,6 +465,7 @@
   "amazon:amazon:10595843": 1793738380,
   "amazon:amazon:10595865": 1793738380,
   "amazon:amazon:10595931": 1793741813,
+  "amazon:amazon:10595981": 1793743559,
   "ashby:1password:00f861d4-2b4a-4159-b6dc-8aed0cde6e39": 1792768274,
   "ashby:1password:443f9ef6-13a7-4edb-ace5-16be7e630041": 1792515454,
   "ashby:1password:49f0fe51-fcdc-46d8-a046-35f357b0cf6e": 1792100265,
@@ -3274,6 +3276,7 @@
   "greenhouse:lyft:8896679002": 1792213486,
   "greenhouse:lyft:8901107002": 1792578880,
   "greenhouse:lyft:8923592002": 1793290209,
+  "greenhouse:lyft:8927268002": 1793743559,
   "greenhouse:machindustries:4381326009": 1791327897,
   "greenhouse:machindustries:4381332009": 1791327897,
   "greenhouse:machindustries:4385342009": 1791402364,
@@ -5233,6 +5236,7 @@
   "jobbank:entry level software developer:50598291": 1793257258,
   "jobbank:entry level software developer:50621540": 1793534254,
   "jobbank:information security analyst:50592837": 1793117178,
+  "jobbank:information security analyst:50651032": 1793743559,
   "jobbank:information systems analyst:49969689": 1788887337,
   "jobbank:information systems analyst:50112346": 1788887337,
   "jobbank:information systems analyst:50163724": 1788887337,
@@ -6263,6 +6267,7 @@
   "lever:shieldai:ca142049-83c4-40bf-9522-3e323d4c3672": 1788465250,
   "lever:shieldai:cf148e69-2ca0-4bfd-a4cc-af214bfcce8a": 1788465250,
   "lever:shieldai:d0635c93-bb07-4585-80d3-c53aaa2fdf6d": 1789187378,
+  "lever:shieldai:d420a314-2822-4b17-97e7-6c387f25f047": 1793743559,
   "lever:shieldai:d4f68b62-871c-4c83-9c28-85591147907f": 1792611499,
   "lever:shieldai:d80f9bad-a014-475a-a018-a676eb6fbad7": 1793154167,
   "lever:shieldai:d9247928-ed05-4e9f-8d7f-d3bd8fa2f54c": 1788887337,
@@ -10550,5 +10555,5 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148,
   "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541": 1789106107
  },
- "updated_at": 1793741814
+ "updated_at": 1793743559
 }

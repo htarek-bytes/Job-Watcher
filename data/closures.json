@@ -2,20 +2,6 @@
  "closed": [
   {
    "closed_at": 1793322050,
-   "company": "General Motors",
-   "hours_open": 865.8,
-   "title": "Software Engineer AV HIL Platform and Services – University Grad",
-   "uid": "simplify:listings:0a4def13-9b3a-4f3a-b3c9-5a90b20c870b"
-  },
-  {
-   "closed_at": 1793322050,
-   "company": "zone5technologies",
-   "hours_open": 327.3,
-   "title": "Production Support Specialist",
-   "uid": "greenhouse:zone5technologies:5451735008"
-  },
-  {
-   "closed_at": 1793322050,
    "company": "field-ai",
    "hours_open": 672.2,
    "title": "Robotics Test Engineer (Federal)",
@@ -5599,8 +5585,22 @@
    "hours_open": 1456.7,
    "title": "Software Engineer",
    "uid": "greenhouse:twosixtechnologies:6127635004"
+  },
+  {
+   "closed_at": 1793743559,
+   "company": "reddit",
+   "hours_open": 430.3,
+   "title": "Machine Learning Engineer",
+   "uid": "greenhouse:reddit:7131932"
+  },
+  {
+   "closed_at": 1793743559,
+   "company": "accenturefederalservices",
+   "hours_open": 605.5,
+   "title": "Junior Automation Test Engineer",
+   "uid": "greenhouse:accenturefederalservices:4720595006"
   }
  ],
- "count": 815,
- "updated_at": 1793741815
+ "count": 802,
+ "updated_at": 1793743559
 }
