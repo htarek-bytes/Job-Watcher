@@ -1,111 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1793279982,
-   "company": "boeing",
-   "hours_open": 24.8,
-   "title": "Entry-Level Software Engineer",
-   "uid": "workday:boeing.wd1/external_subsidiary:Entry-Level-Software-Engineer_JR2026527992"
-  },
-  {
-   "closed_at": 1793279982,
-   "company": "caci",
-   "hours_open": 669.0,
-   "title": "AI Prompt Engineer High School Intern - Summer 2027",
-   "uid": "workday:caci.wd1/external:AI-Prompt-Engineer-High-School-Intern---Summer-2027_332816-1"
-  },
-  {
-   "closed_at": 1793282498,
-   "company": "V-TECHSOFT",
-   "hours_open": 7.0,
-   "title": "Web developer",
-   "uid": "jobbank:junior programmer:50602887"
-  },
-  {
-   "closed_at": 1793282498,
-   "company": "cni",
-   "hours_open": 382.0,
-   "title": "Engineer I",
-   "uid": "workday:cni.wd503/CNI:Engineer-I_R9657"
-  },
-  {
-   "closed_at": 1793282498,
-   "company": "fis",
-   "hours_open": 43.8,
-   "title": "C++ Software Engineer I",
-   "uid": "workday:fis.wd5/searchjobs:C---Software-Engineer-I_JR0309473"
-  },
-  {
-   "closed_at": 1793287309,
-   "company": "Logesco Informatique",
-   "hours_open": 1222.2,
-   "title": "Administrateur de réseau",
-   "uid": "jobillico:analyste reseau:17188132"
-  },
-  {
-   "closed_at": 1793287309,
-   "company": "SimpleK division de ASSA ABLOY High Security Group Inc.",
-   "hours_open": 161.3,
-   "title": "developer, software",
-   "uid": "jobbank:junior programmer:50410122"
-  },
-  {
-   "closed_at": 1793287309,
-   "company": "FOP EXPERTS CONSEILS INC.",
-   "hours_open": 550.6,
-   "title": "programmer analyst",
-   "uid": "jobbank:junior programmer:50403800"
-  },
-  {
-   "closed_at": 1793287309,
-   "company": "Marketvan",
-   "hours_open": 667.5,
-   "title": "Web developer",
-   "uid": "jobbank:junior programmer:50404579"
-  },
-  {
-   "closed_at": 1793287309,
-   "company": "globalhr",
-   "hours_open": 43.8,
-   "title": "Software Engineering Intern (Summer 2027)",
-   "uid": "workday:globalhr.wd5/Private_Posting_No_TMP:Software-Engineering-Intern--Summer-2027-_01881090-1"
-  },
-  {
-   "closed_at": 1793287309,
-   "company": "globalhr",
-   "hours_open": 43.8,
-   "title": "Embedded Software Engineering Intern (Summer 2027)",
-   "uid": "workday:globalhr.wd5/rec_rtx_ext_gateway:Embedded-Software-Engineering-Intern--Summer-2027-_01884782"
-  },
-  {
-   "closed_at": 1793287309,
-   "company": "genevatrading",
-   "hours_open": 907.1,
-   "title": "C++ Developer (Intern) ",
-   "uid": "greenhouse:genevatrading:5242063007"
-  },
-  {
-   "closed_at": 1793287309,
-   "company": "gotion",
-   "hours_open": 1342.4,
-   "title": "Construction project engineer",
-   "uid": "greenhouse:gotion:8197463002"
-  },
-  {
-   "closed_at": 1793287309,
-   "company": "globusmedical",
-   "hours_open": 670.8,
-   "title": "Associate Software Engineer",
-   "uid": "workday:globusmedical.wd5/GMED_Careers:Associate-Software-Engineer_JR107947-1"
-  },
-  {
-   "closed_at": 1793287309,
-   "company": "TSC",
-   "hours_open": 1379.0,
-   "title": "Software Engineer 1",
-   "uid": "simplify:listings:952ea53b-46d2-468c-a4ee-c7ea0ae0051d"
-  },
-  {
    "closed_at": 1793287309,
    "company": "cloudflare",
    "hours_open": 142.3,
@@ -5599,8 +5494,113 @@
    "hours_open": 1487.4,
    "title": "Embedded Firmware Engineer New Grad",
    "uid": "simplify:listings:dbef86f9-fcbd-4750-b16a-e8062c8541bf"
+  },
+  {
+   "closed_at": 1793687557,
+   "company": "Renfrew County Catholic District School Board",
+   "hours_open": 156.4,
+   "title": "systems analyst",
+   "uid": "jobbank:systems analyst:50593329"
+  },
+  {
+   "closed_at": 1793687557,
+   "company": "gehc",
+   "hours_open": 69.6,
+   "title": "Production Engineer – Project Engineer (1)",
+   "uid": "workday:gehc.wd5/GEHC_ExternalSite:Production-Engineer---Project-Engineer--1-_R4047721"
+  },
+  {
+   "closed_at": 1793687557,
+   "company": "globalhr",
+   "hours_open": 90.9,
+   "title": "Software Engineering Intern (Summer 2027)",
+   "uid": "workday:globalhr.wd5/Private_Posting_No_TMP:Software-Engineering-Intern--Summer-2027-_01867129"
+  },
+  {
+   "closed_at": 1793687557,
+   "company": "globalhr",
+   "hours_open": 135.0,
+   "title": "Software Engineer Co-op (January 2027)",
+   "uid": "workday:globalhr.wd5/rec_rtx_ext_gateway:Software-Engineer-Co-op--January-2027-_01885371"
+  },
+  {
+   "closed_at": 1793687557,
+   "company": "freseniusmedicalcare",
+   "hours_open": 323.2,
+   "title": "Software Engineering Co-op",
+   "uid": "workday:freseniusmedicalcare.wd3/fme:Software-Engineering-Co-op_R0271309"
+  },
+  {
+   "closed_at": 1793687557,
+   "company": "twitch",
+   "hours_open": 1450.6,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1793687557,
+   "company": "reddit",
+   "hours_open": 443.6,
+   "title": "Machine Learning Engineer",
+   "uid": "greenhouse:reddit:7131934"
+  },
+  {
+   "closed_at": 1793687557,
+   "company": "Global Fleet Management Inc.",
+   "hours_open": 380.7,
+   "title": "information systems analyst - computer systems",
+   "uid": "jobbank:information systems analyst:50302902"
+  },
+  {
+   "closed_at": 1793687557,
+   "company": "Lakeland Roman Catholic Separate School Division",
+   "hours_open": 992.2,
+   "title": "computer systems analyst",
+   "uid": "jobbank:control systems analyst:50064831"
+  },
+  {
+   "closed_at": 1793687557,
+   "company": "guidestone",
+   "hours_open": 997.7,
+   "title": "Summer Intern - Platform Analyst",
+   "uid": "workday:guidestone.wd1/guidestone:Summer-Intern---Platform-Analyst_R2186"
+  },
+  {
+   "closed_at": 1793687557,
+   "company": "ercot",
+   "hours_open": 247.1,
+   "title": "GMS Development Program – Entry Level Power & Computer Engineer",
+   "uid": "workday:ercot.wd1/ercot_careers:GMS-Development-Program---Entry-Level-Power---Computer-Engineer_R2513-1"
+  },
+  {
+   "closed_at": 1793687557,
+   "company": "CarePartners",
+   "hours_open": 2.8,
+   "title": "network administrator",
+   "uid": "jobbank:network administrator:50646705"
+  },
+  {
+   "closed_at": 1793687557,
+   "company": "Regime Solutions Inc.",
+   "hours_open": 468.5,
+   "title": "computer systems analyst",
+   "uid": "jobbank:analyste de systemes:50243696"
+  },
+  {
+   "closed_at": 1793687557,
+   "company": "machindustries",
+   "hours_open": 655.5,
+   "title": "Navigation Engineer",
+   "uid": "greenhouse:machindustries:4387868009"
+  },
+  {
+   "closed_at": 1793687557,
+   "company": "machindustries",
+   "hours_open": 655.5,
+   "title": "GNC Engineer, Controls",
+   "uid": "greenhouse:machindustries:4387869009"
   }
  ],
- "count": 810,
- "updated_at": 1793677351
+ "count": 815,
+ "updated_at": 1793687557
 }
