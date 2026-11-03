@@ -1,125 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1793257258,
-   "company": "Groupe DCM",
-   "hours_open": 986.1,
-   "title": "Programmeur CNC / CNC Programmer",
-   "uid": "jobillico:programmeur junior:17534679"
-  },
-  {
-   "closed_at": 1793257258,
-   "company": "Lexia Communications Inc.",
-   "hours_open": 680.4,
-   "title": "computer programmer",
-   "uid": "jobbank:junior programmer:50398942"
-  },
-  {
-   "closed_at": 1793257258,
-   "company": "ServiceNow",
-   "hours_open": 115.4,
-   "title": "Associate Software Engineer",
-   "uid": "smartrecruiters:ServiceNow:744000157571919"
-  },
-  {
-   "closed_at": 1793257258,
-   "company": "Intuitive",
-   "hours_open": 149.3,
-   "title": "Key Account Technical Solution Consultant",
-   "uid": "smartrecruiters:Intuitive:744000157246139"
-  },
-  {
-   "closed_at": 1793257258,
-   "company": "twitch",
-   "hours_open": 1331.1,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1793257258,
-   "company": "reddit",
-   "hours_open": 324.1,
-   "title": "Machine Learning Engineer",
-   "uid": "greenhouse:reddit:7131934"
-  },
-  {
-   "closed_at": 1793257258,
-   "company": "Source Code",
-   "hours_open": 84.6,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50577212"
-  },
-  {
-   "closed_at": 1793257258,
-   "company": "spacex",
-   "hours_open": 1331.1,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1793257258,
-   "company": "spacex",
-   "hours_open": 1333.8,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1793257258,
-   "company": "spacex",
-   "hours_open": 1334.1,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1793262106,
-   "company": "Source Code",
-   "hours_open": 170.3,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:control systems analyst:50553479"
-  },
-  {
-   "closed_at": 1793262106,
-   "company": "CloudFactory",
-   "hours_open": 1335.1,
-   "title": "Forward Deployed Engineer",
-   "uid": "workable:cloudfactory:F775A14D4B"
-  },
-  {
-   "closed_at": 1793265086,
-   "company": "Great Lakes Group",
-   "hours_open": 122.7,
-   "title": "electrical controls engineer",
-   "uid": "jobbank:control systems analyst:50570740"
-  },
-  {
-   "closed_at": 1793265086,
-   "company": "Source Code",
-   "hours_open": 157.1,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:systems analyst:50553479"
-  },
-  {
-   "closed_at": 1793265086,
-   "company": "Source Code",
-   "hours_open": 2.2,
-   "title": "software developer",
-   "uid": "jobbank:entry level software developer:50598291"
-  },
-  {
-   "closed_at": 1793265086,
-   "company": "DPMSYSTEMS IT CONSULTING SERVICES",
-   "hours_open": 988.3,
-   "title": "information systems analyst - computer systems",
-   "uid": "jobbank:systems analyst:50311291"
-  },
-  {
-   "closed_at": 1793265086,
-   "company": "Saalex",
-   "hours_open": 1034.8,
-   "title": "Network and Computer Systems Administrator",
-   "uid": "workable:saalex:6F3FD5970B"
-  },
-  {
    "closed_at": 1793278523,
    "company": "CGI",
    "hours_open": 1219.8,
@@ -5599,8 +5480,127 @@
    "hours_open": 1441.9,
    "title": "1637 - Systems Test Engineer",
    "uid": "workable:sigmadefense:68D57E00C5"
+  },
+  {
+   "closed_at": 1793670559,
+   "company": "Weekday AI",
+   "hours_open": 88.8,
+   "title": "DevOps Automation Engineer",
+   "uid": "workable:weekday-1:AB4680E7F8"
+  },
+  {
+   "closed_at": 1793670559,
+   "company": "knowbe4",
+   "hours_open": 30.3,
+   "title": "Software Engineer Summer Internship",
+   "uid": "greenhouse:knowbe4:8919280002"
+  },
+  {
+   "closed_at": 1793670559,
+   "company": "Weekday AI",
+   "hours_open": 88.8,
+   "title": "Guidewire Integration Developer",
+   "uid": "workable:weekday-1:0EB8820186"
+  },
+  {
+   "closed_at": 1793670559,
+   "company": "Weekday AI",
+   "hours_open": 88.8,
+   "title": "Guidewire QA Engineer",
+   "uid": "workable:weekday-1:79E2ABAD7A"
+  },
+  {
+   "closed_at": 1793670559,
+   "company": "Weekday AI",
+   "hours_open": 88.8,
+   "title": "React Native Engineer",
+   "uid": "workable:weekday-1:570F8D8630"
+  },
+  {
+   "closed_at": 1793670559,
+   "company": "asml",
+   "hours_open": 108.9,
+   "title": "Internship/Co-Op: Data Engineer",
+   "uid": "workday:asml.wd3/asmlext1:Internship-Co-Op--Data-Engineer_J-00355626"
+  },
+  {
+   "closed_at": 1793670559,
+   "company": "asml",
+   "hours_open": 108.9,
+   "title": "Internship- Software Development Engineer in Test",
+   "uid": "workday:asml.wd3/asmlext1:Internship--Software-Development-Engineer-in-Test_J-00354459"
+  },
+  {
+   "closed_at": 1793670559,
+   "company": "Weekday AI",
+   "hours_open": 88.8,
+   "title": "Solution Engineer",
+   "uid": "workable:weekday-1:4C9B7CC566"
+  },
+  {
+   "closed_at": 1793670559,
+   "company": "Weekday AI",
+   "hours_open": 88.8,
+   "title": "COBOL Developer",
+   "uid": "workable:weekday-1:A0366B28DA"
+  },
+  {
+   "closed_at": 1793670559,
+   "company": "Amentum",
+   "hours_open": 170.4,
+   "title": "Entry Level Software Engineer",
+   "uid": "simplify:listings:1e71617d-f970-4f87-8869-2169d3adc052"
+  },
+  {
+   "closed_at": 1793670559,
+   "company": "aero",
+   "hours_open": 827.6,
+   "title": "2027 Software Engineering Grad Intern",
+   "uid": "workday:aero.wd5/external:XMLNAME-2027-Software-Engineering-Grad-Intern_R016759"
+  },
+  {
+   "closed_at": 1793670559,
+   "company": "alliance",
+   "hours_open": 447.6,
+   "title": "Software Engineer Intern - Spring 2027 - Santa Clara, CA",
+   "uid": "workday:alliance.wd3/nissanjobs:Software-Engineer-Intern---Spring-2027---Santa-Clara--CA_R00214269"
+  },
+  {
+   "closed_at": 1793670559,
+   "company": "reddit",
+   "hours_open": 410.0,
+   "title": "Machine Learning Engineer",
+   "uid": "greenhouse:reddit:7131932"
+  },
+  {
+   "closed_at": 1793670559,
+   "company": "Weekday AI",
+   "hours_open": 88.8,
+   "title": "Hardware Engineer",
+   "uid": "workable:weekday-1:BC5A85AC52"
+  },
+  {
+   "closed_at": 1793670559,
+   "company": "Weekday AI",
+   "hours_open": 88.8,
+   "title": "TPF Developer",
+   "uid": "workable:weekday-1:CFF9FE9210"
+  },
+  {
+   "closed_at": 1793670559,
+   "company": "Weekday AI",
+   "hours_open": 88.8,
+   "title": "Software Engineer",
+   "uid": "workable:weekday-1:6E40CE416A"
+  },
+  {
+   "closed_at": 1793670559,
+   "company": "Weekday AI",
+   "hours_open": 88.8,
+   "title": "MLOps Engineer, LLM Systems (Serving, GPU Kernels, Profiling)",
+   "uid": "workable:weekday-1:1AEE967628"
   }
  ],
- "count": 809,
- "updated_at": 1793668724
+ "count": 817,
+ "updated_at": 1793670561
 }
