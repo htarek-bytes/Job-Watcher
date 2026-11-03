@@ -2,76 +2,6 @@
  "closed": [
   {
    "closed_at": 1793300628,
-   "company": "appdirect",
-   "hours_open": 1153.8,
-   "title": "AI & Microsoft Business Development Specialist",
-   "uid": "greenhouse:appdirect:8796637002"
-  },
-  {
-   "closed_at": 1793300628,
-   "company": "rockwellautomation",
-   "hours_open": 768.0,
-   "title": "Intern, Technical Sales & Consulting (USA)",
-   "uid": "workday:rockwellautomation.wd1/External-Rockwell-Automation-Early-Careers:Intern--Technical-Sales---Consulting--USA-_R26-5962-1"
-  },
-  {
-   "closed_at": 1793300628,
-   "company": "radiancetech",
-   "hours_open": 46.4,
-   "title": "Junior Modeling and Simulation Engineer",
-   "uid": "workday:radiancetech.wd12/Radiance_External:Junior-Modeling-and-Simulation-Engineer_HR102521"
-  },
-  {
-   "closed_at": 1793300628,
-   "company": "sanofi",
-   "hours_open": 166.9,
-   "title": "2027 Spring Co-op Laboratory Automation Engineer Process Chemistry Lab, Cambridge, MA",
-   "uid": "workday:sanofi.wd3/SanofiCareers:XMLNAME-2027-Spring-Co-op-Laboratory-Automation-Engineer-Process-Chemistry-Lab--Cambridge--MA_R2856035"
-  },
-  {
-   "closed_at": 1793300628,
-   "company": "rockwellautomation",
-   "hours_open": 214.0,
-   "title": "Intern, Hardware Development Engineer (May - Aug 2027)",
-   "uid": "workday:rockwellautomation.wd1/External-Rockwell-Automation-Early-Careers:Intern--Hardware-Development-Engineer--May---Aug-2027-_R26-6892-2"
-  },
-  {
-   "closed_at": 1793300628,
-   "company": "sierraspace",
-   "hours_open": 339.9,
-   "title": "Material Science Engineer I",
-   "uid": "workday:sierraspace.wd1/Sierra_Space_External_Career_Site:Material-Science-Engineer-I_R26360-1"
-  },
-  {
-   "closed_at": 1793300628,
-   "company": "ryan",
-   "hours_open": 297.8,
-   "title": "Summer 2027 Intern, Software Engineering",
-   "uid": "workday:ryan.wd1/RyanCareers:Summer-2027-Intern--Software-Engineering_R0020843-1"
-  },
-  {
-   "closed_at": 1793300628,
-   "company": "ryan",
-   "hours_open": 297.8,
-   "title": "Summer 2027 Intern, Application Development",
-   "uid": "workday:ryan.wd1/RyanCareers:Summer-2027-Intern--Application-Development_R0020820-1"
-  },
-  {
-   "closed_at": 1793300628,
-   "company": "psu",
-   "hours_open": 23.4,
-   "title": "R&D Engineer Intern",
-   "uid": "workday:psu.wd1/PSU_Staff:R-D-Engineer-Intern_REQ_0000083854-1"
-  },
-  {
-   "closed_at": 1793300628,
-   "company": "rockwellautomation",
-   "hours_open": 355.0,
-   "title": "Co-op, Hardware Development Engineer (June - Dec 2027)",
-   "uid": "workday:rockwellautomation.wd1/External-Rockwell-Automation-Early-Careers:Co-op--Hardware-Development-Engineer--June---Dec-2027-_R26-6891"
-  },
-  {
-   "closed_at": 1793300628,
    "company": "rockwellautomation",
    "hours_open": 355.0,
    "title": "Co-op, Hardware Development Engineer (Jan - July 2027)",
@@ -5599,8 +5529,78 @@
    "hours_open": 1495.1,
    "title": "Software Engineer – New grad / early career",
    "uid": "simplify:listings:6805a542-b373-4362-a01b-1340de5ba6db"
+  },
+  {
+   "closed_at": 1793716740,
+   "company": "applied",
+   "hours_open": 441.8,
+   "title": "Vehicle Software Integration Engineer - Customer Onsite",
+   "uid": "ashby:applied:d6560e7d-473a-4f4f-b53d-a92aa7c6c6dc"
+  },
+  {
+   "closed_at": 1793716740,
+   "company": "applied",
+   "hours_open": 497.4,
+   "title": "Field Integration Engineer",
+   "uid": "ashby:applied:3137ff11-69ad-4a24-8086-36ef9249c611"
+  },
+  {
+   "closed_at": 1793716740,
+   "company": "applied",
+   "hours_open": 627.5,
+   "title": "Mechatronics Integration Engineer, Vehicle OS",
+   "uid": "ashby:applied:c65ae625-09d2-4e94-ab37-7ae2444b84a0"
+  },
+  {
+   "closed_at": 1793716740,
+   "company": "visa",
+   "hours_open": 160.3,
+   "title": "2027 Sophomore Internship Program - Software Engineer Intern, Bellevue",
+   "uid": "workday:visa.wd5/Visa:XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Bellevue_REF089920W-2"
+  },
+  {
+   "closed_at": 1793716740,
+   "company": "base-power",
+   "hours_open": 266.4,
+   "title": "Safety Engineer (EHS)",
+   "uid": "ashby:base-power:3f999c07-d085-42e1-8011-08b60ac0f4f1"
+  },
+  {
+   "closed_at": 1793716740,
+   "company": "base-power",
+   "hours_open": 266.4,
+   "title": "Industrial Safety Engineer",
+   "uid": "ashby:base-power:0be3eefe-d1c5-45c4-b703-d9022976ea34"
+  },
+  {
+   "closed_at": 1793716740,
+   "company": "databricks",
+   "hours_open": 21.2,
+   "title": "Software Engineer - New Grad (2027 Start) - Belgrade",
+   "uid": "greenhouse:databricks:7640776002"
+  },
+  {
+   "closed_at": 1793716740,
+   "company": "RTX",
+   "hours_open": 638.8,
+   "title": "Embedded Software Developer 1",
+   "uid": "simplify:listings:e5467def-2b54-4bda-90a0-cdb22e92de7f"
+  },
+  {
+   "closed_at": 1793716740,
+   "company": "RTX",
+   "hours_open": 111.6,
+   "title": "Software Engineer 1",
+   "uid": "simplify:listings:ce244491-27f0-46a5-a5b8-76f1b4952100"
+  },
+  {
+   "closed_at": 1793716740,
+   "company": "accenturefederalservices",
+   "hours_open": 1461.7,
+   "title": "Cloud Platform Engineer",
+   "uid": "greenhouse:accenturefederalservices:4680047006"
   }
  ],
- "count": 806,
- "updated_at": 1793705091
+ "count": 810,
+ "updated_at": 1793716741
 }
