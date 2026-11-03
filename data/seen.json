@@ -1,5 +1,5 @@
 {
- "count": 10456,
+ "count": 10464,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -5478,6 +5478,8 @@
   "jobbank:junior software developer:50635072": 1793640387,
   "jobbank:junior software developer:50636267": 1793640387,
   "jobbank:junior software developer:50646550": 1793677349,
+  "jobbank:junior software developer:50648025": 1793692815,
+  "jobbank:junior software developer:50648217": 1793692815,
   "jobbank:linux administrator:49626621": 1789082121,
   "jobbank:linux administrator:50163764": 1788887337,
   "jobbank:linux administrator:50205276": 1788887337,
@@ -9616,13 +9618,16 @@
   "workday:kla.wd1/UR:Product-Development-Engineering-Intern_2642439": 1792802847,
   "workday:kla.wd1/UR:Product-Development-Intern---Electron-Beam-Instrumentation_2642030-2": 1791971240,
   "workday:kla.wd1/UR:Semiconductor-Field-Service-Engineer---New-College-Grad_2642813": 1792462199,
+  "workday:kla.wd1/UR:Software-Engineer--AI-ML--Intern_2642125": 1793692815,
   "workday:kla.wd1/UR:Software-Engineer-Intern---AI_2641817-2": 1791915110,
   "workday:kla.wd1/UR:Software-Engineer-Intern--C----Linux----Summer-2027_2641878": 1792802847,
+  "workday:kla.wd1/UR:Software-Engineer-Intern_2642151": 1793692815,
   "workday:kla.wd1/UR:Software-Engineer-Intern_2642721": 1793290209,
   "workday:kla.wd1/UR:Software-Engineering-Intern---AI-ML-for-Diagnostics---Calibration_2642129": 1792802847,
   "workday:kla.wd1/UR:Software-Engineering-Intern--C----Unix-_2641325": 1790175830,
   "workday:kla.wd1/UR:Software-Engineering-Intern_2641581": 1790812097,
   "workday:kla.wd1/UR:Software-Engineering-Intern_2641821-2": 1791915110,
+  "workday:kla.wd1/UR:Software-Engineering-Intern_2642004": 1793692815,
   "workday:kla.wd1/UR:Software-Engineering-Intern_2642189": 1792802847,
   "workday:kla.wd1/annarbor:Software-Engineering-Intern_2531653": 1789362342,
   "workday:kyndryl.wd5/KyndrylEarlyCareers:Early-Career-Consult-Program---Associate-AI-Engineer_R-66739": 1788377607,
@@ -9631,6 +9636,8 @@
   "workday:kyndryl.wd5/KyndrylEarlyCareers:Kyndryl-Early-Career-Program---Systems-Administration--Mainframe_R-69926": 1791444048,
   "workday:kyndryl.wd5/KyndrylProfessionalCareers:Devops-Intern_R-65079-1": 1789511757,
   "workday:kyndryl.wd5/KyndrylProfessionalCareers:Kyndryl-Early-Career-Program---Systems-Administration--Mainframe_R-69926-2": 1792076112,
+  "workday:labcorp.wd1/external:Co-op---Agentic-AI-Developer_2639201-1": 1793692815,
+  "workday:labcorp.wd1/external:Co-op---Full-Stack-Life-Sciences-Engineer_2639083": 1793692815,
   "workday:labcorp.wd1/external:Intern---IT-Operations_2631321": 1789780564,
   "workday:labcorp.wd1/external:Intern---Quality-Engineer_2630918": 1789137582,
   "workday:labcorp.wd1/external:Intern---Software-Developer_2632330": 1789424861,
@@ -9641,6 +9648,7 @@
   "workday:lennar.wd1/Lennar_Jobs:Cloud-Engineer-I_R26_0000004699": 1793368971,
   "workday:leonardocompany.wd3/LeonardoCareerSite:Industrial-Placement-Software-Engineer_R0033876": 1792352626,
   "workday:lifeworks.wd3/External:Cloud---Infrastructure-Specialist_R-22446-1": 1788903151,
+  "workday:lighting.wd3/jobs-and-careers:Development-Engineer-Mechanics-Intern_365830": 1793692815,
   "workday:litera.wd12/Litera_Careers:Associate-Software-Engineer_R-501347": 1792111440,
   "workday:livingspaces.wd5/ls:Front-End-Web-Developer-1_R45250": 1791149081,
   "workday:lnw.wd5/lightwonderexternalcareers:Associate-Software-Engineer_R322683": 1788981683,
@@ -10458,5 +10466,5 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148,
   "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541": 1789106107
  },
- "updated_at": 1793687557
+ "updated_at": 1793692817
 }
