@@ -1,83 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1793239145,
-   "company": "Amazon",
-   "hours_open": 316.4,
-   "title": "Software Dev Engineer, AWS WAF Bot Control and Fraud Prevention",
-   "uid": "amazon:amazon:10580768"
-  },
-  {
-   "closed_at": 1793239145,
-   "company": "togetherai",
-   "hours_open": 725.7,
-   "title": "Technical Marketing Engineer",
-   "uid": "greenhouse:togetherai:5238633007"
-  },
-  {
-   "closed_at": 1793239145,
-   "company": "agile-defense",
-   "hours_open": 23.7,
-   "title": "Software Engineer I",
-   "uid": "lever:agile-defense:0d603eca-2337-4122-8e53-07b22a4077f8"
-  },
-  {
-   "closed_at": 1793239145,
-   "company": "voyagertechnologiesinc",
-   "hours_open": 1329.0,
-   "title": "Systems Engineer V - MSAD",
-   "uid": "greenhouse:voyagertechnologiesinc:4313232009"
-  },
-  {
-   "closed_at": 1793242319,
-   "company": "Nordstrom",
-   "hours_open": 507.0,
-   "title": "Engineer 1",
-   "uid": "simplify:listings:addc9110-286b-45d0-9b03-24ea2d3042c6"
-  },
-  {
-   "closed_at": 1793242319,
-   "company": "hsag",
-   "hours_open": 833.3,
-   "title": "Business Intelligence (BI) Developer I - QUICKSIGHT",
-   "uid": "lever:hsag:538428ec-fa2f-4d7f-b83b-348ba9edcc25"
-  },
-  {
-   "closed_at": 1793253992,
-   "company": "Bosch Building Technologies",
-   "hours_open": 151.6,
-   "title": "software programmer",
-   "uid": "jobbank:junior programmer:50560878"
-  },
-  {
-   "closed_at": 1793253992,
-   "company": "Bell Canada",
-   "hours_open": 356.3,
-   "title": "network administrator",
-   "uid": "jobbank:network administrator:50492673"
-  },
-  {
-   "closed_at": 1793253992,
-   "company": "Groupe DCM",
-   "hours_open": 979.0,
-   "title": "Programmeur CNC / CNC Programmer",
-   "uid": "jobillico:programmeur junior:17534670"
-  },
-  {
-   "closed_at": 1793253992,
-   "company": "Icentia inc.",
-   "hours_open": 370.5,
-   "title": "Technicien TI, Cybersécurité et Agents IA",
-   "uid": "jobillico:analyste cybersecurite:17592852"
-  },
-  {
-   "closed_at": 1793253992,
-   "company": "woven-by-toyota",
-   "hours_open": 116.6,
-   "title": "Machine Learning Engineer, Vehicle Perception",
-   "uid": "lever:woven-by-toyota:263e0dfb-6bbb-409a-a5c5-8ff661030649"
-  },
-  {
    "closed_at": 1793253992,
    "company": "Source Code",
    "hours_open": 84.4,
@@ -5599,8 +5522,85 @@
    "hours_open": 293.2,
    "title": "Software Development Engineer, Leo Space Security",
    "uid": "amazon:amazon:10585267"
+  },
+  {
+   "closed_at": 1793664064,
+   "company": "Maarut",
+   "hours_open": 157.2,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:systems analyst:50591649"
+  },
+  {
+   "closed_at": 1793664064,
+   "company": "Salesforce",
+   "hours_open": 106.0,
+   "title": "Software Engineer New Grad",
+   "uid": "simplify:listings:fcd88c67-d6d6-41a6-9f32-1b0db5954dd6"
+  },
+  {
+   "closed_at": 1793664064,
+   "company": "coinbase",
+   "hours_open": 770.9,
+   "title": "Software Engineer, CDP - Stablecoin",
+   "uid": "greenhouse:coinbase:8234278"
+  },
+  {
+   "closed_at": 1793664064,
+   "company": "twitch",
+   "hours_open": 1133.7,
+   "title": "Security Incident Response Engineer",
+   "uid": "greenhouse:twitch:8812423002"
+  },
+  {
+   "closed_at": 1793664064,
+   "company": "twitch",
+   "hours_open": 1444.1,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1793664064,
+   "company": "scaleai",
+   "hours_open": 1447.1,
+   "title": "Software Engineer - AI Enablement",
+   "uid": "greenhouse:scaleai:4722512005"
+  },
+  {
+   "closed_at": 1793664064,
+   "company": "reddit",
+   "hours_open": 408.2,
+   "title": "Machine Learning Engineer",
+   "uid": "greenhouse:reddit:7131932"
+  },
+  {
+   "closed_at": 1793664064,
+   "company": "Global Fleet Management Inc.",
+   "hours_open": 1130.4,
+   "title": "information systems analyst - computer systems",
+   "uid": "jobbank:systems analyst:50302902"
+  },
+  {
+   "closed_at": 1793664064,
+   "company": "Alarm.com",
+   "hours_open": 1483.7,
+   "title": "Embedded Software Engineer 1",
+   "uid": "simplify:listings:bb5b9ae6-1aba-4fe3-87a2-2a7855b9a86e"
+  },
+  {
+   "closed_at": 1793664064,
+   "company": "Regime Solutions Inc.",
+   "hours_open": 1325.3,
+   "title": "computer systems analyst",
+   "uid": "jobbank:systems analyst:50243696"
+  },
+  {
+   "closed_at": 1793664064,
+   "company": "rocketlab",
+   "hours_open": 121.2,
+   "title": "Systems Engineer I",
+   "uid": "greenhouse:rocketlab:8054797003"
   }
  ],
- "count": 829,
- "updated_at": 1793658662
+ "count": 811,
+ "updated_at": 1793664065
 }
