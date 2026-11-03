@@ -1,5 +1,5 @@
 {
- "count": 10464,
+ "count": 10470,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -5051,6 +5051,7 @@
   "jobbank:control systems analyst:50553479": 1792648983,
   "jobbank:control systems analyst:50570740": 1792823335,
   "jobbank:control systems analyst:50606896": 1793343706,
+  "jobbank:control systems analyst:50619588": 1793695440,
   "jobbank:cybersecurity analyst:49819441": 1788887337,
   "jobbank:cybersecurity analyst:49890153": 1788887337,
   "jobbank:cybersecurity analyst:50253155": 1788988461,
@@ -6773,6 +6774,7 @@
   "simplify:listings:4f9778d0-63a0-48b6-a131-8e89364ea80b": 1792797439,
   "simplify:listings:50046647-c721-4705-a90c-0c6eabcb76e3": 1788460756,
   "simplify:listings:5011b571-fd51-4f1a-903a-43b3328e3cff": 1791598552,
+  "simplify:listings:5027c348-d0cf-4730-8787-7a1aabbc6611": 1793695440,
   "simplify:listings:50363c94-1c17-4034-909d-b4b47a67fe3f": 1793171999,
   "simplify:listings:50699bdf-eacb-419e-8a11-b9803c46092e": 1793604941,
   "simplify:listings:5077be7d-bf97-4e0b-8fad-8674bf28d206": 1789237713,
@@ -9776,6 +9778,7 @@
   "workday:micron.wd1/External:Intern---Product-Yield-Software-Engineer_JR115864": 1793130055,
   "workday:micron.wd1/External:Intern---SMAI-Probe-AI-Engineer_JR114094": 1792527453,
   "workday:micron.wd1/External:Intern---Software-Engineer_JR108550": 1788859705,
+  "workday:micron.wd1/External:Intern---System-Engineer--HBM_JR113469": 1793695440,
   "workday:micron.wd1/External:Intern---Systems-Performance-Engineer_JR109583": 1788410216,
   "workday:micron.wd1/External:Intern--ID1-Equipment-Engineer_JR111232": 1790041362,
   "workday:micron.wd1/External:Intern--Product-Test-Development-Engineer_JR115106": 1793130055,
@@ -9814,6 +9817,8 @@
   "workday:micron.wd1/External:New-College-Grad---Ram-Quality-Engineer_JR110448": 1789073222,
   "workday:micron.wd1/External:New-College-Grad---Semiconductor-Design-Engineer--DRAM-Products-Group_JR114119": 1791224409,
   "workday:micron.wd1/External:New-College-Grad---Yield-Enhancement-Electrical-Failure-Analysis-Engineer_JR109479": 1788455648,
+  "workday:micron.wd1/External:New-College-Grad--Dry-Etch-Equipment-Engineer_JR116865": 1793695440,
+  "workday:micron.wd1/External:New-College-Grad--Engineer--Edge-Systems-Architecture_JR116433": 1793695440,
   "workday:micron.wd1/External:Photolithography-MDE-Shift-Engineer_JR111985": 1790041362,
   "workday:micron.wd1/External:Process-Control-Engineer--SPC-_JR111994": 1793130055,
   "workday:micron.wd1/External:Process-Integration-Engineer_JR102569": 1789073222,
@@ -9872,6 +9877,7 @@
   "workday:nationwide.wd1/Nationwide_Career:Summer-2027-Feature-Engineer-Internship_100233": 1788551622,
   "workday:navcanada.wd10/NAV_Careers:Cloud-Infrastructure-Analyst_JR-8264": 1788954436,
   "workday:navcanada.wd10/NAV_Careers:Developer---Entry-Level_JR-8291": 1788377835,
+  "workday:navcanada.wd10/NAV_Careers:Infrastructure-Analyst_JR-8464": 1793695440,
   "workday:navcanada.wd10/NAV_Careers:Surveillance-System-Engineer_JR-8332": 1788981683,
   "workday:nc.wd108/NC_Careers:Engineer-I_JR-125146": 1790643496,
   "workday:nc.wd108/NC_Careers:Engineer-I_JR-126363": 1792076519,
@@ -10466,5 +10472,5 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148,
   "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541": 1789106107
  },
- "updated_at": 1793692817
+ "updated_at": 1793695440
 }

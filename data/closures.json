@@ -1,90 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1793290209,
-   "company": "spacex",
-   "hours_open": 1343.2,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1793299690,
-   "company": "pae",
-   "hours_open": 23.2,
-   "title": "Spring 2027 Intern - Structural Dynamics Engineer",
-   "uid": "workday:pae.wd1/amentum_careers:Spring-2027-Intern---Structural-Dynamics-Engineer_R0174115"
-  },
-  {
-   "closed_at": 1793299690,
-   "company": "applovin",
-   "hours_open": 504.9,
-   "title": "Security Specialist ",
-   "uid": "greenhouse:applovin:4720054006"
-  },
-  {
-   "closed_at": 1793299690,
-   "company": "oclc",
-   "hours_open": 137.7,
-   "title": "Associate Software Engineer - Search Team",
-   "uid": "workday:oclc.wd1/OCLC_Careers:Associate-Software-Engineer---Search-Team_R0003958"
-  },
-  {
-   "closed_at": 1793299690,
-   "company": "nc",
-   "hours_open": 339.8,
-   "title": "Engineer I",
-   "uid": "workday:nc.wd108/NC_Careers:Engineer-I_JR-126363"
-  },
-  {
-   "closed_at": 1793299690,
-   "company": "nidec",
-   "hours_open": 24.3,
-   "title": "Applications Engineer I",
-   "uid": "workday:nidec.wd1/nidec:Applications-Engineer-I_R0017947"
-  },
-  {
-   "closed_at": 1793299690,
-   "company": "nvidia",
-   "hours_open": 1367.2,
-   "title": "Formal Verification Engineer - New College Grad 2026",
-   "uid": "workday:nvidia.wd5/NVIDIAExternalCareerSite:Formal-Verification-Engineer---New-College-Grad-2026_JR2020837"
-  },
-  {
-   "closed_at": 1793299690,
-   "company": "Amazon",
-   "hours_open": 58.5,
-   "title": "Software Development Engineer, AWS Agentic AI",
-   "uid": "amazon:amazon:10584176"
-  },
-  {
-   "closed_at": 1793299690,
-   "company": "Amazon",
-   "hours_open": 58.7,
-   "title": "Software Development Engineer , AWS Agentic AI Foundations",
-   "uid": "amazon:amazon:10584164"
-  },
-  {
-   "closed_at": 1793299690,
-   "company": "Amazon",
-   "hours_open": 22.3,
-   "title": "Software Development Engineer, Trainium Systems",
-   "uid": "amazon:amazon:10589564"
-  },
-  {
-   "closed_at": 1793299690,
-   "company": "Amazon",
-   "hours_open": 42.8,
-   "title": "Frontend Engineer, AI Business Automation, Prime Video",
-   "uid": "amazon:amazon:10586228"
-  },
-  {
-   "closed_at": 1793299690,
-   "company": "nationwide",
-   "hours_open": 1318.9,
-   "title": "Summer 2027 Feature Engineer Internship",
-   "uid": "workday:nationwide.wd1/Nationwide_Career:Summer-2027-Feature-Engineer-Internship_100233"
-  },
-  {
    "closed_at": 1793299690,
    "company": "ngc",
    "hours_open": 24.3,
@@ -5599,8 +5515,92 @@
    "hours_open": 129.2,
    "title": "Entry-Level Flight Test Data Engineer",
    "uid": "simplify:listings:e2f53442-b459-4a4e-afbe-44b4d31cbb37"
+  },
+  {
+   "closed_at": 1793695440,
+   "company": "ngc",
+   "hours_open": 49.2,
+   "title": "2027 Associate Software Engineer - Bellevue (NE)",
+   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Associate-Software-Engineer---Bellevue--NE-_R10258366"
+  },
+  {
+   "closed_at": 1793695440,
+   "company": "ncr",
+   "hours_open": 751.4,
+   "title": "Software Developer I",
+   "uid": "workday:ncr.wd1/ext_non_us:Software-Developer-I_R0157940"
+  },
+  {
+   "closed_at": 1793695440,
+   "company": "ngc",
+   "hours_open": 1459.1,
+   "title": "2027 Software Engineer Intern - Linthicum Maryland",
+   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Software-Engineer-Intern---Linthicum-Maryland_R10248910"
+  },
+  {
+   "closed_at": 1793695440,
+   "company": "ngc",
+   "hours_open": 89.0,
+   "title": "2027 Intern Engineer - Product Support",
+   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Intern-Engineer---Product-Support_R10258530"
+  },
+  {
+   "closed_at": 1793695440,
+   "company": "micron",
+   "hours_open": 1015.0,
+   "title": "New College Grad - Manufacturing Shift Equipment Engineer",
+   "uid": "workday:micron.wd1/External:Engineer--Shift-Equipment_JR89034"
+  },
+  {
+   "closed_at": 1793695440,
+   "company": "micron",
+   "hours_open": 134.3,
+   "title": "New College Grad - Product Applications Engineer",
+   "uid": "workday:micron.wd1/External:New-College-Grad---Product-Applications-Engineer_JR115693-1"
+  },
+  {
+   "closed_at": 1793695440,
+   "company": "multicare",
+   "hours_open": 176.0,
+   "title": "Operating Engineer I",
+   "uid": "workday:multicare.wd1/multicare:Operating-Engineer-I_JR85151-1"
+  },
+  {
+   "closed_at": 1793695440,
+   "company": "ngc",
+   "hours_open": 67.3,
+   "title": "Associate Software Engineer - Hollywood (MD)",
+   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:Associate-Software-Engineer---Hollywood--MD-_R10258018"
+  },
+  {
+   "closed_at": 1793695440,
+   "company": "twitch",
+   "hours_open": 1452.8,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1793695440,
+   "company": "reddit",
+   "hours_open": 445.8,
+   "title": "Machine Learning Engineer",
+   "uid": "greenhouse:reddit:7131934"
+  },
+  {
+   "closed_at": 1793695440,
+   "company": "marvell",
+   "hours_open": 1426.8,
+   "title": "Firmware Engineer Intern, MS - Summer 2027",
+   "uid": "workday:marvell.wd1/MarvellCareers:Firmware-Engineer-Intern--MS---Summer-2027_2604513"
+  },
+  {
+   "closed_at": 1793695440,
+   "company": "moog",
+   "hours_open": 89.0,
+   "title": "Associate Software Engineer",
+   "uid": "workday:moog.wd5/moog_external_career_site:Embedded-Software-Engineer_R-26-17229"
   }
  ],
- "count": 811,
- "updated_at": 1793692817
+ "count": 812,
+ "updated_at": 1793695440
 }
