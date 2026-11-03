@@ -1,76 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1793278523,
-   "company": "Source Code",
-   "hours_open": 3.7,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:systems analyst:50606896"
-  },
-  {
-   "closed_at": 1793278523,
-   "company": "DPMSYSTEMS IT CONSULTING SERVICES",
-   "hours_open": 343.4,
-   "title": "information systems analyst - computer systems",
-   "uid": "jobbank:information systems analyst:50311291"
-  },
-  {
-   "closed_at": 1793278523,
-   "company": "axcelis",
-   "hours_open": 1000.9,
-   "title": "Co-Op, (Manufacturing Software Development)",
-   "uid": "workday:axcelis.wd1/axcelis:Co-Op---Manufacturing-Software-Development-_12019"
-  },
-  {
-   "closed_at": 1793278523,
-   "company": "adobe",
-   "hours_open": 1340.0,
-   "title": "2027 Intern - Software Engineer",
-   "uid": "workday:adobe.wd5/external_experienced:XMLNAME-2027-Intern---Software-Engineer_R171666"
-  },
-  {
-   "closed_at": 1793278523,
-   "company": "spacex",
-   "hours_open": 1340.0,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1793278523,
-   "company": "spacex",
-   "hours_open": 1340.0,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1793278523,
-   "company": "spacex",
-   "hours_open": 1338.3,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1793279982,
-   "company": "bmo",
-   "hours_open": 228.7,
-   "title": "Junior Cloud Engineer, Summer 2027 (Co-op/Internship) - 16 months",
-   "uid": "workday:bmo.wd3/Campus:Junior-Cloud-Engineer--Summer-2027--Co-op-Internship----16-months_R260029417-2"
-  },
-  {
-   "closed_at": 1793279982,
-   "company": "CGI",
-   "hours_open": 1220.2,
-   "title": "Conseiller(ère) en architecture de cybersécurité",
-   "uid": "jobillico:analyste cybersecurite:17433753"
-  },
-  {
-   "closed_at": 1793279982,
-   "company": "broadcom",
-   "hours_open": 474.0,
-   "title": "Solution Engineer - ValueOps",
-   "uid": "workday:broadcom.wd1/external_career:Solution-Engineer---ValueOps_R027294"
-  },
-  {
    "closed_at": 1793279982,
    "company": "boeing",
    "hours_open": 24.8,
@@ -5599,8 +5529,78 @@
    "hours_open": 153.4,
    "title": "Software Engineering Intern - Summer 2027",
    "uid": "workday:caci.wd1/external:Software-Engineering-Intern---Summer-2027_332618"
+  },
+  {
+   "closed_at": 1793677349,
+   "company": "Thoughtworks",
+   "hours_open": 97.1,
+   "title": "Associate Developer",
+   "uid": "simplify:listings:5249c3a6-e421-4f71-9ebb-2e24ceda07e9"
+  },
+  {
+   "closed_at": 1793677349,
+   "company": "cvshealth",
+   "hours_open": 261.1,
+   "title": "Innovation & Technology Internship - Software Engineering: Platform & Applications -Summer 2027 Grad",
+   "uid": "workday:cvshealth.wd1/CVS_Health_Careers:Innovation---Technology-Internship-Software-Engineering--Platform---Applications--Summer-2027-Grad_R1081216"
+  },
+  {
+   "closed_at": 1793677349,
+   "company": "cvshealth",
+   "hours_open": 261.1,
+   "title": "Innovation & Technology Internship-Software Engineering:Platform & Applications-Summer2027 Undergrad",
+   "uid": "workday:cvshealth.wd1/CVS_Health_Careers:Innovation-Technology-Internship-Software-Engineering--Platform---Applications-Summer-2027-Undergrad_R1081193"
+  },
+  {
+   "closed_at": 1793677349,
+   "company": "ecolab",
+   "hours_open": 172.3,
+   "title": "PLC Application Development Intern 100% (m/f/d",
+   "uid": "workday:ecolab.wd1/ecolab_external:PLC-Application-Development-Intern-100---m-f-d_R00308919-1"
+  },
+  {
+   "closed_at": 1793677349,
+   "company": "IXL Learning",
+   "hours_open": 627.8,
+   "title": "Software Engineer New Grad",
+   "uid": "simplify:listings:399bfd90-c36b-42ac-b0e5-32e654c149ea"
+  },
+  {
+   "closed_at": 1793677349,
+   "company": "Amazon",
+   "hours_open": 2.4,
+   "title": "Software Development Engineer, Promotions Calculations Lifecycle (PCL)",
+   "uid": "amazon:amazon:10595008"
+  },
+  {
+   "closed_at": 1793677349,
+   "company": "cisco",
+   "hours_open": 535.2,
+   "title": "Solutions Engineer - Splunk (Remote)",
+   "uid": "workday:cisco.wd5/cisco_careers:Solutions-Engineer---Splunk--Remote-_2024724-1"
+  },
+  {
+   "closed_at": 1793677349,
+   "company": "twitch",
+   "hours_open": 1450.7,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1793677349,
+   "company": "reddit",
+   "hours_open": 411.9,
+   "title": "Machine Learning Engineer",
+   "uid": "greenhouse:reddit:7131932"
+  },
+  {
+   "closed_at": 1793677349,
+   "company": "Micron Technology",
+   "hours_open": 1487.4,
+   "title": "Embedded Firmware Engineer New Grad",
+   "uid": "simplify:listings:dbef86f9-fcbd-4750-b16a-e8062c8541bf"
   }
  ],
- "count": 807,
- "updated_at": 1793670784
+ "count": 810,
+ "updated_at": 1793677351
 }
