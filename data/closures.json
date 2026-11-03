@@ -1,230 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1793308191,
-   "company": "reddit",
-   "hours_open": 338.2,
-   "title": "Machine Learning Engineer",
-   "uid": "greenhouse:reddit:7131934"
-  },
-  {
-   "closed_at": 1793308191,
-   "company": "Intelliforce-IT Solutions Group",
-   "hours_open": 606.9,
-   "title": "Junior Software Engineer - Prime",
-   "uid": "simplify:listings:5ee9e9d5-ea2a-4631-8387-e43aec1496e1"
-  },
-  {
-   "closed_at": 1793308191,
-   "company": "atek",
-   "hours_open": 402.5,
-   "title": "Oracle Cloud Infrastructure (OCI) Engineer",
-   "uid": "greenhouse:atek:5449913008"
-  },
-  {
-   "closed_at": 1793308191,
-   "company": "atek",
-   "hours_open": 402.5,
-   "title": "Google Cloud Platform (GCP) Engineer",
-   "uid": "greenhouse:atek:5449900008"
-  },
-  {
-   "closed_at": 1793308191,
-   "company": "spacex",
-   "hours_open": 5.0,
-   "title": "IT Network Engineer",
-   "uid": "greenhouse:spacex:8922064002"
-  },
-  {
-   "closed_at": 1793308191,
-   "company": "spacex",
-   "hours_open": 676.5,
-   "title": "IT Network Administrator",
-   "uid": "greenhouse:spacex:8859658002"
-  },
-  {
-   "closed_at": 1793308191,
-   "company": "silvus",
-   "hours_open": 0.8,
-   "title": "Wireless Communication Systems Engineer",
-   "uid": "greenhouse:silvus:4934997008"
-  },
-  {
-   "closed_at": 1793314968,
-   "company": "gleanwork",
-   "hours_open": 21.9,
-   "title": "Software Engineer, University Grad",
-   "uid": "greenhouse:gleanwork:4748567005"
-  },
-  {
-   "closed_at": 1793314968,
-   "company": "gleanwork",
-   "hours_open": 21.9,
-   "title": "Software Engineer, Intern (Summer 2027)",
-   "uid": "greenhouse:gleanwork:4747670005"
-  },
-  {
-   "closed_at": 1793314968,
-   "company": "databricks",
-   "hours_open": 171.0,
-   "title": "Scale Solution Engineer",
-   "uid": "greenhouse:databricks:8779031002"
-  },
-  {
-   "closed_at": 1793314968,
-   "company": "miopartners",
-   "hours_open": 512.1,
-   "title": "Developer, Investment Data & Reporting",
-   "uid": "greenhouse:miopartners:5447158008"
-  },
-  {
-   "closed_at": 1793314968,
-   "company": "EXFO inc",
-   "hours_open": 1229.9,
-   "title": "Développeur logiciel embarqué – Télécommunications",
-   "uid": "jobillico:developpeur logiciel:17359277"
-  },
-  {
-   "closed_at": 1793314968,
-   "company": "CGI",
-   "hours_open": 1229.9,
-   "title": "Conseiller(ère) en architecture de cybersécurité",
-   "uid": "jobillico:analyste cybersecurite:17433753"
-  },
-  {
-   "closed_at": 1793314968,
-   "company": "NVIDIA",
-   "hours_open": 480.0,
-   "title": "Hardware Design Validation Engineer New Grad - Memory Subsystem",
-   "uid": "simplify:listings:76cdd4d4-8a4a-4878-b59e-b2a723a9d17a"
-  },
-  {
-   "closed_at": 1793314968,
-   "company": "resurgent-industries",
-   "hours_open": 47.0,
-   "title": "Quality Engineer",
-   "uid": "ashby:resurgent-industries:6e15c676-a40d-4b13-ad45-340b25874595"
-  },
-  {
-   "closed_at": 1793314968,
-   "company": "radiant-industries",
-   "hours_open": 997.0,
-   "title": "Regulatory Engineer",
-   "uid": "ashby:radiant-industries:fb6c261a-dd58-4d36-856d-aa957f72f176"
-  },
-  {
-   "closed_at": 1793314968,
-   "company": "Saalex",
-   "hours_open": 1054.8,
-   "title": "Junior Systems Developer and Data Analyst",
-   "uid": "simplify:listings:75042e8a-2126-4f9c-8363-aa0aa0fe281c"
-  },
-  {
-   "closed_at": 1793314968,
-   "company": "True Anomaly",
-   "hours_open": 1386.7,
-   "title": "Software Engineer 1 New Grad - Perception",
-   "uid": "simplify:listings:f5899221-db12-4026-a976-4ea6742899cc"
-  },
-  {
-   "closed_at": 1793314968,
-   "company": "Teledyne",
-   "hours_open": 1386.7,
-   "title": "Junior Software Engineer",
-   "uid": "simplify:listings:6a24eac0-34c2-46a9-816e-f6a3e716a259"
-  },
-  {
-   "closed_at": 1793314968,
-   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
-   "hours_open": 228.8,
-   "title": "Administrateur Réseau TI",
-   "uid": "jobillico:analyste reseau:17628663"
-  },
-  {
-   "closed_at": 1793314968,
-   "company": "RTX",
-   "hours_open": 502.7,
-   "title": "Embedded Security Software Engineer 1",
-   "uid": "simplify:listings:9199e425-2144-4178-bac6-c9f1802f9f1e"
-  },
-  {
-   "closed_at": 1793314968,
-   "company": "opengov",
-   "hours_open": 1267.4,
-   "title": "ERP Solutions Engineer I",
-   "uid": "ashby:opengov:1c75bde3-7c63-494e-9bb1-cfaa9fd8d2c3"
-  },
-  {
-   "closed_at": 1793314968,
-   "company": "spacex",
-   "hours_open": 1350.1,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1793314968,
-   "company": "RTX",
-   "hours_open": 47.9,
-   "title": "Software Engineer 1",
-   "uid": "simplify:listings:459640c9-5c1f-4230-970e-3acd1ff8a147"
-  },
-  {
-   "closed_at": 1793314968,
-   "company": "spacex",
-   "hours_open": 1348.4,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569125002"
-  },
-  {
-   "closed_at": 1793314968,
-   "company": "spacex",
-   "hours_open": 1350.1,
-   "title": "Automation & Controls Engineer, Assembly Manufacturing (Starlink)",
-   "uid": "greenhouse:spacex:8506443002"
-  },
-  {
-   "closed_at": 1793315773,
-   "company": "snowflake",
-   "hours_open": 552.3,
-   "title": "Solution Engineer, Commercial Acquisition",
-   "uid": "ashby:snowflake:49da4943-fc89-4ed2-a866-b9fd92e7496e"
-  },
-  {
-   "closed_at": 1793315773,
-   "company": "eposnowgroup",
-   "hours_open": 671.7,
-   "title": "Saleforce Developer 1",
-   "uid": "bamboohr:eposnowgroup:566"
-  },
-  {
-   "closed_at": 1793315773,
-   "company": "twitch",
-   "hours_open": 1350.3,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1793315773,
-   "company": "whoop",
-   "hours_open": 552.3,
-   "title": "NPI Hardware Quality Engineer, Accessories",
-   "uid": "ashby:whoop:d74b7719-b05f-4c76-9042-7079a837d794"
-  },
-  {
-   "closed_at": 1793315773,
-   "company": "reddit",
-   "hours_open": 311.5,
-   "title": "Machine Learning Engineer",
-   "uid": "greenhouse:reddit:7131932"
-  },
-  {
-   "closed_at": 1793315773,
-   "company": "spacex",
-   "hours_open": 1347.4,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
    "closed_at": 1793315773,
    "company": "spacex",
    "hours_open": 1350.3,
@@ -5599,8 +5375,232 @@
    "hours_open": 1465.6,
    "title": "AWS Cloud Engineer",
    "uid": "greenhouse:accenturefederalservices:4685018006"
+  },
+  {
+   "closed_at": 1793738380,
+   "company": "benevity",
+   "hours_open": 262.4,
+   "title": "Software Developer, DevOps",
+   "uid": "ashby:benevity:867b18d3-a888-40b4-8186-8dee8f340886"
+  },
+  {
+   "closed_at": 1793738380,
+   "company": "Fop experts conseils inc.",
+   "hours_open": 2.1,
+   "title": "cybersecurity analyst",
+   "uid": "jobbank:cybersecurity analyst:50651018"
+  },
+  {
+   "closed_at": 1793738380,
+   "company": "TABOCHE TECHNOLOGY",
+   "hours_open": 44.7,
+   "title": "Web developer",
+   "uid": "jobbank:junior programmer:50631395"
+  },
+  {
+   "closed_at": 1793738380,
+   "company": "Fop experts conseils inc.",
+   "hours_open": 2.1,
+   "title": "application programmer",
+   "uid": "jobbank:junior programmer:50651076"
+  },
+  {
+   "closed_at": 1793738380,
+   "company": "robinhood",
+   "hours_open": 597.6,
+   "title": "Software Engineer, AI Security",
+   "uid": "greenhouse:robinhood:8220757"
+  },
+  {
+   "closed_at": 1793738380,
+   "company": "G Square Builders Ltd.",
+   "hours_open": 315.3,
+   "title": "Web developer",
+   "uid": "jobbank:developpeur junior:50549343"
+  },
+  {
+   "closed_at": 1793738380,
+   "company": "Vancouver Psychology Centre",
+   "hours_open": 363.6,
+   "title": "software development programmer",
+   "uid": "jobbank:junior programmer:50533282"
+  },
+  {
+   "closed_at": 1793738380,
+   "company": "ENERSYS INC.",
+   "hours_open": 432.8,
+   "title": "programmer analyst",
+   "uid": "jobbank:junior programmer:50515786"
+  },
+  {
+   "closed_at": 1793738380,
+   "company": "EXO-C INC.",
+   "hours_open": 624.5,
+   "title": "computer programmer",
+   "uid": "jobbank:junior programmer:50454780"
+  },
+  {
+   "closed_at": 1793738380,
+   "company": "Amazon",
+   "hours_open": 19.3,
+   "title": "Software Development Engineer, Eva Development Team",
+   "uid": "amazon:amazon:10594998"
+  },
+  {
+   "closed_at": 1793738380,
+   "company": "Amazon",
+   "hours_open": 117.6,
+   "title": "Software Development Engineer, AWS Transform",
+   "uid": "amazon:amazon:10591528"
+  },
+  {
+   "closed_at": 1793738380,
+   "company": "Amazon",
+   "hours_open": 265.4,
+   "title": "Software Development Engineer, AWS Private Pricing ",
+   "uid": "amazon:amazon:10587542"
+  },
+  {
+   "closed_at": 1793738380,
+   "company": "Amazon",
+   "hours_open": 311.1,
+   "title": "Software Development Engineer, Amazon Quick",
+   "uid": "amazon:amazon:10585694"
+  },
+  {
+   "closed_at": 1793738380,
+   "company": "datadog",
+   "hours_open": 1128.7,
+   "title": "Sales Engineer (Customer Success)",
+   "uid": "greenhouse:datadog:8204163"
+  },
+  {
+   "closed_at": 1793738380,
+   "company": "redwoodmaterials",
+   "hours_open": 485.2,
+   "title": "Software Validation Engineer, Energy Storage",
+   "uid": "greenhouse:redwoodmaterials:6139226004"
+  },
+  {
+   "closed_at": 1793738380,
+   "company": "knowbe4",
+   "hours_open": 1385.6,
+   "title": "Sales Engineer (LATAM) (Hybrid)",
+   "uid": "greenhouse:knowbe4:8647738002"
+  },
+  {
+   "closed_at": 1793738380,
+   "company": "cohere",
+   "hours_open": 1480.0,
+   "title": "Software Engineer Intern (Winter 2027)",
+   "uid": "ashby:cohere:8c035d3d-081d-4c8a-914a-72f4efaad254"
+  },
+  {
+   "closed_at": 1793738380,
+   "company": "reddit",
+   "hours_open": 457.7,
+   "title": "Machine Learning Engineer",
+   "uid": "greenhouse:reddit:7131934"
+  },
+  {
+   "closed_at": 1793738380,
+   "company": "Viavi Solutions",
+   "hours_open": 1504.3,
+   "title": "Rotational Program Development Engineer",
+   "uid": "simplify:listings:d8d60887-fcc9-40dd-a33a-fd8dc0da66fd"
+  },
+  {
+   "closed_at": 1793738380,
+   "company": "Varsity Brands",
+   "hours_open": 1504.3,
+   "title": "Data Engineer 1",
+   "uid": "simplify:listings:f6146660-41bf-4fcd-ba7b-24a1c19c1176"
+  },
+  {
+   "closed_at": 1793738380,
+   "company": "spacex",
+   "hours_open": 594.4,
+   "title": "Site Reliability Engineer, Data Center Infrastructure ",
+   "uid": "greenhouse:spacex:8882642002"
+  },
+  {
+   "closed_at": 1793738380,
+   "company": "andurilindustries",
+   "hours_open": 864.4,
+   "title": "Space Orbital Software Engineer, Emerging Talent",
+   "uid": "greenhouse:andurilindustries:5236290007"
+  },
+  {
+   "closed_at": 1793738380,
+   "company": "spacex",
+   "hours_open": 1007.3,
+   "title": "Operations Engineer (Starshield)",
+   "uid": "greenhouse:spacex:8832165002"
+  },
+  {
+   "closed_at": 1793738380,
+   "company": "spacex",
+   "hours_open": 1011.8,
+   "title": "Operations Engineer",
+   "uid": "greenhouse:spacex:8821458002"
+  },
+  {
+   "closed_at": 1793738380,
+   "company": "generalmatter",
+   "hours_open": 1486.6,
+   "title": "Software Engineer, New Grad",
+   "uid": "greenhouse:generalmatter:5375987008"
+  },
+  {
+   "closed_at": 1793738380,
+   "company": "spacex",
+   "hours_open": 1467.7,
+   "title": "Automation & Controls Engineer, Solar (Starlink)",
+   "uid": "greenhouse:spacex:8677412002"
+  },
+  {
+   "closed_at": 1793738380,
+   "company": "spacex",
+   "hours_open": 1467.7,
+   "title": "Space Lasers Engineer, Satellites (Starlink)",
+   "uid": "greenhouse:spacex:8656960002"
+  },
+  {
+   "closed_at": 1793738380,
+   "company": "spacex",
+   "hours_open": 1467.7,
+   "title": "Harness Design Engineer, Satellites (Starlink)",
+   "uid": "greenhouse:spacex:8612778002"
+  },
+  {
+   "closed_at": 1793738380,
+   "company": "spacex",
+   "hours_open": 1467.7,
+   "title": "Manufacturing Automation Engineer, Solar - (Starlink)",
+   "uid": "greenhouse:spacex:8614098002"
+  },
+  {
+   "closed_at": 1793738380,
+   "company": "spacex",
+   "hours_open": 1467.7,
+   "title": "Software Engineer (Starlink Enterprise)",
+   "uid": "greenhouse:spacex:8586637002"
+  },
+  {
+   "closed_at": 1793738380,
+   "company": "spacex",
+   "hours_open": 1467.7,
+   "title": "Network Engineer (Starlink Community Gateway)",
+   "uid": "greenhouse:spacex:8578872002"
+  },
+  {
+   "closed_at": 1793738380,
+   "company": "spacex",
+   "hours_open": 1467.7,
+   "title": "Software Engineer (Starship)",
+   "uid": "greenhouse:spacex:8569160002"
   }
  ],
- "count": 823,
- "updated_at": 1793730977
+ "count": 832,
+ "updated_at": 1793738380
 }
