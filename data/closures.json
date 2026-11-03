@@ -1,146 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1793327630,
-   "company": "Thoughtworks",
-   "hours_open": 11.2,
-   "title": "Software Developer New Grad",
-   "uid": "simplify:listings:756f5acb-ee83-4d78-8f4b-7cbbdaff4b18"
-  },
-  {
-   "closed_at": 1793327630,
-   "company": "shieldai",
-   "hours_open": 48.2,
-   "title": "Engineer I, Software Test and Automation (R6216) - New Grad",
-   "uid": "lever:shieldai:d80f9bad-a014-475a-a018-a676eb6fbad7"
-  },
-  {
-   "closed_at": 1793327630,
-   "company": "twitch",
-   "hours_open": 1353.6,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1793327630,
-   "company": "reddit",
-   "hours_open": 314.8,
-   "title": "Machine Learning Engineer",
-   "uid": "greenhouse:reddit:7131932"
-  },
-  {
-   "closed_at": 1793327630,
-   "company": "Domino Data Lab",
-   "hours_open": 1203.6,
-   "title": "Forward Deployed Engineer New Grad",
-   "uid": "simplify:listings:7b2a1e78-a6a7-42e9-8120-2e4b3187e580"
-  },
-  {
-   "closed_at": 1793327630,
-   "company": "True Anomaly",
-   "hours_open": 1390.2,
-   "title": "Data Science Software Engineer 1 New Grad - Data Science",
-   "uid": "simplify:listings:2b100e48-0d13-4ce4-84ba-7549d0d15f9b"
-  },
-  {
-   "closed_at": 1793327630,
-   "company": "astranis",
-   "hours_open": 847.1,
-   "title": "Software Developer, Network Software Intern (Summer 2027)",
-   "uid": "greenhouse:astranis:4705597006"
-  },
-  {
-   "closed_at": 1793327630,
-   "company": "astranis",
-   "hours_open": 847.1,
-   "title": "Software Developer, Network Software Intern (Winter 2027)",
-   "uid": "greenhouse:astranis:4705599006"
-  },
-  {
-   "closed_at": 1793328152,
-   "company": "AECOM",
-   "hours_open": 20.5,
-   "title": "AI Solution Engineer",
-   "uid": "smartrecruiters:AECOM2:744000158392340"
-  },
-  {
-   "closed_at": 1793328152,
-   "company": "Boyd Gaming",
-   "hours_open": 20.5,
-   "title": "ENTRY LEVEL - Maintenance Engineer grave shift",
-   "uid": "smartrecruiters:BoydGaming:3743990016475566"
-  },
-  {
-   "closed_at": 1793328152,
-   "company": "Bosch Group",
-   "hours_open": 20.5,
-   "title": "JUNIOR INFORMATION & CYBER SECURITY ANALYST - 36287",
-   "uid": "smartrecruiters:BoschGroup:744000158305922"
-  },
-  {
-   "closed_at": 1793328152,
-   "company": "Bosch Group",
-   "hours_open": 20.5,
-   "title": "Technical Sales & Project Management Internship",
-   "uid": "smartrecruiters:BoschGroup:744000158265839"
-  },
-  {
-   "closed_at": 1793328152,
-   "company": "Bosch Group",
-   "hours_open": 20.5,
-   "title": "[SX/BSV-VN] Embedded Test Engineer Intern",
-   "uid": "smartrecruiters:BoschGroup:744000158244934"
-  },
-  {
-   "closed_at": 1793328152,
-   "company": "ALTEN",
-   "hours_open": 20.5,
-   "title": "Junior Test & Validation system engineer (Embedded Systems) ",
-   "uid": "smartrecruiters:ALTEN:744000158240714"
-  },
-  {
-   "closed_at": 1793328152,
-   "company": "Source Code",
-   "hours_open": 188.7,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:control systems analyst:50553479"
-  },
-  {
-   "closed_at": 1793328840,
-   "company": "Sopra Steria",
-   "hours_open": 19.9,
-   "title": "Junior Salesforce Developer",
-   "uid": "smartrecruiters:SopraSteria1:744000158325575"
-  },
-  {
-   "closed_at": 1793328840,
-   "company": "Sopra Steria",
-   "hours_open": 19.9,
-   "title": "Junior Software Developer Java & AI (m/w/d)",
-   "uid": "smartrecruiters:SopraSteria1:744000158234639"
-  },
-  {
-   "closed_at": 1793328840,
-   "company": "Source Code",
-   "hours_open": 174.8,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:systems analyst:50553479"
-  },
-  {
-   "closed_at": 1793328840,
-   "company": "Renesas Electronics",
-   "hours_open": 44.9,
-   "title": "Intern, Application Engineer",
-   "uid": "smartrecruiters:RenesasElectronics:744000157804996"
-  },
-  {
-   "closed_at": 1793338775,
-   "company": "Thoughtworks",
-   "hours_open": 3.1,
-   "title": "Software Developer New Grad",
-   "uid": "simplify:listings:7cf02321-1109-4b76-b4f0-46ea301199c1"
-  },
-  {
    "closed_at": 1793338775,
    "company": "Parent Organization",
    "hours_open": 351.4,
@@ -151,7 +11,7 @@
    "closed_at": 1793338775,
    "company": "CGI",
    "hours_open": 1236.5,
-   "title": "Conseiller(\u00e8re) en architecture de cybers\u00e9curit\u00e9",
+   "title": "Conseiller(ère) en architecture de cybersécurité",
    "uid": "jobillico:analyste cybersecurite:17433753"
   },
   {
@@ -207,14 +67,14 @@
    "closed_at": 1793338775,
    "company": "QualiTech",
    "hours_open": 10.6,
-   "title": "Sp\u00e9cialiste infrastructure, r\u00e9seaux et t\u00e9l\u00e9communications (fly-in fly-out)",
+   "title": "Spécialiste infrastructure, réseaux et télécommunications (fly-in fly-out)",
    "uid": "jobillico:specialiste infrastructure:17657502"
   },
   {
    "closed_at": 1793338775,
    "company": "Umano Medical",
    "hours_open": 1236.5,
-   "title": "Concepteur logiciel embarqu\u00e9 et cybers\u00e9curit\u00e9",
+   "title": "Concepteur logiciel embarqué et cybersécurité",
    "uid": "jobillico:analyste cybersecurite:17489580"
   },
   {
@@ -256,7 +116,7 @@
    "closed_at": 1793343706,
    "company": "CGI",
    "hours_open": 1237.9,
-   "title": "Conseiller(\u00e8re) en audit de cybers\u00e9curit\u00e9",
+   "title": "Conseiller(ère) en audit de cybersécurité",
    "uid": "jobillico:analyste cybersecurite:17433750"
   },
   {
@@ -375,7 +235,7 @@
    "closed_at": 1793351068,
    "company": "ccf",
    "hours_open": 387.6,
-   "title": "New Grad RN \u2013 Acute Care Neurology and Cardiac Telemetry",
+   "title": "New Grad RN – Acute Care Neurology and Cardiac Telemetry",
    "uid": "workday:ccf.wd1/ClevelandClinicCareers:RN---Acute-Care-Neurology-and-Cardiac-Telemetry_334418-1"
   },
   {
@@ -438,7 +298,7 @@
    "closed_at": 1793351285,
    "company": "CGI",
    "hours_open": 1240.0,
-   "title": "Conseiller(\u00e8re) en architecture de cybers\u00e9curit\u00e9",
+   "title": "Conseiller(ère) en architecture de cybersécurité",
    "uid": "jobillico:analyste cybersecurite:17433753"
   },
   {
@@ -578,7 +438,7 @@
    "closed_at": 1793368971,
    "company": "mirego",
    "hours_open": 96.4,
-   "title": "D\u00e9veloppeur(euse) logiciel Back-End / DevOps",
+   "title": "Développeur(euse) logiciel Back-End / DevOps",
    "uid": "lever:mirego:9e063801-4830-4d9d-ac7d-2774231d9657"
   },
   {
@@ -662,14 +522,14 @@
    "closed_at": 1793375124,
    "company": "CGI",
    "hours_open": 1246.6,
-   "title": "Conseiller(\u00e8re) en architecture de cybers\u00e9curit\u00e9",
+   "title": "Conseiller(ère) en architecture de cybersécurité",
    "uid": "jobillico:analyste cybersecurite:17433753"
   },
   {
    "closed_at": 1793375124,
    "company": "CGI",
    "hours_open": 1246.6,
-   "title": "Conseiller(\u00e8re) en audit de cybers\u00e9curit\u00e9",
+   "title": "Conseiller(ère) en audit de cybersécurité",
    "uid": "jobillico:analyste cybersecurite:17433750"
   },
   {
@@ -683,7 +543,7 @@
    "closed_at": 1793375124,
    "company": "QualiTech",
    "hours_open": 21.0,
-   "title": "Sp\u00e9cialiste infrastructure, r\u00e9seaux et t\u00e9l\u00e9communications (fly-in fly-out)",
+   "title": "Spécialiste infrastructure, réseaux et télécommunications (fly-in fly-out)",
    "uid": "jobillico:specialiste infrastructure:17657508"
   },
   {
@@ -907,14 +767,14 @@
    "closed_at": 1793375656,
    "company": "Logesco Informatique",
    "hours_open": 1246.8,
-   "title": "Administrateur de r\u00e9seau",
+   "title": "Administrateur de réseau",
    "uid": "jobillico:analyste reseau:17188132"
   },
   {
    "closed_at": 1793375656,
    "company": "Icentia inc.",
    "hours_open": 404.3,
-   "title": "Technicien TI, Cybers\u00e9curit\u00e9 et Agents IA",
+   "title": "Technicien TI, Cybersécurité et Agents IA",
    "uid": "jobillico:analyste cybersecurite:17592852"
   },
   {
@@ -1019,7 +879,7 @@
    "closed_at": 1793380454,
    "company": "Logesco Informatique",
    "hours_open": 1248.1,
-   "title": "Administrateur de r\u00e9seau",
+   "title": "Administrateur de réseau",
    "uid": "jobillico:analyste reseau:17188132"
   },
   {
@@ -1124,7 +984,7 @@
    "closed_at": 1793380454,
    "company": "CGI",
    "hours_open": 1248.1,
-   "title": "Conseiller(\u00e8re) en audit de cybers\u00e9curit\u00e9",
+   "title": "Conseiller(ère) en audit de cybersécurité",
    "uid": "jobillico:analyste cybersecurite:17433750"
   },
   {
@@ -1227,9 +1087,9 @@
   },
   {
    "closed_at": 1793387896,
-   "company": "General Dynamics Produits de d\u00e9fense et Syst\u00e8mes Tactiques",
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
    "hours_open": 249.1,
-   "title": "Administrateur R\u00e9seau TI",
+   "title": "Administrateur Réseau TI",
    "uid": "jobillico:analyste reseau:17628663"
   },
   {
@@ -1257,28 +1117,28 @@
    "closed_at": 1793391064,
    "company": "Logesco Informatique",
    "hours_open": 1251.0,
-   "title": "Administrateur de r\u00e9seau",
+   "title": "Administrateur de réseau",
    "uid": "jobillico:analyste reseau:17188132"
   },
   {
    "closed_at": 1793391064,
    "company": "CGI",
    "hours_open": 1251.0,
-   "title": "Conseiller(\u00e8re) en architecture de cybers\u00e9curit\u00e9",
+   "title": "Conseiller(ère) en architecture de cybersécurité",
    "uid": "jobillico:analyste cybersecurite:17433753"
   },
   {
    "closed_at": 1793391064,
    "company": "Icentia inc.",
    "hours_open": 408.6,
-   "title": "Technicien TI, Cybers\u00e9curit\u00e9 et Agents IA",
+   "title": "Technicien TI, Cybersécurité et Agents IA",
    "uid": "jobillico:analyste cybersecurite:17592852"
   },
   {
    "closed_at": 1793391064,
    "company": "QualiTech",
    "hours_open": 25.1,
-   "title": "Sp\u00e9cialiste infrastructure, r\u00e9seaux et t\u00e9l\u00e9communications (fly-in fly-out)",
+   "title": "Spécialiste infrastructure, réseaux et télécommunications (fly-in fly-out)",
    "uid": "jobillico:specialiste infrastructure:17657502"
   },
   {
@@ -1318,9 +1178,9 @@
   },
   {
    "closed_at": 1793391867,
-   "company": "General Dynamics Produits de d\u00e9fense et Syst\u00e8mes Tactiques",
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
    "hours_open": 250.2,
-   "title": "Administrateur R\u00e9seau TI",
+   "title": "Administrateur Réseau TI",
    "uid": "jobillico:analyste reseau:17628663"
   },
   {
@@ -1341,7 +1201,7 @@
    "closed_at": 1793396047,
    "company": "Logesco Informatique",
    "hours_open": 1252.4,
-   "title": "Administrateur de r\u00e9seau",
+   "title": "Administrateur de réseau",
    "uid": "jobillico:analyste reseau:17188132"
   },
   {
@@ -1404,14 +1264,14 @@
    "closed_at": 1793401478,
    "company": "CGI",
    "hours_open": 1253.9,
-   "title": "Conseiller(\u00e8re) en audit de cybers\u00e9curit\u00e9",
+   "title": "Conseiller(ère) en audit de cybersécurité",
    "uid": "jobillico:analyste cybersecurite:17433750"
   },
   {
    "closed_at": 1793401478,
    "company": "QualiTech",
    "hours_open": 28.3,
-   "title": "Sp\u00e9cialiste infrastructure, r\u00e9seaux et t\u00e9l\u00e9communications (fly-in fly-out)",
+   "title": "Spécialiste infrastructure, réseaux et télécommunications (fly-in fly-out)",
    "uid": "jobillico:specialiste infrastructure:17657508"
   },
   {
@@ -1558,28 +1418,28 @@
    "closed_at": 1793408575,
    "company": "Bosch Group",
    "hours_open": 22.3,
-   "title": "\uff3bETAS\uff3dVehicle Diagnostics Customer Solution Engineer",
+   "title": "［ETAS］Vehicle Diagnostics Customer Solution Engineer",
    "uid": "smartrecruiters:BoschGroup:744000158624230"
   },
   {
    "closed_at": 1793408575,
    "company": "CGI",
    "hours_open": 1255.9,
-   "title": "Conseiller(\u00e8re) en architecture de cybers\u00e9curit\u00e9",
+   "title": "Conseiller(ère) en architecture de cybersécurité",
    "uid": "jobillico:analyste cybersecurite:17433753"
   },
   {
    "closed_at": 1793408575,
    "company": "Icentia inc.",
    "hours_open": 413.5,
-   "title": "Technicien TI, Cybers\u00e9curit\u00e9 et Agents IA",
+   "title": "Technicien TI, Cybersécurité et Agents IA",
    "uid": "jobillico:analyste cybersecurite:17592852"
   },
   {
    "closed_at": 1793408575,
    "company": "QualiTech",
    "hours_open": 30.0,
-   "title": "Sp\u00e9cialiste infrastructure, r\u00e9seaux et t\u00e9l\u00e9communications (fly-in fly-out)",
+   "title": "Spécialiste infrastructure, réseaux et télécommunications (fly-in fly-out)",
    "uid": "jobillico:specialiste infrastructure:17657502"
   },
   {
@@ -1663,7 +1523,7 @@
    "closed_at": 1793414920,
    "company": "ServiceNow",
    "hours_open": 43.8,
-   "title": "Forward Deployed Solution Engineer \u2013 Applied\u202fAI FDE",
+   "title": "Forward Deployed Solution Engineer – Applied AI FDE",
    "uid": "smartrecruiters:ServiceNow:744000158334169"
   },
   {
@@ -1684,14 +1544,14 @@
    "closed_at": 1793415040,
    "company": "ServiceNow",
    "hours_open": 43.8,
-   "title": "Forward Deployed Solution Engineer \u2013 Applied\u202fAI FDE",
+   "title": "Forward Deployed Solution Engineer – Applied AI FDE",
    "uid": "smartrecruiters:ServiceNow:744000158334169"
   },
   {
    "closed_at": 1793415040,
    "company": "QualiTech",
    "hours_open": 32.0,
-   "title": "Sp\u00e9cialiste infrastructure, r\u00e9seaux et t\u00e9l\u00e9communications (fly-in fly-out)",
+   "title": "Spécialiste infrastructure, réseaux et télécommunications (fly-in fly-out)",
    "uid": "jobillico:specialiste infrastructure:17657508"
   },
   {
@@ -1747,7 +1607,7 @@
    "closed_at": 1793424207,
    "company": "QualiTech",
    "hours_open": 34.6,
-   "title": "Sp\u00e9cialiste infrastructure, r\u00e9seaux et t\u00e9l\u00e9communications (fly-in fly-out)",
+   "title": "Spécialiste infrastructure, réseaux et télécommunications (fly-in fly-out)",
    "uid": "jobillico:specialiste infrastructure:17657508"
   },
   {
@@ -1782,7 +1642,7 @@
    "closed_at": 1793429802,
    "company": "Cooptel",
    "hours_open": 1261.8,
-   "title": "Administrateur r\u00e9seau",
+   "title": "Administrateur réseau",
    "uid": "jobillico:analyste reseau:17185045"
   },
   {
@@ -1943,7 +1803,7 @@
    "closed_at": 1793437153,
    "company": "Cooptel",
    "hours_open": 2.0,
-   "title": "Administrateur r\u00e9seau",
+   "title": "Administrateur réseau",
    "uid": "jobillico:administrateur systeme:17185045"
   },
   {
@@ -2027,7 +1887,7 @@
    "closed_at": 1793453154,
    "company": "Cooptel",
    "hours_open": 1268.3,
-   "title": "Administrateur r\u00e9seau",
+   "title": "Administrateur réseau",
    "uid": "jobillico:analyste reseau:17185045"
   },
   {
@@ -2097,7 +1957,7 @@
    "closed_at": 1793457887,
    "company": "Cooptel",
    "hours_open": 7.8,
-   "title": "Administrateur r\u00e9seau",
+   "title": "Administrateur réseau",
    "uid": "jobillico:administrateur systeme:17185045"
   },
   {
@@ -2237,7 +2097,7 @@
    "closed_at": 1793459796,
    "company": "Cooptel",
    "hours_open": 1270.1,
-   "title": "Administrateur r\u00e9seau",
+   "title": "Administrateur réseau",
    "uid": "jobillico:analyste reseau:17185045"
   },
   {
@@ -2265,7 +2125,7 @@
    "closed_at": 1793462677,
    "company": "Cooptel",
    "hours_open": 9.1,
-   "title": "Administrateur r\u00e9seau",
+   "title": "Administrateur réseau",
    "uid": "jobillico:administrateur systeme:17185045"
   },
   {
@@ -2286,7 +2146,7 @@
    "closed_at": 1793469232,
    "company": "Cooptel",
    "hours_open": 1272.7,
-   "title": "Administrateur r\u00e9seau",
+   "title": "Administrateur réseau",
    "uid": "jobillico:analyste reseau:17185045"
   },
   {
@@ -2314,7 +2174,7 @@
    "closed_at": 1793472709,
    "company": "Cooptel",
    "hours_open": 11.9,
-   "title": "Administrateur r\u00e9seau",
+   "title": "Administrateur réseau",
    "uid": "jobillico:administrateur systeme:17185045"
   },
   {
@@ -2328,7 +2188,7 @@
    "closed_at": 1793474094,
    "company": "Cooptel",
    "hours_open": 1274.1,
-   "title": "Administrateur r\u00e9seau",
+   "title": "Administrateur réseau",
    "uid": "jobillico:analyste reseau:17185045"
   },
   {
@@ -2349,7 +2209,7 @@
    "closed_at": 1793474624,
    "company": "Cooptel",
    "hours_open": 12.5,
-   "title": "Administrateur r\u00e9seau",
+   "title": "Administrateur réseau",
    "uid": "jobillico:administrateur systeme:17185045"
   },
   {
@@ -2377,7 +2237,7 @@
    "closed_at": 1793480077,
    "company": "Cooptel",
    "hours_open": 1275.8,
-   "title": "Administrateur r\u00e9seau",
+   "title": "Administrateur réseau",
    "uid": "jobillico:analyste reseau:17185045"
   },
   {
@@ -2398,7 +2258,7 @@
    "closed_at": 1793484393,
    "company": "Cooptel",
    "hours_open": 15.2,
-   "title": "Administrateur r\u00e9seau",
+   "title": "Administrateur réseau",
    "uid": "jobillico:administrateur systeme:17185045"
   },
   {
@@ -2412,7 +2272,7 @@
    "closed_at": 1793485914,
    "company": "Cooptel",
    "hours_open": 1277.4,
-   "title": "Administrateur r\u00e9seau",
+   "title": "Administrateur réseau",
    "uid": "jobillico:analyste reseau:17185045"
   },
   {
@@ -2447,7 +2307,7 @@
    "closed_at": 1793491064,
    "company": "Cooptel",
    "hours_open": 17.0,
-   "title": "Administrateur r\u00e9seau",
+   "title": "Administrateur réseau",
    "uid": "jobillico:administrateur systeme:17185045"
   },
   {
@@ -2461,7 +2321,7 @@
    "closed_at": 1793491064,
    "company": "abb",
    "hours_open": 1316.9,
-   "title": "Sales Engineer \u2013 Service Division",
+   "title": "Sales Engineer – Service Division",
    "uid": "workday:abb.wd3/external_career_page:Service-Sales-specialist_JR00003209"
   },
   {
@@ -2510,7 +2370,7 @@
    "closed_at": 1793495330,
    "company": "GE Vernova",
    "hours_open": 26.1,
-   "title": "D\u00e9veloppeur de logiciels embarqu\u00e9s pour \u00e9l\u00e9ments de protection F/H - Protection Element Embedded SW Developer",
+   "title": "Développeur de logiciels embarqués pour éléments de protection F/H - Protection Element Embedded SW Developer",
    "uid": "jobillico:developpeur logiciel:17583378"
   },
   {
@@ -2522,23 +2382,23 @@
   },
   {
    "closed_at": 1793495330,
-   "company": "General Dynamics Produits de d\u00e9fense et Syst\u00e8mes Tactiques",
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
    "hours_open": 278.9,
-   "title": "Administrateur R\u00e9seau TI",
+   "title": "Administrateur Réseau TI",
    "uid": "jobillico:analyste reseau:17628663"
   },
   {
    "closed_at": 1793496324,
    "company": "CGI",
    "hours_open": 1280.3,
-   "title": "Conseiller(\u00e8re) en audit de cybers\u00e9curit\u00e9",
+   "title": "Conseiller(ère) en audit de cybersécurité",
    "uid": "jobillico:analyste cybersecurite:17433750"
   },
   {
    "closed_at": 1793496599,
    "company": "Logesco Informatique",
    "hours_open": 1280.4,
-   "title": "Administrateur de r\u00e9seau",
+   "title": "Administrateur de réseau",
    "uid": "jobillico:analyste reseau:17188132"
   },
   {
@@ -2573,14 +2433,14 @@
    "closed_at": 1793510486,
    "company": "CGI",
    "hours_open": 1284.2,
-   "title": "Conseiller(\u00e8re) en architecture de cybers\u00e9curit\u00e9",
+   "title": "Conseiller(ère) en architecture de cybersécurité",
    "uid": "jobillico:analyste cybersecurite:17433753"
   },
   {
    "closed_at": 1793510486,
    "company": "Icentia inc.",
    "hours_open": 441.8,
-   "title": "Technicien TI, Cybers\u00e9curit\u00e9 et Agents IA",
+   "title": "Technicien TI, Cybersécurité et Agents IA",
    "uid": "jobillico:analyste cybersecurite:17592852"
   },
   {
@@ -2648,9 +2508,9 @@
   },
   {
    "closed_at": 1793510486,
-   "company": "General Dynamics Produits de d\u00e9fense et Syst\u00e8mes Tactiques",
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
    "hours_open": 283.1,
-   "title": "Administrateur R\u00e9seau TI",
+   "title": "Administrateur Réseau TI",
    "uid": "jobillico:analyste reseau:17628663"
   },
   {
@@ -2664,7 +2524,7 @@
    "closed_at": 1793518340,
    "company": "CGI",
    "hours_open": 1286.4,
-   "title": "Conseiller(\u00e8re) en audit de cybers\u00e9curit\u00e9",
+   "title": "Conseiller(ère) en audit de cybersécurité",
    "uid": "jobillico:analyste cybersecurite:17433750"
   },
   {
@@ -2713,7 +2573,7 @@
    "closed_at": 1793519150,
    "company": "Icentia inc.",
    "hours_open": 444.2,
-   "title": "Technicien TI, Cybers\u00e9curit\u00e9 et Agents IA",
+   "title": "Technicien TI, Cybersécurité et Agents IA",
    "uid": "jobillico:analyste cybersecurite:17592852"
   },
   {
@@ -2783,21 +2643,21 @@
    "closed_at": 1793520195,
    "company": "Logesco Informatique",
    "hours_open": 1286.9,
-   "title": "Administrateur de r\u00e9seau",
+   "title": "Administrateur de réseau",
    "uid": "jobillico:analyste reseau:17188132"
   },
   {
    "closed_at": 1793520195,
    "company": "CGI",
    "hours_open": 1286.9,
-   "title": "Conseiller(\u00e8re) en audit de cybers\u00e9curit\u00e9",
+   "title": "Conseiller(ère) en audit de cybersécurité",
    "uid": "jobillico:analyste cybersecurite:17433750"
   },
   {
    "closed_at": 1793525466,
    "company": "Icentia inc.",
    "hours_open": 445.9,
-   "title": "Technicien TI, Cybers\u00e9curit\u00e9 et Agents IA",
+   "title": "Technicien TI, Cybersécurité et Agents IA",
    "uid": "jobillico:analyste cybersecurite:17592852"
   },
   {
@@ -2860,42 +2720,42 @@
    "closed_at": 1793543413,
    "company": "CGI",
    "hours_open": 1293.4,
-   "title": "Conseiller(\u00e8re) en audit de cybers\u00e9curit\u00e9",
+   "title": "Conseiller(ère) en audit de cybersécurité",
    "uid": "jobillico:analyste cybersecurite:17433750"
   },
   {
    "closed_at": 1793543583,
    "company": "Icentia inc.",
    "hours_open": 451.0,
-   "title": "Technicien TI, Cybers\u00e9curit\u00e9 et Agents IA",
+   "title": "Technicien TI, Cybersécurité et Agents IA",
    "uid": "jobillico:analyste cybersecurite:17592852"
   },
   {
    "closed_at": 1793543583,
-   "company": "General Dynamics Produits de d\u00e9fense et Syst\u00e8mes Tactiques",
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
    "hours_open": 292.3,
-   "title": "Administrateur R\u00e9seau TI",
+   "title": "Administrateur Réseau TI",
    "uid": "jobillico:analyste reseau:17628663"
   },
   {
    "closed_at": 1793545219,
    "company": "CGI",
    "hours_open": 1293.9,
-   "title": "Conseiller(\u00e8re) en audit de cybers\u00e9curit\u00e9",
+   "title": "Conseiller(ère) en audit de cybersécurité",
    "uid": "jobillico:analyste cybersecurite:17433750"
   },
   {
    "closed_at": 1793549988,
    "company": "Logesco Informatique",
    "hours_open": 1295.2,
-   "title": "Administrateur de r\u00e9seau",
+   "title": "Administrateur de réseau",
    "uid": "jobillico:analyste reseau:17188132"
   },
   {
    "closed_at": 1793549988,
    "company": "Icentia inc.",
    "hours_open": 452.8,
-   "title": "Technicien TI, Cybers\u00e9curit\u00e9 et Agents IA",
+   "title": "Technicien TI, Cybersécurité et Agents IA",
    "uid": "jobillico:analyste cybersecurite:17592852"
   },
   {
@@ -2909,7 +2769,7 @@
    "closed_at": 1793555399,
    "company": "CGI",
    "hours_open": 1296.7,
-   "title": "Conseiller(\u00e8re) en architecture de cybers\u00e9curit\u00e9",
+   "title": "Conseiller(ère) en architecture de cybersécurité",
    "uid": "jobillico:analyste cybersecurite:17433753"
   },
   {
@@ -2935,9 +2795,9 @@
   },
   {
    "closed_at": 1793560216,
-   "company": "General Dynamics Produits de d\u00e9fense et Syst\u00e8mes Tactiques",
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
    "hours_open": 296.9,
-   "title": "Administrateur R\u00e9seau TI",
+   "title": "Administrateur Réseau TI",
    "uid": "jobillico:analyste reseau:17628663"
   },
   {
@@ -2951,14 +2811,14 @@
    "closed_at": 1793561475,
    "company": "Logesco Informatique",
    "hours_open": 1298.4,
-   "title": "Administrateur de r\u00e9seau",
+   "title": "Administrateur de réseau",
    "uid": "jobillico:analyste reseau:17188132"
   },
   {
    "closed_at": 1793565575,
    "company": "CGI",
    "hours_open": 1299.5,
-   "title": "Conseiller(\u00e8re) en architecture de cybers\u00e9curit\u00e9",
+   "title": "Conseiller(ère) en architecture de cybersécurité",
    "uid": "jobillico:analyste cybersecurite:17433753"
   },
   {
@@ -2993,7 +2853,7 @@
    "closed_at": 1793568293,
    "company": "firetiger",
    "hours_open": 1437.4,
-   "title": "Product Engineer \u2014 New Grad",
+   "title": "Product Engineer — New Grad",
    "uid": "ashby:firetiger:a65c30a8-6bdb-4258-9d6a-5e6e90ff86e6"
   },
   {
@@ -3007,7 +2867,7 @@
    "closed_at": 1793568293,
    "company": "Icentia inc.",
    "hours_open": 457.8,
-   "title": "Technicien TI, Cybers\u00e9curit\u00e9 et Agents IA",
+   "title": "Technicien TI, Cybersécurité et Agents IA",
    "uid": "jobillico:analyste cybersecurite:17592852"
   },
   {
@@ -3021,7 +2881,7 @@
    "closed_at": 1793568293,
    "company": "firetiger",
    "hours_open": 1428.3,
-   "title": "Product Engineer \u2014 Intern/Co-op",
+   "title": "Product Engineer — Intern/Co-op",
    "uid": "ashby:firetiger:7acf0768-f10d-4650-bcfc-12ed6e5d7cfc"
   },
   {
@@ -3068,9 +2928,9 @@
   },
   {
    "closed_at": 1793573176,
-   "company": "General Dynamics Produits de d\u00e9fense et Syst\u00e8mes Tactiques",
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
    "hours_open": 300.5,
-   "title": "Administrateur R\u00e9seau TI",
+   "title": "Administrateur Réseau TI",
    "uid": "jobillico:analyste reseau:17628663"
   },
   {
@@ -3098,7 +2958,7 @@
    "closed_at": 1793574066,
    "company": "CGI",
    "hours_open": 1301.9,
-   "title": "Conseiller(\u00e8re) en architecture de cybers\u00e9curit\u00e9",
+   "title": "Conseiller(ère) en architecture de cybersécurité",
    "uid": "jobillico:analyste cybersecurite:17433753"
   },
   {
@@ -3168,21 +3028,21 @@
    "closed_at": 1793581119,
    "company": "Logesco Informatique",
    "hours_open": 1303.8,
-   "title": "Administrateur de r\u00e9seau",
+   "title": "Administrateur de réseau",
    "uid": "jobillico:analyste reseau:17188132"
   },
   {
    "closed_at": 1793581119,
    "company": "CGI",
    "hours_open": 1303.8,
-   "title": "Conseiller(\u00e8re) en audit de cybers\u00e9curit\u00e9",
+   "title": "Conseiller(ère) en audit de cybersécurité",
    "uid": "jobillico:analyste cybersecurite:17433750"
   },
   {
    "closed_at": 1793581119,
    "company": "CGI",
    "hours_open": 1303.8,
-   "title": "Conseiller(\u00e8re) en architecture de cybers\u00e9curit\u00e9",
+   "title": "Conseiller(ère) en architecture de cybersécurité",
    "uid": "jobillico:analyste cybersecurite:17433753"
   },
   {
@@ -3210,7 +3070,7 @@
    "closed_at": 1793584439,
    "company": "Icentia inc.",
    "hours_open": 462.3,
-   "title": "Technicien TI, Cybers\u00e9curit\u00e9 et Agents IA",
+   "title": "Technicien TI, Cybersécurité et Agents IA",
    "uid": "jobillico:analyste cybersecurite:17592852"
   },
   {
@@ -3243,9 +3103,9 @@
   },
   {
    "closed_at": 1793584439,
-   "company": "General Dynamics Produits de d\u00e9fense et Syst\u00e8mes Tactiques",
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
    "hours_open": 303.7,
-   "title": "Administrateur R\u00e9seau TI",
+   "title": "Administrateur Réseau TI",
    "uid": "jobillico:analyste reseau:17628663"
   },
   {
@@ -3322,14 +3182,14 @@
    "closed_at": 1793597455,
    "company": "Logesco Informatique",
    "hours_open": 1308.4,
-   "title": "Administrateur de r\u00e9seau",
+   "title": "Administrateur de réseau",
    "uid": "jobillico:analyste reseau:17188132"
   },
   {
    "closed_at": 1793597455,
    "company": "CGI",
    "hours_open": 1308.4,
-   "title": "Conseiller(\u00e8re) en audit de cybers\u00e9curit\u00e9",
+   "title": "Conseiller(ère) en audit de cybersécurité",
    "uid": "jobillico:analyste cybersecurite:17433750"
   },
   {
@@ -3357,7 +3217,7 @@
    "closed_at": 1793604941,
    "company": "Icentia inc.",
    "hours_open": 468.0,
-   "title": "Technicien TI, Cybers\u00e9curit\u00e9 et Agents IA",
+   "title": "Technicien TI, Cybersécurité et Agents IA",
    "uid": "jobillico:analyste cybersecurite:17592852"
   },
   {
@@ -3369,9 +3229,9 @@
   },
   {
    "closed_at": 1793604941,
-   "company": "General Dynamics Produits de d\u00e9fense et Syst\u00e8mes Tactiques",
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
    "hours_open": 309.4,
-   "title": "Administrateur R\u00e9seau TI",
+   "title": "Administrateur Réseau TI",
    "uid": "jobillico:analyste reseau:17628663"
   },
   {
@@ -3392,14 +3252,14 @@
    "closed_at": 1793608145,
    "company": "Logesco Informatique",
    "hours_open": 1311.3,
-   "title": "Administrateur de r\u00e9seau",
+   "title": "Administrateur de réseau",
    "uid": "jobillico:analyste reseau:17188132"
   },
   {
    "closed_at": 1793608145,
    "company": "CGI",
    "hours_open": 1311.3,
-   "title": "Conseiller(\u00e8re) en audit de cybers\u00e9curit\u00e9",
+   "title": "Conseiller(ère) en audit de cybersécurité",
    "uid": "jobillico:analyste cybersecurite:17433750"
   },
   {
@@ -3418,16 +3278,16 @@
   },
   {
    "closed_at": 1793611222,
-   "company": "General Dynamics Produits de d\u00e9fense et Syst\u00e8mes Tactiques",
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
    "hours_open": 311.1,
-   "title": "Administrateur R\u00e9seau TI",
+   "title": "Administrateur Réseau TI",
    "uid": "jobillico:analyste reseau:17628663"
   },
   {
    "closed_at": 1793612550,
    "company": "Logesco Informatique",
    "hours_open": 1312.6,
-   "title": "Administrateur de r\u00e9seau",
+   "title": "Administrateur de réseau",
    "uid": "jobillico:analyste reseau:17188132"
   },
   {
@@ -3504,14 +3364,14 @@
    "closed_at": 1793627305,
    "company": "CGI",
    "hours_open": 1316.7,
-   "title": "Conseiller(\u00e8re) en architecture de cybers\u00e9curit\u00e9",
+   "title": "Conseiller(ère) en architecture de cybersécurité",
    "uid": "jobillico:analyste cybersecurite:17433753"
   },
   {
    "closed_at": 1793627305,
    "company": "Icentia inc.",
    "hours_open": 474.2,
-   "title": "Technicien TI, Cybers\u00e9curit\u00e9 et Agents IA",
+   "title": "Technicien TI, Cybersécurité et Agents IA",
    "uid": "jobillico:analyste cybersecurite:17592852"
   },
   {
@@ -3544,9 +3404,9 @@
   },
   {
    "closed_at": 1793627305,
-   "company": "General Dynamics Produits de d\u00e9fense et Syst\u00e8mes Tactiques",
+   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
    "hours_open": 315.6,
-   "title": "Administrateur R\u00e9seau TI",
+   "title": "Administrateur Réseau TI",
    "uid": "jobillico:analyste reseau:17628663"
   },
   {
@@ -3574,7 +3434,7 @@
    "closed_at": 1793640387,
    "company": "CGI",
    "hours_open": 1320.3,
-   "title": "Conseiller(\u00e8re) en audit de cybers\u00e9curit\u00e9",
+   "title": "Conseiller(ère) en audit de cybersécurité",
    "uid": "jobillico:analyste cybersecurite:17433750"
   },
   {
@@ -3595,14 +3455,14 @@
    "closed_at": 1793640387,
    "company": "gallup",
    "hours_open": 662.4,
-   "title": "DevOps Engineer Intern \u2014 Summer 2027",
+   "title": "DevOps Engineer Intern — Summer 2027",
    "uid": "greenhouse:gallup:4393830009"
   },
   {
    "closed_at": 1793640387,
    "company": "gallup",
    "hours_open": 662.4,
-   "title": "Site Reliability Engineer Intern \u2014 Summer 2027",
+   "title": "Site Reliability Engineer Intern — Summer 2027",
    "uid": "greenhouse:gallup:4393731009"
   },
   {
@@ -3672,7 +3532,7 @@
    "closed_at": 1793640387,
    "company": "accenturefederalservices",
    "hours_open": 1440.5,
-   "title": "Microsoft Developer \u2013 Power Platforms",
+   "title": "Microsoft Developer – Power Platforms",
    "uid": "greenhouse:accenturefederalservices:4704434006"
   },
   {
@@ -3686,7 +3546,7 @@
    "closed_at": 1793645026,
    "company": "replit",
    "hours_open": 600.8,
-   "title": "Software Engineering Intern \u2013 Winter 2027 ",
+   "title": "Software Engineering Intern – Winter 2027 ",
    "uid": "ashby:replit:7c3c9d29-cec2-4367-8564-eadaed165aea"
   },
   {
@@ -3798,7 +3658,7 @@
    "closed_at": 1793648418,
    "company": "CGI",
    "hours_open": 1322.5,
-   "title": "Conseiller(\u00e8re) en architecture de cybers\u00e9curit\u00e9",
+   "title": "Conseiller(ère) en architecture de cybersécurité",
    "uid": "jobillico:analyste cybersecurite:17433753"
   },
   {
@@ -4015,7 +3875,7 @@
    "closed_at": 1793658661,
    "company": "Collier Aerospace",
    "hours_open": 287.7,
-   "title": "Software Engineer \u2013 Entry Level",
+   "title": "Software Engineer – Entry Level",
    "uid": "simplify:listings:7ed5a47d-9d52-4ec3-8b73-90c5f6a726ed"
   },
   {
@@ -4505,7 +4365,7 @@
    "closed_at": 1793687557,
    "company": "gehc",
    "hours_open": 69.6,
-   "title": "Production Engineer \u2013 Project Engineer (1)",
+   "title": "Production Engineer – Project Engineer (1)",
    "uid": "workday:gehc.wd5/GEHC_ExternalSite:Production-Engineer---Project-Engineer--1-_R4047721"
   },
   {
@@ -4568,7 +4428,7 @@
    "closed_at": 1793687557,
    "company": "ercot",
    "hours_open": 247.1,
-   "title": "GMS Development Program \u2013 Entry Level Power & Computer Engineer",
+   "title": "GMS Development Program – Entry Level Power & Computer Engineer",
    "uid": "workday:ercot.wd1/ercot_careers:GMS-Development-Program---Entry-Level-Power---Computer-Engineer_R2513-1"
   },
   {
@@ -4813,7 +4673,7 @@
    "closed_at": 1793696035,
    "company": "selinc",
    "hours_open": 1114.7,
-   "title": "Power Systems Sales Engineer \u2013 Caribbean & Central America",
+   "title": "Power Systems Sales Engineer – Caribbean & Central America",
    "uid": "workday:selinc.wd1/SEL:Power-Systems-Sales-Engineer---Caribbean---Central-America_2026-19581"
   },
   {
@@ -4855,14 +4715,14 @@
    "closed_at": 1793705091,
    "company": "thehartford",
    "hours_open": 1319.5,
-   "title": "Tech & Data Program Summer 2027 \u2013 Data Engineer Intern (Hartford)",
+   "title": "Tech & Data Program Summer 2027 – Data Engineer Intern (Hartford)",
    "uid": "workday:thehartford.wd5/Careers_External:Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Hartford-_R2626103-1"
   },
   {
    "closed_at": 1793705091,
    "company": "Northwood Space",
    "hours_open": 1495.1,
-   "title": "Software Engineer \u2013 New grad / early career",
+   "title": "Software Engineer – New grad / early career",
    "uid": "simplify:listings:6805a542-b373-4362-a01b-1340de5ba6db"
   },
   {
@@ -5627,6 +5487,120 @@
    "hours_open": 605.5,
    "title": "Junior Automation Test Engineer",
    "uid": "greenhouse:accenturefederalservices:4720595006"
+  },
+  {
+   "closed_at": 1793749289,
+   "company": "Maarut",
+   "hours_open": 23.7,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:systems analyst:50642114"
+  },
+  {
+   "closed_at": 1793749289,
+   "company": "Fop experts conseils inc.",
+   "hours_open": 2.1,
+   "title": "application programmer",
+   "uid": "jobbank:junior programmer:50652232"
+  },
+  {
+   "closed_at": 1793749289,
+   "company": "altentechnologyusa",
+   "hours_open": 314.1,
+   "title": "Systems Engineer - Aerospace",
+   "uid": "greenhouse:altentechnologyusa:5271804007"
+  },
+  {
+   "closed_at": 1793749289,
+   "company": "harbingermotors",
+   "hours_open": 183.6,
+   "title": "Quality Engineer, Quality Management Systems",
+   "uid": "greenhouse:harbingermotors:5266128007"
+  },
+  {
+   "closed_at": 1793749289,
+   "company": "altentechnologyusa",
+   "hours_open": 604.7,
+   "title": "SAP ABAP & BTP Full Stack Developer (Entry-Level)",
+   "uid": "greenhouse:altentechnologyusa:5262456007"
+  },
+  {
+   "closed_at": 1793749289,
+   "company": "Badger Meter",
+   "hours_open": 647.8,
+   "title": "Firmware Engineer 1",
+   "uid": "simplify:listings:7dd540d7-cd3f-43b0-89fc-e30631eabfc7"
+  },
+  {
+   "closed_at": 1793749289,
+   "company": "Amazon",
+   "hours_open": 3.0,
+   "title": "Software Development Engineer, Eva Development Team",
+   "uid": "amazon:amazon:10595843"
+  },
+  {
+   "closed_at": 1793749289,
+   "company": "collieraerospace",
+   "hours_open": 300.0,
+   "title": "Software Engineer (Entry Level)",
+   "uid": "rippling:collieraerospace:a3ae57de-5925-4f55-a106-812b5069cd19"
+  },
+  {
+   "closed_at": 1793749289,
+   "company": "collieraerospace",
+   "hours_open": 300.0,
+   "title": "Software Engineering Intern (Summer 2027)",
+   "uid": "rippling:collieraerospace:b666dbfe-34e5-422f-8879-4d53c0ae1f51"
+  },
+  {
+   "closed_at": 1793749289,
+   "company": "collieraerospace",
+   "hours_open": 300.0,
+   "title": "Software Engineering Intern - Web Applications (Summer 2027)",
+   "uid": "rippling:collieraerospace:4981b0ba-5b6f-4ebe-95c0-9d1cda036b77"
+  },
+  {
+   "closed_at": 1793749289,
+   "company": "wisecode",
+   "hours_open": 838.2,
+   "title": "Software Developer & Data Engineer",
+   "uid": "lever:wisecode:390e192c-a84b-4e75-918d-fa2e2b4cdde1"
+  },
+  {
+   "closed_at": 1793749289,
+   "company": "zoox",
+   "hours_open": 1467.8,
+   "title": "Embedded Software Engineer",
+   "uid": "lever:zoox:0dd5de4b-4e98-4808-85fd-e739e7fc5bba"
+  },
+  {
+   "closed_at": 1793749289,
+   "company": "reddit",
+   "hours_open": 460.7,
+   "title": "Machine Learning Engineer",
+   "uid": "greenhouse:reddit:7131934"
+  },
+  {
+   "closed_at": 1793749289,
+   "company": "Lakeland Roman Catholic Separate School Division",
+   "hours_open": 1350.5,
+   "title": "computer systems analyst",
+   "uid": "jobbank:systems analyst:50064831"
+  },
+  {
+   "closed_at": 1793749289,
+   "company": "Viavi Solutions",
+   "hours_open": 1507.4,
+   "title": "Development Engineer - Rotational Program",
+   "uid": "simplify:listings:fa035ae1-d736-4478-a045-ebfd7514aad5"
+  },
+  {
+   "closed_at": 1793749289,
+   "company": "DPMSYSTEMS IT CONSULTING SERVICES",
+   "hours_open": 1122.8,
+   "title": "information systems analyst - computer systems",
+   "uid": "jobbank:systems analyst:50311291"
   }
- ]
+ ],
+ "count": 820,
+ "updated_at": 1793749292
 }
