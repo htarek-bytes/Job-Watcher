@@ -3,55 +3,6 @@
   {
    "closed_at": 1793300628,
    "company": "rockwellautomation",
-   "hours_open": 355.0,
-   "title": "Co-op, Hardware Development Engineer (Jan - July 2027)",
-   "uid": "workday:rockwellautomation.wd1/External-Rockwell-Automation-Early-Careers:Co-op--Hardware-Development-Engineer--Jan---July-2027-_R26-6638"
-  },
-  {
-   "closed_at": 1793300628,
-   "company": "Amazon",
-   "hours_open": 217.3,
-   "title": "Software Dev Engineer , Key Management Service",
-   "uid": "amazon:amazon:10584217"
-  },
-  {
-   "closed_at": 1793300628,
-   "company": "salesforce",
-   "hours_open": 23.4,
-   "title": "Summer 2027 Intern - Forward Deployed Engineer – Global Public Sector",
-   "uid": "workday:salesforce.wd12/External_Career_Site:Summer-2027-Intern---Forward-Deployed-Engineer---Global-Public-Sector_JR366026-1"
-  },
-  {
-   "closed_at": 1793300628,
-   "company": "sierraspace",
-   "hours_open": 403.8,
-   "title": "Test Engineer I",
-   "uid": "workday:sierraspace.wd1/Sierra_Space_External_Career_Site:Test-Engineer-I_R26402-1"
-  },
-  {
-   "closed_at": 1793300628,
-   "company": "twitch",
-   "hours_open": 1346.1,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1793300628,
-   "company": "QualiTech",
-   "hours_open": 0.3,
-   "title": "Spécialiste infrastructure, réseaux et télécommunications (fly-in fly-out)",
-   "uid": "jobillico:specialiste infrastructure:17657508"
-  },
-  {
-   "closed_at": 1793300628,
-   "company": "synnex",
-   "hours_open": 1367.4,
-   "title": "BIOS Firmware Assistant Engineer (New College Grad)",
-   "uid": "workday:synnex.wd5/hyvecareers:BIOS-Firmware-Assistant-Engineer---New-Graduate_R54992"
-  },
-  {
-   "closed_at": 1793300628,
-   "company": "rockwellautomation",
    "hours_open": 768.0,
    "title": "Intern, AI Software Engineering (June-August 2027)",
    "uid": "workday:rockwellautomation.wd1/External-Rockwell-Automation-Early-Careers:Intern--AI-Software-Engineering--June-August-2027-_R26-6980"
@@ -5599,8 +5550,57 @@
    "hours_open": 1461.7,
    "title": "Cloud Platform Engineer",
    "uid": "greenhouse:accenturefederalservices:4680047006"
+  },
+  {
+   "closed_at": 1793721584,
+   "company": "robinhood",
+   "hours_open": 655.1,
+   "title": "Software Engineer, Web3 Backend",
+   "uid": "greenhouse:robinhood:8258307"
+  },
+  {
+   "closed_at": 1793721584,
+   "company": "waabi",
+   "hours_open": 1175.1,
+   "title": "Software Engineer, Commercial Software",
+   "uid": "lever:waabi:6bcfed90-b577-4b09-a893-5c07186a1e0f"
+  },
+  {
+   "closed_at": 1793721584,
+   "company": "discord",
+   "hours_open": 859.2,
+   "title": "Software Engineer, Consumer Revenue",
+   "uid": "greenhouse:discord:8846732002"
+  },
+  {
+   "closed_at": 1793721584,
+   "company": "discord",
+   "hours_open": 1270.7,
+   "title": "Software Engineer, Notifications",
+   "uid": "greenhouse:discord:8642213002"
+  },
+  {
+   "closed_at": 1793721584,
+   "company": "hipp",
+   "hours_open": 1488.1,
+   "title": "Software Engineer - New Grad",
+   "uid": "ashby:hipp:ea04e914-674c-4c05-b40a-7e8a035bad14"
+  },
+  {
+   "closed_at": 1793721584,
+   "company": "Honeywell",
+   "hours_open": 985.2,
+   "title": "Software Engineer 1",
+   "uid": "simplify:listings:ea902b82-59c8-4454-b4d9-e8acf43bf75b"
+  },
+  {
+   "closed_at": 1793721584,
+   "company": "accenturefederalservices",
+   "hours_open": 263.0,
+   "title": "Container Infrastructure Engineer",
+   "uid": "greenhouse:accenturefederalservices:4724197006"
   }
  ],
- "count": 810,
- "updated_at": 1793716741
+ "count": 807,
+ "updated_at": 1793721585
 }
