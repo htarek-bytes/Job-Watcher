@@ -2,55 +2,6 @@
  "closed": [
   {
    "closed_at": 1793278523,
-   "company": "CGI",
-   "hours_open": 1219.8,
-   "title": "Conseiller(ère) en audit de cybersécurité",
-   "uid": "jobillico:analyste cybersecurite:17433750"
-  },
-  {
-   "closed_at": 1793278523,
-   "company": "amat",
-   "hours_open": 198.4,
-   "title": "Algorithm Developer, Masters Degree, New College Grad (Santa Clara)",
-   "uid": "workday:amat.wd1/External:Algorithm-Developer--Masters-Degree--New-College-Grad--Santa-Clara-_R2631780"
-  },
-  {
-   "closed_at": 1793278523,
-   "company": "Amazon",
-   "hours_open": 231.4,
-   "title": "Software Development Engineer, Early Career - 2027 (US)",
-   "uid": "amazon:amazon:10583340"
-  },
-  {
-   "closed_at": 1793278523,
-   "company": "ag",
-   "hours_open": 44.8,
-   "title": "Microwave Instrument Digital & Signal Processing Engineer (entry-level)",
-   "uid": "workday:ag.wd3/Airbus:Microwave-Instrument-Digital---Signal-Processing-Engineer--entry-level-_JR10448677-1"
-  },
-  {
-   "closed_at": 1793278523,
-   "company": "asml",
-   "hours_open": 26.0,
-   "title": "Internship - Frontend Developer",
-   "uid": "workday:asml.wd3/asmlext1:Internship---Frontend-Developer_J-00354852"
-  },
-  {
-   "closed_at": 1793278523,
-   "company": "twitch",
-   "hours_open": 1340.0,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1793278523,
-   "company": "reddit",
-   "hours_open": 301.1,
-   "title": "Machine Learning Engineer",
-   "uid": "greenhouse:reddit:7131932"
-  },
-  {
-   "closed_at": 1793278523,
    "company": "Source Code",
    "hours_open": 3.7,
    "title": "information technology (IT) analyst",
@@ -5599,8 +5550,57 @@
    "hours_open": 88.8,
    "title": "MLOps Engineer, LLM Systems (Serving, GPU Kernels, Profiling)",
    "uid": "workable:weekday-1:1AEE967628"
+  },
+  {
+   "closed_at": 1793670783,
+   "company": "boeing",
+   "hours_open": 1068.8,
+   "title": "Astrodynamics Engineer (Entry-Level) - Millennium Space Systems",
+   "uid": "workday:boeing.wd1/external_subsidiary:Astrodynamics-Engineer--Entry-Level----Millennium-Space-Systems_JR2026524945"
+  },
+  {
+   "closed_at": 1793670783,
+   "company": "Boeing",
+   "hours_open": 483.2,
+   "title": "Entry Level Design and Analysis Engineer - Support Equipt Design, Elect",
+   "uid": "simplify:listings:9864b3ec-765c-40f0-9db9-5dc911daed42"
+  },
+  {
+   "closed_at": 1793670783,
+   "company": "twitch",
+   "hours_open": 1446.0,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1793670783,
+   "company": "reddit",
+   "hours_open": 438.9,
+   "title": "Machine Learning Engineer",
+   "uid": "greenhouse:reddit:7131934"
+  },
+  {
+   "closed_at": 1793670783,
+   "company": "cadence",
+   "hours_open": 1461.6,
+   "title": "Adams MultiBody Dynamics Application Software Developer (Recent Grad 2026)",
+   "uid": "workday:cadence.wd1/University_Talent:Adams-MultiBody-Dynamics-Application-Software-Developer--Recent-Grad-2026-_R55788-3"
+  },
+  {
+   "closed_at": 1793670783,
+   "company": "cadence",
+   "hours_open": 1442.5,
+   "title": "Software Engineer  (new college grad Dec 2026)",
+   "uid": "workday:cadence.wd1/University_Talent:Software-Engineer---new-college-grad-Dec-2026-_R55738-1"
+  },
+  {
+   "closed_at": 1793670783,
+   "company": "caci",
+   "hours_open": 153.4,
+   "title": "Software Engineering Intern - Summer 2027",
+   "uid": "workday:caci.wd1/external:Software-Engineering-Intern---Summer-2027_332618"
   }
  ],
- "count": 817,
- "updated_at": 1793670561
+ "count": 807,
+ "updated_at": 1793670784
 }

@@ -1,5 +1,5 @@
 {
- "count": 10445,
+ "count": 10449,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -8825,6 +8825,7 @@
   "workday:bakerhughes.wd5/BakerHughes:Intern---Software-Engineering---2027_R170942": 1792622820,
   "workday:bakerhughes.wd5/BakerHughes:Intern---Software-Engineering---2027_R171503": 1793351068,
   "workday:barclays.wd3/External_Career_Site_Barclays:XMLNAME-2027-Operations-Analyst-Summer-Internship-Program-Whippany_JR-0000123229": 1788887337,
+  "workday:barclays.wd3/External_Career_Site_Barclays:XMLNAME-2027-Technology-Analyst-Summer-Internship-Programme-Northampton_JR-0000129498": 1793670783,
   "workday:barclays.wd3/External_Career_Site_Barclays:XMLNAME-2027-Technology-Developer-Graduate-Program-Whippany_JR-0000123244": 1788549636,
   "workday:barclays.wd3/External_Career_Site_Barclays:XMLNAME-2027-Technology-Developer-Summer-Internship-Program-Whippany_JR-0000123234": 1788549636,
   "workday:barclays.wd3/External_Career_Site_Barclays:XMLNAME-2027-Technology-Developer-Summer-Internship-Program-Wilmington_JR-0000123236": 1788549636,
@@ -8911,6 +8912,7 @@
   "workday:boeing.wd1/external_subsidiary:Command-and-Data-Handling-Network--Autonomous-Navigation-Systems-_JR2026523750": 1789510068,
   "workday:boeing.wd1/external_subsidiary:Early-Career-Mechanical-Design-Engineer_JR2026523501": 1790205166,
   "workday:boeing.wd1/external_subsidiary:Entry-Level-B1-Software-Systems-Engineer_JR2026521428-1": 1792013705,
+  "workday:boeing.wd1/external_subsidiary:Entry-Level-Design-and-Analysis-Engineer--Support-Equipt-Design---Elect-_JR2026518227": 1793670783,
   "workday:boeing.wd1/external_subsidiary:Entry-Level-Flight-Simulation-Software-Engineer_JR2026523155": 1792013705,
   "workday:boeing.wd1/external_subsidiary:Entry-Level-Simulation-Software-Engineer_JR2026516853": 1789164172,
   "workday:boeing.wd1/external_subsidiary:Entry-Level-Software-Engineer-Developer--Development-_JR2026522577": 1792013705,
@@ -8918,6 +8920,7 @@
   "workday:boeing.wd1/external_subsidiary:Entry-Level-Software-Engineer_JR2026526418": 1792797439,
   "workday:boeing.wd1/external_subsidiary:Entry-Level-Software-Engineer_JR2026527992": 1793190539,
   "workday:boeing.wd1/external_subsidiary:Entry-level-Software-Engineer-Developers_JR2026518452": 1793051523,
+  "workday:boeing.wd1/external_subsidiary:ICBM-Minuteman-Flight-Control-Systems-Engineer---Early-Career_JR2026528240": 1793670783,
   "workday:boeing.wd1/external_subsidiary:Mechanical-Ground-Support-Equipment-Engineer--Entry-Level----Millennium-Space-Systems_JR2026524385": 1789088653,
   "workday:boeing.wd1/external_subsidiary:Mission-Analysis-Engineer--Entry-level----Millennium-Space-Systems_JR2026524528-1": 1789707721,
   "workday:boeing.wd1/external_subsidiary:Payload-Mechanical-Design-Engineer---Entry-Level_JR2026519663": 1788472811,
@@ -8952,6 +8955,7 @@
   "workday:caci.wd1/external:Junior-Software-Engineer_333295": 1791573491,
   "workday:caci.wd1/external:Junior-Systems-Engineer_332029": 1789417897,
   "workday:caci.wd1/external:Network-Engineer-Intern---Summer-2027_332843": 1791293862,
+  "workday:caci.wd1/external:Network-Operations-Center--NOC-Tier-1_334405": 1793670783,
   "workday:caci.wd1/external:Software-Developer-Data-Scientist-Intern---Summer-2027_331120": 1788979404,
   "workday:caci.wd1/external:Software-Development-Engineer-Intern---Summer-2027_332894-1": 1790871589,
   "workday:caci.wd1/external:Software-Development-Intern---Summer-2027_332790": 1790871589,
@@ -10447,5 +10451,5 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148,
   "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541": 1789106107
  },
- "updated_at": 1793670561
+ "updated_at": 1793670784
 }
