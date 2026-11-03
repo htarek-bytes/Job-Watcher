@@ -1,97 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1793300628,
-   "company": "rockwellautomation",
-   "hours_open": 768.0,
-   "title": "Intern, AI Software Engineering (June-August 2027)",
-   "uid": "workday:rockwellautomation.wd1/External-Rockwell-Automation-Early-Careers:Intern--AI-Software-Engineering--June-August-2027-_R26-6980"
-  },
-  {
-   "closed_at": 1793300628,
-   "company": "rockwellautomation",
-   "hours_open": 768.0,
-   "title": "Co-op, AI Software Engineering (6-8 months)",
-   "uid": "workday:rockwellautomation.wd1/External-Rockwell-Automation-Early-Careers:Co-op--AI-Software-Engineering--6-8-months-_R26-6982"
-  },
-  {
-   "closed_at": 1793300628,
-   "company": "relx",
-   "hours_open": 1367.4,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - January)",
-   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617-1"
-  },
-  {
-   "closed_at": 1793300628,
-   "company": "relx",
-   "hours_open": 1367.4,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - June)",
-   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-2"
-  },
-  {
-   "closed_at": 1793300628,
-   "company": "relx",
-   "hours_open": 1367.4,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Boca Raton - June)",
-   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Boca-Raton---June-_R116023"
-  },
-  {
-   "closed_at": 1793300628,
-   "company": "shi",
-   "hours_open": 457.2,
-   "title": "Solutions Engineer - Enterprise",
-   "uid": "workday:shi.wd12/shicareers:Solutions-Engineer---Enterprise_JR2785"
-  },
-  {
-   "closed_at": 1793300628,
-   "company": "spacex",
-   "hours_open": 1345.8,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1793302332,
-   "company": "visa",
-   "hours_open": 45.2,
-   "title": "2027 Sophomore Internship Program - Software Engineer Intern, Bellevue",
-   "uid": "workday:visa.wd5/Visa:XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Bellevue_REF089920W-2"
-  },
-  {
-   "closed_at": 1793302332,
-   "company": "visa",
-   "hours_open": 45.2,
-   "title": "2027 Sophomore Internship Program - Software Engineer Intern, Foster City",
-   "uid": "workday:visa.wd5/Visa:XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Foster-City_REF089919W-1"
-  },
-  {
-   "closed_at": 1793302332,
-   "company": "visa",
-   "hours_open": 45.2,
-   "title": "Software Engineer, Intern - 2027 Austin, TX",
-   "uid": "workday:visa.wd5/Visa:Software-Engineer--Intern---2027-Austin--TX_REF089918W-1"
-  },
-  {
-   "closed_at": 1793302332,
-   "company": "twitch",
-   "hours_open": 1343.6,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1793302332,
-   "company": "tsc",
-   "hours_open": 1363.4,
-   "title": "Software Engineer I",
-   "uid": "workday:tsc.wd12/TSC-Careers:Software-Engineer-I_JR2567-1"
-  },
-  {
-   "closed_at": 1793302332,
-   "company": "trimedx",
-   "hours_open": 354.9,
-   "title": "Imaging Engineer I",
-   "uid": "workday:trimedx.wd1/TMX:Imaging-Engineer-I_R15129"
-  },
-  {
    "closed_at": 1793302332,
    "company": "General Dynamics Produits de défense et Systèmes Tactiques",
    "hours_open": 225.3,
@@ -5599,8 +5508,99 @@
    "hours_open": 263.0,
    "title": "Container Infrastructure Engineer",
    "uid": "greenhouse:accenturefederalservices:4724197006"
+  },
+  {
+   "closed_at": 1793723934,
+   "company": "Crieff Hills Retreat Centre",
+   "hours_open": 20.8,
+   "title": "cloud administrator",
+   "uid": "jobbank:cloud administrator:50637279"
+  },
+  {
+   "closed_at": 1793723934,
+   "company": "lambda",
+   "hours_open": 251.5,
+   "title": "Data Center Operations System Engineer (Plano, TX)",
+   "uid": "ashby:lambda:ea88daf6-6a0b-4189-a393-a6cc71eb647d"
+  },
+  {
+   "closed_at": 1793723934,
+   "company": "deepgram",
+   "hours_open": 362.2,
+   "title": "Research Engineer, Post-Training",
+   "uid": "ashby:deepgram:dcea53a5-5650-406d-a154-fad077c4b81b"
+  },
+  {
+   "closed_at": 1793723934,
+   "company": "lendable",
+   "hours_open": 481.9,
+   "title": "PHP Engineer",
+   "uid": "ashby:lendable:ac527b20-e9fc-41d1-841c-bc881e2abef6"
+  },
+  {
+   "closed_at": 1793723934,
+   "company": "knowbe4",
+   "hours_open": 648.7,
+   "title": "Sales Engineer (Hybrid)",
+   "uid": "greenhouse:knowbe4:8871547002"
+  },
+  {
+   "closed_at": 1793723934,
+   "company": "cssmerge",
+   "hours_open": 694.3,
+   "title": "IT Operations Specialist",
+   "uid": "greenhouse:cssmerge:8868618002"
+  },
+  {
+   "closed_at": 1793723934,
+   "company": "City of Vancouver",
+   "hours_open": 309.0,
+   "title": "systems analyst",
+   "uid": "jobbank:systems analyst:50550550"
+  },
+  {
+   "closed_at": 1793723934,
+   "company": "notion",
+   "hours_open": 1476.0,
+   "title": "Software Engineer Intern (Winter 2027)",
+   "uid": "ashby:notion:e66c6658-9e65-4c58-8db2-844628b6e8f8"
+  },
+  {
+   "closed_at": 1793723934,
+   "company": "sofi",
+   "hours_open": 959.3,
+   "title": "Corporate Development Analyst",
+   "uid": "greenhouse:sofi:7819518003"
+  },
+  {
+   "closed_at": 1793723934,
+   "company": "DPMSYSTEMS IT CONSULTING SERVICES",
+   "hours_open": 467.1,
+   "title": "information systems analyst - computer systems",
+   "uid": "jobbank:information systems analyst:50311291"
+  },
+  {
+   "closed_at": 1793723934,
+   "company": "machindustries",
+   "hours_open": 665.6,
+   "title": "Automation Engineer",
+   "uid": "greenhouse:machindustries:4381332009"
+  },
+  {
+   "closed_at": 1793723934,
+   "company": "northwoodspace",
+   "hours_open": 1463.7,
+   "title": "FPGA Engineer",
+   "uid": "ashby:northwoodspace:20798d3e-039d-4255-9b9d-39612c0c597e"
+  },
+  {
+   "closed_at": 1793723934,
+   "company": "andurilindustries",
+   "hours_open": 1462.0,
+   "title": "Software Engineer, Robotics",
+   "uid": "greenhouse:andurilindustries:5102393007"
   }
  ],
- "count": 807,
- "updated_at": 1793721585
+ "count": 813,
+ "updated_at": 1793723934
 }
