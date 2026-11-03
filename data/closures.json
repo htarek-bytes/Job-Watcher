@@ -1,111 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1793315773,
-   "company": "spacex",
-   "hours_open": 1350.3,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637826002"
-  },
-  {
-   "closed_at": 1793316812,
-   "company": "CGI",
-   "hours_open": 1230.4,
-   "title": "Conseiller(ère) en audit de cybersécurité",
-   "uid": "jobillico:analyste cybersecurite:17433750"
-  },
-  {
-   "closed_at": 1793316812,
-   "company": "spacex",
-   "hours_open": 1350.6,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719865002"
-  },
-  {
-   "closed_at": 1793316812,
-   "company": "spacex",
-   "hours_open": 1350.3,
-   "title": "Wireless Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8637814002"
-  },
-  {
-   "closed_at": 1793316812,
-   "company": "spacex",
-   "hours_open": 1350.6,
-   "title": "Software Engineer (Starship)",
-   "uid": "greenhouse:spacex:8569160002"
-  },
-  {
-   "closed_at": 1793316812,
-   "company": "spacex",
-   "hours_open": 1350.6,
-   "title": "NDE Engineer",
-   "uid": "greenhouse:spacex:8512827002"
-  },
-  {
-   "closed_at": 1793318713,
-   "company": "twitch",
-   "hours_open": 1348.2,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1793318713,
-   "company": "reddit",
-   "hours_open": 341.1,
-   "title": "Machine Learning Engineer",
-   "uid": "greenhouse:reddit:7131934"
-  },
-  {
-   "closed_at": 1793318713,
-   "company": "trueanomalyinc",
-   "hours_open": 1363.8,
-   "title": "Software Engineer I, Perception (New Grad)",
-   "uid": "greenhouse:trueanomalyinc:5221970007"
-  },
-  {
-   "closed_at": 1793318713,
-   "company": "trueanomalyinc",
-   "hours_open": 1363.8,
-   "title": " Software Engineer I, Data Science (New Grad)",
-   "uid": "greenhouse:trueanomalyinc:5221560007"
-  },
-  {
-   "closed_at": 1793318713,
-   "company": "spacex",
-   "hours_open": 1348.2,
-   "title": "Security Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8719860002"
-  },
-  {
-   "closed_at": 1793322050,
-   "company": "xai",
-   "hours_open": 313.5,
-   "title": "IT Network Engineer - Memphis",
-   "uid": "greenhouse:xai:5266735007"
-  },
-  {
-   "closed_at": 1793322050,
-   "company": "ion",
-   "hours_open": 672.2,
-   "title": "Software Developer, 2027 Leadership Development Program, Woking",
-   "uid": "lever:ion:e973fefd-7180-4da9-a323-c212fc98cc05"
-  },
-  {
-   "closed_at": 1793322050,
-   "company": "Pacific Northwest National Laboratory",
-   "hours_open": 49.9,
-   "title": "Software Engineer 1",
-   "uid": "simplify:listings:181f008b-979c-4133-835f-94bb3b4f1910"
-  },
-  {
-   "closed_at": 1793322050,
-   "company": "xai",
-   "hours_open": 575.5,
-   "title": "IAM Engineer",
-   "uid": "greenhouse:xai:5180827007"
-  },
-  {
    "closed_at": 1793322050,
    "company": "General Motors",
    "hours_open": 865.8,
@@ -5599,8 +5494,113 @@
    "hours_open": 1467.7,
    "title": "Software Engineer (Starship)",
    "uid": "greenhouse:spacex:8569160002"
+  },
+  {
+   "closed_at": 1793741813,
+   "company": "thoughtworksreferral",
+   "hours_open": 117.5,
+   "title": "Associate (Graduate) Developer",
+   "uid": "greenhouse:thoughtworksreferral:8333236"
+  },
+  {
+   "closed_at": 1793741813,
+   "company": "Fop experts conseils inc.",
+   "hours_open": 1.0,
+   "title": "application programmer",
+   "uid": "jobbank:junior programmer:50652368"
+  },
+  {
+   "closed_at": 1793741813,
+   "company": "Fop experts conseils inc.",
+   "hours_open": 1.0,
+   "title": "cybersecurity analyst",
+   "uid": "jobbank:cybersecurity analyst:50652284"
+  },
+  {
+   "closed_at": 1793741813,
+   "company": "altentechnologyusa",
+   "hours_open": 122.8,
+   "title": "Logistics Engineer",
+   "uid": "greenhouse:altentechnologyusa:5240298007"
+  },
+  {
+   "closed_at": 1793741813,
+   "company": "cssmerge",
+   "hours_open": 364.4,
+   "title": "Business Development Associate",
+   "uid": "greenhouse:cssmerge:8900307002"
+  },
+  {
+   "closed_at": 1793741813,
+   "company": "vast",
+   "hours_open": 241.8,
+   "title": "Mechanisms Engineer",
+   "uid": "greenhouse:vast:4712934006"
+  },
+  {
+   "closed_at": 1793741813,
+   "company": "trovebrands",
+   "hours_open": 486.2,
+   "title": "Packaging Engineer",
+   "uid": "greenhouse:trovebrands:4398050009"
+  },
+  {
+   "closed_at": 1793741813,
+   "company": "undercontrolroboticsinc",
+   "hours_open": 93.8,
+   "title": "Robotics Software Engineer",
+   "uid": "greenhouse:undercontrolroboticsinc:4396196009"
+  },
+  {
+   "closed_at": 1793741813,
+   "company": "togetherai",
+   "hours_open": 1094.9,
+   "title": "Research Engineer, Post-Training Inference",
+   "uid": "greenhouse:togetherai:5179372007"
+  },
+  {
+   "closed_at": 1793741813,
+   "company": "CLOO Imaging Solutions",
+   "hours_open": 721.1,
+   "title": "cloud administrator",
+   "uid": "jobbank:cloud administrator:50422012"
+  },
+  {
+   "closed_at": 1793741813,
+   "company": "truveta",
+   "hours_open": 1178.6,
+   "title": "Software Engineer - Analytical Platform Services",
+   "uid": "greenhouse:truveta:6193466004"
+  },
+  {
+   "closed_at": 1793741813,
+   "company": "systemstechnologyresearch",
+   "hours_open": 148.7,
+   "title": "Software Developer",
+   "uid": "greenhouse:systemstechnologyresearch:4722541006"
+  },
+  {
+   "closed_at": 1793741813,
+   "company": "trace3",
+   "hours_open": 1340.0,
+   "title": "System Engineer",
+   "uid": "greenhouse:trace3:8186113"
+  },
+  {
+   "closed_at": 1793741813,
+   "company": "voyagertechnologiesinc",
+   "hours_open": 1468.7,
+   "title": "Machine Learning Engineer - Associate",
+   "uid": "greenhouse:voyagertechnologiesinc:4356972009"
+  },
+  {
+   "closed_at": 1793741813,
+   "company": "twosixtechnologies",
+   "hours_open": 1456.7,
+   "title": "Software Engineer",
+   "uid": "greenhouse:twosixtechnologies:6127635004"
   }
  ],
- "count": 832,
- "updated_at": 1793738380
+ "count": 815,
+ "updated_at": 1793741815
 }
