@@ -2,13 +2,6 @@
  "closed": [
   {
    "closed_at": 1793302332,
-   "company": "General Dynamics Produits de défense et Systèmes Tactiques",
-   "hours_open": 225.3,
-   "title": "Administrateur Réseau TI",
-   "uid": "jobillico:analyste reseau:17628663"
-  },
-  {
-   "closed_at": 1793302332,
    "company": "spacex",
    "hours_open": 1346.6,
    "title": "Security Software Engineer (Starlink)",
@@ -5599,8 +5592,15 @@
    "hours_open": 1462.0,
    "title": "Software Engineer, Robotics",
    "uid": "greenhouse:andurilindustries:5102393007"
+  },
+  {
+   "closed_at": 1793724340,
+   "company": "radiant-industries",
+   "hours_open": 1110.7,
+   "title": "Quality Systems Engineer",
+   "uid": "ashby:radiant-industries:e3f53c50-3f67-497f-ba34-4376fae95391"
   }
  ],
- "count": 813,
- "updated_at": 1793723934
+ "count": 801,
+ "updated_at": 1793724341
 }
