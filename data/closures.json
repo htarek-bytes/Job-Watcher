@@ -1,41 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1793391064,
-   "company": "QualiTech",
-   "hours_open": 25.1,
-   "title": "Spécialiste infrastructure, réseaux et télécommunications (fly-in fly-out)",
-   "uid": "jobillico:specialiste infrastructure:17657502"
-  },
-  {
-   "closed_at": 1793391064,
-   "company": "gitlab",
-   "hours_open": 866.8,
-   "title": "Intermediate Security Analyst, Vulnerability Operations  (North America)",
-   "uid": "greenhouse:gitlab:8821526002"
-  },
-  {
-   "closed_at": 1793391064,
-   "company": "handshake",
-   "hours_open": 1251.0,
-   "title": "IT Support Analyst",
-   "uid": "ashby:handshake:92b1b4d0-aa14-494f-888c-b3a1400614f9"
-  },
-  {
-   "closed_at": 1793391064,
-   "company": "Protech Inc.",
-   "hours_open": 555.8,
-   "title": "telecommunications technician",
-   "uid": "jobbank:telecommunications analyst:50294640"
-  },
-  {
-   "closed_at": 1793391237,
-   "company": "mach9",
-   "hours_open": 661.4,
-   "title": "ML Infrastructure Engineer",
-   "uid": "ashby:mach9:00cdc4ed-eea2-4a95-bbd6-a885d5429e38"
-  },
-  {
    "closed_at": 1793391237,
    "company": "ontic",
    "hours_open": 1396.3,
@@ -5599,8 +5564,43 @@
    "hours_open": 26.9,
    "title": "SDE, Constellation Operations, Amazon Leo",
    "uid": "amazon:amazon:10592712"
+  },
+  {
+   "closed_at": 1793829060,
+   "company": "contentguru",
+   "hours_open": 1405.2,
+   "title": "Solutions Consultant ",
+   "uid": "bamboohr:contentguru:289"
+  },
+  {
+   "closed_at": 1793829060,
+   "company": "xero",
+   "hours_open": 986.4,
+   "title": "Solutions Consultant",
+   "uid": "ashby:xero:362ea2cf-20d6-4a88-8a18-59bc78c56517"
+  },
+  {
+   "closed_at": 1793829060,
+   "company": "twitch",
+   "hours_open": 1489.9,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1793829060,
+   "company": "altentechnologyusa",
+   "hours_open": 1491.2,
+   "title": "Embedded Linux Security Engineer",
+   "uid": "greenhouse:altentechnologyusa:5210052007"
+  },
+  {
+   "closed_at": 1793829060,
+   "company": "trm-labs",
+   "hours_open": 1410.8,
+   "title": "Customer Solutions Engineer",
+   "uid": "ashby:trm-labs:e8a7a3d5-938f-4d2b-b9d3-86765d8d1dd2"
   }
  ],
- "count": 827,
- "updated_at": 1793827719
+ "count": 805,
+ "updated_at": 1793829061
 }
