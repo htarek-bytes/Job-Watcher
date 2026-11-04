@@ -2,34 +2,6 @@
  "closed": [
   {
    "closed_at": 1793380454,
-   "company": "SQUALUS GROUP",
-   "hours_open": 199.5,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50553712"
-  },
-  {
-   "closed_at": 1793380454,
-   "company": "NearSource",
-   "hours_open": 371.7,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50502098"
-  },
-  {
-   "closed_at": 1793380454,
-   "company": "Logesco Informatique",
-   "hours_open": 1248.1,
-   "title": "Administrateur de réseau",
-   "uid": "jobillico:analyste reseau:17188132"
-  },
-  {
-   "closed_at": 1793380454,
-   "company": "1password",
-   "hours_open": 1104.6,
-   "title": "Developer, Enterprise Tenants and Policies",
-   "uid": "ashby:1password:b9ff2259-517c-4ec2-b92f-646be8bf12b6"
-  },
-  {
-   "closed_at": 1793380454,
    "company": "lyft",
    "hours_open": 1176.0,
    "title": "Business Systems Engineer, Intelligent Automation",
@@ -5599,8 +5571,36 @@
    "hours_open": 48.0,
    "title": "rigger - telecommunications",
    "uid": "jobbank:telecommunications analyst:50635323"
+  },
+  {
+   "closed_at": 1793813336,
+   "company": "MESONS TECHNOLOGIES INC.",
+   "hours_open": 0.0,
+   "title": "cybersecurity analyst",
+   "uid": "jobbank:analyste en cybersecurite:50661607"
+  },
+  {
+   "closed_at": 1793813336,
+   "company": "Fop experts conseils inc.",
+   "hours_open": 17.8,
+   "title": "application programmer",
+   "uid": "jobbank:junior programmer:50652314"
+  },
+  {
+   "closed_at": 1793813336,
+   "company": "Fop experts conseils inc.",
+   "hours_open": 15.2,
+   "title": "cybersecurity analyst",
+   "uid": "jobbank:cybersecurity analyst:50652146"
+  },
+  {
+   "closed_at": 1793813336,
+   "company": "twitch",
+   "hours_open": 1488.5,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739185002"
   }
  ],
- "count": 810,
- "updated_at": 1793813188
+ "count": 804,
+ "updated_at": 1793813338
 }
