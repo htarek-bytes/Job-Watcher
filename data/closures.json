@@ -1,62 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1793338775,
-   "company": "twitch",
-   "hours_open": 1353.8,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1793338775,
-   "company": "reddit",
-   "hours_open": 346.7,
-   "title": "Machine Learning Engineer",
-   "uid": "greenhouse:reddit:7131934"
-  },
-  {
-   "closed_at": 1793338775,
-   "company": "Source Code",
-   "hours_open": 107.2,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50577212"
-  },
-  {
-   "closed_at": 1793338775,
-   "company": "QualiTech",
-   "hours_open": 10.6,
-   "title": "Spécialiste infrastructure, réseaux et télécommunications (fly-in fly-out)",
-   "uid": "jobillico:specialiste infrastructure:17657502"
-  },
-  {
-   "closed_at": 1793338775,
-   "company": "Umano Medical",
-   "hours_open": 1236.5,
-   "title": "Concepteur logiciel embarqué et cybersécurité",
-   "uid": "jobillico:analyste cybersecurite:17489580"
-  },
-  {
-   "closed_at": 1793338775,
-   "company": "Arya Health",
-   "hours_open": 1374.6,
-   "title": "software development programmer",
-   "uid": "jobbank:junior programmer:50148592"
-  },
-  {
-   "closed_at": 1793338775,
-   "company": "Credence",
-   "hours_open": 171.7,
-   "title": "Security Specialist (Generalist)",
-   "uid": "workable:credence:B7B01B57C1"
-  },
-  {
-   "closed_at": 1793343706,
-   "company": "Great Lakes Group",
-   "hours_open": 144.5,
-   "title": "electrical controls engineer",
-   "uid": "jobbank:control systems analyst:50570740"
-  },
-  {
    "closed_at": 1793343706,
    "company": "Source Code",
    "hours_open": 179.0,
@@ -5599,8 +5543,64 @@
    "hours_open": 6.3,
    "title": "Embedded Security Software Engineer 1",
    "uid": "simplify:listings:767b6430-777a-473d-9c98-51637b7dbec5"
+  },
+  {
+   "closed_at": 1793756349,
+   "company": "Skyward",
+   "hours_open": 2.0,
+   "title": "Software Engineer – Entry Level",
+   "uid": "simplify:listings:ae709a65-f904-4def-8b18-e1e6938af885"
+  },
+  {
+   "closed_at": 1793756349,
+   "company": "SGS",
+   "hours_open": 27.1,
+   "title": "Sales Engineer (RSTS, E&E Testing)",
+   "uid": "smartrecruiters:SGS:744000159084659"
+  },
+  {
+   "closed_at": 1793756349,
+   "company": "Great Lakes Group",
+   "hours_open": 16.9,
+   "title": "electrical controls engineer",
+   "uid": "jobbank:control systems analyst:50619588"
+  },
+  {
+   "closed_at": 1793756349,
+   "company": "Renesas Electronics",
+   "hours_open": 138.6,
+   "title": "Application Engineer Intern",
+   "uid": "smartrecruiters:RenesasElectronics:744000158346447"
+  },
+  {
+   "closed_at": 1793756349,
+   "company": "Wabtec",
+   "hours_open": 137.3,
+   "title": "Technical Sales Engineer (NDT) Sub-Sahara Africa",
+   "uid": "smartrecruiters:Wabtec:3743990016454629"
+  },
+  {
+   "closed_at": 1793756349,
+   "company": "Wabtec",
+   "hours_open": 162.3,
+   "title": "Wabtec Spring 2027 Software Engineering Co-Op (10-Week)",
+   "uid": "smartrecruiters:Wabtec:3743990016452226"
+  },
+  {
+   "closed_at": 1793756349,
+   "company": "reddit",
+   "hours_open": 462.7,
+   "title": "Machine Learning Engineer",
+   "uid": "greenhouse:reddit:7131934"
+  },
+  {
+   "closed_at": 1793756349,
+   "company": "Lakeland Roman Catholic Separate School Division",
+   "hours_open": 1104.4,
+   "title": "computer systems analyst",
+   "uid": "jobbank:analyste de systemes:50064831"
   }
  ],
- "count": 806,
- "updated_at": 1793753755
+ "count": 808,
+ "updated_at": 1793756350
 }
