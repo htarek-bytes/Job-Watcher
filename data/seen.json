@@ -1,5 +1,5 @@
 {
- "count": 10653,
+ "count": 10661,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -470,6 +470,7 @@
   "amazon:amazon:10595981": 1793743439,
   "amazon:amazon:10596540": 1793808448,
   "amazon:amazon:10596546": 1793808448,
+  "amazon:amazon:10596654": 1793813187,
   "ashby:1password:00f861d4-2b4a-4159-b6dc-8aed0cde6e39": 1792768274,
   "ashby:1password:443f9ef6-13a7-4edb-ace5-16be7e630041": 1792515454,
   "ashby:1password:49f0fe51-fcdc-46d8-a046-35f357b0cf6e": 1792100265,
@@ -1824,6 +1825,7 @@
   "greenhouse:accenturefederalservices:4726218006": 1793396047,
   "greenhouse:accenturefederalservices:4726503006": 1793658661,
   "greenhouse:accenturefederalservices:4726812006": 1793753752,
+  "greenhouse:accenturefederalservices:4727000006": 1793813187,
   "greenhouse:accenturefederalservices:4727077006": 1793806436,
   "greenhouse:addepar1:8737480002": 1792823679,
   "greenhouse:addepar1:8816951002": 1792823679,
@@ -2776,6 +2778,7 @@
   "greenhouse:datadog:8220473": 1790006170,
   "greenhouse:dhpace:5356840008": 1788893085,
   "greenhouse:dhpace:5449672008": 1791614826,
+  "greenhouse:dhpace:5473078008": 1793813187,
   "greenhouse:didi:7991538": 1791859140,
   "greenhouse:didi:8131864": 1788460756,
   "greenhouse:didi:8299718": 1792358606,
@@ -3635,6 +3638,7 @@
   "greenhouse:rocketlab:7561114003": 1791482043,
   "greenhouse:rocketlab:7598183003": 1789517822,
   "greenhouse:rocketlab:7598613003": 1790641647,
+  "greenhouse:rocketlab:7680875003": 1793813187,
   "greenhouse:rocketlab:7703264003": 1789768687,
   "greenhouse:rocketlab:7724321003": 1788479777,
   "greenhouse:rocketlab:7753212003": 1789159269,
@@ -5057,6 +5061,7 @@
   "jobbank:analyste de systemes:50412027": 1792733984,
   "jobbank:analyste de systemes:50419044": 1791470986,
   "jobbank:analyste de systemes:50453138": 1792663616,
+  "jobbank:analyste en cybersecurite:50661607": 1793813187,
   "jobbank:analyste reseau:50391508": 1790707195,
   "jobbank:analyste reseau:50409133": 1791232806,
   "jobbank:analyste reseau:50602261": 1793216293,
@@ -5854,6 +5859,7 @@
   "jobbank:telecommunications analyst:50635323": 1793640387,
   "jobbank:telecommunications analyst:50636758": 1793645026,
   "jobbank:telecommunications analyst:50656632": 1793779255,
+  "jobbank:telecommunications analyst:50660675": 1793813187,
   "jobillico:administrateur systeme:17185045": 1793429802,
   "jobillico:administrateur systeme:17447382": 1793212139,
   "jobillico:administrateur systeme:17456997": 1788887337,
@@ -10648,6 +10654,8 @@
   "workday:zebra.wd501/Zebra_careers:XMLNAME-2027-Summer-Internship--US----Software-AI-Engineer--Handheld-Mobile-Computers-_JR103632": 1793716740,
   "workday:zebra.wd501/Zebra_careers:XMLNAME-2027-Summer-Internship--US----Software-Engineer_JR103625": 1792478321,
   "workday:zebra.wd501/Zebra_careers:XMLNAME-2027-Summer-Internship--US----Software-Engineer_JR103626": 1793716740,
+  "workday:zebra.wd501/Zebra_careers:XMLNAME-2027-Summer-Internship--US----Software-Engineer_JR103645": 1793813187,
+  "workday:zebra.wd501/Zebra_careers:XMLNAME-2027-Summer-Internship--US----Systems-Engineer_JR103659": 1793813187,
   "workday:zeissgroup.wd3/External:Internship---Software-Engineering---Agentic-Systems-for-Digital-Twins--f-m-x-_JR_1053820-3": 1791457838,
   "workday:zeissgroup.wd3/External:Sales-Engineer_JR_1052250": 1790104008,
   "workday:zeissgroup.wd3/External:Sales-Engineer_JR_1052439": 1790363669,
@@ -10655,5 +10663,5 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148,
   "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541": 1789106107
  },
- "updated_at": 1793808449
+ "updated_at": 1793813188
 }

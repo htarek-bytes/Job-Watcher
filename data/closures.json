@@ -1,76 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1793375656,
-   "company": "sanofi",
-   "hours_open": 265.5,
-   "title": "2027 Spring Co-op CMC Early-Stage Drug Product Development, Framingham, MA",
-   "uid": "workday:sanofi.wd3/SanofiCareers:XMLNAME-2027-Spring-Co-op-CMC-Early-Stage-Drug-Product-Development--Framingham--MA_R2855890"
-  },
-  {
-   "closed_at": 1793375656,
-   "company": "ryan",
-   "hours_open": 20.8,
-   "title": "Summer 2027 Intern, Software Engineering",
-   "uid": "workday:ryan.wd1/RyanCareers:Summer-2027-Intern--Software-Engineering_R0020806-1"
-  },
-  {
-   "closed_at": 1793375656,
-   "company": "salesforce",
-   "hours_open": 265.5,
-   "title": "Business Development Associate (Early Career)",
-   "uid": "workday:salesforce.wd12/Futureforce_NewGradRoles:Business-Development-Associate--Early-Career-_JR340479"
-  },
-  {
-   "closed_at": 1793375656,
-   "company": "psu",
-   "hours_open": 349.4,
-   "title": "R&D Engineer Intern",
-   "uid": "workday:psu.wd1/PSU_Staff:R-D-Engineer-Intern_REQ_0000083331"
-  },
-  {
-   "closed_at": 1793375656,
-   "company": "rockwellautomation",
-   "hours_open": 331.0,
-   "title": "Co-op, Hardware Development Engineer (June - Dec 2027)",
-   "uid": "workday:rockwellautomation.wd1/External_Rockwell_Automation:Co-op--Hardware-Development-Engineer--June---Dec-2027-_R26-6891-1"
-  },
-  {
-   "closed_at": 1793375656,
-   "company": "rockwellautomation",
-   "hours_open": 331.0,
-   "title": "Co-op, Hardware Development Engineer (Jan - July 2027)",
-   "uid": "workday:rockwellautomation.wd1/External_Rockwell_Automation:Co-op--Hardware-Development-Engineer--Jan---July-2027-_R26-6638-1"
-  },
-  {
-   "closed_at": 1793375656,
-   "company": "shi",
-   "hours_open": 20.8,
-   "title": "Solutions Engineer - Enterprise",
-   "uid": "workday:shi.wd12/shicareers:Solutions-Engineer---Enterprise---San-Francisco_JR2563"
-  },
-  {
-   "closed_at": 1793380454,
-   "company": "ultra",
-   "hours_open": 596.6,
-   "title": "Test Engineer 1",
-   "uid": "workday:ultra.wd3/ultra-careers:Test-Engineer-1_REQ-12545-1"
-  },
-  {
-   "closed_at": 1793380454,
-   "company": "visa",
-   "hours_open": 21.7,
-   "title": "2027 Sophomore Internship Program - Software Engineer Intern, Bellevue",
-   "uid": "workday:visa.wd5/Visa_Early_Careers:XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Bellevue_REF089920W-1"
-  },
-  {
-   "closed_at": 1793380454,
-   "company": "visa",
-   "hours_open": 21.7,
-   "title": "2027 Sophomore Internship Program - Software Engineer Intern, Foster City",
-   "uid": "workday:visa.wd5/Visa_Early_Careers:XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Foster-City_REF089919W"
-  },
-  {
    "closed_at": 1793380454,
    "company": "SQUALUS GROUP",
    "hours_open": 199.5,
@@ -5599,8 +5529,78 @@
    "hours_open": 212.5,
    "title": "Software Development Engineer, Leo Telemetry Platform",
    "uid": "amazon:amazon:10586896"
+  },
+  {
+   "closed_at": 1793813187,
+   "company": "dhpace",
+   "hours_open": 610.7,
+   "title": "Systems Integration Technician - Experienced Service/Install",
+   "uid": "greenhouse:dhpace:5449672008"
+  },
+  {
+   "closed_at": 1793813187,
+   "company": "altentechnologyusa",
+   "hours_open": 690.4,
+   "title": "Durability Test Engineer",
+   "uid": "greenhouse:altentechnologyusa:5259669007"
+  },
+  {
+   "closed_at": 1793813187,
+   "company": "Future Electronics",
+   "hours_open": 314.7,
+   "title": "front-end developer",
+   "uid": "jobbank:developpeur junior:50554603"
+  },
+  {
+   "closed_at": 1793813187,
+   "company": "zebra",
+   "hours_open": 118.1,
+   "title": "Software Engineer, Professional I",
+   "uid": "workday:zebra.wd501/Zebra_careers:Software-Engineer--Professional-I_JR103835"
+  },
+  {
+   "closed_at": 1793813187,
+   "company": "ucar",
+   "hours_open": 187.1,
+   "title": "Systems Administrator I",
+   "uid": "workday:ucar.wd5/UCAR_Careers:Systems-Administrator-I_REQ-2026-213-1"
+  },
+  {
+   "closed_at": 1793813187,
+   "company": "zebra",
+   "hours_open": 26.8,
+   "title": "2027 Summer Internship (US) - Software Engineer",
+   "uid": "workday:zebra.wd501/Zebra_careers:XMLNAME-2027-Summer-Internship--US----Software-Engineer_JR103626"
+  },
+  {
+   "closed_at": 1793813187,
+   "company": "1x",
+   "hours_open": 748.6,
+   "title": "Camera Hardware Engineer, Robot Head",
+   "uid": "ashby:1x:99980e95-f006-46bf-9ecb-d37161291a92"
+  },
+  {
+   "closed_at": 1793813187,
+   "company": "tenstorrent",
+   "hours_open": 1488.5,
+   "title": "Software Engineer, TT-Fabric ",
+   "uid": "greenhouse:tenstorrent:4645584007"
+  },
+  {
+   "closed_at": 1793813187,
+   "company": "Turris",
+   "hours_open": 673.0,
+   "title": "rigger - telecommunications",
+   "uid": "jobbank:telecommunications analyst:50284117"
+  },
+  {
+   "closed_at": 1793813187,
+   "company": "Aligned Telecom Solutions Inc",
+   "hours_open": 48.0,
+   "title": "rigger - telecommunications",
+   "uid": "jobbank:telecommunications analyst:50635323"
   }
  ],
- "count": 821,
- "updated_at": 1793808449
+ "count": 810,
+ "updated_at": 1793813188
 }
