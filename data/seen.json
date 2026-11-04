@@ -1,5 +1,5 @@
 {
- "count": 10643,
+ "count": 10653,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -468,6 +468,8 @@
   "amazon:amazon:10595865": 1793738380,
   "amazon:amazon:10595931": 1793741813,
   "amazon:amazon:10595981": 1793743439,
+  "amazon:amazon:10596540": 1793808448,
+  "amazon:amazon:10596546": 1793808448,
   "ashby:1password:00f861d4-2b4a-4159-b6dc-8aed0cde6e39": 1792768274,
   "ashby:1password:443f9ef6-13a7-4edb-ace5-16be7e630041": 1792515454,
   "ashby:1password:49f0fe51-fcdc-46d8-a046-35f357b0cf6e": 1792100265,
@@ -3245,6 +3247,7 @@
   "greenhouse:lightmatter:5382130008": 1791133391,
   "greenhouse:lightmatter:5419848008": 1791133391,
   "greenhouse:lightmatter:5422712008": 1791133391,
+  "greenhouse:lightmatter:5467063008": 1793808448,
   "greenhouse:localitymediallcdbafirstdue:4436073009": 1793318713,
   "greenhouse:ludorobotics:8679958002": 1788479777,
   "greenhouse:lush:8143093": 1788454653,
@@ -7336,6 +7339,7 @@
   "simplify:listings:a4ec4437-993b-4274-81e5-0ced8ce54e02": 1788322770,
   "simplify:listings:a4f1f1ef-5c02-4610-b206-1791f99b714e": 1788322770,
   "simplify:listings:a537c9a6-baac-4468-9e36-ec8c0bea98ec": 1788322770,
+  "simplify:listings:a53f9299-fee6-486c-a628-b8cca1cc9164": 1793808448,
   "simplify:listings:a5785364-41bc-49ce-9e8f-78f6b1bcae79": 1791931335,
   "simplify:listings:a5a4c27f-4bc4-46d6-9141-f486732574b8": 1788322770,
   "simplify:listings:a5a4f5d2-e953-462d-a6ea-fd5fe770de44": 1788322770,
@@ -10312,6 +10316,7 @@
   "workday:relx.wd3/RiskSolutions:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617": 1788386269,
   "workday:relx.wd3/RiskSolutions:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-1": 1788386269,
   "workday:relx.wd3/RiskSolutions:Tech-Accelerate-Graduate-Program---Software-Engineer--Boca-Raton---June-_R116023-2": 1788386269,
+  "workday:relx.wd3/RiskSolutions:Tech-Accelerate-Graduate-Program_R120836": 1793808448,
   "workday:relx.wd3/relx:Software-Engineer-1_R117973-1": 1791526945,
   "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617-1": 1788377835,
   "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-2": 1788377835,
@@ -10325,6 +10330,7 @@
   "workday:roche.wd3/roche-ext:Field-Service-Assistant-Engineer-Intern_202610-126627": 1792419840,
   "workday:roche.wd3/roche-ext:Internship---Software-and-Data-Engineer--for-12-months-in-Rotkreuz-_202610-127501": 1793134591,
   "workday:roche.wd3/roche-ext:Junior-Custom-Software-Developer---RDT-Data-Platforms_202610-125284": 1792117641,
+  "workday:roche.wd3/roche-ext:Technical-Service-Apprentice--Early-in-Career-Program-_202609-123504-2": 1793808448,
   "workday:roche.wd3/roche-ext:XMLNAME-2027-Summer-Intern---Systems-Engineer---Instrument-Development_202610-127766": 1793696035,
   "workday:rochester.wd5/UR_Staff:Research-Data-Engineer-I_R269057": 1791381341,
   "workday:rockwellautomation.wd1/External-Rockwell-Automation-Early-Careers:Co-op--AI-Software-Engineering--6-8-months-_R26-6982": 1790535986,
@@ -10446,10 +10452,12 @@
   "workday:statestreet.wd1/Global:Junior-Software-Engineer_R-793923": 1791232806,
   "workday:statestreet.wd1/Global:Junior-Software-Engineer_R-797359-2": 1789597556,
   "workday:stryker.wd1/StrykerCareers:Commercial-Operations-Software-Engineering-Intern---Flower-Mound--TX_R572941": 1789597556,
+  "workday:stryker.wd1/StrykerCareers:Quality-Engineer--Co-op_R574020": 1793808448,
   "workday:stryker.wd1/StrykerCareers:Summer-2027-Internship---Software-Engineering---California_R572624": 1788448251,
   "workday:stryker.wd1/StrykerCareers:Summer-2027-Internship---Software-Engineering---Florida_R572629-1": 1788448251,
   "workday:stryker.wd1/StrykerCareers:Summer-2027-Internship---Software-Engineering---Indiana_R572631": 1788448251,
   "workday:stryker.wd1/StrykerCareers:Summer-2027-Internship---Software-Engineering---Michigan_R572632-1": 1788448251,
+  "workday:sunlife.wd3/Campus:Business-Operations-Software-Engineer-2027-Co-op_JR00128863": 1793808448,
   "workday:sunlife.wd3/Campus:Student--Associate-Software-Engineer--Winter-2027-_JR00127614": 1788512922,
   "workday:sunlife.wd3/Campus:Student--Associate-Software-Engineer--Winter-2027-_JR00128318": 1790888920,
   "workday:sunlife.wd3/Campus:Student--Automation-Specialist--Winter-2027-_JR00127231": 1788887337,
@@ -10530,6 +10538,8 @@
   "workday:tmobile.wd1/External:Summer-2027-Software-Engineer---Cloud-Security-Summer-Internship_REQ379190": 1792588171,
   "workday:tmobile.wd1/External:Summer-2027-Software-Engineering-Intern_REQ368322": 1792126109,
   "workday:tmobile.wd1/External:Summer-2027-Software-Engineering-Internship_REQ380441": 1793219579,
+  "workday:tmobile.wd1/External:Summer-2027-Software-Engineering-Internship_REQ380886": 1793808448,
+  "workday:tmobile.wd1/External:Summer-2027-T-Ads-Software-Engineering-Internship_REQ381234": 1793808448,
   "workday:toyota.wd503/tmna:Software-Engineer--Early-Career-Professional-_10325071": 1789760824,
   "workday:transperfect.wd5/transperfect:Content-Services-Solution-Engineer_R2025-243631": 1788887337,
   "workday:transperfect.wd5/transperfect:Junior-QA-Engineer_R2025-244109": 1788887337,
@@ -10645,5 +10655,5 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148,
   "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541": 1789106107
  },
- "updated_at": 1793806436
+ "updated_at": 1793808449
 }
