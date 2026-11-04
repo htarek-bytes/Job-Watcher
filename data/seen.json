@@ -1,5 +1,5 @@
 {
- "count": 10621,
+ "count": 10627,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -6653,6 +6653,7 @@
   "simplify:listings:22f4cbf0-ea63-4e72-9fba-4319ef8415c3": 1788322770,
   "simplify:listings:238b4335-e95e-471b-ad55-a3d3da60a5f6": 1788563552,
   "simplify:listings:23dfd8e4-f91c-43b3-87fc-4ea57c85e129": 1790661954,
+  "simplify:listings:23f1c2c3-62c7-4b59-ad95-85d0505c58dc": 1793791333,
   "simplify:listings:242a72e5-306f-4aee-83bf-394d30551f34": 1788322770,
   "simplify:listings:2448117a-1dcc-4ed7-8746-9d828b68bdf7": 1788495756,
   "simplify:listings:24901885-b792-4344-a66a-26907a743ebc": 1791417211,
@@ -7113,6 +7114,7 @@
   "simplify:listings:7b666801-fc12-4d52-bec8-29423fb85a3a": 1792794945,
   "simplify:listings:7bb9a7b2-d0bd-4cbc-b4da-e44e1850ec92": 1789000440,
   "simplify:listings:7c104fdf-7a0a-4a96-a53b-4aa6b21139cd": 1791417211,
+  "simplify:listings:7c16f1bd-bd39-4a42-a12c-2e49647c85cd": 1793791333,
   "simplify:listings:7c378aeb-7ed5-4825-a428-ffb19f70e2fe": 1788322770,
   "simplify:listings:7c4e05df-01fe-4e75-a327-5d36ebba397e": 1789690748,
   "simplify:listings:7c5c7640-ef36-440b-9855-25bddab1fa99": 1788435390,
@@ -9748,6 +9750,7 @@
   "workday:kbr.wd5/kbr_careers:Project-Engineer-I_R2129322": 1788496956,
   "workday:keybank.wd5/External_Career_Site:XMLNAME-2027-Summer-Key-Technology---Services--Cyber-Information-Security-Track-Internship--Cleveland_R-41384": 1788903151,
   "workday:kiongroup.wd3/KION_SCS:Controls-Engineer--Early---Mid-Career-_JR-0093840": 1789467869,
+  "workday:kiongroup.wd3/KION_SCS:Controls-Engineer--New-Graduate-Early-Career-_JR-0096964": 1793791333,
   "workday:kiongroup.wd3/KION_SCS:Software-Engineering-Intern_JR-0097732": 1792017471,
   "workday:kiongroup.wd3/kiongroup:Controls-Engineer--Early---Mid-Career-_JR-0093840-1": 1789424861,
   "workday:kla.wd1/AnnArbor:Software-Engineering-Intern_2531653": 1788442554,
@@ -9896,11 +9899,14 @@
   "workday:mastercard.wd1/CorporateCareers:Software-Development-Engineer_R-284431": 1789424861,
   "workday:mastercard.wd1/CorporateCareers:Software-Engineer-I_R-291661": 1791297144,
   "workday:mastercard.wd1/CorporateCareers:Software-Engineer-I_R-292618-1": 1791444048,
+  "workday:maxar.wd1/Vantor:Junior-Data-Engineer--TS-SCI-_R24867-3": 1793791333,
+  "workday:maxar.wd1/Vantor:Solutions-Engineer---New-Products_R24141": 1793791333,
   "workday:mckesson.wd3/External_Careers:Software-Engineer-Intern---Summer-2027_JR0153235": 1790041362,
   "workday:mckesson.wd3/External_Careers:Software-Engineering-Intern---Summer-2027_JR0155382": 1791444048,
   "workday:medtronic.wd1/MedtronicCareers:Software-Engineering-Intern---Summer-2027_R73630-1": 1791444048,
   "workday:medtronic.wd1/redeploymentmedtroniccareers:Software-Engineering-Intern---Summer-2027_R73630": 1788442554,
   "workday:michelinhr.wd3/Michelin:Automation-Engineer-Internship_R-2026038912": 1792111440,
+  "workday:micron.wd1/External:AMHS-Equipment-Engineer---ID1_JR115382": 1793791333,
   "workday:micron.wd1/External:Associate-Engineer--IT-Eng-System-Mgr_JR112672": 1791364158,
   "workday:micron.wd1/External:DRAM-Device---Cell-Technology-Engineer_JR102424": 1788393936,
   "workday:micron.wd1/External:Embedded-Software-Engineering-Intern_JR115959": 1793290209,
@@ -10623,5 +10629,5 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148,
   "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541": 1789106107
  },
- "updated_at": 1793784599
+ "updated_at": 1793791334
 }
