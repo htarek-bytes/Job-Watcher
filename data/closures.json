@@ -1,41 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1793375124,
-   "company": "bluecatnetworks",
-   "hours_open": 881.9,
-   "title": "Software Developer",
-   "uid": "lever:bluecatnetworks:1ad37b73-f19e-4c1f-a12b-66665b439190"
-  },
-  {
-   "closed_at": 1793375579,
-   "company": "salesforce",
-   "hours_open": 330.9,
-   "title": "Account Solution Engineer - Federal Civilian",
-   "uid": "workday:salesforce.wd12/External_Career_Site:Account-Solution-Engineer---Federal-Civilian_JR363499-1"
-  },
-  {
-   "closed_at": 1793375579,
-   "company": "salesforce",
-   "hours_open": 20.8,
-   "title": "Associate Solution Consultant",
-   "uid": "workday:salesforce.wd12/Futureforce_NewGradRoles:Associate-Solution-Consultant_JR365267"
-  },
-  {
-   "closed_at": 1793375579,
-   "company": "rockwellautomation",
-   "hours_open": 926.1,
-   "title": "Intern, Technical Sales & Consulting (USA)",
-   "uid": "workday:rockwellautomation.wd1/External_Rockwell_Automation:Intern--Technical-Sales---Consulting--USA-_R26-5962-2"
-  },
-  {
-   "closed_at": 1793375579,
-   "company": "rockwellautomation",
-   "hours_open": 173.3,
-   "title": "Intern, Hardware Development Engineer (May - Aug 2027)",
-   "uid": "workday:rockwellautomation.wd1/External_Rockwell_Automation:Intern--Hardware-Development-Engineer--May---Aug-2027-_R26-6892-1"
-  },
-  {
    "closed_at": 1793375579,
    "company": "sanofi",
    "hours_open": 265.5,
@@ -5599,8 +5564,43 @@
    "hours_open": 202.8,
    "title": "Junior Software Developer",
    "uid": "workday:leidos.wd5/External:Junior-Software-Developer_R-00193099"
+  },
+  {
+   "closed_at": 1793806436,
+   "company": "onto",
+   "hours_open": 119.8,
+   "title": "Systems Engineer 1",
+   "uid": "workday:onto.wd1/onto_careers:Systems-Engineer-1_R-6722"
+  },
+  {
+   "closed_at": 1793806436,
+   "company": "ncr",
+   "hours_open": 370.2,
+   "title": "Sales Development Associate – Emerging Talent ",
+   "uid": "workday:ncr.wd1/ext_us:Sales-Development-Associate---Emerging-Talent-_R0158821-3"
+  },
+  {
+   "closed_at": 1793806436,
+   "company": "ngc",
+   "hours_open": 186.9,
+   "title": "2027 Software Engineering Intern - Colorado Springs",
+   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs_R10257803"
+  },
+  {
+   "closed_at": 1793806436,
+   "company": "reddit",
+   "hours_open": 447.8,
+   "title": "Machine Learning Engineer",
+   "uid": "greenhouse:reddit:7131932"
+  },
+  {
+   "closed_at": 1793806436,
+   "company": "Northrop Grumman",
+   "hours_open": 160.8,
+   "title": "Associate Software Engineer - Pathways Program",
+   "uid": "simplify:listings:d57ce697-9274-4176-85eb-5f6098fd3fc7"
   }
  ],
- "count": 809,
- "updated_at": 1793791334
+ "count": 805,
+ "updated_at": 1793806436
 }
