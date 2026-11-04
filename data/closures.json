@@ -1,55 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1793404080,
-   "company": "xai",
-   "hours_open": 1362.9,
-   "title": "Design Engineer - Memphis",
-   "uid": "greenhouse:xai:5214350007"
-  },
-  {
-   "closed_at": 1793404080,
-   "company": "xai",
-   "hours_open": 1362.9,
-   "title": "Critical Facilities Engineer - Memphis",
-   "uid": "greenhouse:xai:5064636007"
-  },
-  {
-   "closed_at": 1793404080,
-   "company": "agile-defense",
-   "hours_open": 576.4,
-   "title": "Systems Administrator - Virtualization (Intermediate & Associate)",
-   "uid": "lever:agile-defense:36267593-a3d4-402d-8851-3e6dee32c1e9"
-  },
-  {
-   "closed_at": 1793404182,
-   "company": "demiurgestudios",
-   "hours_open": 1246.0,
-   "title": "2027 Associate Software Engineer",
-   "uid": "lever:demiurgestudios:85f401d2-5242-4096-b852-2947492d0035"
-  },
-  {
-   "closed_at": 1793404182,
-   "company": "twitch",
-   "hours_open": 1371.9,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
-   "closed_at": 1793404182,
-   "company": "xai",
-   "hours_open": 1362.9,
-   "title": "Design Engineer - Memphis",
-   "uid": "greenhouse:xai:5214350007"
-  },
-  {
-   "closed_at": 1793404182,
-   "company": "xai",
-   "hours_open": 1362.9,
-   "title": "Critical Facilities Engineer - Memphis",
-   "uid": "greenhouse:xai:5064636007"
-  },
-  {
    "closed_at": 1793404182,
    "company": "agile-defense",
    "hours_open": 576.5,
@@ -5599,8 +5550,57 @@
    "hours_open": 1493.9,
    "title": "RF/Microwave Engineer, Satellites (Starlink)",
    "uid": "greenhouse:spacex:8480418002"
+  },
+  {
+   "closed_at": 1793836749,
+   "company": "Becton Dickinson",
+   "hours_open": 621.7,
+   "title": "Software Engineer 1",
+   "uid": "simplify:listings:98c33fd8-dca1-426d-a419-74413b56996d"
+  },
+  {
+   "closed_at": 1793836749,
+   "company": "Amazon",
+   "hours_open": 299.9,
+   "title": "Software Development Engineer, Agentic AI, Velocity Labs",
+   "uid": "amazon:amazon:10587403"
+  },
+  {
+   "closed_at": 1793836749,
+   "company": "mendix",
+   "hours_open": 371.1,
+   "title": "Information Security Officer",
+   "uid": "lever:mendix:b33e4cad-95b1-4f1d-8eb6-949207e284cd"
+  },
+  {
+   "closed_at": 1793836749,
+   "company": "agile-defense",
+   "hours_open": 189.7,
+   "title": "Database Administrator - Associate",
+   "uid": "lever:agile-defense:f0ab9288-2547-4047-8ee1-a8c8a8a37924"
+  },
+  {
+   "closed_at": 1793836749,
+   "company": "hatchit",
+   "hours_open": 510.9,
+   "title": "Junior Test Engineer (VOR)",
+   "uid": "lever:hatchit:47acbed4-4c8f-4004-a838-12a1b1fe3adb"
+  },
+  {
+   "closed_at": 1793836749,
+   "company": "erg",
+   "hours_open": 864.8,
+   "title": "Power BI Developer",
+   "uid": "lever:erg:b6fd32ca-e15e-4abf-b2fd-8a1e7498ab5a"
+  },
+  {
+   "closed_at": 1793836749,
+   "company": "Amazon",
+   "hours_open": 223.0,
+   "title": "Software Dev Engineer, Antenna System Validation",
+   "uid": "amazon:amazon:10588695"
   }
  ],
- "count": 820,
- "updated_at": 1793832652
+ "count": 807,
+ "updated_at": 1793836749
 }
