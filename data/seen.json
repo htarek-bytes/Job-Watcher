@@ -1,5 +1,5 @@
 {
- "count": 10594,
+ "count": 10599,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -2303,6 +2303,7 @@
   "greenhouse:andurilindustries:5281740007": 1793658661,
   "greenhouse:andurilindustries:5283010007": 1793738380,
   "greenhouse:andurilindustries:5283103007": 1793723934,
+  "greenhouse:andurilindustries:5283927007": 1793776644,
   "greenhouse:anthropic:4982193008": 1788460756,
   "greenhouse:anthropic:5290838008": 1788750148,
   "greenhouse:appdirect:8635759002": 1788454653,
@@ -5809,6 +5810,7 @@
   "jobbank:systems analyst:50628087": 1793510486,
   "jobbank:systems analyst:50642114": 1793664064,
   "jobbank:systems analyst:50654396": 1793749289,
+  "jobbank:systems analyst:50658150": 1793776644,
   "jobbank:telecommunications analyst:49780105": 1791390300,
   "jobbank:telecommunications analyst:49818659": 1791390300,
   "jobbank:telecommunications analyst:49947219": 1791390300,
@@ -8893,8 +8895,10 @@
   "workday:aoins.wd5/AutoOwners:Business-Intelligence-Developer-Internship---Summer-2027_R_14417": 1788435390,
   "workday:aoins.wd5/AutoOwners:Business-Intelligence-Developer-Internship---Summer-2027_R_14772": 1792794945,
   "workday:aoins.wd5/AutoOwners:IT-Security-Engineer-Internship---Summer-2027_R_14477": 1788898936,
+  "workday:arlo.wd12/External_Careers:Hardware-Engineer-Co-op_JR100446": 1793776644,
   "workday:arrow.wd1/ac:Infrastructure-Engineer-I_R249265": 1793670559,
   "workday:ascensushr.wd1/ascensuscareers:Associate-Software-Engineer_R0021231": 1792797439,
+  "workday:asml.wd3/asmlext1:Co-op---Test-and-Measurement-Facility-Engineer--Internship-_J-00356415": 1793776644,
   "workday:asml.wd3/asmlext1:Coop---Mechatronics-Engineer--Internship-_J-00356203": 1793670559,
   "workday:asml.wd3/asmlext1:Internship---Application-Software-QA-Engineer_J-00354565": 1792797439,
   "workday:asml.wd3/asmlext1:Internship---Frontend-Developer_J-00354852": 1793184779,
@@ -9014,6 +9018,7 @@
   "workday:bmo.wd3/External:Software-Developer--Winter-2027--Co-op-Internship----8-Months_R260024640-3": 1788760848,
   "workday:bmo.wd3/External:Software-Developer--Winter-2027--Internship----4-months_R260027197-2": 1790038575,
   "workday:bmo.wd3/External:Wealth-Management-Development-Associate--New-Grad--Chicago--IL-_R260026201": 1788888205,
+  "workday:bmo.wd3/Privileged:Business---Operations-Development-Specialist--New-Grad-_R260027681-3": 1793776644,
   "workday:boeing.wd1/EXTERNAL_CAREERS:Associate-Software-Engineer---Developers_JR2026512427-1": 1790294740,
   "workday:boeing.wd1/EXTERNAL_CAREERS:Associate-Software-Engineer_JR2026511462-1": 1790632644,
   "workday:boeing.wd1/EXTERNAL_CAREERS:Associate-Software-Engineer_JR2026516706-1": 1790091113,
@@ -10596,5 +10601,5 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148,
   "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541": 1789106107
  },
- "updated_at": 1793762526
+ "updated_at": 1793776644
 }
