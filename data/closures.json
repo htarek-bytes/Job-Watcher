@@ -2,62 +2,6 @@
  "closed": [
   {
    "closed_at": 1793380454,
-   "company": "lyft",
-   "hours_open": 1176.0,
-   "title": "Business Systems Engineer, Intelligent Automation",
-   "uid": "greenhouse:lyft:8790623002"
-  },
-  {
-   "closed_at": 1793380454,
-   "company": "tsc",
-   "hours_open": 1368.3,
-   "title": "Operations Systems Analyst I",
-   "uid": "workday:tsc.wd12/TSC-Careers:Operations-Systems-Analyst-I_JR2750"
-  },
-  {
-   "closed_at": 1793380454,
-   "company": "rockwellautomation",
-   "hours_open": 790.1,
-   "title": "Intern, AI Software Engineering (June-August 2027)",
-   "uid": "workday:rockwellautomation.wd1/External-Rockwell-Automation-Early-Careers:Intern--AI-Software-Engineering--June-August-2027-_R26-6980"
-  },
-  {
-   "closed_at": 1793380454,
-   "company": "rockwellautomation",
-   "hours_open": 790.1,
-   "title": "Co-op, AI Software Engineering (6-8 months)",
-   "uid": "workday:rockwellautomation.wd1/External-Rockwell-Automation-Early-Careers:Co-op--AI-Software-Engineering--6-8-months-_R26-6982"
-  },
-  {
-   "closed_at": 1793380454,
-   "company": "relx",
-   "hours_open": 1389.6,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - January)",
-   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617-1"
-  },
-  {
-   "closed_at": 1793380454,
-   "company": "relx",
-   "hours_open": 1389.6,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - June)",
-   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-2"
-  },
-  {
-   "closed_at": 1793380454,
-   "company": "relx",
-   "hours_open": 1389.6,
-   "title": "Tech Accelerate Graduate Program - Software Engineer (Boca Raton - June)",
-   "uid": "workday:relx.wd3/relx:Tech-Accelerate-Graduate-Program---Software-Engineer--Boca-Raton---June-_R116023"
-  },
-  {
-   "closed_at": 1793380454,
-   "company": "tmobile",
-   "hours_open": 87.0,
-   "title": "Associate Software Engineer- Billing Platform",
-   "uid": "workday:tmobile.wd1/External:Associate-Software-Engineer--Billing-Platform_REQ375195-1"
-  },
-  {
-   "closed_at": 1793380454,
    "company": "Source Code",
    "hours_open": 34.2,
    "title": "software developer",
@@ -5599,8 +5543,64 @@
    "hours_open": 1488.5,
    "title": "Software Development Engineer, Security Platform",
    "uid": "greenhouse:twitch:8739185002"
+  },
+  {
+   "closed_at": 1793817972,
+   "company": "Fop experts conseils inc.",
+   "hours_open": 21.2,
+   "title": "application programmer",
+   "uid": "jobbank:junior programmer:50652232"
+  },
+  {
+   "closed_at": 1793817972,
+   "company": "appdirect",
+   "hours_open": 1223.7,
+   "title": "Intermediate Software Developer",
+   "uid": "greenhouse:appdirect:8783745002"
+  },
+  {
+   "closed_at": 1793817972,
+   "company": "Amazon",
+   "hours_open": 213.5,
+   "title": "Software Development Engineer, AWS Field Experience",
+   "uid": "amazon:amazon:10589259"
+  },
+  {
+   "closed_at": 1793817972,
+   "company": "harvey",
+   "hours_open": 779.9,
+   "title": "Software Engineer, New Grad (2027)",
+   "uid": "ashby:harvey:4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc"
+  },
+  {
+   "closed_at": 1793817972,
+   "company": "altentechnologyusa",
+   "hours_open": 1488.1,
+   "title": "Requirements Management Engineer",
+   "uid": "greenhouse:altentechnologyusa:5225431007"
+  },
+  {
+   "closed_at": 1793817972,
+   "company": "twitch",
+   "hours_open": 1486.9,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1793817972,
+   "company": "Micron Technology",
+   "hours_open": 1148.0,
+   "title": "ASIC Digital Design Engineer New Grad",
+   "uid": "simplify:listings:8475b72d-9c39-499b-b18d-a7ba42919fb2"
+  },
+  {
+   "closed_at": 1793817972,
+   "company": "Micron Technology",
+   "hours_open": 1500.3,
+   "title": "Product Test Engineer New Grad",
+   "uid": "simplify:listings:54cabb56-5337-4344-9f40-9ad54dc468b3"
   }
  ],
- "count": 804,
- "updated_at": 1793813338
+ "count": 808,
+ "updated_at": 1793817972
 }
