@@ -1,76 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1793368971,
-   "company": "Source Code",
-   "hours_open": 31.0,
-   "title": "software developer",
-   "uid": "jobbank:entry level software developer:50598291"
-  },
-  {
-   "closed_at": 1793368971,
-   "company": "kbr",
-   "hours_open": 1386.4,
-   "title": "Junior Software Engineer",
-   "uid": "workday:kbr.wd5/kbr_careers:Junior-Software-Engineer_R2122294"
-  },
-  {
-   "closed_at": 1793368971,
-   "company": "litera",
-   "hours_open": 349.3,
-   "title": "Associate Software Engineer",
-   "uid": "workday:litera.wd12/Litera_Careers:Associate-Software-Engineer_R-501347"
-  },
-  {
-   "closed_at": 1793368971,
-   "company": "leidos",
-   "hours_open": 85.5,
-   "title": "Junior Software Developer",
-   "uid": "workday:leidos.wd5/External:Junior-Software-Developer_R-00193099"
-  },
-  {
-   "closed_at": 1793375124,
-   "company": "Morningstar",
-   "hours_open": 16.5,
-   "title": "Associate Software Engineer - Central Tech AI",
-   "uid": "simplify:listings:f0518227-634a-49fb-8e4e-eba9d347a10e"
-  },
-  {
-   "closed_at": 1793375124,
-   "company": "micron",
-   "hours_open": 68.1,
-   "title": "New College Grad - Process Control Engineer (SPC)",
-   "uid": "workday:micron.wd1/External:Process-Control-Engineer--SPC-_JR111994"
-  },
-  {
-   "closed_at": 1793375124,
-   "company": "CGI",
-   "hours_open": 1246.6,
-   "title": "Conseiller(ère) en architecture de cybersécurité",
-   "uid": "jobillico:analyste cybersecurite:17433753"
-  },
-  {
-   "closed_at": 1793375124,
-   "company": "CGI",
-   "hours_open": 1246.6,
-   "title": "Conseiller(ère) en audit de cybersécurité",
-   "uid": "jobillico:analyste cybersecurite:17433750"
-  },
-  {
-   "closed_at": 1793375124,
-   "company": "McCain Foods",
-   "hours_open": 48.2,
-   "title": "software developer",
-   "uid": "jobbank:scada:50599113"
-  },
-  {
-   "closed_at": 1793375124,
-   "company": "QualiTech",
-   "hours_open": 21.0,
-   "title": "Spécialiste infrastructure, réseaux et télécommunications (fly-in fly-out)",
-   "uid": "jobillico:specialiste infrastructure:17657508"
-  },
-  {
    "closed_at": 1793375124,
    "company": "mpc",
    "hours_open": 1097.3,
@@ -5599,8 +5529,78 @@
    "hours_open": 653.5,
    "title": "Food, Beverage, Dairy Plant Sanitation - Technical Sales Intern",
    "uid": "workday:ecolab.wd1/ecolab_external:Food--Beverage--Dairy-Plant-Sanitation---Technical-Sales-Internship_R00303120"
+  },
+  {
+   "closed_at": 1793784597,
+   "company": "hp",
+   "hours_open": 290.7,
+   "title": "Presales Solution Engineer - Edge AI",
+   "uid": "workday:hp.wd5/EXTEU-AC-CareerSite:Presales-Solution-Engineer---Edge-AI_3169909"
+  },
+  {
+   "closed_at": 1793784597,
+   "company": "gevernova",
+   "hours_open": 1282.7,
+   "title": "Grid Engineer-1",
+   "uid": "workday:gevernova.wd5/only_confidential_executive_recruiting:Grid-Engineer-1_R5052125-1"
+  },
+  {
+   "closed_at": 1793784597,
+   "company": "globalhr",
+   "hours_open": 367.4,
+   "title": "Spécialiste en automatisation manufacturière / Manufacturing Automation Specialist",
+   "uid": "workday:globalhr.wd5/Private_Posting_No_TMP:Spcialiste-en-automatisation-manufacturire---Manufacturing-Automation-Specialist_01883003-2"
+  },
+  {
+   "closed_at": 1793784597,
+   "company": "Fop experts conseils inc.",
+   "hours_open": 7.2,
+   "title": "cybersecurity analyst",
+   "uid": "jobbank:cybersecurity analyst:50652146"
+  },
+  {
+   "closed_at": 1793784597,
+   "company": "itron",
+   "hours_open": 55.6,
+   "title": "Intern - Systems Engineer (Spring 2027)",
+   "uid": "workday:itron.wd5/Itron:Intern---Systems-Engineer--Spring-2027-_JR102789-2"
+  },
+  {
+   "closed_at": 1793784597,
+   "company": "hp",
+   "hours_open": 117.8,
+   "title": "Print Presales TC",
+   "uid": "workday:hp.wd5/externalcareersite:Print-Presales-TC_3169022-2"
+  },
+  {
+   "closed_at": 1793784597,
+   "company": "globalhr",
+   "hours_open": 855.1,
+   "title": "FPGA/ASIC Engineer I",
+   "uid": "workday:globalhr.wd5/Private_Posting_No_TMP:FPGA-ASIC-Engineer-I_01876996"
+  },
+  {
+   "closed_at": 1793784597,
+   "company": "globalhr",
+   "hours_open": 334.9,
+   "title": "Systems Engineer Co-Op – Algorithms (Spring/Summer 2027) - Remote",
+   "uid": "workday:globalhr.wd5/Private_Posting_No_TMP:Systems-Engineer-Co-Op---Algorithms--Spring-Summer-2027----Onsite_01881510"
+  },
+  {
+   "closed_at": 1793784597,
+   "company": "hpe",
+   "hours_open": 422.2,
+   "title": "Technical Sales Graduate",
+   "uid": "workday:hpe.wd5/jobsathpe:Technical-Sales-Graduate_1213591-1"
+  },
+  {
+   "closed_at": 1793784597,
+   "company": "reddit",
+   "hours_open": 470.6,
+   "title": "Machine Learning Engineer",
+   "uid": "greenhouse:reddit:7131934"
   }
  ],
- "count": 805,
- "updated_at": 1793784393
+ "count": 810,
+ "updated_at": 1793784599
 }
