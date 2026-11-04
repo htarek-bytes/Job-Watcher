@@ -1,146 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1793396047,
-   "company": "Amplitude",
-   "hours_open": 67.2,
-   "title": "Software Engineer 1",
-   "uid": "simplify:listings:4ae0b156-0dee-4cd8-9586-be6ccba61655"
-  },
-  {
-   "closed_at": 1793396047,
-   "company": "Amazon",
-   "hours_open": 264.1,
-   "title": "Software Development Engineer, AWS Marketplace",
-   "uid": "amazon:amazon:10583323"
-  },
-  {
-   "closed_at": 1793396047,
-   "company": "parallel",
-   "hours_open": 878.9,
-   "title": "Full Stack Software Engineer I",
-   "uid": "greenhouse:parallel:5247800007"
-  },
-  {
-   "closed_at": 1793396047,
-   "company": "twitch",
-   "hours_open": 1372.6,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739185002"
-  },
-  {
-   "closed_at": 1793396047,
-   "company": "pathrobotics",
-   "hours_open": 1370.9,
-   "title": "Software Engineer, C#",
-   "uid": "greenhouse:pathrobotics:8635262002"
-  },
-  {
-   "closed_at": 1793396047,
-   "company": "Amazon",
-   "hours_open": 98.0,
-   "title": "Software Development Engineer, Unified Streaming and Monitoring Service",
-   "uid": "amazon:amazon:10586888"
-  },
-  {
-   "closed_at": 1793401478,
-   "company": "axon",
-   "hours_open": 27.5,
-   "title": "Unity Developer - Internal Tools",
-   "uid": "greenhouse:axon:8040053003"
-  },
-  {
-   "closed_at": 1793401478,
-   "company": "Groupe Coderr",
-   "hours_open": 864.3,
-   "title": "Technicien informatique",
-   "uid": "jobillico:technicien informatique:17557461"
-  },
-  {
-   "closed_at": 1793401478,
-   "company": "CGI",
-   "hours_open": 1253.9,
-   "title": "Conseiller(ère) en audit de cybersécurité",
-   "uid": "jobillico:analyste cybersecurite:17433750"
-  },
-  {
-   "closed_at": 1793401478,
-   "company": "QualiTech",
-   "hours_open": 28.3,
-   "title": "Spécialiste infrastructure, réseaux et télécommunications (fly-in fly-out)",
-   "uid": "jobillico:specialiste infrastructure:17657508"
-  },
-  {
-   "closed_at": 1793401478,
-   "company": "Amazon",
-   "hours_open": 247.9,
-   "title": "Software Development Engineer, Annapurna Labs, Elastic Collectives",
-   "uid": "amazon:amazon:10584034"
-  },
-  {
-   "closed_at": 1793401478,
-   "company": "vast",
-   "hours_open": 147.3,
-   "title": "Integration Build Engineer",
-   "uid": "greenhouse:vast:4713728006"
-  },
-  {
-   "closed_at": 1793401478,
-   "company": "andurilindustries",
-   "hours_open": 1205.2,
-   "title": "Automation Technician 2nd Shift, Manufacturing Automation  ",
-   "uid": "greenhouse:andurilindustries:5234683007"
-  },
-  {
-   "closed_at": 1793401478,
-   "company": "andurilindustries",
-   "hours_open": 1203.1,
-   "title": "Automation Technician, Manufacturing Automation  ",
-   "uid": "greenhouse:andurilindustries:5234680007"
-  },
-  {
-   "closed_at": 1793401478,
-   "company": "Micron Technology",
-   "hours_open": 1362.7,
-   "title": "Electrical Failure Analysis Engineer New Grad - Yield Enhancement",
-   "uid": "simplify:listings:94555cf8-dff1-498f-8455-78f6809daa92"
-  },
-  {
-   "closed_at": 1793401478,
-   "company": "machindustries",
-   "hours_open": 356.6,
-   "title": "Mechanical Test Engineer",
-   "uid": "greenhouse:machindustries:4455148009"
-  },
-  {
-   "closed_at": 1793401478,
-   "company": "spacex",
-   "hours_open": 837.4,
-   "title": "Splunk Engineer",
-   "uid": "greenhouse:spacex:8846233002"
-  },
-  {
-   "closed_at": 1793401478,
-   "company": "spacex",
-   "hours_open": 1374.1,
-   "title": "OT Network Engineer, Mission Systems",
-   "uid": "greenhouse:spacex:8679658002"
-  },
-  {
-   "closed_at": 1793404080,
-   "company": "demiurgestudios",
-   "hours_open": 1246.0,
-   "title": "2027 Associate Software Engineer",
-   "uid": "lever:demiurgestudios:85f401d2-5242-4096-b852-2947492d0035"
-  },
-  {
-   "closed_at": 1793404080,
-   "company": "twitch",
-   "hours_open": 1371.9,
-   "title": "Software Development Engineer, Security Platform",
-   "uid": "greenhouse:twitch:8739196002"
-  },
-  {
    "closed_at": 1793404080,
    "company": "xai",
    "hours_open": 1362.9,
@@ -5599,8 +5459,148 @@
    "hours_open": 26.1,
    "title": "Software Dev Engineer, Antenna Calibration, Amazon Leo",
    "uid": "amazon:amazon:10595772"
+  },
+  {
+   "closed_at": 1793832651,
+   "company": "startree",
+   "hours_open": 164.9,
+   "title": "Software Engineer I",
+   "uid": "greenhouse:startree:6235909004"
+  },
+  {
+   "closed_at": 1793832651,
+   "company": "togetherai",
+   "hours_open": 474.0,
+   "title": "Hardware Security Engineer, New Grad (2027)",
+   "uid": "greenhouse:togetherai:5238471007"
+  },
+  {
+   "closed_at": 1793832651,
+   "company": "togetherai",
+   "hours_open": 474.0,
+   "title": "Hardware Security Engineer Intern (Summer 2027)",
+   "uid": "greenhouse:togetherai:5238469007"
+  },
+  {
+   "closed_at": 1793832651,
+   "company": "tripadvisor",
+   "hours_open": 625.6,
+   "title": "Jr Software Engineer",
+   "uid": "greenhouse:tripadvisor:8221273"
+  },
+  {
+   "closed_at": 1793832651,
+   "company": "tripadvisor",
+   "hours_open": 863.7,
+   "title": "Android Engineer (mid-level)",
+   "uid": "greenhouse:tripadvisor:8161471"
+  },
+  {
+   "closed_at": 1793832651,
+   "company": "twitch",
+   "hours_open": 1490.9,
+   "title": "Software Development Engineer, Security Platform",
+   "uid": "greenhouse:twitch:8739196002"
+  },
+  {
+   "closed_at": 1793832651,
+   "company": "tripadvisor",
+   "hours_open": 863.7,
+   "title": "Android Mobile Engineer",
+   "uid": "greenhouse:tripadvisor:7873820"
+  },
+  {
+   "closed_at": 1793832651,
+   "company": "sironamedical",
+   "hours_open": 1057.8,
+   "title": "Software QA Engineer",
+   "uid": "greenhouse:sironamedical:4715721005"
+  },
+  {
+   "closed_at": 1793832651,
+   "company": "taxreliefadvocates",
+   "hours_open": 1506.5,
+   "title": "Junior Data Engineer (Marketing)",
+   "uid": "greenhouse:taxreliefadvocates:4895362008"
+  },
+  {
+   "closed_at": 1793832651,
+   "company": "twosixtechnologies",
+   "hours_open": 1481.9,
+   "title": "Technical Operations Engineer",
+   "uid": "greenhouse:twosixtechnologies:6149320004"
+  },
+  {
+   "closed_at": 1793832651,
+   "company": "spacex",
+   "hours_open": 217.6,
+   "title": "IT Storage Engineer",
+   "uid": "greenhouse:spacex:8687953002"
+  },
+  {
+   "closed_at": 1793832651,
+   "company": "spacex",
+   "hours_open": 1493.9,
+   "title": "Power Electronics Engineer - High Voltage (Starlink)",
+   "uid": "greenhouse:spacex:8635943002"
+  },
+  {
+   "closed_at": 1793832651,
+   "company": "spacex",
+   "hours_open": 1493.9,
+   "title": "Production Engineer, Site Reliability (Application Software)",
+   "uid": "greenhouse:spacex:8649729002"
+  },
+  {
+   "closed_at": 1793832651,
+   "company": "spacex",
+   "hours_open": 1493.9,
+   "title": "Software Engineer, Site Reliability Engineering (Application Software)",
+   "uid": "greenhouse:spacex:8647095002"
+  },
+  {
+   "closed_at": 1793832651,
+   "company": "spacex",
+   "hours_open": 1493.9,
+   "title": "Site Reliability Engineer (Application Software)",
+   "uid": "greenhouse:spacex:8646146002"
+  },
+  {
+   "closed_at": 1793832651,
+   "company": "spacex",
+   "hours_open": 1493.9,
+   "title": "Wireless Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8637826002"
+  },
+  {
+   "closed_at": 1793832651,
+   "company": "spacex",
+   "hours_open": 1493.9,
+   "title": "Hardware Engineer - Electrical, Satellites (Starlink)",
+   "uid": "greenhouse:spacex:8631636002"
+  },
+  {
+   "closed_at": 1793832651,
+   "company": "spacex",
+   "hours_open": 1493.9,
+   "title": "Electrical Hardware Engineer, Satellites (Starlink) ",
+   "uid": "greenhouse:spacex:8631618002"
+  },
+  {
+   "closed_at": 1793832651,
+   "company": "spacex",
+   "hours_open": 1493.9,
+   "title": "Embedded Software Engineer, Satellite Antenna (Starlink)",
+   "uid": "greenhouse:spacex:8603628002"
+  },
+  {
+   "closed_at": 1793832651,
+   "company": "spacex",
+   "hours_open": 1493.9,
+   "title": "RF/Microwave Engineer, Satellites (Starlink)",
+   "uid": "greenhouse:spacex:8480418002"
   }
  ],
- "count": 805,
- "updated_at": 1793832498
+ "count": 820,
+ "updated_at": 1793832652
 }
