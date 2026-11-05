@@ -2,27 +2,6 @@
  "closed": [
   {
    "closed_at": 1793444623,
-   "company": "hp",
-   "hours_open": 23.4,
-   "title": "Presales Consultant",
-   "uid": "workday:hp.wd5/EXTEU-AC-CareerSite:Presales-Consultant_3170488"
-  },
-  {
-   "closed_at": 1793444623,
-   "company": "OSF HealthCare",
-   "hours_open": 292.1,
-   "title": "Data Engineer 1",
-   "uid": "simplify:listings:5a59f0ee-1571-4abb-9f4a-04fb4914313a"
-  },
-  {
-   "closed_at": 1793444623,
-   "company": "Lakeland Roman Catholic Separate School Division",
-   "hours_open": 1265.9,
-   "title": "computer systems analyst",
-   "uid": "jobbank:systems analyst:50064831"
-  },
-  {
-   "closed_at": 1793444623,
    "company": "kbr",
    "hours_open": 1407.5,
    "title": "Junior Software Engineer",
@@ -5599,8 +5578,29 @@
    "hours_open": 1541.9,
    "title": "Software Engineer - Entry Level",
    "uid": "simplify:listings:2af5ac17-a498-44a7-829b-c3147a8a150b"
+  },
+  {
+   "closed_at": 1793875447,
+   "company": "Brain Co.",
+   "hours_open": 369.1,
+   "title": "AI Platform Engineer New Grad",
+   "uid": "simplify:listings:96705002-95d7-4a17-8292-87bbaea60a95"
+  },
+  {
+   "closed_at": 1793875447,
+   "company": "ebi",
+   "hours_open": 1212.5,
+   "title": "Product Engineer Intern",
+   "uid": "workday:ebi.wd5/ebadcareers:Product-Engineer-Intern_REQ107697"
+  },
+  {
+   "closed_at": 1793875447,
+   "company": "globalhr",
+   "hours_open": 163.4,
+   "title": "Systems Engineer I",
+   "uid": "workday:globalhr.wd5/Private_Posting_No_TMP:Systems-Engineer-I_01870892-1"
   }
  ],
- "count": 807,
- "updated_at": 1793873737
+ "count": 803,
+ "updated_at": 1793875449
 }

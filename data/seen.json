@@ -1,5 +1,5 @@
 {
- "count": 10794,
+ "count": 10806,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -6934,6 +6934,7 @@
   "simplify:listings:49a6eea9-f3b2-4c8a-bcb9-73f0f684a0af": 1788322770,
   "simplify:listings:49fad5f7-8159-47be-8139-91fd5ee5d213": 1791328929,
   "simplify:listings:4a0ac2bd-9aed-42eb-88de-3663340e79b5": 1789081658,
+  "simplify:listings:4a41c21f-cb37-47ca-8544-a14aade71286": 1793875447,
   "simplify:listings:4a4ec7cc-a958-4c9b-91dc-88badf3c2593": 1791273148,
   "simplify:listings:4a59e495-170c-4f60-a7fe-8a6708d5ce94": 1791029165,
   "simplify:listings:4ac72dac-062c-4ad9-94fb-8bd0961f1d95": 1788322770,
@@ -9479,6 +9480,7 @@
   "workday:expedia.wd108/private:Software-Developer-I_R-110635": 1792625972,
   "workday:expedia.wd108/private:Software-Development-Engineer-I_R-108739-2": 1788377607,
   "workday:expedia.wd108/private:Software-Development-Engineering-Intern---2027---Austin--San-Jose--Seattle_R-110311": 1791293986,
+  "workday:extraspace.wd5/ESS_External:Associate-Software-Engineer_R-82836": 1793875447,
   "workday:ffive.wd5/f5jobs:Network-Engineer-I_RP1038801": 1790039053,
   "workday:ffive.wd5/f5jobs:Site-Reliability-Engineer-I-I_RP1038818": 1790923532,
   "workday:ffive.wd5/f5jobs:Software-Development-Engineer-I--Former-Summer-2026-Interns-_RP1038795": 1790039053,
@@ -9506,13 +9508,21 @@
   "workday:fmr.wd1/targeted:Co-op--Software-Engineer_2135200": 1789166954,
   "workday:fmr.wd1/targeted:Co-op--Software-Engineer_2135230": 1789203086,
   "workday:fmr.wd1/targeted:Co-op--Software-Full-Stack-Engineer_2135236": 1789166954,
+  "workday:fmr.wd1/targeted:Systems-Analyst-Intern_2137961": 1793875447,
   "workday:fnbcorp.wd501/FNBCORP:Summer-2027-Application-Analyst-Intern_2026-01958": 1788887337,
   "workday:fnbcorp.wd501/FNBCORP:Summer-2027-Systems-Analyst-Intern_2026-02021": 1788470575,
   "workday:freddiemac.wd5/External:Multifamily-Software-Development-Intern---Summer-2027_JR17564": 1788454653,
   "workday:freddiemac.wd5/External:Single-Family-Software-Developer-Intern--Summer-2027_JR17544": 1788442300,
   "workday:freseniusmedicalcare.wd3/fme:Software-Engineering-Co-op_R0271309": 1792524173,
   "workday:frostbank.wd5/External:FIA-Insurance-Development-Associate-I_R261248": 1792625972,
+  "workday:frostbank.wd5/External:FIA-Insurance-Development-Associate-I_R261338": 1793875447,
   "workday:gafsgi.wd5/GAF_Careers:R-D-Commercial-Product-Development-Engineer-Intern_26417": 1793784393,
+  "workday:gaig.wd1/GAIG_External:Claims-Lab-Developer-Intern---Summer-2027_R9803": 1793875447,
+  "workday:gaig.wd1/GAIG_External:Content-Publishing-Developer-Intern---Summer-2027_R9813": 1793875447,
+  "workday:gaig.wd1/GAIG_External:Data-Application-Development-Intern---Summer-2027_R9796": 1793875447,
+  "workday:gaig.wd1/GAIG_External:DevOps-Developer-Intern---Summer-2027_R9826": 1793875447,
+  "workday:gaig.wd1/GAIG_External:Extreme-Programming-Engineer-Intern---Summer-2027_R9821": 1793875447,
+  "workday:gaig.wd1/GAIG_External:Platform-Operations-Developer-Intern---Summer-2027_R9800": 1793875447,
   "workday:gdit.wd5/external_career_site:Software-Engineer-1_RQ222853-1": 1788377607,
   "workday:geaerospace.wd5/ge_externalsite:Applied-AI-Engineer-Co-op---Spring-2027--January-Start-_R5039041-1": 1788442300,
   "workday:geaerospace.wd5/ge_externalsite:Applied-AI-Engineer-Intern---Summer-2027--May-June-Start-_R5039302-1": 1788442300,
@@ -9627,6 +9637,7 @@
   "workday:globalhr.wd5/Private_Posting_No_TMP:Systems-Engineer-Co-Op---Algorithms--Spring-Summer-2027----Onsite_01881510": 1792578880,
   "workday:globalhr.wd5/Private_Posting_No_TMP:Systems-Engineer-I_01870892-1": 1793287309,
   "workday:globalhr.wd5/Private_Posting_No_TMP:Systems-Engineer-Intern---Helmet-Displays--Summer-2027----Onsite_01867411": 1789041021,
+  "workday:globalhr.wd5/Private_Posting_No_TMP:Systems-Engineer-Intern---Summer-2027--Onsite-_01864173": 1793875447,
   "workday:globalhr.wd5/Private_Posting_No_TMP:Technical-Publications-AI-ML-Technical-Developer-Intern--Summer-2027---Onsite-_01866027": 1788442300,
   "workday:globalhr.wd5/rec_rtx_ext_gateway:AI-Solution-Engineer_01865103": 1792073799,
   "workday:globalhr.wd5/rec_rtx_ext_gateway:Aftermarket-and-Sustainment-Engineering---Structures-Engineer-Co-Op--January-2027---Hybrid-_01874274": 1790923532,
@@ -9644,6 +9655,7 @@
   "workday:globalhr.wd5/rec_rtx_ext_gateway:Ingnieur---Programme-de-rotation-de-nouveaux-gradues-2027---Engineer---New-Graduate-Rotation-Program-2027_01870776-1": 1788377607,
   "workday:globalhr.wd5/rec_rtx_ext_gateway:Internship---Raytheon-Systems-Security-Engineer--Onsite_01874702": 1789510394,
   "workday:globalhr.wd5/rec_rtx_ext_gateway:Internship---Winter-2027---Software-Developer-Aerospace-Control-Systems---Web-Applications_01874412": 1789137582,
+  "workday:globalhr.wd5/rec_rtx_ext_gateway:Junior-Network-Administrator--Analyst--Tewksbury--MA-ONSITE_01887174": 1793875447,
   "workday:globalhr.wd5/rec_rtx_ext_gateway:Junior-Stress-Engineer_01871881": 1788843455,
   "workday:globalhr.wd5/rec_rtx_ext_gateway:Life-Cycle-Systems-Engineer-I_01872772-1": 1788947734,
   "workday:globalhr.wd5/rec_rtx_ext_gateway:Life-Cycle-Systems-Engineer-I_01880500": 1791293986,
@@ -10796,5 +10808,5 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148,
   "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541": 1789106107
  },
- "updated_at": 1793873737
+ "updated_at": 1793875449
 }
