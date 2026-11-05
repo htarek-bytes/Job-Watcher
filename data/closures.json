@@ -2,90 +2,6 @@
  "closed": [
   {
    "closed_at": 1793429802,
-   "company": "LHEIDLI T'ENNEH",
-   "hours_open": 1261.8,
-   "title": "network system administrator",
-   "uid": "jobbank:systems administrator:49831486"
-  },
-  {
-   "closed_at": 1793429802,
-   "company": "YOCHANA IT SOLUTIONS INC",
-   "hours_open": 348.7,
-   "title": "Java programmer",
-   "uid": "jobbank:junior programmer:50515517"
-  },
-  {
-   "closed_at": 1793429802,
-   "company": "TP-Link Systems Inc.",
-   "hours_open": 1004.1,
-   "title": "Quality Assurance Engineer - Home Networking",
-   "uid": "workable:tp-link-usa-corp:2CDAECAC55"
-  },
-  {
-   "closed_at": 1793429802,
-   "company": "TP-Link Systems Inc.",
-   "hours_open": 1299.9,
-   "title": "Sales Engineer",
-   "uid": "workable:tp-link-usa-corp:581F911082"
-  },
-  {
-   "closed_at": 1793429802,
-   "company": "TP-Link Systems Inc.",
-   "hours_open": 1382.0,
-   "title": "PCB Layout Engineer",
-   "uid": "workable:tp-link-usa-corp:B36D90AE22"
-  },
-  {
-   "closed_at": 1793429802,
-   "company": "TP-Link Systems Inc.",
-   "hours_open": 1382.0,
-   "title": "Embedded Software Engineer (Home Networking)",
-   "uid": "workable:tp-link-usa-corp:0DC81C1556"
-  },
-  {
-   "closed_at": 1793429802,
-   "company": "TP-Link Systems Inc.",
-   "hours_open": 1382.0,
-   "title": "Embedded Software Engineer (Wireless)",
-   "uid": "workable:tp-link-usa-corp:E78A84552E"
-  },
-  {
-   "closed_at": 1793429802,
-   "company": "TP-Link Systems Inc.",
-   "hours_open": 1382.0,
-   "title": "Antenna Engineer",
-   "uid": "workable:tp-link-usa-corp:88F4C0D424"
-  },
-  {
-   "closed_at": 1793429802,
-   "company": "TP-Link Systems Inc.",
-   "hours_open": 1382.0,
-   "title": "Cloud Software Engineer - Database",
-   "uid": "workable:tp-link-usa-corp:9D630CC0D7"
-  },
-  {
-   "closed_at": 1793429802,
-   "company": "TP-Link Systems Inc.",
-   "hours_open": 1382.0,
-   "title": "Java Engineer - Application & Services",
-   "uid": "workable:tp-link-usa-corp:B16D282DD3"
-  },
-  {
-   "closed_at": 1793429802,
-   "company": "TP-Link Systems Inc.",
-   "hours_open": 1382.0,
-   "title": "Cloud Software Engineer, Backend - Enterprise",
-   "uid": "workable:tp-link-usa-corp:12B1F27B49"
-  },
-  {
-   "closed_at": 1793429802,
-   "company": "TP-Link Systems Inc.",
-   "hours_open": 1382.0,
-   "title": "Site Reliability Engineer",
-   "uid": "workable:tp-link-usa-corp:3CFA7549D6"
-  },
-  {
-   "closed_at": 1793429802,
    "company": "Thorlabs",
    "hours_open": 1401.0,
    "title": "NPI Engineer I",
@@ -5599,8 +5515,92 @@
    "hours_open": 1499.9,
    "title": "Flight Test Engineer - Mission Autonomy (UAS - Fury)",
    "uid": "greenhouse:andurilindustries:5101774007"
+  },
+  {
+   "closed_at": 1793867726,
+   "company": "ag",
+   "hours_open": 488.7,
+   "title": "Intern Frontend Developer",
+   "uid": "workday:ag.wd3/Airbus:Intern-Frontend-Developer_JR10451058"
+  },
+  {
+   "closed_at": 1793867726,
+   "company": "ag",
+   "hours_open": 488.7,
+   "title": "Intern System Integration Developer",
+   "uid": "workday:ag.wd3/Airbus:Intern-System-Integration-Developer_JR10451063"
+  },
+  {
+   "closed_at": 1793867726,
+   "company": "ag",
+   "hours_open": 471.6,
+   "title": "Intern Backend Developer",
+   "uid": "workday:ag.wd3/Airbus:Intern-Backend-Developer_JR10451110"
+  },
+  {
+   "closed_at": 1793867726,
+   "company": "PCL Construction",
+   "hours_open": 48.6,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50648025"
+  },
+  {
+   "closed_at": 1793867726,
+   "company": "ProServeIT Corporation",
+   "hours_open": 355.0,
+   "title": "information technology (it) system administrator",
+   "uid": "jobbank:systems administrator:50548610"
+  },
+  {
+   "closed_at": 1793867726,
+   "company": "aero",
+   "hours_open": 882.4,
+   "title": "2027 Software Engineering Grad Intern",
+   "uid": "workday:aero.wd5/external:XMLNAME-2027-Software-Engineering-Grad-Intern_R016759"
+  },
+  {
+   "closed_at": 1793867726,
+   "company": "ag",
+   "hours_open": 54.8,
+   "title": "Stress Engineer I",
+   "uid": "workday:ag.wd3/Airbus:Stress-Engineer-I_JR10454658"
+  },
+  {
+   "closed_at": 1793867726,
+   "company": "Mardel 3PL Inc.",
+   "hours_open": 1383.4,
+   "title": "systems analyst",
+   "uid": "jobbank:systems analyst:49858708"
+  },
+  {
+   "closed_at": 1793867726,
+   "company": "Nord Quantique",
+   "hours_open": 63.1,
+   "title": "developer, software",
+   "uid": "jobbank:junior software developer:50635072"
+  },
+  {
+   "closed_at": 1793867726,
+   "company": "YOCHANA IT SOLUTIONS INC",
+   "hours_open": 470.3,
+   "title": "Java programmer",
+   "uid": "jobbank:junior programmer:50515517"
+  },
+  {
+   "closed_at": 1793867726,
+   "company": "castelioncorporation",
+   "hours_open": 153.0,
+   "title": "Development Test Engineer - Mechanisms ",
+   "uid": "greenhouse:castelioncorporation:4471248009"
+  },
+  {
+   "closed_at": 1793867726,
+   "company": "castelioncorporation",
+   "hours_open": 153.0,
+   "title": "Ground Software Engineer",
+   "uid": "greenhouse:castelioncorporation:4385845009"
   }
  ],
- "count": 817,
- "updated_at": 1793860255
+ "count": 812,
+ "updated_at": 1793867727
 }
