@@ -1,41 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1793404182,
-   "company": "agile-defense",
-   "hours_open": 576.5,
-   "title": "Systems Administrator - Virtualization (Intermediate & Associate)",
-   "uid": "lever:agile-defense:36267593-a3d4-402d-8851-3e6dee32c1e9"
-  },
-  {
-   "closed_at": 1793404754,
-   "company": "rover",
-   "hours_open": 1200.7,
-   "title": "Entry Level Software Engineer, Recommendations",
-   "uid": "lever:rover:303b3b2f-9679-4a77-8908-456e29240486"
-  },
-  {
-   "closed_at": 1793404754,
-   "company": "sep",
-   "hours_open": 1102.1,
-   "title": "Software Engineering Intern (Summer 2027, In person)",
-   "uid": "lever:sep:4efbdbce-a753-41b5-8ed7-0661cd193178"
-  },
-  {
-   "closed_at": 1793408575,
-   "company": "Bosch Group",
-   "hours_open": 22.3,
-   "title": "［ETAS］Vehicle Diagnostics Customer Solution Engineer",
-   "uid": "smartrecruiters:BoschGroup:744000158624230"
-  },
-  {
-   "closed_at": 1793408575,
-   "company": "CGI",
-   "hours_open": 1255.9,
-   "title": "Conseiller(ère) en architecture de cybersécurité",
-   "uid": "jobillico:analyste cybersecurite:17433753"
-  },
-  {
    "closed_at": 1793408575,
    "company": "Icentia inc.",
    "hours_open": 413.5,
@@ -5599,8 +5564,43 @@
    "hours_open": 223.0,
    "title": "Software Dev Engineer, Antenna System Validation",
    "uid": "amazon:amazon:10588695"
+  },
+  {
+   "closed_at": 1793843079,
+   "company": "pointclickcare",
+   "hours_open": 619.0,
+   "title": "Marketing Data Analytics Engineer (CA)",
+   "uid": "lever:pointclickcare:e826a207-dba8-41ff-b7b0-c4a4210d5f7d"
+  },
+  {
+   "closed_at": 1793843079,
+   "company": "pointclickcare",
+   "hours_open": 619.0,
+   "title": "Marketing Data Analytics Engineer (US)",
+   "uid": "lever:pointclickcare:96d77b19-2396-4f9e-9513-59471b3e28ed"
+  },
+  {
+   "closed_at": 1793843079,
+   "company": "Amazon",
+   "hours_open": 298.6,
+   "title": "Software Development Engineer, Neuron Collectives, Annapurna Labs",
+   "uid": "amazon:amazon:10587264"
+  },
+  {
+   "closed_at": 1793843079,
+   "company": "Amazon",
+   "hours_open": 296.7,
+   "title": "Software Development Engineer, Tax Central AI Engineering",
+   "uid": "amazon:amazon:10587677"
+  },
+  {
+   "closed_at": 1793843079,
+   "company": "neuralink",
+   "hours_open": 1495.1,
+   "title": "Signal Processing Engineer",
+   "uid": "greenhouse:neuralink:6681863003"
   }
  ],
- "count": 807,
- "updated_at": 1793836749
+ "count": 805,
+ "updated_at": 1793843079
 }
