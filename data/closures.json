@@ -1,20 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1793413173,
-   "company": "Amazon",
-   "hours_open": 199.4,
-   "title": "Software Development Engineer",
-   "uid": "amazon:amazon:10586859"
-  },
-  {
-   "closed_at": 1793413173,
-   "company": "EVERSANA",
-   "hours_open": 843.6,
-   "title": "AI Security Engineer I",
-   "uid": "smartrecruiters:EVERSANA1:744000151855805"
-  },
-  {
    "closed_at": 1793414920,
    "company": "ServiceNow",
    "hours_open": 43.8,
@@ -5599,8 +5585,22 @@
    "hours_open": 1514.8,
    "title": "software developer",
    "uid": "jobbank:junior software developer:49875004"
+  },
+  {
+   "closed_at": 1793847304,
+   "company": "Renesas Electronics",
+   "hours_open": 144.0,
+   "title": "Associate Engineer",
+   "uid": "smartrecruiters:RenesasElectronics:744000158453186"
+  },
+  {
+   "closed_at": 1793847304,
+   "company": "Hardin Design ",
+   "hours_open": 1197.6,
+   "title": "Web Developer - Entry Level",
+   "uid": "smartrecruiters:HardinDesign:744000149709275"
   }
  ],
- "count": 811,
- "updated_at": 1793843555
+ "count": 802,
+ "updated_at": 1793847305
 }
