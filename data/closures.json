@@ -1,146 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1793444623,
-   "company": "kbr",
-   "hours_open": 1407.5,
-   "title": "Junior Software Engineer",
-   "uid": "workday:kbr.wd5/KBR_Careers:Junior-Software-Engineer_R2122294"
-  },
-  {
-   "closed_at": 1793453154,
-   "company": "PCL Construction",
-   "hours_open": 242.9,
-   "title": "software developer",
-   "uid": "jobbank:junior software developer:50547998"
-  },
-  {
-   "closed_at": 1793453154,
-   "company": "Groupe DCM",
-   "hours_open": 1034.3,
-   "title": "Programmeur CNC / CNC Programmer",
-   "uid": "jobillico:programmeur junior:17534670"
-  },
-  {
-   "closed_at": 1793453154,
-   "company": "Cooptel",
-   "hours_open": 1268.3,
-   "title": "Administrateur réseau",
-   "uid": "jobillico:analyste reseau:17185045"
-  },
-  {
-   "closed_at": 1793453154,
-   "company": "micron",
-   "hours_open": 538.8,
-   "title": "New College Grad - Process Integration Engineer",
-   "uid": "workday:micron.wd1/External:New-College-Grad---Process-Integration-Engineer_JR114667"
-  },
-  {
-   "closed_at": 1793453154,
-   "company": "marvell",
-   "hours_open": 89.7,
-   "title": "AIOps Forward Deployment Engineer Intern, BS - Summer 2027",
-   "uid": "workday:marvell.wd1/MarvellCareers:Project-Management-Intern--MBA---Summer-2027_2604440"
-  },
-  {
-   "closed_at": 1793453154,
-   "company": "nvidia",
-   "hours_open": 88.8,
-   "title": "Formal Verification Engineer - New College Grad 2027",
-   "uid": "workday:nvidia.wd5/NVIDIAExternalCareerSite:Formal-Verification-Engineer---New-College-Grad-2027_JR2028554"
-  },
-  {
-   "closed_at": 1793453154,
-   "company": "marvell",
-   "hours_open": 1359.5,
-   "title": "Firmware Engineer Intern, MS - Summer 2027",
-   "uid": "workday:marvell.wd1/MarvellCareers:Firmware-Engineer-Intern--MS---Summer-2027_2604513"
-  },
-  {
-   "closed_at": 1793453154,
-   "company": "ngc",
-   "hours_open": 909.9,
-   "title": "2027 Systems Engineer Intern - Woodland Hills CA",
-   "uid": "workday:ngc.wd1/Northrop_Grumman_External_Site:XMLNAME-2027-Systems-Engineer-Intern---Woodland-Hills-CA_R10249319-1"
-  },
-  {
-   "closed_at": 1793453154,
-   "company": "Lakeland Roman Catholic Separate School Division",
-   "hours_open": 927.1,
-   "title": "computer systems analyst",
-   "uid": "jobbank:control systems analyst:50064831"
-  },
-  {
-   "closed_at": 1793453154,
-   "company": "nvidia",
-   "hours_open": 382.4,
-   "title": "ASIC Verification Engineer - New College Grad 2027",
-   "uid": "workday:nvidia.wd5/NVIDIAExternalCareerSite:ASIC-Verification-Engineer---New-College-Grad-2027_JR2027719"
-  },
-  {
-   "closed_at": 1793453154,
-   "company": "marvell",
-   "hours_open": 762.8,
-   "title": "SRAM Software Engineer Intern, BS - Summer 2027",
-   "uid": "workday:marvell.wd1/MarvellCareers2:SRAM-Software-Engineer-Intern--BS---Summer-2027_2603760"
-  },
-  {
-   "closed_at": 1793453154,
-   "company": "RTX",
-   "hours_open": 1425.1,
-   "title": "Digital ASIC/FPGA Design Engineer 1",
-   "uid": "simplify:listings:8aad8b51-42bb-4359-b771-09d8fa3d9060"
-  },
-  {
-   "closed_at": 1793457887,
-   "company": "Cooptel",
-   "hours_open": 7.8,
-   "title": "Administrateur réseau",
-   "uid": "jobillico:administrateur systeme:17185045"
-  },
-  {
-   "closed_at": 1793457887,
-   "company": "rockwellautomation",
-   "hours_open": 811.6,
-   "title": "Intern, Technical Sales & Consulting (USA)",
-   "uid": "workday:rockwellautomation.wd1/External-Rockwell-Automation-Early-Careers:Intern--Technical-Sales---Consulting--USA-_R26-5962-1"
-  },
-  {
-   "closed_at": 1793457887,
-   "company": "oshkoshcorporation",
-   "hours_open": 210.6,
-   "title": "DSM/MBD Engineer Intern",
-   "uid": "workday:oshkoshcorporation.wd5/Oshkosh:DSM-MBD-Engineer-Intern_R51331"
-  },
-  {
-   "closed_at": 1793457887,
-   "company": "rockwellautomation",
-   "hours_open": 257.6,
-   "title": "Intern, Hardware Development Engineer (May - Aug 2027)",
-   "uid": "workday:rockwellautomation.wd1/External-Rockwell-Automation-Early-Careers:Intern--Hardware-Development-Engineer--May---Aug-2027-_R26-6892-2"
-  },
-  {
-   "closed_at": 1793457887,
-   "company": "ryan",
-   "hours_open": 341.4,
-   "title": "Summer 2027 Intern, Software Engineering",
-   "uid": "workday:ryan.wd1/RyanCareers:Summer-2027-Intern--Software-Engineering_R0020843-1"
-  },
-  {
-   "closed_at": 1793457887,
-   "company": "rockwellautomation",
-   "hours_open": 398.7,
-   "title": "Co-op, Hardware Development Engineer (June - Dec 2027)",
-   "uid": "workday:rockwellautomation.wd1/External-Rockwell-Automation-Early-Careers:Co-op--Hardware-Development-Engineer--June---Dec-2027-_R26-6891"
-  },
-  {
-   "closed_at": 1793457887,
-   "company": "rockwellautomation",
-   "hours_open": 398.7,
-   "title": "Co-op, Hardware Development Engineer (Jan - July 2027)",
-   "uid": "workday:rockwellautomation.wd1/External-Rockwell-Automation-Early-Careers:Co-op--Hardware-Development-Engineer--Jan---July-2027-_R26-6638"
-  },
-  {
    "closed_at": 1793457887,
    "company": "rollsroyce",
    "hours_open": 412.2,
@@ -5599,8 +5459,148 @@
    "hours_open": 163.4,
    "title": "Systems Engineer I",
    "uid": "workday:globalhr.wd5/Private_Posting_No_TMP:Systems-Engineer-I_01870892-1"
+  },
+  {
+   "closed_at": 1793890620,
+   "company": "lightmatter",
+   "hours_open": 22.8,
+   "title": "Embedded Software Engineer",
+   "uid": "greenhouse:lightmatter:5467063008"
+  },
+  {
+   "closed_at": 1793890620,
+   "company": "robinhood",
+   "hours_open": 48.3,
+   "title": "Web Engineer, International Expansion",
+   "uid": "greenhouse:robinhood:8346031"
+  },
+  {
+   "closed_at": 1793890620,
+   "company": "LEXO-1000 INC.",
+   "hours_open": 143.2,
+   "title": "Web developer",
+   "uid": "jobbank:developpeur junior:50615745"
+  },
+  {
+   "closed_at": 1793890620,
+   "company": "ALLIANCE RESSOURCES HUMAINES INC.",
+   "hours_open": 167.6,
+   "title": "Web application developer",
+   "uid": "jobbank:developpeur junior:50608794"
+  },
+  {
+   "closed_at": 1793890620,
+   "company": "1ENTRER SYSTEME INC.",
+   "hours_open": 185.5,
+   "title": "developer, software",
+   "uid": "jobbank:developpeur junior:50603142"
+  },
+  {
+   "closed_at": 1793890620,
+   "company": "PRECICOM TECHNOLOGIES INC.",
+   "hours_open": 191.4,
+   "title": "LAN (local area network) administrator",
+   "uid": "jobbank:network administrator:50599368"
+  },
+  {
+   "closed_at": 1793890620,
+   "company": "EBI ELECTRIC INC.",
+   "hours_open": 307.7,
+   "title": "computer programmer",
+   "uid": "jobbank:junior programmer:50567503"
+  },
+  {
+   "closed_at": 1793890620,
+   "company": "hp",
+   "hours_open": 123.9,
+   "title": "Edge AI Solution Engineer",
+   "uid": "workday:hp.wd5/EXTEU-AC-CareerSite:Edge-AI-Solution-Engineer_3169805"
+  },
+  {
+   "closed_at": 1793890620,
+   "company": "hp",
+   "hours_open": 29.5,
+   "title": "Presales Solution Engineer - Edge AI",
+   "uid": "workday:hp.wd5/EXTEU-AC-CareerSite:Presales-Solution-Engineer---Edge-AI_3170277"
+  },
+  {
+   "closed_at": 1793890620,
+   "company": "hp",
+   "hours_open": 29.5,
+   "title": "Software Engineering Intern, AIML Platform - HP IQ",
+   "uid": "workday:hp.wd5/EXTEU-AC-CareerSite:Software-Engineering-Intern--AIML-Platform---HP-IQ_UNI4800"
+  },
+  {
+   "closed_at": 1793890620,
+   "company": "kiongroup",
+   "hours_open": 27.6,
+   "title": "Controls Engineer (New Graduate/Early Career)",
+   "uid": "workday:kiongroup.wd3/KION_SCS:Controls-Engineer--New-Graduate-Early-Career-_JR-0096964"
+  },
+  {
+   "closed_at": 1793890620,
+   "company": "doordashusa",
+   "hours_open": 906.7,
+   "title": "Software Engineer, Full Stack - Experimentation Platform",
+   "uid": "greenhouse:doordashusa:8236946"
+  },
+  {
+   "closed_at": 1793890620,
+   "company": "lightmatter",
+   "hours_open": 765.9,
+   "title": "Embedded Software Engineer, Lasers",
+   "uid": "greenhouse:lightmatter:5419848008"
+  },
+  {
+   "closed_at": 1793890620,
+   "company": "Cotech",
+   "hours_open": 139.6,
+   "title": "programmer analyst",
+   "uid": "jobbank:junior programmer:50617266"
+  },
+  {
+   "closed_at": 1793890620,
+   "company": "Source Code",
+   "hours_open": 54.9,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50648217"
+  },
+  {
+   "closed_at": 1793890620,
+   "company": "Apex Fibre Limited",
+   "hours_open": 694.5,
+   "title": "telecommunications equipment technician",
+   "uid": "jobbank:telecommunications analyst:50327086"
+  },
+  {
+   "closed_at": 1793890620,
+   "company": "Boeing",
+   "hours_open": 1242.4,
+   "title": "Entry-level Digital Electronics Circuit & Unit Hardware Design Engineer - Space Digital Products & Electronics",
+   "uid": "simplify:listings:638f7b48-645b-4838-b62d-be92a72bb467"
+  },
+  {
+   "closed_at": 1793890620,
+   "company": "Informage Techno Solutions Inc",
+   "hours_open": 42.3,
+   "title": "artificial intelligence programmer",
+   "uid": "jobbank:developpeur junior:50651968"
+  },
+  {
+   "closed_at": 1793890620,
+   "company": "accenturefederalservices",
+   "hours_open": 255.7,
+   "title": "Cleared Full Stack Developer (Washington, DC)",
+   "uid": "greenhouse:accenturefederalservices:4723643006"
+  },
+  {
+   "closed_at": 1793890620,
+   "company": "andurilindustries",
+   "hours_open": 1508.3,
+   "title": "Robotics Software Engineer, Verification & Validation",
+   "uid": "greenhouse:andurilindustries:5083521007"
   }
  ],
- "count": 803,
- "updated_at": 1793875449
+ "count": 820,
+ "updated_at": 1793890622
 }
