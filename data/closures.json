@@ -1,55 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1793437062,
-   "company": "dexcom",
-   "hours_open": 23.8,
-   "title": "SW Development Engineer 1",
-   "uid": "workday:dexcom.wd1/Dexcom:SW-Development-Engineer-1_JR121808"
-  },
-  {
-   "closed_at": 1793437153,
-   "company": "Cooptel",
-   "hours_open": 2.0,
-   "title": "Administrateur réseau",
-   "uid": "jobillico:administrateur systeme:17185045"
-  },
-  {
-   "closed_at": 1793437153,
-   "company": "hcsc",
-   "hours_open": 325.7,
-   "title": "Early Careers - Finance Data & Analytics Developer Intern",
-   "uid": "workday:hcsc.wd1/HCSC_External:Early-Careers---Finance-Data---Analytics-Developer-Intern_R0059478"
-  },
-  {
-   "closed_at": 1793437153,
-   "company": "hcsc",
-   "hours_open": 325.7,
-   "title": "Early Careers - Finance Application Developer Intern",
-   "uid": "workday:hcsc.wd1/HCSC_External:Early-Careers---Finance-Application-Developer-Intern_R0059477"
-  },
-  {
-   "closed_at": 1793437153,
-   "company": "globalhr",
-   "hours_open": 1150.3,
-   "title": "Systems Engineer I",
-   "uid": "workday:globalhr.wd5/rec_rtx_ext_gateway:Systems-Engineer-I_01866673"
-  },
-  {
-   "closed_at": 1793437153,
-   "company": "equifax",
-   "hours_open": 1387.5,
-   "title": "Site Reliability Engineer Intern",
-   "uid": "workday:equifax.wd5/UR_External:Site-Reliability-Engineer-Intern_J00178674"
-  },
-  {
-   "closed_at": 1793444623,
-   "company": "Source Code",
-   "hours_open": 28.0,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:control systems analyst:50606896"
-  },
-  {
    "closed_at": 1793444623,
    "company": "hp",
    "hours_open": 23.4,
@@ -5599,8 +5550,57 @@
    "hours_open": 81.6,
    "title": "Associate Software Engineer",
    "uid": "workday:boeing.wd1/EXTERNAL_CAREERS:Associate-Software-Engineer_JR2026528420-1"
+  },
+  {
+   "closed_at": 1793873737,
+   "company": "ccf",
+   "hours_open": 26.2,
+   "title": "New Grad RN Resident - Med/Surg & Telemetry",
+   "uid": "workday:ccf.wd1/ClevelandClinicCareers:New-Grad-RN-Resident---Med-Surg---Telemetry_344167"
+  },
+  {
+   "closed_at": 1793873737,
+   "company": "ccf",
+   "hours_open": 26.2,
+   "title": "New Grad RN Resident - Med/Surg and Telemetry",
+   "uid": "workday:ccf.wd1/ClevelandClinicCareers:New-Grad-RN-Resident---Med-Surg-and-Telemetry_349884"
+  },
+  {
+   "closed_at": 1793873737,
+   "company": "danaher",
+   "hours_open": 208.1,
+   "title": "Quality Systems Specialist",
+   "uid": "workday:danaher.wd1/DanaherJobs:Quality-Systems-Specialist_R1321226"
+  },
+  {
+   "closed_at": 1793873737,
+   "company": "danaher",
+   "hours_open": 392.6,
+   "title": "Solutions Consultant",
+   "uid": "workday:danaher.wd1/DanaherJobs:Solutions-Consultant_R1320104-1"
+  },
+  {
+   "closed_at": 1793873737,
+   "company": "costar",
+   "hours_open": 819.8,
+   "title": "Associate Software Engineer - Sunnyvale, CA",
+   "uid": "workday:costar.wd1/Costar_Campus:Associate-Software-Engineer---Sunnyvale--CA_R39942"
+  },
+  {
+   "closed_at": 1793873737,
+   "company": "costar",
+   "hours_open": 819.8,
+   "title": "Embedded Software Engineering Intern",
+   "uid": "workday:costar.wd1/Costar_Campus:Embedded-Software-Engineering-Intern_R39950"
+  },
+  {
+   "closed_at": 1793873737,
+   "company": "General Dynamics Mission Systems",
+   "hours_open": 1541.9,
+   "title": "Software Engineer - Entry Level",
+   "uid": "simplify:listings:2af5ac17-a498-44a7-829b-c3147a8a150b"
   }
  ],
  "count": 807,
- "updated_at": 1793867854
+ "updated_at": 1793873737
 }
