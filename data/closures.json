@@ -1,27 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1793414920,
-   "company": "ServiceNow",
-   "hours_open": 43.8,
-   "title": "Forward Deployed Solution Engineer – Applied AI FDE",
-   "uid": "smartrecruiters:ServiceNow:744000158334169"
-  },
-  {
-   "closed_at": 1793414920,
-   "company": "AlphaX",
-   "hours_open": 67.5,
-   "title": "Project Engineer - Commercial Electrical Projects",
-   "uid": "workable:alphax:B4B871553D"
-  },
-  {
-   "closed_at": 1793414920,
-   "company": "Infleqtion",
-   "hours_open": 1257.7,
-   "title": "IT Support Analyst",
-   "uid": "workable:coldquanta:307E2FDF55"
-  },
-  {
    "closed_at": 1793415040,
    "company": "ServiceNow",
    "hours_open": 43.8,
@@ -5599,8 +5578,29 @@
    "hours_open": 1197.6,
    "title": "Web Developer - Entry Level",
    "uid": "smartrecruiters:HardinDesign:744000149709275"
+  },
+  {
+   "closed_at": 1793847547,
+   "company": "Sopra Steria",
+   "hours_open": 52.5,
+   "title": "Junior DevOps Engineer",
+   "uid": "smartrecruiters:SopraSteria1:744000159080630"
+  },
+  {
+   "closed_at": 1793847547,
+   "company": "Skyward",
+   "hours_open": 25.3,
+   "title": "Software Engineer - Entry Level",
+   "uid": "smartrecruiters:Skyward1:744000159491899"
+  },
+  {
+   "closed_at": 1793847547,
+   "company": "Western Digital",
+   "hours_open": 120.2,
+   "title": " Internship - Software Development (Embedded)",
+   "uid": "smartrecruiters:WesternDigital:744000158684529"
   }
  ],
- "count": 802,
- "updated_at": 1793847305
+ "count": 803,
+ "updated_at": 1793847548
 }
