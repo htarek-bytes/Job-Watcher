@@ -2,20 +2,6 @@
  "closed": [
   {
    "closed_at": 1795170448,
-   "company": "swarmaero",
-   "hours_open": 562.5,
-   "title": "IT Operations Specialist ",
-   "uid": "ashby:swarmaero:b20a7cdb-6570-47a0-8fe4-71dba1d03bc8"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "systemstechnologyresearch",
-   "hours_open": 1190.5,
-   "title": "Network Engineer",
-   "uid": "greenhouse:systemstechnologyresearch:4716695006"
-  },
-  {
-   "closed_at": 1795170448,
    "company": "spacex",
    "hours_open": 517.3,
    "title": "IT Network Engineer",
@@ -5599,8 +5585,22 @@
    "hours_open": 1905.0,
    "title": "Software Engineer – Early Career - AI",
    "uid": "simplify:listings:65650b49-1680-440d-8f63-1cc74d0ba188"
+  },
+  {
+   "closed_at": 1795184699,
+   "company": "drweng",
+   "hours_open": 1877.4,
+   "title": "Software Developer Intern",
+   "uid": "greenhouse:drweng:7991196"
+  },
+  {
+   "closed_at": 1795184699,
+   "company": "Takt",
+   "hours_open": 559.1,
+   "title": "Associate Software Engineer - Frontend",
+   "uid": "simplify:listings:ab0a47b6-2df0-4f41-9831-30a37a7e44e2"
   }
  ],
- "count": 807,
- "updated_at": 1795180624
+ "count": 802,
+ "updated_at": 1795184701
 }
