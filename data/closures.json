@@ -2,111 +2,6 @@
  "closed": [
   {
    "closed_at": 1795170448,
-   "company": "revel",
-   "hours_open": 1745.3,
-   "title": "Internship: Full Stack Software Engineer",
-   "uid": "ashby:revel:29968ce1-8838-44e8-ac4e-6b1c87ce5314"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "revel",
-   "hours_open": 1745.3,
-   "title": "Internship: Forward Deployed Engineer, Test",
-   "uid": "ashby:revel:6ca4dca8-a43e-41da-acc3-e6b4d8f9b3c1"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "revel",
-   "hours_open": 1745.3,
-   "title": "Internship: Forward Deployed Engineer, Software",
-   "uid": "ashby:revel:34f97b81-c981-4c4b-9f4d-d471c33b46cc"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "revel",
-   "hours_open": 1745.3,
-   "title": "Internship: Embedded Software Engineer",
-   "uid": "ashby:revel:f8eec1fd-da28-47ce-bca4-2fbe9c48a889"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "spacex",
-   "hours_open": 1073.7,
-   "title": "Embedded Software Engineer, Data Center Engineering (Starmind)",
-   "uid": "greenhouse:spacex:8871006002"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "spacex",
-   "hours_open": 1073.7,
-   "title": "Supplier Development Engineer, Manufacturing (Raptor)",
-   "uid": "greenhouse:spacex:8871031002"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "icf",
-   "hours_open": 1728.4,
-   "title": "Computer Scientist / Software Developer, Junior - Security Clearance Required",
-   "uid": "workday:icf.wd5/icfexternal_career_site:Computer-Scientist---Software-Developer--Junior---Security-Clearance-Required_R2600165"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "agile-defense",
-   "hours_open": 1067.1,
-   "title": "Systems Administrator - WSMT-Server (Intermediate & Associate)",
-   "uid": "lever:agile-defense:61b67c5b-fc20-415f-803e-6ab552fec16f"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "twosixtechnologies",
-   "hours_open": 1076.9,
-   "title": "Release Train Engineer",
-   "uid": "greenhouse:twosixtechnologies:6214736004"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "agile-defense",
-   "hours_open": 1067.1,
-   "title": "Systems Administrator - UNIX",
-   "uid": "lever:agile-defense:3c8291b6-1d61-4890-9320-768176ceb836"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "spacex",
-   "hours_open": 1087.5,
-   "title": "Dynamics Engineer (Starship)",
-   "uid": "greenhouse:spacex:8869718002"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "SciTec",
-   "hours_open": 708.6,
-   "title": "Aerospace Systems Engineer",
-   "uid": "workable:scitec:493795F6E0"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "spacex",
-   "hours_open": 1090.2,
-   "title": "IT Network Infrastructure Engineer, Outside Plant",
-   "uid": "greenhouse:spacex:8869044002"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "spacex",
-   "hours_open": 1093.8,
-   "title": "Power Electronics Engineer, Consumer Hardware & Gateways (Starlink)",
-   "uid": "greenhouse:spacex:8855894002"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "spacex",
-   "hours_open": 1097.3,
-   "title": "Mechanical Hardware Test Engineer - Failure Analysis (Starlink)",
-   "uid": "greenhouse:spacex:8867581002"
-  },
-  {
-   "closed_at": 1795170448,
    "company": "spacex",
    "hours_open": 1097.3,
    "title": "Photonics Engineer - Fiber Amplifiers, Satellites (Starlink) ",
@@ -5599,8 +5494,113 @@
    "hours_open": 505.4,
    "title": "Software Engineering Co-op/Intern - Summer 2027",
    "uid": "workday:caci.wd1/external:Software-Engineering-Co-op-Intern---Spring-2027_334160"
+  },
+  {
+   "closed_at": 1795179122,
+   "company": "ProServeIT Corporation",
+   "hours_open": 2.4,
+   "title": "cybersecurity analyst",
+   "uid": "jobbank:analyste en cybersecurite:50716335"
+  },
+  {
+   "closed_at": 1795179122,
+   "company": "Englobe Corp.",
+   "hours_open": 2.4,
+   "title": "control systems engineer",
+   "uid": "jobbank:control systems analyst:50689919"
+  },
+  {
+   "closed_at": 1795179122,
+   "company": "Visfuture Inc.",
+   "hours_open": 2.4,
+   "title": "cybersecurity analyst",
+   "uid": "jobbank:analyste en cybersecurite:50690551"
+  },
+  {
+   "closed_at": 1795179122,
+   "company": "REI Systems",
+   "hours_open": 2.4,
+   "title": "Junior Associate Software Engineer - Java Full Stack",
+   "uid": "simplify:listings:98a47c6e-06dd-4d9d-95c5-02197443ddc8"
+  },
+  {
+   "closed_at": 1795179122,
+   "company": "Source Code",
+   "hours_open": 2.4,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:control systems analyst:50768083"
+  },
+  {
+   "closed_at": 1795179122,
+   "company": "Fop experts conseils inc.",
+   "hours_open": 2.4,
+   "title": "information technology (IT) security analyst",
+   "uid": "jobbank:information security analyst:50683614"
+  },
+  {
+   "closed_at": 1795179122,
+   "company": "UPSCALE TECHOFY INC",
+   "hours_open": 2.4,
+   "title": "cybersecurity analyst",
+   "uid": "jobbank:analyste en cybersecurite:50411161"
+  },
+  {
+   "closed_at": 1795179122,
+   "company": "SYNCHRONIUM INNOVATIONS INC.",
+   "hours_open": 2.4,
+   "title": "cybersecurity analyst",
+   "uid": "jobbank:analyste en cybersecurite:50253155"
+  },
+  {
+   "closed_at": 1795179122,
+   "company": "Cogent Security",
+   "hours_open": 1904.5,
+   "title": "Forward Deployed Agent Engineer - Early Career",
+   "uid": "simplify:listings:3e1957cd-768a-47fc-9140-cae0d35bb273"
+  },
+  {
+   "closed_at": 1795179122,
+   "company": "Embedding VC",
+   "hours_open": 1904.5,
+   "title": "AI Engineer - Early Career",
+   "uid": "simplify:listings:b556adb1-8adc-4b0f-9230-3a2067a6428d"
+  },
+  {
+   "closed_at": 1795179122,
+   "company": "Goaly",
+   "hours_open": 562.5,
+   "title": "Applied AI Engineer Early Career",
+   "uid": "simplify:listings:dd34b526-672b-4db5-b552-1a3c468ccdc4"
+  },
+  {
+   "closed_at": 1795179122,
+   "company": "Bridger",
+   "hours_open": 1904.5,
+   "title": "Early Career Product Engineer",
+   "uid": "simplify:listings:e2dbbfb0-5164-4098-99ba-6fc554978c24"
+  },
+  {
+   "closed_at": 1795179122,
+   "company": "Cerebras",
+   "hours_open": 1904.5,
+   "title": "Kernel Engineer New Grad",
+   "uid": "simplify:listings:fabf124a-32b2-45ba-bffe-d3084937296a"
+  },
+  {
+   "closed_at": 1795179122,
+   "company": "Faros AI",
+   "hours_open": 1904.5,
+   "title": "Software Engineer New Grad",
+   "uid": "simplify:listings:b638e646-a8c7-484b-9b2b-51e2b939e5c6"
+  },
+  {
+   "closed_at": 1795179122,
+   "company": "Cerebras",
+   "hours_open": 1904.5,
+   "title": "Software Engineer New Grad",
+   "uid": "simplify:listings:c0479012-54e4-478d-922f-1948cd356ac4"
   }
  ],
- "count": 3938,
- "updated_at": 1795170449
+ "count": 815,
+ "updated_at": 1795179122
 }
