@@ -3,27 +3,6 @@
   {
    "closed_at": 1795170448,
    "company": "spacex",
-   "hours_open": 1262.2,
-   "title": "Operations Engineer (Starship Machining)",
-   "uid": "greenhouse:spacex:8848873002"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "steerbridge",
-   "hours_open": 1250.9,
-   "title": "Database Administrator",
-   "uid": "lever:steerbridge:76e8a7d7-f394-4c4c-9046-c5f1e97c7ca4"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "andurilindustries",
-   "hours_open": 1267.9,
-   "title": "Test Engineer, Maritime",
-   "uid": "greenhouse:andurilindustries:5248617007"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "spacex",
    "hours_open": 855.5,
    "title": "Full Stack Software Engineer, Launch Software ",
    "uid": "greenhouse:spacex:8893016002"
@@ -5599,8 +5578,29 @@
    "hours_open": 10.4,
    "title": "Software Development Engineer, AI Foundations, Amazon Leo Networking Software",
    "uid": "amazon:amazon:10601502"
+  },
+  {
+   "closed_at": 1795208480,
+   "company": "Global Fleet Management Inc.",
+   "hours_open": 803.2,
+   "title": "information systems analyst - computer systems",
+   "uid": "jobbank:information systems analyst:50302902"
+  },
+  {
+   "closed_at": 1795208480,
+   "company": "Wonderschool",
+   "hours_open": 1912.7,
+   "title": "Early Career Software Engineer - Applied AI",
+   "uid": "simplify:listings:e5fee829-850f-4ae1-9f1f-eda2ab36fdbe"
+  },
+  {
+   "closed_at": 1795208480,
+   "company": "accenturefederalservices",
+   "hours_open": 1538.0,
+   "title": "Software Engineer",
+   "uid": "greenhouse:accenturefederalservices:4714235006"
   }
  ],
- "count": 815,
- "updated_at": 1795207962
+ "count": 803,
+ "updated_at": 1795208480
 }
