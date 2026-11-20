@@ -2,118 +2,6 @@
  "closed": [
   {
    "closed_at": 1795170448,
-   "company": "spacex",
-   "hours_open": 517.3,
-   "title": "IT Network Engineer",
-   "uid": "greenhouse:spacex:8924393002"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "spacex",
-   "hours_open": 518.1,
-   "title": "IT Wireless Network Engineer",
-   "uid": "greenhouse:spacex:8924320002"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "spacex",
-   "hours_open": 517.3,
-   "title": "IT Network Administrator",
-   "uid": "greenhouse:spacex:8924408002"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "spacex",
-   "hours_open": 873.9,
-   "title": "IT Network Engineer (OT)",
-   "uid": "greenhouse:spacex:8890337002"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "spacex",
-   "hours_open": 1208.3,
-   "title": "Full Stack Software Engineer, Platform",
-   "uid": "greenhouse:spacex:8859566002"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "spacex",
-   "hours_open": 1208.9,
-   "title": "Build Engineer (Crew Starship)",
-   "uid": "greenhouse:spacex:8841997002"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "RTX",
-   "hours_open": 1067.1,
-   "title": "Electrical Test Engineer 1",
-   "uid": "simplify:listings:29e7096e-2bf1-440f-8735-ec899195c4bc"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "Arondite",
-   "hours_open": 1865.5,
-   "title": "AI Engineer (Agents)",
-   "uid": "workable:arondite:B90A63A44A"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "Raydar",
-   "hours_open": 466.5,
-   "title": "Frontend Software Engineer",
-   "uid": "workable:raydar:F604A9FFC7"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "spacex",
-   "hours_open": 1210.8,
-   "title": "FPGA/ASIC Design Engineer (Silicon Engineering)",
-   "uid": "greenhouse:spacex:8858634002"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "xai",
-   "hours_open": 1211.4,
-   "title": "Application Security Engineer, X Money",
-   "uid": "greenhouse:xai:5253534007"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "northwoodspace",
-   "hours_open": 1208.0,
-   "title": "RF Systems Engineer (Portal)",
-   "uid": "ashby:northwoodspace:5ec24b1c-54db-4a28-b47d-3af484a16bfd"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "voyagertechnologiesinc",
-   "hours_open": 1211.8,
-   "title": "Mechanical Integration and Test Engineer",
-   "uid": "greenhouse:voyagertechnologiesinc:4414237009"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "accenturefederalservices",
-   "hours_open": 1215.0,
-   "title": "SAP Software Developer - Onsite in Battle Creek, MI",
-   "uid": "greenhouse:accenturefederalservices:4718049006"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "spacex",
-   "hours_open": 1215.8,
-   "title": "RF Silicon Software Engineer (RFIC Engineering)",
-   "uid": "greenhouse:spacex:8856971002"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "RTX",
-   "hours_open": 1211.3,
-   "title": "Software Engineer/Developer 1",
-   "uid": "simplify:listings:da5add3d-df09-436a-b370-0fae4cb326df"
-  },
-  {
-   "closed_at": 1795170448,
    "company": "Credence",
    "hours_open": 1214.3,
    "title": "Aircraft & Store Integration Engineer",
@@ -5599,8 +5487,120 @@
    "hours_open": 559.1,
    "title": "Associate Software Engineer - Frontend",
    "uid": "simplify:listings:ab0a47b6-2df0-4f41-9831-30a37a7e44e2"
+  },
+  {
+   "closed_at": 1795200410,
+   "company": "drweng",
+   "hours_open": 8.3,
+   "title": "Software Engineer - Trading Operations",
+   "uid": "greenhouse:drweng:8359837"
+  },
+  {
+   "closed_at": 1795200410,
+   "company": "Source Code",
+   "hours_open": 5.9,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:systems analyst:50698776"
+  },
+  {
+   "closed_at": 1795200410,
+   "company": "Amazon",
+   "hours_open": 8.3,
+   "title": "Software Development Engineer, Audible AI Voice Production ",
+   "uid": "amazon:amazon:10604939"
+  },
+  {
+   "closed_at": 1795200410,
+   "company": "dvtrading",
+   "hours_open": 935.8,
+   "title": "Data Center Engineer Intern - Summer 2027",
+   "uid": "greenhouse:dvtrading:4742962005"
+  },
+  {
+   "closed_at": 1795200410,
+   "company": "miovision",
+   "hours_open": 1556.5,
+   "title": "Solutions Engineer (Technical Sales)",
+   "uid": "ashby:miovision:b3fba46f-8c0b-412a-a141-ee4dbb430a15"
+  },
+  {
+   "closed_at": 1795200410,
+   "company": "waabi",
+   "hours_open": 1791.7,
+   "title": "Test Engineer",
+   "uid": "lever:waabi:8b2b6f2b-d3f4-4a83-a22c-968445d8f4bb"
+  },
+  {
+   "closed_at": 1795200410,
+   "company": "robinhood",
+   "hours_open": 1705.3,
+   "title": "Software Engineer, Enterprise Build",
+   "uid": "greenhouse:robinhood:8120094"
+  },
+  {
+   "closed_at": 1795200410,
+   "company": "andurilindustries",
+   "hours_open": 1872.1,
+   "title": "Software Engineer, Front End",
+   "uid": "greenhouse:andurilindustries:5177896007"
+  },
+  {
+   "closed_at": 1795200410,
+   "company": "reddit",
+   "hours_open": 863.8,
+   "title": "Machine Learning Engineer",
+   "uid": "greenhouse:reddit:7131934"
+  },
+  {
+   "closed_at": 1795200410,
+   "company": "Integration Innovation (i3)",
+   "hours_open": 491.8,
+   "title": "Entry Level Software Engineer",
+   "uid": "simplify:listings:7d4ee985-9d3b-40be-9364-3d7f5c9cee84"
+  },
+  {
+   "closed_at": 1795200410,
+   "company": "andurilindustries",
+   "hours_open": 8.3,
+   "title": "Early Career RF Mission Systems Engineer, Air Dominance & Strike",
+   "uid": "greenhouse:andurilindustries:5290310007"
+  },
+  {
+   "closed_at": 1795200410,
+   "company": "katalyst",
+   "hours_open": 525.6,
+   "title": "IT Systems Administrator  ",
+   "uid": "greenhouse:katalyst:6235311004"
+  },
+  {
+   "closed_at": 1795200410,
+   "company": "andurilindustries",
+   "hours_open": 1730.5,
+   "title": "Software QA Engineer, Intelligence Systems",
+   "uid": "greenhouse:andurilindustries:5233212007"
+  },
+  {
+   "closed_at": 1795200410,
+   "company": "freedomconsulting",
+   "hours_open": 1892.8,
+   "title": "Junior Software Developer 682",
+   "uid": "greenhouse:freedomconsulting:5160107007"
+  },
+  {
+   "closed_at": 1795200410,
+   "company": "freedomconsulting",
+   "hours_open": 1892.8,
+   "title": "Junior Application Developer 675",
+   "uid": "greenhouse:freedomconsulting:5152289007"
+  },
+  {
+   "closed_at": 1795200410,
+   "company": "andurilindustries",
+   "hours_open": 1872.1,
+   "title": "Quantum Software Engineer",
+   "uid": "greenhouse:andurilindustries:5089054007"
   }
  ],
- "count": 802,
- "updated_at": 1795184701
+ "count": 816,
+ "updated_at": 1795200411
 }
