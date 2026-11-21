@@ -3,34 +3,6 @@
   {
    "closed_at": 1795170448,
    "company": "spacex",
-   "hours_open": 1572.3,
-   "title": "Dynamics Engineer (Falcon & Dragon)",
-   "uid": "greenhouse:spacex:8806124002"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "voyagertechnologiesinc",
-   "hours_open": 1575.4,
-   "title": "Systems Engineer - Aerospace",
-   "uid": "greenhouse:voyagertechnologiesinc:4405625009"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "spacex",
-   "hours_open": 684.4,
-   "title": "Construction Project Engineer, MEP",
-   "uid": "greenhouse:spacex:8909954002"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "spacex",
-   "hours_open": 1592.6,
-   "title": "Operations Engineer (Material Flow)",
-   "uid": "greenhouse:spacex:8808240002"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "spacex",
    "hours_open": 1553.7,
    "title": "Material Flow Engineer",
    "uid": "greenhouse:spacex:8784757002"
@@ -5599,8 +5571,36 @@
    "hours_open": 715.4,
    "title": "Mission Software Engineer - Honolulu, HI",
    "uid": "ashby:havocai:6214439d-c450-467a-8b6d-b2be0399f048"
+  },
+  {
+   "closed_at": 1795295347,
+   "company": "Source Code",
+   "hours_open": 34.7,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:control systems analyst:50768083"
+  },
+  {
+   "closed_at": 1795295347,
+   "company": "NXP Semiconductors",
+   "hours_open": 1808.9,
+   "title": "Entry Level DFT Design Engineer",
+   "uid": "simplify:listings:f6552574-8bd8-4bcb-856a-f3131dfdad9f"
+  },
+  {
+   "closed_at": 1795295347,
+   "company": "NXP Semiconductors",
+   "hours_open": 1910.7,
+   "title": "Entry Level NVM Reliability Lab Engineer",
+   "uid": "simplify:listings:775cf795-bab4-41d3-b037-a631ffe4c267"
+  },
+  {
+   "closed_at": 1795295347,
+   "company": "accenturefederalservices",
+   "hours_open": 1374.3,
+   "title": "Java Developer",
+   "uid": "greenhouse:accenturefederalservices:4715548006"
   }
  ],
- "count": 807,
- "updated_at": 1795283518
+ "count": 804,
+ "updated_at": 1795295348
 }
