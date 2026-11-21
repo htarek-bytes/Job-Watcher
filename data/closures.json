@@ -3,20 +3,6 @@
   {
    "closed_at": 1795170448,
    "company": "spacex",
-   "hours_open": 397.8,
-   "title": "Operations Engineer",
-   "uid": "greenhouse:spacex:8927521002"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "spacex",
-   "hours_open": 1410.9,
-   "title": "Mechanical Facilities Engineer (Starlink) ",
-   "uid": "greenhouse:spacex:8831357002"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "spacex",
    "hours_open": 1410.9,
    "title": "Supplier Development Engineer (Materials Engineering)",
    "uid": "greenhouse:spacex:8831236002"
@@ -5599,8 +5585,22 @@
    "hours_open": 15.6,
    "title": "information technology (IT) analyst",
    "uid": "jobbank:control systems analyst:50768083"
+  },
+  {
+   "closed_at": 1795228707,
+   "company": "Symbotic",
+   "hours_open": 16.2,
+   "title": "Robotics Software Engineer New Grad",
+   "uid": "simplify:listings:31b75627-f15f-4daf-9210-cdf8faf6d7b6"
+  },
+  {
+   "closed_at": 1795228707,
+   "company": "Amazon",
+   "hours_open": 16.2,
+   "title": "Software Development Engineer, Billing Data Services, Billing Data Services",
+   "uid": "amazon:amazon:10601986"
   }
  ],
- "count": 801,
- "updated_at": 1795226659
+ "count": 802,
+ "updated_at": 1795228708
 }
