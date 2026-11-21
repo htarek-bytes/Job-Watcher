@@ -2,20 +2,6 @@
  "closed": [
   {
    "closed_at": 1795170448,
-   "company": "Saalex",
-   "hours_open": 1564.1,
-   "title": "Junior Computer Systems Analyst (Part-Time)",
-   "uid": "workable:saalex:B8073A225A"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "spacex",
-   "hours_open": 1597.9,
-   "title": "Supplier Development Engineer, SMT (Starlink)",
-   "uid": "greenhouse:spacex:8802686002"
-  },
-  {
-   "closed_at": 1795170448,
    "company": "spacex",
    "hours_open": 1641.3,
    "title": "Avionics Systems Engineer (Falcon & Dragon)",
@@ -5599,8 +5585,22 @@
    "hours_open": 1780.8,
    "title": "Internship: Software Engineer, Test",
    "uid": "ashby:revel:f080b27d-92c7-4e1f-a85f-b4a7c166d738"
+  },
+  {
+   "closed_at": 1795300012,
+   "company": "Source Code",
+   "hours_open": 33.6,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:systems analyst:50698776"
+  },
+  {
+   "closed_at": 1795300012,
+   "company": "Global Fleet Management Inc.",
+   "hours_open": 1584.8,
+   "title": "information systems analyst - computer systems",
+   "uid": "jobbank:systems analyst:50302902"
   }
  ],
- "count": 800,
- "updated_at": 1795298471
+ "count": 802,
+ "updated_at": 1795300013
 }
