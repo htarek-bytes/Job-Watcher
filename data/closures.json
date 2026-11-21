@@ -3,34 +3,6 @@
   {
    "closed_at": 1795170448,
    "company": "spacex",
-   "hours_open": 1500.0,
-   "title": "Supervisor, IT Network Infrastructure - 1st Shift",
-   "uid": "greenhouse:spacex:8818961002"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "agile-defense",
-   "hours_open": 1502.7,
-   "title": "AI/ML Data Engineer",
-   "uid": "lever:agile-defense:9328b001-f353-4b63-8384-8a5f5e36aa57"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "steerbridge",
-   "hours_open": 1500.5,
-   "title": "Junior Data Engineer",
-   "uid": "lever:steerbridge:a49cfd8c-c7ec-4378-9233-412eb16dd96a"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "cx2",
-   "hours_open": 1501.4,
-   "title": "Signal Processing Engineer",
-   "uid": "lever:cx2:54e50140-ec8b-4e1d-913d-f3e7d4745a0b"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "spacex",
    "hours_open": 1521.6,
    "title": "Welding Automation Engineer, Chamber and Nozzle (Raptor)",
    "uid": "greenhouse:spacex:8817992002"
@@ -5599,8 +5571,36 @@
    "hours_open": 1925.9,
    "title": "Junior Software Engineer",
    "uid": "simplify:listings:8d357db3-4bed-433c-8281-3e0775e1be25"
+  },
+  {
+   "closed_at": 1795258416,
+   "company": "Source Code",
+   "hours_open": 0.6,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:systems analyst:50768083"
+  },
+  {
+   "closed_at": 1795258416,
+   "company": "Kyndryl",
+   "hours_open": 24.4,
+   "title": "Early Career Consult Program - Associate Data Engineer",
+   "uid": "simplify:listings:c2d2ad15-8c15-41f3-a588-da205f5d342a"
+  },
+  {
+   "closed_at": 1795258416,
+   "company": "Global Fleet Management Inc.",
+   "hours_open": 817.1,
+   "title": "information systems analyst - computer systems",
+   "uid": "jobbank:information systems analyst:50302902"
+  },
+  {
+   "closed_at": 1795258416,
+   "company": "Lakeland Roman Catholic Separate School Division",
+   "hours_open": 1521.6,
+   "title": "computer systems analyst",
+   "uid": "jobbank:analyste de systemes:50064831"
   }
  ],
  "count": 804,
- "updated_at": 1795256147
+ "updated_at": 1795258416
 }
