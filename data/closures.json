@@ -2,13 +2,6 @@
  "closed": [
   {
    "closed_at": 1795170448,
-   "company": "k2spacecorporation",
-   "hours_open": 1121.4,
-   "title": "Simulation Software Engineering Intern - Summer 2027",
-   "uid": "greenhouse:k2spacecorporation:5418727008"
-  },
-  {
-   "closed_at": 1795170448,
    "company": "trueanomalyinc",
    "hours_open": 1740.9,
    "title": "Software Engineer I, Elixir (New Grad)",
@@ -5599,8 +5592,15 @@
    "hours_open": 570.4,
    "title": "Associate Engineer - AI and Agentics",
    "uid": "simplify:listings:07094ae9-493c-4bbc-a623-42555d77865c"
+  },
+  {
+   "closed_at": 1795370100,
+   "company": "itron",
+   "hours_open": 496.0,
+   "title": "Intern - Systems Engineer (Spring 2027)",
+   "uid": "workday:itron.wd5/Itron:Intern---Systems-Engineer--Spring-2027-_JR102789-2"
   }
  ],
- "count": 800,
- "updated_at": 1795368342
+ "count": 801,
+ "updated_at": 1795370100
 }
