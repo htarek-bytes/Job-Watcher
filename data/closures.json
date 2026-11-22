@@ -2,20 +2,6 @@
  "closed": [
   {
    "closed_at": 1795170448,
-   "company": "swarmaero",
-   "hours_open": 562.5,
-   "title": "Embedded Software Engineer",
-   "uid": "ashby:swarmaero:3e76efa2-aca7-46c1-8b03-b4e04ee51b25"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "General Dynamics Missions System International",
-   "hours_open": 1670.4,
-   "title": "Co-op Winter 2027 - Systems Integration, Verification, and Validation - 8-12 months",
-   "uid": "smartrecruiters:GDMSI:744000149100009"
-  },
-  {
-   "closed_at": 1795170448,
    "company": "General Dynamics Missions System International",
    "hours_open": 1670.4,
    "title": "Co-op Winter 2027 – System of Systems Integration, Verification and Validation – 4-8 months",
@@ -5599,8 +5585,22 @@
    "hours_open": 1901.4,
    "title": "Forward Deployed Engineer (Federal)",
    "uid": "lever:field-ai:3ea0a2e6-b3e7-4887-b17d-f1cb16ea4d50"
+  },
+  {
+   "closed_at": 1795312863,
+   "company": "Source Code",
+   "hours_open": 37.2,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:systems analyst:50698776"
+  },
+  {
+   "closed_at": 1795312863,
+   "company": "Global Fleet Management Inc.",
+   "hours_open": 1588.4,
+   "title": "information systems analyst - computer systems",
+   "uid": "jobbank:systems analyst:50302902"
   }
  ],
- "count": 804,
- "updated_at": 1795310424
+ "count": 802,
+ "updated_at": 1795312863
 }
