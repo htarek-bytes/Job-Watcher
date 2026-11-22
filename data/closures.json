@@ -2,13 +2,6 @@
  "closed": [
   {
    "closed_at": 1795170448,
-   "company": "spacex",
-   "hours_open": 1722.1,
-   "title": "CMM Programmer (Starship) - 2nd Shift",
-   "uid": "greenhouse:spacex:8788050002"
-  },
-  {
-   "closed_at": 1795170448,
    "company": "k2spacecorporation",
    "hours_open": 1121.4,
    "title": "Simulation Software Engineering Intern - Summer 2027",
@@ -5599,8 +5592,15 @@
    "hours_open": 51.6,
    "title": "information technology (IT) analyst",
    "uid": "jobbank:systems analyst:50698776"
+  },
+  {
+   "closed_at": 1795368237,
+   "company": "Exelixis",
+   "hours_open": 570.4,
+   "title": "Associate Engineer - AI and Agentics",
+   "uid": "simplify:listings:07094ae9-493c-4bbc-a623-42555d77865c"
   }
  ],
- "count": 805,
- "updated_at": 1795364946
+ "count": 801,
+ "updated_at": 1795368240
 }
