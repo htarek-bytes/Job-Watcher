@@ -2,27 +2,6 @@
  "closed": [
   {
    "closed_at": 1795170448,
-   "company": "trueanomalyinc",
-   "hours_open": 1740.9,
-   "title": "Software Engineer I, Elixir (New Grad)",
-   "uid": "greenhouse:trueanomalyinc:5232802007"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "applied",
-   "hours_open": 1256.8,
-   "title": "C++ Software Engineer - Physical AI ",
-   "uid": "ashby:applied:efb1d3eb-388c-4908-be0a-8af78579db69"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "trace3",
-   "hours_open": 396.8,
-   "title": "System Engineer",
-   "uid": "greenhouse:trace3:8338241"
-  },
-  {
-   "closed_at": 1795170448,
    "company": "opengov",
    "hours_open": 1747.1,
    "title": "Product Engineer",
@@ -5599,8 +5578,29 @@
    "hours_open": 496.0,
    "title": "Intern - Systems Engineer (Spring 2027)",
    "uid": "workday:itron.wd5/Itron:Intern---Systems-Engineer--Spring-2027-_JR102789-2"
+  },
+  {
+   "closed_at": 1795384727,
+   "company": "rockwellautomation",
+   "hours_open": 29.2,
+   "title": "Intern, Software Developer/Engineering",
+   "uid": "workday:rockwellautomation.wd1/External-Rockwell-Automation-Early-Careers:Intern--Software-Developer-Engineering_R26-8666-1"
+  },
+  {
+   "closed_at": 1795384727,
+   "company": "rockwellautomation",
+   "hours_open": 1346.9,
+   "title": "Intern, AI Software Engineering (June-August 2027)",
+   "uid": "workday:rockwellautomation.wd1/External-Rockwell-Automation-Early-Careers:Intern--AI-Software-Engineering--June-August-2027-_R26-6980"
+  },
+  {
+   "closed_at": 1795384727,
+   "company": "rockwellautomation",
+   "hours_open": 1346.9,
+   "title": "Co-op, AI Software Engineering (6-8 months)",
+   "uid": "workday:rockwellautomation.wd1/External-Rockwell-Automation-Early-Careers:Co-op--AI-Software-Engineering--6-8-months-_R26-6982"
   }
  ],
- "count": 800,
- "updated_at": 1795370204
+ "count": 803,
+ "updated_at": 1795384728
 }
