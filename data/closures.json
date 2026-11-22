@@ -2,13 +2,6 @@
  "closed": [
   {
    "closed_at": 1795170448,
-   "company": "castelioncorporation",
-   "hours_open": 514.9,
-   "title": "Avionics Harness Design Engineer ",
-   "uid": "greenhouse:castelioncorporation:4395487009"
-  },
-  {
-   "closed_at": 1795170448,
    "company": "spacex",
    "hours_open": 1386.9,
    "title": "Full Stack Software Engineer",
@@ -5599,8 +5592,15 @@
    "hours_open": 1962.3,
    "title": "Global Tapeout and Mask Operations New College Graduate - Biz App and Data Engineer",
    "uid": "simplify:listings:c6805667-f7a7-4da9-b10c-bc3a3281ac5c"
+  },
+  {
+   "closed_at": 1795387338,
+   "company": "usbank",
+   "hours_open": 60.2,
+   "title": "Associate Software Engineer (Back-end Distributed systems)",
+   "uid": "workday:usbank.wd1/US_Bank_Careers:Associate-Software-Engineer--Back-end-Distributed-systems-_2026-0034153"
   }
  ],
- "count": 806,
- "updated_at": 1795387045
+ "count": 801,
+ "updated_at": 1795387338
 }
