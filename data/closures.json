@@ -2,48 +2,6 @@
  "closed": [
   {
    "closed_at": 1795170448,
-   "company": "opengov",
-   "hours_open": 1747.1,
-   "title": "Product Engineer",
-   "uid": "ashby:opengov:394106bf-722e-43d6-b883-04d24cbdd78b"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "applied",
-   "hours_open": 1747.1,
-   "title": "C++ Software Engineer - Drone Stack",
-   "uid": "ashby:applied:32fdfd22-9bb9-4031-b211-87fa7b2157d4"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "spacex",
-   "hours_open": 1747.3,
-   "title": "Structural Test Engineer (Starship)",
-   "uid": "greenhouse:spacex:8782041002"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "datadog",
-   "hours_open": 1747.3,
-   "title": "Software Engineering Intern (Summer)",
-   "uid": "greenhouse:datadog:8052118"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "spacex",
-   "hours_open": 1762.1,
-   "title": "Equipment Reliability Engineer (Starship) ",
-   "uid": "greenhouse:spacex:8783271002"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "spacex",
-   "hours_open": 1764.6,
-   "title": "Application Software Engineer, Internal Systems",
-   "uid": "greenhouse:spacex:8785507002"
-  },
-  {
-   "closed_at": 1795170448,
    "company": "castelioncorporation",
    "hours_open": 514.9,
    "title": "Avionics Harness Design Engineer ",
@@ -5599,8 +5557,50 @@
    "hours_open": 1346.9,
    "title": "Co-op, AI Software Engineering (6-8 months)",
    "uid": "workday:rockwellautomation.wd1/External-Rockwell-Automation-Early-Careers:Co-op--AI-Software-Engineering--6-8-months-_R26-6982"
+  },
+  {
+   "closed_at": 1795387045,
+   "company": "tmobile",
+   "hours_open": 29.7,
+   "title": "Summer 2027 Software Engineering Internship",
+   "uid": "workday:tmobile.wd1/External:Summer-2027-Software-Engineering-Internship_REQ381366"
+  },
+  {
+   "closed_at": 1795387045,
+   "company": "Specialized",
+   "hours_open": 20.0,
+   "title": "Early Career Data Engineer",
+   "uid": "simplify:listings:54a2e01d-6edb-4b24-a780-7cb263d5acaf"
+  },
+  {
+   "closed_at": 1795387045,
+   "company": "tsc",
+   "hours_open": 29.7,
+   "title": "Software Engineer I",
+   "uid": "workday:tsc.wd12/TSC-Careers:Software-Engineer-I_JR2898"
+  },
+  {
+   "closed_at": 1795387045,
+   "company": "UPSCALE TECHOFY INC",
+   "hours_open": 60.2,
+   "title": "cybersecurity analyst",
+   "uid": "jobbank:analyste en cybersecurite:50411161"
+  },
+  {
+   "closed_at": 1795387045,
+   "company": "ttc",
+   "hours_open": 918.8,
+   "title": "Test Engineer Intern - Exmark",
+   "uid": "workday:ttc.wd1/Toro_External_Careers:Test-Engineer-Intern---Exmark_JR17050"
+  },
+  {
+   "closed_at": 1795387045,
+   "company": "GlobalFoundries",
+   "hours_open": 1962.3,
+   "title": "Global Tapeout and Mask Operations New College Graduate - Biz App and Data Engineer",
+   "uid": "simplify:listings:c6805667-f7a7-4da9-b10c-bc3a3281ac5c"
   }
  ],
- "count": 803,
- "updated_at": 1795384728
+ "count": 806,
+ "updated_at": 1795387045
 }
