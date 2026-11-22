@@ -2,34 +2,6 @@
  "closed": [
   {
    "closed_at": 1795170448,
-   "company": "spacex",
-   "hours_open": 1665.1,
-   "title": "EDM Programmer (Starlink) - Level 4/5",
-   "uid": "greenhouse:spacex:8802398002"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "spacex",
-   "hours_open": 1666.3,
-   "title": "New Graduate Engineer, Security Software (Starshield) ",
-   "uid": "greenhouse:spacex:8802897002"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "spacex",
-   "hours_open": 1666.3,
-   "title": "Industrial Security Analyst (PERSEC) ",
-   "uid": "greenhouse:spacex:8803646002"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "spacex",
-   "hours_open": 1667.9,
-   "title": "New Graduate Engineer, Power Generation (Starship)",
-   "uid": "greenhouse:spacex:8803009002"
-  },
-  {
-   "closed_at": 1795170448,
    "company": "swarmaero",
    "hours_open": 562.5,
    "title": "Embedded Software Engineer",
@@ -5599,8 +5571,36 @@
    "hours_open": 1031.5,
    "title": "Critical Lift & Transport Engineer (Starship)",
    "uid": "greenhouse:spacex:8882432002"
+  },
+  {
+   "closed_at": 1795310423,
+   "company": "Source Code",
+   "hours_open": 15.1,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:systems analyst:50768083"
+  },
+  {
+   "closed_at": 1795310423,
+   "company": "Global Fleet Management Inc.",
+   "hours_open": 831.5,
+   "title": "information systems analyst - computer systems",
+   "uid": "jobbank:information systems analyst:50302902"
+  },
+  {
+   "closed_at": 1795310423,
+   "company": "Ellipsis Labs",
+   "hours_open": 1941.0,
+   "title": "Software Engineer – New Grads - Multiple Teams",
+   "uid": "simplify:listings:9383654e-9231-4cd4-8264-8af3837f9686"
+  },
+  {
+   "closed_at": 1795310423,
+   "company": "field-ai",
+   "hours_open": 1901.4,
+   "title": "Forward Deployed Engineer (Federal)",
+   "uid": "lever:field-ai:3ea0a2e6-b3e7-4887-b17d-f1cb16ea4d50"
   }
  ],
- "count": 801,
- "updated_at": 1795300454
+ "count": 804,
+ "updated_at": 1795310424
 }
