@@ -2,41 +2,6 @@
  "closed": [
   {
    "closed_at": 1795170448,
-   "company": "spacex",
-   "hours_open": 1859.1,
-   "title": "New Graduate Engineer, Starship Components",
-   "uid": "greenhouse:spacex:8783046002"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "spacex",
-   "hours_open": 1745.3,
-   "title": "International Infrastructure Operations Specialist (Starlink)",
-   "uid": "greenhouse:spacex:8766913002"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "spacex",
-   "hours_open": 1865.5,
-   "title": "Operations Engineer, Starbase Infrastructure",
-   "uid": "greenhouse:spacex:8780717002"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "General Dynamics UK",
-   "hours_open": 1876.0,
-   "title": "Junior Hardware Engineer Developer - FPGA",
-   "uid": "simplify:listings:3a48d1b1-444b-4d93-b1bc-4adcd269418e"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "spacex",
-   "hours_open": 1865.5,
-   "title": "Site Reliability Engineer, Platform Infrastructure ",
-   "uid": "greenhouse:spacex:8776746002"
-  },
-  {
-   "closed_at": 1795170448,
    "company": "xai",
    "hours_open": 1853.5,
    "title": "OT Network Engineer, Physical Infrastructure - Memphis",
@@ -5599,8 +5564,43 @@
    "hours_open": 1.1,
    "title": "data engineer",
    "uid": "jobbank:infrastructure analyst:50774219"
+  },
+  {
+   "closed_at": 1795441456,
+   "company": "ServiceNow",
+   "hours_open": 59.8,
+   "title": "Advisory Solution Consultant",
+   "uid": "smartrecruiters:ServiceNow:744000162814767"
+  },
+  {
+   "closed_at": 1795441456,
+   "company": "Sherwood Chevrolet",
+   "hours_open": 75.3,
+   "title": "cloud administrator",
+   "uid": "jobbank:cloud administrator:50739194"
+  },
+  {
+   "closed_at": 1795441456,
+   "company": "SGS",
+   "hours_open": 59.8,
+   "title": "Semiconductor Technical Sales",
+   "uid": "smartrecruiters:SGS:744000162665229"
+  },
+  {
+   "closed_at": 1795441456,
+   "company": "EVERSANA",
+   "hours_open": 59.8,
+   "title": "AI Solutions Engineer (Generative AI & Agentic AI)",
+   "uid": "smartrecruiters:EVERSANA1:744000159792319"
+  },
+  {
+   "closed_at": 1795441456,
+   "company": "ServiceNow",
+   "hours_open": 59.8,
+   "title": "Cyber Advisory Solution Consultant",
+   "uid": "smartrecruiters:ServiceNow:744000162820619"
   }
  ],
- "count": 800,
- "updated_at": 1795437733
+ "count": 805,
+ "updated_at": 1795441457
 }
