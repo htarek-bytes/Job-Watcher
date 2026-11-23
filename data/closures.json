@@ -3,62 +3,6 @@
   {
    "closed_at": 1795170448,
    "company": "spacex",
-   "hours_open": 1833.4,
-   "title": "IT Security Engineer - Top Secret Clearance",
-   "uid": "greenhouse:spacex:8784792002"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "spacex",
-   "hours_open": 1835.2,
-   "title": "Mechanical Integration & Test Engineer (Starshield)",
-   "uid": "greenhouse:spacex:8780331002"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "spacex",
-   "hours_open": 1835.2,
-   "title": "Test Engineer (Avionics Test Lab)",
-   "uid": "greenhouse:spacex:8784692002"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "darkwolfsolutions",
-   "hours_open": 1841.5,
-   "title": "DevSecOps Engineer",
-   "uid": "greenhouse:darkwolfsolutions:7986712003"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "General Dynamics Missions System International",
-   "hours_open": 1842.0,
-   "title": "Co-op Winter 2027 - Software Engineering - 8 Months",
-   "uid": "smartrecruiters:GDMSI:744000147561809"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "General Dynamics Missions System International",
-   "hours_open": 1842.0,
-   "title": "Co-op Winter 2027 - Software Engineering Developer - 16-Months",
-   "uid": "smartrecruiters:GDMSI:744000147556214"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "General Dynamics Missions System International",
-   "hours_open": 1842.0,
-   "title": "Co-op Winter 2027 - Software Developer - 8 Months",
-   "uid": "smartrecruiters:GDMSI:744000147554134"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "General Dynamics Missions System International",
-   "hours_open": 1404.1,
-   "title": "Co-op Winter 2027 - Software Engineering - 4-8 months",
-   "uid": "smartrecruiters:GDMSI:744000151059868"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "spacex",
    "hours_open": 1858.5,
    "title": "Software Engineer (Flight Reliability)",
    "uid": "greenhouse:spacex:8783284002"
@@ -5599,8 +5543,64 @@
    "hours_open": 62.2,
    "title": "information technology (IT) security analyst",
    "uid": "jobbank:information security analyst:50683490"
+  },
+  {
+   "closed_at": 1795432410,
+   "company": "brex",
+   "hours_open": 72.8,
+   "title": "Software Engineer, Intern  (Summer 2027)",
+   "uid": "greenhouse:brex:8936403002"
+  },
+  {
+   "closed_at": 1795432410,
+   "company": "Maarut",
+   "hours_open": 72.8,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:systems analyst:50726943"
+  },
+  {
+   "closed_at": 1795432410,
+   "company": "OneRiver Software",
+   "hours_open": 72.8,
+   "title": "Web developer",
+   "uid": "jobbank:developpeur junior:50677142"
+  },
+  {
+   "closed_at": 1795432410,
+   "company": "DPMSYSTEMS IT CONSULTING SERVICES",
+   "hours_open": 941.7,
+   "title": "information systems analyst - computer systems",
+   "uid": "jobbank:information systems analyst:50311291"
+  },
+  {
+   "closed_at": 1795432410,
+   "company": "CloudLabs",
+   "hours_open": 1818.1,
+   "title": "systems analyst",
+   "uid": "jobbank:systems analyst:50053328"
+  },
+  {
+   "closed_at": 1795432410,
+   "company": "Vizient",
+   "hours_open": 38.1,
+   "title": "Associate Software Engineer",
+   "uid": "simplify:listings:5d2615fd-5855-468c-b2f7-0ba0cf79d0a5"
+  },
+  {
+   "closed_at": 1795432410,
+   "company": "Lattice Semiconductor",
+   "hours_open": 72.8,
+   "title": "Junior BMC Firmware Engineer",
+   "uid": "simplify:listings:4185123b-43de-4405-8488-2396d8a65cb1"
+  },
+  {
+   "closed_at": 1795432410,
+   "company": "cloudflare",
+   "hours_open": 475.2,
+   "title": "Systems Engineer, WARP",
+   "uid": "greenhouse:cloudflare:8336674"
   }
  ],
- "count": 800,
- "updated_at": 1795406327
+ "count": 808,
+ "updated_at": 1795432412
 }
