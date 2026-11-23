@@ -3,13 +3,6 @@
   {
    "closed_at": 1795170448,
    "company": "spacex",
-   "hours_open": 1829.0,
-   "title": "Full Stack Software Engineer, Flight Software",
-   "uid": "greenhouse:spacex:8784863002"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "spacex",
    "hours_open": 1833.4,
    "title": "IT Security Engineer - Top Secret Clearance",
    "uid": "greenhouse:spacex:8784792002"
@@ -5599,8 +5592,15 @@
    "hours_open": 892.0,
    "title": "Backend Infrastructure Engineer ",
    "uid": "ashby:mercor:296c4031-5e98-4772-95f5-a9eb5bd7746d"
+  },
+  {
+   "closed_at": 1795403170,
+   "company": "Fop experts conseils inc.",
+   "hours_open": 62.2,
+   "title": "information technology (IT) security analyst",
+   "uid": "jobbank:information security analyst:50683490"
   }
  ],
  "count": 801,
- "updated_at": 1795401112
+ "updated_at": 1795403170
 }
