@@ -1,5 +1,5 @@
 {
- "count": 12233,
+ "count": 12239,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -537,6 +537,7 @@
   "amazon:amazon:10610933": 1795226659,
   "amazon:amazon:10610936": 1795228707,
   "amazon:amazon:10611446": 1795473862,
+  "amazon:amazon:10611483": 1795501813,
   "amazon:amazon:10611895": 1795473862,
   "amazon:amazon:10612037": 1795473862,
   "amazon:amazon:10612129": 1795473862,
@@ -2838,6 +2839,7 @@
   "greenhouse:astranis:4715553006": 1790196061,
   "greenhouse:astranis:4716161006": 1790224745,
   "greenhouse:astranis:4719442006": 1791313446,
+  "greenhouse:astranis:4731856006": 1795501813,
   "greenhouse:astronicscorporation:4431835009": 1793316812,
   "greenhouse:astronicscorporation:4506241009": 1795170448,
   "greenhouse:atek:5316064008": 1788386318,
@@ -6376,6 +6378,7 @@
   "jobbank:junior software developer:50773680": 1795246362,
   "jobbank:junior software developer:50774509": 1795275382,
   "jobbank:junior software developer:50786061": 1795473862,
+  "jobbank:junior software developer:50790715": 1795501813,
   "jobbank:linux administrator:49626621": 1789082121,
   "jobbank:linux administrator:50163764": 1788887337,
   "jobbank:linux administrator:50205276": 1788887337,
@@ -11085,6 +11088,7 @@
   "workday:hntb.wd5/hntb_university_careers:New-Grad-Engineer-I---Winter-Summer-2027_R-31349": 1792886460,
   "workday:hntb.wd5/hntb_university_careers:New-Grad-Engineer-I--Rail-Operations-Modeling-and-Planning---Summer-2027_R-31590": 1792802847,
   "workday:hntb.wd5/hntb_university_careers:New-Grad-Engineer-I_R-31894": 1792886460,
+  "workday:hntb.wd5/hntb_university_careers:Returning-New-Grad-Software-Engineer-I--For-Current-Previous-HNTB-Interns-ONLY-_R-32175": 1795501813,
   "workday:hntb.wd5/hntb_university_careers:Structures-Intern-Engineer---Summer-2027_R-31589-1": 1792802847,
   "workday:homedepot.wd5/careerdepot:XMLNAME-2027-Summer-Internship---Software-Engineering_Req191937": 1788470575,
   "workday:hp.wd5/EXTEU-AC-CareerSite:Edge-AI-Solution-Engineer_3169805": 1793444623,
@@ -11168,12 +11172,14 @@
   "workday:isu.wd1/IowaStateJobs:Research-and-Development-Engineer-I_R20268": 1795256146,
   "workday:itron.wd5/Early_Careers:Intern---Systems-Engineer--Spring-2027-_JR102789-1": 1793444623,
   "workday:itron.wd5/Itron:Intern---Systems-Engineer--Spring-2027-_JR102789-2": 1793584439,
+  "workday:itw.wd5/external:Software-or-Computer-Engineer-Intern---Summer-2027_JR11356": 1795501813,
   "workday:itw.wd5/external:Textile-Engineer-Intern_JR10591": 1795256146,
   "workday:ivytech.wd1/ivy_tech_careers:Information-Security-Associate-Engineer_JR0000109918": 1792265392,
   "workday:jabil.wd5/Jabil_Careers:Automation-Design-Engineer---Internship--12-months-_J2462833": 1788847246,
   "workday:jabil.wd5/Jabil_Careers:Automation-Engineer-I_J2463375": 1792527453,
   "workday:jabil.wd5/Jabil_Careers:Electronic-Engineer-I_J2452980": 1791444048,
   "workday:jabil.wd5/Jabil_Careers:IT-Engineer-I_J2465680": 1792627914,
+  "workday:jabil.wd5/Jabil_Careers:IT-Programmer-Analyst-Intern_J2472386": 1795501813,
   "workday:jabil.wd5/Jabil_Careers:Project-Engineer-I_J2460043-1": 1791831542,
   "workday:jabil.wd5/Jabil_Careers:Software-Engineering-Intern_J2472697": 1795256146,
   "workday:jabil.wd5/Jabil_Careers:Test-Engineer-I_J2454860": 1788847246,
@@ -12235,5 +12241,5 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148,
   "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541": 1789106107
  },
- "updated_at": 1795484987
+ "updated_at": 1795501814
 }
