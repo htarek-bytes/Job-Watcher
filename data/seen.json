@@ -1,5 +1,5 @@
 {
- "count": 12218,
+ "count": 12226,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -8185,6 +8185,7 @@
   "simplify:listings:8427086c-fb04-4125-a38f-4e9c9fa28dc7": 1788322770,
   "simplify:listings:8475b72d-9c39-499b-b18d-a7ba42919fb2": 1789685162,
   "simplify:listings:84a39b8e-8d89-4f91-ab45-1d53e8d86776": 1788880168,
+  "simplify:listings:84db8e17-900f-400d-8947-fe2a4d952995": 1795479913,
   "simplify:listings:84ee1b8e-a18b-47c7-a497-5a7e53a2ea04": 1793142590,
   "simplify:listings:8521a845-717b-4043-9a84-34537e07c480": 1788322770,
   "simplify:listings:8593e14d-835b-423d-8b1c-eb67b2318a92": 1790378233,
@@ -10293,12 +10294,15 @@
   "workday:asml.wd3/asmlext1:Co-op---Test-and-Measurement-Facility-Engineer--Internship-_J-00356415": 1793776644,
   "workday:asml.wd3/asmlext1:Coop---Mechatronics-Engineer--Internship-_J-00356203": 1793670559,
   "workday:asml.wd3/asmlext1:Internship---Application-Software-QA-Engineer_J-00354565": 1792797439,
+  "workday:asml.wd3/asmlext1:Internship---Diagnostics-Engineer_J-00358468": 1795479913,
   "workday:asml.wd3/asmlext1:Internship---Engineer_J-00356984": 1795342678,
   "workday:asml.wd3/asmlext1:Internship---Frontend-Developer_J-00354852": 1793184779,
   "workday:asml.wd3/asmlext1:Internship---Mechatronics-Engineer_J-00356213": 1793350704,
+  "workday:asml.wd3/asmlext1:Internship---Mechatronics-Engineer_J-00357865": 1795479913,
   "workday:asml.wd3/asmlext1:Internship---Software-Engineer-In-Test--MOD-_J-00354568": 1792797439,
   "workday:asml.wd3/asmlext1:Internship--Imaging-product-engineer_J-00355220": 1793184779,
   "workday:asml.wd3/asmlext1:Internship--Software-Development-Engineer-in-Test_J-00354459": 1793278523,
+  "workday:asml.wd3/asmlext1:Internship-Co-Op--AI-Engineer_J-00358477": 1795479913,
   "workday:asml.wd3/asmlext1:Internship-Co-Op--Data-Engineer_J-00355626": 1793278523,
   "workday:asml.wd3/asmlext1:Internship-Field-Service-Engineer_J-00355817": 1795342678,
   "workday:asml.wd3/asmlext1:Platform-Software-Engineer-In-Test---Internship-_J-00354558": 1792848848,
@@ -10422,9 +10426,12 @@
   "workday:bmo.wd3/External:Wealth-Management-Development-Associate--New-Grad--Chicago--IL-_R260026201": 1788888205,
   "workday:bmo.wd3/Privileged:Business---Operations-Development-Specialist--New-Grad-_R260027681-3": 1793776644,
   "workday:bmo.wd3/Privileged:Quantitative-Developer--Alpha-Research-Team----GAM--Summer-2027--Co-op-Internship----12-months_R260026715-2": 1795364945,
+  "workday:bmo.wd3/Privileged:Software-Developer--New-or-Recent-Graduate-_R260028581": 1795479913,
   "workday:bmo.wd3/Privileged:Software-Developer--Winter-2027--Co-op-Internship----4-Months_R260024638-3": 1793867853,
+  "workday:bmo.wd3/Privileged:Software-Engineer--Winter-2027--Co-op-Internship---4-months_R260031974": 1795479913,
   "workday:boeing.wd1/EXTERNAL_CAREERS:Associate-Software-Engineer---Developer_JR2026529495-1": 1795364945,
   "workday:boeing.wd1/EXTERNAL_CAREERS:Associate-Software-Engineer---Developers_JR2026512427-1": 1790294740,
+  "workday:boeing.wd1/EXTERNAL_CAREERS:Associate-Software-Engineer-Embedded_JR2026519147-2": 1795479913,
   "workday:boeing.wd1/EXTERNAL_CAREERS:Associate-Software-Engineer_JR2026511462-1": 1790632644,
   "workday:boeing.wd1/EXTERNAL_CAREERS:Associate-Software-Engineer_JR2026516706-1": 1790091113,
   "workday:boeing.wd1/EXTERNAL_CAREERS:Associate-Software-Engineer_JR2026520254-1": 1790294740,
@@ -10478,6 +10485,7 @@
   "workday:bristolmyerssquibb.wd5/bms:XMLNAME-2027-Summer-Internship-Product-Development_R1607364": 1791505232,
   "workday:broadcom.wd1/external_career:Solution-Engineer---ValueOps_R026472": 1788753415,
   "workday:broadcom.wd1/external_career:Solution-Engineer---ValueOps_R027294": 1791573491,
+  "workday:broadcom.wd1/external_career:Solutions-Engineer--UAE--Remote-_R027986": 1795479913,
   "workday:btisolutions.wd12/External:Chinese-Bilingual-Field-Test-Engineer--Entry-Level-_JR101996-1": 1788368024,
   "workday:caci.wd1/external:AI-Prompt-Engineer-High-School-Intern---Summer-2027_332816-1": 1790871589,
   "workday:caci.wd1/external:Aerospace-Engineer-Intern---Summer-2027_333648": 1792173651,
@@ -12220,5 +12228,5 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148,
   "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541": 1789106107
  },
- "updated_at": 1795478454
+ "updated_at": 1795479915
 }
