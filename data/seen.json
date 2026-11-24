@@ -1,5 +1,5 @@
 {
- "count": 12226,
+ "count": 12230,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -8470,6 +8470,7 @@
   "simplify:listings:b5b550d8-07b7-48d1-a1ba-9aa09a1cc8c1": 1793142590,
   "simplify:listings:b5c1fef0-1b4d-45d7-aebe-2baa0c94063b": 1788322770,
   "simplify:listings:b638e646-a8c7-484b-9b2b-51e2b939e5c6": 1788322770,
+  "simplify:listings:b66fea62-a88a-49b8-b4b3-8a1e383f3a74": 1795482917,
   "simplify:listings:b670db2d-c732-42ce-9b3c-0ba2e7ebe208": 1788322770,
   "simplify:listings:b6b9eec8-f1ef-4f9a-b177-9dcf697a5de9": 1795220560,
   "simplify:listings:b6cfb1a4-f1f9-4894-a725-982afa329551": 1791513396,
@@ -10490,6 +10491,7 @@
   "workday:caci.wd1/external:AI-Prompt-Engineer-High-School-Intern---Summer-2027_332816-1": 1790871589,
   "workday:caci.wd1/external:Aerospace-Engineer-Intern---Summer-2027_333648": 1792173651,
   "workday:caci.wd1/external:Appian-Configuration-Analyst---Junior-Developer_332667": 1790752952,
+  "workday:caci.wd1/external:Business-Systems-Analyst-Intern---Summer-2027_335424": 1795482917,
   "workday:caci.wd1/external:Cleared-Software-Engineer-Intern---Summer-2027_331999": 1789417897,
   "workday:caci.wd1/external:DevOps-Software-Engineering-Intern---Summer-2027_331798": 1788979404,
   "workday:caci.wd1/external:Early-Career-NASA-Space-Reactor---1-Freedom-Flight-Software-Development-Engineer_333050": 1790980231,
@@ -10510,6 +10512,7 @@
   "workday:caci.wd1/external:Software-Development-Intern---Summer-2027_332790": 1790871589,
   "workday:caci.wd1/external:Software-Development-Intern---Summer-2027_333051": 1792110118,
   "workday:caci.wd1/external:Software-Development-Intern---Summer-2027_333085": 1791293862,
+  "workday:caci.wd1/external:Software-Development-Intern---Summer-2027_335425": 1795482917,
   "workday:caci.wd1/external:Software-Engineer---Early-Career---Cloud_330679": 1790259920,
   "workday:caci.wd1/external:Software-Engineer-Intern---Summer-2027_331648": 1788548796,
   "workday:caci.wd1/external:Software-Engineer-Intern---Summer-2027_332776": 1790691603,
@@ -10539,6 +10542,7 @@
   "workday:cadence.wd1/Univ_Careers:Graduate-Student-Intern---Software-Engineering_R56029-1": 1789417897,
   "workday:cadence.wd1/Univ_Careers:Graduate-Student-Intern---Software-Engineering_R56405-1": 1790038575,
   "workday:cadence.wd1/Univ_Careers:Software-Engineer---new-college-grad-Dec-2026-_R55738-2": 1788479777,
+  "workday:cadence.wd1/Univ_Careers:Software-Engineering-Intern---Circuit-Simulation_R57251": 1795482917,
   "workday:cadence.wd1/University_CST:CST-Application-Engineer-Intern---Physical-Systems_R56702": 1792460549,
   "workday:cadence.wd1/University_CST:CST-Application-Engineer-Intern---Silicon_R56655-3": 1792460549,
   "workday:cadence.wd1/University_CST:CST-Application-Engineer-Intern---Systems-ATX_R56800-1": 1792460549,
@@ -12228,5 +12232,5 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148,
   "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541": 1789106107
  },
- "updated_at": 1795479915
+ "updated_at": 1795482918
 }
