@@ -1,5 +1,5 @@
 {
- "count": 12239,
+ "count": 12244,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -7617,6 +7617,7 @@
   "simplify:listings:22af1ba3-8de5-4e6a-8ffd-10425883c086": 1790292621,
   "simplify:listings:22ce9849-b0be-4484-be20-b79a507e2c6f": 1793171999,
   "simplify:listings:22f4cbf0-ea63-4e72-9fba-4319ef8415c3": 1788322770,
+  "simplify:listings:2324a810-93c9-490d-bf45-95f28f9dda1f": 1795512550,
   "simplify:listings:238b4335-e95e-471b-ad55-a3d3da60a5f6": 1788563552,
   "simplify:listings:23dfd8e4-f91c-43b3-87fc-4ea57c85e129": 1790661954,
   "simplify:listings:23f1c2c3-62c7-4b59-ad95-85d0505c58dc": 1793791333,
@@ -7984,6 +7985,7 @@
   "simplify:listings:62e644ab-70f9-4127-bf7c-a675f83455ef": 1792768274,
   "simplify:listings:62f43e0f-64f7-40aa-9082-4aca354c9f93": 1792017471,
   "simplify:listings:6323f819-c45a-46ce-bb2a-3111e0cec20d": 1788512368,
+  "simplify:listings:63544628-eb67-4de6-ba3c-597d09cbf355": 1795512550,
   "simplify:listings:635c59aa-ba50-475e-b715-7d39871ef598": 1793262106,
   "simplify:listings:63703d4d-13ff-4bec-a203-233fd1628666": 1788322770,
   "simplify:listings:63848af9-c211-4b79-b264-401610b828f6": 1788322770,
@@ -11267,6 +11269,7 @@
   "workday:kla.wd1/UR:Software-Engineering-Intern_2641821-2": 1791915110,
   "workday:kla.wd1/UR:Software-Engineering-Intern_2642004": 1793692815,
   "workday:kla.wd1/UR:Software-Engineering-Intern_2642189": 1792802847,
+  "workday:kla.wd1/UR:Software-Engineering-Intern_2642953": 1795512550,
   "workday:kla.wd1/annarbor:Software-Engineering-Intern_2531653": 1789362342,
   "workday:kyndryl.wd5/KyndrylEarlyCareers:Data-Engineer_R-66870-1": 1795258416,
   "workday:kyndryl.wd5/KyndrylEarlyCareers:Early-Career-Consult-Program---Associate-AI-Engineer_R-66739": 1788377607,
@@ -11361,6 +11364,7 @@
   "workday:marvell.wd1/MarvellCareers2:Test-Equipment-Engineer-Intern_2603826": 1790297811,
   "workday:marvell.wd1/MarvellCareers:AI-Infrastructure-Engineer-Intern_2604499": 1788859705,
   "workday:marvell.wd1/MarvellCareers:AI-Native-Development-Platform-Engineer-Intern--MS---Summer-2027_2603848-1": 1790757257,
+  "workday:marvell.wd1/MarvellCareers:AMS-CAD-Engineer-Intern_2604571": 1795512550,
   "workday:marvell.wd1/MarvellCareers:AMS-Layout-Engineer-Intern---BS---2027-Co-Op_2604790": 1790297811,
   "workday:marvell.wd1/MarvellCareers:Application-Engineer-Intern--MS---Summer-2027_2604509": 1788551622,
   "workday:marvell.wd1/MarvellCareers:Board-Product-Engineer-Intern--BS---Summer-2027_2603833-1": 1790041362,
@@ -11472,6 +11476,7 @@
   "workday:micron.wd1/External:New-College-Grad---Yield-Enhancement-Electrical-Failure-Analysis-Engineer_JR109479": 1788455648,
   "workday:micron.wd1/External:New-College-Grad--Dry-Etch-Equipment-Engineer_JR116865": 1793695440,
   "workday:micron.wd1/External:New-College-Grad--Engineer--Edge-Systems-Architecture_JR116433": 1793695440,
+  "workday:micron.wd1/External:New-College-Grad-Engineer--Manufacturing_JR113007": 1795512550,
   "workday:micron.wd1/External:Photolithography-MDE-Shift-Engineer_JR111985": 1790041362,
   "workday:micron.wd1/External:Process-Control-Engineer--SPC-_JR111994": 1793130055,
   "workday:micron.wd1/External:Process-Integration-Engineer_JR102569": 1789073222,
@@ -12241,5 +12246,5 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148,
   "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541": 1789106107
  },
- "updated_at": 1795501814
+ "updated_at": 1795512551
 }

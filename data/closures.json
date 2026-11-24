@@ -2,48 +2,6 @@
  "closed": [
   {
    "closed_at": 1795170448,
-   "company": "spacex",
-   "hours_open": 1865.5,
-   "title": "Launch Engineer, Dragon",
-   "uid": "greenhouse:spacex:8723922002"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "spacex",
-   "hours_open": 542.8,
-   "title": "Test Engineer (Dragon)",
-   "uid": "greenhouse:spacex:8922066002"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "spacex",
-   "hours_open": 1865.5,
-   "title": "Hardware Reliability Engineer, Components (Starshield) ",
-   "uid": "greenhouse:spacex:8696659002"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "spacex",
-   "hours_open": 1865.5,
-   "title": "Design Criteria Engineer (Falcon & Dragon)",
-   "uid": "greenhouse:spacex:8721103002"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "spacex",
-   "hours_open": 1865.5,
-   "title": "MEP/Construction Engineer",
-   "uid": "greenhouse:spacex:8720155002"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "Prosync",
-   "hours_open": 660.2,
-   "title": "Security Specialist I",
-   "uid": "workable:prosync:9F7435E34B"
-  },
-  {
-   "closed_at": 1795170448,
    "company": "astranis",
    "hours_open": 1884.5,
    "title": "Mechanical Associate Engineer (Summer 2027)",
@@ -5599,8 +5557,50 @@
    "hours_open": 1975.4,
    "title": "software development programmer",
    "uid": "jobbank:junior programmer:50092595"
+  },
+  {
+   "closed_at": 1795512550,
+   "company": "manulife",
+   "hours_open": 983.7,
+   "title": "Winter Co-op 2027 - Software Engineering",
+   "uid": "workday:manulife.wd3/MFCJH_adminJobs:Winter-Co-op-2027---Software-Engineering_JR26081663-1"
+  },
+  {
+   "closed_at": 1795512550,
+   "company": "micron",
+   "hours_open": 70.6,
+   "title": "New College Grad - Software Engineer",
+   "uid": "workday:micron.wd1/External:New-College-Grad---Software-Engineer_JR109692"
+  },
+  {
+   "closed_at": 1795512550,
+   "company": "kla",
+   "hours_open": 70.6,
+   "title": "Software Engineering Intern",
+   "uid": "workday:kla.wd1/UR:Software-Engineering-Intern_2641572"
+  },
+  {
+   "closed_at": 1795512550,
+   "company": "micron",
+   "hours_open": 478.1,
+   "title": "New College Grad - AMHS Equipment Engineer - ID1",
+   "uid": "workday:micron.wd1/External:AMHS-Equipment-Engineer---ID1_JR115382"
+  },
+  {
+   "closed_at": 1795512550,
+   "company": "Study 2020 Consulting INC",
+   "hours_open": 1201.3,
+   "title": "network security administrator",
+   "uid": "jobbank:network administrator:50424797"
+  },
+  {
+   "closed_at": 1795512550,
+   "company": "Datalab USA",
+   "hours_open": 1997.2,
+   "title": "Production Programmer – Entry Level SQL Developer",
+   "uid": "simplify:listings:fdb7c5e9-3d58-4332-bb5d-4b3446253fd0"
   }
  ],
- "count": 822,
- "updated_at": 1795501814
+ "count": 806,
+ "updated_at": 1795512551
 }
