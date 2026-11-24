@@ -1,5 +1,5 @@
 {
- "count": 12258,
+ "count": 12263,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -8847,6 +8847,7 @@
   "simplify:listings:f6146660-41bf-4fcd-ba7b-24a1c19c1176": 1788322770,
   "simplify:listings:f61cd3df-168a-4041-b903-df204e464cd8": 1788322770,
   "simplify:listings:f62e793a-1644-4b8d-a76d-ed67face4722": 1793067371,
+  "simplify:listings:f633b964-2b4e-4cc9-909b-0de4e42c4cc6": 1795520831,
   "simplify:listings:f638a7a9-7858-44cf-a52d-23c7ec258ad8": 1788512368,
   "simplify:listings:f6552574-8bd8-4bcb-856a-f3131dfdad9f": 1788783177,
   "simplify:listings:f658e592-7705-4abf-9fec-d62ac98b287e": 1789173477,
@@ -12046,6 +12047,7 @@
   "workday:synnex.wd5/hyvecareers:Electrical-Analysis-Engineer--New-Graduate_R54982": 1788377835,
   "workday:synnex.wd5/hyvecareers:Electrical-Design-Engineer_R54980": 1788377835,
   "workday:synnex.wd5/hyvecareers:Library-Engineer--New-Graduate_R54985": 1788377835,
+  "workday:synnex.wd5/hyvecareers:Signal-Integrity-Engineer--New-College-Grad-_R54984": 1795520831,
   "workday:synnex.wd5/hyvecareers:Test-Engineer-I_R51397": 1788377835,
   "workday:talentmanagementsolution.wd3/perseus-careers:Sales-Solutions-Consultant---Account-Management_R52865": 1788760848,
   "workday:talentmanagementsolution.wd3/perseus-careers:Software-Engineer-I_R54341": 1789829167,
@@ -12094,6 +12096,7 @@
   "workday:thermofisher.wd5/ThermoFisherCareers:Sales-Engineer--m-f-d--Quality-Control---Gauging_R-01361891": 1789517822,
   "workday:thermofisher.wd5/ThermoFisherCareers:System-Engineer---Verification---Investigation---Desktop-SEM_R-01370270": 1791527068,
   "workday:thomsonreuters.wd5/External_Career_Site:Associate-Software-Engineer_JREQ204720": 1793705091,
+  "workday:thomsonreuters.wd5/External_Career_Site:Cloud-Media-Solutions-Engineer_JREQ205739": 1795520831,
   "workday:thomsonreuters.wd5/External_Career_Site:Internship---Application-Support_JREQ203709": 1790274849,
   "workday:thomsonreuters.wd5/External_Career_Site:Junior-DevOps-Engineer---Reuters-Imagen_JREQ204129": 1791444813,
   "workday:thomsonreuters.wd5/External_Career_Site:Software-Engineer--Professional-Services-1_JREQ204070": 1791232806,
@@ -12114,6 +12117,7 @@
   "workday:tmobile.wd1/External:Solutions-Engineer--SMB---Tampa_REQ369984-2": 1788760848,
   "workday:tmobile.wd1/External:Summer-2027-Assoc-AI-Engineer-Internship_REQ380484": 1793459105,
   "workday:tmobile.wd1/External:Summer-2027-Assoc-AI-Engineer-Internship_REQ380492": 1793219579,
+  "workday:tmobile.wd1/External:Summer-2027-Database-Platform-Engineering-Site-Reliability-Engineering---SRE--Internship_REQ380920": 1795520831,
   "workday:tmobile.wd1/External:Summer-2027-Software-Engineer---Cloud-Security-Summer-Internship_REQ379190": 1792588171,
   "workday:tmobile.wd1/External:Summer-2027-Software-Engineer-Internship_REQ381357": 1795280226,
   "workday:tmobile.wd1/External:Summer-2027-Software-Engineering-AI-Intern_REQ381273": 1795280226,
@@ -12161,6 +12165,7 @@
   "workday:tsc.wd12/TSC-Careers:Software-Engineer-I_JR2898": 1795280226,
   "workday:tsc.wd12/TSC-Careers:Software-Engineer-I_JR2915": 1793902819,
   "workday:tsc.wd12/TSC-Careers:Software-Engineer-I_JR2965": 1795387045,
+  "workday:tsc.wd12/TSC-Careers:Systems-Engineer-I_JR2885": 1795520831,
   "workday:tsys.wd1/tsys:Consultant-Solutions-Technique--Ingnieur-ventes----Technical-Solutions-Consultant--Sales-Engineer-_R0077095-1": 1793705091,
   "workday:tsys.wd1/tsys:Data-Solution-Consultant_R0076646": 1792184209,
   "workday:ttc.wd1/Toro_External_Careers:Embedded-Software-Engineering-Intern---The-Toro-Company_JR17114": 1792079350,
@@ -12260,5 +12265,5 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Office-365-Engineer-Collaboration-and-Automation_R19369": 1788750148,
   "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541": 1789106107
  },
- "updated_at": 1795518267
+ "updated_at": 1795520832
 }
