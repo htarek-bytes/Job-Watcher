@@ -2,83 +2,6 @@
  "closed": [
   {
    "closed_at": 1795170448,
-   "company": "spacex",
-   "hours_open": 1865.5,
-   "title": "BAW Filter Design Engineer (Starlink/Akoustis)",
-   "uid": "greenhouse:spacex:8662103002"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "spacex",
-   "hours_open": 1865.5,
-   "title": "GNC Engineer (Starfall)",
-   "uid": "greenhouse:spacex:8665541002"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "spacex",
-   "hours_open": 1865.5,
-   "title": "Electrical Test and Reliability Engineer, Satellites (Starlink)",
-   "uid": "greenhouse:spacex:8659087002"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "RTX",
-   "hours_open": 1219.3,
-   "title": "FPGA Engineer 1",
-   "uid": "simplify:listings:46e62f6c-7b97-4f8d-9051-71a57d8297b0"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "spacex",
-   "hours_open": 1865.5,
-   "title": "Application Software Engineer, Applied AI",
-   "uid": "greenhouse:spacex:8658744002"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "spacekinetic",
-   "hours_open": 1858.5,
-   "title": "Quality Engineer",
-   "uid": "greenhouse:spacekinetic:5374818008"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "spacex",
-   "hours_open": 1865.5,
-   "title": "Software Engineer, Data - Top Secret Clearance (Starlink)",
-   "uid": "greenhouse:spacex:8640537002"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "spacex",
-   "hours_open": 1865.5,
-   "title": "Software Engineer, CDN (Starlink)",
-   "uid": "greenhouse:spacex:8756159002"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "spacex",
-   "hours_open": 1865.5,
-   "title": "Software Engineer, Telemetry (Starlink)",
-   "uid": "greenhouse:spacex:8656526002"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "spacex",
-   "hours_open": 1865.5,
-   "title": "Software Engineer, Data (Starlink)",
-   "uid": "greenhouse:spacex:8631217002"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "spacex",
-   "hours_open": 1865.5,
-   "title": "Full Stack Software Engineer, Data (Starlink)",
-   "uid": "greenhouse:spacex:8656465002"
-  },
-  {
-   "closed_at": 1795170448,
    "company": "wyetechllc",
    "hours_open": 1893.5,
    "title": "Network Engineer 1",
@@ -5599,8 +5522,85 @@
    "hours_open": 1295.4,
    "title": "Technical Sales Enablement Specialist",
    "uid": "ashby:ibotta:4561858a-73a4-4660-8710-87746807d631"
+  },
+  {
+   "closed_at": 1795554421,
+   "company": "snowflake",
+   "hours_open": 103.8,
+   "title": "Software Engineer Intern (Core, Infrastructure & Security) — Summer 2027",
+   "uid": "ashby:snowflake:e194759e-3a20-47c9-868d-f47179613897"
+  },
+  {
+   "closed_at": 1795554421,
+   "company": "snowflake",
+   "hours_open": 103.8,
+   "title": "Software Engineer Intern (AI / ML) - Summer 2027",
+   "uid": "ashby:snowflake:185d165c-09c7-4b57-9281-ff7c2c541907"
+  },
+  {
+   "closed_at": 1795554421,
+   "company": "snowflake",
+   "hours_open": 103.8,
+   "title": "Software Engineer Intern (Database Engineering) - Summer 2027",
+   "uid": "ashby:snowflake:0223923d-4f0f-44e6-9649-0d1a9eda950d"
+  },
+  {
+   "closed_at": 1795554421,
+   "company": "shield",
+   "hours_open": 103.8,
+   "title": "2027 Summer Intern - Supplier Development Engineer - 6463",
+   "uid": "ashby:shield:463966b6-fd51-47ef-b9b1-cb53c47cc275"
+  },
+  {
+   "closed_at": 1795554421,
+   "company": "shield",
+   "hours_open": 103.8,
+   "title": "Engineer I, Mechanical Hardware Test",
+   "uid": "ashby:shield:8e4c450e-a3f3-413c-94af-f91478519530"
+  },
+  {
+   "closed_at": 1795554421,
+   "company": "saronic",
+   "hours_open": 1852.0,
+   "title": "Global Security Operations Center (GSOC) Operator",
+   "uid": "ashby:saronic:404e7bcd-e794-4409-934f-2d8190ed5371"
+  },
+  {
+   "closed_at": 1795554421,
+   "company": "snowflake",
+   "hours_open": 962.1,
+   "title": "Software Engineer — Engineering Systems, Continuous Integration",
+   "uid": "ashby:snowflake:37ad5524-1716-4b54-8c3a-a81429592a91"
+  },
+  {
+   "closed_at": 1795554421,
+   "company": "saronic",
+   "hours_open": 1358.8,
+   "title": "Quality Engineer",
+   "uid": "ashby:saronic:ff3875c5-3dcb-4f9f-8614-c69345a857a8"
+  },
+  {
+   "closed_at": 1795554421,
+   "company": "siftstack",
+   "hours_open": 1342.5,
+   "title": "Software Engineer, Full Stack ",
+   "uid": "ashby:siftstack:e1bfc027-a94a-495b-a58d-5b76cbe4adba"
+  },
+  {
+   "closed_at": 1795554421,
+   "company": "muonspace",
+   "hours_open": 1129.0,
+   "title": "Industrial Security Specialist / Assistant Facility Security Officer (AFSO)",
+   "uid": "greenhouse:muonspace:5261458007"
+  },
+  {
+   "closed_at": 1795554421,
+   "company": "revel",
+   "hours_open": 1852.0,
+   "title": "Internship: Forward Deployed Engineer, Software",
+   "uid": "ashby:revel:34f97b81-c981-4c4b-9f4d-d471c33b46cc"
   }
  ],
- "count": 802,
- "updated_at": 1795552996
+ "count": 811,
+ "updated_at": 1795554422
 }
