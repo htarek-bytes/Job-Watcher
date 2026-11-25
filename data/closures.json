@@ -3,90 +3,6 @@
   {
    "closed_at": 1795170448,
    "company": "spacex",
-   "hours_open": 1865.5,
-   "title": "Mechanical Design Engineer, Production (Starlink)",
-   "uid": "greenhouse:spacex:8652488002"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "spacex",
-   "hours_open": 1865.5,
-   "title": "Screen Printing Equipment Engineer, Solar Cells (Starlink)",
-   "uid": "greenhouse:spacex:8653801002"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "spacex",
-   "hours_open": 1865.5,
-   "title": "Chemical Texturing Equipment Engineer, Solar Cells (Starlink)",
-   "uid": "greenhouse:spacex:8653788002"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "spacex",
-   "hours_open": 1865.5,
-   "title": "Software Engineer, Power Optimization (Starlink) ",
-   "uid": "greenhouse:spacex:8647459002"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "twosixtechnologies",
-   "hours_open": 396.8,
-   "title": "Software Engineer",
-   "uid": "greenhouse:twosixtechnologies:6239541004"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "spacekinetic",
-   "hours_open": 1858.5,
-   "title": "System Engineer - Safety / Fault Protection",
-   "uid": "greenhouse:spacekinetic:5372364008"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "Saalex",
-   "hours_open": 1564.1,
-   "title": "Data Engineer/ETL Developer",
-   "uid": "workable:saalex:47A2064A6F"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "spacex",
-   "hours_open": 1865.5,
-   "title": "Project Engineer, Critical Lift & Transport (Starship)",
-   "uid": "greenhouse:spacex:8652831002"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "andurilindustries",
-   "hours_open": 1863.8,
-   "title": "Laser Test Engineer",
-   "uid": "greenhouse:andurilindustries:5196584007"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "agile-defense",
-   "hours_open": 1865.5,
-   "title": "Data Engineer - TRANSCOM",
-   "uid": "lever:agile-defense:e6d4bce0-bd08-4b6f-9aa2-0e8d303fd89f"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "appian",
-   "hours_open": 1865.5,
-   "title": "Database Engineer",
-   "uid": "greenhouse:appian:8088282"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "spacex",
-   "hours_open": 1865.5,
-   "title": "Security Engineer (Detection Engineering)",
-   "uid": "greenhouse:spacex:8650242002"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "spacex",
    "hours_open": 1745.3,
    "title": "Security Analyst (Threat Detection)",
    "uid": "greenhouse:spacex:8650241002"
@@ -5599,8 +5515,92 @@
    "hours_open": 1990.5,
    "title": "software development programmer",
    "uid": "jobbank:junior programmer:50092595"
+  },
+  {
+   "closed_at": 1795574124,
+   "company": "airbnb",
+   "hours_open": 101.7,
+   "title": "Data Engineer Tech Foundations",
+   "uid": "greenhouse:airbnb:8396777"
+  },
+  {
+   "closed_at": 1795574124,
+   "company": "andurilindustries",
+   "hours_open": 605.0,
+   "title": "Training Systems Administrator",
+   "uid": "greenhouse:andurilindustries:5279964007"
+  },
+  {
+   "closed_at": 1795574124,
+   "company": "Koddi",
+   "hours_open": 26.6,
+   "title": "Associate Software Engineer",
+   "uid": "simplify:listings:6892a744-f18f-447c-a687-ff8d35de4e66"
+  },
+  {
+   "closed_at": 1795574124,
+   "company": "Hardin Design",
+   "hours_open": 476.1,
+   "title": "Entry Level Web Developer",
+   "uid": "simplify:listings:744b971f-f746-4393-b151-c84b2750b730"
+  },
+  {
+   "closed_at": 1795574124,
+   "company": "Amazon",
+   "hours_open": 112.1,
+   "title": "Software Development Engineer, Live and Linear Catalog",
+   "uid": "amazon:amazon:10605448"
+  },
+  {
+   "closed_at": 1795574124,
+   "company": "harbingermotors",
+   "hours_open": 690.5,
+   "title": "Design Release Engineer, Frame",
+   "uid": "greenhouse:harbingermotors:5210858007"
+  },
+  {
+   "closed_at": 1795574124,
+   "company": "T-Soft Consulting Inc",
+   "hours_open": 1995.5,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50080344"
+  },
+  {
+   "closed_at": 1795574124,
+   "company": "Brain Co.",
+   "hours_open": 840.9,
+   "title": "AI Platform Engineer New Grad",
+   "uid": "simplify:listings:96705002-95d7-4a17-8292-87bbaea60a95"
+  },
+  {
+   "closed_at": 1795574124,
+   "company": "WeRide",
+   "hours_open": 2014.3,
+   "title": "Software Engineer New Grad - Algorithm",
+   "uid": "simplify:listings:94d01de5-9fda-4158-938a-a669c956dc3e"
+  },
+  {
+   "closed_at": 1795574124,
+   "company": "WeRide",
+   "hours_open": 1990.0,
+   "title": "Software Engineer Intern - Perception/Computer Vision",
+   "uid": "simplify:listings:e1e46d1c-0205-405e-8063-32075566d4d4"
+  },
+  {
+   "closed_at": 1795574124,
+   "company": "andurilindustries",
+   "hours_open": 112.1,
+   "title": "Flight Test Engineer - Advanced Effects (Missiles)",
+   "uid": "greenhouse:andurilindustries:5213097007"
+  },
+  {
+   "closed_at": 1795574124,
+   "company": "accenturefederalservices",
+   "hours_open": 1691.3,
+   "title": "Full Stack Developer (Washington, DC)",
+   "uid": "greenhouse:accenturefederalservices:4711951006"
   }
  ],
- "count": 805,
- "updated_at": 1795556193
+ "count": 812,
+ "updated_at": 1795574124
 }
