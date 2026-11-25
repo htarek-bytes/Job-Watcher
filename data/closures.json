@@ -2,62 +2,6 @@
  "closed": [
   {
    "closed_at": 1795170448,
-   "company": "rivet",
-   "hours_open": 1865.5,
-   "title": "Software Engineer, Sensor Fusion",
-   "uid": "ashby:rivet:2fbe4713-3474-4b1e-87e9-1a84c9c49cb0"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "rocketlab",
-   "hours_open": 1570.2,
-   "title": "Operations Engineer",
-   "uid": "greenhouse:rocketlab:7792136003"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "rivet",
-   "hours_open": 1865.5,
-   "title": "Hardware Engineer, Power Management / Battery / BMS",
-   "uid": "ashby:rivet:545349a1-139e-4119-96fd-928d3e4ac8c9"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "rivet",
-   "hours_open": 1865.5,
-   "title": "Hardware Engineer, EE Design",
-   "uid": "ashby:rivet:be2d4cb1-5116-4533-9645-15e07c94ca81"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "spacex",
-   "hours_open": 1865.5,
-   "title": "Hardware Development Engineer- Microelectronics ",
-   "uid": "greenhouse:spacex:8613971002"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "spacex",
-   "hours_open": 1865.5,
-   "title": "Thermal Mechanical Test Engineer, Silicon Packaging (Starlink) ",
-   "uid": "greenhouse:spacex:8613825002"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "spacex",
-   "hours_open": 1865.5,
-   "title": "Site Reliability Engineer — HPC & Automation (Silicon Engineering)",
-   "uid": "greenhouse:spacex:8614963002"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "spacex",
-   "hours_open": 1865.5,
-   "title": "Environmental Health & Safety Engineer, Construction (Starlink)",
-   "uid": "greenhouse:spacex:8614340002"
-  },
-  {
-   "closed_at": 1795170448,
    "company": "spacex",
    "hours_open": 1865.5,
    "title": "Automation & Controls Engineer, Insource Manufacturing (Starlink)",
@@ -5599,8 +5543,64 @@
    "hours_open": 1384.9,
    "title": "Software Engineer Internship – Marketing and Digital Team",
    "uid": "smartrecruiters:WellmarkInc:744000152260188"
+  },
+  {
+   "closed_at": 1795616309,
+   "company": "Raydar",
+   "hours_open": 107.7,
+   "title": "Sales Engineer",
+   "uid": "workable:raydar:67FCA264E3"
+  },
+  {
+   "closed_at": 1795616309,
+   "company": "Raydar",
+   "hours_open": 514.9,
+   "title": "Growth Engineer",
+   "uid": "workable:raydar:1B3C93C20A"
+  },
+  {
+   "closed_at": 1795616309,
+   "company": "Raydar",
+   "hours_open": 631.3,
+   "title": "Full Stack AI Engineer",
+   "uid": "workable:raydar:730AEA7C9B"
+  },
+  {
+   "closed_at": 1795616309,
+   "company": "Genetec",
+   "hours_open": 1989.1,
+   "title": "Développeur(euse) logiciel / Software Developer (IAM)",
+   "uid": "workable:genetec-inc:4B8F9C7782"
+  },
+  {
+   "closed_at": 1795616309,
+   "company": "Raydar",
+   "hours_open": 631.3,
+   "title": "Software Engineer",
+   "uid": "workable:raydar:6C94A87668"
+  },
+  {
+   "closed_at": 1795616309,
+   "company": "Raydar",
+   "hours_open": 631.3,
+   "title": "Full-Stack Software Engineer",
+   "uid": "workable:raydar:7CB6E876D7"
+  },
+  {
+   "closed_at": 1795616309,
+   "company": "Raydar",
+   "hours_open": 107.7,
+   "title": "Forward Deployed Engineer",
+   "uid": "workable:raydar:9E0CA80740"
+  },
+  {
+   "closed_at": 1795616309,
+   "company": "Saalex",
+   "hours_open": 1335.7,
+   "title": "Applications Software Programmer",
+   "uid": "workable:saalex:2534F09970"
   }
  ],
  "count": 808,
- "updated_at": 1795613962
+ "updated_at": 1795616310
 }
