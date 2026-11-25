@@ -2,69 +2,6 @@
  "closed": [
   {
    "closed_at": 1795170448,
-   "company": "spacex",
-   "hours_open": 656.7,
-   "title": "Telecommunications Engineer",
-   "uid": "greenhouse:spacex:8913325002"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "accenturefederalservices",
-   "hours_open": 714.8,
-   "title": "DevOps Engineer",
-   "uid": "greenhouse:accenturefederalservices:4722580006"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "spacex",
-   "hours_open": 1865.5,
-   "title": "Software Engineer, Satellite Systems (Starshield)",
-   "uid": "greenhouse:spacex:8621508002"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "spacex",
-   "hours_open": 1865.5,
-   "title": "Wi-Fi Engineer, Hardware Reliability (Starlink)",
-   "uid": "greenhouse:spacex:8632015002"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "spacex",
-   "hours_open": 1865.5,
-   "title": "Application Software Engineer, Spaceport Experience",
-   "uid": "greenhouse:spacex:8632106002"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "northwoodspace",
-   "hours_open": 1890.5,
-   "title": "Software Engineer – General (Prism)",
-   "uid": "ashby:northwoodspace:b960b661-e1cc-40d0-bde3-290cd1b58ede"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "Prosync",
-   "hours_open": 660.2,
-   "title": "Security Specialist I (COMSEC/PHYSEC/INFOSEC/PERSEC)",
-   "uid": "workable:prosync:C4B9BAE615"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "spacex",
-   "hours_open": 1865.5,
-   "title": "Operations Engineer (Production)",
-   "uid": "greenhouse:spacex:8629084002"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "revel",
-   "hours_open": 1890.5,
-   "title": "Software Engineer - Test (Entry-Junior) ",
-   "uid": "ashby:revel:014c6445-bf8c-4213-ad97-faa83d129199"
-  },
-  {
-   "closed_at": 1795170448,
    "company": "palantir",
    "hours_open": 1344.6,
    "title": "Forward Deployed Infrastructure Engineer, Internship - US Government",
@@ -5599,8 +5536,71 @@
    "hours_open": 113.7,
    "title": "Software Development Engineer, Leo Ignition ",
    "uid": "amazon:amazon:10608840"
+  },
+  {
+   "closed_at": 1795581441,
+   "company": "zoox",
+   "hours_open": 102.7,
+   "title": "Software Engineer Intern, Autonomy Software [Summer 2027]",
+   "uid": "lever:zoox:7b20b929-d9a4-4995-a472-16cd4925a877"
+  },
+  {
+   "closed_at": 1795581441,
+   "company": "dlb-associates",
+   "hours_open": 1998.7,
+   "title": "Engineer I ",
+   "uid": "rippling:dlb-associates:408d94b6-2dcb-49b2-a8ff-165d08817170"
+  },
+  {
+   "closed_at": 1795581441,
+   "company": "weride",
+   "hours_open": 2007.7,
+   "title": "New Grads 2027 - Software Engineer, Algorithm",
+   "uid": "lever:weride:5a7cbc83-2381-482e-9d6d-e9c9d59ad63b"
+  },
+  {
+   "closed_at": 1795581441,
+   "company": "weride",
+   "hours_open": 2007.7,
+   "title": "New Grads 2027 - Software Engineer - Perception/Computer Vision",
+   "uid": "lever:weride:5cde0d09-ba2d-408d-947e-4a42028cd4f7"
+  },
+  {
+   "closed_at": 1795581441,
+   "company": "zoox",
+   "hours_open": 1976.7,
+   "title": "Software Engineer, ML Inference Optimization",
+   "uid": "lever:zoox:bc11276c-8db7-426e-9d00-d41c2097723a"
+  },
+  {
+   "closed_at": 1795581441,
+   "company": "wintermute-trading",
+   "hours_open": 1976.7,
+   "title": "C++ Quant Developer",
+   "uid": "lever:wintermute-trading:4cab7a75-4304-4590-90c5-6755dbd97d36"
+  },
+  {
+   "closed_at": 1795581441,
+   "company": "weride",
+   "hours_open": 1979.7,
+   "title": "Motion Planning Engineer",
+   "uid": "lever:weride:e151540c-f52c-4797-afef-6235f3ec8edc"
+  },
+  {
+   "closed_at": 1795581441,
+   "company": "journaltech",
+   "hours_open": 100.2,
+   "title": "Junior Data Integration Developer",
+   "uid": "rippling:journaltech:c16c782e-f2e0-490a-b3fc-061a5df2fa8d"
+  },
+  {
+   "closed_at": 1795581441,
+   "company": "veeva",
+   "hours_open": 1855.1,
+   "title": "Associate Software Engineer - 2027 Start Dates",
+   "uid": "lever:veeva:8fe22df0-02b4-453d-919c-c8998cf913f6"
   }
  ],
- "count": 813,
- "updated_at": 1795579785
+ "count": 809,
+ "updated_at": 1795581441
 }
