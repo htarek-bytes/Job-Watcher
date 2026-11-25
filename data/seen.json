@@ -1,5 +1,5 @@
 {
- "count": 12445,
+ "count": 12451,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -10906,6 +10906,7 @@
   "workday:dxctechnology.wd1/dxcjobs:Junior-Java-Developer--Mandarin-_51584524": 1789823880,
   "workday:dxctechnology.wd1/dxcjobs:Junior-Java-Developer--Mandarin-_51591599": 1791907434,
   "workday:dxctechnology.wd1/dxcjobs:Junior-Java-Developer_51584530": 1789823880,
+  "workday:earlywarning.wd5/earlywarningcareers:DevOps-Engineer-I_REQ20261087": 1795646861,
   "workday:ebi.wd5/ebadcareers:Analytical-Engineer-Intern_REQ107843": 1795368237,
   "workday:ebi.wd5/ebadcareers:Product-Engineer-Intern_REQ107697": 1789510394,
   "workday:ebi.wd5/ebicareers:New-Product-Development-Intern---Summer-2027_REQ107820-1": 1793351285,
@@ -10924,6 +10925,7 @@
   "workday:ensemblehp.wd5/ensemblehealthpartnerscareers:Solution-Engineer--Data-Governance_R048509": 1788753415,
   "workday:entegris.wd1/entegriscareers:Controls-Engineer-Co-Op_REQ-14676": 1792216167,
   "workday:entegris.wd1/entegriscareers:Cybersecurity-Engineer-Co-Op_REQ-14472-1": 1789070853,
+  "workday:entegris.wd1/entegriscareers:Materials-Solutions-Engineering-Intern---Summer-2027_REQ-15856": 1795646861,
   "workday:entegris.wd1/entegriscareers:Materials-Solutions-Engineering-Intern---Summer-2027_REQ-15860": 1795368237,
   "workday:entegris.wd1/entegriscareers:Mechanical-Test-Engineer-Co-Op_REQ-14477-1": 1789089172,
   "workday:entegris.wd1/entegriscareers:Quality-Engineer-Co-Op_REQ-14434": 1788979927,
@@ -10943,11 +10945,13 @@
   "workday:evergreenix.wd1/external-careers2:Software-Engineer-I_JR500748-1": 1789166059,
   "workday:evergreenix.wd1/external-careers2:Software-Engineer-I_JR500749-1": 1792017336,
   "workday:evergreenix.wd1/external-careers2:Software-Engineer-I_JR500927": 1793056982,
+  "workday:eversource.wd1/ExternalSite:Associate-Engineer--Asset-Management--hybrid-schedule-_R-031791-1": 1795646861,
   "workday:eversource.wd1/ExternalSite:Associate-Engineer--Grid-Modernization_R-032214": 1792461855,
   "workday:eversource.wd1/ExternalSite:Associate-Engineer--Grid-Operations-Technology--Hybrid-Schedule-_R-032080": 1792110409,
   "workday:eversource.wd1/ExternalSite:Associate-Engineer--Maintenance-Support_R-031423": 1788512368,
   "workday:eversource.wd1/ExternalSite:Associate-Engineer--Protection---Controls--hybrid-schedule-_R-031236": 1791643748,
   "workday:eversource.wd1/ExternalSite:Associate-Engineer--Transmission-System-Planning--MA--CT--NH-_R-031081": 1789510394,
+  "workday:eversource.wd1/ExternalSite:Associate-Engineer-Civil--Transmission-Line--Hybrid-Schedule-_R-032358": 1795646861,
   "workday:eversource.wd1/ExternalSite:Associate-Engineer-Grid-Operations-Technology--Hybrid-Schedule-_R-031790-1": 1788530938,
   "workday:eversource.wd1/ExternalSite:Associate-Engineer-Grid-Operations-Technology--Hybrid-_R-031666": 1790209733,
   "workday:eversource.wd1/ExternalSite:Distribution-Design-Associate-Engineer---Hartford--CT_R-032322": 1792695217,
@@ -11057,6 +11061,7 @@
   "workday:gevernova.wd5/vernova_externalsite:GE-Vernova-Software-Engineering---Co-op--Summer---Fall_R5051794-2": 1788465250,
   "workday:gevernova.wd5/vernova_externalsite:Ingnieur-junior-en-intgration-logicielle-GridOS---DevOps-F-H-----Junior-GridOS-Software-Integration-Engineer---DevOps_R5048048-3": 1788448251,
   "workday:gevernova.wd5/vernova_externalsite:Software-Engineering-Graduate-Programme-1_R5045896-2": 1790811719,
+  "workday:gevernova.wd5/vernova_externalsite:Software-Engineering-Intern_R5050069-1": 1795646861,
   "workday:ghr.wd1/us-emplsv:AI-Engineer---Data-Scientist-I_26038294-1": 1792578880,
   "workday:giro.wd10/GIRO:Dveloppeur-ou-Dveloppeuse-C---junior_R-100000346": 1795253950,
   "workday:giro.wd10/GIRO:Hiver-2027---Stagiaire-en-dveloppement-logiciel--Algorithmes-et-recherche-oprationnelle-_R-100000314": 1795253950,
@@ -11146,6 +11151,7 @@
   "workday:globalhr.wd5/rec_rtx_ext_gateway:Internship---Raytheon-Systems-Security-Engineer--Onsite_01874702": 1789510394,
   "workday:globalhr.wd5/rec_rtx_ext_gateway:Internship---Winter-2027---Software-Developer-Aerospace-Control-Systems---Web-Applications_01874412": 1789137582,
   "workday:globalhr.wd5/rec_rtx_ext_gateway:Junior-Network-Administrator--Analyst--Tewksbury--MA-ONSITE_01887174": 1793875447,
+  "workday:globalhr.wd5/rec_rtx_ext_gateway:Junior-Network-Administrator--Analyst--Tucson--AZ---Onsite--2-openings-_01891371": 1795646861,
   "workday:globalhr.wd5/rec_rtx_ext_gateway:Junior-Stress-Engineer_01871881": 1788843455,
   "workday:globalhr.wd5/rec_rtx_ext_gateway:Life-Cycle-Systems-Engineer-I_01872772-1": 1788947734,
   "workday:globalhr.wd5/rec_rtx_ext_gateway:Life-Cycle-Systems-Engineer-I_01880500": 1791293986,
@@ -12447,5 +12453,5 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Software-Engineering-Intern_R20923": 1795544022,
   "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541": 1789106107
  },
- "updated_at": 1795646420
+ "updated_at": 1795646861
 }

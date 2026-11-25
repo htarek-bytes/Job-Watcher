@@ -4,41 +4,6 @@
    "closed_at": 1795170448,
    "company": "spacex",
    "hours_open": 1865.5,
-   "title": "Manufacturing Integration Engineer (Starship)",
-   "uid": "greenhouse:spacex:8584156002"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "spacex",
-   "hours_open": 1884.4,
-   "title": "New Graduate Engineer, Launch & Test (Starship)",
-   "uid": "greenhouse:spacex:8578087002"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "spacex",
-   "hours_open": 1865.5,
-   "title": "Software Engineer, Network Observability (Starlink)",
-   "uid": "greenhouse:spacex:8577262002"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "spacex",
-   "hours_open": 1865.5,
-   "title": "CNC Programmer (Starship Components) - Level 4/5 (2nd Shift)",
-   "uid": "greenhouse:spacex:8581415002"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "spacex",
-   "hours_open": 1865.5,
-   "title": "Factory Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8574053002"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "spacex",
-   "hours_open": 1865.5,
    "title": "Test Engineer, Avionics (Starship)",
    "uid": "greenhouse:spacex:8582141002"
   },
@@ -5599,8 +5564,43 @@
    "hours_open": 819.8,
    "title": "Software Engineer Intern-Referral (Summer 2027)",
    "uid": "workday:draftkings.wd1/Employee_Referral_Portal:Software-Engineer-Intern-Referral--Summer-2027-_JR14932"
+  },
+  {
+   "closed_at": 1795646861,
+   "company": "geaerospace",
+   "hours_open": 45.0,
+   "title": "Applied AI Engineer Intern (m/f/d) – Spring 2027",
+   "uid": "workday:geaerospace.wd5/ge_externalsite:Applied-AI-Engineer-Intern--m-f-d----Spring-2027_R5043333-1"
+  },
+  {
+   "closed_at": 1795646861,
+   "company": "entegris",
+   "hours_open": 77.4,
+   "title": "Materials Solutions Engineering Intern - Summer 2027",
+   "uid": "workday:entegris.wd1/entegriscareers:Materials-Solutions-Engineering-Intern---Summer-2027_REQ-15860"
+  },
+  {
+   "closed_at": 1795646861,
+   "company": "Arya Health",
+   "hours_open": 2015.7,
+   "title": "software development programmer",
+   "uid": "jobbank:junior programmer:50148592"
+  },
+  {
+   "closed_at": 1795646861,
+   "company": "ghr",
+   "hours_open": 852.2,
+   "title": "AI Engineer - Data Scientist I",
+   "uid": "workday:ghr.wd1/us-emplsv:AI-Engineer---Data-Scientist-I_26038294-1"
+  },
+  {
+   "closed_at": 1795646861,
+   "company": "andurilindustries",
+   "hours_open": 1996.1,
+   "title": "Mission Systems Integration Engineer, Air Dominance & Strike, Active Clearance",
+   "uid": "greenhouse:andurilindustries:4998518007"
   }
  ],
- "count": 811,
- "updated_at": 1795646420
+ "count": 805,
+ "updated_at": 1795646861
 }
