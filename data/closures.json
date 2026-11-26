@@ -2,76 +2,6 @@
  "closed": [
   {
    "closed_at": 1795170448,
-   "company": "shieldai",
-   "hours_open": 1862.6,
-   "title": "Ground System Full Stack Software Engineer (R4787)",
-   "uid": "lever:shieldai:fe7531e1-c25e-4e4a-9661-19e3a2ab8e69"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "cgsfederal",
-   "hours_open": 1745.3,
-   "title": "Physical Security Specialist (PhySS) – Journeyman",
-   "uid": "lever:cgsfederal:32653193-df9c-488d-adb5-a4a2a6ed41d9"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "cgsfederal",
-   "hours_open": 1745.3,
-   "title": "Physical Security Specialist (PhySS) – Junior",
-   "uid": "lever:cgsfederal:9eb82118-50c3-4cb9-818b-f15ed1477d6e"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "cgsfederal",
-   "hours_open": 1745.3,
-   "title": "Personnel Security Specialist (PerSS) – Journeyman",
-   "uid": "lever:cgsfederal:722704a6-b82b-4bf4-a7ac-e925c14ddca5"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "cgsfederal",
-   "hours_open": 1745.3,
-   "title": "Personnel Security Specialist (PerSS) – Junior",
-   "uid": "lever:cgsfederal:bc55ce90-bad3-4a26-8b51-6ec64297cfae"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "voyagertechnologiesinc",
-   "hours_open": 1865.5,
-   "title": "Software Engineer",
-   "uid": "greenhouse:voyagertechnologiesinc:4206839009"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "spacex",
-   "hours_open": 1884.4,
-   "title": "New Graduate Engineer, Software",
-   "uid": "greenhouse:spacex:8493079002"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "spacex",
-   "hours_open": 1865.5,
-   "title": "Design Criteria Engineer (Starshield)",
-   "uid": "greenhouse:spacex:8492189002"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "spacex",
-   "hours_open": 1865.5,
-   "title": "Battery Test Engineer, Satellites (Starlink)",
-   "uid": "greenhouse:spacex:8488324002"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "twosixtechnologies",
-   "hours_open": 1853.5,
-   "title": "UI/UX Developer",
-   "uid": "greenhouse:twosixtechnologies:5838177004"
-  },
-  {
-   "closed_at": 1795170448,
    "company": "twosixtechnologies",
    "hours_open": 1853.5,
    "title": "Software Developer",
@@ -5599,8 +5529,78 @@
    "hours_open": 1819.0,
    "title": "Test and Launch Operations Engineer I",
    "uid": "greenhouse:rocketlab:7753212003"
+  },
+  {
+   "closed_at": 1795730404,
+   "company": "Vestwell",
+   "hours_open": 18.8,
+   "title": "Associate Software Engineer",
+   "uid": "simplify:listings:73abdb25-d3db-4ec4-8ebd-2716bebe3cae"
+  },
+  {
+   "closed_at": 1795730404,
+   "company": "Bullet Trade Services",
+   "hours_open": 34.3,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50790571"
+  },
+  {
+   "closed_at": 1795730404,
+   "company": "zscaler",
+   "hours_open": 116.7,
+   "title": "Software Development Engineer",
+   "uid": "greenhouse:zscaler:5283494007"
+  },
+  {
+   "closed_at": 1795730404,
+   "company": "crosscountry-consulting",
+   "hours_open": 144.7,
+   "title": "Jr. Forward Deployed Software Engineer - (VA)",
+   "uid": "lever:crosscountry-consulting:80bd96d8-b824-40ef-9cfe-01860583c4fe"
+  },
+  {
+   "closed_at": 1795730404,
+   "company": "crosscountry-consulting",
+   "hours_open": 144.7,
+   "title": "Jr. Forward Deployed Software Engineer - (GA)",
+   "uid": "lever:crosscountry-consulting:dc96666d-77b0-4bc8-b209-a0b9250324a0"
+  },
+  {
+   "closed_at": 1795730404,
+   "company": "crosscountry-consulting",
+   "hours_open": 144.7,
+   "title": "Jr. Forward Deployed Software Engineer - (PA)",
+   "uid": "lever:crosscountry-consulting:5f8a920b-77ed-4200-b37d-1f5d68c1bc21"
+  },
+  {
+   "closed_at": 1795730404,
+   "company": "cssmerge",
+   "hours_open": 1036.9,
+   "title": "Software Engineering Intern - 2027 Winter Term ",
+   "uid": "greenhouse:cssmerge:8888411002"
+  },
+  {
+   "closed_at": 1795730404,
+   "company": "atoms",
+   "hours_open": 147.2,
+   "title": "Software Engineering Intern - 2027 Winter Term ",
+   "uid": "greenhouse:atoms:8356071002"
+  },
+  {
+   "closed_at": 1795730404,
+   "company": "truveta",
+   "hours_open": 1024.6,
+   "title": "Software Engineer - Security & Trust",
+   "uid": "greenhouse:truveta:6224827004"
+  },
+  {
+   "closed_at": 1795730404,
+   "company": "andurilindustries",
+   "hours_open": 845.9,
+   "title": "Systems Engineer, Enterprise Mesh (Active Clearance)",
+   "uid": "greenhouse:andurilindustries:5232483007"
   }
  ],
- "count": 812,
- "updated_at": 1795707693
+ "count": 810,
+ "updated_at": 1795730405
 }
