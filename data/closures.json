@@ -2,69 +2,6 @@
  "closed": [
   {
    "closed_at": 1795170448,
-   "company": "wyetechllc",
-   "hours_open": 1865.5,
-   "title": "Platform Engineer (Hybrid) - 28016",
-   "uid": "lever:wyetechllc:66a5b341-27a9-42d7-a76e-7558e62ba74c"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "Saalex",
-   "hours_open": 1564.1,
-   "title": "Cybersecurity Engineer I",
-   "uid": "workable:saalex:7EC6013170"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "Saalex",
-   "hours_open": 1564.1,
-   "title": "Field Service Engineer I",
-   "uid": "workable:saalex:687596275A"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "Saalex",
-   "hours_open": 1564.1,
-   "title": "Network Engineer I",
-   "uid": "workable:saalex:157AAA6F30"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "Saalex",
-   "hours_open": 1564.1,
-   "title": "System Administrator I",
-   "uid": "workable:saalex:E0F617B2F4"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "Saalex",
-   "hours_open": 1564.1,
-   "title": "Systems Engineer I",
-   "uid": "workable:saalex:245BFB87D7"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "spacex",
-   "hours_open": 1262.2,
-   "title": "Antenna Engineer (Starshield)",
-   "uid": "greenhouse:spacex:8511245002"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "spacex",
-   "hours_open": 1865.5,
-   "title": "CNC Programmer (Starship Components) - Level 4/5   ",
-   "uid": "greenhouse:spacex:8509075002"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "wyetechllc",
-   "hours_open": 1893.5,
-   "title": "System Engineer 1",
-   "uid": "lever:wyetechllc:66e3bccd-e2dc-45ea-a567-c1ae4834a4f1"
-  },
-  {
-   "closed_at": 1795170448,
    "company": "palantir",
    "hours_open": 1552.1,
    "title": "Information Security Engineer - Insider Risk",
@@ -5599,8 +5536,71 @@
    "hours_open": 2048.4,
    "title": "Junior Full Stack Engineer (Java/React)",
    "uid": "simplify:listings:c3a3c254-2d83-4f25-8ee6-609bfa5a7c34"
+  },
+  {
+   "closed_at": 1795701917,
+   "company": "samsara",
+   "hours_open": 1.3,
+   "title": "Enterprise Core Sales Engineer - UK",
+   "uid": "greenhouse:samsara:8417306"
+  },
+  {
+   "closed_at": 1795701917,
+   "company": "secureframe",
+   "hours_open": 112.1,
+   "title": "Presales Solutions Engineer, GRC",
+   "uid": "ashby:secureframe:e9a31be3-be71-4490-b77e-bdecafe9ca49"
+  },
+  {
+   "closed_at": 1795701917,
+   "company": "saronic",
+   "hours_open": 144.8,
+   "title": "Mission Operations Engineer (Platform)",
+   "uid": "ashby:saronic:f73913ec-a836-4160-b84b-7634f55988cc"
+  },
+  {
+   "closed_at": 1795701917,
+   "company": "knak",
+   "hours_open": 1487.3,
+   "title": "Intermediate Software Developer, Editor",
+   "uid": "greenhouse:knak:4737963005"
+  },
+  {
+   "closed_at": 1795701917,
+   "company": "alayacare",
+   "hours_open": 1681.9,
+   "title": "Intern, Security Analyst - Winter Semester 2027",
+   "uid": "greenhouse:alayacare:8811336002"
+  },
+  {
+   "closed_at": 1795701917,
+   "company": "knak",
+   "hours_open": 2013.1,
+   "title": "Software Developer ",
+   "uid": "greenhouse:knak:4725427005"
+  },
+  {
+   "closed_at": 1795701917,
+   "company": "roadrunner",
+   "hours_open": 1216.8,
+   "title": "Forward Deployed Engineer (New Grad) ",
+   "uid": "ashby:roadrunner:c82b1987-bb02-4420-8fa2-b79075b04480"
+  },
+  {
+   "closed_at": 1795701917,
+   "company": "saronic",
+   "hours_open": 144.8,
+   "title": "Mission Operations Engineer (Program)",
+   "uid": "ashby:saronic:1450e6a3-5784-4acf-b8f0-292c2dc0764e"
+  },
+  {
+   "closed_at": 1795701917,
+   "company": "saronic",
+   "hours_open": 144.8,
+   "title": "Network Engineer",
+   "uid": "ashby:saronic:757b12ba-28da-4662-ae46-7c9f299dba5b"
   }
  ],
- "count": 806,
- "updated_at": 1795697190
+ "count": 809,
+ "updated_at": 1795701917
 }
