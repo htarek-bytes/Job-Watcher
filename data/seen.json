@@ -1,5 +1,5 @@
 {
- "count": 12478,
+ "count": 12483,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -12289,6 +12289,7 @@
   "workday:td.wd3/TD_Bank_Careers:Software-Engineer-I_R_1508757": 1790016169,
   "workday:td.wd3/TD_Bank_Careers:Software-Engineer-I_R_1511144": 1790399844,
   "workday:td.wd3/TD_Bank_Careers:Software-Engineer-I_R_1514704-1": 1791388468,
+  "workday:td.wd3/TD_Bank_Careers:Software-Engineer-I_R_1519716-1": 1795667567,
   "workday:td.wd3/TD_Bank_Careers:XMLNAME-2027-Spring-Co-op---Global-Technology---Solutions---Software-Engineer--SWE-_R_1509773": 1789568688,
   "workday:td.wd3/TD_Bank_Careers:XMLNAME-2027-Summer-Analyst---Software-Engineering-Rotational-Program--New-York-City-_R_1508053": 1788394042,
   "workday:td.wd3/TD_Bank_Careers:XMLNAME-2027-Summer-Analyst---Software-Engineering-Rotational-Program--Toronto-_R_1509435": 1788843732,
@@ -12315,6 +12316,7 @@
   "workday:thomsonreuters.wd5/External_Career_Site:Software-Engineer-1_JREQ203998": 1790820503,
   "workday:thomsonreuters.wd5/External_Career_Site:Software-Engineer-Co-Op_JREQ203587": 1790993922,
   "workday:thomsonreuters.wd5/External_Career_Site:Software-Engineer-I_JREQ204719": 1793705091,
+  "workday:thrivent.wd5/external:Associate-Engineer---QA--Thrivent-Asset-Management_REQ-48353": 1795667567,
   "workday:thrivent.wd5/external:Associate-Software-Engineer---Junior-Intern-Summer-2027_REQ-48334": 1792022723,
   "workday:thrivent.wd5/external:IT-Application-Engineer-Intern--Investments---Summer-2027_REQ-48511-2": 1792022723,
   "workday:tjx.wd1/tjx_external:Business-Intelligence---Automation-Analyst-Co-op_REQ145459": 1788903151,
@@ -12336,7 +12338,9 @@
   "workday:tmobile.wd1/External:Summer-2027-Software-Engineering-AI-Internship_REQ382067": 1795280226,
   "workday:tmobile.wd1/External:Summer-2027-Software-Engineering-Intern_REQ368322": 1792126109,
   "workday:tmobile.wd1/External:Summer-2027-Software-Engineering-Intern_REQ381362": 1795280226,
+  "workday:tmobile.wd1/External:Summer-2027-Software-Engineering-Intern_REQ381368": 1795667567,
   "workday:tmobile.wd1/External:Summer-2027-Software-Engineering-Internship_REQ380441": 1793219579,
+  "workday:tmobile.wd1/External:Summer-2027-Software-Engineering-Internship_REQ380459": 1795667567,
   "workday:tmobile.wd1/External:Summer-2027-Software-Engineering-Internship_REQ380652": 1793902819,
   "workday:tmobile.wd1/External:Summer-2027-Software-Engineering-Internship_REQ380886": 1793808448,
   "workday:tmobile.wd1/External:Summer-2027-Software-Engineering-Internship_REQ381366": 1795280226,
@@ -12404,6 +12408,7 @@
   "workday:usaa.wd1/USAAJOBSWD:Software-Engineer---Entry-Level_R0121057-1": 1793219579,
   "workday:usaa.wd1/USAAJOBSWD:Software-Engineer-I_R0120279-1": 1791241882,
   "workday:usaa.wd1/USAAJOBSWD:Software-Engineer-I_R0120356": 1790888920,
+  "workday:usaa.wd1/USAAJOBSWD:Software-Engineer-I_R0122824": 1795667567,
   "workday:usaa.wd1/USAAJOBSWD:Visualization-Engineer-Intern_R0121201": 1790128196,
   "workday:usbank.wd1/US_Bank_Careers:Associate-Software-Engineer--Back-end-Distributed-systems-_2026-0034153": 1795170448,
   "workday:usbank.wd1/US_Bank_Careers:XMLNAME-NET-Software-Engineer-1_2026-0026601-1": 1789336246,
@@ -12480,5 +12485,5 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Software-Engineering-Intern_R20923": 1795544022,
   "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541": 1789106107
  },
- "updated_at": 1795666982
+ "updated_at": 1795667568
 }
