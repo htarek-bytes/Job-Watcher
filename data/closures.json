@@ -2,90 +2,6 @@
  "closed": [
   {
    "closed_at": 1795170448,
-   "company": "spacex",
-   "hours_open": 1865.5,
-   "title": "Full Stack Software Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8501225002"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "spacex",
-   "hours_open": 1865.5,
-   "title": "Launch Engineer, Fluid Systems (Starship)",
-   "uid": "greenhouse:spacex:8504994002"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "Leidos",
-   "hours_open": 546.9,
-   "title": "Junior Software Engineer",
-   "uid": "simplify:listings:b0f48ab2-fa93-4288-9a16-412d0dfbc180"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "spacex",
-   "hours_open": 1865.5,
-   "title": "Software Engineer (Starshield)",
-   "uid": "greenhouse:spacex:8605075002"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "spacex",
-   "hours_open": 1865.5,
-   "title": "Failure Analysis Engineer, Microelectronics (Starlink)",
-   "uid": "greenhouse:spacex:8498761002"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "agile-defense",
-   "hours_open": 423.7,
-   "title": "Software Engineer",
-   "uid": "lever:agile-defense:a65bd26e-7b3e-4a95-b57d-5d722ced8176"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "spacex",
-   "hours_open": 1865.5,
-   "title": "Hardware Test Engineer (Starlink)",
-   "uid": "greenhouse:spacex:8565090002"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "spacex",
-   "hours_open": 1865.5,
-   "title": "Operations Engineer (Starlink Growth)",
-   "uid": "greenhouse:spacex:8496306002"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "Prosync",
-   "hours_open": 660.2,
-   "title": "Technical Instructor/Curriculum Developer",
-   "uid": "workable:prosync:46E2374E04"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "spacex",
-   "hours_open": 1884.4,
-   "title": "New Graduate Engineer, Mechanical",
-   "uid": "greenhouse:spacex:8497524002"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "rocketlab",
-   "hours_open": 377.0,
-   "title": "Fluid Systems Engineer I",
-   "uid": "greenhouse:rocketlab:7680875003"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "spacex",
-   "hours_open": 1865.5,
-   "title": "Software Engineer (Platform Team)",
-   "uid": "greenhouse:spacex:8560546002"
-  },
-  {
-   "closed_at": 1795170448,
    "company": "shieldai",
    "hours_open": 1862.6,
    "title": "Ground System Full Stack Software Engineer (R4787)",
@@ -5599,8 +5515,92 @@
    "hours_open": 140.3,
    "title": "Software Developer I",
    "uid": "bamboohr:zeptolife:143"
+  },
+  {
+   "closed_at": 1795707692,
+   "company": "redwoodmaterials",
+   "hours_open": 149.2,
+   "title": "Software Engineer - Site Controller, Energy Storage",
+   "uid": "greenhouse:redwoodmaterials:6248625004"
+  },
+  {
+   "closed_at": 1795707692,
+   "company": "Powerline Plus",
+   "hours_open": 149.2,
+   "title": "cloud administrator",
+   "uid": "jobbank:cloud administrator:50746940"
+  },
+  {
+   "closed_at": 1795707692,
+   "company": "relativity",
+   "hours_open": 1199.8,
+   "title": "Instrumentation & Controls Engineer I ",
+   "uid": "greenhouse:relativity:8870944002"
+  },
+  {
+   "closed_at": 1795707692,
+   "company": "spacex",
+   "hours_open": 138.7,
+   "title": "IT Systems Administrator, IT Applications",
+   "uid": "greenhouse:spacex:8940633002"
+  },
+  {
+   "closed_at": 1795707692,
+   "company": "spacex",
+   "hours_open": 138.7,
+   "title": "Telecommunications Engineer, Fiber",
+   "uid": "greenhouse:spacex:8934055002"
+  },
+  {
+   "closed_at": 1795707692,
+   "company": "spacex",
+   "hours_open": 138.7,
+   "title": "Environmental Health & Safety Engineer",
+   "uid": "greenhouse:spacex:8933589002"
+  },
+  {
+   "closed_at": 1795707692,
+   "company": "spacex",
+   "hours_open": 2011.8,
+   "title": "Security Software Engineer (Starlink)",
+   "uid": "greenhouse:spacex:8719860002"
+  },
+  {
+   "closed_at": 1795707692,
+   "company": "spacex",
+   "hours_open": 2014.7,
+   "title": "Network Software Integration Engineer (Starlink) ",
+   "uid": "greenhouse:spacex:8599648002"
+  },
+  {
+   "closed_at": 1795707692,
+   "company": "spacex",
+   "hours_open": 2014.7,
+   "title": "Software Engineer, Low Latency Computing (Starlink)   ",
+   "uid": "greenhouse:spacex:8578923002"
+  },
+  {
+   "closed_at": 1795707692,
+   "company": "spacex",
+   "hours_open": 2014.7,
+   "title": "Software Engineer, High Performance Computing (Starlink)",
+   "uid": "greenhouse:spacex:8578931002"
+  },
+  {
+   "closed_at": 1795707692,
+   "company": "spacex",
+   "hours_open": 2014.7,
+   "title": "Software Engineer, Beam Planning (Starlink)   ",
+   "uid": "greenhouse:spacex:8578929002"
+  },
+  {
+   "closed_at": 1795707692,
+   "company": "rocketlab",
+   "hours_open": 1819.0,
+   "title": "Test and Launch Operations Engineer I",
+   "uid": "greenhouse:rocketlab:7753212003"
   }
  ],
- "count": 801,
- "updated_at": 1795705354
+ "count": 812,
+ "updated_at": 1795707693
 }
