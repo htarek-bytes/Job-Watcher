@@ -2,41 +2,6 @@
  "closed": [
   {
    "closed_at": 1795170448,
-   "company": "trueanomalyinc",
-   "hours_open": 1865.5,
-   "title": "GNC Engineer, RPO",
-   "uid": "greenhouse:trueanomalyinc:5000652007"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "wyetechllc",
-   "hours_open": 1565.3,
-   "title": "Information Systems Security Officer 1",
-   "uid": "lever:wyetechllc:a93d5107-a528-48a2-8474-34490893b9eb"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "palantir",
-   "hours_open": 1893.5,
-   "title": "Forward Deployed Infrastructure Engineer, New Grad - US Government",
-   "uid": "lever:palantir:701a9307-0619-45d3-b077-cabe9897cd12"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "Avalore, LLC",
-   "hours_open": 1878.2,
-   "title": "Software Engineer, Level 1",
-   "uid": "workable:avalore:E58EE9FF24"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "Avalore, LLC",
-   "hours_open": 1878.2,
-   "title": "System Engineer, Level 1",
-   "uid": "workable:avalore:21C454DF00"
-  },
-  {
-   "closed_at": 1795170448,
    "company": "wyetechllc",
    "hours_open": 1893.5,
    "title": "Test Engineer 1",
@@ -5599,8 +5564,43 @@
    "hours_open": 2068.0,
    "title": "Software Engineer – University Graduate",
    "uid": "simplify:listings:410b28b6-b357-4b72-9480-bad83701b4cb"
+  },
+  {
+   "closed_at": 1795787446,
+   "company": "Ville de Québec",
+   "hours_open": 85.8,
+   "title": "programmer analyst",
+   "uid": "jobbank:junior programmer:50788733"
+  },
+  {
+   "closed_at": 1795787446,
+   "company": "Source Code",
+   "hours_open": 5.5,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:systems analyst:50811627"
+  },
+  {
+   "closed_at": 1795787446,
+   "company": "ebi",
+   "hours_open": 1743.6,
+   "title": "Product Engineer Intern",
+   "uid": "workday:ebi.wd5/ebadcareers:Product-Engineer-Intern_REQ107697"
+  },
+  {
+   "closed_at": 1795787446,
+   "company": "globalhr",
+   "hours_open": 39.1,
+   "title": "Junior Network Administrator, Analyst, Tucson, AZ – Onsite (2 openings)",
+   "uid": "workday:globalhr.wd5/rec_rtx_ext_gateway:Junior-Network-Administrator--Analyst--Tucson--AZ---Onsite--2-openings-_01891371"
+  },
+  {
+   "closed_at": 1795787446,
+   "company": "giro",
+   "hours_open": 148.2,
+   "title": "Junior C++ Developer",
+   "uid": "workday:giro.wd10/GIRO:Dveloppeur-ou-Dveloppeuse-C---junior_R-100000346"
   }
  ],
- "count": 811,
- "updated_at": 1795767513
+ "count": 805,
+ "updated_at": 1795787446
 }
