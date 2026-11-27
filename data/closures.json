@@ -2,55 +2,6 @@
  "closed": [
   {
    "closed_at": 1795170448,
-   "company": "wyetechllc",
-   "hours_open": 1893.5,
-   "title": "Test Engineer 1",
-   "uid": "lever:wyetechllc:a00a1955-60ec-4db1-bede-97dddb6890b2"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "shieldai",
-   "hours_open": 1862.6,
-   "title": "Ground Control Station (GCS) Software Engineer (R4758)",
-   "uid": "lever:shieldai:cf148e69-2ca0-4bfd-a4cc-af214bfcce8a"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "wyetechllc",
-   "hours_open": 1575.4,
-   "title": "Cloud Software Engineer 1",
-   "uid": "lever:wyetechllc:3e55509d-619b-43d2-836a-0830b8ad5f92"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "palantir",
-   "hours_open": 1865.5,
-   "title": "Forward Deployed Software Engineer  - Edge Autonomous Systems",
-   "uid": "lever:palantir:27bf5707-96fa-460e-8a5b-53bc192ca87b"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "havocai",
-   "hours_open": 684.0,
-   "title": "Mission Software Engineer - Honolulu, HI",
-   "uid": "ashby:havocai:6214439d-c450-467a-8b6d-b2be0399f048"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "xai",
-   "hours_open": 1853.5,
-   "title": "IT Systems Engineer",
-   "uid": "greenhouse:xai:4871633007"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "shieldai",
-   "hours_open": 1662.0,
-   "title": "Software Test Automation Engineer (R4719)",
-   "uid": "lever:shieldai:d0635c93-bb07-4585-80d3-c53aaa2fdf6d"
-  },
-  {
-   "closed_at": 1795170448,
    "company": "andurilindustries",
    "hours_open": 1863.8,
    "title": "Software Engineer, Full Stack",
@@ -5599,8 +5550,57 @@
    "hours_open": 148.2,
    "title": "Junior C++ Developer",
    "uid": "workday:giro.wd10/GIRO:Dveloppeur-ou-Dveloppeuse-C---junior_R-100000346"
+  },
+  {
+   "closed_at": 1795789523,
+   "company": "nimblerobotics",
+   "hours_open": 172.0,
+   "title": "Robotics Sustainment Engineer",
+   "uid": "greenhouse:nimblerobotics:4507137009"
+  },
+  {
+   "closed_at": 1795789523,
+   "company": "kiongroup",
+   "hours_open": 148.2,
+   "title": "Java Software Engineer Intern",
+   "uid": "workday:kiongroup.wd3/KION_SCS:Java-Software-Engineer-Intern_JR-0099045"
+  },
+  {
+   "closed_at": 1795789523,
+   "company": "hp",
+   "hours_open": 148.2,
+   "title": "Hybrid Systems, Pre-Sales Engineer",
+   "uid": "workday:hp.wd5/EXTEU-AC-CareerSite:Hybrid-Systems--Pre-Sales-Engineer_3171119"
+  },
+  {
+   "closed_at": 1795789523,
+   "company": "kla",
+   "hours_open": 147.5,
+   "title": "Software Application Engineer Intern",
+   "uid": "workday:kla.wd1/UR:Software-Application-Engineer-Intern_2643260"
+  },
+  {
+   "closed_at": 1795789523,
+   "company": "halma",
+   "hours_open": 148.2,
+   "title": "Business Development Specialist - Global Energy & Emerging Markets (Early Career)",
+   "uid": "workday:halma.wd3/Halma:Business-Development-Specialist---Global-Energy---Emerging-Markets--Early-Career-_JR26_001286"
+  },
+  {
+   "closed_at": 1795789523,
+   "company": "kyndryl",
+   "hours_open": 147.5,
+   "title": "Early Career Consult Program - Associate Data Engineer",
+   "uid": "workday:kyndryl.wd5/KyndrylEarlyCareers:Data-Engineer_R-66870-1"
+  },
+  {
+   "closed_at": 1795789523,
+   "company": "hpe",
+   "hours_open": 1077.2,
+   "title": "Technical Sales Graduate",
+   "uid": "workday:hpe.wd5/acjobsite:Technical-Sales-Graduate_1213591"
   }
  ],
- "count": 805,
- "updated_at": 1795787446
+ "count": 807,
+ "updated_at": 1795789523
 }
