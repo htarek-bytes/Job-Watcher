@@ -1,132 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1795170448,
-   "company": "palantir",
-   "hours_open": 1877.8,
-   "title": "Software Engineer, Internship",
-   "uid": "lever:palantir:373eb939-6f57-4836-8479-be79a5e07249"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "palantir",
-   "hours_open": 1893.5,
-   "title": "Software Engineer, New Grad",
-   "uid": "lever:palantir:94984771-0704-446c-88c6-91ce748f6d92"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "palantir",
-   "hours_open": 1865.5,
-   "title": "Site Reliability Operations Analyst - US Government",
-   "uid": "lever:palantir:7d91ca36-1e23-4603-b0f1-82a835e27d3f"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "palantir",
-   "hours_open": 1865.5,
-   "title": "DevOps Engineer",
-   "uid": "lever:palantir:51ea4a3b-7764-4c87-96e4-310e19c856d5"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "Amazon",
-   "hours_open": 371.7,
-   "title": "Software Dev Engineer, Antenna Calibration, Amazon Leo",
-   "uid": "amazon:amazon:10597211"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "Amazon",
-   "hours_open": 373.0,
-   "title": "Software Development Engineer, Provisioning - Amazon Leo",
-   "uid": "amazon:amazon:10596901"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "Amazon",
-   "hours_open": 353.6,
-   "title": "Software Development Engineer , Inventory Accounting",
-   "uid": "amazon:amazon:10597749"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "Amazon",
-   "hours_open": 375.7,
-   "title": "Software Development Engineer, Leo Telemetry Platform",
-   "uid": "amazon:amazon:10596691"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "Amazon",
-   "hours_open": 396.8,
-   "title": "Software Development Engineer, AI Foundations, Amazon Leo Networking Software",
-   "uid": "amazon:amazon:10595931"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "Amazon",
-   "hours_open": 417.1,
-   "title": "Embedded Software Engineer, Leo Payload Radio",
-   "uid": "amazon:amazon:10594927"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "Amazon",
-   "hours_open": 417.1,
-   "title": "Embedded SDE, Payload Radio Gateway",
-   "uid": "amazon:amazon:10594926"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "Amazon",
-   "hours_open": 352.3,
-   "title": "Software Development Engineer, Amazon Leo, Early Career - 2027 (US)",
-   "uid": "amazon:amazon:10597803"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "Amazon",
-   "hours_open": 518.1,
-   "title": "Embedded Software Dev Engineer, Amazon Leo Customer Terminal Software",
-   "uid": "amazon:amazon:10592923"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "Amazon",
-   "hours_open": 518.1,
-   "title": "Embedded Software Dev Engineer, Amazon Leo ",
-   "uid": "amazon:amazon:10592922"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "Amazon",
-   "hours_open": 352.3,
-   "title": "Software Development Engineer, Everglades",
-   "uid": "amazon:amazon:10597786"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "Amazon",
-   "hours_open": 571.8,
-   "title": "Software Development Engineer, US ADC Security ",
-   "uid": "amazon:amazon:10589836"
-  },
-  {
-   "closed_at": 1795170448,
-   "company": "caci",
-   "hours_open": 505.4,
-   "title": "Software Engineering Co-op/Intern - Summer 2027",
-   "uid": "workday:caci.wd1/external:Software-Engineering-Co-op-Intern---Spring-2027_334160"
-  },
-  {
-   "closed_at": 1795179122,
-   "company": "ProServeIT Corporation",
-   "hours_open": 2.4,
-   "title": "cybersecurity analyst",
-   "uid": "jobbank:analyste en cybersecurite:50716335"
-  },
-  {
    "closed_at": 1795179122,
    "company": "Englobe Corp.",
    "hours_open": 2.4,
@@ -5599,8 +5473,134 @@
    "hours_open": 145.5,
    "title": "Solutions Engineer - Global",
    "uid": "workday:shi.wd12/shicareers:Solutions-Engineer---Global_JR4016"
+  },
+  {
+   "closed_at": 1795818416,
+   "company": "Source Code",
+   "hours_open": 14.1,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:systems analyst:50811627"
+  },
+  {
+   "closed_at": 1795818416,
+   "company": "stripe",
+   "hours_open": 95.7,
+   "title": "Software Engineer, Core Technology",
+   "uid": "greenhouse:stripe:8411988"
+  },
+  {
+   "closed_at": 1795818416,
+   "company": "coram-ai",
+   "hours_open": 148.8,
+   "title": "GTM Engineer",
+   "uid": "ashby:coram-ai:1f10faa4-cae1-4953-b7e0-531a6acb0ec1"
+  },
+  {
+   "closed_at": 1795818416,
+   "company": "Revenu québec",
+   "hours_open": 95.7,
+   "title": "full stack Web developer",
+   "uid": "jobbank:developpeur junior:50787405"
+  },
+  {
+   "closed_at": 1795818416,
+   "company": "Maarut",
+   "hours_open": 33.7,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50806641"
+  },
+  {
+   "closed_at": 1795818416,
+   "company": "d2l",
+   "hours_open": 677.2,
+   "title": "Software Test Developer",
+   "uid": "greenhouse:d2l:1273753"
+  },
+  {
+   "closed_at": 1795818416,
+   "company": "tmobile",
+   "hours_open": 149.5,
+   "title": "Summer 2027 Software Engineering AI Internship",
+   "uid": "workday:tmobile.wd1/External:Summer-2027-Software-Engineering-AI-Internship_REQ382067"
+  },
+  {
+   "closed_at": 1795818416,
+   "company": "visa",
+   "hours_open": 180.0,
+   "title": "Software Engineer Intern",
+   "uid": "workday:visa.wd5/Visa:Software-Engineer-Intern_REF090467W-1"
+  },
+  {
+   "closed_at": 1795818416,
+   "company": "Appodeal",
+   "hours_open": 58.7,
+   "title": "Junior Software Engineer",
+   "uid": "simplify:listings:ec63f9af-9d7b-4d83-859f-b199f9f3c0ac"
+  },
+  {
+   "closed_at": 1795818416,
+   "company": "visa",
+   "hours_open": 76.2,
+   "title": "Global Safety & Security Systems Analyst – Physical Security Systems Solutions Engineering Physical Security Technology",
+   "uid": "workday:visa.wd5/Visa:Global-Safety---Security-Systems-Analyst---Physical-Security-Systems-Solutions-Engineering-Physical-Security-Technology_REF088925W"
+  },
+  {
+   "closed_at": 1795818416,
+   "company": "databricks",
+   "hours_open": 871.7,
+   "title": "Associate Forward Deployed Engineer",
+   "uid": "greenhouse:databricks:8907988002"
+  },
+  {
+   "closed_at": 1795818416,
+   "company": "crusoe",
+   "hours_open": 1009.1,
+   "title": "AI Tools Engineer, Storage Infrastructure",
+   "uid": "ashby:crusoe:fb2f4059-00a0-4e89-a58b-2e8d7a3ed0c6"
+  },
+  {
+   "closed_at": 1795818416,
+   "company": "coram-ai",
+   "hours_open": 1369.3,
+   "title": "Sales Development Associate (Entry-Level Tech Sales)",
+   "uid": "ashby:coram-ai:81730a43-4842-4ce2-9d60-4b398b565558"
+  },
+  {
+   "closed_at": 1795818416,
+   "company": "crusoe",
+   "hours_open": 2042.5,
+   "title": "Engineer, Load Integration & Model Development",
+   "uid": "ashby:crusoe:9e569e68-2026-4c5d-98d3-2b7579182299"
+  },
+  {
+   "closed_at": 1795818416,
+   "company": "crusoe",
+   "hours_open": 1872.0,
+   "title": "Associate Construction Engineer - Power Infrastructure",
+   "uid": "ashby:crusoe:91475b33-9f0e-4594-a425-cde5c5335cde"
+  },
+  {
+   "closed_at": 1795818416,
+   "company": "corvus-robotics",
+   "hours_open": 177.6,
+   "title": "Quality & Integration Engineer",
+   "uid": "ashby:corvus-robotics:a23176d1-2553-4c03-bf0d-897a40dd54d5"
+  },
+  {
+   "closed_at": 1795818416,
+   "company": "coram-ai",
+   "hours_open": 1750.0,
+   "title": "Mechanical + Hardware Design Engineer",
+   "uid": "ashby:coram-ai:3dbdcba0-0d78-4e98-b62a-126572a4f01d"
+  },
+  {
+   "closed_at": 1795818416,
+   "company": "tmobile",
+   "hours_open": 41.9,
+   "title": "Summer 2027 Software Engineering Internship",
+   "uid": "workday:tmobile.wd1/External:Summer-2027-Software-Engineering-Internship_REQ380459"
   }
  ],
- "count": 807,
- "updated_at": 1795803523
+ "count": 818,
+ "updated_at": 1795818416
 }

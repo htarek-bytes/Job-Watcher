@@ -1,5 +1,5 @@
 {
- "count": 12603,
+ "count": 12610,
  "uids": {
   "amazon:amazon:10512552": 1788454653,
   "amazon:amazon:10512990": 1788454653,
@@ -557,6 +557,7 @@
   "amazon:amazon:10614355": 1795639336,
   "amazon:amazon:10614480": 1795646419,
   "amazon:amazon:10615936": 1795793328,
+  "amazon:amazon:10615996": 1795818416,
   "ashby:1password:00f861d4-2b4a-4159-b6dc-8aed0cde6e39": 1792768274,
   "ashby:1password:13200311-77c5-49ed-a3ce-8460d5c72d91": 1795170448,
   "ashby:1password:15658971-e4f4-490b-97fe-5e716ddab770": 1795170448,
@@ -5473,6 +5474,7 @@
   "greenhouse:stripe:8394936": 1795544022,
   "greenhouse:stripe:8406660": 1795200410,
   "greenhouse:stripe:8411988": 1795473862,
+  "greenhouse:stripe:8421452": 1795818416,
   "greenhouse:super:4956188101": 1788454653,
   "greenhouse:superapp:8819374002": 1793474624,
   "greenhouse:systemstechnologyresearch:4661065006": 1788887337,
@@ -6149,6 +6151,7 @@
   "jobbank:developpeur junior:50807881": 1795730404,
   "jobbank:developpeur junior:50813655": 1795803521,
   "jobbank:developpeur junior:50814062": 1795803521,
+  "jobbank:developpeur junior:50815401": 1795818416,
   "jobbank:entry level software developer:50032299": 1788390279,
   "jobbank:entry level software developer:50197990": 1788390279,
   "jobbank:entry level software developer:50208511": 1788390279,
@@ -6191,6 +6194,7 @@
   "jobbank:entry level software developer:50626224": 1793902819,
   "jobbank:entry level software developer:50665724": 1793902819,
   "jobbank:entry level software developer:50666621": 1793890620,
+  "jobbank:entry level software developer:50817186": 1795818416,
   "jobbank:information security analyst:50592837": 1793117178,
   "jobbank:information security analyst:50651032": 1793743559,
   "jobbank:information security analyst:50683490": 1795179122,
@@ -6868,6 +6872,7 @@
   "jobbank:systems analyst:50809063": 1795730404,
   "jobbank:systems analyst:50811494": 1795757183,
   "jobbank:systems analyst:50811627": 1795767512,
+  "jobbank:systems analyst:50817005": 1795818416,
   "jobbank:telecommunications analyst:49780105": 1791390300,
   "jobbank:telecommunications analyst:49818659": 1791390300,
   "jobbank:telecommunications analyst:49947219": 1791390300,
@@ -12464,6 +12469,7 @@
   "workday:tmobile.wd1/External:Summer-2027-Software-Engineering-Internship_REQ380652": 1793902819,
   "workday:tmobile.wd1/External:Summer-2027-Software-Engineering-Internship_REQ380886": 1793808448,
   "workday:tmobile.wd1/External:Summer-2027-Software-Engineering-Internship_REQ381366": 1795280226,
+  "workday:tmobile.wd1/External:Summer-2027-Software-Engineering-Internship_REQ382100": 1795818416,
   "workday:tmobile.wd1/External:Summer-2027-Software-Engineering-Internship_REQ383767": 1795387045,
   "workday:tmobile.wd1/External:Summer-2027-T-Ads-Software-Engineering-Internship_REQ381234": 1793808448,
   "workday:toyota.wd503/tmna:Software-Engineer--Early-Career-Professional-_10325071": 1789760824,
@@ -12475,6 +12481,7 @@
   "workday:transperfect.wd5/transperfect:Solutions-Engineer---Japanese-English-speaker_R2025-243610": 1788887337,
   "workday:travelers.wd5/External:Software-Engineer-I_R-51276-1": 1788394042,
   "workday:trendmicro.wd3/External:Applied-AI-Junior-Web-Developer---Ottawa--ON_R0009513": 1788394042,
+  "workday:trimble.wd1/TrimbleCareers:AI-Software-Developer-Engineer-in-Test-Intern_R58210": 1795818416,
   "workday:trimble.wd1/TrimbleCareers:Software-Engineer-Intern_R58171": 1795280226,
   "workday:trimble.wd1/TrimbleCareers:Software-Engineering-Intern_R56614": 1788410216,
   "workday:trimble.wd1/TrimbleCareers:Software-Engineering-Intern_R57676": 1788880168,
@@ -12605,5 +12612,5 @@
   "workday:zoll.wd5/ZOLLMedicalCorp:Software-Engineering-Intern_R20923": 1795544022,
   "workday:zoom.wd5/zoom:Solutions-Engineer---Federal_R19541": 1789106107
  },
- "updated_at": 1795803523
+ "updated_at": 1795818416
 }
