@@ -1,20 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1795180623,
-   "company": "Nooks",
-   "hours_open": 1905.0,
-   "title": "Software Engineer New Grad",
-   "uid": "simplify:listings:0d7e5ade-c787-44c5-9358-0e54abadfdfe"
-  },
-  {
-   "closed_at": 1795180623,
-   "company": "Notion",
-   "hours_open": 1905.0,
-   "title": "Software Engineer – Early Career - AI",
-   "uid": "simplify:listings:65650b49-1680-440d-8f63-1cc74d0ba188"
-  },
-  {
    "closed_at": 1795184699,
    "company": "drweng",
    "hours_open": 1877.4,
@@ -5599,8 +5585,22 @@
    "hours_open": 39.6,
    "title": "software developer",
    "uid": "jobbank:junior software developer:50806641"
+  },
+  {
+   "closed_at": 1795841389,
+   "company": "Source Code",
+   "hours_open": 20.5,
+   "title": "information technology (IT) analyst",
+   "uid": "jobbank:systems analyst:50811627"
+  },
+  {
+   "closed_at": 1795841389,
+   "company": "schonfeld",
+   "hours_open": 2044.9,
+   "title": "Software Engineer - Business Analytics ",
+   "uid": "greenhouse:schonfeld:7958235"
   }
  ],
- "count": 801,
- "updated_at": 1795839625
+ "count": 802,
+ "updated_at": 1795841389
 }
