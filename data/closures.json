@@ -2,13 +2,6 @@
  "closed": [
   {
    "closed_at": 1795179122,
-   "company": "Goaly",
-   "hours_open": 562.5,
-   "title": "Applied AI Engineer Early Career",
-   "uid": "simplify:listings:dd34b526-672b-4db5-b552-1a3c468ccdc4"
-  },
-  {
-   "closed_at": 1795179122,
    "company": "Bridger",
    "hours_open": 1904.5,
    "title": "Early Career Product Engineer",
@@ -5599,8 +5592,15 @@
    "hours_open": 1964.3,
    "title": "Sales Engineer",
    "uid": "ashby:interface-ai:28a37fd2-d7d6-4a23-9cc5-532617ade5ec"
+  },
+  {
+   "closed_at": 1795829567,
+   "company": "Amentum",
+   "hours_open": 846.3,
+   "title": "Software Engineer 1",
+   "uid": "simplify:listings:e53296b3-3f0e-49eb-b885-76a6319f2071"
   }
  ],
- "count": 800,
- "updated_at": 1795822883
+ "count": 801,
+ "updated_at": 1795829568
 }
