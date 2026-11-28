@@ -2,13 +2,6 @@
  "closed": [
   {
    "closed_at": 1795180623,
-   "company": "Relling",
-   "hours_open": 563.0,
-   "title": "Robotics Software Engineer New Grad",
-   "uid": "simplify:listings:b239b64e-30e5-4f51-b91a-8e3aae1ced66"
-  },
-  {
-   "closed_at": 1795180623,
    "company": "Nooks",
    "hours_open": 1905.0,
    "title": "Software Engineer New Grad",
@@ -5599,8 +5592,15 @@
    "hours_open": 749.0,
    "title": "Software Engineer 1",
    "uid": "simplify:listings:459640c9-5c1f-4230-970e-3acd1ff8a147"
+  },
+  {
+   "closed_at": 1795839625,
+   "company": "Maarut",
+   "hours_open": 39.6,
+   "title": "software developer",
+   "uid": "jobbank:junior software developer:50806641"
   }
  ],
- "count": 812,
- "updated_at": 1795838983
+ "count": 801,
+ "updated_at": 1795839625
 }
