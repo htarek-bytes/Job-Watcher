@@ -2,13 +2,6 @@
  "closed": [
   {
    "closed_at": 1795184699,
-   "company": "drweng",
-   "hours_open": 1877.4,
-   "title": "Software Developer Intern",
-   "uid": "greenhouse:drweng:7991196"
-  },
-  {
-   "closed_at": 1795184699,
    "company": "Takt",
    "hours_open": 559.1,
    "title": "Associate Software Engineer - Frontend",
@@ -5599,8 +5592,15 @@
    "hours_open": 2044.9,
    "title": "Software Engineer - Business Analytics ",
    "uid": "greenhouse:schonfeld:7958235"
+  },
+  {
+   "closed_at": 1795841967,
+   "company": "zscaler",
+   "hours_open": 147.7,
+   "title": "Software Development Engineer (Salesforce)",
+   "uid": "greenhouse:zscaler:5239096007"
   }
  ],
- "count": 802,
- "updated_at": 1795841389
+ "count": 801,
+ "updated_at": 1795841967
 }
