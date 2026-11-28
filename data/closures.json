@@ -1,90 +1,6 @@
 {
  "closed": [
   {
-   "closed_at": 1795179122,
-   "company": "Bridger",
-   "hours_open": 1904.5,
-   "title": "Early Career Product Engineer",
-   "uid": "simplify:listings:e2dbbfb0-5164-4098-99ba-6fc554978c24"
-  },
-  {
-   "closed_at": 1795179122,
-   "company": "Cerebras",
-   "hours_open": 1904.5,
-   "title": "Kernel Engineer New Grad",
-   "uid": "simplify:listings:fabf124a-32b2-45ba-bffe-d3084937296a"
-  },
-  {
-   "closed_at": 1795179122,
-   "company": "Faros AI",
-   "hours_open": 1904.5,
-   "title": "Software Engineer New Grad",
-   "uid": "simplify:listings:b638e646-a8c7-484b-9b2b-51e2b939e5c6"
-  },
-  {
-   "closed_at": 1795179122,
-   "company": "Cerebras",
-   "hours_open": 1904.5,
-   "title": "Software Engineer New Grad",
-   "uid": "simplify:listings:c0479012-54e4-478d-922f-1948cd356ac4"
-  },
-  {
-   "closed_at": 1795179686,
-   "company": "Source Code",
-   "hours_open": 0.2,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:systems analyst:50698776"
-  },
-  {
-   "closed_at": 1795179686,
-   "company": "Netholabs",
-   "hours_open": 2.6,
-   "title": "Junior AI/ML Engineer",
-   "uid": "simplify:listings:6f424929-8ec3-4853-902f-a11ffcc2f277"
-  },
-  {
-   "closed_at": 1795179686,
-   "company": "reddit",
-   "hours_open": 829.2,
-   "title": "Machine Learning Engineer",
-   "uid": "greenhouse:reddit:7131932"
-  },
-  {
-   "closed_at": 1795179686,
-   "company": "Hyphenate",
-   "hours_open": 562.7,
-   "title": "Software Engineer New Grad",
-   "uid": "simplify:listings:63acbea3-5828-4315-8daa-d1b33d6b868c"
-  },
-  {
-   "closed_at": 1795180623,
-   "company": "Source Code",
-   "hours_open": 2.8,
-   "title": "information technology (IT) analyst",
-   "uid": "jobbank:control systems analyst:50768083"
-  },
-  {
-   "closed_at": 1795180623,
-   "company": "Fop experts conseils inc.",
-   "hours_open": 0.4,
-   "title": "information technology (IT) security analyst",
-   "uid": "jobbank:information security analyst:50683490"
-  },
-  {
-   "closed_at": 1795180623,
-   "company": "Ciena",
-   "hours_open": 670.1,
-   "title": "Product Validation Engineer New Grad",
-   "uid": "simplify:listings:70a2bd03-052e-4163-b668-0d7b79766e19"
-  },
-  {
-   "closed_at": 1795180623,
-   "company": "RoadRunner",
-   "hours_open": 2.8,
-   "title": "Forward Deployed Engineer New Grad",
-   "uid": "simplify:listings:44e8257d-f41b-4baa-baa5-5db7f9abd0d2"
-  },
-  {
    "closed_at": 1795180623,
    "company": "Relling",
    "hours_open": 563.0,
@@ -5599,8 +5515,92 @@
    "hours_open": 846.3,
    "title": "Software Engineer 1",
    "uid": "simplify:listings:e53296b3-3f0e-49eb-b885-76a6319f2071"
+  },
+  {
+   "closed_at": 1795838983,
+   "company": "Sanofi",
+   "hours_open": 9.9,
+   "title": "Digital Graduate Program - Product Analyst - Data and AI Engineer",
+   "uid": "simplify:listings:08996931-0906-4f59-8850-7cebf5991d70"
+  },
+  {
+   "closed_at": 1795838983,
+   "company": "Ciena",
+   "hours_open": 185.7,
+   "title": "Embedded Software Engineer New Grad",
+   "uid": "simplify:listings:65f59b1d-155c-4c30-98f6-84ab84d6b460"
+  },
+  {
+   "closed_at": 1795838983,
+   "company": "Sierra Nevada Corporation",
+   "hours_open": 139.8,
+   "title": "Software Engineer 1",
+   "uid": "simplify:listings:65b1d554-dd51-4c64-beb3-aa0184ed3477"
+  },
+  {
+   "closed_at": 1795838983,
+   "company": "Kyndryl",
+   "hours_open": 185.7,
+   "title": "Early Career Consult Program - Associate Data Engineer",
+   "uid": "simplify:listings:c2d2ad15-8c15-41f3-a588-da205f5d342a"
+  },
+  {
+   "closed_at": 1795838983,
+   "company": "Maarut",
+   "hours_open": 5.7,
+   "title": "software developer",
+   "uid": "jobbank:entry level software developer:50817186"
+  },
+  {
+   "closed_at": 1795838983,
+   "company": "Citi",
+   "hours_open": 844.9,
+   "title": "Application Development Analyst New Grad",
+   "uid": "simplify:listings:43b8e015-cd30-4fd8-888c-7a2f618cb919"
+  },
+  {
+   "closed_at": 1795838983,
+   "company": "Sallie Mae",
+   "hours_open": 947.1,
+   "title": "Engineer 1",
+   "uid": "simplify:listings:6bd9b720-b688-4436-b0fe-a96710105de2"
+  },
+  {
+   "closed_at": 1795838983,
+   "company": "Axos Bank",
+   "hours_open": 1228.3,
+   "title": "Junior AI Engineer",
+   "uid": "simplify:listings:2d138a0f-44c8-4505-9071-ff9072e9a02b"
+  },
+  {
+   "closed_at": 1795838983,
+   "company": "Micron Technology",
+   "hours_open": 2061.7,
+   "title": "Product Test Engineer New Grad",
+   "uid": "simplify:listings:54cabb56-5337-4344-9f40-9ad54dc468b3"
+  },
+  {
+   "closed_at": 1795838983,
+   "company": "Pennsylvania State University",
+   "hours_open": 2063.5,
+   "title": "Operations Research Engineer Intern - Undersea Systems",
+   "uid": "simplify:listings:643187a2-24a5-4866-8cbb-5dd7214a4755"
+  },
+  {
+   "closed_at": 1795838983,
+   "company": "RTX",
+   "hours_open": 185.7,
+   "title": "FPGA/Digital Design Engineer 1",
+   "uid": "simplify:listings:0fc6c344-bd72-49f8-a02b-b14cf0f843b4"
+  },
+  {
+   "closed_at": 1795838983,
+   "company": "RTX",
+   "hours_open": 749.0,
+   "title": "Software Engineer 1",
+   "uid": "simplify:listings:459640c9-5c1f-4230-970e-3acd1ff8a147"
   }
  ],
- "count": 801,
- "updated_at": 1795829568
+ "count": 812,
+ "updated_at": 1795838983
 }
